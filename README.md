@@ -1,4 +1,4 @@
-# Kyoto University Web Document Leads Corpus
+# Wikipedia Annotated Corpus
 
 ## Overview
 

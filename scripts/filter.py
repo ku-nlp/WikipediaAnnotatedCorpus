@@ -24,11 +24,15 @@ def filter_tags(document: Document) -> Document:
 
 
 def main():
-    path = Path(sys.argv[1])
-    for doc_path in path.glob("**/*.knp") if path.is_dir() else [path]:
-        print(f"filtering {doc_path}", file=sys.stderr)
-        filtered_document = filter_tags(Document.from_knp(doc_path.read_text()))
-        doc_path.write_text(filtered_document.to_knp())
+    for path_str in sys.argv[1:]:
+        path = Path(path_str)
+        if path.exists() is False:
+            print(f"{path} not found and skipped", file=sys.stderr)
+            continue
+        for doc_path in path.glob("**/*.knp") if path.is_dir() else [path]:
+            print(f"filtering {doc_path}", file=sys.stderr)
+            filtered_document = filter_tags(Document.from_knp(doc_path.read_text()))
+            doc_path.write_text(filtered_document.to_knp())
 
 
 if __name__ == "__main__":

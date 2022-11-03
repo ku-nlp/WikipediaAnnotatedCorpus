@@ -1,8 +1,8 @@
-# S-ID:wiki00206831-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00206831-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/01 MEMO:
 * 3D
-+ 1D
-タガログ たがろぐ タガログ 名詞 6 固有名詞 3 * 0 * 0
-+ 4D
++ 1D <NE:OPTIONAL:タガログ>
+タガログ たがろぐ タガログ 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
++ 4D <rel type="ノ？" target="タガログ" sid="wiki00206831-00-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 2D
@@ -10,108 +10,106 @@
 フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
-+ 4D
++ 4D <rel type="=≒" target="語" sid="wiki00206831-00-01" id="1"/><rel type="ノ？" target="フィリピン" sid="wiki00206831-00-01" id="2"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00206831-00-01" id="1"/><rel type="ノ" target="言語" sid="wiki00206831-00-01" id="3"/><rel type="=" target="語" sid="wiki00206831-00-01" id="1"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0
++ -1D <rel type="ガ" target="語" sid="wiki00206831-00-01" id="1"/><rel type="ノ" target="言語" sid="wiki00206831-00-01" id="3"/><rel type="=構" target="語" sid="wiki00206831-00-01" id="1"/><rel type="=構" mode="AND" target="言語" sid="wiki00206831-00-01" id="3"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00206831-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D <rel type="=" target="タガログ" sid="wiki00206831-00-01" id="0"/>
-タガログ たがろぐ タガログ 名詞 6 固有名詞 3 * 0 * 0
+# S-ID:wiki00206831-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/01 MEMO:
 * -1D
-+ -1D
-ご ご ご 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 1D <rel type="=" target="タガログ" sid="wiki00206831-00-01" id="0"/><NE:OPTIONAL:タガログ>
+タガログ たがろぐ タガログ 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
++ -1D <rel type="=" target="語" sid="wiki00206831-00-01" id="1"/>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 EOS
-# S-ID:wiki00206831-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00206831-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/07 MEMO:
 * 1D
-+ 1D <rel type="=" target="タガログ" sid="wiki00206831-00-01" id="0"/>
-タガル タガル タガル 名詞 6 サ変名詞 2 * 0 * 0
-+ 2D <rel type="=" target="一つ" sid="wiki00206831-00-01" id="4"/>
++ 1D <rel type="=" target="タガログ" sid="wiki00206831-00-01" id="0"/><NE:OPTIONAL:タガル>
+タガル たがる タガル 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="タガル" sid="wiki00206831-01" id="0"/><rel type="=構" target="語" sid="wiki00206831-00-01" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00206831-00-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00206831-00-01" id="1"/><rel type="ト" target="語" sid="wiki00206831-01" id="1"/>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00206831-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000
+# S-ID:wiki00206831-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/11/01 MEMO:
 * 1D
 + 1D <rel type="=" target="フィリピン" sid="wiki00206831-00-01" id="2"/><NE:LOCATION:フィリピン>
-フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 7D
-+ 9D <rel type="ノ" target="フィリピン" sid="wiki00206831-02" id="0"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0
-* 3A
-+ 3A <rel type="ノ" target="フィリピン" sid="wiki00206831-02" id="0"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
 * 4D
-+ 4D <rel type="=" target="首都" sid="wiki00206831-02" id="2"/><NE:LOCATION:マニラ>
++ 7D <rel type="ノ" target="フィリピン" sid="wiki00206831-02" id="0"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0
+* 3D
++ 3D <rel type="ノ" target="フィリピン" sid="wiki00206831-02" id="0"/>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
++ 4D <rel type="=構" target="首都" sid="wiki00206831-02" id="2"/><rel type="修飾" target="首都" sid="wiki00206831-02" id="2"/><rel type="ノ？" target="フィリピン" sid="wiki00206831-02" id="0"/><NE:LOCATION:マニラ>
 マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0
-* 5D
+* 4D
 + 7D <rel type="ガ" target="南部" sid="wiki00206831-02" id="7"/><rel type="ヲ" target="マニラ" sid="wiki00206831-02" id="3"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2
-* 6D
+* 5D
 + 6D
-ルソン ルソン ルソン 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
-+ 7D <NE:LOCATION:ルソン島>
+ルソン るそん ルソン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
++ 7D <rel type="ノ？" target="フィリピン" sid="wiki00206831-02" id="0"/><NE:LOCATION:ルソン島>
 島 とう 島 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-+ 8D <rel type="ノ" target="島" sid="wiki00206831-02" id="6"/>
++ 8D <rel type="ノ" target="島" sid="wiki00206831-02" id="6"/><rel type="修飾" target="うち" sid="wiki00206831-02" id="1"/>
 南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
-* 7D
+* 6D
 + 9D <rel type="ヲ" target="南部" sid="wiki00206831-02" id="7"/>
 中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
-* 8D
+* 7D
 + 10D <rel type="ガ" target="言語" sid="wiki00206831-02" id="10"/><rel type="ニ" target="不特定:人"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-* 13D
-+ 16D <rel type="ガ" target="語" sid="wiki00206831-00-01" id="1"/><rel type="=" target="一つ" sid="wiki00206831-00-01" id="4"/>
+* 12P
++ 16P <rel type="ガ" target="語" sid="wiki00206831-00-01" id="1"/><rel type="=構" target="語" sid="wiki00206831-00-01" id="1"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 13D
-+ 16D
+* 12D
++ 16D <NE:OPTIONAL:英>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 ともに ともに ともに 副詞 8 * 0 * 0 * 0
-* 11D
+* 10D
 + 14D <rel type="=" target="フィリピン" sid="wiki00206831-02" id="0"/><NE:LOCATION:フィリピン>
 フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 12D
+* 11D
 + 14D
 公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0
-+ 15D <rel type="=" target="言語" sid="wiki00206831-02" id="10"/>
++ 15D <rel type="ノ" target="フィリピン" sid="wiki00206831-02" id="12"/><rel type="=構" target="語" sid="wiki00206831-00-01" id="1"/><rel type="修飾" target="公用" sid="wiki00206831-02" id="13"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
-* 13D
+* 12D
 + 16D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 * -1D
-+ -1D <rel type="ガ" target="英語とともに" sid="wiki00206831-02" id="11"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="英語" sid="wiki00206831-02" id="11"/><rel type="ガ" mode="AND" target="語" sid="wiki00206831-00-01" id="1"/><rel type="トシテ" target="語" sid="wiki00206831-02" id="14"/><rel type="ニ" target="フィリピン" sid="wiki00206831-02" id="12"/>
 採用 さいよう 採用 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00206831-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00206831-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/01 MEMO:
 * 1D
-+ 1D
-オーストロネシア オーストロネシア オーストロネシア 名詞 6 普通名詞 1 * 0 * 0
-+ 2D
++ 1D <NE:OPTIONAL:オーストロネシア>
+オーストロネシア おーすとろねしあ オーストロネシア 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="オーストロネシア" sid="wiki00206831-03" id="0"/><rel type="=≒" target="語" sid="wiki00206831-00-01" id="1"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * -1D

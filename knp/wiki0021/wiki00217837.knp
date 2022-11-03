@@ -1,12 +1,12 @@
-# S-ID:wiki00217837-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000
+# S-ID:wiki00217837-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000 MOD:2022/10/28 MEMO:
 * 17D
-+ 1D
-二 に 二 名詞 6 数詞 7 * 0 * 0
 + 2D
+二 に 二 名詞 6 数詞 7 * 0 * 0
++ 2D <rel type="ガ" target="政党" sid="wiki00217837-00-01" id="2"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0
-+ 3D
++ 3D <rel type="修飾" target="二" sid="wiki00217837-00-01" id="0"/><rel type="修飾" mode="AND" target="大" sid="wiki00217837-00-01" id="1"/>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0
-+ 23D
++ 23D <rel type="トイウ" target="政党" sid="wiki00217837-00-01" id="2"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
@@ -14,25 +14,25 @@
 * 2D
 + 5D <rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0
-+ 6D <rel type="ノ" target="政党" sid="wiki00217837-00-01" id="4"/>
++ 6D <rel type="ノ" target="政党" sid="wiki00217837-00-01" id="4"/><rel type="=≒" target="制" sid="wiki00217837-00-01" id="3"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 17D
-+ 23D <rel type="ガ" target="制" sid="wiki00217837-00-01" id="3"/><rel type="ノ" target="制" sid="wiki00217837-00-01" id="5"/><rel type="=" target="制" sid="wiki00217837-00-01" id="3"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0
+* 17P
++ 23P <rel type="ガ" target="制" sid="wiki00217837-00-01" id="3"/><rel type="ノ" target="制" sid="wiki00217837-00-01" id="5"/><rel type="=構" target="制" sid="wiki00217837-00-01" id="5"/><rel type="=構" mode="AND" target="制" sid="wiki00217837-00-01" id="3"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 5D
-+ 9D
-二 に 二 名詞 6 数詞 7 * 0 * 0
++ 9D <rel type="=" target="二" sid="wiki00217837-00-01" id="0"/>
+二 ふた 二 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 の の の 助詞 9 格助詞 1 * 0 * 0
 * 5D
 + 9D <rel type="ガ" target="政党" sid="wiki00217837-00-01" id="9"/>
 主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
 * 12D
-+ 17D <rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/>
++ 17D <rel type="修飾" target="主要な" sid="wiki00217837-00-01" id="8"/><rel type="修飾" mode="AND" target="二つ" sid="wiki00217837-00-01" id="7"/><rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/><rel type="=構" mode="AND" target="二つ" sid="wiki00217837-00-01" id="7"/>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 8D
@@ -40,10 +40,10 @@
 最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0
 の の の 助詞 9 格助詞 1 * 0 * 0
 * 8D
-+ 12D <rel type="ガ" target="選挙" sid="wiki00217837-00-01" id="12"/>
++ 12D
 主な おもな 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
 * 12D
-+ 17D
++ 17D <rel type="時間" target="最近" sid="wiki00217837-00-01" id="10"/><rel type="修飾" target="主な" sid="wiki00217837-00-01" id="11"/>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * 11D
@@ -54,17 +54,17 @@
 得票 とくひょう 得票 名詞 6 サ変名詞 2 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
 * 12D
-+ 16D
++ 16D <rel type="ノ？" target="政党" sid="wiki00217837-00-01" id="9"/>
 議席 ぎせき 議席 名詞 6 普通名詞 1 * 0 * 0
 + 17D <rel type="ノ" target="議席" sid="wiki00217837-00-01" id="15"/>
 数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 13D
-+ 18D <rel type="ガ" target="政党" sid="wiki00217837-00-01" id="9"/><rel type="ヲ" target="得票" sid="wiki00217837-00-01" id="14"/>
++ 18D <rel type="ガ" target="政党" sid="wiki00217837-00-01" id="9"/><rel type="ヲ" target="得票" sid="wiki00217837-00-01" id="14"/><rel type="ヲ" mode="AND" target="数" sid="wiki00217837-00-01" id="16"/><rel type="外の関係" target="状態" sid="wiki00217837-00-01" id="18"/>
 保って たもって 保つ 動詞 2 * 0 子音動詞タ行 6 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-* 17P
-+ 23P
+* 16P
++ 21P <rel type="トイウ" target="保っている" sid="wiki00217837-00-01" id="17"/>
 状態 じょうたい 状態 名詞 6 普通名詞 1 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -73,40 +73,40 @@
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 16D
-+ 21D
++ 21D <rel type="=構" target="それ" sid="wiki00217837-00-01" id="19"/><rel type="ノ" target="政治" sid="wiki00217837-00-01" id="22"/>
 前提 ぜんてい 前提 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 17D
-+ 23D <rel type="ガ" target="体制" sid="wiki00217837-00-01" id="23"/><rel type="ヲ" target="それ" sid="wiki00217837-00-01" id="19"/>
++ 23D <rel type="ヲ" target="それ" sid="wiki00217837-00-01" id="19"/><rel type="ガ" target="体制" sid="wiki00217837-00-01" id="23"/><rel type="ト" target="前提" sid="wiki00217837-00-01" id="20"/>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10
 * -1D
 + 23D
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="制" sid="wiki00217837-00-01" id="3"/><rel type="ノ" target="政治" sid="wiki00217837-00-01" id="22"/>
++ -1D <rel type="ガ" target="制" sid="wiki00217837-00-01" id="3"/><rel type="ノ" target="政治" sid="wiki00217837-00-01" id="22"/><rel type="=構" target="制" sid="wiki00217837-00-01" id="3"/>
 体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00217837-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-7.00000
-* 1D
-+ 2D
-にだい にだい にだい 名詞 6 普通名詞 1 * 0 * 0
-+ 2D <rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/>
-せいとう せいとう せいとうだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
-* 2D
-+ 6D <rel type="=" target="制" sid="wiki00217837-00-01" id="3"/>
-せい せい せい 名詞 6 副詞的名詞 9 * 0 * 0
+# S-ID:wiki00217837-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-7.00000 MOD:2022/10/28 MEMO:
+* 1P
++ 2D <rel type="=" target="二" sid="wiki00217837-00-01" id="0"/>
+に に に 名詞 6 数詞 7 * 0 * 0
++ 2D <rel type="=" target="大" sid="wiki00217837-00-01" id="1"/>
+だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0
++ 3D <rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/>
+せいとう せいとう せいとう 名詞 6 普通名詞 1 * 0 * 0
++ 6P <rel type="=" target="制" sid="wiki00217837-00-01" id="3"/>
+せい せい せい 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1D
-+ 6D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 5D
++ 6D <NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0
-+ 6D
-two two two 名詞 6 組織名 6 * 0 * 0
++ 6D <rel type="=" target="政党" sid="wiki00217837-00-01" id="2"/>
+two two two 名詞 6 数詞 7 * 0 * 0
 ‐ ‐ ‐ 特殊 1 記号 5 * 0 * 0
-+ -1D
-party party party 名詞 6 組織名 6 * 0 * 0
+party party party 名詞 6 普通名詞 1 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
-system system system 名詞 6 組織名 6 * 0 * 0
++ -1D <rel type="デ" target="英" sid="wiki00217837-00-02" id="4"/><rel type="=" target="制" sid="wiki00217837-00-01" id="3"/>
+system system system 名詞 6 普通名詞 1 * 0 * 0
 EOS

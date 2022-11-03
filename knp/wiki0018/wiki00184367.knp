@@ -1,4 +1,4 @@
-# S-ID:wiki00184367-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/29 MEMO:
 * 2D
 + 6D <rel type="ノ？" target="国" sid="wiki00184367-00" id="5"/><NE:LOCATION:カザン>
 カザン かざん カザン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -22,7 +22,7 @@
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00184367-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/09/29 MEMO:
 * 1D
 + 1D <NE:OPTIONAL:ロシア>
 ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
@@ -44,7 +44,7 @@ EOS
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00184367-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/29 MEMO:
 * 1P
 + 1D
 ヴォルガ ゔぉるが ヴォルガ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
@@ -79,7 +79,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
 + 11D
 陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0
-+ 12D <rel type="ニヨッテ" target="水上" sid="wiki00184367-02-01" id="9"/><rel type="ニヨッテ" mode="AND" target="陸上" sid="wiki00184367-02-01" id="10"/>
++ 12D <rel type="ニオイテ" target="水上" sid="wiki00184367-02-01" id="9"/><rel type="ニオイテ" mode="AND" target="陸上" sid="wiki00184367-02-01" id="10"/>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
@@ -87,14 +87,14 @@ EOS
 要衝 ようしょう 要衝 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00184367-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/29 MEMO:
 * -1D
 + 1D
 クイビシェフ くいびしぇふ クイビシェフ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 + -1D <rel type="=≒" target="川" sid="wiki00184367-02-01" id="1"/><rel type="ノ？" target="連邦" sid="wiki00184367-00" id="2"/><memo text="ヴォルガ川本流のクイビシェフ・ダムによって造られた人造湖"/><NE:LOCATION:クイビシェフ湖>
 湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 EOS
-# S-ID:wiki00184367-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/09/29 MEMO:
 * 1D
 + 1D
 タタール たたーる タタール 名詞 6 固有名詞 3 * 0 * 0
@@ -127,7 +127,7 @@ EOS
 * 8P
 + 9D
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0
-+ 13P <rel type="修飾" target="文化" sid="wiki00184367-03" id="8"/><rel type="=≒" target="クレムリン" sid="wiki00184367-03" id="4"/>
++ 13P <rel type="=≒" target="クレムリン" sid="wiki00184367-03" id="4"/><rel type="修飾" target="文化" sid="wiki00184367-03" id="8"/><rel type="修飾" mode="AND" target="多く" sid="wiki00184367-03" id="7"/>
 遺産 いさん 遺産 名詞 6 普通名詞 1 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
 * 8D
@@ -150,7 +150,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00184367-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/29 MEMO:
 * 1P
 + 1D
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0
@@ -162,7 +162,7 @@ EOS
 キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 5D
-+ 8D <rel type="ガ" target="教" sid="wiki00184367-04" id="1"/><rel type="ガ" mode="AND" target="キリスト教" sid="wiki00184367-04" id="2"/>
++ 8D <rel type="ガ" target="教" sid="wiki00184367-04" id="1"/><rel type="ガ" mode="AND" target="キリスト教" sid="wiki00184367-04" id="2"/><rel type="ニ" target="カザン" sid="wiki00184367-00" id="0"/>
 混在 こんざい 混在 名詞 6 サ変名詞 2 * 0 * 0
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8
@@ -185,13 +185,13 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00184367-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00184367-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/09/29 MEMO:
 * 1D
 + 1D <rel type="=" target="カザン" sid="wiki00184367-00" id="0"/><NE:LOCATION:カザン>
 カザン かざん カザン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 2D
-+ 2D <rel type="ノ？" target="カザン" sid="wiki00184367-05" id="0"/>
++ 2D <rel type="ノ" target="カザン" sid="wiki00184367-05" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 7P

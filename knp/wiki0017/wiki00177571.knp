@@ -1,12 +1,12 @@
-# S-ID:wiki00177571-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/08/22 MEMO:
+# S-ID:wiki00177571-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/09/23 MEMO:
 * 14D
-+ 18D
++ 17D
 煙突 えんとつ 煙突 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
-+ 2D
++ 2D <rel type="ガ" target="不特定:物"/>
 燃焼 ねんしょう 燃焼 名詞 6 サ変名詞 2 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
@@ -28,7 +28,7 @@
 * 10D
 + 7D <rel type="ガ" target="気流" sid="wiki00177571-00-01" id="7"/>
 上昇 じょうしょう 上昇 名詞 6 サ変名詞 2 * 0 * 0
-+ 12D <rel type="修飾" target="上昇" sid="wiki00177571-00-01" id="6"/>
++ 11D <rel type="修飾" target="上昇" sid="wiki00177571-00-01" id="6"/>
 気流 きりゅう 気流 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 8D
@@ -41,31 +41,30 @@
 * 10D
 + 11D <rel type="ニヨッテ" target="風" sid="wiki00177571-00-01" id="8"/>
 外乱 がいらん 外乱 名詞 6 普通名詞 1 * 0 * 0
-+ 12D
 から から から 助詞 9 格助詞 1 * 0 * 0
 * 12P
-+ 14P <rel type="ガ" target="物" sid="wiki00177571-00-01" id="17"/><rel type="ヲ" target="気流" sid="wiki00177571-00-01" id="7"/><rel type="カラ" target="外乱" sid="wiki00177571-00-01" id="10"/>
++ 13P <rel type="ガ" target="物" sid="wiki00177571-00-01" id="17"/><rel type="ヲ" target="気流" sid="wiki00177571-00-01" id="7"/><rel type="カラ" target="外乱" sid="wiki00177571-00-01" id="10"/>
 守り まもり 守る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 12D
-+ 14D <rel type="=" target="燃焼" sid="wiki00177571-00-01" id="1"/>
++ 13D <rel type="=" target="燃焼" sid="wiki00177571-00-01" id="1"/>
 燃焼 ねんしょう 燃焼 名詞 6 サ変名詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 14D
-+ 18D <rel type="ガ" target="物" sid="wiki00177571-00-01" id="17"/><rel type="ヲ" target="燃焼" sid="wiki00177571-00-01" id="13"/>
++ 17D <rel type="ヲ" target="燃焼" sid="wiki00177571-00-01" id="13"/><rel type="ガ" target="物" sid="wiki00177571-00-01" id="17"/>
 促進 そくしん 促進 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 * 14D
-+ 16D
++ 15D
 筒 つつ 筒 名詞 6 普通名詞 1 * 0 * 0
 + 17D <rel type="ノ" target="筒" sid="wiki00177571-00-01" id="15"/>
 状 じょう 状 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ 18D <rel type="トイウ" target="状" sid="wiki00177571-00-01" id="16"/>
++ 17D <rel type="トイウ" target="状" sid="wiki00177571-00-01" id="16"/>
 構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="煙突" sid="wiki00177571-00-01" id="0"/><rel type="=構" target="煙突" sid="wiki00177571-00-01" id="0"/><rel type="修飾" target="構造" sid="wiki00177571-00-01" id="17"/>
++ -1D <rel type="ガ" target="煙突" sid="wiki00177571-00-01" id="0"/><rel type="=構" target="煙突" sid="wiki00177571-00-01" id="0"/><rel type="修飾" target="構造" sid="wiki00177571-00-01" id="16"/><rel type="修飾" mode="AND" target="状" sid="wiki00177571-00-01" id="15"/>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
@@ -75,7 +74,7 @@ EOS
 + -1D <rel type="=" target="煙突" sid="wiki00177571-00-01" id="0"/>
 えんとつ えんとつ えんとつ 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00177571-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/08/22 MEMO:
+# S-ID:wiki00177571-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/23 MEMO:
 * 1D
 + 2D
 人体 じんたい 人体 名詞 6 普通名詞 1 * 0 * 0
@@ -114,7 +113,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00177571-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:120.00000 MOD:2022/08/22 MEMO:
+# S-ID:wiki00177571-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:120.00000 MOD:2022/09/23 MEMO:
 * 9D
 + 9D
 なお なお なお 副詞 8 * 0 * 0 * 0 <NE:OPTIONAL:tail>
@@ -132,11 +131,11 @@ EOS
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * 5D
-+ 5D
++ 5D <rel type="=構" target="煙突" sid="wiki00177571-02-01" id="2"/>
 チムニー ちむにー チムニー 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 9P
-+ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="煙突" sid="wiki00177571-02-01" id="2"/><rel type="ト" target="チムニー" sid="wiki00177571-02-01" id="4"/><rel type="デ" target="英語" sid="wiki00177571-02-01" id="3"/><rel type="=構" target="煙突" sid="wiki00177571-02-01" id="2"/>
++ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="煙突" sid="wiki00177571-02-01" id="2"/><rel type="ト" target="チムニー" sid="wiki00177571-02-01" id="4"/><rel type="デ" target="英語" sid="wiki00177571-02-01" id="3"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 が が が 助詞 9 接続助詞 3 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -162,7 +161,7 @@ EOS
 + -1D <rel type="=" target="チムニー" sid="wiki00177571-02-01" id="4"/>
 chimney chimney chimney 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00177571-02-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/22 MEMO:
+# S-ID:wiki00177571-02-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/23 MEMO:
 * -1D
 + -1D <rel type="=" target="ファンネル" sid="wiki00177571-02-01" id="8"/>
 funnel funnel funnel 名詞 6 普通名詞 1 * 0 * 0

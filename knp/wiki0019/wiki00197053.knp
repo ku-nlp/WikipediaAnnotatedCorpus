@@ -1,8 +1,8 @@
-# S-ID:wiki00197053-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00197053-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/19 MEMO:
 * 7D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="企業" sid="wiki00197053-00-01" id="2"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ニヨッテ" target="試験" sid="wiki00197053-00-01" id="1"/>
 入社 にゅうしゃ 入社 名詞 6 サ変名詞 2 * 0 * 0
-+ 9D
++ 9D <rel type="修飾" target="入社" sid="wiki00197053-00-01" id="0"/><rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="不特定:人"/>
 試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
@@ -17,11 +17,11 @@
 * 4D
 + 5D
 正 せい 正 名詞 6 普通名詞 1 * 0 * 0
-+ 6D
++ 6D <rel type="ノ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="修飾" target="正" sid="wiki00197053-00-01" id="4"/>
 社員 しゃいん 社員 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 5D
-+ 7D <rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="社員" sid="wiki00197053-00-01" id="5"/>
++ 7D <rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="社員" sid="wiki00197053-00-01" id="5"/><rel type="外の関係" target="ため" sid="wiki00197053-00-01" id="7"/>
 採用 さいよう 採用 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 * 6D
@@ -29,22 +29,22 @@
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 7D
-+ 9D <rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="試験" sid="wiki00197053-00-01" id="9"/>
++ 9D <rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="試験" sid="wiki00197053-00-01" id="9"/><rel type="修飾" target="ため" sid="wiki00197053-00-01" id="7"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="試験" sid="wiki00197053-00-01" id="1"/><rel type="=" target="試験" sid="wiki00197053-00-01" id="1"/>
++ -1D <rel type="ガ" target="試験" sid="wiki00197053-00-01" id="1"/><rel type="=構" target="試験" sid="wiki00197053-00-01" id="1"/>
 試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00197053-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00197053-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/19 MEMO:
 * -1D
-+ 1D <rel type="=" target="正" sid="wiki00197053-00-01" id="4"/>
++ 1D <rel type="=" target="入社" sid="wiki00197053-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ニ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ニヨッテ" target="しけん" sid="wiki00197053-00-02" id="1"/>
 にゅうしゃ にゅうしゃ にゅうしゃ 名詞 6 サ変名詞 2 * 0 * 0
-+ -1D <rel type="=" target="試験" sid="wiki00197053-00-01" id="9"/>
++ -1D <rel type="=" target="試験" sid="wiki00197053-00-01" id="1"/><rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="にゅうしゃ" sid="wiki00197053-00-02" id="0"/>
 しけん しけん しけん 名詞 6 サ変名詞 2 * 0 * 0
 EOS
-# S-ID:wiki00197053-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00197053-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/10/07 MEMO:
 * 2D
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0
@@ -67,11 +67,11 @@ EOS
 + 6D
 大きく おおきく 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本連用形 7
 * -1D
-+ -1D <rel type="ガ" target="方法" sid="wiki00197053-01" id="1"/>
++ -1D <rel type="ニヨッテ" target="会社" sid="wiki00197053-01" id="3"/><rel type="ガ" target="方法" sid="wiki00197053-01" id="1"/><rel type="ガ" mode="AND" target="過程" sid="wiki00197053-01" id="2"/>
 異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00197053-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00197053-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/19 MEMO:
 * 4D
 + 9D
 また また また 副詞 8 * 0 * 0 * 0
@@ -79,73 +79,73 @@ EOS
 * 2D
 + 2D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 5D <rel type="=" target="会社" sid="wiki00197053-01" id="3"/>
++ 5D <rel type="ノ？" target="日本" sid="wiki00197053-02" id="1"/><rel type="=" target="企業" sid="wiki00197053-00-01" id="2"/><memo text="日本企業に限定しているが、イコールのままとした"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 4D
 + 4D
 正 せい 正 名詞 6 普通名詞 1 * 0 * 0
-+ 5D <rel type="=" target="社員" sid="wiki00197053-00-01" id="5"/>
++ 5D <rel type="=" target="社員" sid="wiki00197053-00-01" id="5"/><rel type="修飾" target="正" sid="wiki00197053-02" id="3"/>
 社員 しゃいん 社員 名詞 6 普通名詞 1 * 0 * 0
-+ 9D <rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/><rel type="ヲ" target="社員" sid="wiki00197053-02" id="4"/>
++ 9D <rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/><rel type="ヲ" target="社員" sid="wiki00197053-02" id="4"/><rel type="=" target="採用する" sid="wiki00197053-00-01" id="6"/>
 採用 さいよう 採用 名詞 6 サ変名詞 2 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 4D
-+ 7D
-新卒 しんそつ 新卒 名詞 6 普通名詞 1 * 0 * 0
 + 8D
+新卒 しんそつ 新卒 名詞 6 普通名詞 1 * 0 * 0
++ 8D <rel type="ヲ" target="採用" sid="wiki00197053-02" id="8"/><rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/>
 一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0
-+ 9D <rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/><rel type="ヲ" target="新卒" sid="wiki00197053-02" id="6"/>
++ 9D <rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/><rel type="ヲ" target="新卒" sid="wiki00197053-02" id="6"/><rel type="デ" target="一括" sid="wiki00197053-02" id="7"/><rel type="デ" mode="？" target="なし"/><rel type="=≒" target="採用" sid="wiki00197053-02" id="5"/>
 採用 さいよう 採用 名詞 6 サ変名詞 2 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="採用" sid="wiki00197053-02" id="8"/>
++ -1D <rel type="ガ" target="採用" sid="wiki00197053-02" id="8"/><rel type="ノ" target="採用" sid="wiki00197053-02" id="5"/><rel type="=構" target="採用" sid="wiki00197053-02" id="8"/><rel type="デ" target="採用" sid="wiki00197053-02" id="5"/>
 基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00197053-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000
+# S-ID:wiki00197053-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2022/10/19 MEMO:
 * 1P
 + 1D
 公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0
 + 2D <rel type="ノ" target="公務" sid="wiki00197053-03" id="0"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0
-+ 5P
++ 5P <rel type="ガ" target="不特定:人"/><rel type="修飾" target="員" sid="wiki00197053-03" id="1"/><rel type="=≒" target="試験" sid="wiki00197053-00-01" id="1"/>
 試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
 * 3D
 + 4D
 教員 きょういん 教員 名詞 6 普通名詞 1 * 0 * 0
-+ 5D <rel type="ガ" target="企業" sid="wiki00197053-02" id="2"/><rel type="ヲ" target="教員" sid="wiki00197053-03" id="3"/>
++ 5D <rel type="ヲ" target="教員" sid="wiki00197053-03" id="3"/><rel type="ガ" target="不特定:人"/>
 採用 さいよう 採用 名詞 6 サ変名詞 2 * 0 * 0
-+ 8D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="採用" sid="wiki00197053-03" id="4"/><rel type="=≒" target="試験" sid="wiki00197053-00-01" id="1"/>
 試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0
 * 3D
-+ 7D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="=" target="入社" sid="wiki00197053-00-01" id="0"/>
 入社 にゅうしゃ 入社 名詞 6 サ変名詞 2 * 0 * 0
-+ 8D <rel type="=" target="試験" sid="wiki00197053-00-01" id="9"/>
++ 8D <rel type="=" target="試験" sid="wiki00197053-00-01" id="9"/><rel type="ガ" target="企業" sid="wiki00197053-00-01" id="2"/><rel type="ヲ" target="不特定:人"/>
 試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 6D
-+ 12D <rel type="ガ" target="試験" sid="wiki00197053-03" id="5"/><rel type="ニ" target="試験" sid="wiki00197053-03" id="7"/>
++ 12D <rel type="ニ" target="試験" sid="wiki00197053-03" id="7"/><rel type="ガ" target="試験" sid="wiki00197053-03" id="5"/><rel type="ガ" mode="AND" target="試験" sid="wiki00197053-03" id="2"/>
 該当 がいとう 該当 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 が が が 助詞 9 接続助詞 3 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 6D
-+ 12D
++ 12D <rel type="=≒" target="試験" sid="wiki00197053-03" id="2"/><rel type="=≒" mode="AND" target="試験" sid="wiki00197053-03" id="5"/><memo text="SE"/>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 6D
-+ 11D <rel type="ガ" target="項目" sid="wiki00197053-03" id="11"/><rel type="ニ" target="試験" sid="wiki00197053-03" id="7"/>
++ 11D <rel type="ガ" target="項目" sid="wiki00197053-03" id="11"/><rel type="ニ" target="試験" sid="wiki00197053-03" id="5"/><rel type="ニ" mode="AND" target="試験" sid="wiki00197053-03" id="2"/>
 該当 がいとう 該当 名詞 6 サ変名詞 2 * 0 * 0
-+ 12D
++ 12D <rel type="修飾" target="該当" sid="wiki00197053-03" id="10"/><rel type="ノ" target="試験" sid="wiki00197053-03" id="2"/><rel type="ノ" mode="AND" target="試験" sid="wiki00197053-03" id="5"/>
 項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="項目" sid="wiki00197053-03" id="11"/>
++ -1D <rel type="ヲ" target="項目" sid="wiki00197053-03" id="11"/><rel type="ガ" target="読者"/><rel type="ニツイテ" target="これら" sid="wiki00197053-03" id="9"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
 参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS

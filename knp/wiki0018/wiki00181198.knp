@@ -1,10 +1,10 @@
-# S-ID:wiki00181198-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/08/26 MEMO:
+# S-ID:wiki00181198-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/09/28 MEMO:
 * 8D
 + 1D
 公職 こうしょく 公職 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:head>
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="ヲ" mode="？" target="公職" sid="wiki00181198-00-01" id="0"/>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 <NE:ARTIFACT:middle>
-+ 11D <NE:ARTIFACT:公職選挙法>
++ 11D <rel type="ニカンシテ" target="選挙" sid="wiki00181198-00-01" id="1"/><NE:ARTIFACT:公職選挙法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -40,41 +40,35 @@
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00181198-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/26 MEMO:
+# S-ID:wiki00181198-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/28 MEMO:
 * 1D
 + 1D <rel type="=" target="公職" sid="wiki00181198-00-01" id="0"/>
 こうしょく こうしょく こうしょく 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:head>
 + 2D <rel type="=" target="選挙" sid="wiki00181198-00-01" id="1"/>
 せんきょ せんきょ せんきょ 名詞 6 サ変名詞 2 * 0 * 0 <NE:ARTIFACT:middle>
-* 3P
 + 8P <rel type="=" target="法" sid="wiki00181198-00-01" id="2"/><NE:ARTIFACT:こうしょくせんきょほう>
 ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 4D
+* -1D
 + 4D
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 <NE:ARTIFACT:head>
-* 5D
 + 5D
 25 にじゅうご 25 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:ARTIFACT:middle>
-* 7D
 + 6D
 4 し 4 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:ARTIFACT:middle>
-* 7D
 + 8D
 15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:ARTIFACT:middle>
-* -1D
 + 8D
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-* -1D
 + -1D <rel type="=" target="法" sid="wiki00181198-00-01" id="2"/><NE:ARTIFACT:昭和25年4月15日法律第100号>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 <NE:ARTIFACT:middle>
 100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:middle>
 号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00181198-00-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/26 MEMO:
+# S-ID:wiki00181198-00-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/28 MEMO:
 * 3P
 + 1D <rel type="ノ？" target="日本" sid="wiki00181198-00-01" id="10"/><NE:ORGANIZATION:国会>
 国会 こっかい 国会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:single>
@@ -86,12 +80,12 @@ EOS
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
 + 4D
 公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0
-+ 5D <rel type="修飾" target="公共" sid="wiki00181198-00-03" id="3"/>
++ 5D <rel type="修飾" target="公共" sid="wiki00181198-00-03" id="3"/><rel type="ノ？" target="地方" sid="wiki00181198-00-03" id="2"/>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
-+ 6D <rel type="ノ？" target="団体" sid="wiki00181198-00-03" id="4"/><NE:ORGANIZATION:議会>
-議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:single>
++ 6D <rel type="ノ？" target="団体" sid="wiki00181198-00-03" id="4"/>
+議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 4P
 + 7P <rel type="ノ？" target="議会" sid="wiki00181198-00-03" id="5"/><rel type="=≒" target="公職" sid="wiki00181198-00-01" id="3"/><rel type="=≒" mode="AND" target="議員" sid="wiki00181198-00-03" id="1"/>
@@ -101,11 +95,11 @@ EOS
 + -1D <rel type="=≒" target="公職" sid="wiki00181198-00-01" id="3"/><rel type="ノ" target="団体" sid="wiki00181198-00-03" id="4"/>
 首長 しゅちょう 首長 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00181198-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/26 MEMO:
+# S-ID:wiki00181198-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/28 MEMO:
 * 1D
 + 1D <rel type="ガ" target="官庁" sid="wiki00181198-01" id="1"/><rel type="ヲ" target="法" sid="wiki00181198-00-01" id="2"/>
 所管 しょかん 所管 名詞 6 サ変名詞 2 * 0 * 0
-+ 3D
++ 3D <rel type="修飾" target="所管" sid="wiki00181198-01" id="0"/><rel type="修飾" mode="AND" target="法" sid="wiki00181198-00-01" id="2"/>
 官庁 かんちょう 官庁 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0

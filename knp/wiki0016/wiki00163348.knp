@@ -1,4 +1,4 @@
-# S-ID:wiki00163348-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00163348-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/22 MEMO:
 * 4D
 + 1D
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
@@ -12,7 +12,7 @@
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 + 6D
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:一般財団法人法政大学出版局>
++ 12D <rel type="修飾" target="法人" sid="wiki00163348-00-01" id="2"/><NE:ORGANIZATION:一般財団法人法政大学出版局>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -32,11 +32,11 @@
 + 12D <rel type="ガ" target="法人" sid="wiki00163348-00-01" id="12"/><rel type="ニ" target="部" sid="wiki00163348-00-01" id="10"/>
 あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="局" sid="wiki00163348-00-01" id="6"/><rel type="=構" target="局" sid="wiki00163348-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="局" sid="wiki00163348-00-01" id="6"/><rel type="=構" target="局" sid="wiki00163348-00-01" id="6"/><rel type="=≒" mode="AND" target="法人" sid="wiki00163348-00-01" id="2"/><memo text="CO"/>
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00163348-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00163348-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/22 MEMO:
 * 1P
 + 1D <rel type="=" target="法政" sid="wiki00163348-00-01" id="3"/>
 ほうせい ほうせい ほうせい 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:tail>
@@ -47,7 +47,7 @@ EOS
 + 8P <rel type="=" target="局" sid="wiki00163348-00-01" id="6"/><NE:ORGANIZATION:ほうせいだいがくしゅっぱんきょく>
 きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 2D
+* 2P
 + 5D <NE:OPTIONAL:英>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0
 + 8D <rel type="ノ" target="局" sid="wiki00163348-00-01" id="6"/><rel type="修飾" target="英語" sid="wiki00163348-00-02" id="4"/>
@@ -60,7 +60,7 @@ HOSEI HOSEI HOSEI 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
 + 8D
 UNIVERSITY UNIVERSITY UNIVERSITY 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ORGANIZATION:middle>
-+ 12D <rel type="=構" target="名" sid="wiki00163348-00-02" id="5"/><rel type="=" mode="AND" target="局" sid="wiki00163348-00-01" id="6"/><NE:ORGANIZATION:HOSEI　UNIVERSITY　PRESS>
++ 12P <rel type="=構" target="名" sid="wiki00163348-00-02" id="5"/><rel type="=" mode="AND" target="局" sid="wiki00163348-00-01" id="6"/><rel type="ガ" target="名" sid="wiki00163348-00-02" id="5"/><NE:ORGANIZATION:HOSEI　UNIVERSITY　PRESS>
 PRESS PRESS PRESS 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1P

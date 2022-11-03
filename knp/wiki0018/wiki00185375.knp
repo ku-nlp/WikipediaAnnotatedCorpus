@@ -1,4 +1,4 @@
-# S-ID:wiki00185375-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:36.00000 MOD:2022/09/05 MEMO:
+# S-ID:wiki00185375-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:36.00000 MOD:2022/09/30 MEMO:
 * 11D
 + 1D
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0
@@ -13,7 +13,7 @@
 から から から 助詞 9 格助詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
-+ 4D <rel type="ガ" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="カラ" target="経験" sid="wiki00185375-00-01" id="2"/>
++ 4D <rel type="ガ" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="カラ" target="経験" sid="wiki00185375-00-01" id="2"/><rel type="=≒" target="学習" sid="wiki00185375-00-01" id="1"/>
 学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 5D
@@ -24,13 +24,13 @@
 自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * 6D
-+ 8D <rel type="ガ" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><rel type="デ" target="自動" sid="wiki00185375-00-01" id="5"/><rel type="ニヨッテ" target="学習" sid="wiki00185375-00-01" id="3"/>
++ 8D <rel type="ガ" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><rel type="ニヨッテ" target="学習" sid="wiki00185375-00-01" id="3"/><rel type="デ" target="自動" sid="wiki00185375-00-01" id="5"/><rel type="デ" mode="？" target="なし"/>
 改善 かいぜん 改善 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 * 8P
 + 8D <rel type="=≒" target="機械" sid="wiki00185375-00-01" id="0"/>
 コンピューター こんぴゅーたー コンピューター 名詞 6 普通名詞 1 * 0 * 0
-+ 11P <rel type="修飾" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="=構" target="学習" sid="wiki00185375-00-01" id="1"/>
++ 11P <rel type="修飾" target="コンピューター" sid="wiki00185375-00-01" id="7"/><rel type="=構" target="学習" sid="wiki00185375-00-01" id="1"/><rel type="ガ" target="学習" sid="wiki00185375-00-01" id="1"/>
 アルゴリズム あるごりずむ アルゴリズム 名詞 6 普通名詞 1 * 0 * 0
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0
 * 8D
@@ -123,7 +123,7 @@ EOS
 こなす こなす こなす 動詞 2 * 0 子音動詞サ行 5 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00185375-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/09/18 MEMO:
+# S-ID:wiki00185375-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/09/30 MEMO:
 * 10D
 + 13D
 例えば たとえば 例えば 副詞 8 * 0 * 0 * 0
@@ -150,30 +150,30 @@ EOS
 + 8D <rel type="ヲ" target="メール" sid="wiki00185375-02" id="3"/><rel type="トシテ" target="データ" sid="wiki00185375-02" id="5"/><rel type="ガ" target="機械" sid="wiki00185375-00-01" id="0"/><rel type="=" target="使って" sid="wiki00185375-01" id="6"/>
 用いて もちいて 用いる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
 * 10P
-+ 13P <rel type="ヲ" target="メール" sid="wiki00185375-02" id="3"/><rel type="ガ" target="機械" sid="wiki00185375-00-01" id="0"/><rel type="=" target="学習し" sid="wiki00185375-01" id="7"/>
++ 13P <rel type="ヲ" target="メール" sid="wiki00185375-02" id="3"/><rel type="ガ" target="機械" sid="wiki00185375-00-01" id="0"/><rel type="=≒" target="学習し" sid="wiki00185375-01" id="7"/>
 学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 8D
 + 10D <rel type="=" target="スパム" sid="wiki00185375-02" id="2"/>
 スパム すぱむ スパム 名詞 6 普通名詞 1 * 0 * 0
-+ 11D <rel type="ノ" target="スパム" sid="wiki00185375-02" id="9"/>
++ 11D <rel type="ノ？" target="スパム" sid="wiki00185375-02" id="9"/>
 フィルタリング ふぃるたりんぐ フィルタリング 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 9D
 + 12D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 * 10D
-+ 13D <rel type="トイウ" target="フィルタリング" sid="wiki00185375-02" id="10"/><rel type="=" target="タスク" sid="wiki00185375-01" id="12"/><rel type="=構" mode="AND" target="フィルタリング" sid="wiki00185375-02" id="10"/>
++ 13D <rel type="トイウ" target="フィルタリング" sid="wiki00185375-02" id="10"/><rel type="=≒" target="タスク" sid="wiki00185375-01" id="12"/><rel type="=構" mode="AND" target="フィルタリング" sid="wiki00185375-02" id="10"/>
 タスク たすく タスク 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 11D
-+ 14D <rel type="ヲ" target="タスク" sid="wiki00185375-02" id="12"/><rel type="ガ" target="機械" sid="wiki00185375-00-01" id="0"/><rel type="=" target="こなす" sid="wiki00185375-01" id="13"/>
++ 14D <rel type="ヲ" target="タスク" sid="wiki00185375-02" id="12"/><rel type="ガ" target="機械" sid="wiki00185375-00-01" id="0"/><rel type="=≒" target="こなす" sid="wiki00185375-01" id="13"/>
 こなす こなす こなす 動詞 2 * 0 子音動詞サ行 5 基本形 2
 、 、 、 特殊 1 読点 2 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 12D
-+ 15D <rel type="ガ" target="不特定:状況"/><rel type="トイウ" target="こなす" sid="wiki00185375-02" id="13"/><memo text="タグ区切り"/>
++ 15D <rel type="ガ" target="不特定:状況"/><rel type="トイウ" target="こなす" sid="wiki00185375-02" id="13"/><memo text="付与これでいいか？"/>
 いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10
 事 こと 事 名詞 6 形式名詞 8 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0

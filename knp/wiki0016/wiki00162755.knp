@@ -1,4 +1,4 @@
-# S-ID:wiki00162755-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162755-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2022/09/21 MEMO:
 * 8D
 + 1P <memo text="創業者の姓"/>
 ゴールドマン ごーるどまん ゴールドマン 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
@@ -17,7 +17,7 @@
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 * 7P
 + 8D
-ザ ザ ザ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
 + 6P <rel type="=" target="ゴールドマン" sid="wiki00162755-00-01" id="0"/>
 ゴールドマン ごーるどまん ゴールドマン 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
@@ -39,7 +39,7 @@
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 6D
-+ 12D <rel type="ノ" target="グループ" sid="wiki00162755-00-01" id="16"/>
++ 12D <rel type="ノ" target="グループ" sid="wiki00162755-00-01" id="16"/><rel type="=構" target="社" sid="wiki00162755-00-01" id="10"/>
 頂点 ちょうてん 頂点 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 7D
@@ -60,7 +60,7 @@
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00162755-00-02 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162755-00-02 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/21 MEMO:
 * -1D
 + 4D <rel type="=" target="ザ" sid="wiki00162755-00-01" id="4"/>
 The The The 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
@@ -79,11 +79,11 @@ Group Group Group 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 Inc Inc Inc 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00162755-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162755-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/09/21 MEMO:
 * 1D
 + 1D <rel type="=" target="金融" sid="wiki00162755-00-01" id="13"/>
 金融 きんゆう 金融 名詞 6 普通名詞 1 * 0 * 0
-+ 2D <rel type="ノ" target="金融" sid="wiki00162755-01" id="0"/><rel type="=" target="グループ" sid="wiki00162755-00-01" id="16"/><rel type="ノ？" target="金融" sid="wiki00162755-01" id="0"/>
++ 2D <rel type="=" target="グループ" sid="wiki00162755-00-01" id="16"/><rel type="ノ？" target="金融" sid="wiki00162755-01" id="0"/>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 7D
@@ -118,7 +118,7 @@ EOS
 + 13P
 保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 13D <rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="不特定:物"/><rel type="ヲ" target="不特定:物"/><rel type="ガ" target="銀行" sid="wiki00162755-01" id="13"/>
++ 13D <rel type="ヲ" target="不特定:物"/><rel type="ガ" target="銀行" sid="wiki00162755-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="不特定:物"/>
 投資 とうし 投資 名詞 6 サ変名詞 2 * 0 * 0
 + 14D <rel type="修飾" target="投資" sid="wiki00162755-01" id="12"/>
 銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0
@@ -142,7 +142,7 @@ EOS
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00162755-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162755-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/21 MEMO:
 * 1D
 + 4D <memo text="年金積立金管理運用独立行政法人,Government Pension Investment Fund"/><NE:ORGANIZATION:GPIF>
 GPIF GPIF GPIF 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
@@ -152,11 +152,11 @@ GPIF GPIF GPIF 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 運用 うんよう 運用 名詞 6 サ変名詞 2 * 0 * 0
 + 4D <rel type="ガ" target="GPIF" sid="wiki00162755-02" id="0"/><rel type="ヲ" target="運用" sid="wiki00162755-02" id="2"/><rel type="ニ" target="先" sid="wiki00162755-02" id="4"/>
 委託 いたく 委託 名詞 6 サ変名詞 2 * 0 * 0
-+ 5D <rel type="ノ" target="委託" sid="wiki00162755-02" id="3"/><rel type="=≒" target="サックス" sid="wiki00162755-00-01" id="1"/>
++ 5D <rel type="ノ" target="委託" sid="wiki00162755-02" id="3"/><rel type="=≒" target="サックス" sid="wiki00162755-00-01" id="1"/><rel type="ノ？" target="GPIF" sid="wiki00162755-02" id="0"/>
 先 さき 先 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="サックス" sid="wiki00162755-00-01" id="1"/><rel type="ノ" target="先" sid="wiki00162755-02" id="4"/><rel type="=構" target="サックス" sid="wiki00162755-00-01" id="1"/><rel type="=構" mode="AND" target="先" sid="wiki00162755-02" id="4"/>
++ -1D <rel type="ガ" target="サックス" sid="wiki00162755-00-01" id="1"/><rel type="ノ" target="先" sid="wiki00162755-02" id="4"/><rel type="=構" target="サックス" sid="wiki00162755-00-01" id="1"/><rel type="=構" mode="AND" target="先" sid="wiki00162755-02" id="4"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0

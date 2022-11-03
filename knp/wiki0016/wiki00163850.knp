@@ -1,4 +1,4 @@
-# S-ID:wiki00163850-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00163850-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/09/23 MEMO:
 * 7D
 + 1D
 音響 おんきょう 音響 名詞 6 普通名詞 1 * 0 * 0
@@ -46,7 +46,7 @@ EOS
 + -1D <rel type="=" target="機器" sid="wiki00163850-00-01" id="1"/>
 きき きき きき 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00163850-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00163850-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/23 MEMO:
 * 6D
 + 7D
 また また また 副詞 8 * 0 * 0 * 0
@@ -61,14 +61,14 @@ EOS
 + 4D
 単に たんに 単に 副詞 8 * 0 * 0 * 0
 * 4D
-+ 5D <rel type="=構" target="機器" sid="wiki00163850-00-01" id="1"/>
++ 5D <rel type="=構" target="機器" sid="wiki00163850-00-01" id="1"/><rel type="=" mode="AND" target="オーディオ" sid="wiki00163850-01" id="1"/>
 オーディオ おーでぃお オーディオ 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ノ？" target="機器" sid="wiki00163850-00-01" id="1"/><rel type="ヲ" target="機器" sid="wiki00163850-01" id="2"/><rel type="ヲ" mode="AND" target="オーディオ" sid="wiki00163850-01" id="4"/><rel type="ト" target="場合" sid="wiki00163850-01" id="6"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機器" sid="wiki00163850-00-01" id="1"/><rel type="ト" target="機器" sid="wiki00163850-01" id="2"/><rel type="ト" mode="AND" target="オーディオ" sid="wiki00163850-01" id="4"/><rel type="外の関係" target="場合" sid="wiki00163850-01" id="6"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 * 6D
-+ 7D <rel type="外の関係" target="いう" sid="wiki00163850-01" id="5"/>
++ 7D <rel type="トイウ" target="いう" sid="wiki00163850-01" id="5"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0
 * -1D
@@ -76,7 +76,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00163850-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00163850-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/09/23 MEMO:
 * 1D
 + 1D <rel type="ガ" target="性能" sid="wiki00163850-02" id="1"/>
 高 こう 高 接頭辞 13 名詞接頭辞 1 * 0 * 0
@@ -122,7 +122,7 @@ EOS
 * 9D
 + 13D <rel type="=" target="音響" sid="wiki00163850-00-01" id="0"/>
 音響 おんきょう 音響 名詞 6 普通名詞 1 * 0 * 0
-+ 14D <rel type="=" target="機器" sid="wiki00163850-00-01" id="1"/>
++ 14D <rel type="=" target="機器" sid="wiki00163850-00-01" id="1"/><rel type="=≒" mode="AND" target="パソコン" sid="wiki00163850-02" id="11"/><memo text="パソコン≒構？"/>
 機器 きき 機器 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0

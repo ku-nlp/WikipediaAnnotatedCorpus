@@ -1,4 +1,4 @@
-# S-ID:wiki00177732-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/08/23 MEMO:
+# S-ID:wiki00177732-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/09/23 MEMO:
 * 9D
 + 1D
 天体 てんたい 天体 名詞 6 普通名詞 1 * 0 * 0
@@ -36,7 +36,7 @@
 + 11D
 基づいて もとづいて 基づく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
 * 9D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="運動" sid="wiki00177732-00-01" id="7"/><rel type="ニモトヅイテ" target="力学" sid="wiki00177732-00-01" id="9"/><rel type="外の関係" target="学問" sid="wiki00177732-00-01" id="12"/>
++ 12D <rel type="ヲ" target="運動" sid="wiki00177732-00-01" id="7"/><rel type="ニモトヅイテ" target="力学" sid="wiki00177732-00-01" id="9"/><rel type="ガ" target="学問" sid="wiki00177732-00-01" id="12"/>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 * -1D
 + -1D <rel type="ガ" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="=構" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="トイウ" target="扱う" sid="wiki00177732-00-01" id="11"/>
@@ -51,7 +51,7 @@ EOS
 + -1D <rel type="=" target="力学" sid="wiki00177732-00-01" id="1"/>
 りきがく りきがく りきがく 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00177732-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 WARNING:Cannot detect consistent CS scopes MOD:2022/08/23 MEMO:
+# S-ID:wiki00177732-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 WARNING:Cannot detect consistent CS scopes MOD:2022/09/23 MEMO:
 * 1D
 + 1D <NE:PERSON:ニュートン>
 ニュートン にゅーとん ニュートン 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
@@ -71,17 +71,17 @@ EOS
 * 8P
 + 6D
 一 いち 一 名詞 6 数詞 7 * 0 * 0
-+ 15P <rel type="ガ" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="ノ" target="学" sid="wiki00177732-01" id="4"/><rel type="=構" target="力学" sid="wiki00177732-00-01" id="1"/>
++ 15P <rel type="ガ" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="ノ" target="学" sid="wiki00177732-01" id="4"/><rel type="=構" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="修飾" target="一" sid="wiki00177732-01" id="5"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
 、 、 、 特殊 1 読点 2 * 0 * 0
 また また また 副詞 8 * 0 * 0 * 0
 * 5D
-+ 8D <rel type="ノ" target="天体" sid="wiki00177732-00-01" id="6"/>
++ 9D <rel type="ノ" target="天体" sid="wiki00177732-00-01" id="6"/>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-+ 9D <rel type="ニカンシテ" target="位置" sid="wiki00177732-01" id="7"/>
++ 9D
 天文 てんもん 天文 名詞 6 普通名詞 1 * 0 * 0
-+ 10D <rel type="ニカンシテ" target="天文" sid="wiki00177732-01" id="8"/>
++ 10D <rel type="ニカンシテ" target="天文" sid="wiki00177732-01" id="8"/><rel type="ニカンシテ" mode="AND" target="位置" sid="wiki00177732-01" id="7"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 8D
@@ -96,11 +96,11 @@ EOS
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 8D
-+ 15D <rel type="ノ" target="学" sid="wiki00177732-01" id="13"/><rel type="=構" target="力学" sid="wiki00177732-00-01" id="1"/>
++ 15D <rel type="ノ" target="学" sid="wiki00177732-01" id="13"/><memo text="天体力学と位置天文学を一角とイコールとはせず"/>
 一角 いっかく 一角 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ヲ" target="一角" sid="wiki00177732-01" id="14"/><rel type="ガ" target="力学" sid="wiki00177732-00-01" id="1"/>
++ -1D <rel type="ヲ" target="一角" sid="wiki00177732-01" id="14"/><rel type="ガ" target="力学" sid="wiki00177732-00-01" id="1"/><rel type="ガ" mode="AND" target="学" sid="wiki00177732-01" id="9"/>
 占める しめる 占める 動詞 2 * 0 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS

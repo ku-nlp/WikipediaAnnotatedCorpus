@@ -22,10 +22,10 @@
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00164996-00-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/05 MEMO:
+# S-ID:wiki00164996-00-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/24 MEMO:
 * -1D
-+ 3D
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="ノ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><NE:OPTIONAL:英>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 ： ： ： 特殊 1 記号 5 * 0 * 0
 + 2D <rel type="=" target="テイチク" sid="wiki00164996-00-01" id="2"/>
 TEICHIKU TEICHIKU TEICHIKU 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
@@ -34,11 +34,11 @@ TEICHIKU TEICHIKU TEICHIKU 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
 ENTERTAINMENT ENTERTAINMENT ENTERTAINMENT 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 , , , 特殊 1 読点 2 * 0 * 0 <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><NE:ORGANIZATION:TEICHIKU　ENTERTAINMENT,　INC.>
++ -1D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="デ" target="英語" sid="wiki00164996-00-02" id="0"/><NE:ORGANIZATION:TEICHIKU　ENTERTAINMENT,　INC.>
 INC INC INC 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00164996-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/09/05 MEMO:
+# S-ID:wiki00164996-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/09/24 MEMO:
 * 1D
 + 1D
 通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0
@@ -60,7 +60,7 @@ JOYSOUND じょいさうんど JOYSOUND 名詞 6 固有名詞 3 * 0 * 0 <NE:ARTI
 * 5P
 + 7D
 連結 れんけつ 連結 名詞 6 サ変名詞 2 * 0 * 0
-+ 11P <rel type="ノ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/>
++ 11P <rel type="ノ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="修飾" target="連結" sid="wiki00164996-01" id="6"/>
 子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13
@@ -70,7 +70,7 @@ JOYSOUND じょいさうんど JOYSOUND 名詞 6 固有名詞 3 * 0 * 0 <NE:ARTI
 ブラザー ぶらざー ブラザー 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
 + 10D
 工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-+ 11D <rel type="ノ" target="工業" sid="wiki00164996-01" id="9"/><NE:ORGANIZATION:ブラザー工業グループ>
++ 11D <rel type="ノ" target="工業" sid="wiki00164996-01" id="9"/><rel type="=≒" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><NE:ORGANIZATION:ブラザー工業グループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0

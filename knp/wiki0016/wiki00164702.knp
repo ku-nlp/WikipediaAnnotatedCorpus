@@ -1,4 +1,4 @@
-# S-ID:wiki00164702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/23 MEMO:
 * 6D
 + 1D
 長岡 ながおか 長岡 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
@@ -43,14 +43,14 @@
 藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00164702-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/23 MEMO:
 * -1D
 + 1D <rel type="=" target="長岡" sid="wiki00164702-00-01" id="0"/>
-ながおか ながおか ながおか 名詞 6 地名 4 * 0 * 0
-+ -1D <rel type="=" target="藩" sid="wiki00164702-00-01" id="1"/>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0
+ながおか ながおか ながおか 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
++ -1D <rel type="=" target="藩" sid="wiki00164702-00-01" id="1"/><NE:OPTIONAL:ながおかはん>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 EOS
-# S-ID:wiki00164702-00-03 括弧始:（ 括弧終:） 括弧位置:37 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-00-03 括弧始:（ 括弧終:） 括弧位置:37 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/23 MEMO:
 * 4D
 + 7D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0
@@ -78,7 +78,7 @@ EOS
 + -1D <rel type="ノ" target="地方" sid="wiki00164702-00-03" id="6"/><rel type="ガ" target="部" sid="wiki00164702-00-01" id="8"/><rel type="ガ" mode="AND" target="全域" sid="wiki00164702-00-01" id="5"/><rel type="ガ" mode="AND" target="西部" sid="wiki00164702-00-01" id="10"/><rel type="ニ" target="西部" sid="wiki00164702-00-03" id="7"/><rel type="ニ" mode="AND" target="北部" sid="wiki00164702-00-03" id="4"/><rel type="時間" target="現在" sid="wiki00164702-00-03" id="0"/><memo text="にあたる、のつもりでタグ付与"/>
 西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00164702-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/23 MEMO:
 * 1D
 + 3D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0
@@ -87,11 +87,11 @@ EOS
 + 3D <rel type="=" target="新潟県" sid="wiki00164702-00-03" id="1"/>
 新潟 にいがた 新潟 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
-+ 3P <rel type="ノ？" target="地方" sid="wiki00164702-00-03" id="3"/><NE:LOCATION:新潟県長岡市>
++ 3P <rel type="ノ？" target="新潟県" sid="wiki00164702-01" id="1"/><rel type="=≒" target="地方" sid="wiki00164702-00-03" id="3"/><NE:LOCATION:新潟県長岡市>
 長岡 ながおか 長岡 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 6D <rel type="ノ？" target="地方" sid="wiki00164702-00-03" id="6"/><NE:LOCATION:新潟市>
++ 6D <rel type="ノ？" target="新潟県" sid="wiki00164702-01" id="1"/><rel type="=≒" target="地方" sid="wiki00164702-00-03" id="6"/><NE:LOCATION:新潟市>
 新潟 にいがた 新潟 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0
@@ -110,7 +110,7 @@ EOS
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00164702-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2022/09/23 MEMO:
 * 7D
 + 11D
 近年 きんねん 近年 名詞 6 時相名詞 10 * 0 * 0
@@ -121,7 +121,7 @@ EOS
 山城 やましろ 山城 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
 + 3D
 長岡 ながおか 長岡 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:middle>
-+ 4D <NE:OPTIONAL:山城長岡藩>
++ 4D <rel type="ノ" target="長岡" sid="wiki00164702-02-01" id="2"/><NE:OPTIONAL:山城長岡藩>
 藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 3D
@@ -156,7 +156,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00164702-02-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/02 MEMO:
+# S-ID:wiki00164702-02-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/23 MEMO:
 * -1D
 + 2D <rel type="=" target="越後" sid="wiki00164702-02-01" id="6"/>
 えちご えちご えちご 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>

@@ -1,4 +1,4 @@
-# S-ID:wiki00181224-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/08/27 MEMO:
+# S-ID:wiki00181224-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/09/28 MEMO:
 * 15D
 + 1D
 ライセンス らいせんす ライセンス 名詞 6 普通名詞 1 * 0 * 0
@@ -15,8 +15,8 @@
 + 4D <rel type="修飾" target="他" sid="wiki00181224-00-01" id="2"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
-* 4D
-+ 5D <rel type="ガ" target="企業" sid="wiki00181224-00-01" id="3"/><rel type="ヲ" target="製品" sid="wiki00181224-00-01" id="5"/>
+* 5D
++ 8D <rel type="ガ" target="企業" sid="wiki00181224-00-01" id="3"/><rel type="ヲ" target="設計" sid="wiki00181224-00-01" id="6"/><rel type="ヲ" mode="AND" target="技術" sid="wiki00181224-00-01" id="8"/>
 開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10
 * 5D
@@ -37,7 +37,7 @@
 + 10D <rel type="ガ" target="企業" sid="wiki00181224-00-01" id="10"/>
 別の べつの 別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
 * 11D
-+ 15D
++ 15D <rel type="=≒" target="企業" sid="wiki00181224-00-01" id="3"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 9D
@@ -92,7 +92,7 @@ EOS
 + -1D <rel type="=" target="料" sid="wiki00181224-00-01" id="12"/>
 ロイヤリティ ろいやりてぃ ロイヤリティ 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00181224-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/08/27 MEMO:
+# S-ID:wiki00181224-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/28 MEMO:
 * 1P
 + 1D
 医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0
@@ -116,7 +116,7 @@ EOS
 * 6D
 + 7D
 ファッション ふぁっしょん ファッション 名詞 6 普通名詞 1 * 0 * 0
-+ 9D <rel type="ノ" target="ファッション" sid="wiki00181224-01" id="6"/><rel type="ノ" mode="AND" target="品" sid="wiki00181224-01" id="1"/><rel type="ノ" mode="AND" target="機" sid="wiki00181224-01" id="3"/><rel type="ノ" mode="AND" target="自動車" sid="wiki00181224-01" id="4"/><rel type="ノ" mode="AND" target="銃器" sid="wiki00181224-01" id="5"/>
++ 9D <rel type="ノ" target="ファッション" sid="wiki00181224-01" id="6"/>
 業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0
 など など など 助詞 9 副助詞 2 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
@@ -124,12 +124,12 @@ EOS
 + 9D
 よく よく よく 副詞 8 * 0 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="生産" sid="wiki00181224-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="業界など" sid="wiki00181224-01" id="7"/>
++ -1D <rel type="ガ" target="生産" sid="wiki00181224-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="業界など" sid="wiki00181224-01" id="7"/><rel type="デ" mode="AND" target="品" sid="wiki00181224-01" id="1"/><rel type="デ" mode="AND" target="機" sid="wiki00181224-01" id="3"/><rel type="デ" mode="AND" target="自動車" sid="wiki00181224-01" id="4"/><rel type="デ" mode="AND" target="銃器" sid="wiki00181224-01" id="5"/>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00181224-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/08/27 MEMO:
+# S-ID:wiki00181224-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/09/28 MEMO:
 * 2D
 + 3D <rel type="=≒" target="銃器" sid="wiki00181224-01" id="5"/>
 兵器 へいき 兵器 名詞 6 普通名詞 1 * 0 * 0
@@ -138,7 +138,7 @@ EOS
 * 2D
 + 2D <rel type="=" target="ライセンス" sid="wiki00181224-00-01" id="0"/>
 ライセンス らいせんす ライセンス 名詞 6 普通名詞 1 * 0 * 0
-+ 3D
++ 3D <rel type="修飾" target="ライセンス" sid="wiki00181224-02" id="1"/>
 国産 こくさん 国産 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 6D

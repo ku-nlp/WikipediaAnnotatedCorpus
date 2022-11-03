@@ -1,4 +1,4 @@
-# S-ID:wiki00169165-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/12 MEMO:
+# S-ID:wiki00169165-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/27 MEMO:
 * 5D
 + 2D
 不 ふ 不 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0
@@ -33,7 +33,7 @@
 * -1D
 + 9D
 脂肪 しぼう 脂肪 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="修飾" target="脂肪" sid="wiki00169165-00-01" id="8"/><rel type="ガ" target="酸" sid="wiki00169165-00-01" id="2"/><rel type="=" target="酸" sid="wiki00169165-00-01" id="2"/>
++ -1D <rel type="修飾" target="脂肪" sid="wiki00169165-00-01" id="8"/><rel type="ガ" target="酸" sid="wiki00169165-00-01" id="2"/><rel type="=構" target="酸" sid="wiki00169165-00-01" id="2"/>
 酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
@@ -48,7 +48,7 @@ EOS
 + -1D <rel type="=" target="酸" sid="wiki00169165-00-01" id="2"/>
 さん さん さん 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00169165-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/12 MEMO:
+# S-ID:wiki00169165-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/27 MEMO:
 * 8D
 + 2D <rel type="=" target="不飽和" sid="wiki00169165-00-01" id="4"/>
 不 ふ 不 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0
@@ -109,13 +109,13 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00169165-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:114.00000 MOD:2022/09/12 MEMO:
+# S-ID:wiki00169165-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:114.00000 MOD:2022/09/27 MEMO:
 * 1D
 + 1D
 天然 てんねん 天然 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 2D
-+ 4D <rel type="ガ" target="酸" sid="wiki00169165-02" id="4"/><rel type="ニ" target="不特定:人"/>
++ 4D <rel type="ガ" target="酸" sid="wiki00169165-02" id="4"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="天然" sid="wiki00169165-02" id="0"/>
 見 み 見る 動詞 2 * 0 母音動詞 1 未然形 3
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 * 5D
@@ -138,7 +138,7 @@ EOS
 二 に 二 名詞 6 数詞 7 * 0 * 0
 + 8D
 重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0
-+ 9D <rel type="=" target="結合" sid="wiki00169165-01" id="14"/>
++ 9D <rel type="=" target="結合" sid="wiki00169165-01" id="14"/><rel type="修飾" target="1つ以上" sid="wiki00169165-02" id="5"/>
 結合 けつごう 結合 名詞 6 サ変名詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 15D
@@ -157,7 +157,7 @@ EOS
 飽和 ほうわ 飽和 名詞 6 サ変名詞 2 * 0 * 0
 + 14D
 脂肪 しぼう 脂肪 名詞 6 普通名詞 1 * 0 * 0
-+ 15D <rel type="=≒" target="酸" sid="wiki00169165-02" id="4"/><rel type="修飾" target="飽和" sid="wiki00169165-02" id="12"/><rel type="修飾" mode="AND" target="脂肪" sid="wiki00169165-02" id="13"/><rel type="修飾" mode="AND" target="中の" sid="wiki00169165-02" id="11"/>
++ 15D <rel type="=≒" target="酸" sid="wiki00169165-02" id="4"/><rel type="修飾" target="飽和" sid="wiki00169165-02" id="12"/><rel type="修飾" mode="AND" target="脂肪" sid="wiki00169165-02" id="13"/><rel type="修飾" mode="AND" target="中" sid="wiki00169165-02" id="11"/>
 酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 9D
@@ -195,7 +195,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00169165-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/09/12 MEMO:
+# S-ID:wiki00169165-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/09/27 MEMO:
 * 9D
 + 13D
 また また また 副詞 8 * 0 * 0 * 0
@@ -234,7 +234,7 @@ EOS
 + 10D
 生体 せいたい 生体 名詞 6 普通名詞 1 * 0 * 0
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-+ 11D <rel type="ノ" target="オータコイド" sid="wiki00169165-03" id="8"/><rel type="修飾" target="生体内" sid="wiki00169165-03" id="9"/>
++ 11D <rel type="ノ" target="オータコイド" sid="wiki00169165-03" id="8"/><rel type="修飾" target="生体内" sid="wiki00169165-03" id="9"/><rel type="=構" target="酸" sid="wiki00169165-03" id="4"/>
 原料 げんりょう 原料 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 9D

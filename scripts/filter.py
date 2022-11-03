@@ -1,4 +1,5 @@
 from pathlib import Path
+import sys
 import textwrap
 
 from rhoknp import Document
@@ -23,9 +24,11 @@ def filter_tags(document: Document) -> Document:
 
 
 def main():
-    doc_path = Path("knp/wiki0200/wiki02001132.knp")
-    filtered_document = filter_tags(Document.from_knp(doc_path.read_text()))
-    print(filtered_document.to_knp())
+    path = Path(sys.argv[1])
+    for doc_path in path.glob("**/*.knp") if path.is_dir() else [path]:
+        print(f"filtering {doc_path}", file=sys.stderr)
+        filtered_document = filter_tags(Document.from_knp(doc_path.read_text()))
+        doc_path.write_text(filtered_document.to_knp())
 
 
 if __name__ == "__main__":

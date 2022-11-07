@@ -1,8 +1,8 @@
-# S-ID:wiki00230127-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00230127-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/11/07 MEMO:
 * 5D
 + 1D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ノ" target="世界" sid="wiki00230127-00-01" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -15,7 +15,7 @@
 + 4D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 4D
-+ 5D <rel type="ガ" target="ヒト" sid="wiki00230127-00-01" id="5"/>
++ 5D <rel type="ガ" target="ヒト" sid="wiki00230127-00-01" id="5"/><rel type="ニオイテ" target="世界" sid="wiki00230127-00-01" id="2"/>
 生存 せいぞん 生存 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -24,23 +24,23 @@
 ヒト ひと ヒト 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00230127-00-01" id="1"/><rel type="ノ" target="ヒト" sid="wiki00230127-00-01" id="5"/><rel type="=" target="人口" sid="wiki00230127-00-01" id="1"/>
-数 すう 数 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="人口" sid="wiki00230127-00-01" id="1"/><rel type="ノ" target="ヒト" sid="wiki00230127-00-01" id="5"/><rel type="=構" target="人口" sid="wiki00230127-00-01" id="1"/><memo text="CO"/>
+数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230127-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00230127-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/07 MEMO:
 * -1D
 + 1D <rel type="=" target="世界" sid="wiki00230127-00-01" id="2"/>
 せかい せかい せかい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="数" sid="wiki00230127-00-01" id="6"/>
++ -1D <rel type="=" target="人口" sid="wiki00230127-00-01" id="1"/>
 じんこう じんこう じんこう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230127-00-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00230127-00-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/07 MEMO:
 * -1D
-+ -1D <rel type="=" target="人口" sid="wiki00230127-00-01" id="1"/>
++ -1D <rel type="=" target="ヒト" sid="wiki00230127-00-01" id="5"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230127-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:150.00000
+# S-ID:wiki00230127-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:150.00000 MOD:2022/11/07 MEMO:
 * 25D
 + 30D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
@@ -55,7 +55,7 @@ EOS
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ノ" target="地域" sid="wiki00230127-01" id="2"/>
++ 5D <rel type="ノ" target="地域" sid="wiki00230127-01" id="2"/><rel type="=≒" target="人口" sid="wiki00230127-00-01" id="1"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -76,21 +76,21 @@ EOS
 多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 17D
-+ 9D
++ 9D <rel type="=" target="世界" sid="wiki00230127-00-01" id="0"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 21D <rel type="=" target="数" sid="wiki00230127-00-01" id="6"/>
++ 21D <rel type="=" target="人口" sid="wiki00230127-00-01" id="1"/><rel type="ノ" target="世界" sid="wiki00230127-01" id="8"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10P
 + 11D
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13P
++ 13P <rel type="修飾" target="国際" sid="wiki00230127-01" id="10"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 11P
+* 12P
 + 13D
 各国 かっこく 各国 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14P <rel type="ノ" target="各国" sid="wiki00230127-01" id="12"/>
++ 16P <rel type="ノ" target="各国" sid="wiki00230127-01" id="12"/><rel type="=≒" target="政府" sid="wiki00230127-01" id="6"/>
 政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
@@ -99,27 +99,27 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="ガ" target="者" sid="wiki00230127-01" id="16"/>
++ 16D <rel type="ガ" target="者" sid="wiki00230127-01" id="16"/><rel type="デ" target="大学など" sid="wiki00230127-01" id="14"/>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D
++ 17D <rel type="ノ？" target="研究" sid="wiki00230127-01" id="15"/><rel type="ノ" target="大学など" sid="wiki00230127-01" id="14"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
 + 18D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 15D
-+ 19D <rel type="ガ" target="者" sid="wiki00230127-01" id="16"/>
++ 19D <rel type="ニヨッテ" target="者" sid="wiki00230127-01" id="16"/><rel type="ニヨッテ" mode="AND" target="政府" sid="wiki00230127-01" id="13"/><rel type="ニヨッテ" mode="AND" target="機関" sid="wiki00230127-01" id="11"/><rel type="ガ" target="不特定:人"/>
 推定 すいてい 推定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 20D <rel type="ガ" target="人口" sid="wiki00230127-01" id="9"/><rel type="ニ" target="推定" sid="wiki00230127-01" id="18"/>
++ 20D <rel type="ニ" target="推定" sid="wiki00230127-01" id="18"/><rel type="ガ" target="部分" sid="wiki00230127-01" id="20"/>
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 17D
-+ 21D
++ 21D <rel type="ノ" target="人口" sid="wiki00230127-01" id="9"/><rel type="トイウ" target="よる" sid="wiki00230127-01" id="19"/>
 部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 22D <rel type="ガ" target="部分" sid="wiki00230127-01" id="20"/><rel type="ガ２" target="人口" sid="wiki00230127-01" id="9"/>
++ 22D <rel type="ガ" target="部分" sid="wiki00230127-01" id="20"/><rel type="ガ２" target="人口" sid="wiki00230127-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00230127-01" id="22"/>
 大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2 NIL
 * 25D
 + 30D <rel type="ノ" target="大きい" sid="wiki00230127-01" id="21"/>
@@ -128,11 +128,11 @@ EOS
 * 20D
 + 24D
 各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 25D
++ 25D <rel type="修飾" target="各" sid="wiki00230127-01" id="23"/><rel type="ニツイテ" target="人口" sid="wiki00230127-01" id="9"/>
 資料 しりょう 資料 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 26D <rel type="ガ" target="読者"/><rel type="ヲ" target="資料" sid="wiki00230127-01" id="24"/>
++ 26D <rel type="ヲ" target="資料" sid="wiki00230127-01" id="24"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="際" sid="wiki00230127-01" id="26"/>
 閲覧 えつらん 閲覧 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 23D
@@ -141,14 +141,14 @@ EOS
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 23D
-+ 28D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="人口" sid="wiki00230127-01" id="9"/>
++ 28D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="大きい" sid="wiki00230127-01" id="21"/><rel type="ニ" mode="AND" target="多く" sid="wiki00230127-01" id="7"/>
 注意 ちゅうい 注意 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 24D
-+ 29D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="注意" sid="wiki00230127-01" id="27"/>
++ 29D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="注意" sid="wiki00230127-01" id="27"/><rel type="時間" target="際" sid="wiki00230127-01" id="26"/><rel type="外の関係" target="必要" sid="wiki00230127-01" id="29"/>
 払う はらう 払う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 25D
-+ 30D
++ 30D <rel type="ガ" target="払う" sid="wiki00230127-01" id="28"/>
 必要 ひつよう 必要だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

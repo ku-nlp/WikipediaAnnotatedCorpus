@@ -1,5 +1,5 @@
-# S-ID:wiki00217400-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/10/25 MEMO:
-* 9D
+# S-ID:wiki00217400-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/11/04 MEMO:
+* 8D
 + 1D <NE:PERSON:ドッジ>
 ドッジ どっじ ドッジ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -7,7 +7,7 @@
 ライン らいん ライン 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
+* 2D
 + 3D
 戦後 せんご 戦後 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:head>
 + 4D <rel type="ヲ" target="日本" sid="wiki00217400-00-01" id="7"/><rel type="ガ" target="不特定:人1"/><rel type="時間" target="戦後" sid="wiki00217400-00-01" id="2"/><rel type="外の関係" target="期" sid="wiki00217400-00-01" id="4"/>
@@ -15,36 +15,35 @@
 + 6D <rel type="ノ" target="占領" sid="wiki00217400-00-01" id="3"/><memo text="1945年9月2日から1952年4月28日までの7年間"/><NE:DATE:戦後占領期>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 3D
+* 7D
 + 6D
 1949 せんきゅうひゃくよんじゅうきゅう 1949 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 8D
 + 12D <rel type="=構" target="期" sid="wiki00217400-00-01" id="4"/><rel type="修飾" target="期" sid="wiki00217400-00-01" id="4"/><NE:DATE:1949年2月>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
+* 5D
 + 8D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 10D <rel type="ノ？" target="日本" sid="wiki00217400-00-01" id="7"/>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6P
+* 5P
 + 10P <rel type="ガ" target="経済" sid="wiki00217400-00-01" id="8"/>
 自立 じりつ 自立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 7D
+* 6D
 + 11D <rel type="ガ" target="経済" sid="wiki00217400-00-01" id="8"/>
 安定 あんてい 安定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
+* 7D
 + 12D <rel type="ノ" target="自立" sid="wiki00217400-00-01" id="9"/><rel type="ノ" mode="AND" target="安定" sid="wiki00217400-00-01" id="10"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
+* 8D
 + 16D <rel type="ガ" target="政策" sid="wiki00217400-00-01" id="16"/><rel type="時間" target="2月" sid="wiki00217400-00-01" id="6"/><rel type="修飾" target="ため" sid="wiki00217400-00-01" id="11"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="AND" target="ドッジ" sid="wiki00217400-00-01" id="0"/>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
@@ -68,7 +67,7 @@ EOS
 24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00217400-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/25 MEMO:
+# S-ID:wiki00217400-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/04 MEMO:
 * 1P
 + 2P
 インフレ いんふれ インフレ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -92,33 +91,33 @@ EOS
 軸 じく 軸 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00217400-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:21.00000 MOD:2022/10/25 MEMO:
+# S-ID:wiki00217400-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:21.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 2D <rel type="=" target="不特定:人1"/><NE:ORGANIZATION:GHQ>
 GHQ GHQ GHQ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 2D <rel type="=" target="経済" sid="wiki00217400-00-01" id="8"/><rel type="ノ？" target="経済" sid="wiki00217400-02" id="1"/>
++ 2D <rel type="=" target="経済" sid="wiki00217400-00-01" id="8"/>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="GHQ" sid="wiki00217400-02" id="0"/>
++ 3D <rel type="ノ" target="GHQ" sid="wiki00217400-02" id="0"/><rel type="ニカンシテ" target="経済" sid="wiki00217400-02" id="1"/>
 顧問 こもん 顧問 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 5D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 4D
-+ 5D <rel type="ガ" target="ドッジ" sid="wiki00217400-02" id="8"/><rel type="ヲ" target="日" sid="wiki00217400-02" id="5"/>
++ 5D <rel type="ガ" target="ドッジ" sid="wiki00217400-02" id="8"/><rel type="ヲ" target="日" sid="wiki00217400-02" id="5"/><rel type="トシテ" target="顧問" sid="wiki00217400-02" id="2"/>
 訪 ほう 訪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <NE:LOCATION:日>
++ 8D <rel type="=≒" target="日本" sid="wiki00217400-00-01" id="7"/><NE:LOCATION:日>
 日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
-+ 8D <rel type="=" target="顧問" sid="wiki00217400-02" id="2"/><rel type="ノ" target="不特定:人2"/><memo text="不特定人2：デトロイト銀行"/>
++ 8D <rel type="ノ" target="不特定:人2"/><memo text="不特定人2：デトロイト銀行（脱落？）"/>
 頭取 とうどり 頭取 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 8D
 ジョゼフ じょぜふ ジョゼフ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 10D <rel type="=構" target="頭取" sid="wiki00217400-02" id="6"/><rel type="修飾" target="頭取" sid="wiki00217400-02" id="6"/><NE:PERSON:ジョゼフ・ドッジ>
++ 10D <rel type="修飾" target="頭取" sid="wiki00217400-02" id="6"/><rel type="=構" target="頭取" sid="wiki00217400-02" id="6"/><rel type="=構" mode="AND" target="顧問" sid="wiki00217400-02" id="2"/><rel type="=" mode="AND" target="ドッジ" sid="wiki00217400-00-01" id="0"/><NE:PERSON:ジョゼフ・ドッジ>
 ドッジ どっじ ドッジ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -132,39 +131,37 @@ GHQ GHQ GHQ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00217400-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/10/25 MEMO:
-* 1D
+# S-ID:wiki00217400-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/11/04 MEMO:
+* 2D
 + 1D
 1948 せんきゅうひゃくよんじゅうはち 1948 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 3D
 + 3D <NE:DATE:1948年12月>
 12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
+* 2D
 + 3D <rel type="=" target="GHQ" sid="wiki00217400-02" id="0"/><NE:ORGANIZATION:GHQ>
 GHQ GHQ GHQ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 4D
-+ 7D <rel type="ガ" target="GHQ" sid="wiki00217400-03-01" id="2"/><rel type="ヲ" target="原則" sid="wiki00217400-03-01" id="7"/><rel type="ニ" target="日本" sid="wiki00217400-00-01" id="7"/><rel type="時間" target="12月" sid="wiki00217400-03-01" id="1"/>
+* 3D
++ 6D <rel type="ガ" target="GHQ" sid="wiki00217400-03-01" id="2"/><rel type="ヲ" target="原則" sid="wiki00217400-03-01" id="7"/><rel type="ニ" target="日本" sid="wiki00217400-00-01" id="7"/><rel type="時間" target="12月" sid="wiki00217400-03-01" id="1"/>
 示した しめした 示す 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL
-* 5D
+* 4D
 + 5D <rel type="=" target="経済" sid="wiki00217400-00-01" id="8"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 7D <rel type="ガ" target="経済" sid="wiki00217400-03-01" id="4"/><rel type="=" target="安定" sid="wiki00217400-00-01" id="10"/>
++ 6D <rel type="ガ" target="経済" sid="wiki00217400-03-01" id="4"/><rel type="=" target="安定" sid="wiki00217400-00-01" id="10"/>
 安定 あんてい 安定 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 7D
-9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 8D <rel type="ノ" target="安定" sid="wiki00217400-03-01" id="5"/><NE:ARTIFACT:経済安定9原則>
+9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
 原則 げんそく 原則 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 9D <rel type="ヲ" target="策" sid="wiki00217400-03-01" id="9"/><rel type="ガ" target="日本" sid="wiki00217400-00-01" id="7"/><rel type="ガ" mode="AND" target="GHQ" sid="wiki00217400-03-01" id="2"/>
++ 8D <rel type="ガ" target="日本" sid="wiki00217400-00-01" id="7"/><rel type="ガ" mode="AND" target="GHQ" sid="wiki00217400-03-01" id="2"/><rel type="ヲ" target="9原則" sid="wiki00217400-03-01" id="6"/><rel type="外の関係" target="策" sid="wiki00217400-03-01" id="8"/>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="ライン" sid="wiki00217400-00-01" id="1"/><rel type="修飾" target="実施" sid="wiki00217400-03-01" id="8"/><rel type="=構" target="ライン" sid="wiki00217400-00-01" id="1"/><rel type="=≒" mode="AND" target="政策" sid="wiki00217400-00-01" id="16"/>
 策 さく 策 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -179,7 +176,7 @@ EOS
 23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00217400-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/25 MEMO:
+# S-ID:wiki00217400-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1D <rel type="=" target="ドッジ" sid="wiki00217400-00-01" id="0"/><NE:PERSON:ドッジ>
 ドッジ どっじ ドッジ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>

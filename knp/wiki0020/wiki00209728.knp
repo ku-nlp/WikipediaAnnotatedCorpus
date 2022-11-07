@@ -1,4 +1,4 @@
-# S-ID:wiki00209728-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209728-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2022/11/04 MEMO:
 * 13D
 + 1D
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -11,7 +11,7 @@
 * 2D
 + 4D
 ウェブ うぇぶ ウェブ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="ウェブ" sid="wiki00209728-00-01" id="3"/>
++ 5D <rel type="修飾" target="ウェブ" sid="wiki00209728-00-01" id="3"/><rel type="=≒" target="コンテンツ" sid="wiki00209728-00-01" id="0"/>
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -34,7 +34,7 @@
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11P
++ 11P <rel type="ヲ" target="コンテンツ" sid="wiki00209728-00-01" id="9"/><rel type="ガ" target="システム" sid="wiki00209728-00-01" id="2"/>
 統合 とうごう 統合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 12D <rel type="ガ" target="管理" sid="wiki00209728-00-01" id="12"/>
@@ -68,16 +68,16 @@
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00209728-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209728-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/04 MEMO:
 * -1D
 + 1D <rel type="=" target="コンテンツ" sid="wiki00209728-00-01" id="0"/>
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="管理" sid="wiki00209728-00-01" id="1"/>
++ 2D <rel type="=" target="管理" sid="wiki00209728-00-01" id="1"/><rel type="ヲ" target="コンテンツ" sid="wiki00209728-00-02" id="0"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="システム" sid="wiki00209728-00-02" id="2"/>
 かんり かんり かんり 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="システム" sid="wiki00209728-00-01" id="2"/>
++ -1D <rel type="=" target="システム" sid="wiki00209728-00-01" id="2"/><rel type="ノ" target="かんり" sid="wiki00209728-00-02" id="1"/>
 システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00209728-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209728-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/11/04 MEMO:
 * 2D
 + 2D <NE:DATE:2005年>
 2005 にせんご 2005 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
@@ -99,7 +99,7 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00209728-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209728-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1D <rel type="=" target="コンテンツ" sid="wiki00209728-00-02" id="0"/>
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL

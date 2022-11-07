@@ -1,4 +1,4 @@
-# S-ID:wiki00209497-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209497-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/11/04 MEMO:
 * 10D
 + 15D
 戦術 せんじゅつ 戦術 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -8,7 +8,7 @@
 + 2P
 作戦 さくせん 作戦 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="不特定:人"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/>
 戦闘 せんとう 戦闘 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -43,7 +43,7 @@
 移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 9D
-+ 13D <rel type="=" target="戦闘" sid="wiki00209497-00-01" id="2"/>
++ 13D <rel type="=" target="戦闘" sid="wiki00209497-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/><rel type="外の関係" target="力" sid="wiki00209497-00-01" id="13"/>
 戦闘 せんとう 戦闘 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 14D <rel type="ノ？" target="戦闘" sid="wiki00209497-00-01" id="12"/>
 力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -63,7 +63,7 @@ EOS
 + -1D <rel type="=" target="戦術" sid="wiki00209497-00-01" id="0"/>
 せんじゅつ せんじゅつ せんじゅつ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00209497-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209497-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1D <rel type="=" target="術" sid="wiki00209497-00-01" id="15"/>
 そこ そこ そこ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
@@ -109,7 +109,7 @@ EOS
 * 10D
 + 12D <rel type="ニオイテ" target="競争" sid="wiki00209497-01" id="9"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/><rel type="デ" target="方" sid="wiki00209497-01" id="12"/>
 戦い たたかい 戦い 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ニオイテ" target="競争" sid="wiki00209497-01" id="9"/><rel type="ノ" target="戦い" sid="wiki00209497-01" id="11"/>
++ 13D <rel type="ニオイテ" target="競争" sid="wiki00209497-01" id="9"/><rel type="ノ" target="戦い" sid="wiki00209497-01" id="11"/><memo text="ここも戦術と＝構となる？"/>
 方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -121,7 +121,7 @@ EOS
 なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00209497-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00209497-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1P <rel type="ガ" target="側面" sid="wiki00209497-02" id="2"/>
 理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL

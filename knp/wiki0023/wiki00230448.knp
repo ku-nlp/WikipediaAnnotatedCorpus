@@ -1,4 +1,4 @@
-# S-ID:wiki00230448-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00230448-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/07 MEMO:
 * 2D
 + 5D
 リセ りせ リセ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -9,17 +9,17 @@
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D
++ 4D
 後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL
 + 4D
 中等 ちゅうとう 中等 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="デ" target="機関" sid="wiki00230448-00" id="5"/><rel type="ヲ" target="不特定:人"/><rel type="時間" target="後期" sid="wiki00230448-00" id="2"/><rel type="修飾" target="中等" sid="wiki00230448-00" id="3"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="リセ" sid="wiki00230448-00" id="0"/><rel type="ノ" target="教育" sid="wiki00230448-00" id="4"/><rel type="=" target="リセ" sid="wiki00230448-00" id="0"/>
++ -1D <rel type="ガ" target="リセ" sid="wiki00230448-00" id="0"/><rel type="=構" target="リセ" sid="wiki00230448-00" id="0"/><rel type="ノ？" target="フランス" sid="wiki00230448-00" id="1"/><rel type="ノ？" mode="AND" target="教育" sid="wiki00230448-00" id="4"/><memo text="CO"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230448-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00230448-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/07 MEMO:
 * 1D
 + 2D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -27,7 +27,7 @@ EOS
 * 2D
 + 2D <rel type="ガ" target="学校" sid="wiki00230448-01" id="2"/>
 高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 3D
++ 3D <rel type="ノ？" target="日本" sid="wiki00230448-01" id="0"/><rel type="修飾" target="高等" sid="wiki00230448-01" id="1"/>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -36,10 +36,10 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230448-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00230448-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/11/07 MEMO:
 * 1D
 + 1D <NE:ORGANIZATION:コレージュ>
-コレージュ コレージュ コレージュ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+コレージュ これーじゅ コレージュ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="コレージュ" sid="wiki00230448-02" id="0"/><rel type="ニ" target="リセ" sid="wiki00230448-00" id="0"/>
@@ -56,14 +56,14 @@ EOS
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 5D
-ギムナジウム ギムナジウム ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL
+ギムナジウム ぎむなじうむ ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="リセ" sid="wiki00230448-00" id="0"/><rel type="ニ" target="ギムナジウム" sid="wiki00230448-02" id="4"/>
 近かった ちかかった 近い 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00230448-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00230448-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/07 MEMO:
 * 5D
 + 13D
 大まかに おおまかに 大まかだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
@@ -78,10 +78,10 @@ EOS
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
 + 4D
-バカロレア バカロレア バカロレア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バカロレア" sid="wiki00230448-03" id="3"/>
+バカロレア ばかろれあ バカロレア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バカロレア" sid="wiki00230448-03" id="3"/><rel type="デ" target="コース" sid="wiki00230448-03" id="5"/>
 取得 しゅとく 取得 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12P <rel type="ノ" target="取得" sid="wiki00230448-03" id="4"/>
++ 12P <rel type="修飾" target="制" sid="wiki00230448-03" id="2"/><rel type="ノ" target="取得" sid="wiki00230448-03" id="4"/><rel type="ノ" mode="AND" target="リセ" sid="wiki00230448-00" id="0"/>
 コース こーす コース 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -95,17 +95,17 @@ EOS
 * 5D
 + 9D
 職業 しょくぎょう 職業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
++ 10D <rel type="ニツイテ" target="職業" sid="wiki00230448-03" id="8"/>
 適性 てきせい 適性 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="ノ" target="適性" sid="wiki00230448-03" id="9"/>
 証 しょう 証 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証" sid="wiki00230448-03" id="10"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証" sid="wiki00230448-03" id="10"/><rel type="デ" target="コース" sid="wiki00230448-03" id="12"/><rel type="=≒" target="取得" sid="wiki00230448-03" id="4"/>
 取得 しゅとく 取得 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D
++ 13D <rel type="修飾" target="制" sid="wiki00230448-03" id="7"/><rel type="=≒" target="コース" sid="wiki00230448-03" id="5"/><rel type="ノ" target="取得" sid="wiki00230448-03" id="11"/><rel type="ノ" mode="AND" target="リセ" sid="wiki00230448-00" id="0"/>
 コース こーす コース 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="コース" sid="wiki00230448-03" id="5"/><rel type="ニ" target="リセ" sid="wiki00230448-00" id="0"/>
++ -1D <rel type="ニ" target="リセ" sid="wiki00230448-00" id="0"/><rel type="ガ" target="コース" sid="wiki00230448-03" id="5"/><rel type="ガ" mode="AND" target="コース" sid="wiki00230448-03" id="12"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,4 +1,4 @@
-# S-ID:wiki00208599-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208599-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000 MOD:2022/11/04 MEMO:
 * 1P
 + 1D
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
@@ -8,7 +8,7 @@
 * 12D
 + 3D <rel type="=" target="イスラム" sid="wiki00208599-00-01" id="0"/>
 イスラーム いすらーむ イスラーム 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 20D <rel type="=" target="主義" sid="wiki00208599-00-01" id="1"/><rel type="=" mode="AND" target="主義" sid="wiki00208599-00-01" id="1"/>
++ 20D <rel type="=" target="主義" sid="wiki00208599-00-01" id="1"/>
 主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -38,11 +38,11 @@
 政体 せいたい 政体 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="政体" sid="wiki00208599-00-01" id="10"/>
++ 12D <rel type="ガ" target="政体" sid="wiki00208599-00-01" id="10"/>
 実現 じつげん 実現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 18D <rel type="ヲ" target="実現" sid="wiki00208599-00-01" id="11"/><rel type="ガ" target="潮流" sid="wiki00208599-00-01" id="18"/><rel type="ガ" mode="AND" target="運動" sid="wiki00208599-00-01" id="16"/>
++ 18D <rel type="ヲ" target="実現" sid="wiki00208599-00-01" id="11"/><rel type="ガ" target="運動" sid="wiki00208599-00-01" id="16"/><rel type="ガ" mode="AND" target="潮流など" sid="wiki00208599-00-01" id="18"/>
 企図 きと 企図 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10P
@@ -69,7 +69,7 @@
 + 20D <rel type="ガ" target="用語" sid="wiki00208599-00-01" id="20"/><rel type="ヲ" target="運動" sid="wiki00208599-00-01" id="16"/><rel type="ヲ" mode="AND" target="潮流など" sid="wiki00208599-00-01" id="18"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="主義" sid="wiki00208599-00-01" id="3"/><rel type="=構" target="主義" sid="wiki00208599-00-01" id="3"/>
++ -1D <rel type="ガ" target="主義" sid="wiki00208599-00-01" id="3"/><rel type="=構" target="主義" sid="wiki00208599-00-01" id="3"/><rel type="=構" mode="AND" target="主義" sid="wiki00208599-00-01" id="1"/>
 用語 ようご 用語 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -87,40 +87,40 @@ EOS
 + -1D <rel type="=" target="主義" sid="wiki00208599-00-01" id="3"/>
 しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00208599-00-03 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208599-00-03 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/04 MEMO:
 * -1D
 + 1D <rel type="=" target="イスラーム" sid="wiki00208599-00-02" id="2"/>
 イスラーム いすらーむ イスラーム 名詞 6 固有名詞 3 * 0 * 0 NIL
 + -1D <rel type="修飾" target="イスラーム" sid="wiki00208599-00-03" id="0"/><rel type="=" target="政体" sid="wiki00208599-00-01" id="10"/>
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00208599-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208599-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/11/04 MEMO:
 * 16D
 + 19D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <memo text="品詞、Nがいいか"/><NE:OPTIONAL:ハディース>
-ハディース はでぃーす ハディース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4D <memo text="品詞、Nがいいか→Nに（二階堂）"/><NE:OPTIONAL:ハディース>
+ハディース はでぃーす ハディース 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D
 主たる しゅたる 主たる 連体詞 11 * 0 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ノ" target="神学" sid="wiki00208599-01-01" id="6"/><rel type="ノ" mode="AND" target="哲学" sid="wiki00208599-01-01" id="8"/><rel type="ノ" mode="AND" target="法" sid="wiki00208599-01-01" id="10"/><rel type="=構" target="ハディース" sid="wiki00208599-01-01" id="1"/>
-典拠 典拠 典拠 名詞 6 普通名詞 1 * 0 * 0 NIL
+典拠 てんきょ 典拠 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <rel type="ヲ" target="ハディース" sid="wiki00208599-01-01" id="1"/><rel type="ガ" target="神学" sid="wiki00208599-01-01" id="6"/><rel type="ガ" mode="AND" target="哲学" sid="wiki00208599-01-01" id="8"/><rel type="ガ" mode="AND" target="法" sid="wiki00208599-01-01" id="10"/><rel type="ト" target="典拠" sid="wiki00208599-01-01" id="3"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7P
-+ 6D <rel type="=" target="イスラーム" sid="wiki00208599-00-02" id="2"/>
++ 6D <rel type="=" target="イスラム" sid="wiki00208599-00-02" id="0"/>
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
 + 10P <rel type="修飾" target="イスラム" sid="wiki00208599-01-01" id="5"/>
 神学 しんがく 神学 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 8D <rel type="=" target="イスラーム" sid="wiki00208599-00-02" id="2"/>
++ 8D <rel type="=" target="イスラム" sid="wiki00208599-01-01" id="5"/>
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
 + 10P <rel type="修飾" target="イスラム" sid="wiki00208599-01-01" id="7"/>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -165,7 +165,7 @@ EOS
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00208599-01-02 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208599-01-02 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/11/04 MEMO:
 * 1P
 + 1D <rel type="=" target="イスラム" sid="wiki00208599-01-01" id="7"/>
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL

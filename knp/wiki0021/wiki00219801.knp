@@ -1,4 +1,4 @@
-# S-ID:wiki00219801-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00219801-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/11/07 MEMO:
 * 20D
 + 1D
 参事 さんじ 参事 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -40,7 +40,7 @@
 はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 16D <rel type="ガ" target="省庁" sid="wiki00219801-00-01" id="16"/><rel type="ヲ" target="官房" sid="wiki00219801-00-01" id="3"/><rel type="ヲ" mode="AND" target="局" sid="wiki00219801-00-01" id="6"/><rel type="ヲ" mode="AND" target="院" sid="wiki00219801-00-01" id="8"/><rel type="ヲ" mode="AND" target="院" sid="wiki00219801-00-01" id="11"/>
++ 16D <rel type="ガ" target="省庁" sid="wiki00219801-00-01" id="16"/><rel type="ヲ" target="官房" sid="wiki00219801-00-01" id="3"/><rel type="ヲ" mode="AND" target="局" sid="wiki00219801-00-01" id="6"/><rel type="ヲ" mode="AND" target="院" sid="wiki00219801-00-01" id="8"/><rel type="ヲ" mode="AND" target="院" sid="wiki00219801-00-01" id="11"/><rel type="ト" target="はじめ" sid="wiki00219801-00-01" id="12"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 8D
 + 16D <NE:LOCATION:日本>
@@ -88,7 +88,7 @@
 * 18D
 + 27D <rel type="ガ" target="事項" sid="wiki00219801-00-01" id="27"/>
 重要 じゅうよう 重要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 29D
++ 29D <rel type="修飾" target="重要" sid="wiki00219801-00-01" id="26"/>
 事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
@@ -114,7 +114,7 @@ EOS
 + -1D <rel type="=" target="官" sid="wiki00219801-00-01" id="1"/>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00219801-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00219801-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/11/07 MEMO:
 * 2D
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
@@ -142,12 +142,12 @@ EOS
 職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="職" sid="wiki00219801-01" id="6"/><rel type="ニ" target="組織ごと" sid="wiki00219801-01" id="8"/>
++ 8D <rel type="ガ" target="職" sid="wiki00219801-01" id="6"/><rel type="ニ" target="組織" sid="wiki00219801-01" id="8"/><rel type="ニ" mode="AND" target="省庁" sid="wiki00219801-00-01" id="16"/>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 9D
++ 9D <rel type="ノ" target="省庁" sid="wiki00219801-00-01" id="16"/>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -163,7 +163,7 @@ EOS
 様々である さまざまである 様々だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00219801-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00219801-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/11/07 MEMO:
 * 6D
 + 1D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
@@ -175,7 +175,7 @@ EOS
 * 2P
 + 4D
 外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="修飾" target="外交" sid="wiki00219801-02-01" id="2"/>
 使節 しせつ 使節 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6P <rel type="ニカンシテ" target="外交" sid="wiki00219801-02-01" id="2"/><rel type="ノ" target="使節" sid="wiki00219801-02-01" id="3"/>
 団 だん 団 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -208,8 +208,8 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00219801-02-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00219801-02-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/07 MEMO:
 * -1D
-+ -1D <memo text="intergovernmental organization"/><NE:ORGANIZATION:IGO>
-IGO IGO IGO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="機関" sid="wiki00219801-02-01" id="6"/><memo text="intergovernmental organization"/>
+IGO IGO IGO 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

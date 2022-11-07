@@ -1,4 +1,4 @@
-# S-ID:wiki00221779-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/26 MEMO:
+# S-ID:wiki00221779-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/07 MEMO:
 * 11D
 + 1D
 税務 ぜいむ 税務 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -10,7 +10,7 @@
 * 2D
 + 3D
 国税 こくぜい 国税 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <NE:ORGANIZATION:国税庁>
++ 5D <rel type="ノ？" target="国税" sid="wiki00221779-00-01" id="2"/><NE:ORGANIZATION:国税庁>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
@@ -36,11 +36,11 @@
 事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="ノ" target="事務" sid="wiki00221779-00-01" id="11"/>
++ 12D <rel type="ノ" target="事務" sid="wiki00221779-00-01" id="10"/>
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ガ" target="国" sid="wiki00221779-00-01" id="16"/><rel type="ヲ" target="一部" sid="wiki00221779-00-01" id="12"/><rel type="ニ" target="機関" sid="wiki00221779-00-01" id="17"/><rel type="外の関係" target="ため" sid="wiki00221779-00-01" id="13"/>
++ 13D <rel type="ニ" target="機関" sid="wiki00221779-00-01" id="17"/><rel type="外の関係" target="ため" sid="wiki00221779-00-01" id="13"/><rel type="ガ" target="国" sid="wiki00221779-00-01" id="15"/><rel type="ヲ" target="一部" sid="wiki00221779-00-01" id="11"/>
 分掌 ぶんしょう 分掌 名詞 6 普通名詞 1 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -49,7 +49,7 @@
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="ガ" target="機関" sid="wiki00221779-00-01" id="18"/><rel type="ニ" target="国" sid="wiki00221779-00-01" id="16"/><rel type="トシテ" target="組織" sid="wiki00221779-00-01" id="5"/>
++ 17D <rel type="ガ" target="機関" sid="wiki00221779-00-01" id="18"/><rel type="トシテ" target="組織" sid="wiki00221779-00-01" id="5"/><rel type="ニ" target="国" sid="wiki00221779-00-01" id="15"/>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -72,11 +72,11 @@ EOS
 + -1D <rel type="=" target="署" sid="wiki00221779-00-01" id="1"/>
 しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00221779-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/26 MEMO:
+# S-ID:wiki00221779-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/07 MEMO:
 * 1D
 + 1D
 財務 ざいむ 財務 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D
++ 2D <rel type="ノ？" target="財務" sid="wiki00221779-01" id="0"/>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 3D <rel type="ヲ" target="省" sid="wiki00221779-01" id="1"/><rel type="ガ" target="国" sid="wiki00221779-00-01" id="15"/>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>

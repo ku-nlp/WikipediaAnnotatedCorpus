@@ -1,4 +1,4 @@
-# S-ID:wiki00208466-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208466-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/11/04 MEMO:
 * 9D
 + 2D
 無形 むけい 無形 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
@@ -13,7 +13,7 @@
 民俗 みんぞく 民俗 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6P <rel type="修飾" target="民俗" sid="wiki00208466-00-01" id="3"/><rel type="修飾" mode="AND" target="文化" sid="wiki00208466-00-01" id="4"/>
++ 6P <rel type="修飾" target="民俗" sid="wiki00208466-00-01" id="3"/><rel type="修飾" mode="AND" target="文化" sid="wiki00208466-00-01" id="4"/><rel type="=" target="文化" sid="wiki00208466-00-01" id="1"/>
 財 ざい 財 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
@@ -36,7 +36,7 @@
 財 ざい 財 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D <rel type="ガ" target="機関" sid="wiki00208466-00-01" id="20"/><rel type="ヲ" target="財" sid="wiki00208466-00-01" id="11"/>
++ 13D <rel type="ガ" target="機関" sid="wiki00208466-00-01" id="20"/><rel type="ヲ" target="対象" sid="wiki00208466-00-01" id="13"/>
 保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 14D <rel type="ノ" target="保護" sid="wiki00208466-00-01" id="12"/><rel type="=構" target="財" sid="wiki00208466-00-01" id="11"/>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -83,7 +83,7 @@ EOS
 + -1D <rel type="=" target="機関" sid="wiki00208466-00-01" id="20"/><NE:ORGANIZATION:ユネスコ>
 ユネスコ ゆねすこ ユネスコ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00208466-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208466-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1D <NE:DATE:2006年>
 2006 にせんろく 2006 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
@@ -117,7 +117,7 @@ EOS
 基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00208466-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208466-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 2D
 無形 むけい 無形 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
@@ -137,11 +137,11 @@ EOS
 * 7D
 + 6D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 13D <rel type="修飾" target="世界" sid="wiki00208466-02" id="5"/><NE:OPTIONAL:世界遺産>
++ 13D <rel type="修飾" target="世界" sid="wiki00208466-02" id="5"/><rel type="ノ？" target="ユネスコ" sid="wiki00208466-02" id="4"/><NE:OPTIONAL:世界遺産>
 遺産 いさん 遺産 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00208466-02" id="8"/>
 建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11D <rel type="ノ" target="建築" sid="wiki00208466-02" id="7"/>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -163,18 +163,18 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00208466-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208466-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/04 MEMO:
 * 3D
 + 3D <rel type="ト" target="ユネスコ" sid="wiki00208466-02" id="4"/><rel type="ト" mode="？" target="遺産" sid="wiki00208466-02" id="2"/><rel type="ガ" target="宣言" sid="wiki00208466-03" id="5"/>
 関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 3D
-+ 3D
-2001 にせんいち 2001 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 3D <NE:DATE:2001年>
+2001 にせんいち 2001 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ノ" target="宣言" sid="wiki00208466-03" id="5"/>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
 回 かい 回 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 4D
@@ -184,14 +184,14 @@ EOS
 * 5D
 + 5D
 傑作 けっさく 傑作 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 6D <rel type="ガ" target="ユネスコ" sid="wiki00208466-02" id="4"/><rel type="ヲ" target="90件" sid="wiki00208466-03" id="7"/><rel type="ト" target="傑作" sid="wiki00208466-03" id="4"/><NE:OPTIONAL:傑作宣言>
++ 6D <rel type="ガ" target="ユネスコ" sid="wiki00208466-02" id="4"/><rel type="ヲ" target="90件" sid="wiki00208466-03" id="7"/><rel type="ト" target="傑作" sid="wiki00208466-03" id="4"/><memo text="人類の口承及び無形遺産の傑作の宣言"/><NE:OPTIONAL:傑作宣言>
 宣言 せんげん 宣言 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 7D
-+ 8D <rel type="ノ" target="遺産" sid="wiki00208466-00-01" id="2"/><rel type="=構" target="遺産" sid="wiki00208466-00-01" id="2"/>
++ 8D <rel type="ノ" target="遺産" sid="wiki00208466-00-01" id="2"/><rel type="=構" target="遺産" sid="wiki00208466-00-01" id="2"/><rel type="ニヨッテ" target="宣言" sid="wiki00208466-03" id="5"/>
 90 きゅうじゅっ 90 名詞 6 数詞 7 * 0 * 0 NIL
 件 けん 件 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL

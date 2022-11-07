@@ -1,4 +1,4 @@
-# S-ID:wiki00217136-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000 MOD:2022/10/25 MEMO:
+# S-ID:wiki00217136-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000 MOD:2022/11/04 MEMO:
 * 4D
 + 6D
 灯籠 とうろう 灯籠 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -17,7 +17,7 @@
 * 4D
 + 5D <memo text="サ変とせず"/>
 照明 しょうめい 照明 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ノ？" target="照明" sid="wiki00217136-00-01" id="4"/><rel type="ノ？" mode="AND" target="アジア" sid="wiki00217136-00-01" id="2"/><rel type="=≒" target="灯籠" sid="wiki00217136-00-01" id="0"/>
++ 6D <rel type="=≒" target="灯籠" sid="wiki00217136-00-01" id="0"/><rel type="ノ？" target="照明" sid="wiki00217136-00-01" id="4"/><rel type="修飾" target="アジア" sid="wiki00217136-00-01" id="2"/><rel type="修飾" mode="AND" target="伝統的な" sid="wiki00217136-00-01" id="3"/>
 器具 きぐ 器具 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -30,15 +30,15 @@ EOS
 + -1D <rel type="=" target="灯籠" sid="wiki00217136-00-01" id="0"/>
 とうろう とうろう とうろう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00217136-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/25 MEMO:
+# S-ID:wiki00217136-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/04 MEMO:
 * 1P
-+ 2P <NE:LOCATION:中国>
++ 2P <rel type="ノ？" target="アジア" sid="wiki00217136-00-01" id="2"/><NE:LOCATION:中国>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 2D
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <NE:LOCATION:朝鮮半島>
++ 3P <rel type="ノ？" target="アジア" sid="wiki00217136-00-01" id="2"/><NE:LOCATION:朝鮮半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
@@ -46,7 +46,7 @@ EOS
 ベトナム べとなむ ベトナム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <NE:LOCATION:日本>
++ 5D <rel type="ノ？" target="アジア" sid="wiki00217136-00-01" id="2"/><NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL

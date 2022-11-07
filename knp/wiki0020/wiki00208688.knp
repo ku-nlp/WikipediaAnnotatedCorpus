@@ -1,4 +1,4 @@
-# S-ID:wiki00208688-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208688-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/11/04 MEMO:
 * 8D
 + 9D
 戒名 かいみょう 戒名 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -50,16 +50,16 @@ EOS
 受戒 じゅかい 受戒 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 EOS
-# S-ID:wiki00208688-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/10/12 MEMO:
+# S-ID:wiki00208688-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/11/04 MEMO:
 * 1D
 + 1D
 仏門 ぶつもん 仏門 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="者" sid="wiki00208688-00-01" id="7"/><rel type="ニ" target="仏門" sid="wiki00208688-01" id="0"/>
++ 2D <rel type="ガ" target="者" sid="wiki00208688-00-01" id="7"/><rel type="ニ" target="仏門" sid="wiki00208688-01" id="0"/><rel type="外の関係" target="証" sid="wiki00208688-01" id="2"/>
 入った はいった 入る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
-* 7D
-+ 7D <rel type="ガ" target="戒名" sid="wiki00208688-00-01" id="0"/><rel type="ノ" target="入った" sid="wiki00208688-01" id="1"/><rel type="=構" target="戒名" sid="wiki00208688-00-01" id="0"/>
+* 7P
++ 7P <rel type="ガ" target="戒名" sid="wiki00208688-00-01" id="0"/><rel type="ノ" target="入った" sid="wiki00208688-01" id="1"/><rel type="=構" target="戒名" sid="wiki00208688-00-01" id="0"/>
 証 あかし 証 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -68,7 +68,7 @@ EOS
 戒律 かいりつ 戒律 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="者" sid="wiki00208688-00-01" id="7"/><rel type="ヲ" target="戒律" sid="wiki00208688-01" id="3"/><rel type="=≒" target="守る" sid="wiki00208688-00-01" id="4"/>
++ 5D <rel type="ガ" target="者" sid="wiki00208688-00-01" id="7"/><rel type="ヲ" target="戒律" sid="wiki00208688-01" id="3"/><rel type="=≒" target="守る" sid="wiki00208688-00-01" id="4"/><rel type="外の関係" target="証" sid="wiki00208688-01" id="5"/>
 守る まもる 守る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 6D
 + 6D <rel type="ノ" target="守る" sid="wiki00208688-01" id="4"/><rel type="=≒" target="証" sid="wiki00208688-01" id="2"/><rel type="=構" mode="AND" target="戒名" sid="wiki00208688-00-01" id="0"/>

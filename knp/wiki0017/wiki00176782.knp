@@ -1,91 +1,91 @@
 # S-ID:wiki00176782-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/22 MEMO:
 * 5D
 + 3D <NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 3D
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0
-三 さん 三 名詞 6 数詞 7 * 0 * 0
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL
 + 3D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="修飾" target="第三" sid="wiki00176782-00-01" id="1"/><rel type="修飾" mode="AND" target="共和" sid="wiki00176782-00-01" id="2"/><rel type="ノ？" target="フランス" sid="wiki00176782-00-01" id="0"/><memo text="フランス第三共和政でNE:ORG？？"/>
-政 せい 政 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+政 せい 政 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5P <NE:LOCATION:普>
-普 ふ 普 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+普 ふ 普 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 6D <rel type="=" target="フランス" sid="wiki00176782-00-01" id="0"/><NE:LOCATION:仏>
-仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 7D <rel type="ガ" target="普" sid="wiki00176782-00-01" id="4"/><rel type="ト" target="仏" sid="wiki00176782-00-01" id="5"/><memo text="ガト交替可"/>
-戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0
-さなか さなか さなか 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さなか さなか さなか 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 8D <rel type="修飾" target="戦争さなか" sid="wiki00176782-00-01" id="6"/><NE:DATE:1870年>
-1870 せんはっぴゃくななじゅう 1870 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+1870 せんはっぴゃくななじゅう 1870 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="政体" sid="wiki00176782-00-01" id="11"/><rel type="時間" target="1870年" sid="wiki00176782-00-01" id="7"/><rel type="デ" target="フランス" sid="wiki00176782-00-01" id="9"/>
-樹立 じゅりつ 樹立 名詞 6 サ変名詞 2 * 0 * 0
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+樹立 じゅりつ 樹立 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
 + 11D <rel type="=" target="フランス" sid="wiki00176782-00-01" id="0"/><NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 11D <rel type="=" target="共和" sid="wiki00176782-00-01" id="2"/>
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="政" sid="wiki00176782-00-01" id="3"/><rel type="ノ？" target="フランス" sid="wiki00176782-00-01" id="9"/><rel type="修飾" target="共和" sid="wiki00176782-00-01" id="10"/><rel type="=構" target="政" sid="wiki00176782-00-01" id="3"/><memo text="CO"/>
-政体 せいたい 政体 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+政体 せいたい 政体 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00176782-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/22 MEMO:
 * -1D
 + 3D <rel type="=" target="フランス" sid="wiki00176782-00-01" id="0"/><NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 3D <rel type="=" target="第三" sid="wiki00176782-00-01" id="1"/>
-だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0
-さん さん さん 名詞 6 数詞 7 * 0 * 0
+だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+さん さん さん 名詞 6 数詞 7 * 0 * 0 NIL
 + 3D <rel type="=" target="共和" sid="wiki00176782-00-01" id="2"/>
-きょうわ きょうわ きょうわ 名詞 6 普通名詞 1 * 0 * 0
+きょうわ きょうわ きょうわ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="政" sid="wiki00176782-00-01" id="3"/>
-せい せい せい 名詞 6 普通名詞 1 * 0 * 0
+せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00176782-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/22 MEMO:
 * 4D
 + 8D <NE:DATE:1940年>
-1940 せんきゅうひゃくよんじゅう 1940 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+1940 せんきゅうひゃくよんじゅう 1940 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <NE:ORGANIZATION:ナチス>
-ナチス なちす ナチス 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+ナチス なちす ナチス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D <NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="=" target="フランス" sid="wiki00176782-00-01" id="9"/><NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 5D <rel type="ガ" target="ドイツ" sid="wiki00176782-01" id="2"/><rel type="ニ" target="フランス" sid="wiki00176782-01" id="3"/>
-侵攻 しんこう 侵攻 名詞 6 サ変名詞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+侵攻 しんこう 侵攻 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 8D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 5D
 + 7D <rel type="ノ？" target="フランス" sid="wiki00176782-01" id="3"/><NE:LOCATION:ヴィシー>
-ヴィシー ゔぃしー ヴィシー 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+ヴィシー ゔぃしー ヴィシー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 8D <rel type="=≒" target="フランス" sid="wiki00176782-01" id="3"/><rel type="修飾" target="ヴィシー" sid="wiki00176782-01" id="6"/><memo text="政権名？なのでヴィシー・フランスでNE:LOCとはしなかった"/><NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 9D <rel type="ガ" target="フランス" sid="wiki00176782-01" id="7"/><rel type="ニヨッテ" target="侵攻" sid="wiki00176782-01" id="4"/><rel type="時間" target="1940年" sid="wiki00176782-01" id="0"/>
-成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0
-まで まで まで 助詞 9 格助詞 1 * 0 * 0
+成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="政" sid="wiki00176782-00-01" id="3"/><rel type="マデ" target="成立" sid="wiki00176782-01" id="8"/>
-存続 そんぞく 存続 名詞 6 サ変名詞 2 * 0 * 0
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10
-。 。 。 特殊 1 句点 1 * 0 * 0
+存続 そんぞく 存続 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,50 +1,50 @@
 # S-ID:wiki00001951-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
 * 5D
 + 2D
-ソニー そにー ソニー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+ソニー そにー ソニー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 9D <NE:ORGANIZATION:ソニー株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 6D <NE:LOCATION:東京都港区>
-港 みなと 港 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+港 みなと 港 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ノ" target="メーカー" sid="wiki00001951-00" id="9"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 9D <rel type="ガ" target="メーカー" sid="wiki00001951-00" id="9"/><rel type="ヲ" target="本社" sid="wiki00001951-00" id="5"/><rel type="ニ" target="港区" sid="wiki00001951-00" id="4"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 * 5D
 + 9D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 9D
-電機 でんき 電機 名詞 6 普通名詞 1 * 0 * 0
+電機 でんき 電機 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00001951-00" id="2"/><rel type="ノ" target="電機" sid="wiki00001951-00" id="8"/><rel type="=" target="会社" sid="wiki00001951-00" id="2"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00001951-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
 + 1D <rel type="=" target="ソニー" sid="wiki00001951-00" id="0"/>
-ソニー そにー ソニー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+ソニー そにー ソニー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D <rel type="ノ" target="ソニー" sid="wiki00001951-01" id="0"/><NE:ORGANIZATION:ソニーグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 3D
-完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00001951-00" id="2"/><rel type="ノ" target="グループ" sid="wiki00001951-01" id="1"/><rel type="=" target="会社" sid="wiki00001951-00" id="2"/>
-子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

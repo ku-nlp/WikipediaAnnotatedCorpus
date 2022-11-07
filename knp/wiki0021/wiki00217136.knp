@@ -1,58 +1,58 @@
 # S-ID:wiki00217136-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000 MOD:2022/10/25 MEMO:
 * 4D
 + 6D
-灯籠 とうろう 灯籠 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+灯籠 とうろう 灯籠 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 2D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 5D <rel type="修飾" target="東" sid="wiki00217136-00-01" id="1"/><NE:LOCATION:東アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ガ" target="器具" sid="wiki00217136-00-01" id="5"/>
-伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0
-的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
+伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
 + 5D <memo text="サ変とせず"/>
-照明 しょうめい 照明 名詞 6 サ変名詞 2 * 0 * 0
+照明 しょうめい 照明 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 6D <rel type="ノ？" target="照明" sid="wiki00217136-00-01" id="4"/><rel type="ノ？" mode="AND" target="アジア" sid="wiki00217136-00-01" id="2"/><rel type="=≒" target="灯籠" sid="wiki00217136-00-01" id="0"/>
-器具 きぐ 器具 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+器具 きぐ 器具 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="灯籠" sid="wiki00217136-00-01" id="0"/><rel type="ノ" target="器具" sid="wiki00217136-00-01" id="5"/><rel type="=構" target="灯籠" sid="wiki00217136-00-01" id="0"/><memo text="CO 副詞→名詞に"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00217136-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/25 MEMO:
 * -1D
 + -1D <rel type="=" target="灯籠" sid="wiki00217136-00-01" id="0"/>
-とうろう とうろう とうろう 名詞 6 普通名詞 1 * 0 * 0
+とうろう とうろう とうろう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00217136-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/25 MEMO:
 * 1P
 + 2P <NE:LOCATION:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-、 、 、 特殊 1 読点 2 * 0 * 0
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 2D
-朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 3P <NE:LOCATION:朝鮮半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 4P <NE:LOCATION:ベトナム>
-ベトナム べとなむ ベトナム 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-、 、 、 特殊 1 読点 2 * 0 * 0
+ベトナム べとなむ ベトナム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-など など など 助詞 9 副助詞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="灯籠" sid="wiki00217136-00-01" id="0"/><rel type="ニ" target="中国" sid="wiki00217136-01" id="0"/><rel type="ニ" mode="AND" target="半島" sid="wiki00217136-01" id="2"/><rel type="ニ" mode="AND" target="ベトナム" sid="wiki00217136-01" id="3"/><rel type="ニ" mode="AND" target="日本など" sid="wiki00217136-01" id="4"/>
-分布 ぶんぷ 分布 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+分布 ぶんぷ 分布 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

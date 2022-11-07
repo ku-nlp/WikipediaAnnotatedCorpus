@@ -1,84 +1,84 @@
 # S-ID:wiki00000436-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 4D
 + 5D
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D <NE:LOCATION:北海道>
-北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 4D <rel type="ノ" target="北海道" sid="wiki00000436-00" id="2"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <rel type="ガ" target="道" sid="wiki00000436-00" id="5"/><rel type="ニ" target="地方" sid="wiki00000436-00" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + -1D <rel type="ガ" target="は、" sid="wiki00000436-00" id="0"/><rel type="=" target="は、" sid="wiki00000436-00" id="0"/>
-道 みち 道 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00000436-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
 * 1D
 + 1D <rel type="=" target="日本" sid="wiki00000436-00" id="1"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 2D <NE:LOCATION:日本列島>
-列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-を を を 助詞 9 格助詞 1 * 0 * 0
+列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ガ" target="島" sid="wiki00000436-01" id="5"/><rel type="ヲ" target="列島" sid="wiki00000436-01" id="1"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
 + 5D <rel type="ガ" target="島" sid="wiki00000436-01" id="5"/>
-主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 * 4D
 + 5D
-4 よん 4 名詞 6 数詞 7 * 0 * 0
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
 + 6D
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 格助詞 1 * 0 * 0
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 10D <rel type="ガ" target="道" sid="wiki00000436-00" id="5"/><rel type="ノ" target="島" sid="wiki00000436-01" id="5"/><rel type="=" target="道" sid="wiki00000436-00" id="5"/>
-ひと ひと ひと 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
-、 、 、 特殊 1 読点 2 * 0 * 0
+ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 8D <rel type="=" target="日本" sid="wiki00000436-01" id="0"/><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 9D <rel type="ノ" target="日本" sid="wiki00000436-01" id="7"/>
-北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 10D <rel type="ガ" target="島" sid="wiki00000436-01" id="10"/><rel type="ニ" target="北部" sid="wiki00000436-01" id="8"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + -1D <rel type="ガ" target="道" sid="wiki00000436-00" id="5"/><rel type="=" target="道" sid="wiki00000436-00" id="5"/>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00000436-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
 + 1D <rel type="=" target="島" sid="wiki00000436-01" id="10"/>
-道 どう 道 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="ノ" target="道" sid="wiki00000436-02" id="0"/><NE:ORGANIZATION:道庁>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 3D
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="地" sid="wiki00000436-02" id="3"/><rel type="=" target="地" sid="wiki00000436-02" id="3"/><NE:LOCATION:札幌市>
-札幌 さっぽろ 札幌 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-。 。 。 特殊 1 句点 1 * 0 * 0
+札幌 さっぽろ 札幌 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

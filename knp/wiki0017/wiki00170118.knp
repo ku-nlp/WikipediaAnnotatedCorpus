@@ -1,104 +1,104 @@
 # S-ID:wiki00170118-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/09/14 MEMO:
 * 10D
 + 2D <NE:PERSON:ケインズ>
-ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 + 2D
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 18D <rel type="ノ" target="経済" sid="wiki00170118-00-01" id="1"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D
-ジョン じょん ジョン 名詞 6 人名 5 * 0 * 0 <NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:PERSON:middle>
+ジョン じょん ジョン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
 + 5D
-メイナード めいなーど メイナード 名詞 6 人名 5 * 0 * 0 <NE:PERSON:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:PERSON:middle>
+メイナード めいなーど メイナード 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
 + 6D <rel type="=" target="ケインズ" sid="wiki00170118-00-01" id="0"/><NE:PERSON:ジョン・メイナード・ケインズ>
-ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 <NE:PERSON:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 11D <rel type="ノ" target="ケインズ" sid="wiki00170118-00-01" id="5"/>
-著書 ちょしょ 著書 名詞 6 普通名詞 1 * 0 * 0
+著書 ちょしょ 著書 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 4P
 + 8P
-『 『 『 特殊 1 括弧始 3 * 0 * 0
-雇用 こよう 雇用 名詞 6 サ変名詞 2 * 0 * 0 <NE:ARTIFACT:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ARTIFACT:middle>
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+雇用 こよう 雇用 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 9P
-利子 りし 利子 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-および および および 助詞 9 接続助詞 3 * 0 * 0 <NE:ARTIFACT:middle>
+利子 りし 利子 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 5D
 + 11D
-貨幣 かへい 貨幣 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-の の の 助詞 9 接続助詞 3 * 0 * 0 <NE:ARTIFACT:middle>
+貨幣 かへい 貨幣 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 7D
 + 11D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 14D <rel type="=構" target="著書" sid="wiki00170118-00-01" id="6"/><rel type="修飾" target="著書" sid="wiki00170118-00-01" id="6"/><NE:ARTIFACT:雇用・利子および貨幣の一般理論>
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
-』 』 』 特殊 1 括弧終 4 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
 + 13D <rel type="ガ" target="学" sid="wiki00170118-00-01" id="17"/><rel type="外の関係" target="点" sid="wiki00170118-00-01" id="13"/>
-出発 しゅっぱつ 出発 名詞 6 サ変名詞 2 * 0 * 0
+出発 しゅっぱつ 出発 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 14P <rel type="ヲ" target="理論" sid="wiki00170118-00-01" id="11"/><rel type="ノ" target="学" sid="wiki00170118-00-01" id="17"/><rel type="=構" target="理論" sid="wiki00170118-00-01" id="11"/>
-点 てん 点 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 15D <rel type="ノ" target="学" sid="wiki00170118-00-01" id="17"/><rel type="ヲ" target="理論" sid="wiki00170118-00-01" id="11"/><memo text="この前に「あるいは」などがないと不自然"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 17D <rel type="ガ" target="学" sid="wiki00170118-00-01" id="17"/><rel type="ニ" target="不特定:人"/>
-展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
-れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 10D
 + 17D
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 18D <rel type="=構" target="学" sid="wiki00170118-00-01" id="2"/><rel type="ノ" target="経済" sid="wiki00170118-00-01" id="16"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="学" sid="wiki00170118-00-01" id="2"/><rel type="ノ" target="学" sid="wiki00170118-00-01" id="17"/><rel type="=構" target="学" sid="wiki00170118-00-01" id="2"/><memo text="CO"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00170118-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/14 MEMO:
 * 1D
 + 2D <rel type="=" target="ケインズ" sid="wiki00170118-00-01" id="0"/><NE:PERSON:ケインズ>
-ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 + 2D <rel type="=" target="経済" sid="wiki00170118-00-01" id="1"/>
-けいざい けいざい けいざい 名詞 6 普通名詞 1 * 0 * 0
+けいざい けいざい けいざい 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="=" target="学" sid="wiki00170118-00-01" id="2"/>
-がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 5D <NE:OPTIONAL:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
-: : : 特殊 1 記号 5 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 5D
-Keynesian Keynesian Keynesian 名詞 6 普通名詞 1 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
+Keynesian Keynesian Keynesian 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + -1D <rel type="=" target="学" sid="wiki00170118-00-01" id="2"/>
-economics economics economics 名詞 6 普通名詞 1 * 0 * 0
+economics economics economics 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00170118-00-03 括弧始:（ 括弧終:） 括弧位置:79 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/26 MEMO:
 * -1D
 + -1D <memo text="著書の発行年"/><NE:DATE:1936年>
-1936 せんきゅうひゃくさんじゅうろく 1936 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+1936 せんきゅうひゃくさんじゅうろく 1936 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00170118-00-04 括弧始:（ 括弧終:） 括弧位置:102 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/14 MEMO:
 * -1D
 + 1D
-マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0
+マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="修飾" target="マクロ" sid="wiki00170118-00-04" id="0"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="学" sid="wiki00170118-00-01" id="17"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS

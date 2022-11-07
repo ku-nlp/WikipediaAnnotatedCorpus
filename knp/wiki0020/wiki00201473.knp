@@ -1,185 +1,185 @@
 # S-ID:wiki00201473-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/10/31 MEMO:
 * 7D
 + 1D
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ARTIFACT:middle>
+ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 15D <NE:ARTIFACT:ISO　22000>
-22000 にまんにせん 22000 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+22000 にまんにせん 22000 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 3D
-『 『 『 特殊 1 括弧始 3 * 0 * 0
-食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D <rel type="ガ" target="食品" sid="wiki00201473-00-01" id="2"/>
-安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + 5D <rel type="ニカンシテ" target="安全" sid="wiki00201473-00-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="システム" sid="wiki00201473-00-01" id="5"/>
-マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
+マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 12P <rel type="ノ" target="マネジメント" sid="wiki00201473-00-01" id="4"/>
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-－ － － 特殊 1 記号 5 * 0 * 0 <NE:OPTIONAL:middle>
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+－ － － 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 3D
 + 7D <rel type="=" target="食品" sid="wiki00201473-00-01" id="2"/>
-フード ふーど フード 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+フード ふーど フード 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 8D <rel type="ニカンシテ" target="フード" sid="wiki00201473-00-01" id="6"/>
-チェーン ちぇーん チェーン 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-に に に 助詞 9 格助詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+チェーン ちぇーん チェーン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 4D
 + 9D <rel type="ガ" target="組織" sid="wiki00201473-00-01" id="10"/><rel type="ニ" target="チェーン" sid="wiki00201473-00-01" id="8"/>
-関わる かかわる 関わる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 <NE:OPTIONAL:middle>
+関わる かかわる 関わる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <NE:OPTIONAL:middle>
 * 5D
 + 10D
-組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:middle>
-に に に 助詞 9 格助詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 6D
 + 11D
-対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 <NE:OPTIONAL:middle>
+対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <NE:OPTIONAL:middle>
 * 7D
 + 12D <rel type="ヲ" target="事項" sid="wiki00201473-00-01" id="13"/><rel type="ニタイシテ" target="組織" sid="wiki00201473-00-01" id="9"/><rel type="ガ" target="ISO" sid="wiki00201473-00-01" id="0"/>
-要求 ようきゅう 要求 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:middle>
+要求 ようきゅう 要求 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 15D <rel type="修飾" target="要求" sid="wiki00201473-00-01" id="11"/><NE:OPTIONAL:マネジメントシステム－フードチェーンに関わる組織に対する要求事項>
-事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
-』 』 』 特殊 1 括弧終 4 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 14D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 15D <rel type="修飾" target="国際" sid="wiki00201473-00-01" id="13"/>
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="22000" sid="wiki00201473-00-01" id="1"/><rel type="ニツイテ" target="事項" sid="wiki00201473-00-01" id="12"/><rel type="ニツイテ" mode="AND" target="システム" sid="wiki00201473-00-01" id="5"/><rel type="修飾" target="国際" sid="wiki00201473-00-01" id="13"/><rel type="修飾" mode="AND" target="標準" sid="wiki00201473-00-01" id="14"/><rel type="=構" target="22000" sid="wiki00201473-00-01" id="1"/><memo text="同格の「の」と考える？"/>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00201473-00-02 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
 + 1D <rel type="=" target="食品" sid="wiki00201473-00-01" id="2"/>
-Food Food Food 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+Food Food Food 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 2D <rel type="=" target="安全" sid="wiki00201473-00-01" id="3"/>
-safety safety safety 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+safety safety safety 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D <rel type="=" target="マネジメント" sid="wiki00201473-00-01" id="4"/>
-management management management 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+management management management 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11P <rel type="=" target="システム" sid="wiki00201473-00-01" id="5"/>
-systems systems systems 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
-- - - 特殊 1 記号 5 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+systems systems systems 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D <rel type="=" target="事項" sid="wiki00201473-00-01" id="12"/>
-Requirements Requirements Requirements 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+Requirements Requirements Requirements 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 7D
-for for for 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+for for for 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 7D
-any any any 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+any any any 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 8D <rel type="=" target="組織" sid="wiki00201473-00-01" id="9"/>
-organization organization organization 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+organization organization organization 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D
-in in in 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+in in in 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D
-the the the 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+the the the 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D
-food food food 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+food food food 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + -1D <rel type="=" target="事項" sid="wiki00201473-00-01" id="12"/><rel type="=" mode="AND" target="チェーン" sid="wiki00201473-00-01" id="7"/><NE:OPTIONAL:Food　safety　management　systems　-　Requirements　for　any　organization　in　the　food　chain>
-chain chain chain 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
+chain chain chain 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00201473-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2022/10/31 MEMO:
 * 1D
 + 1D <rel type="ガ" target="食品" sid="wiki00201473-01-01" id="1"/><rel type="=" target="安全" sid="wiki00201473-00-01" id="3"/>
-安全な あんぜんな 安全だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3
+安全な あんぜんな 安全だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 2D
 + 4D <rel type="=≒" target="食品" sid="wiki00201473-00-01" id="2"/>
-食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="食品" sid="wiki00201473-01-01" id="1"/><rel type="外の関係" target="ため" sid="wiki00201473-01-01" id="5"/>
-生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="食品" sid="wiki00201473-01-01" id="1"/><rel type="外の関係" target="ため" sid="wiki00201473-01-01" id="5"/><memo text="サセル"/>
-流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="食品" sid="wiki00201473-01-01" id="1"/><rel type="外の関係" target="ため" sid="wiki00201473-01-01" id="5"/>
-販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 15D
 + 21D <rel type="ノ" target="流通" sid="wiki00201473-01-01" id="3"/><rel type="ノ" mode="AND" target="生産" sid="wiki00201473-01-01" id="2"/><rel type="ノ" mode="AND" target="販売する" sid="wiki00201473-01-01" id="4"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 7D <NE:OPTIONAL:HACCP>
-HACCP はさっぷ HACCP 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
+HACCP はさっぷ HACCP 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 8D <rel type="ノ" target="HACCP" sid="wiki00201473-01-01" id="6"/>
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
 + 16D <rel type="ノ" target="システム" sid="wiki00201473-01-01" id="7"/>
-手法 しゅほう 手法 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+手法 しゅほう 手法 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 10D <rel type="=" target="ISO" sid="wiki00201473-00-01" id="0"/>
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ARTIFACT:middle>
+ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 12D <NE:ARTIFACT:ISO　9001>
-9001 きゅうせんいち 9001 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-を を を 助詞 9 格助詞 1 * 0 * 0
+9001 きゅうせんいち 9001 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 12D <rel type="ノ" target="システム" sid="wiki00201473-01-01" id="14"/><rel type="=構" target="9001" sid="wiki00201473-01-01" id="10"/>
-基礎 きそ 基礎 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+基礎 きそ 基礎 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 14D <rel type="ガ" target="システム" sid="wiki00201473-01-01" id="14"/><rel type="ヲ" target="9001" sid="wiki00201473-01-01" id="10"/><rel type="ト" target="基礎" sid="wiki00201473-01-01" id="11"/>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 10D
 + 14D <rel type="=" target="マネジメント" sid="wiki00201473-00-01" id="4"/>
-マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0
+マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 15D <rel type="トシテ" target="基礎" sid="wiki00201473-01-01" id="11"/><rel type="=" target="システム" sid="wiki00201473-00-01" id="5"/><rel type="=構" mode="AND" target="手法" sid="wiki00201473-01-01" id="8"/>
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
 + 16D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 12D
 + 17D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="手法" sid="wiki00201473-01-01" id="8"/><rel type="トシテ" target="システム" sid="wiki00201473-01-01" id="14"/><rel type="外の関係" target="ため" sid="wiki00201473-01-01" id="17"/>
-運用 うんよう 運用 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+運用 うんよう 運用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13D
 + 18D <rel type="ノ" target="運用する" sid="wiki00201473-01-01" id="16"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
 + 20D <rel type="ガ" target="事項" sid="wiki00201473-01-01" id="20"/><rel type="ニ" target="ため" sid="wiki00201473-01-01" id="17"/><rel type="ニ" mode="？" target="なし"/>
-必要な ひつような 必要だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3
+必要な ひつような 必要だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
 * 15D
 + 20D <rel type="ヲ" target="事項" sid="wiki00201473-01-01" id="20"/><rel type="ニ" target="組織" sid="wiki00201473-00-01" id="9"/><rel type="ガ" target="ISO" sid="wiki00201473-01-01" id="9"/>
-要求 ようきゅう 要求 名詞 6 サ変名詞 2 * 0 * 0
+要求 ようきゅう 要求 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 21D <rel type="=" target="事項" sid="wiki00201473-00-01" id="12"/><rel type="修飾" target="要求" sid="wiki00201473-01-01" id="19"/>
-事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="22000" sid="wiki00201473-00-01" id="1"/><rel type="ヲ" target="事項" sid="wiki00201473-01-01" id="20"/>
-規定 きてい 規定 名詞 6 サ変名詞 2 * 0 * 0
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+規定 きてい 規定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00201473-01-02 括弧始:（ 括弧終:） 括弧位置:42 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
 + 1D
-品質 ひんしつ 品質 名詞 6 普通名詞 1 * 0 * 0
+品質 ひんしつ 品質 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="=≒" target="マネジメント" sid="wiki00201473-00-01" id="4"/><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="品質" sid="wiki00201473-01-02" id="0"/>
-マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0
+マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="=≒" target="システム" sid="wiki00201473-00-01" id="5"/>
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ニカンシテ" target="システム" sid="wiki00201473-01-02" id="2"/><rel type="=" target="9001" sid="wiki00201473-01-01" id="10"/>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

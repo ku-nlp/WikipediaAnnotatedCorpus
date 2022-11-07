@@ -1,109 +1,109 @@
 # S-ID:wiki00006781-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
 + 1D
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 24D <NE:LOCATION:横浜駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 4D
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 5D <NE:LOCATION:神奈川県横浜市西区>
-西区 西区 西区 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+西区 西区 西区 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 24D <rel type="ガ" target="駅" sid="wiki00006781-00-01" id="24"/><rel type="ニ" target="西区" sid="wiki00006781-00-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 4D
 + 7D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 8D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 9D
-旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
+旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 11D <NE:LOCATION:東日本旅客鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 11D
-東急 とうきゅう 東急 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+東急 とうきゅう 東急 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 14D <NE:ORGANIZATION:東急電鉄>
-電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 13D <rel type="=" target="横浜市" sid="wiki00006781-00-01" id="3"/>
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 14D
-高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 <NE:ORGANIZATION:middle>
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:ORGANIZATION:middle>
 + 17D
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 16D
-京浜 けいひん 京浜 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:middle>
+京浜 けいひん 京浜 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 17D
-急行 きゅうこう 急行 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+急行 きゅうこう 急行 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 19D <NE:ORGANIZATION:横浜高速鉄道・京浜急行電鉄>
-電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 19D
-相模 さがみ 相模 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+相模 さがみ 相模 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 22D <NE:LOCATION:相模鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 21D <rel type="=" target="横浜市" sid="wiki00006781-00-01" id="3"/>
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
-市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:ORGANIZATION:middle>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 22D
-交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 24D <NE:ORGANIZATION:横浜市交通局>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 24D
-ターミナル たーみなる ターミナル 名詞 6 普通名詞 1 * 0 * 0
+ターミナル たーみなる ターミナル 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="駅" sid="wiki00006781-00-01" id="1"/><rel type="=" target="駅" sid="wiki00006781-00-01" id="1"/>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006781-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D <rel type="=" target="駅" sid="wiki00006781-00-01" id="24"/>
-よこはまえき よこはまえき よこはまえき 名詞 6 普通名詞 1 * 0 * 0
+よこはまえき よこはまえき よこはまえき 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006781-00-03 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D
-JR JR JR 名詞 6 組織名 6 * 0 * 0
+JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL
 + 2D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + -1D <NE:LOCATION:東日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00006781-00-04 括弧始:（ 括弧終:） 括弧位置:44 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D <NE:ORGANIZATION:東急>
-東急 とうきゅう 東急 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+東急 とうきゅう 東急 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00006781-00-05 括弧始:（ 括弧終:） 括弧位置:62 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D
-京急 けいきゅう 京急 名詞 6 普通名詞 1 * 0 * 0
+京急 けいきゅう 京急 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006781-00-06 括弧始:（ 括弧終:） 括弧位置:71 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D
-相鉄 相鉄 相鉄 名詞 6 普通名詞 1 * 0 * 0
+相鉄 相鉄 相鉄 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006781-00-07 括弧始:（ 括弧終:） 括弧位置:82 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D <rel type="=" target="横浜市" sid="wiki00006781-00-01" id="20"/>
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-市営 しえい 市営 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+市営 しえい 市営 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <NE:ORGANIZATION:横浜市営地下鉄>
-地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

@@ -1,26 +1,26 @@
 # S-ID:wiki00142913-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/03 MEMO:
 * 2D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D <NE:ORGANIZATION:株式会社幻冬舎>
-幻冬舎 げんとうしゃ 幻冬舎 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+幻冬舎 げんとうしゃ 幻冬舎 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 5D <rel type="ガ" target="社" sid="wiki00142913-00-01" id="5"/><rel type="ヲ" target="不特定:物"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="幻冬舎" sid="wiki00142913-00-01" id="2"/><rel type="=構" target="幻冬舎" sid="wiki00142913-00-01" id="2"/><rel type="ノ？" target="出版" sid="wiki00142913-00-01" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00142913-00-01" id="3"/><memo text="CO"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142913-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/03 MEMO:
 * -1D
 + -1D <rel type="=" target="幻冬舎" sid="wiki00142913-00-01" id="2"/>
-げんとうしゃ げんとうしゃ げんとうしゃ 名詞 6 組織名 6 * 0 * 0
+げんとうしゃ げんとうしゃ げんとうしゃ 名詞 6 組織名 6 * 0 * 0 NIL
 EOS

@@ -1,122 +1,122 @@
 # S-ID:wiki00110648-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:79.00000 MOD:2022/06/17 MEMO:
 * 5D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-商船 しょうせん 商船 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+商船 しょうせん 商船 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 12D <NE:ORGANIZATION:株式会社商船三井>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 5D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 6D <rel type="ノ？" target="東京都" sid="wiki00110648-00-01" id="4"/>
-港 みなと 港 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+港 みなと 港 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 8D <rel type="ノ？" target="港区" sid="wiki00110648-00-01" id="5"/><NE:LOCATION:東京都港区虎ノ門>
-虎ノ門 とらのもん 虎ノ門 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+虎ノ門 とらのもん 虎ノ門 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 8D <rel type="ノ" target="三井" sid="wiki00110648-00-01" id="3"/>
-本店 ほんてん 本店 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+本店 ほんてん 本店 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 12D <rel type="ガ" target="会社" sid="wiki00110648-00-01" id="12"/><rel type="ヲ" target="本店" sid="wiki00110648-00-01" id="7"/><rel type="ニ" target="虎ノ門" sid="wiki00110648-00-01" id="6"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2
-、 、 、 特殊 1 読点 2 * 0 * 0
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 12D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 12D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D
-海運 かいうん 海運 名詞 6 普通名詞 1 * 0 * 0
+海運 かいうん 海運 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="三井" sid="wiki00110648-00-01" id="3"/><rel type="修飾" target="大手" sid="wiki00110648-00-01" id="10"/><rel type="=構" target="三井" sid="wiki00110648-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00110648-00-01" id="9"/><rel type="ノ？" mode="AND" target="海運" sid="wiki00110648-00-01" id="11"/><memo text="CO"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00110648-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:10.00000 MOD:2022/06/17 MEMO:
 * 1P
 + 1D <rel type="=" target="商船" sid="wiki00110648-00-01" id="2"/>
-しょうせん しょうせん しょうせん 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+しょうせん しょうせん しょうせん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7P <rel type="=" target="三井" sid="wiki00110648-00-01" id="3"/><NE:ORGANIZATION:しょうせんみつい>
-みつい みつい みつい 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+みつい みつい みつい 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 3D <memo text="Mitsui O.S.K. Lines, Ltd."/>
-Mitsui みつい Mitsui 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+Mitsui みつい Mitsui 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D
-O O O 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
-. . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:middle>
+O O O 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D
-S S S 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
-. . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:middle>
+S S S 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6D
-K K K 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
-. . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:middle>
+K K K 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D
-Lines Lines Lines 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-, , , 特殊 1 読点 2 * 0 * 0 <NE:ORGANIZATION:middle>
+Lines Lines Lines 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+, , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="三井" sid="wiki00110648-00-01" id="3"/><NE:ORGANIZATION:MitsuiO.S.K.Lines,Ltd>
-Ltd Ltd Ltd 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-. . . 特殊 1 句点 1 * 0 * 0
+Ltd Ltd Ltd 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+. . . 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00110648-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/17 MEMO:
 * -1D
 + 1D <NE:ORGANIZATION:東証>
-東証 とうしょう 東証 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+東証 とうしょう 東証 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 2D <rel type="ノ" target="東証" sid="wiki00110648-01" id="0"/>
-一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0
+一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="三井" sid="wiki00110648-00-01" id="3"/><rel type="ニ" target="一部" sid="wiki00110648-01" id="2"/><memo text="PO、CO？"/>
-上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00110648-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2022/06/05 MEMO:
 * 1D
 + 1D <rel type="ノ" target="三井" sid="wiki00110648-00-01" id="3"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="略称" sid="wiki00110648-02-01" id="0"/><rel type="=構" target="略称" sid="wiki00110648-02-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:MOL>
-MOL MOL MOL 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-。 。 。 特殊 1 句点 1 * 0 * 0
+MOL MOL MOL 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00110648-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/05 MEMO:
 * -1D
 + 1D <memo text="略称の読み。"/>
-エム えむ エム 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+エム えむ エム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D
-オー おー オー 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+オー おー オー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="MOL" sid="wiki00110648-02-01" id="1"/><NE:ORGANIZATION:エム・オー・エル>
-エル える エル 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+エル える エル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00110648-03 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/23 MEMO:
 * 1D
 + 2D <NE:ORGANIZATION:日経>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 2D <rel type="ガ" target="日経" sid="wiki00110648-03" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00110648-03" id="2"/>
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 4D <rel type="修飾" target="平均" sid="wiki00110648-03" id="1"/><rel type="ノ？" target="日経" sid="wiki00110648-03" id="0"/>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ガ" target="銘柄" sid="wiki00110648-03" id="4"/><rel type="ヲ" target="株価" sid="wiki00110648-03" id="2"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 5D <rel type="=≒" target="三井" sid="wiki00110648-00-01" id="3"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="銘柄" sid="wiki00110648-03" id="4"/><rel type="ガ" target="三井" sid="wiki00110648-00-01" id="3"/><rel type="=構" target="三井" sid="wiki00110648-00-01" id="3"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00110648-03" id="4"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

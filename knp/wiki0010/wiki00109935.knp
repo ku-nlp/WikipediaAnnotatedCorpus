@@ -1,111 +1,111 @@
 # S-ID:wiki00109935-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:79.00000 MOD:2022/06/16 MEMO:
 * 4D
 + 2D
-日外アソシエーツ にちがいあそしえーつ 日外アソシエーツ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+日外アソシエーツ にちがいあそしえーつ 日外アソシエーツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 11D <NE:ORGANIZATION:日外アソシエーツ株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 6D <rel type="ノ？" target="東京都" sid="wiki00109935-00-01" id="3"/><NE:LOCATION:東京都品川区>
-品川 しながわ 品川 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+品川 しながわ 品川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ノ" target="会社" sid="wiki00109935-00-01" id="2"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 11D <rel type="ガ" target="会社" sid="wiki00109935-00-01" id="11"/><rel type="ヲ" target="本社" sid="wiki00109935-00-01" id="5"/><rel type="ニ" target="品川区" sid="wiki00109935-00-01" id="4"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 * -1D
 + 8D <rel type="ガ" target="社" sid="wiki00109935-00-01" id="8"/><rel type="ヲ" target="不特定:物"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11P <rel type="ノ？" target="出版" sid="wiki00109935-00-01" id="7"/><rel type="=構" target="会社" sid="wiki00109935-00-01" id="2"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 10D
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="ガ" target="会社" sid="wiki00109935-00-01" id="11"/><rel type="ヲ" target="情報" sid="wiki00109935-00-01" id="9"/><rel type="ニ" target="不特定:人"/>
-提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0
+提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="=構" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="ノ？" target="提供" sid="wiki00109935-00-01" id="10"/><memo text="CO"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00109935-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/16 MEMO:
 * -1D
 + -1D <rel type="=" target="日外アソシエーツ" sid="wiki00109935-00-01" id="0"/><NE:ORGANIZATION:にちがいアソシエーツ>
-にちがいアソシエーツ にちがいあそしえーつ にちがいアソシエーツ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+にちがいアソシエーツ にちがいあそしえーつ にちがいアソシエーツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00109935-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/16 MEMO:
 * 1D
 + 1D <NE:DATE:1965年>
-1965 せんきゅうひゃくろくじゅうご 1965 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+1965 せんきゅうひゃくろくじゅうご 1965 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
 + -1D <rel type="ヲ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="ガ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="時間" target="1965年" sid="wiki00109935-01" id="0"/><memo text="PO:する"/>
-創業 そうぎょう 創業 名詞 6 サ変名詞 2 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+創業 そうぎょう 創業 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00109935-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:20.00000 MOD:2022/06/16 MEMO:
 * 3D
 + 1D
-紀伊國屋 きのくにや 紀伊國屋 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+紀伊國屋 きのくにや 紀伊國屋 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7D <NE:ORGANIZATION:紀伊國屋書店>
-書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-を を を 助詞 9 格助詞 1 * 0 * 0
+書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2P
 + 3D <rel type="ガ" target="株主" sid="wiki00109935-02" id="3"/>
-主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + 6P <rel type="ノ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="修飾" target="主要" sid="wiki00109935-02" id="2"/><rel type="=構" target="書店" sid="wiki00109935-02" id="1"/>
-株主 かぶぬし 株主 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+株主 かぶぬし 株主 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D
-総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0
+総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + 6D <rel type="ヲ" target="不特定:物"/><rel type="ガ" target="元" sid="wiki00109935-02" id="6"/><rel type="ガ" mode="？" target="不特定:人"/>
-発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0
+発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 7D <rel type="ノ" target="発売" sid="wiki00109935-02" id="5"/><rel type="修飾" target="総" sid="wiki00109935-02" id="4"/><rel type="=構" target="書店" sid="wiki00109935-02" id="1"/>
-元 もと 元 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+元 もと 元 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="ヲ" target="書店" sid="wiki00109935-02" id="1"/><rel type="ト" target="元" sid="wiki00109935-02" id="6"/><rel type="ト" mode="AND" target="株主" sid="wiki00109935-02" id="3"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00109935-03 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/16 MEMO:
 * 1P
 + 1D <rel type="=" target="出版" sid="wiki00109935-00-01" id="7"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:head>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 5P <NE:ORGANIZATION:出版梓会>
-梓会 あずさかい 梓会 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+梓会 あずさかい 梓会 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 5D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D
-電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D <rel type="=" target="出版" sid="wiki00109935-03" id="0"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 10P <NE:ORGANIZATION:日本電子出版協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 9D <rel type="=" target="日本" sid="wiki00109935-03" id="2"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 8D
-書籍 しょせき 書籍 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+書籍 しょせき 書籍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 9D <rel type="=" target="出版" sid="wiki00109935-03" id="4"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 10D <NE:ORGANIZATION:日本書籍出版協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki00109935-00-01" id="2"/><rel type="ニ" target="協会" sid="wiki00109935-03" id="9"/><rel type="ニ" mode="AND" target="協会" sid="wiki00109935-03" id="5"/><rel type="ニ" mode="AND" target="梓会" sid="wiki00109935-03" id="1"/><memo text="PO:する等"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

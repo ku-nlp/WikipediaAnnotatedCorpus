@@ -1,129 +1,129 @@
 # S-ID:wiki04477615-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
 + 1D
-関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 2D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 8D <NE:LOCATION:関西国際空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 5D <NE:LOCATION:大阪府大阪市>
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ" target="大阪市" sid="wiki04477615-00-01" id="4"/>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0
-35 35 35 名詞 6 数詞 7 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
+35 35 35 名詞 6 数詞 7 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 8D
-km km km 名詞 6 組織名 6 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+km km km 名詞 6 組織名 6 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 8D <rel type="ガ" target="空港" sid="wiki04477615-00-01" id="9"/><rel type="ニ" target="km" sid="wiki04477615-00-01" id="6"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + 9D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="空港" sid="wiki04477615-00-01" id="2"/><rel type="=" target="空港" sid="wiki04477615-00-01" id="2"/>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki04477615-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D <rel type="=" target="関西" sid="wiki04477615-00-01" id="0"/>
-かんさい かんさい かんさい 名詞 6 サ変名詞 2 * 0 * 0 <NE:ARTIFACT:head>
+かんさい かんさい かんさい 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 2D
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + -1D <rel type="=" target="空港" sid="wiki04477615-00-01" id="9"/><NE:ARTIFACT:かんさいこくさいくうこう>
-くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
+くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki04477615-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
 * 2D
 + 1D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 4D <NE:LOCATION:西日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 格助詞 1 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ガ" target="口であり、また" sid="wiki04477615-01-01" id="4"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0
-的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 11P
 + 4D <rel type="ノ" target="日本" sid="wiki04477615-01-01" id="1"/>
-玄関 げんかん 玄関 名詞 6 普通名詞 1 * 0 * 0
+玄関 げんかん 玄関 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 22P <rel type="ガ" target="空港" sid="wiki04477615-00-01" id="2"/><rel type="ノ" target="玄関" sid="wiki04477615-01-01" id="3"/><rel type="=" target="くうこう" sid="wiki04477615-00-02" id="2"/>
-口 くち 口 名詞 6 普通名詞 1 * 0 * 0
-であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
-、 、 、 特殊 1 読点 2 * 0 * 0
-また また また 副詞 8 * 0 * 0 * 0
+口 くち 口 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+また また また 副詞 8 * 0 * 0 * 0 NIL
 * 4D
 + 7D <rel type="=" target="関西" sid="wiki04477615-00-01" id="0"/>
-関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 7D
-三 さん 三 名詞 6 数詞 7 * 0 * 0 <NE:LOCATION:middle>
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
 + 8D <NE:LOCATION:関西三空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 9D <rel type="ノ" target="空港" sid="wiki04477615-01-01" id="7"/><rel type="=" target="くうこう" sid="wiki04477615-00-02" id="2"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
 + 22D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 7P
 + 11D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 12D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 14P <NE:LOCATION:大阪国際空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
 + 14D
-神戸 こうべ 神戸 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+神戸 こうべ 神戸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 22D <NE:LOCATION:神戸空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-と と と 助詞 9 格助詞 1 * 0 * 0
-ともに ともに ともに 副詞 8 * 0 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
 * 9D
 + 16D
-関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 17D
-エアポート えあぽーと エアポート 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+エアポート えあぽーと エアポート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 18D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 19D <NE:ORGANIZATION:関西エアポート株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
 + 22D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 11D
 + 21D
-一体 いったい 一体 副詞 8 * 0 * 0 * 0
+一体 いったい 一体 副詞 8 * 0 * 0 * 0 NIL
 + 22D <rel type="ガ" target="会社" sid="wiki04477615-01-01" id="18"/><rel type="ヲ" target="空港" sid="wiki04477615-00-01" id="2"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="運営" sid="wiki04477615-01-01" id="21"/><rel type="ガ２" target="空港" sid="wiki04477615-00-01" id="2"/>
-行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3
-れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki04477615-01-02 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D
-伊丹 いたみ 伊丹 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+伊丹 いたみ 伊丹 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + -1D <rel type="=" target="口であり、また" sid="wiki04477615-01-01" id="4"/><NE:LOCATION:伊丹空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

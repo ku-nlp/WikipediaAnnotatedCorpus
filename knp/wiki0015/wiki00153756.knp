@@ -1,73 +1,73 @@
 # S-ID:wiki00153756-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/08/17 MEMO:
 * 5D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D <memo text="地名とも人名とも言えなそうなので普通名詞"/>
-山川 やまかわ 山川 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+山川 やまかわ 山川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 17D <NE:ORGANIZATION:株式会社山川出版社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 7D
-高校 こうこう 高校 名詞 6 普通名詞 1 * 0 * 0
+高校 こうこう 高校 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D <rel type="ノ？" target="高校" sid="wiki00153756-00-01" id="5"/>
-教科 きょうか 教科 名詞 6 普通名詞 1 * 0 * 0
+教科 きょうか 教科 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9P <rel type="ノ？" target="教科" sid="wiki00153756-00-01" id="6"/><rel type="ノ？" mode="AND" target="高校" sid="wiki00153756-00-01" id="5"/>
-書 しょ 書 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 9D
-参考 さんこう 参考 名詞 6 普通名詞 1 * 0 * 0
+参考 さんこう 参考 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13P
-書 しょ 書 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 11D
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D <rel type="ガ" target="書" sid="wiki00153756-00-01" id="13"/><rel type="ニ" target="歴史" sid="wiki00153756-00-01" id="10"/>
-関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 13D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 14D <rel type="修飾" target="一般" sid="wiki00153756-00-01" id="12"/><rel type="修飾" mode="AND" target="関係" sid="wiki00153756-00-01" id="11"/>
-書 しょ 書 名詞 6 普通名詞 1 * 0 * 0
-など など など 助詞 9 副助詞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 17D <rel type="ガ" target="社" sid="wiki00153756-00-01" id="17"/><rel type="ヲ" target="書" sid="wiki00153756-00-01" id="9"/><rel type="ヲ" mode="AND" target="書" sid="wiki00153756-00-01" id="7"/><rel type="ヲ" mode="AND" target="書など" sid="wiki00153756-00-01" id="13"/>
-刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
 + 17D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 17D <rel type="ガ" target="社" sid="wiki00153756-00-01" id="17"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="社" sid="wiki00153756-00-01" id="4"/><rel type="=構" target="社" sid="wiki00153756-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00153756-00-01" id="15"/><rel type="ノ？" mode="AND" target="出版" sid="wiki00153756-00-01" id="16"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00153756-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/17 MEMO:
 * -1D
 + 2D <rel type="=" target="山川" sid="wiki00153756-00-01" id="2"/>
-やまかわ やまかわ やまかわ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+やまかわ やまかわ やまかわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="出版" sid="wiki00153756-00-01" id="3"/>
-しゅっぱん しゅっぱん しゅっぱん 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+しゅっぱん しゅっぱん しゅっぱん 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="社" sid="wiki00153756-00-01" id="4"/><NE:ORGANIZATION:やまかわしゅっぱんしゃ>
-しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00153756-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/17 MEMO:
 * -1D
 + 1P
-地歴 ちれき 地歴 名詞 6 普通名詞 1 * 0 * 0
+地歴 ちれき 地歴 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D
-公民 こうみん 公民 名詞 6 普通名詞 1 * 0 * 0
+公民 こうみん 公民 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ノ" target="公民" sid="wiki00153756-00-03" id="1"/><rel type="ノ" mode="AND" target="地歴" sid="wiki00153756-00-03" id="0"/><rel type="ノ" mode="AND" target="高校" sid="wiki00153756-00-01" id="5"/><rel type="=≒" target="教科" sid="wiki00153756-00-01" id="6"/>
-科 か 科 名詞 6 普通名詞 1 * 0 * 0
+科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

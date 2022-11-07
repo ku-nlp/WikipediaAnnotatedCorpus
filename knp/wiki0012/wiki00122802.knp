@@ -1,171 +1,171 @@
 # S-ID:wiki00122802-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2022/05/31 MEMO:
 * 2D
 + 1D
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 8D <NE:ORGANIZATION:三菱商事株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D <rel type="=" target="三菱" sid="wiki00122802-00-01" id="0"/>
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 8D <rel type="ノ" target="三菱" sid="wiki00122802-00-01" id="4"/><NE:ORGANIZATION:三菱グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 8D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="ノ？" target="グループ" sid="wiki00122802-00-01" id="5"/><rel type="修飾" target="総合" sid="wiki00122802-00-01" id="7"/><rel type="修飾" mode="AND" target="大手" sid="wiki00122802-00-01" id="6"/><rel type="=構" target="会社" sid="wiki00122802-00-01" id="3"/><memo text="CO"/>
-商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00122802-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/05/26 MEMO:
 * -1D
 + 1D <rel type="=" target="三菱" sid="wiki00122802-00-01" id="0"/>
-みつびし みつびし みつびし 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+みつびし みつびし みつびし 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + -1D <rel type="=" target="商事" sid="wiki00122802-00-01" id="1"/><NE:ORGANIZATION:みつびししょうじ>
-しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00122802-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/03 MEMO:
 * 1P
 + 1D
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3P <NE:ORGANIZATION:三井物産>
-物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D
-住友 すみとも 住友 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+住友 すみとも 住友 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 5P <rel type="=≒" target="商事" sid="wiki00122802-00-01" id="1"/><NE:ORGANIZATION:住友商事>
-商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 5D
-伊藤忠 いとうちゅう 伊藤忠 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+伊藤忠 いとうちゅう 伊藤忠 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 6P <rel type="=≒" target="商事" sid="wiki00122802-01" id="3"/><NE:ORGANIZATION:伊藤忠商事>
-商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 10D <NE:ORGANIZATION:丸紅>
-丸紅 まるべに 丸紅 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-と と と 助詞 9 格助詞 1 * 0 * 0
-共に ともに 共に 副詞 8 * 0 * 0 * 0
+丸紅 まるべに 丸紅 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * 5D
 + 8D
-五 ご 五 名詞 6 数詞 7 * 0 * 0
+五 ご 五 名詞 6 数詞 7 * 0 * 0 NIL
 + 9D <rel type="修飾" target="五" sid="wiki00122802-01" id="7"/>
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + 10D <rel type="修飾" target="大" sid="wiki00122802-01" id="8"/><rel type="=≒" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="=≒" mode="AND" target="物産" sid="wiki00122802-01" id="1"/><rel type="=≒" mode="AND" target="商事" sid="wiki00122802-01" id="3"/><rel type="=≒" mode="AND" target="商事" sid="wiki00122802-01" id="5"/><rel type="=≒" mode="AND" target="丸紅" sid="wiki00122802-01" id="6"/><memo text="SE"/>
-商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="ノ" target="商社" sid="wiki00122802-01" id="9"/><rel type="=構" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="=構" mode="AND" target="商社" sid="wiki00122802-01" id="9"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00122802-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:99.00000 MOD:2022/05/31 MEMO:
 * 2D
 + 2D
-単に たんに 単に 副詞 8 * 0 * 0 * 0
+単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL
 * 2D
 + 2D <rel type="=≒" target="商事" sid="wiki00122802-00-01" id="1"/>
-「 「 「 特殊 1 括弧始 3 * 0 * 0
-商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0
-」 」 」 特殊 1 括弧終 4 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ガ" target="不特定:人"/><rel type="ト" target="商事" sid="wiki00122802-02" id="1"/><rel type="外の関係" target="場合" sid="wiki00122802-02" id="3"/>
-言った いった 言う 動詞 2 * 0 子音動詞ワ行 12 タ形 10
+言った いった 言う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 7D
 + 8D <rel type="ノ" target="言った" sid="wiki00122802-02" id="2"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
 + 5D
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 6D <rel type="=" target="商事" sid="wiki00122802-00-01" id="1"/><rel type="=構≒" mode="AND" target="商事" sid="wiki00122802-02" id="1"/><NE:ORGANIZATION:三菱商事>
-商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-を を を 助詞 9 格助詞 1 * 0 * 0
+商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ヲ" target="商事" sid="wiki00122802-02" id="5"/><rel type="ガ" target="商事" sid="wiki00122802-02" id="1"/><rel type="外の関係" target="こと" sid="wiki00122802-02" id="7"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 7D
 + 8D <rel type="トイウ" target="指す" sid="wiki00122802-02" id="6"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="こと" sid="wiki00122802-02" id="7"/><rel type="時間" target="場合" sid="wiki00122802-02" id="3"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00122802-03 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/03 MEMO:
 * 2D
 + 2D <NE:ORGANIZATION:日経>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL
 + 2D
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 7D <rel type="ノ？" target="日経" sid="wiki00122802-03" id="0"/><rel type="修飾" target="平均" sid="wiki00122802-03" id="1"/>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0
-および および および 助詞 9 接続助詞 3 * 0 * 0
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
 + 4D
-TOPIX とぴっくす TOPIX 名詞 6 固有名詞 3 * 0 * 0 <NE:ARTIFACT:head>
+TOPIX とぴっくす TOPIX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 7P <rel type="ノ？" target="TOPIX" sid="wiki00122802-03" id="3"/><memo text="タグ単位、品詞"/><NE:ARTIFACT:TOPIXCore30>
-Core Core Core 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+Core Core Core 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6P <memo text="Japan Exchange Group"/>
-JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 7D <rel type="=" target="日経" sid="wiki00122802-03" id="0"/>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:middle>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 9D <rel type="ノ？" target="JPX" sid="wiki00122802-03" id="5"/><memo text="タグ単位、品詞"/><NE:ARTIFACT:JPX日経インデックス400>
-インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 9D <rel type="ガ" target="銘柄" sid="wiki00122802-03" id="9"/><rel type="ヲ" target="Core30" sid="wiki00122802-03" id="4"/><rel type="ヲ" mode="AND" target="インデックス400" sid="wiki00122802-03" id="7"/><rel type="ヲ" mode="AND" target="株価" sid="wiki00122802-03" id="2"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 10D <rel type="ノ？" target="株価" sid="wiki00122802-03" id="2"/><rel type="ノ？" mode="AND" target="Core30" sid="wiki00122802-03" id="4"/><rel type="ノ？" mode="AND" target="インデックス400" sid="wiki00122802-03" id="7"/><rel type="修飾" target="構成" sid="wiki00122802-03" id="8"/><rel type="=≒" target="会社" sid="wiki00122802-00-01" id="3"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="銘柄" sid="wiki00122802-03" id="9"/><rel type="ガ" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="=構" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00122802-03" id="9"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00122802-04 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/05/31 MEMO:
 * 1P
 + 2D <rel type="=" target="グループ" sid="wiki00122802-00-01" id="5"/>
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-金曜 きんよう 金曜 名詞 6 時相名詞 10 * 0 * 0 <NE:ORGANIZATION:middle>
+金曜 きんよう 金曜 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6P <NE:ORGANIZATION:三菱金曜会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-及び および 及び 助詞 9 接続助詞 3 * 0 * 0
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 6D <rel type="=" target="三菱" sid="wiki00122802-04" id="0"/>
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 5D
-広報 こうほう 広報 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+広報 こうほう 広報 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6D
-委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 8D <NE:ORGANIZATION:三菱広報委員会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 8D <rel type="ノ" target="会" sid="wiki00122802-04" id="6"/><rel type="ノ" mode="AND" target="会" sid="wiki00122802-04" id="2"/>
-会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0
+会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="=構" target="会社" sid="wiki00122802-00-01" id="3"/><rel type="修飾" target="会員" sid="wiki00122802-04" id="7"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

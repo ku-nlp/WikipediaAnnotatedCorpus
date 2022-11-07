@@ -1,53 +1,53 @@
 # S-ID:wiki00029166-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-大修館 大修館 大修館 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+大修館 大修館 大修館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 13D <NE:ORGANIZATION:株式会社大修館書店>
-書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D
-辞典 じてん 辞典 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:head>
+辞典 じてん 辞典 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 7D <rel type="ノ" target="辞典" sid="wiki00029166-00-01" id="4"/>
-類 るい 類 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ARTIFACT:middle>
+類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 7D
-教科 きょうか 教科 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+教科 きょうか 教科 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 9D
-書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ARTIFACT:middle>
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 9D
-参考 さんこう 参考 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+参考 さんこう 参考 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 10D <NE:ARTIFACT:辞典類・教科書・参考書>
-書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
-など など など 助詞 9 副助詞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 13D <rel type="ガ" target="社" sid="wiki00029166-00-01" id="13"/><rel type="ヲ" target="類" sid="wiki00029166-00-01" id="5"/>
-刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
 + 13D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 13D
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="書店" sid="wiki00029166-00-01" id="3"/><rel type="ノ" target="出版" sid="wiki00029166-00-01" id="12"/><rel type="=" target="書店" sid="wiki00029166-00-01" id="3"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00029166-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D <rel type="=" target="大修館" sid="wiki00029166-00-01" id="2"/>
-たい たい たい 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+たい たい たい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="大修館" sid="wiki00029166-00-01" id="2"/>
-しゅうかん しゅうかん しゅうかん 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+しゅうかん しゅうかん しゅうかん 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="社" sid="wiki00029166-00-01" id="13"/><NE:ORGANIZATION:たいしゅうかんしょてん>
-しょてん しょてん しょてん 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+しょてん しょてん しょてん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

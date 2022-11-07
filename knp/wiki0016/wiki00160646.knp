@@ -1,78 +1,78 @@
 # S-ID:wiki00160646-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/08/25 MEMO:
 * 7D
 + 1D
-ロイヤル ろいやる ロイヤル 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ロイヤル ろいやる ロイヤル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D
-ダッチ だっち ダッチ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ダッチ だっち ダッチ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 10D <NE:ORGANIZATION:ロイヤル・ダッチ・シェル>
-シェル しぇる シェル 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+シェル しぇる シェル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D <NE:LOCATION:オランダ>
-オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ？" target="オランダ" sid="wiki00160646-00" id="3"/><NE:LOCATION:ハーグ>
-ハーグ はーぐ ハーグ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-に に に 助詞 9 格助詞 1 * 0 * 0
+ハーグ はーぐ ハーグ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ" target="会社" sid="wiki00160646-00" id="10"/>
-本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <rel type="ガ" target="会社" sid="wiki00160646-00" id="10"/><rel type="ヲ" target="本拠" sid="wiki00160646-00" id="5"/><rel type="ニ" target="ハーグ" sid="wiki00160646-00" id="4"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 * 6P
 + 8P <rel type="=" target="オランダ" sid="wiki00160646-00" id="3"/><NE:LOCATION:オランダ>
-オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-と と と 助詞 9 格助詞 1 * 0 * 0
+オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 10D
-石油 せきゆ 石油 名詞 6 普通名詞 1 * 0 * 0
+石油 せきゆ 石油 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="シェル" sid="wiki00160646-00" id="2"/><rel type="=構" target="シェル" sid="wiki00160646-00" id="2"/><rel type="ノ？" target="石油" sid="wiki00160646-00" id="9"/><rel type="ノ？" mode="AND" target="イギリス" sid="wiki00160646-00" id="8"/><rel type="ノ？" mode="AND" target="オランダ" sid="wiki00160646-00" id="7"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00160646-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/16 MEMO:
 * 1P
 + 1D
-ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
+ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D
-ネクスト ねくすと ネクスト 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:OPTIONAL:middle>
+ネクスト ねくすと ネクスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6P <rel type="ノ？" target="オランダ" sid="wiki00160646-00" id="3"/><NE:OPTIONAL:ユーロネクスト・アムステルダム>
-アムステルダム あむすてるだむ アムステルダム 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+アムステルダム あむすてるだむ アムステルダム 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 6D <rel type="ノ？" target="イギリス" sid="wiki00160646-00" id="8"/>
-ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
+ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 5D
-証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証券" sid="wiki00160646-01" id="4"/><rel type="デ" target="所" sid="wiki00160646-01" id="6"/>
-取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:middle>
+取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 10P <rel type="ノ？" target="ロンドン" sid="wiki00160646-01" id="3"/><NE:OPTIONAL:ロンドン証券取引所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 10D
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 9D
-証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証券" sid="wiki00160646-01" id="8"/><rel type="デ" target="所" sid="wiki00160646-01" id="10"/>
-取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:middle>
+取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D <rel type="ノ？" target="ニューヨーク" sid="wiki00160646-01" id="7"/><NE:OPTIONAL:ニューヨーク証券取引所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 12D <rel type="ガ" target="企業" sid="wiki00160646-01" id="12"/><rel type="ニ" target="アムステルダム" sid="wiki00160646-01" id="2"/><rel type="ニ" mode="AND" target="所" sid="wiki00160646-01" id="6"/><rel type="ニ" mode="AND" target="所" sid="wiki00160646-01" id="10"/>
-上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0
+上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="シェル" sid="wiki00160646-00" id="2"/><rel type="修飾" target="上場" sid="wiki00160646-01" id="11"/><rel type="=構" target="シェル" sid="wiki00160646-00" id="2"/><memo text="CO"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

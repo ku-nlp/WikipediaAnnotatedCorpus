@@ -1,77 +1,77 @@
 # S-ID:wiki00147473-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:66.00000 MOD:2022/08/12 MEMO:
 * 7D
 + 1D <NE:LOCATION:山陽>
-山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 11D
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ノ" target="日本" sid="wiki00147473-00-01" id="2"/><rel type="=≒" target="地方" sid="wiki00147473-00-01" id="1"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
 + 11P <rel type="ガ" target="地方" sid="wiki00147473-00-01" id="1"/><rel type="ノ" target="地域" sid="wiki00147473-00-01" id="3"/><rel type="=構" target="地方" sid="wiki00147473-00-01" id="1"/><rel type="=構" mode="AND" target="地域" sid="wiki00147473-00-01" id="3"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
-、 、 、 特殊 1 読点 2 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 6D
-本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 <NE:LOCATION:head>
+本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 9D <rel type="ノ" target="日本" sid="wiki00147473-00-01" id="2"/><NE:LOCATION:本州>
-州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 8D
-瀬戸 せと 瀬戸 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+瀬戸 せと 瀬戸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 9D <NE:LOCATION:瀬戸内海>
-内海 ないかい 内海 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
+内海 ないかい 内海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + 10D <rel type="ノ" target="内海" sid="wiki00147473-00-01" id="8"/><rel type="ノ" mode="AND" target="州" sid="wiki00147473-00-01" id="6"/><memo text="本州の一部であることをノ格で示すために独立させた"/>
-側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 11D <rel type="ガ" target="地方" sid="wiki00147473-00-01" id="10"/><rel type="ニ" target="側" sid="wiki00147473-00-01" id="9"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + -1D <rel type="ガ" target="地方" sid="wiki00147473-00-01" id="1"/><rel type="=構" target="地方" sid="wiki00147473-00-01" id="1"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00147473-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/14 MEMO:
 * -1D
 + 1D <rel type="=" target="山陽" sid="wiki00147473-00-01" id="0"/>
-さんよう さんよう さんよう 名詞 6 地名 4 * 0 * 0
+さんよう さんよう さんよう 名詞 6 地名 4 * 0 * 0 NIL
 + -1D <rel type="=" target="地方" sid="wiki00147473-00-01" id="1"/>
-ちほう ちほう ちほう 名詞 6 普通名詞 1 * 0 * 0
+ちほう ちほう ちほう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00147473-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/08/12 MEMO:
 * 3D
 + 5D <rel type="ノ" target="地方" sid="wiki00147473-00-01" id="1"/><rel type="トイウ" target="山陽" sid="wiki00147473-00-01" id="0"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D
-五 ご 五 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:head>
-畿 き 畿 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:middle>
+五 ご 五 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
+畿 き 畿 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D <rel type="=≒" target="日本" sid="wiki00147473-00-01" id="2"/><NE:OPTIONAL:五畿七道>
-七 しち 七 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:middle>
-道 どう 道 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+七 しち 七 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="=" target="山陽" sid="wiki00147473-00-01" id="0"/>
-山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 5D <rel type="ノ" target="七道" sid="wiki00147473-01" id="2"/><NE:LOCATION:山陽道>
-道 どう 道 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="名称" sid="wiki00147473-01" id="0"/><rel type="ニ" target="道" sid="wiki00147473-01" id="5"/>
-因む ちなむ 因む 動詞 2 * 0 子音動詞マ行 9 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+因む ちなむ 因む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

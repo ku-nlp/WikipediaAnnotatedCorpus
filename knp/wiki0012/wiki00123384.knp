@@ -1,132 +1,132 @@
 # S-ID:wiki00123384-00 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:69.00000 MOD:2022/05/31 MEMO:
 * 8D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-リクルート りくるーと リクルート 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+リクルート りくるーと リクルート 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 17D <rel type="修飾" target="会社" sid="wiki00123384-00" id="1"/><rel type="=構" target="会社" sid="wiki00123384-00" id="1"/><NE:ORGANIZATION:株式会社リクルートホールディングス>
-ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 5D
-求人 きゅうじん 求人 名詞 6 普通名詞 1 * 0 * 0
+求人 きゅうじん 求人 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7P <rel type="ニカンシテ" target="求人" sid="wiki00123384-00" id="4"/>
-広告 こうこく 広告 名詞 6 サ変名詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+広告 こうこく 広告 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 7D
-人材 じんざい 人材 名詞 6 普通名詞 1 * 0 * 0
+人材 じんざい 人材 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9P <rel type="ヲ" target="人材" sid="wiki00123384-00" id="6"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="グループ" sid="wiki00123384-00" id="15"/>
-派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
 + 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11P <rel type="ヲ" target="販売" sid="wiki00123384-00" id="8"/><rel type="ガ" target="グループ" sid="wiki00123384-00" id="15"/>
-促進 そくしん 促進 名詞 6 サ変名詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+促進 そくしん 促進 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 11D
-IT IT IT 名詞 6 普通名詞 1 * 0 * 0
+IT IT IT 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D <rel type="ニカンシテ" target="IT" sid="wiki00123384-00" id="10"/>
-ソリューション そりゅーしょん ソリューション 名詞 6 普通名詞 1 * 0 * 0
-など など など 助詞 9 副助詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ソリューション そりゅーしょん ソリューション 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 13D <rel type="=≒" target="広告" sid="wiki00123384-00" id="5"/><rel type="=≒" mode="AND" target="派遣" sid="wiki00123384-00" id="7"/><rel type="=≒" mode="AND" target="促進" sid="wiki00123384-00" id="9"/><rel type="=≒" mode="AND" target="ソリューション" sid="wiki00123384-00" id="11"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="グループ" sid="wiki00123384-00" id="15"/>
-サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 15D <rel type="ガ" target="グループ" sid="wiki00123384-00" id="15"/><rel type="ヲ" target="サービス" sid="wiki00123384-00" id="12"/>
-手掛ける てがける 手掛ける 動詞 2 * 0 母音動詞 1 基本形 2
+手掛ける てがける 手掛ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 8D
 + 15D <rel type="=" target="リクルート" sid="wiki00123384-00" id="2"/>
-リクルート りくるーと リクルート 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+リクルート りくるーと リクルート 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 17D <rel type="ノ" target="リクルート" sid="wiki00123384-00" id="14"/><NE:ORGANIZATION:リクルートグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 17D
-持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0
+持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="ホールディングス" sid="wiki00123384-00" id="3"/><rel type="ノ" target="グループ" sid="wiki00123384-00" id="15"/><rel type="修飾" target="持株" sid="wiki00123384-00" id="16"/><rel type="=構" target="ホールディングス" sid="wiki00123384-00" id="3"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00123384-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:20.00000 MOD:2022/05/31 MEMO:
 * 2D
 + 1D
-海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0
+海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ニオイテ" target="海外" sid="wiki00123384-01" id="0"/>
-売上高 うりあげだか 売上高 名詞 6 普通名詞 1 * 0 * 0
+売上高 うりあげだか 売上高 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D <rel type="ノ" target="売上高" sid="wiki00123384-01" id="1"/>
-比率 ひりつ 比率 名詞 6 普通名詞 1 * 0 * 0
-が が が 助詞 9 格助詞 1 * 0 * 0
+比率 ひりつ 比率 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D <NE:PERCENT:40%>
-40 よんじゅっ 40 名詞 6 数詞 7 * 0 * 0 <NE:PERCENT:head>
-% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:PERCENT:tail>
-以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+40 よんじゅっ 40 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
+% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
+以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="比率" sid="wiki00123384-01" id="2"/><rel type="ヲ" target="40%" sid="wiki00123384-01" id="3"/><rel type="ガ２" target="ホールディングス" sid="wiki00123384-00" id="3"/>
-超える こえる 超える 動詞 2 * 0 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+超える こえる 超える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00123384-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:10.00000 MOD:2022/05/10 MEMO:
 * 1D
 + 1D
-江副 えぞえ 江副 名詞 6 人名 5 * 0 * 0 <NE:PERSON:head>
+江副 えぞえ 江副 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 + 2D <NE:PERSON:江副浩正>
-浩正 ひろまさ 浩正 名詞 6 人名 5 * 0 * 0 <NE:PERSON:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+浩正 ひろまさ 浩正 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * -1D
 + -1D <rel type="ガ" target="ホールディングス" sid="wiki00123384-00" id="3"/><rel type="ニヨッテ" target="浩正" sid="wiki00123384-02" id="1"/>
-創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
-れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
-。 。 。 特殊 1 句点 1 * 0 * 0
+創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00123384-03 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/03 MEMO:
 * 2D
 + 2D <NE:ORGANIZATION:日経>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL
 + 2D
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 7D <rel type="修飾" target="平均" sid="wiki00123384-03" id="1"/><rel type="ノ？" target="日経" sid="wiki00123384-03" id="0"/>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0
-および および および 助詞 9 接続助詞 3 * 0 * 0
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
 + 4D
-TOPIX TOPIX TOPIX 名詞 6 固有名詞 3 * 0 * 0 <NE:ARTIFACT:head>
+TOPIX TOPIX TOPIX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 7P <rel type="ノ？" target="TOPIX" sid="wiki00123384-03" id="3"/><NE:ARTIFACT:TOPIXCore30>
-Core Core Core 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+Core Core Core 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6P
-JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 7D <rel type="=" target="日経" sid="wiki00123384-03" id="0"/>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:middle>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 9D <rel type="ノ？" target="JPX" sid="wiki00123384-03" id="5"/><NE:ARTIFACT:JPX日経インデックス400>
-インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 <NE:ARTIFACT:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 9D <rel type="ガ" target="銘柄" sid="wiki00123384-03" id="9"/><rel type="ヲ" target="株価" sid="wiki00123384-03" id="2"/><rel type="ヲ" mode="AND" target="Core30" sid="wiki00123384-03" id="4"/><rel type="ヲ" mode="AND" target="インデックス400" sid="wiki00123384-03" id="7"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 10D <rel type="修飾" target="構成" sid="wiki00123384-03" id="8"/><rel type="ノ？" target="株価" sid="wiki00123384-03" id="2"/><rel type="ノ？" mode="AND" target="Core30" sid="wiki00123384-03" id="4"/><rel type="ノ？" mode="AND" target="インデックス400" sid="wiki00123384-03" id="7"/><rel type="=≒" target="ホールディングス" sid="wiki00123384-00" id="3"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="銘柄" sid="wiki00123384-03" id="9"/><rel type="ガ" target="ホールディングス" sid="wiki00123384-00" id="3"/><rel type="=構" target="ホールディングス" sid="wiki00123384-00" id="3"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00123384-03" id="9"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

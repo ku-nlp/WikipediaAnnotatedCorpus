@@ -1,45 +1,45 @@
 # S-ID:wiki00065645-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
 + 1D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ" target="音楽" sid="wiki00065645-00-01" id="0"/>
-学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="音楽" sid="wiki00065645-00-01" id="0"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ" target="音楽" sid="wiki00065645-00-01" id="2"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 5D <rel type="ガ" target="者" sid="wiki00065645-00-01" id="5"/><rel type="ヲ" target="学" sid="wiki00065645-00-01" id="3"/>
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="学者" sid="wiki00065645-00-01" id="1"/><rel type="=" target="学者" sid="wiki00065645-00-01" id="1"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00065645-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
 + 1D <rel type="=" target="音楽" sid="wiki00065645-00-01" id="0"/>
-おんがく おんがく おんがく 名詞 6 普通名詞 1 * 0 * 0
+おんがく おんがく おんがく 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4P <rel type="=" target="者" sid="wiki00065645-00-01" id="5"/>
-がくしゃ がくしゃ がくしゃ 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+がくしゃ がくしゃ がくしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 4D <NE:LOCATION:伊>
-伊 い 伊 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+伊 い 伊 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 4D
-： ： ： 特殊 1 記号 5 * 0 * 0
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 7P <NE:ORGANIZATION:musicologia>
-musicologia musicologia musicologia 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-、 、 、 特殊 1 読点 2 * 0 * 0
+musicologia musicologia musicologia 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 7D <NE:LOCATION:仏>
-仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 7D
-： ： ： 特殊 1 記号 5 * 0 * 0
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + -1D <rel type="=" target="musicologia" sid="wiki00065645-00-02" id="4"/><NE:ORGANIZATION:musicologue>
-musicologue musicologue musicologue 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+musicologue musicologue musicologue 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

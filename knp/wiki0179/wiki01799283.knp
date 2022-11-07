@@ -1,105 +1,105 @@
 # S-ID:wiki01799283-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
 * 5D
 + 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 2D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 10D <NE:LOCATION:東京国際空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D <rel type="=" target="東京" sid="wiki01799283-00-01" id="0"/>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 5D
-大田 おおた 大田 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+大田 おおた 大田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 6D
-羽田 はねだ 羽田 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
+羽田 はねだ 羽田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 7D <NE:LOCATION:東京都大田区羽田空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 10D <rel type="ガ" target="空港" sid="wiki01799283-00-01" id="10"/><rel type="ニ" target="空港" sid="wiki01799283-00-01" id="6"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 4D
 + 9D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 * 5D
 + 10D <rel type="ガ" target="空港" sid="wiki01799283-00-01" id="10"/>
-最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
 + -1D <rel type="ガ" target="空港" sid="wiki01799283-00-01" id="2"/><rel type="=" target="空港" sid="wiki01799283-00-01" id="2"/>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01799283-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 2D <rel type="=" target="東京" sid="wiki01799283-00-01" id="0"/>
-とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 <NE:ARTIFACT:head>
+とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 2D
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + -1D <rel type="=" target="空港" sid="wiki01799283-00-01" id="10"/><NE:ARTIFACT:とうきょうこくさいくうこう>
-くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
+くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki01799283-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
 + 2P <rel type="ノ" target="空港" sid="wiki01799283-00-01" id="2"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 2D <rel type="=" target="羽田" sid="wiki01799283-00-01" id="5"/>
-羽田 はねだ 羽田 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+羽田 はねだ 羽田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + -1D <rel type="=" target="空港" sid="wiki01799283-00-01" id="10"/><NE:LOCATION:羽田空港>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-。 。 。 特殊 1 句点 1 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01799283-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D <rel type="=" target="東京" sid="wiki01799283-00-01" id="0"/>
-はねだ はねだ はねだ 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+はねだ はねだ はねだ 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + -1D <rel type="=" target="空港" sid="wiki01799283-00-01" id="6"/><NE:ORGANIZATION:はねだくうこう>
-くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+くうこう くうこう くうこう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki01799283-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
 * 1D
 + 1D
-単に たんに 単に 副詞 8 * 0 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
+単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 2D
 + 3D
-｢ ｢ ｢ 名詞 6 普通名詞 1 * 0 * 0
+｢ ｢ ｢ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="=" target="空港" sid="wiki01799283-00-01" id="6"/>
-羽田 はねだ 羽田 名詞 6 人名 5 * 0 * 0
+羽田 はねだ 羽田 名詞 6 人名 5 * 0 * 0 NIL
 + 4D
-｣ ｣ ｣ 名詞 6 普通名詞 1 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+｣ ｣ ｣ 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ガ" target="空港" sid="wiki01799283-00-01" id="2"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3
-れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
 + 6D
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
-も も も 助詞 9 副助詞 2 * 0 * 0
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="場合" sid="wiki01799283-02" id="5"/><rel type="ガ２" target="空港" sid="wiki01799283-00-01" id="2"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01799283-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
 + 1D
-IATA IATA IATA 名詞 6 組織名 6 * 0 * 0
+IATA IATA IATA 名詞 6 組織名 6 * 0 * 0 NIL
 + 2D <rel type="=" target="空港" sid="wiki01799283-01-01" id="2"/>
-空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ノ" target="空港" sid="wiki01799283-03" id="1"/>
-コード こーど コード 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="コード" sid="wiki01799283-03" id="2"/><rel type="=" target="コード" sid="wiki01799283-03" id="2"/>
-HND HND HND 名詞 6 組織名 6 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+HND HND HND 名詞 6 組織名 6 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

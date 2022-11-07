@@ -1,59 +1,59 @@
 # S-ID:wiki00033360-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
 + 3D <NE:PERSON:渋谷>
-渋谷 しぶや 渋谷 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+渋谷 しぶや 渋谷 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 3D <NE:LOCATION:東京都渋谷区>
-渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="渋谷" sid="wiki00033360-00-01" id="0"/><rel type="=" target="渋谷" sid="wiki00033360-00-01" id="0"/>
-地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033360-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D <rel type="=" target="地名" sid="wiki00033360-00-01" id="3"/>
-しぶ しぶ しぶ 名詞 6 普通名詞 1 * 0 * 0
-や や や 助詞 9 接続助詞 3 * 0 * 0
+しぶ しぶ しぶ 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033360-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000
 * 6D
 + 7D <rel type="=" target="地名" sid="wiki00033360-00-01" id="3"/><NE:PERSON:渋谷>
-渋谷 しぶたに 渋谷 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+渋谷 しぶたに 渋谷 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 2D <rel type="=" target="渋谷区" sid="wiki00033360-00-01" id="2"/>
-渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 3P <NE:LOCATION:渋谷駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-や や や 助詞 9 接続助詞 3 * 0 * 0
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="=" target="渋谷" sid="wiki00033360-01" id="1"/><NE:LOCATION:渋谷区>
-渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 5D
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ノ" target="略称" sid="wiki00033360-01" id="4"/>
-他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D
-以下 いか 以下 副詞 8 * 0 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="渋谷" sid="wiki00033360-01" id="0"/><rel type="ヲ" target="以下" sid="wiki00033360-01" id="6"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

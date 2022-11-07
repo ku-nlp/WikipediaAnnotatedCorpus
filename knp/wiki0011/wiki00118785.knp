@@ -1,65 +1,65 @@
 # S-ID:wiki00118785-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:66.00000 MOD:2022/06/30 MEMO:
 * 5D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 5D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-JVC JVC JVC 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+JVC JVC JVC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D <memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D <memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-ビクター びくたー ビクター 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+ビクター びくたー ビクター 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 17D <NE:ORGANIZATION:株式会社JVCケンウッド・ビクターエンタテインメント>
-エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 7D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9D <rel type="修飾" target="音楽" sid="wiki00118785-00-01" id="6"/>
-ソフト そふと ソフト 名詞 6 普通名詞 1 * 0 * 0
+ソフト そふと ソフト 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9P <rel type="ガ" target="企業" sid="wiki00118785-00-01" id="13"/><rel type="ヲ" target="ソフト" sid="wiki00118785-00-01" id="7"/><rel type="外の関係" target="業務" sid="wiki00118785-00-01" id="10"/>
-発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 10D <rel type="ヲ" target="ソフト" sid="wiki00118785-00-01" id="7"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="企業" sid="wiki00118785-00-01" id="13"/><rel type="外の関係" target="業務" sid="wiki00118785-00-01" id="10"/>
-販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11D <rel type="ノ" target="発売" sid="wiki00118785-00-01" id="8"/><rel type="ノ" mode="AND" target="販売" sid="wiki00118785-00-01" id="9"/>
-業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 13D <rel type="ガ" target="企業" sid="wiki00118785-00-01" id="13"/><rel type="ヲ" target="業務" sid="wiki00118785-00-01" id="10"/>
-行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 5P
 + 13D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 17P <rel type="ガ" target="エンタテインメント" sid="wiki00118785-00-01" id="5"/><rel type="=構" target="エンタテインメント" sid="wiki00118785-00-01" id="5"/><rel type="修飾" target="日本" sid="wiki00118785-00-01" id="12"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
-であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
-、 、 、 特殊 1 読点 2 * 0 * 0
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 15D
-JVC JVC JVC 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+JVC JVC JVC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 17D <rel type="=" target="ケンウッド" sid="wiki00118785-00-01" id="3"/><NE:ORGANIZATION:JVCケンウッド>
-ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 17D
-完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
+完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + -1D <rel type="ガ" target="エンタテインメント" sid="wiki00118785-00-01" id="5"/><rel type="ノ" target="ケンウッド" sid="wiki00118785-00-01" id="15"/><rel type="=構" target="エンタテインメント" sid="wiki00118785-00-01" id="5"/><rel type="修飾" target="完全" sid="wiki00118785-00-01" id="16"/><memo text="CO"/>
-子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00118785-00-02 括弧始:（ 括弧終:） 括弧位置:26 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/30 MEMO:
 * -1D
 + 1D <rel type="=" target="JVC" sid="wiki00118785-00-01" id="2"/><memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-ジェイブイシー じぇいぶいしー ジェイブイシー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+ジェイブイシー じぇいぶいしー ジェイブイシー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="ケンウッド" sid="wiki00118785-00-01" id="3"/><memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ケンウッド けんうっど ケンウッド 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="ビクター" sid="wiki00118785-00-01" id="4"/><memo text="品詞：組織名or固有名詞（ブランド名として）？"/>
-ビクター びくたー ビクター 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+ビクター びくたー ビクター 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="エンタテインメント" sid="wiki00118785-00-01" id="5"/><NE:ORGANIZATION:ジェイブイシーケンウッド・ビクターエンタテインメント>
-エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

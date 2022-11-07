@@ -1,84 +1,84 @@
 # S-ID:wiki00122531-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:88.00000 MOD:2022/05/31 MEMO:
 * 1D
 + 1D
-ウォルト うぉると ウォルト 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ウォルト うぉると ウォルト 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D
-ディズニー でぃずにー ディズニー 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ディズニー でぃずにー ディズニー 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D <NE:ORGANIZATION:ウォルト・ディズニー・カンパニー>
-カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 4D <rel type="ノ" target="カンパニー" sid="wiki00122531-00-01" id="2"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 19D <rel type="修飾" target="通称" sid="wiki00122531-00-01" id="3"/><rel type="=" target="カンパニー" sid="wiki00122531-00-01" id="2"/><rel type="=構" mode="AND" target="通称" sid="wiki00122531-00-01" id="3"/><NE:ORGANIZATION:ディズニー>
-ディズニー でぃずにー ディズニー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+ディズニー でぃずにー ディズニー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00122531-00-01" id="12"/>
-カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 9D <rel type="ノ？" target="カリフォルニア州" sid="wiki00122531-00-01" id="5"/><NE:LOCATION:カリフォルニア州バーバンク>
-バーバンク ばーばんく バーバンク 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+バーバンク ばーばんく バーバンク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 8D
-ウォルト うぉると ウォルト 名詞 6 人名 5 * 0 * 0 <NE:LOCATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:LOCATION:middle>
+ウォルト うぉると ウォルト 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + 9D <rel type="=" target="ディズニー" sid="wiki00122531-00-01" id="1"/>
-ディズニー でぃずにー ディズニー 名詞 6 人名 5 * 0 * 0 <NE:LOCATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:LOCATION:middle>
+ディズニー でぃずにー ディズニー 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + 11D <rel type="ノ？" target="バーバンク" sid="wiki00122531-00-01" id="6"/><rel type="ノ？" mode="AND" target="ディズニー" sid="wiki00122531-00-01" id="8"/><NE:LOCATION:ウォルト・ディズニー・スタジオ>
-スタジオ すたじお スタジオ 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+スタジオ すたじお スタジオ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 11D <rel type="ノ" target="カンパニー" sid="wiki00122531-00-01" id="2"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 19D <rel type="ガ" target="企業" sid="wiki00122531-00-01" id="19"/><rel type="ヲ" target="本社" sid="wiki00122531-00-01" id="10"/><rel type="ニ" target="スタジオ" sid="wiki00122531-00-01" id="9"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2
-、 、 、 特殊 1 読点 2 * 0 * 0
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 19D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 19D <rel type="ガ" target="企業" sid="wiki00122531-00-01" id="19"/>
-多角 たかく 多角 名詞 6 普通名詞 1 * 0 * 0
-的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
+多角 たかく 多角 名詞 6 普通名詞 1 * 0 * 0 NIL
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * -1D
 + 15D
-多 た 多 名詞 6 普通名詞 1 * 0 * 0
+多 た 多 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 19D <rel type="修飾" target="多" sid="wiki00122531-00-01" id="14"/><memo text="多国籍のかかり先"/>
-国籍 こくせき 国籍 名詞 6 普通名詞 1 * 0 * 0
+国籍 こくせき 国籍 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 17P
-マスメディア ますめでぃあ マスメディア 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+マスメディア ますめでぃあ マスメディア 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 18D
-エンターテイメント えんたーていめんと エンターテイメント 名詞 6 普通名詞 1 * 0 * 0
+エンターテイメント えんたーていめんと エンターテイメント 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 19D <rel type="ガ" target="企業" sid="wiki00122531-00-01" id="19"/><rel type="ヲ" target="エンターテイメント" sid="wiki00122531-00-01" id="17"/><rel type="ヲ" mode="AND" target="マスメディア" sid="wiki00122531-00-01" id="16"/>
-複合 ふくごう 複合 名詞 6 サ変名詞 2 * 0 * 0
+複合 ふくごう 複合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="ディズニー" sid="wiki00122531-00-01" id="4"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00122531-00-01" id="12"/><rel type="=構" target="ディズニー" sid="wiki00122531-00-01" id="4"/><rel type="修飾" target="複合" sid="wiki00122531-00-01" id="18"/><rel type="修飾" mode="AND" target="国籍" sid="wiki00122531-00-01" id="15"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00122531-00-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/05/20 MEMO:
 * -1D
 + 3D
-The The The 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="ウォルト" sid="wiki00122531-00-01" id="0"/>
-Walt Walt Walt 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
+Walt Walt Walt 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="ディズニー" sid="wiki00122531-00-01" id="1"/>
-Disney Disney Disney 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
+Disney Disney Disney 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="カンパニー" sid="wiki00122531-00-01" id="2"/><NE:ORGANIZATION:TheWaltDisneyCompany>
-Company Company Company 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00122531-00-03 括弧始:（ 括弧終:） 括弧位置:46 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/05/31 MEMO:
 * -1D
 + -1D <rel type="=" target="ディズニー" sid="wiki00122531-00-01" id="4"/><NE:ORGANIZATION:Disney>
-Disney Disney Disney 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+Disney Disney Disney 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

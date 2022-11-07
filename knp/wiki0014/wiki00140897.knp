@@ -1,81 +1,81 @@
 # S-ID:wiki00140897-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/27 MEMO:
 * 2D
 + 1D
-フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 12D <NE:ORGANIZATION:フィラデルフィア・フィリーズ>
-フィリーズ ふぃりーず フィリーズ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+フィリーズ ふぃりーず フィリーズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 4D
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6D
-ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6D
-ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 8D <rel type="ノ？" target="ベースボール" sid="wiki00140897-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00140897-00-01" id="5"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 8D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 9D <rel type="ノ" target="リーグ" sid="wiki00140897-00-01" id="6"/><rel type="修飾" target="東" sid="wiki00140897-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ東地区>
-地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 12D <rel type="ガ" target="チーム" sid="wiki00140897-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00140897-00-01" id="8"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 11D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D <rel type="修飾" target="プロ" sid="wiki00140897-00-01" id="10"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="フィリーズ" sid="wiki00140897-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00140897-00-01" id="11"/><rel type="=構" target="フィリーズ" sid="wiki00140897-00-01" id="1"/><rel type="ノ？" target="所属" sid="wiki00140897-00-01" id="9"/><memo text="CO"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140897-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/27 MEMO:
 * -1D
 + 1D <rel type="ノ" target="フィリーズ" sid="wiki00140897-00-01" id="1"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
-： ： ： 特殊 1 記号 5 * 0 * 0
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + -1D <rel type="ガ" target="略称" sid="wiki00140897-00-02" id="0"/><rel type="=" target="フィリーズ" sid="wiki00140897-00-01" id="1"/><rel type="=構" mode="AND" target="略称" sid="wiki00140897-00-02" id="0"/><NE:ORGANIZATION:PHI>
-PHI PHI PHI 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+PHI PHI PHI 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00140897-00-03 括弧始:（ 括弧終:） 括弧位置:37 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/27 MEMO:原文参照済
 * 1D
 + 1D
-以下 いか 以下 副詞 8 * 0 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="=" target="ベースボール" sid="wiki00140897-00-01" id="4"/><NE:OPTIONAL:MLB>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:single>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00140897-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/27 MEMO:
 * 3D
 + 1D <rel type="ノ" target="フィリーズ" sid="wiki00140897-00-01" id="1"/>
-本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D <rel type="修飾" target="本拠" sid="wiki00140897-01" id="0"/><rel type="ノ？" target="フィリーズ" sid="wiki00140897-00-01" id="1"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D
-ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:middle>
+ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 4D <rel type="=" target="フィラデルフィア" sid="wiki00140897-00-01" id="0"/><rel type="ノ？" target="ペンシルベニア州" sid="wiki00140897-01" id="2"/><NE:LOCATION:ペンシルベニア州フィラデルフィア>
-フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 7D <rel type="ガ" target="パーク" sid="wiki00140897-01" id="7"/><rel type="ニ" target="フィラデルフィア" sid="wiki00140897-01" id="3"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
 + 6D <memo text="命名権を買った組織の名前なので、組織名にしておく"/>
-シチズンズ しちずんず シチズンズ 名詞 6 組織名 6 * 0 * 0 <NE:LOCATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:LOCATION:middle>
+シチズンズ しちずんず シチズンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + 7D
-バンク ばんく バンク 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:LOCATION:middle>
+バンク ばんく バンク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + -1D <rel type="ガ" target="地" sid="wiki00140897-01" id="1"/><rel type="=構" target="地" sid="wiki00140897-01" id="1"/><memo text="CO"/><NE:LOCATION:シチズンズ・バンク・パーク>
-パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-。 。 。 特殊 1 句点 1 * 0 * 0
+パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

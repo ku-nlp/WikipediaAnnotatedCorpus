@@ -1,138 +1,138 @@
 # S-ID:wiki01556672-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
 + 2D
-トヨタ自動車 とよたじどうしゃ トヨタ自動車 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+トヨタ自動車 とよたじどうしゃ トヨタ自動車 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6D <NE:ORGANIZATION:トヨタ自動車株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 6D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki01556672-00-01" id="2"/><rel type="ノ" target="自動車" sid="wiki01556672-00-01" id="5"/><rel type="=" target="会社" sid="wiki01556672-00-01" id="2"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01556672-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 2P
 + 1D <rel type="=" target="トヨタ自動車" sid="wiki01556672-00-01" id="0"/>
-トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 5P <rel type="=" target="メーカー" sid="wiki01556672-00-01" id="6"/><NE:ORGANIZATION:トヨタじどうしゃ>
-じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D <rel type="ノ" target="じどうしゃ" sid="wiki01556672-00-02" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
-: : : 名詞 6 普通名詞 1 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
+: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 5P <rel type="=" target="トヨタ自動車" sid="wiki01556672-00-01" id="0"/><NE:ORGANIZATION:トヨタ>
-トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
-、 、 、 特殊 1 読点 2 * 0 * 0
+トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="=" target="通称" sid="wiki01556672-00-02" id="2"/>
-TMC TMC TMC 名詞 6 組織名 6 * 0 * 0
+TMC TMC TMC 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki01556672-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000
 * 2D
 + 1D
-豊田 とよた 豊田 名詞 6 人名 5 * 0 * 0
+豊田 とよた 豊田 名詞 6 人名 5 * 0 * 0 NIL
 + 2D
-自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0
+自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D
-織機 しょっき 織機 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+織機 しょっき 織機 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ノ" target="グループ" sid="wiki01556672-01" id="6"/>
-源流 げんりゅう 源流 名詞 6 普通名詞 1 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+源流 げんりゅう 源流 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ガ" target="グループ" sid="wiki01556672-01" id="6"/><rel type="ヲ" target="織機" sid="wiki01556672-01" id="2"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
 + 6D <rel type="=" target="トヨタ自動車" sid="wiki01556672-00-01" id="0"/><NE:ORGANIZATION:トヨタ>
-トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+トヨタ とよた トヨタ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 8D <rel type="ノ" target="トヨタ" sid="wiki01556672-01" id="5"/>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 8D
-中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0
+中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 16D <rel type="=" target="メーカー" sid="wiki01556672-00-01" id="6"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
 + 10D
-ダイハツ だいはつ ダイハツ 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+ダイハツ だいはつ ダイハツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 12P <NE:ORGANIZATION:ダイハツ工業>
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-と と と 助詞 9 格助詞 1 * 0 * 0
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 12D
-日野 ひの 日野 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+日野 ひの 日野 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 13D <NE:ORGANIZATION:日野自動車>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
 + 14P <rel type="ノ" target="自動車" sid="wiki01556672-01" id="12"/>
-親会社 おやがいしゃ 親会社 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+親会社 おやがいしゃ 親会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 16D <rel type="=" target="親会社" sid="wiki01556672-01" id="13"/>
-SUBARU SUBARU SUBARU 名詞 6 組織名 6 * 0 * 0
-の の の 助詞 9 格助詞 1 * 0 * 0
+SUBARU SUBARU SUBARU 名詞 6 組織名 6 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + 16D
-筆頭 ひっとう 筆頭 名詞 6 普通名詞 1 * 0 * 0
+筆頭 ひっとう 筆頭 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki01556672-00-01" id="2"/><rel type="ノ" target="グループ" sid="wiki01556672-01" id="6"/><rel type="=" target="会社" sid="wiki01556672-00-01" id="2"/>
-株主 かぶぬし 株主 名詞 6 普通名詞 1 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+株主 かぶぬし 株主 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01556672-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
 + 1D <NE:ORGANIZATION:日経>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 2D
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3P
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0
-および および および 助詞 9 接続助詞 3 * 0 * 0
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
 + 4P
-TOPIX TOPIX TOPIX 名詞 6 組織名 6 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
-Core Core Core 名詞 6 組織名 6 * 0 * 0
-30 30 30 名詞 6 数詞 7 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+TOPIX TOPIX TOPIX 名詞 6 組織名 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+Core Core Core 名詞 6 組織名 6 * 0 * 0 NIL
+30 30 30 名詞 6 数詞 7 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 5D <rel type="=" target="日経" sid="wiki01556672-02" id="0"/>
-JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:head>
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 6D <rel type="=" target="日経" sid="wiki01556672-02" id="0"/>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D <NE:ORGANIZATION:JPX日経インデックス>
-インデックス インデックス インデックス 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:tail>
-400 400 400 名詞 6 数詞 7 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+インデックス インデックス インデックス 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+400 400 400 名詞 6 数詞 7 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 9D <rel type="ガ" target="銘柄" sid="wiki01556672-02" id="8"/><rel type="ヲ" target="株価" sid="wiki01556672-02" id="2"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 9D
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki01556672-00-01" id="2"/><rel type="ノ" target="銘柄" sid="wiki01556672-02" id="8"/><rel type="=" target="株主" sid="wiki01556672-01" id="16"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,135 +1,135 @@
 # S-ID:wiki00087571-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 3D
 + 1D
-秦 はた 秦 名詞 6 人名 5 * 0 * 0 <NE:PERSON:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:PERSON:middle>
+秦 はた 秦 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
 + 5D <NE:PERSON:秦　郁彦>
-郁彦 郁彦 郁彦 名詞 6 人名 5 * 0 * 0 <NE:PERSON:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+郁彦 郁彦 郁彦 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
 + 5D
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5P <rel type="ノ" target="歴史" sid="wiki00087571-00-01" id="3"/><rel type="=" target="郁彦" sid="wiki00087571-00-01" id="1"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 6D <NE:ORGANIZATION:大蔵>
-大蔵 おおくら 大蔵 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+大蔵 おおくら 大蔵 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + -1D <rel type="ガ" target="郁彦" sid="wiki00087571-00-01" id="1"/><rel type="=" target="家" sid="wiki00087571-00-01" id="4"/>
-官僚 かんりょう 官僚 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+官僚 かんりょう 官僚 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087571-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
 + 1D
-はた はた はた 名詞 6 普通名詞 1 * 0 * 0 <NE:PERSON:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:PERSON:middle>
+はた はた はた 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
 + 2P <rel type="=" target="官僚" sid="wiki00087571-00-01" id="6"/><NE:PERSON:はた　いくひこ>
-いくひこ いくひこ いくひこ 名詞 6 普通名詞 1 * 0 * 0 <NE:PERSON:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+いくひこ いくひこ いくひこ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D <NE:DATE:1932年>
-1932 1932 1932 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+1932 1932 1932 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 3D
 + 4D
-（ （ （ 特殊 1 括弧始 3 * 0 * 0
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 <NE:DATE:head>
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
 + 5D <NE:DATE:昭和7年>
-7 なな 7 名詞 6 数詞 7 * 0 * 0 <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
-） ） ） 特殊 1 括弧終 4 * 0 * 0
+7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4D
 + 6D
-12 12 12 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:middle>
+12 12 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 5D
 + 7D <NE:DATE:12月12日>
-12 12 12 名詞 6 数詞 7 * 0 * 0 <NE:DATE:middle>
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
-　 　 　 特殊 1 空白 6 * 0 * 0
+12 12 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
 + -1D
-- - - 名詞 6 普通名詞 1 * 0 * 0
+- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087571-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
 + 6D <rel type="ノ" target="郁彦" sid="wiki00087571-00-01" id="1"/>
-専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
 + 2D <rel type="=" target="日本" sid="wiki00087571-00-01" id="2"/>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 3D
-近 近 近 名詞 6 人名 5 * 0 * 0 <NE:LOCATION:middle>
+近 近 近 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + 4D
-現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
+現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 6P <rel type="ノ" target="現代" sid="wiki00087571-01" id="3"/><rel type="=" target="専門" sid="wiki00087571-01" id="0"/><NE:LOCATION:日本近現代史>
-史 し 史 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 6D
-軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0
+軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="専門" sid="wiki00087571-01" id="0"/><rel type="ノ" target="軍事" sid="wiki00087571-01" id="5"/><rel type="=" target="専門" sid="wiki00087571-01" id="0"/>
-史 し 史 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087571-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 1P
 + 1D
-拓殖大学 拓殖大学 拓殖大学 名詞 6 普通名詞 1 * 0 * 0
+拓殖大学 拓殖大学 拓殖大学 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4P <rel type="=" target="家" sid="wiki00087571-00-01" id="4"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D
-千葉 ちば 千葉 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+千葉 ちば 千葉 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D <NE:ORGANIZATION:千葉大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 8P <rel type="=" target="教授" sid="wiki00087571-02" id="1"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7D
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 8D <rel type="ノ" target="大学" sid="wiki00087571-02" id="6"/><NE:ORGANIZATION:日本大学法学部>
-法学部 ほうがくぶ 法学部 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+法学部 ほうがくぶ 法学部 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 9D <rel type="=" target="教授" sid="wiki00087571-02" id="4"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="郁彦" sid="wiki00087571-00-01" id="1"/><rel type="ヲ" target="教授" sid="wiki00087571-02" id="8"/>
-歴任 れきにん 歴任 名詞 6 サ変名詞 2 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+歴任 れきにん 歴任 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087571-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
 + 2D <rel type="ノ" target="郁彦" sid="wiki00087571-00-01" id="1"/>
-学位 がくい 学位 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+学位 がくい 学位 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 2D
-法学 ほうがく 法学 名詞 6 普通名詞 1 * 0 * 0
+法学 ほうがく 法学 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="学位" sid="wiki00087571-03-01" id="0"/><rel type="=" target="学位" sid="wiki00087571-03-01" id="0"/>
-博士 はかせ 博士 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+博士 はかせ 博士 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087571-03-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
 + 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2P <NE:ORGANIZATION:東京大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D
-1974 1974 1974 名詞 6 数詞 7 * 0 * 0
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
+1974 1974 1974 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS

@@ -1,55 +1,55 @@
 # S-ID:wiki01010342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
 + 1D
-. てん . 名詞 6 数詞 7 * 0 * 0
+. てん . 名詞 6 数詞 7 * 0 * 0 NIL
 + 7D
-jp jp jp 名詞 6 組織名 6 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+jp jp jp 名詞 6 組織名 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 7D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 4D
-国別 こくべつ 国別 名詞 6 普通名詞 1 * 0 * 0
+国別 こくべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
-コード こーど コード 名詞 6 普通名詞 1 * 0 * 0
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D
-トップ とっぷ トップ 名詞 6 普通名詞 1 * 0 * 0
+トップ とっぷ トップ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D
-レベル れべる レベル 名詞 6 普通名詞 1 * 0 * 0
+レベル れべる レベル 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="jp" sid="wiki01010342-00-01" id="1"/><rel type="=" target="jp" sid="wiki01010342-00-01" id="1"/>
-ドメイン どめいん ドメイン 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+ドメイン どめいん ドメイン 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01010342-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D <NE:ORGANIZATION:ドットジェイピー>
-ドットジェイピー ドットジェイピー ドットジェイピー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+ドットジェイピー ドットジェイピー ドットジェイピー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki01010342-00-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D
-ccTLD ccTLD ccTLD 名詞 6 組織名 6 * 0 * 0
+ccTLD ccTLD ccTLD 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki01010342-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 1D
 + 1D <rel type="=" target="日本" sid="wiki01010342-00-01" id="2"/>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
-レジストリ レジストリ レジストリ 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:middle>
+レジストリ レジストリ レジストリ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <NE:ORGANIZATION:日本レジストリサービス>
-サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 <NE:ORGANIZATION:tail>
-が が が 助詞 9 格助詞 1 * 0 * 0
+サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="サービス" sid="wiki01010342-01-01" id="2"/><rel type="ヲ" target="ドメイン" sid="wiki01010342-00-01" id="7"/>
-管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01010342-01-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + -1D <rel type="=" target="サービス" sid="wiki01010342-01-01" id="2"/>
-JPRS JPRS JPRS 名詞 6 組織名 6 * 0 * 0
+JPRS JPRS JPRS 名詞 6 組織名 6 * 0 * 0 NIL
 EOS

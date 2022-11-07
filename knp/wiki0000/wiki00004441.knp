@@ -1,56 +1,56 @@
 # S-ID:wiki00004441-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 1P
 + 1D <NE:LOCATION:クウェート>
-クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 3P
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 3D <rel type="ノ" target="国" sid="wiki00004441-00-01" id="1"/><rel type="=" target="国" sid="wiki00004441-00-01" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="=" target="クウェート" sid="wiki00004441-00-01" id="0"/><NE:LOCATION:クウェート>
-クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 5D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 6D <NE:LOCATION:西アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 7D <NE:LOCATION:中東>
-中東 ちゅうとう 中東 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-に に に 助詞 9 格助詞 1 * 0 * 0
+中東 ちゅうとう 中東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 11D <rel type="ガ" target="国家" sid="wiki00004441-00-01" id="11"/><rel type="ニ" target="中東" sid="wiki00004441-00-01" id="6"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + 9D
-立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0
+立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 10D
-君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="ノ" target="君主" sid="wiki00004441-00-01" id="9"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="ガ" target="クウェート" sid="wiki00004441-00-01" id="3"/><rel type="=" target="国" sid="wiki00004441-00-01" id="1"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00004441-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D <rel type="=" target="クウェート" sid="wiki00004441-00-01" id="0"/><NE:LOCATION:クウェート>
-クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + -1D <rel type="=" target="国家" sid="wiki00004441-00-01" id="11"/>
-こく こく こく 名詞 6 普通名詞 1 * 0 * 0
+こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00004441-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
 + 1D <rel type="ノ" target="クウェート" sid="wiki00004441-00-01" id="3"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="首都" sid="wiki00004441-01" id="0"/><rel type="=" target="国家" sid="wiki00004441-00-01" id="11"/><NE:LOCATION:クウェート市>
-クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
-。 。 。 特殊 1 句点 1 * 0 * 0
+クウェート くうぇーと クウェート 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

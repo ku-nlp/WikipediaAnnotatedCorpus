@@ -1,163 +1,163 @@
 # S-ID:wiki00142433-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/01 MEMO:
 * 2D
 + 1D <memo text="組織名がいいか"/>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 8D <NE:ORGANIZATION:三井物産株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D <rel type="=" target="三井" sid="wiki00142433-00-01" id="0"/><memo text="組織名がいいか"/>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 8D <rel type="ノ" target="三井" sid="wiki00142433-00-01" id="4"/><NE:ORGANIZATION:三井グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 8D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="=構" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="修飾" target="大手" sid="wiki00142433-00-01" id="6"/><rel type="修飾" mode="AND" target="総合" sid="wiki00142433-00-01" id="7"/><rel type="修飾" mode="AND" target="グループ" sid="wiki00142433-00-01" id="5"/><memo text="CO"/>
-商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142433-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/01 MEMO:
 * -1D
 + 1D <rel type="=" target="三井" sid="wiki00142433-00-01" id="0"/>
-みつい みつい みつい 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+みつい みつい みつい 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + -1D <rel type="=" target="物産" sid="wiki00142433-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00142433-00-01" id="3"/><NE:ORGANIZATION:みついぶっさん>
-ぶっさん ぶっさん ぶっさん 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+ぶっさん ぶっさん ぶっさん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00142433-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/08/01 MEMO:
 * 1P
 + 1D <rel type="=" target="三井" sid="wiki00142433-00-01" id="0"/>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3P <NE:ORGANIZATION:三井不動産>
-不動産 ふどうさん 不動産 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+不動産 ふどうさん 不動産 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="三井" sid="wiki00142433-01-01" id="0"/>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D <NE:ORGANIZATION:三井銀行>
-銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-と と と 助詞 9 格助詞 1 * 0 * 0
+銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ト" target="不動産" sid="wiki00142433-01-01" id="1"/><rel type="ト" mode="AND" target="銀行" sid="wiki00142433-01-01" id="3"/><rel type="ガ" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="外の関係" target="新御三家" sid="wiki00142433-01-01" id="6"/>
-並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2
+並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * 4D
 + 6D <rel type="=" target="三井" sid="wiki00142433-01-01" id="2"/>
-『 『 『 特殊 1 括弧始 3 * 0 * 0
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:OPTIONAL:head>
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 7D <rel type="ノ" target="三井" sid="wiki00142433-01-01" id="5"/><rel type="トイウ" target="並ぶ" sid="wiki00142433-01-01" id="4"/><rel type="=≒" target="不動産" sid="wiki00142433-01-01" id="1"/><rel type="=≒" mode="AND" target="銀行" sid="wiki00142433-01-01" id="3"/><rel type="=≒" mode="AND" target="会社" sid="wiki00142433-00-01" id="3"/><memo text="SE"/><NE:OPTIONAL:三井新御三家>
-新御三家 しんごさんけ 新御三家 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
-』 』 』 特殊 1 括弧終 4 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+新御三家 しんごさんけ 新御三家 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="ノ" target="新御三家" sid="wiki00142433-01-01" id="6"/><rel type="=構" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="=構" mode="AND" target="新御三家" sid="wiki00142433-01-01" id="6"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142433-01-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/01 MEMO:
 * -1D
 + 3D
-現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0
-： ： ： 特殊 1 記号 5 * 0 * 0
+現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 2P <rel type="=" target="三井" sid="wiki00142433-01-01" id="2"/>
-三井 みつい 三井 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+三井 みつい 三井 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
-住友 すみとも 住友 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:middle>
+住友 すみとも 住友 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="修飾" target="現" sid="wiki00142433-01-02" id="0"/><rel type="=構" target="銀行" sid="wiki00142433-01-01" id="3"/><NE:ORGANIZATION:三井住友銀行>
-銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
+銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00142433-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/08/01 MEMO:
 * 1P
 + 1D
-鉄鉱 てっこう 鉄鉱 名詞 6 普通名詞 1 * 0 * 0
+鉄鉱 てっこう 鉄鉱 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2P <rel type="修飾" target="鉄鉱" sid="wiki00142433-02" id="0"/>
-石 せき 石 名詞 6 普通名詞 1 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+石 せき 石 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D
-原油 げんゆ 原油 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+原油 げんゆ 原油 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 4D <rel type="ヲ" target="原油" sid="wiki00142433-02" id="2"/><rel type="ヲ" mode="AND" target="石" sid="wiki00142433-02" id="1"/><rel type="ガ" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/>
-生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0
+生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 5D <rel type="ニカンシテ" target="生産" sid="wiki00142433-02" id="3"/><rel type="ノ？" target="石" sid="wiki00142433-02" id="1"/><rel type="ノ？" mode="AND" target="原油" sid="wiki00142433-02" id="2"/>
-権益 けんえき 権益 名詞 6 普通名詞 1 * 0 * 0
+権益 けんえき 権益 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9D <rel type="ノ" target="権益" sid="wiki00142433-02" id="4"/>
-量 りょう 量 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 7D <rel type="=≒" target="商社" sid="wiki00142433-00-01" id="8"/>
-商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+商社 しょうしゃ 商社 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 9D <rel type="ノ" target="商社" sid="wiki00142433-02" id="6"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0
-でも でも でも 助詞 9 副助詞 2 * 0 * 0
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
 + 9D
-群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0
-を を を 助詞 9 格助詞 1 * 0 * 0
+群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="量" sid="wiki00142433-02" id="5"/><rel type="ヲ" target="群" sid="wiki00142433-02" id="8"/><rel type="ガ２" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="デ" target="中" sid="wiki00142433-02" id="7"/>
-抜いて ぬいて 抜く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
-いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-。 。 。 特殊 1 句点 1 * 0 * 0
+抜いて ぬいて 抜く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142433-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/01 MEMO:
 * 1D
 + 1D <rel type="ノ" target="会社" sid="wiki00142433-00-01" id="3"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="通称" sid="wiki00142433-03" id="0"/><rel type="=構" target="通称" sid="wiki00142433-03" id="0"/><memo text="CO"/><NE:ORGANIZATION:物産>
-物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:single>
-。 。 。 特殊 1 句点 1 * 0 * 0
+物産 ぶっさん 物産 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142433-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/01 MEMO:株価指数の名前のNEは？
 * 1P
 + 2D
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:head>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:middle>
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5P <NE:OPTIONAL:日経平均株価>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
-および および および 助詞 9 接続助詞 3 * 0 * 0
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
 + 5D
-TOPIX TOPIX TOPIX 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:OPTIONAL:middle>
+TOPIX TOPIX TOPIX 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
-Core Core Core 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+Core Core Core 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 9P <NE:OPTIONAL:TOPIX　Core30>
-30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:tail>
-、 、 、 特殊 1 読点 2 * 0 * 0
+30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 7P
-JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:head>
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 9D <rel type="=" target="日経" sid="wiki00142433-04" id="0"/>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:middle>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 9D
-インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:middle>
+インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D <NE:OPTIONAL:JPX日経インデックス400>
-400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:tail>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 11D <rel type="ガ" target="銘柄" sid="wiki00142433-04" id="8"/><rel type="ヲ" target="株価" sid="wiki00142433-04" id="2"/><rel type="ヲ" mode="AND" target="TOPIX　Core30" sid="wiki00142433-04" id="3"/><rel type="ヲ" mode="AND" target="インデックス400" sid="wiki00142433-04" id="6"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 12D <rel type="=≒" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="修飾" target="構成" sid="wiki00142433-04" id="10"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="ノ" target="銘柄" sid="wiki00142433-04" id="8"/><rel type="=構" target="会社" sid="wiki00142433-00-01" id="3"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00142433-04" id="11"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

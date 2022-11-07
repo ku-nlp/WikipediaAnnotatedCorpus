@@ -1,247 +1,247 @@
 # S-ID:wiki00210211-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/11/02 MEMO:
 * 7D
 + 2D
-ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
+ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D
-フンボルト ふんぼると フンボルト 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
+フンボルト ふんぼると フンボルト 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 10D <memo text="Humboldt-Universität zu Berlinなのでベルリンが含まれると思うが、「フンボルト大学ベルリン」とも呼ばれており、どれが適当な呼称なのかよくわからない。"/><NE:ORGANIZATION:ベルリン・フンボルト大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D <NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-の の の 助詞 9 接続助詞 3 * 0 * 0
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ノ" target="ドイツ" sid="wiki00210211-00" id="3"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ？" target="ドイツ" sid="wiki00210211-00" id="3"/><rel type="=構" target="首都" sid="wiki00210211-00" id="4"/><rel type="修飾" target="首都" sid="wiki00210211-00" id="4"/><NE:LOCATION:ベルリン>
-ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-に に に 助詞 9 格助詞 1 * 0 * 0
+ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <rel type="ガ" target="一つ" sid="wiki00210211-00" id="10"/><rel type="ニ" target="ベルリン" sid="wiki00210211-00" id="5"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
 + 9D
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 9D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 10D <rel type="修飾" target="国立" sid="wiki00210211-00" id="7"/><rel type="修飾" mode="AND" target="総合" sid="wiki00210211-00" id="8"/><rel type="=≒" target="大学" sid="wiki00210211-00" id="2"/>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="大学" sid="wiki00210211-00" id="9"/><rel type="ガ" target="大学" sid="wiki00210211-00" id="2"/><rel type="=構" target="大学" sid="wiki00210211-00" id="9"/><rel type="=構" mode="AND" target="大学" sid="wiki00210211-00" id="2"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00210211-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/11/02 MEMO:
 * 4D
 + 6D <NE:DATE:2005年>
-2005 にせんご 2005 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2005 にせんご 2005 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 2D
 + 2D <rel type="=" target="ドイツ" sid="wiki00210211-00" id="3"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 3D <rel type="ノ" target="ドイツ" sid="wiki00210211-01" id="1"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0
-内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 4D
 + 5D
-エクセレンス えくせれんす エクセレンス 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
+エクセレンス えくせれんす エクセレンス 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 6D <rel type="修飾" target="エクセレンス" sid="wiki00210211-01" id="4"/><rel type="ニオイテ" target="国内" sid="wiki00210211-01" id="2"/><memo text="独語では「Exzellenzinitiative」で1語"/>
-イニシアティブ いにしあてぃぶ イニシアティブ 名詞 6 普通名詞 1 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+イニシアティブ いにしあてぃぶ イニシアティブ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 8D <rel type="ガ" target="大学" sid="wiki00210211-01" id="8"/><rel type="時間" target="2005年" sid="wiki00210211-01" id="0"/><rel type="ニオイテ" target="国内" sid="wiki00210211-01" id="2"/><rel type="ニ" target="イニシアティブ" sid="wiki00210211-01" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/>
-指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
-れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
+指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
 + 8D <rel type="ノ" target="大学" sid="wiki00210211-01" id="8"/>
-11 じゅういち 11 名詞 6 数詞 7 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 9D <rel type="修飾" target="11" sid="wiki00210211-01" id="7"/><rel type="=構" target="11" sid="wiki00210211-01" id="7"/><rel type="=≒" mode="AND" target="大学" sid="wiki00210211-00" id="2"/>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="大学" sid="wiki00210211-01" id="8"/><rel type="=構" target="大学" sid="wiki00210211-01" id="8"/><rel type="=構" mode="AND" target="大学" sid="wiki00210211-00" id="2"/><rel type="ガ" target="大学" sid="wiki00210211-00" id="2"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00210211-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2022/11/02 MEMO:
 * 2D
 + 1D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 <NE:DATE:head>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
 + 2D <rel type="修飾" target="東" sid="wiki00210211-02-01" id="0"/>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 <NE:DATE:middle>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:middle>
 + 5D <rel type="ノ" target="ドイツ" sid="wiki00210211-02-01" id="1"/><NE:DATE:東ドイツ時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 <NE:DATE:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D
-思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0
+思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="思想" sid="wiki00210211-02-01" id="3"/>
-統制 とうせい 統制 名詞 6 サ変名詞 2 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
+統制 とうせい 統制 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 11D <rel type="ガ" target="大学" sid="wiki00210211-00" id="2"/><rel type="時間" target="時代" sid="wiki00210211-02-01" id="2"/><rel type="デ" target="統制" sid="wiki00210211-02-01" id="4"/>
-衰退 すいたい 衰退 名詞 6 サ変名詞 2 * 0 * 0
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10
-が が が 助詞 9 接続助詞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+衰退 すいたい 衰退 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 7P <rel type="=" target="東" sid="wiki00210211-02-01" id="0"/>
-東 とう 東 名詞 6 普通名詞 1 * 0 * 0
+東 とう 東 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D
-西 ざい 西 名詞 6 普通名詞 1 * 0 * 0
+西 ざい 西 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9D <rel type="修飾" target="東" sid="wiki00210211-02-01" id="6"/><rel type="修飾" mode="AND" target="西" sid="wiki00210211-02-01" id="7"/><rel type="=≒" target="ドイツ" sid="wiki00210211-02-01" id="1"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL
 + 10D <rel type="ガ" target="ドイツ" sid="wiki00210211-02-01" id="8"/><rel type="外の関係" target="後" sid="wiki00210211-02-01" id="10"/>
-統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0
+統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11D <rel type="ノ" target="統一" sid="wiki00210211-02-01" id="9"/>
-後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 26D
 + 38D <rel type="ガ" target="大学" sid="wiki00210211-00" id="2"/><rel type="時間" target="後" sid="wiki00210211-02-01" id="10"/><rel type="ニ" target="不特定:人"/>
-再建 さいけん 再建 名詞 6 サ変名詞 2 * 0 * 0
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
-れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8
-、 、 、 特殊 1 読点 2 * 0 * 0
+再建 さいけん 再建 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 21D
 + 32D
-最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0
-で で で 助詞 9 格助詞 1 * 0 * 0
-は は は 助詞 9 副助詞 2 * 0 * 0
+最近 さいきん 最近 名詞 6 時相名詞 10 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 15D
-Times Times Times 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ARTIFACT:middle>
+Times Times Times 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 15D
-Higher Higher Higher 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ARTIFACT:middle>
+Higher Higher Higher 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 18D <memo text="新聞タイムズの付録冊子"/><NE:ARTIFACT:Times　Higher　Education>
-Education Education Education 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
-　 　 　 特殊 1 空白 6 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+Education Education Education 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 18D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:head>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 18D
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 19D <rel type="ノ" target="大学" sid="wiki00210211-02-01" id="17"/><rel type="ノ？" target="Education" sid="wiki00210211-02-01" id="15"/><memo text="記事名でいい？「 World University Rankings」"/><NE:ARTIFACT:世界大学ランキング>
-ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
-に に に 助詞 9 格助詞 1 * 0 * 0
+ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
 + 32D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
-は は は 助詞 9 副助詞 2 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
 + 21D <NE:DATE:2015年>
-2015 にせんじゅうご 2015 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2015 にせんじゅうご 2015 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 12P
 + 23P <rel type="時間" target="2015年" sid="wiki00210211-02-01" id="20"/><rel type="ノ" target="ランキング" sid="wiki00210211-02-01" id="18"/>
-80 はちじゅう 80 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+80 はちじゅう 80 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
 + 23D <NE:DATE:2016年>
-2016 にせんじゅうろく 2016 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2016 にせんじゅうろく 2016 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 14P
 + 25P <rel type="時間" target="2016年" sid="wiki00210211-02-01" id="22"/><rel type="ノ" target="ランキング" sid="wiki00210211-02-01" id="18"/>
-49 よんじゅうきゅう 49 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+49 よんじゅうきゅう 49 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
 + 25D <NE:DATE:2017年>
-2017 にせんじゅうなな 2017 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2017 にせんじゅうなな 2017 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 16P
 + 27P <rel type="時間" target="2017年" sid="wiki00210211-02-01" id="24"/><rel type="ノ" target="ランキング" sid="wiki00210211-02-01" id="18"/>
-57 ごじゅうなな 57 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+57 ごじゅうなな 57 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 16D
 + 27D <NE:DATE:2018年>
-2018 にせんじゅうはち 2018 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2018 にせんじゅうはち 2018 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 18P
 + 29P <rel type="時間" target="2018年" sid="wiki00210211-02-01" id="26"/><rel type="ノ" target="ランキング" sid="wiki00210211-02-01" id="18"/>
-62 ろくじゅうに 62 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-、 、 、 特殊 1 読点 2 * 0 * 0
+62 ろくじゅうに 62 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18D
 + 29D <NE:DATE:2019年>
-2019 にせんじゅうく 2019 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
+2019 にせんじゅうく 2019 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 21D
 + 32D <rel type="時間" target="2019年" sid="wiki00210211-02-01" id="28"/><rel type="ノ" target="ランキング" sid="wiki00210211-02-01" id="18"/>
-67 ろくじゅうなな 67 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-と と と 助詞 9 格助詞 1 * 0 * 0
+67 ろくじゅうなな 67 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
 + 32D
-毎年 まいとし 毎年 名詞 6 時相名詞 10 * 0 * 0
+毎年 まいとし 毎年 名詞 6 時相名詞 10 * 0 * 0 NIL
 * 21D
 + 32D <rel type="=≒" target="80位" sid="wiki00210211-02-01" id="21"/><rel type="=≒" mode="AND" target="49位" sid="wiki00210211-02-01" id="23"/><rel type="=≒" mode="AND" target="57位" sid="wiki00210211-02-01" id="25"/><rel type="=≒" mode="AND" target="62位" sid="wiki00210211-02-01" id="27"/><rel type="=≒" mode="AND" target="67位" sid="wiki00210211-02-01" id="29"/>
-100 ひゃく 100 名詞 6 数詞 7 * 0 * 0
-位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-以内 いない 以内 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0
-に に に 助詞 9 格助詞 1 * 0 * 0
+100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+以内 いない 以内 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 26D
 + 38D <rel type="ニ" target="100位以内" sid="wiki00210211-02-01" id="31"/><rel type="ニオイテ" target="ランキング" sid="wiki00210211-02-01" id="18"/><rel type="時間" target="毎年" sid="wiki00210211-02-01" id="30"/><rel type="時間" mode="AND" target="最近" sid="wiki00210211-02-01" id="12"/><rel type="ト" target="80位" sid="wiki00210211-02-01" id="21"/><rel type="ト" mode="AND" target="49位" sid="wiki00210211-02-01" id="23"/><rel type="ト" mode="AND" target="57位" sid="wiki00210211-02-01" id="25"/><rel type="ト" mode="AND" target="62位" sid="wiki00210211-02-01" id="27"/><rel type="ト" mode="AND" target="67位" sid="wiki00210211-02-01" id="29"/><rel type="ガ" target="Times" sid="wiki00210211-02-01" id="13"/><rel type="ヲ" target="一つ" sid="wiki00210211-02-01" id="38"/><memo text="間接ト格、この「ノミネート」の用法が一般的なのか不明"/>
-ノミネート のみねーと ノミネート 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-、 、 、 特殊 1 読点 2 * 0 * 0
+ノミネート のみねーと ノミネート 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23D
 + 34D <rel type="=" target="ドイツ" sid="wiki00210211-00" id="3"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 24D
 + 35D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-を を を 助詞 9 格助詞 1 * 0 * 0
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 25D
 + 37D <rel type="ガ" target="大学" sid="wiki00210211-02-01" id="37"/><rel type="ヲ" target="ドイツ" sid="wiki00210211-02-01" id="33"/><rel type="ヲ" mode="AND" target="ヨーロッパ" sid="wiki00210211-02-01" id="34"/>
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 26D
 + 37D
-名門 めいもん 名門 名詞 6 普通名詞 1 * 0 * 0
+名門 めいもん 名門 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 38D <rel type="修飾" target="名門" sid="wiki00210211-02-01" id="36"/><rel type="=≒" target="大学" sid="wiki00210211-00" id="2"/>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0
-の の の 助詞 9 接続助詞 3 * 0 * 0
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ノ" target="大学" sid="wiki00210211-02-01" id="37"/><rel type="ガ" target="大学" sid="wiki00210211-00" id="2"/><rel type="=構" target="大学" sid="wiki00210211-00" id="2"/><rel type="=構" mode="AND" target="大学" sid="wiki00210211-02-01" id="37"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
-。 。 。 特殊 1 句点 1 * 0 * 0
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00210211-02-02 括弧始:（ 括弧終:） 括弧位置:59 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/02 MEMO:
 * -1D
 + 2D <rel type="=" target="Times" sid="wiki00210211-02-01" id="13"/>
-タイムズ たいむず タイムズ 名詞 6 組織名 6 * 0 * 0 <NE:ARTIFACT:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ARTIFACT:middle>
+タイムズ たいむず タイムズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 2D <rel type="=" target="Higher" sid="wiki00210211-02-01" id="14"/>
-ハイアー はいあー ハイアー 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ARTIFACT:middle>
+ハイアー はいあー ハイアー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + -1D <rel type="=" target="Education" sid="wiki00210211-02-01" id="15"/><NE:ARTIFACT:タイムズ・ハイアー・エデュケーション>
-エデュケーション えでゅけーしょん エデュケーション 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
+エデュケーション えでゅけーしょん エデュケーション 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS

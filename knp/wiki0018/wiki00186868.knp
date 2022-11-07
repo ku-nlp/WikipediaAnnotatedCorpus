@@ -1,4 +1,4 @@
-# S-ID:wiki00186868-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00186868-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/30 MEMO:
 * 4D
 + 4D
 田 た 田 名詞 6 普通名詞 1 * 0 * 0
@@ -17,7 +17,7 @@
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="田" sid="wiki00186868-00-01" id="0"/><rel type="=構" target="田" sid="wiki00186868-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="田" sid="wiki00186868-00-01" id="0"/><rel type="=構" target="田" sid="wiki00186868-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00186868-00-01" id="3"/><memo text="CO"/>
 農地 のうち 農地 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
@@ -50,9 +50,9 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00186868-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:75.00000 MOD:2022/09/07 MEMO:
-* 3P
-+ 3P
+# S-ID:wiki00186868-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:75.00000 MOD:2022/09/30 MEMO:
+* 4P
++ 4P <rel type="=構" target="田" sid="wiki00186868-00-01" id="0"/>
 田圃 たんぼ 田圃 名詞 6 普通名詞 1 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -63,53 +63,55 @@ EOS
 * 3D
 + 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="水" sid="wiki00186868-02-01" id="1"/><rel type="ニ" target="田" sid="wiki00186868-02-01" id="3"/>
 張った はった 張る 動詞 2 * 0 子音動詞ラ行 10 タ形 10
-* 5D
-+ 5D
+* 4D
++ 4D <rel type="=≒" target="田" sid="wiki00186868-00-01" id="0"/>
 田 た 田 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 5D
-+ 5D <rel type="=構" target="田" sid="wiki00186868-02-01" id="3"/><rel type="=構" mode="AND" target="田圃" sid="wiki00186868-02-01" id="0"/>
++ 5D <rel type="=構" target="田" sid="wiki00186868-02-01" id="3"/>
 水田 すいでん 水田 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="水田" sid="wiki00186868-02-01" id="4"/><rel type="ヲ" target="田" sid="wiki00186868-02-01" id="3"/><rel type="ヲ" mode="AND" target="田圃" sid="wiki00186868-02-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="田" sid="wiki00186868-00-01" id="0"/><rel type="ト" target="水田" sid="wiki00186868-02-01" id="4"/><rel type="ト" mode="AND" target="田圃" sid="wiki00186868-02-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00186868-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/07 MEMO:
-* 1D
-+ 2D <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
+# S-ID:wiki00186868-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/30 MEMO:
+* 7P
++ 8P <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
 たんぼ たんぼ たんぼ 名詞 6 普通名詞 1 * 0 * 0
 ： ： ： 特殊 1 記号 5 * 0 * 0
+* 7D
++ 8D
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0
-* 1D
-+ 2P <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
+* 3D
++ 3P <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
 でんぼ でんぼ でんぼ 名詞 6 普通名詞 1 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 3D <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
++ 4D <rel type="=" target="田圃" sid="wiki00186868-02-01" id="0"/>
 でんぽ でんぽ でんぽ 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
-* 2D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="田圃" sid="wiki00186868-02-01" id="0"/><rel type="ト" target="たんぼ" sid="wiki00186868-02-02" id="0"/><rel type="ト" mode="？" target="でんぼ" sid="wiki00186868-02-02" id="1"/><rel type="ト" mode="？" target="でんぽ" sid="wiki00186868-02-02" id="2"/><rel type="外の関係" target="場合" sid="wiki00186868-02-02" id="4"/><memo text="ト格　andで入れる？"/>
+* 4D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="田圃" sid="wiki00186868-02-01" id="0"/><rel type="外の関係" target="場合" sid="wiki00186868-02-02" id="4"/><rel type="ト" target="でんぼ" sid="wiki00186868-02-02" id="2"/><rel type="ト" mode="AND" target="でんぽ" sid="wiki00186868-02-02" id="3"/>
 読む よむ 読む 動詞 2 * 0 子音動詞マ行 9 基本形 2
-* 3D
-+ 7D <rel type="ノ" target="読む" sid="wiki00186868-02-02" id="3"/>
+* 7D
++ 8D <rel type="ノ" target="読む" sid="wiki00186868-02-02" id="3"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
-* 6D
-+ 6D <rel type="=" target="田" sid="wiki00186868-00-01" id="0"/>
+* 6P
++ 7P <rel type="=" target="田" sid="wiki00186868-00-01" id="0"/>
 田 た 田 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
-* 5D
-+ 7D
+* 7D
++ 8D
 畑 はたけ 畑 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D
 + -1D <rel type="ヲ" target="田" sid="wiki00186868-02-02" id="5"/><rel type="ヲ" mode="AND" target="畑" sid="wiki00186868-02-02" id="6"/><rel type="ガ" target="田圃" sid="wiki00186868-02-01" id="0"/><rel type="時間" target="場合" sid="wiki00186868-02-02" id="4"/>
 表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2
 EOS
-# S-ID:wiki00186868-02-03 括弧始:（ 括弧終:） 括弧位置:42 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00186868-02-03 括弧始:（ 括弧終:） 括弧位置:42 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/30 MEMO:
 * -1D
 + -1D <rel type="=" target="水田" sid="wiki00186868-02-01" id="4"/>
 すいでん すいでん すいでん 名詞 6 普通名詞 1 * 0 * 0

@@ -1,5 +1,5 @@
-# S-ID:wiki00183105-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/08/31 MEMO:
-* 9D
+# S-ID:wiki00183105-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/09/29 MEMO:
+* 8D
 + 1D
 確率 かくりつ 確率 名詞 6 普通名詞 1 * 0 * 0
 + 11D <rel type="ノ" target="確率" sid="wiki00183105-00-01" id="0"/>
@@ -9,37 +9,36 @@
 * 2D
 + 3D <rel type="ガ" target="現象" sid="wiki00183105-00-01" id="3"/>
 偶然 ぐうぜん 偶然だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
-* 3D
 + 4D <rel type="修飾" target="偶然" sid="wiki00183105-00-01" id="2"/>
 現象 げんしょう 現象 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
-* 6D
+* 5D
 + 7D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
-* 5D
+* 4D
 + 6D <rel type="ガ" target="模型" sid="wiki00183105-00-01" id="6"/>
 数学 すうがく 数学 名詞 6 普通名詞 1 * 0 * 0
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
-* 6D
-+ 7D
+* 5D
++ 7D <rel type="修飾" target="数学的な" sid="wiki00183105-00-01" id="5"/>
 模型 もけい 模型 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
-* 7P
-+ 8P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="模型" sid="wiki00183105-00-01" id="6"/><rel type="ニタイシテ" target="現象" sid="wiki00183105-00-01" id="3"/>
+* 6P
++ 8P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="模型" sid="wiki00183105-00-01" id="6"/><rel type="ニタイシテ" target="現象" sid="wiki00183105-00-01" id="3"/><rel type="外の関係" target="分野" sid="wiki00183105-00-01" id="11"/>
 与え あたえ 与える 動詞 2 * 0 母音動詞 1 基本連用形 8
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 8D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="現象" sid="wiki00183105-00-01" id="3"/><rel type="ニヨッテ" target="模型" sid="wiki00183105-00-01" id="6"/><rel type="外の関係" target="数学" sid="wiki00183105-00-01" id="9"/>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="現象" sid="wiki00183105-00-01" id="3"/><rel type="ニヨッテ" target="模型" sid="wiki00183105-00-01" id="6"/><rel type="外の関係" target="分野" sid="wiki00183105-00-01" id="11"/>
 解析 かいせき 解析 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
-* 9D
-+ 11D <rel type="トイウ" target="与え" sid="wiki00183105-00-01" id="7"/><rel type="トイウ" mode="AND" target="解析する" sid="wiki00183105-00-01" id="8"/>
+* 8D
++ 11D
 数学 すうがく 数学 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
 + 11D
 一 いち 一 名詞 6 数詞 7 * 0 * 0
-+ -1D <rel type="ガ" target="論" sid="wiki00183105-00-01" id="1"/><rel type="ノ" target="数学" sid="wiki00183105-00-01" id="9"/><rel type="修飾" target="一" sid="wiki00183105-00-01" id="10"/><rel type="=構" target="論" sid="wiki00183105-00-01" id="1"/>
++ -1D <rel type="ガ" target="論" sid="wiki00183105-00-01" id="1"/><rel type="ノ" target="数学" sid="wiki00183105-00-01" id="9"/><rel type="修飾" target="一" sid="wiki00183105-00-01" id="10"/><rel type="=構" target="論" sid="wiki00183105-00-01" id="1"/><rel type="トイウ" target="解析する" sid="wiki00183105-00-01" id="8"/><rel type="トイウ" mode="AND" target="与え" sid="wiki00183105-00-01" id="7"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
@@ -53,7 +52,7 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0
 , , , 特殊 1 読点 2 * 0 * 0
 EOS
-# S-ID:wiki00183105-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/31 MEMO:
+# S-ID:wiki00183105-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/29 MEMO:
 * -1D
 + -1D <rel type="=" target="模型" sid="wiki00183105-00-01" id="6"/>
 モデル もでる モデル 名詞 6 普通名詞 1 * 0 * 0

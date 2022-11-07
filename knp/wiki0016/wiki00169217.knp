@@ -1,4 +1,4 @@
-# S-ID:wiki00169217-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2022/09/13 MEMO:
+# S-ID:wiki00169217-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2022/09/27 MEMO:
 * 1D
 + 1D
 心 こころ 心 名詞 6 普通名詞 1 * 0 * 0
@@ -88,7 +88,7 @@ EOS
 + -1D <rel type="=" target="哲学" sid="wiki00169217-00-01" id="1"/>
 てつがく てつがく てつがく 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00169217-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/09/13 MEMO:
+# S-ID:wiki00169217-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/09/27 MEMO:
 * 1D
 + 1D
 心 こころ 心 名詞 6 普通名詞 1 * 0 * 0
@@ -124,7 +124,7 @@ EOS
 テーマ てーま テーマ 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 14D
-+ 9D <rel type="=" target="関係" sid="wiki00169217-01" id="13"/>
++ 9D
 心身 しんしん 心身 名詞 6 普通名詞 1 * 0 * 0
 + 15D <rel type="ノ" target="心身" sid="wiki00169217-01" id="8"/><rel type="ガ" target="テーマ" sid="wiki00169217-01" id="7"/><rel type="=構" target="テーマ" sid="wiki00169217-01" id="7"/>
 問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0
@@ -133,11 +133,11 @@ EOS
 + 15D
 すなわち すなわち すなわち 副詞 8 * 0 * 0 * 0
 * 11P
-+ 12P <rel type="=" target="心" sid="wiki00169217-01" id="0"/>
++ 12P <rel type="=" target="心" sid="wiki00169217-01" id="0"/><rel type="=≒" mode="AND" target="心身" sid="wiki00169217-01" id="8"/>
 心 こころ 心 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 12D
-+ 13D <rel type="=≒" target="もの" sid="wiki00169217-00-01" id="15"/>
++ 13D <rel type="=≒" target="もの" sid="wiki00169217-00-01" id="15"/><rel type="=≒" mode="AND" target="心身" sid="wiki00169217-01" id="8"/>
 体 からだ 体 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 13D

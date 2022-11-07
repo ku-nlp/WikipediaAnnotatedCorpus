@@ -1,4 +1,4 @@
-# S-ID:wiki00162875-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162875-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000 MOD:2022/09/21 MEMO:
 * 10D
 + 1D <NE:OPTIONAL:アルザス>
 アルザス あるざす アルザス 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
@@ -17,7 +17,7 @@
 * 3D
 + 6D <rel type="=" target="アルザス" sid="wiki00162875-00-01" id="0"/><NE:LOCATION:アルザス>
 アルザス あるざす アルザス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 7D <rel type="ノ？" target="部" sid="wiki00162875-00-01" id="4"/>
++ 7D <rel type="修飾" target="部" sid="wiki00162875-00-01" id="4"/>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * 9P
@@ -70,16 +70,16 @@ Elsassisch Elsassisch Elsassisch 名詞 6 普通名詞 1 * 0 * 0
 + -1D <memo text="「（標準）ドイツ語」等が脱落"/>
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00162875-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162875-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/21 MEMO:
 * -1D
 + 1D <NE:OPTIONAL:アレマン>
 アレマン あれまん アレマン 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
 + 2D <rel type="ノ？" target="アレマン" sid="wiki00162875-00-03" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="=≒" target="系" sid="wiki00162875-00-01" id="10"/><rel type="ノ" target="語" sid="wiki00162875-00-03" id="1"/><rel type="ノ" mode="AND" target="系" sid="wiki00162875-00-01" id="10"/>
++ -1D <rel type="=≒" target="系" sid="wiki00162875-00-01" id="10"/><rel type="ノ？" target="系" sid="wiki00162875-00-01" id="10"/><rel type="ノ" target="語" sid="wiki00162875-00-03" id="1"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00162875-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/08/30 MEMO:
+# S-ID:wiki00162875-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/09/21 MEMO:
 * 6D
 + 1D <NE:LOCATION:アルザス>
 アルザス あるざす アルザス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -106,7 +106,7 @@ EOS
 * 6D
 + 7D <NE:OPTIONAL:アルザス>
 アルザス あるざす アルザス 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
-+ 8D <rel type="修飾" target="流暢な" sid="wiki00162875-01" id="5"/><rel type="=≒" target="語" sid="wiki00162875-00-01" id="1"/><memo text="＝がいいか"/>
++ 8D <rel type="修飾" target="流暢な" sid="wiki00162875-01" id="5"/><rel type="=" target="語" sid="wiki00162875-00-01" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D

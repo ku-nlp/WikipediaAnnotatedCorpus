@@ -1,56 +1,56 @@
-# S-ID:wiki00207493-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00207493-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/11/02 MEMO:
 * 8D
 + 13D <NE:LOCATION:フランドル>
-フランドル フランドル フランドル 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+フランドル ふらんどる フランドル 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 3D
-+ 2D
-旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0
-+ 3D <NE:LOCATION:フランドル>
-フランドル フランドル フランドル 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="フランドル" sid="wiki00207493-00" id="2"/>
-伯領 伯領 伯領 名詞 6 普通名詞 1 * 0 * 0
++ 3D
+旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 <NE:OPTIONAL:head>
++ 3D <rel type="=" target="フランドル" sid="wiki00207493-00" id="0"/>
+フランドル ふらんどる フランドル 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:middle>
++ 5D <rel type="ノ" target="フランドル" sid="wiki00207493-00" id="2"/><rel type="修飾" target="旧" sid="wiki00207493-00" id="1"/><NE:OPTIONAL:旧フランドル伯領>
+伯領 はくりょう 伯領 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 3D
-+ 5D
++ 5D <rel type="ノ" target="地域" sid="wiki00207493-00" id="13"/>
 中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
-* 6D
-+ 11D <rel type="ガ" target="南部" sid="wiki00207493-00" id="7"/><rel type="ヲ" target="伯領" sid="wiki00207493-00" id="3"/>
+* 8D
++ 13D <rel type="ヲ" target="伯領" sid="wiki00207493-00" id="3"/><rel type="ガ" target="地域" sid="wiki00207493-00" id="13"/><rel type="ト" target="中心" sid="wiki00207493-00" id="4"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 5P
 + 7D <NE:LOCATION:オランダ>
 オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 9P <rel type="ノ" target="オランダ" sid="wiki00207493-00" id="6"/>
++ 9P <rel type="ノ" target="オランダ" sid="wiki00207493-00" id="6"/><rel type="=≒" target="フランドル" sid="wiki00207493-00" id="0"/>
 南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 6P
 + 9D <NE:LOCATION:ベルギー>
 ベルギー べるぎー ベルギー 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 11P <rel type="ノ" target="ベルギー" sid="wiki00207493-00" id="8"/>
++ 11P <rel type="ノ" target="ベルギー" sid="wiki00207493-00" id="8"/><rel type="=≒" target="フランドル" sid="wiki00207493-00" id="0"/>
 西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 7D
 + 11D <NE:LOCATION:フランス>
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 12D <rel type="ノ" target="フランス" sid="wiki00207493-00" id="10"/>
++ 12D <rel type="ノ" target="フランス" sid="wiki00207493-00" id="10"/><rel type="=≒" target="フランドル" sid="wiki00207493-00" id="0"/>
 北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 8D
-+ 13D <rel type="ニ" target="西部" sid="wiki00207493-00" id="9"/>
++ 13D <rel type="ニ" target="西部" sid="wiki00207493-00" id="9"/><rel type="ニ" mode="AND" target="北部" sid="wiki00207493-00" id="11"/><rel type="ニ" mode="AND" target="南部" sid="wiki00207493-00" id="7"/>
 かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="フランドル" sid="wiki00207493-00" id="0"/><rel type="=" target="フランドル" sid="wiki00207493-00" id="0"/>
++ -1D <rel type="ガ" target="フランドル" sid="wiki00207493-00" id="0"/><rel type="=構" target="フランドル" sid="wiki00207493-00" id="0"/><memo text="CO"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00207493-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00207493-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/02 MEMO:
 * 5D
-+ 6D
-中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0
++ 6D <NE:DATE:中世>
+中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 <NE:DATE:single>
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 2D
 + 2D
@@ -71,26 +71,26 @@ EOS
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 9P
-+ 11P <rel type="ガ" target="経済" sid="wiki00207493-01" id="5"/>
++ 11P <rel type="ガ" target="経済" sid="wiki00207493-01" id="5"/><rel type="ガ" mode="AND" target="商業" sid="wiki00207493-01" id="4"/><rel type="時間" target="中世" sid="wiki00207493-01" id="0"/><rel type="デ" target="フランドル" sid="wiki00207493-00" id="0"/>
 発達 はったつ 発達 名詞 6 サ変名詞 2 * 0 * 0
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 7D
-+ 9D <NE:LOCATION:ヨーロッパ>
++ 9D <rel type="=≒" target="オランダ" sid="wiki00207493-00" id="6"/><rel type="=≒" mode="AND" target="ベルギー" sid="wiki00207493-00" id="8"/><rel type="=≒" mode="AND" target="フランス" sid="wiki00207493-00" id="10"/><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 8D
 + 9D <rel type="ガ" target="地域" sid="wiki00207493-01" id="9"/>
 先進 せんしん 先進 名詞 6 サ変名詞 2 * 0 * 0
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1
-+ 10D <rel type="=" target="フランドル" sid="wiki00207493-00" id="0"/>
++ 10D <rel type="修飾" target="先進的" sid="wiki00207493-01" id="8"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00207493-01" id="7"/><rel type="=構" target="フランドル" sid="wiki00207493-00" id="0"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 9D
 + 11D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 * -1D
-+ -1D <rel type="ガ" target="フランドル" sid="wiki00207493-00" id="0"/>
++ -1D <rel type="ガ" target="フランドル" sid="wiki00207493-00" id="0"/><rel type="トシテ" target="地域" sid="wiki00207493-01" id="9"/>
 繁栄 はんえい 繁栄 名詞 6 サ変名詞 2 * 0 * 0
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10
 。 。 。 特殊 1 句点 1 * 0 * 0

@@ -1,9 +1,9 @@
-# S-ID:wiki00193937-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00193937-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/20 MEMO:
 * 2D
-+ 1D
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
-+ 3D <rel type="ノ" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/><NE:ORGANIZATION:中華人民共和国国務院>
-国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
++ 1D <NE:LOCATION:中華人民共和国>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
++ 3D <rel type="ノ" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/><memo text="どの期かの国務院を指しているわけではないのでNEではない？"/><NE:OPTIONAL:国務院>
+国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
@@ -11,31 +11,33 @@
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="ノ" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/><rel type="=" target="国務院" sid="wiki00193937-00-01" id="1"/>
++ -1D <rel type="ガ" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="ノ" target="中国" sid="wiki00193937-00-01" id="2"/><rel type="=構" target="国務院" sid="wiki00193937-00-01" id="1"/><memo text="CO"/>
 政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00193937-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1P
-+ 1P <rel type="=" target="中国" sid="wiki00193937-00-01" id="2"/>
-ちゅうかじんみんきょうわこくこくむいん ちゅうかじんみんきょうわこくこくむいん ちゅうかじんみんきょうわこくこくむいん 名詞 6 普通名詞 1 * 0 * 0
+# S-ID:wiki00193937-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/20 MEMO:
+* 1D
++ 1D <rel type="=" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/><NE:LOCATION:ちゅうかじんみんきょうわこく>
+ちゅうかじんみんきょうわこく ちゅうかじんみんきょうわこく ちゅうかじんみんきょうわこく 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
++ 2D <rel type="=" target="国務院" sid="wiki00193937-00-01" id="1"/><NE:OPTIONAL:こくむいん>
+こくむいん こくむいん こくむいん 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1D
-+ -1D <rel type="=" target="国務院" sid="wiki00193937-00-01" id="1"/><NE:PERSON:簡>
-簡 かん 簡 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
++ -1D <memo text="簡体字表記が脱落　不適か"/>
+簡 かん 簡 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00193937-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00193937-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/20 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ノ" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/>
 他 た 他 接頭辞 13 名詞接頭辞 1 * 0 * 0
-+ 2D
++ 2D <rel type="修飾" target="他" sid="wiki00193937-01" id="0"/>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 2D
 + 3D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2
 * 3D
-+ 4D
++ 4D <rel type="ニオイテ" target="国" sid="wiki00193937-01" id="1"/><rel type="=構≒" target="国務院" sid="wiki00193937-00-01" id="1"/><memo text="「に相当する」なので≒に"/>
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * -1D
@@ -44,43 +46,42 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00193937-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00193937-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/20 MEMO:
 * 1D
-+ 1D <rel type="=" target="国務院" sid="wiki00193937-00-01" id="1"/><NE:ORGANIZATION:国務院>
-国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
++ 1D <rel type="=構" target="国務院" sid="wiki00193937-00-01" id="1"/><NE:OPTIONAL:国務院>
+国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0
 も も も 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="国務院" sid="wiki00193937-00-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="ト" target="国務院" sid="wiki00193937-02" id="0"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00193937-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
-* 2D
+# S-ID:wiki00193937-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/20 MEMO:
+* 1D
 + 2D <rel type="=" target="中華人民共和国" sid="wiki00193937-00-01" id="0"/><NE:LOCATION:中華人民共和国>
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 2D
-+ 2D <rel type="ガ" target="中華人民共和国" sid="wiki00193937-03" id="0"/><rel type="ヲ" target="中華人民共和国" sid="wiki00193937-03" id="0"/>
+* 3D
++ 2D <rel type="ヲ" target="中華人民共和国" sid="wiki00193937-03" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="中華人民共和国" sid="wiki00193937-03" id="0"/><memo text="1949年10月"/>
 建国 けんこく 建国 名詞 6 サ変名詞 2 * 0 * 0
-* 4D
-+ 5D <rel type="ノ" target="建国" sid="wiki00193937-03" id="1"/>
++ 5D <rel type="ノ" target="建国" sid="wiki00193937-03" id="1"/><rel type="ノ？" target="中華人民共和国" sid="wiki00193937-03" id="0"/><NE:OPTIONAL:建国初期>
 初期に しょきに 初期に 副詞 8 * 0 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
-* 4D
+* 3D
 + 4D
-政務 せいむ 政務 名詞 6 普通名詞 1 * 0 * 0
-+ 5D <rel type="=" target="国務院" sid="wiki00193937-02" id="0"/>
-院 いん 院 名詞 6 普通名詞 1 * 0 * 0
+政務 せいむ 政務 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
++ 5D <rel type="=構" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="ノ" target="政務" sid="wiki00193937-03" id="3"/><memo text="現在の国務院と内容が少し違うが＝構でいいか"/><NE:OPTIONAL:政務院>
+院 いん 院 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="ヲ" target="国務院" sid="wiki00193937-00-01" id="1"/>
++ -1D <rel type="ヲ" target="国務院" sid="wiki00193937-00-01" id="1"/><rel type="時間" target="初期" sid="wiki00193937-03" id="2"/><rel type="ガ" target="中華人民共和国" sid="wiki00193937-03" id="0"/><rel type="ト" target="院" sid="wiki00193937-03" id="4"/>
 称して しょうして 称する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00193937-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000
+# S-ID:wiki00193937-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2022/10/20 MEMO:
 * 1D
 + 1D <rel type="=" target="中国" sid="wiki00193937-00-01" id="2"/><NE:LOCATION:中国>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -89,64 +90,64 @@ EOS
 + 10D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
 * 3P
-+ 5P <rel type="=" target="国務院" sid="wiki00193937-02" id="0"/><NE:ORGANIZATION:国務院>
++ 5P <rel type="=" target="国務院" sid="wiki00193937-02" id="0"/><NE:OPTIONAL:国務院>
 「 「 「 特殊 1 括弧始 3 * 0 * 0
-国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
+国務院 こくむいん 国務院 名詞 6 組織名 6 * 0 * 0 <NE:OPTIONAL:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 7D
+* 5D
 + 4D
 「 「 「 特殊 1 括弧始 3 * 0 * 0
 中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0
 + 5D
 人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0
-+ 10D <rel type="=" target="院" sid="wiki00193937-03" id="4"/>
++ 8D <rel type="ノ" target="中国" sid="wiki00193937-04" id="0"/><rel type="=" target="国務院" sid="wiki00193937-04" id="2"/>
 政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0
 」 」 」 特殊 1 括弧終 4 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 5D
 + 7D
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0
-+ 8D <rel type="ノ" target="行政" sid="wiki00193937-04" id="6"/>
++ 8D <rel type="ノ" target="中国" sid="wiki00193937-04" id="0"/><rel type="ノ？" target="行政" sid="wiki00193937-04" id="6"/><rel type="=構≒" target="国務院" sid="wiki00193937-04" id="2"/><rel type="=構≒" mode="AND" target="政府" sid="wiki00193937-04" id="5"/>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 6D
-+ 9D <rel type="ガ" target="政府" sid="wiki00193937-04" id="5"/><rel type="ヲ" target="府" sid="wiki00193937-04" id="7"/>
++ 9D <rel type="ヲ" target="府" sid="wiki00193937-04" id="7"/><rel type="ガ" target="政府" sid="wiki00193937-04" id="5"/><rel type="ガ" mode="AND" target="国務院" sid="wiki00193937-04" id="2"/><rel type="外の関係" target="場合" sid="wiki00193937-04" id="9"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2
 * 7D
-+ 10D
++ 10D <rel type="トイウ" target="指す" sid="wiki00193937-04" id="8"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 12P
-+ 18P <rel type="ガ" target="場合" sid="wiki00193937-04" id="9"/>
++ 18P <rel type="ガ" target="場合" sid="wiki00193937-04" id="9"/><rel type="ニオイテ" target="中国" sid="wiki00193937-04" id="0"/>
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2
 が が が 助詞 9 接続助詞 3 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 12D
 + 12D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0
-+ 18D
++ 18D <rel type="修飾" target="本" sid="wiki00193937-04" id="11"/>
 項 こう 項 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 10P
 + 14D
 立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0
-+ 16P <rel type="=" target="府" sid="wiki00193937-04" id="7"/>
++ 16P <rel type="=≒" target="府" sid="wiki00193937-04" id="7"/><rel type="ノ" target="中国" sid="wiki00193937-04" id="0"/><rel type="ノ？" target="立法" sid="wiki00193937-04" id="13"/>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 12D
 + 16D
 司法 しほう 司法 名詞 6 普通名詞 1 * 0 * 0
-+ 18D <rel type="ノ" target="司法" sid="wiki00193937-04" id="15"/>
++ 18D <rel type="ノ" target="中国" sid="wiki00193937-04" id="0"/><rel type="ノ？" target="司法" sid="wiki00193937-04" id="15"/><rel type="=≒" target="府" sid="wiki00193937-04" id="14"/>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 12D
-+ 18D <rel type="ガ" target="著者"/><rel type="ヲ" target="府" sid="wiki00193937-04" id="16"/>
++ 18D <rel type="ガ" target="著者"/><rel type="ヲ" target="府" sid="wiki00193937-04" id="16"/><rel type="ヲ" mode="AND" target="府" sid="wiki00193937-04" id="14"/><rel type="ト" target="府" sid="wiki00193937-04" id="7"/>
 まとめて まとめて まとめる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="府" sid="wiki00193937-04" id="16"/><rel type="ニ" target="読者"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="読者"/><rel type="デ" target="項" sid="wiki00193937-04" id="12"/><rel type="ヲ" target="府" sid="wiki00193937-04" id="16"/><rel type="ヲ" mode="AND" target="府" sid="wiki00193937-04" id="14"/>
 解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0

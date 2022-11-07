@@ -1,19 +1,19 @@
-# S-ID:wiki00229815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00229815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/31 MEMO:
 * 5D
 + 9D <NE:LOCATION:チュニス>
 チュニス ちゅにす チュニス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
-+ 2D <NE:LOCATION:チュニジア>
-チュニジア ちゅにじあ チュニジア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 + 3D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0
-+ 4D
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0
+チュニジア ちゅにじあ チュニジア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
++ 3D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:middle>
++ 4D <NE:LOCATION:チュニジア共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5P
-+ 9P <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ノ" target="国" sid="wiki00229815-00-01" id="3"/><rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
++ 9P <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ノ" target="国" sid="wiki00229815-00-01" id="3"/><rel type="=構" target="チュニス" sid="wiki00229815-00-01" id="0"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -24,45 +24,35 @@
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5D
-+ 9D <NE:LOCATION:チュニス県>
++ 9D <rel type="ノ？" target="国" sid="wiki00229815-00-01" id="6"/><NE:LOCATION:チュニス県>
 チュニス ちゅにす チュニス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
 + 9D
 県 けん 県 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ノ" target="チュニス県" sid="wiki00229815-00-01" id="7"/><rel type="=" target="首都" sid="wiki00229815-00-01" id="4"/>
++ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ノ" target="チュニス県" sid="wiki00229815-00-01" id="7"/><rel type="=構" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="修飾" target="県" sid="wiki00229815-00-01" id="8"/>
 都 と 都 名詞 6 普通名詞 1 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 も も も 助詞 9 副助詞 2 * 0 * 0
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00229815-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00229815-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * 1P
-+ 8P <rel type="=" target="都でもある" sid="wiki00229815-00-01" id="9"/>
-Tunis Tunis Tunis 名詞 6 組織名 6 * 0 * 0
++ 1P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
+Tunis Tunis Tunis 名詞 6 地名 4 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
-* -1D
-+ 2D
-ت ت ت 名詞 6 普通名詞 1 * 0 * 0
-+ 3D
-و و و 名詞 6 普通名詞 1 * 0 * 0
-+ 4D
-ن ن ن 名詞 6 普通名詞 1 * 0 * 0
-+ 5D
-س س س 名詞 6 普通名詞 1 * 0 * 0
-+ 8D
-: : : 名詞 6 普通名詞 1 * 0 * 0
+* 2P
++ 2P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
+تونس تونس تونس 名詞 6 地名 4 * 0 * 0
+: : : 特殊 1 記号 5 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
-+ 8D
-T T T 特殊 1 記号 5 * 0 * 0
-+ 8D
-ū ū ū 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="=" target="都でもある" sid="wiki00229815-00-01" id="9"/>
-nis nis nis 名詞 6 組織名 6 * 0 * 0
+* -1D
++ -1D <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
+Tūnis Tūnis Tūnis 名詞 6 地名 4 * 0 * 0
 EOS
-# S-ID:wiki00229815-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00229815-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * 5D
 + 10D
 また また また 副詞 8 * 0 * 0 * 0
@@ -73,110 +63,107 @@ EOS
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
-+ 4D
++ 4P <rel type="ノ？" target="国" sid="wiki00229815-01" id="2"/>
 商業 しょうぎょう 商業 名詞 6 普通名詞 1 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 6D
++ 6D <rel type="ノ？" target="国" sid="wiki00229815-01" id="2"/>
 工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5P
-+ 6D <rel type="ノ" target="工業" sid="wiki00229815-01" id="4"/>
++ 6D <rel type="ノ" target="工業" sid="wiki00229815-01" id="4"/><rel type="ノ" mode="AND" target="商業" sid="wiki00229815-01" id="3"/>
 中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0
-+ 10P <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="=" target="首都" sid="wiki00229815-00-01" id="4"/>
++ 10P <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="=構" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="修飾" target="中心" sid="wiki00229815-01" id="5"/><rel type="ノ？" target="商業" sid="wiki00229815-01" id="3"/><rel type="ノ？" mode="AND" target="工業" sid="wiki00229815-01" id="4"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 5D
 + 8D <NE:LOCATION:アフリカ>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 10D
++ 10D <rel type="デ" target="アフリカ" sid="wiki00229815-01" id="7"/>
 有数 ゆうすう 有数 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
 + 10D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="=" target="首都" sid="wiki00229815-00-01" id="4"/>
++ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="=構" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="修飾" target="有数" sid="wiki00229815-01" id="8"/><rel type="修飾" mode="AND" target="世界" sid="wiki00229815-01" id="9"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00229815-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
-* 3D
-+ 6D
-2019 2019 2019 名詞 6 数詞 7 * 0 * 0
+# S-ID:wiki00229815-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/31 MEMO:
+* 2D
++ 7D
+2019 にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 3D
-+ 2D
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/>
 経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0
-+ 3D
++ 3D <rel type="ガ" target="会社" sid="wiki00229815-02" id="3"/><rel type="ニカンシテ" target="経営" sid="wiki00229815-02" id="1"/>
 コンサルティング コンサルティング コンサルティング 名詞 6 普通名詞 1 * 0 * 0
-+ 6D <rel type="ノ" target="コンサルティング" sid="wiki00229815-02" id="2"/>
++ 6D <rel type="ノ？" target="コンサルティング" sid="wiki00229815-02" id="2"/>
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0
-+ 5D
-A A A 特殊 1 記号 5 * 0 * 0
-. . . 特殊 1 句点 1 * 0 * 0
-* 3D
-+ 6D
-T T T 特殊 1 記号 5 * 0 * 0
-. . . 特殊 1 句点 1 * 0 * 0
-* 4D
-+ 7D <rel type="=" target="会社" sid="wiki00229815-02" id="3"/><NE:PERSON:カーニー>
-カーニー カーニー カーニー 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
++ 5D <memo text="アンドリュー"/>
+A A A 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:head>
+. . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:middle>
++ 6D <memo text="トーマス"/>
+T T T 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 <NE:ORGANIZATION:middle>
++ 7D <rel type="=構" target="会社" sid="wiki00229815-02" id="3"/><rel type="修飾" target="会社" sid="wiki00229815-02" id="3"/><NE:ORGANIZATION:A.T.カーニー>
+カーニー カーニー カーニー 名詞 6 人名 5 * 0 * 0 <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 5D
-+ 8D <rel type="ガ" target="カーニー" sid="wiki00229815-02" id="6"/><rel type="ヲ" target="評価されている" sid="wiki00229815-02" id="13"/>
+* 3D
++ 8D <rel type="ガ" target="カーニー" sid="wiki00229815-02" id="6"/>
 発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
-* 9D
-+ 13D
+* 6D
++ 13D <rel type="ニ" target="発表" sid="wiki00229815-02" id="7"/>
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 と と と 助詞 9 格助詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 7D
-+ 10D
+* 5D
++ 10D <rel type="=" target="世界" sid="wiki00229815-01" id="9"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0
-* 8D
-+ 12D
++ 12D <rel type="デ" target="世界" sid="wiki00229815-02" id="9"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0
-102 102 102 名詞 6 数詞 7 * 0 * 0
+102 ひゃくに 102 名詞 6 数詞 7 * 0 * 0
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 9D
-+ 12D
+* 6D
++ 12D <rel type="=" target="世界" sid="wiki00229815-01" id="9"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0
-+ 13D <rel type="=" target="都市" sid="wiki00229815-01" id="10"/>
++ 13D <rel type="修飾" target="第102位" sid="wiki00229815-02" id="10"/><rel type="修飾" mode="AND" target="世界" sid="wiki00229815-02" id="11"/><rel type="=" target="都市" sid="wiki00229815-01" id="10"/><rel type="=構" mode="AND" target="チュニス" sid="wiki00229815-00-01" id="0"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="ニ" target="カーニー" sid="wiki00229815-02" id="6"/><rel type="ト" target="都市" sid="wiki00229815-02" id="12"/>
 評価 ひょうか 評価 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00229815-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00229815-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/10/31 MEMO:
 * 4D
-+ 1D
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0
-+ 5D <NE:LOCATION:アフリカ>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
++ 1D <rel type="ノ" target="アフリカ" sid="wiki00229815-01" id="7"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
++ 5D <rel type="=≒" target="アフリカ" sid="wiki00229815-01" id="7"/><rel type="ノ？" target="アフリカ" sid="wiki00229815-01" id="7"/><rel type="修飾" target="北" sid="wiki00229815-03" id="0"/><NE:LOCATION:北アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 2P
-+ 3P <NE:LOCATION:カイロ>
++ 3P <rel type="ノ？" target="アフリカ" sid="wiki00229815-03" id="1"/><NE:LOCATION:カイロ>
 カイロ かいろ カイロ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 3D
-+ 4D <NE:LOCATION:カサブランカ>
-カサブランカ カサブランカ カサブランカ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
++ 4D <rel type="ノ？" target="アフリカ" sid="wiki00229815-03" id="1"/><NE:LOCATION:カサブランカ>
+カサブランカ かさぶらんか カサブランカ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 4D
-+ 5D <rel type="ガ" target="第3位" sid="wiki00229815-03" id="5"/><rel type="ニ" target="カサブランカ" sid="wiki00229815-03" id="3"/>
++ 5D <rel type="ガ" target="第3位" sid="wiki00229815-03" id="5"/><rel type="ニ" target="カサブランカ" sid="wiki00229815-03" id="3"/><rel type="ニ" mode="AND" target="カイロ" sid="wiki00229815-03" id="2"/>
 次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="都市" sid="wiki00229815-02" id="12"/>
++ -1D <rel type="デ" target="アフリカ" sid="wiki00229815-03" id="1"/><rel type="ガ" target="チュニス" sid="wiki00229815-00-01" id="0"/><rel type="=構" target="チュニス" sid="wiki00229815-00-01" id="0"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0
 3 さん 3 名詞 6 数詞 7 * 0 * 0
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0

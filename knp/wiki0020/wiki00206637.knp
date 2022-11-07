@@ -1,8 +1,8 @@
-# S-ID:wiki00206637-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00206637-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/11/01 MEMO:
 * 10D
 + 1D
 成人 せいじん 成人 名詞 6 サ変名詞 2 * 0 * 0
-+ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="成人" sid="wiki00206637-00-01" id="0"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -13,26 +13,26 @@
 * 4D
 + 4D <rel type="ガ" target="成人" sid="wiki00206637-00-01" id="2"/>
 発達 はったつ 発達 名詞 6 サ変名詞 2 * 0 * 0
-+ 6D <rel type="ノ" target="発達" sid="wiki00206637-00-01" id="3"/>
++ 6D <rel type="ノ" target="発達" sid="wiki00206637-00-01" id="3"/><rel type="ノ？" target="成人" sid="wiki00206637-00-01" id="2"/>
 段階 だんかい 段階 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 4D
-+ 6D
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:状況"/>
 考慮 こうりょ 考慮 名詞 6 サ変名詞 2 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
-* 5D
-+ 9D <rel type="ガ" target="手法" sid="wiki00206637-00-01" id="14"/><rel type="ヲ" target="段階" sid="wiki00206637-00-01" id="4"/><rel type="ニ" target="考慮" sid="wiki00206637-00-01" id="5"/>
+* 9D
++ 14D <rel type="ガ" target="手法" sid="wiki00206637-00-01" id="14"/><rel type="ヲ" target="段階" sid="wiki00206637-00-01" id="4"/><rel type="ニ" target="考慮" sid="wiki00206637-00-01" id="5"/>
 入れた いれた 入れる 動詞 2 * 0 母音動詞 1 タ形 10
 * 6D
 + 8D
 学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0
-+ 9D
++ 9D <rel type="ニオイテ" target="学習" sid="wiki00206637-00-01" id="7"/>
 心理 しんり 心理 名詞 6 普通名詞 1 * 0 * 0
-+ 10D
++ 10D <rel type="ニツイテ" target="心理" sid="wiki00206637-00-01" id="8"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 8D
-+ 12D <rel type="ノ" target="学" sid="wiki00206637-00-01" id="9"/>
++ 12D <rel type="ニツイテ" target="学" sid="wiki00206637-00-01" id="9"/>
 知見 ちけん 知見 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 8D
@@ -42,27 +42,28 @@
 + 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="知見" sid="wiki00206637-00-01" id="10"/><rel type="ニ" target="手法" sid="wiki00206637-00-01" id="14"/>
 取り入れた とりいれた 取り入れる 動詞 2 * 0 母音動詞 1 タ形 10
 * 10D
-+ 14D <rel type="=" target="教育" sid="wiki00206637-00-01" id="1"/>
++ 14D <rel type="=" target="教育" sid="wiki00206637-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="成人" sid="wiki00206637-00-01" id="2"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0
-+ 15D <rel type="ノ" target="教育" sid="wiki00206637-00-01" id="13"/>
++ 15D <rel type="ニツイテ" target="教育" sid="wiki00206637-00-01" id="13"/><rel type="=構" target="教育" sid="wiki00206637-00-01" id="1"/>
 手法 しゅほう 手法 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="教育" sid="wiki00206637-00-01" id="1"/><rel type="ノ" target="手法" sid="wiki00206637-00-01" id="14"/><rel type="=" target="教育" sid="wiki00206637-00-01" id="1"/>
++ -1D <rel type="ガ" target="教育" sid="wiki00206637-00-01" id="1"/><rel type="ノ" target="手法" sid="wiki00206637-00-01" id="14"/><rel type="=構" target="教育" sid="wiki00206637-00-01" id="1"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00206637-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00206637-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/01 MEMO:
 * 1P
 + 1D <rel type="=" target="成人" sid="wiki00206637-00-01" id="2"/>
 せいじん せいじん せいじん 名詞 6 サ変名詞 2 * 0 * 0
-+ 2P <rel type="=" target="教育" sid="wiki00206637-00-01" id="13"/>
++ 3P <rel type="=" target="教育" sid="wiki00206637-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="せいじん" sid="wiki00206637-00-02" id="0"/>
 きょういく きょういく きょういく 名詞 6 サ変名詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1D
-+ -1D
-adult adult adult 名詞 6 組織名 6 * 0 * 0
++ 3D <rel type="=" target="成人" sid="wiki00206637-00-01" id="0"/>
+adult adult adult 名詞 6 普通名詞 1 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
-education education education 名詞 6 組織名 6 * 0 * 0
++ -1D <rel type="=" target="教育" sid="wiki00206637-00-01" id="1"/>
+education education education 名詞 6 普通名詞 1 * 0 * 0
 EOS

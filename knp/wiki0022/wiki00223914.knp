@@ -1,6 +1,6 @@
-# S-ID:wiki00223914-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00223914-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/10/27 MEMO:
 * 4D
-+ 1D
++ 2D
 カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
 + 2D
 工科 こうか 工科 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
@@ -11,7 +11,7 @@
 * 3D
 + 4D
 米国 べいこく 米国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
-+ 6D <NE:LOCATION:米国カリフォルニア州>
++ 6D <rel type="ノ？" target="米国" sid="wiki00223914-00" id="3"/><rel type="=" target="カリフォルニア" sid="wiki00223914-00" id="0"/><NE:LOCATION:米国カリフォルニア州>
 カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0
@@ -25,51 +25,51 @@
 * -1D
 + 9D
 私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0
-+ 9D
++ 9D <rel type="=" target="工科" sid="wiki00223914-00" id="1"/>
 工科 こうか 工科 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="=" target="大学" sid="wiki00223914-00" id="2"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="=構" target="大学" sid="wiki00223914-00" id="2"/><rel type="修飾" target="私立" sid="wiki00223914-00" id="7"/><rel type="修飾" mode="AND" target="工科" sid="wiki00223914-00" id="8"/>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00223914-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00223914-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/27 MEMO:
 * 1D
-+ 1D
-1891 1891 1891 名詞 6 数詞 7 * 0 * 0
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
++ 1D <NE:DATE:1891年>
+1891 せんはっぴゃくきゅうじゅういち 1891 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1891年" sid="wiki00223914-01" id="0"/>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00223914-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00223914-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/27 MEMO:
 * 1D
-+ 1D
-Caltech Caltech Caltech 名詞 6 組織名 6 * 0 * 0
++ 1D <rel type="=" target="大学" sid="wiki00223914-00" id="2"/><NE:ORGANIZATION:Caltech>
+Caltech Caltech Caltech 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 2D
-+ 2D <rel type="=" target="Caltech" sid="wiki00223914-02-01" id="0"/>
++ 2D <rel type="=構" target="Caltech" sid="wiki00223914-02-01" id="0"/><rel type="トイウ" target="Caltech" sid="wiki00223914-02-01" id="0"/><rel type="ノ" target="大学" sid="wiki00223914-00" id="2"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
 でも でも でも 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00223914-00" id="2"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="略称" sid="wiki00223914-02-01" id="1"/>
 親しま したしま 親しむ 動詞 2 * 0 子音動詞マ行 9 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00223914-02-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00223914-02-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/27 MEMO:
 * 1P
-+ 1P <rel type="=" target="Caltech" sid="wiki00223914-02-01" id="0"/>
-カルテック カルテック カルテック 名詞 6 普通名詞 1 * 0 * 0
++ 1P <rel type="=" target="Caltech" sid="wiki00223914-02-01" id="0"/><NE:ORGANIZATION:カルテック>
+カルテック かるてっく カルテック 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2P
-+ 2P <rel type="=" target="カルテック" sid="wiki00223914-02-02" id="0"/>
-カルテク カルテク カルテク 名詞 6 普通名詞 1 * 0 * 0
++ 2P <rel type="=" target="Caltech" sid="wiki00223914-02-01" id="0"/><NE:ORGANIZATION:カルテク>
+カルテク かるてく カルテク 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1D
-+ -1D <rel type="=" target="カルテク" sid="wiki00223914-02-02" id="1"/>
-キャルテク キャルテク キャルテク 名詞 6 普通名詞 1 * 0 * 0
++ -1D <rel type="=" target="Caltech" sid="wiki00223914-02-01" id="0"/><NE:ORGANIZATION:キャルテク>
+キャルテク きゃるてく キャルテク 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 EOS

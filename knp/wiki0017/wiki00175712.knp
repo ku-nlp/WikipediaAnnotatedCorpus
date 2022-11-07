@@ -1,8 +1,8 @@
-# S-ID:wiki00175712-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/08/18 MEMO:
+# S-ID:wiki00175712-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/09/22 MEMO:
 * 7D
 + 1D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0
-+ 8D <rel type="ノ" target="不特定:物1"/>
++ 8D <rel type="ノ" target="不特定:物1"/><rel type="修飾" target="本" sid="wiki00175712-00-01" id="0"/>
 項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
@@ -11,8 +11,8 @@
 + 3D
 食肉 しょくにく 食肉 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 7D
-+ 8D <rel type="ノ" target="食肉" sid="wiki00175712-00-01" id="2"/>
+* 5D
++ 6D <rel type="ノ" target="食肉" sid="wiki00175712-00-01" id="2"/>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 4D
@@ -23,7 +23,7 @@
 + 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="肉" sid="wiki00175712-00-01" id="6"/><rel type="ニ" target="食用" sid="wiki00175712-00-01" id="4"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 * 6D
-+ 7D <rel type="=≒" target="食肉" sid="wiki00175712-00-01" id="2"/>
++ 7D <rel type="=≒" target="食肉" sid="wiki00175712-00-01" id="2"/><rel type="修飾" target="する" sid="wiki00175712-00-01" id="5"/>
 肉 にく 肉 名詞 6 普通名詞 1 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
@@ -40,23 +40,23 @@ EOS
 + -1D <rel type="=" target="食肉" sid="wiki00175712-00-01" id="2"/>
 しょくにく しょくにく しょくにく 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00175712-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/18 MEMO:
-* 10D
-+ 13D
+# S-ID:wiki00175712-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/22 MEMO:
+* 8D
++ 11D
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7
 * 2D
 + 2D
 鳥類 ちょうるい 鳥類 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 3D
-+ 3D <rel type="ヲ" target="鳥類" sid="wiki00175712-01" id="1"/><rel type="ニ" target="動物" sid="wiki00175712-01" id="3"/>
++ 3D <rel type="ヲ" target="鳥類" sid="wiki00175712-01" id="1"/><rel type="ガ" target="動物" sid="wiki00175712-01" id="3"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2
 * 4D
 + 4D <rel type="ヲフクメテ" target="鳥類" sid="wiki00175712-01" id="1"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 7P
-+ 10P <rel type="ノ" target="動物" sid="wiki00175712-01" id="3"/>
+* 8P
++ 11P <rel type="ノ" target="動物" sid="wiki00175712-01" id="3"/><rel type="=" target="肉" sid="wiki00175712-00-01" id="6"/>
 肉 にく 肉 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 6P
@@ -85,7 +85,7 @@ EOS
 + 13D
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="読者"/><rel type="ニツイテ" target="もの" sid="wiki00175712-01" id="11"/><rel type="デ" target="項目" sid="wiki00175712-00-01" id="1"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="読者"/><rel type="デ" target="項目" sid="wiki00175712-00-01" id="1"/><rel type="ニツイテ" target="もの" sid="wiki00175712-01" id="11"/><rel type="ニツイテ" mode="AND" target="肉" sid="wiki00175712-01" id="4"/>
 解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0

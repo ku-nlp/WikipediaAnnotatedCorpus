@@ -1,4 +1,4 @@
-# S-ID:wiki00186806-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00186806-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/30 MEMO:
 * 4D
 + 4D
 権現 ごんげん 権現 名詞 6 普通名詞 1 * 0 * 0
@@ -13,7 +13,7 @@
 神 かみ 神 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 4D
-+ 4D <rel type="ノ" target="神" sid="wiki00186806-00-01" id="2"/>
++ 4D <rel type="修飾" target="神" sid="wiki00186806-00-01" id="2"/><rel type="=≒" target="権現" sid="wiki00186806-00-01" id="0"/>
 神号 しんごう 神号 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
@@ -27,7 +27,7 @@ EOS
 + -1D <rel type="=" target="権現" sid="wiki00186806-00-01" id="0"/>
 ごんげん ごんげん ごんげん 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00186806-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00186806-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/30 MEMO:
 * 1D
 + 1D <rel type="=" target="日本" sid="wiki00186806-00-01" id="1"/><NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -60,7 +60,7 @@ EOS
 + 8D <rel type="ガ" target="菩薩" sid="wiki00186806-01" id="4"/><rel type="ガ" mode="AND" target="仏" sid="wiki00186806-01" id="3"/><rel type="デ" target="姿" sid="wiki00186806-01" id="6"/><rel type="外の関係" target="もの" sid="wiki00186806-01" id="8"/>
 現れた あらわれた 現れる 動詞 2 * 0 母音動詞 1 タ形 10
 * 9D
-+ 9D <rel type="トイウ" target="現れた" sid="wiki00186806-01" id="7"/>
++ 9D <rel type="トイウ" target="現れた" sid="wiki00186806-01" id="7"/><rel type="=構" target="神々" sid="wiki00186806-01" id="1"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 10D
@@ -78,12 +78,12 @@ EOS
 + 14D <rel type="ガ" target="神号" sid="wiki00186806-01" id="14"/><rel type="ニ" target="思想" sid="wiki00186806-01" id="12"/>
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="権現" sid="wiki00186806-00-01" id="0"/><rel type="ニヨッテ" target="思想" sid="wiki00186806-01" id="12"/><rel type="=構" target="権現" sid="wiki00186806-00-01" id="0"/><rel type="=" mode="AND" target="神号" sid="wiki00186806-00-01" id="3"/>
++ -1D <rel type="ガ" target="権現" sid="wiki00186806-00-01" id="0"/><rel type="ニヨッテ" target="思想" sid="wiki00186806-01" id="12"/><rel type="=構" target="権現" sid="wiki00186806-00-01" id="0"/><rel type="=≒" mode="AND" target="神号" sid="wiki00186806-00-01" id="3"/>
 神号 しんごう 神号 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00186806-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00186806-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000 MOD:2022/09/30 MEMO:
 * 1D
 + 1D <rel type="ノ" target="権現" sid="wiki00186806-00-01" id="0"/><rel type="ノ" mode="？" target="なし"/>
 権 ごん 権 名詞 6 普通名詞 1 * 0 * 0
@@ -149,7 +149,7 @@ EOS
 + 15D <rel type="ガ" target="仏" sid="wiki00186806-02" id="10"/><rel type="ヲ" target="形" sid="wiki00186806-02" id="13"/>
 取って とって 取る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
 * 15D
-+ 16D <rel type="ガ" target="仏" sid="wiki00186806-02" id="10"/><rel type="=" target="現れた" sid="wiki00186806-01" id="7"/>
++ 16D <rel type="ガ" target="仏" sid="wiki00186806-02" id="10"/><rel type="=≒" target="現れた" sid="wiki00186806-01" id="7"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0
 現れた あらわれた 現れる 動詞 2 * 0 母音動詞 1 タ形 10
 」 」 」 特殊 1 括弧終 4 * 0 * 0

@@ -1,4 +1,4 @@
-# S-ID:wiki00223950-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000
+# S-ID:wiki00223950-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2022/10/27 MEMO:
 * 9D
 + 12D
 暴動 ぼうどう 暴動 名詞 6 普通名詞 1 * 0 * 0
@@ -10,10 +10,10 @@
 多数 たすう 多数 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 7D
-+ 3D
++ 3P <rel type="修飾" target="多数" sid="wiki00223950-00-01" id="1"/>
 市民 しみん 市民 名詞 6 普通名詞 1 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 10D
++ 10D <rel type="修飾" target="多数" sid="wiki00223950-00-01" id="1"/>
 民衆 みんしゅう 民衆 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 7D
@@ -21,13 +21,13 @@
 集合 しゅうごう 集合 名詞 6 サ変名詞 2 * 0 * 0
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7
 * 6D
-+ 6D <rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="ニ" target="不特定:人"/>
++ 6D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="ガ" mode="AND" target="市民" sid="wiki00223950-00-01" id="2"/>
 暴行 ぼうこう 暴行 名詞 6 サ変名詞 2 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 7D <rel type="ガ" target="市民" sid="wiki00223950-00-01" id="2"/><rel type="ヲ" target="不特定:人"/>
++ 7D <rel type="ヲ" target="不特定:人"/><rel type="ガ" target="市民" sid="wiki00223950-00-01" id="2"/><rel type="ガ" mode="AND" target="民衆" sid="wiki00223950-00-01" id="3"/>
 脅迫 きょうはく 脅迫 名詞 6 サ変名詞 2 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 9D <rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="ヲ" target="不特定:物"/>
++ 9D <rel type="ヲ" target="不特定:物"/><rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="ガ" mode="AND" target="市民" sid="wiki00223950-00-01" id="2"/>
 破壊 はかい 破壊 名詞 6 サ変名詞 2 * 0 * 0
 など など など 助詞 9 副助詞 2 * 0 * 0
 の の の 助詞 9 格助詞 1 * 0 * 0
@@ -36,31 +36,30 @@
 暴力 ぼうりょく 暴力 名詞 6 普通名詞 1 * 0 * 0
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3
 * 7D
-+ 10D <rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/>
++ 10D <rel type="ガ" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="ガ" mode="AND" target="市民" sid="wiki00223950-00-01" id="2"/><rel type="=≒" target="暴行" sid="wiki00223950-00-01" id="5"/><rel type="=≒" mode="AND" target="脅迫" sid="wiki00223950-00-01" id="6"/><rel type="=≒" mode="AND" target="破壊" sid="wiki00223950-00-01" id="7"/>
 活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 8D
-+ 11D <rel type="ガ" target="市民" sid="wiki00223950-00-01" id="2"/><rel type="ヲ" target="活動" sid="wiki00223950-00-01" id="9"/>
++ 11D <rel type="ヲ" target="活動" sid="wiki00223950-00-01" id="9"/><rel type="ガ" target="市民" sid="wiki00223950-00-01" id="2"/><rel type="ガ" mode="AND" target="民衆" sid="wiki00223950-00-01" id="3"/><rel type="外の関係" target="こと" sid="wiki00223950-00-01" id="11"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 * 9D
-+ 12D <rel type="=" target="暴動" sid="wiki00223950-00-01" id="0"/>
++ 12D <rel type="=構" target="暴動" sid="wiki00223950-00-01" id="0"/><rel type="トイウ" target="行う" sid="wiki00223950-00-01" id="10"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00223950-00-01" id="11"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00223950-00-01" id="11"/><rel type="ト" target="暴動" sid="wiki00223950-00-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00223950-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00223950-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/27 MEMO:
 * 1P
-+ 3P <rel type="=" target="こと" sid="wiki00223950-00-01" id="11"/>
++ 2P <rel type="=" target="暴動" sid="wiki00223950-00-01" id="0"/>
 ぼうどう ぼうどう ぼうどう 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * -1D
-+ 3D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 3D
++ 2D <NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0
-+ -1D <rel type="=" target="こと" sid="wiki00223950-00-01" id="11"/>
-riot riot riot 名詞 6 組織名 6 * 0 * 0
++ -1D <rel type="=" target="暴動" sid="wiki00223950-00-01" id="0"/><rel type="デ" target="英" sid="wiki00223950-00-02" id="1"/>
+riot riot riot 名詞 6 普通名詞 1 * 0 * 0
 EOS

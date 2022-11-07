@@ -1,15 +1,15 @@
-# S-ID:wiki00206136-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00206136-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/11/01 MEMO:
 * 6D
-+ 1D
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0
-+ 2D <NE:LOCATION:ブラジル>
-ブラジル ぶらじる ブラジル 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 12D
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0
++ 2D
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:head>
++ 2D
+ブラジル ぶらじる ブラジル 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:middle>
++ 12D <NE:OPTIONAL:サッカーブラジル代表>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
-+ 4D <rel type="=" target="ブラジル" sid="wiki00206136-00" id="1"/>
++ 5D <rel type="=" target="ブラジル" sid="wiki00206136-00" id="1"/>
 ブラジル ぶらじる ブラジル 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
 + 5D <rel type="=" target="サッカー" sid="wiki00206136-00" id="0"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
@@ -20,24 +20,24 @@
 + 7D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14
 * 6D
-+ 12D <rel type="ガ" target="チーム" sid="wiki00206136-00" id="12"/>
++ 12D <rel type="ガ" target="チーム" sid="wiki00206136-00" id="12"/><rel type="ニヨッテ" target="連盟" sid="wiki00206136-00" id="5"/>
 編成 へんせい 編成 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-* 5D
-+ 10D <rel type="=" target="ブラジル" sid="wiki00206136-00" id="3"/><NE:LOCATION:ブラジル>
+* 6D
++ 12D <rel type="=" target="ブラジル" sid="wiki00206136-00" id="3"/><NE:LOCATION:ブラジル>
 ブラジル ぶらじる ブラジル 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 6D
 + 10D
 男子 だんし 男子 名詞 6 普通名詞 1 * 0 * 0
-+ 12D <rel type="=" target="サッカー" sid="wiki00206136-00" id="0"/>
++ 12D <rel type="修飾" target="男子" sid="wiki00206136-00" id="9"/><rel type="=≒" target="サッカー" sid="wiki00206136-00" id="0"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
 + 12D
 ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0
-+ -1D <rel type="ガ" target="代表" sid="wiki00206136-00" id="2"/><rel type="ノ" target="サッカー" sid="wiki00206136-00" id="10"/><rel type="=" target="代表" sid="wiki00206136-00" id="2"/>
++ -1D <rel type="ガ" target="代表" sid="wiki00206136-00" id="2"/><rel type="ノ" target="サッカー" sid="wiki00206136-00" id="10"/><rel type="修飾" target="ナショナル" sid="wiki00206136-00" id="11"/><rel type="=構" target="代表" sid="wiki00206136-00" id="2"/><rel type="ノ？" target="ブラジル" sid="wiki00206136-00" id="8"/><memo text="CO"/>
 チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS

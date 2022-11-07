@@ -1,19 +1,19 @@
-# S-ID:wiki00197188-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00197188-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/20 MEMO:
 * 6D
 + 1D
 アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 + 9D <NE:LOCATION:アラビア海>
-海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
 + 4D <NE:LOCATION:インド洋>
 インド洋 いんどよう インド洋 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 4P
-+ 4D
+* 6P
++ 4D <rel type="ノ" target="インド洋" sid="wiki00197188-00-01" id="2"/>
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0
-+ 7P <rel type="ノ" target="インド洋" sid="wiki00197188-00-01" id="2"/>
++ 9P <rel type="ノ" target="インド洋" sid="wiki00197188-00-01" id="2"/><rel type="ノ？" target="北西" sid="wiki00197188-00-01" id="3"/><rel type="ガ" target="海" sid="wiki00197188-00-01" id="1"/><rel type="=構" target="海" sid="wiki00197188-00-01" id="1"/><memo text="CO or PO:ある等"/>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 4P
@@ -28,17 +28,18 @@
 と と と 助詞 9 格助詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 6D
-+ 9D <rel type="ノ" target="インド" sid="wiki00197188-00-01" id="7"/>
++ 9D <rel type="ノ" target="インド" sid="wiki00197188-00-01" id="7"/><rel type="ト" target="半島" sid="wiki00197188-00-01" id="6"/><memo text="トノ交替可"/>
 間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="海" sid="wiki00197188-00-01" id="1"/><rel type="=" target="海" sid="wiki00197188-00-01" id="1"/>
++ -1D <rel type="ガ" target="海" sid="wiki00197188-00-01" id="1"/><rel type="=構" target="海" sid="wiki00197188-00-01" id="1"/><memo text="CO"/>
 海域 かいいき 海域 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00197188-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00197188-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/20 MEMO:
 * -1D
-+ -1D <rel type="=" target="アラビア" sid="wiki00197188-00-01" id="0"/><NE:LOCATION:アラビア>
-アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-かい かい かい 助詞 9 終助詞 4 * 0 * 0
++ 1D <rel type="=" target="アラビア" sid="wiki00197188-00-01" id="0"/>
+アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
++ -1D <rel type="=" target="海" sid="wiki00197188-00-01" id="1"/><NE:LOCATION:アラビアかい>
+かい かい かい 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 EOS

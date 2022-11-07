@@ -1,15 +1,15 @@
-# S-ID:wiki00227773-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:114.00000
+# S-ID:wiki00227773-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:114.00000 MOD:2022/10/31 MEMO:
 * 15D
 + 1D
-ゼネラル ぜねらる ゼネラル 名詞 6 組織名 6 * 0 * 0
-+ 20D
+ゼネラル ぜねらる ゼネラル 名詞 6 普通名詞 1 * 0 * 0
++ 20D <rel type="修飾" target="ゼネラル" sid="wiki00227773-00-01" id="0"/>
 マネージャー まねーじゃー マネージャー 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 2P
-+ 3D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-+ 4D
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0
++ 3D
+英 えい 英 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
++ 4D <rel type="ノ" target="連邦" sid="wiki00227773-00-01" id="3"/><NE:LOCATION:英連邦>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 + 5P <rel type="ノ" target="連邦" sid="wiki00227773-00-01" id="3"/>
 諸国 しょこく 諸国 名詞 6 普通名詞 1 * 0 * 0
 や や や 助詞 9 接続助詞 3 * 0 * 0
@@ -18,31 +18,31 @@
 米国 べいこく 米国 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5D
-+ 7D
++ 7P <rel type="ノ？" target="諸国" sid="wiki00227773-00-01" id="4"/><rel type="ノ？" mode="AND" target="米国" sid="wiki00227773-00-01" id="5"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 9D
++ 9D <rel type="ノ？" target="企業" sid="wiki00227773-00-01" id="6"/><rel type="ノ？" mode="AND" target="団体" sid="wiki00227773-00-01" id="7"/>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * 5D
 + 9D
 広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
 * 6D
-+ 10D <rel type="ガ" target="役職" sid="wiki00227773-00-01" id="10"/><rel type="ニ" target="不特定:人"/>
++ 10D <rel type="ガ" target="役職" sid="wiki00227773-00-01" id="10"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="企業" sid="wiki00227773-00-01" id="6"/><rel type="デ" mode="AND" target="団体" sid="wiki00227773-00-01" id="7"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 * 7D
 + 11D
 役職 やくしょく 役職 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 15D
-+ 20D <rel type="ガ" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="ノ" target="役職" sid="wiki00227773-00-01" id="10"/><rel type="=" target="マネージャー" sid="wiki00227773-00-01" id="1"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0
+* 15P
++ 20P <rel type="ガ" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="ノ" target="役職" sid="wiki00227773-00-01" id="10"/><rel type="=構" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="=構" mode="AND" target="役職" sid="wiki00227773-00-01" id="10"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 9D
-+ 13D <rel type="=" target="一つ" sid="wiki00227773-00-01" id="11"/>
++ 13D <rel type="=" target="マネージャー" sid="wiki00227773-00-01" id="1"/>
 自身 じしん 自身 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 10D
@@ -60,25 +60,24 @@
 + 19D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 * 14D
-+ 18D <rel type="ガ" target="不特定:人"/>
++ 18D <rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="組織" sid="wiki00227773-00-01" id="15"/>
 決定 けってい 決定 名詞 6 サ変名詞 2 * 0 * 0
 + 19D <rel type="ノ" target="決定" sid="wiki00227773-00-01" id="17"/>
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 15D
-+ 20D <rel type="ガ" target="役職" sid="wiki00227773-00-01" id="20"/><rel type="ヲ" target="権" sid="wiki00227773-00-01" id="18"/>
++ 20D <rel type="ガ" target="役職" sid="wiki00227773-00-01" id="20"/><rel type="ヲ" target="権" sid="wiki00227773-00-01" id="18"/><rel type="ニタイシテ" target="組織" sid="wiki00227773-00-01" id="15"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="=" target="マネージャー" sid="wiki00227773-00-01" id="1"/>
++ -1D <rel type="ガ" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="=構" target="マネージャー" sid="wiki00227773-00-01" id="1"/><memo text="CO"/>
 役職 やくしょく 役職 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00227773-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00227773-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
 + 1D <rel type="ノ" target="マネージャー" sid="wiki00227773-00-01" id="1"/>
 略語 りゃくご 略語 名詞 6 普通名詞 1 * 0 * 0
-+ 2D
 ： ： ： 特殊 1 記号 5 * 0 * 0
-+ -1D <rel type="=" target="一つ" sid="wiki00227773-00-01" id="11"/>
-GM GM GM 名詞 6 組織名 6 * 0 * 0
++ -1D <rel type="ガ" target="略語" sid="wiki00227773-00-02" id="0"/><rel type="=" target="マネージャー" sid="wiki00227773-00-01" id="1"/><rel type="=構" mode="AND" target="略語" sid="wiki00227773-00-02" id="0"/>
+GM GM GM 名詞 6 普通名詞 1 * 0 * 0
 EOS

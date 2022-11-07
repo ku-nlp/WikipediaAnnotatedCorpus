@@ -1,4 +1,4 @@
-# S-ID:wiki00183658-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00183658-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/29 MEMO:
 * 7D
 + 1D
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
@@ -25,7 +25,7 @@
 * 4D
 + 9D
 法定 ほうてい 法定 名詞 6 普通名詞 1 * 0 * 0
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="=" target="労働" sid="wiki00183658-00-01" id="3"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="労働" sid="wiki00183658-00-01" id="3"/>
 労働 ろうどう 労働 名詞 6 サ変名詞 2 * 0 * 0
 + 10D <rel type="ノ" target="労働" sid="wiki00183658-00-01" id="8"/><rel type="修飾" target="法定" sid="wiki00183658-00-01" id="7"/><rel type="=" target="時間" sid="wiki00183658-00-01" id="0"/>
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0
@@ -55,7 +55,7 @@ EOS
 + -1D <rel type="=" target="労働" sid="wiki00183658-00-01" id="2"/>
 ろうどう ろうどう ろうどう 名詞 6 サ変名詞 2 * 0 * 0
 EOS
-# S-ID:wiki00183658-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00183658-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/09/29 MEMO:
 * 1D
 + 1D <rel type="ガ" target="意味" sid="wiki00183658-01-01" id="1"/><rel type="ト" target="労働" sid="wiki00183658-00-01" id="2"/>
 同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4
@@ -69,17 +69,17 @@ EOS
 に に に 助詞 9 格助詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 4P
-+ 5P <rel type="=構" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=≒" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/>
++ 5P <rel type="=" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=構" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/><rel type="ガ" target="不特定:人"/>
 残業 ざんぎょう 残業 名詞 6 サ変名詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 5P
-+ 5D <rel type="ガ" target="言葉" sid="wiki00183658-01-01" id="2"/>
++ 5D <rel type="ガ" target="勤務" sid="wiki00183658-01-01" id="5"/>
 超過 ちょうか 超過 名詞 6 サ変名詞 2 * 0 * 0
-+ 6P <rel type="ガ" target="不特定:人"/><rel type="=構" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=≒" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/>
++ 6P <rel type="ガ" target="不特定:人"/><rel type="=" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=構" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/>
 勤務 きんむ 勤務 名詞 6 サ変名詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 6D
-+ 7D <rel type="=構" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=≒" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/><rel type="=" mode="AND" target="勤務" sid="wiki00183658-01-01" id="5"/>
++ 7D <rel type="=" target="労働" sid="wiki00183658-00-01" id="2"/><rel type="=構" mode="AND" target="言葉" sid="wiki00183658-01-01" id="2"/><rel type="=" mode="AND" target="勤務" sid="wiki00183658-01-01" id="5"/>
 超勤 ちょうきん 超勤 名詞 6 普通名詞 1 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * -1D
@@ -99,7 +99,7 @@ EOS
 + -1D <rel type="=" target="勤務" sid="wiki00183658-01-01" id="5"/>
 きんむ きんむ きんむ 名詞 6 サ変名詞 2 * 0 * 0
 EOS
-# S-ID:wiki00183658-01-04 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/01 MEMO:
+# S-ID:wiki00183658-01-04 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/29 MEMO:
 * -1D
 + -1D <rel type="=" target="超勤" sid="wiki00183658-01-01" id="6"/>
 ちょうきん ちょうきん ちょうきん 名詞 6 普通名詞 1 * 0 * 0

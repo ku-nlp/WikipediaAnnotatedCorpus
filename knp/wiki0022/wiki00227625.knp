@@ -1,7 +1,7 @@
-# S-ID:wiki00227625-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000
-* 10D
-+ 10D
-貪 むさぼり 貪 名詞 6 普通名詞 1 * 0 * 0
+# S-ID:wiki00227625-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2022/10/31 MEMO:
+* 11D
++ 11D
+貪 とん 貪 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
@@ -12,18 +12,18 @@
 + 3D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2
 * 4D
-+ 4D
++ 4D <rel type="ニオイテ" target="仏教" sid="wiki00227625-00-01" id="1"/>
 煩悩 ぼんのう 煩悩 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 格助詞 1 * 0 * 0
-* 10D
-+ 10D <rel type="ガ" target="貪" sid="wiki00227625-00-01" id="0"/><rel type="ノ" target="煩悩" sid="wiki00227625-00-01" id="3"/><rel type="=" target="貪" sid="wiki00227625-00-01" id="0"/>
+* 11P
++ 11P <rel type="ガ" target="貪" sid="wiki00227625-00-01" id="0"/><rel type="ノ" target="煩悩" sid="wiki00227625-00-01" id="3"/><rel type="=構" target="貪" sid="wiki00227625-00-01" id="0"/><rel type="=構" mode="AND" target="煩悩" sid="wiki00227625-00-01" id="3"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 、 、 、 特殊 1 読点 2 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
 * 7P
-+ 7P
++ 7P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="対象" sid="wiki00227625-00-01" id="8"/>
 貪り むさぼり 貪る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 7D
@@ -41,7 +41,7 @@
 + 10D
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2
 * 11D
-+ 11D
++ 11D <rel type="ニタイシテ" target="対象" sid="wiki00227625-00-01" id="8"/><rel type="=構" target="貪" sid="wiki00227625-00-01" id="0"/>
 欲求 よっきゅう 欲求 名詞 6 サ変名詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * -1D
@@ -50,43 +50,43 @@
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00227625-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00227625-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
-+ -1D <rel type="=" target="ひとつ" sid="wiki00227625-00-01" id="4"/>
++ -1D <rel type="=" target="貪" sid="wiki00227625-00-01" id="0"/>
 とん とん とん 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00227625-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00227625-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/10/31 MEMO:
 * 3D
 + 3D <rel type="ノ" target="貪" sid="wiki00227625-00-01" id="0"/>
 別名 べつめい 別名 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 2P
-+ 2P <rel type="=" target="別名" sid="wiki00227625-01-01" id="0"/>
-貪欲 どんよく 貪欲だ 形容詞 3 * 0 ナ形容詞 21 語幹 1
++ 2P <rel type="=構" target="別名" sid="wiki00227625-01-01" id="0"/><rel type="=" mode="AND" target="貪" sid="wiki00227625-00-01" id="0"/>
+貪欲 とんよく 貪欲 名詞 6 普通名詞 1 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 3D
-+ 3D <rel type="=" target="貪欲" sid="wiki00227625-01-01" id="1"/>
-我愛 我愛 我愛 名詞 6 普通名詞 1 * 0 * 0
++ 3D <rel type="=構" target="別名" sid="wiki00227625-01-01" id="0"/><rel type="=" mode="AND" target="貪" sid="wiki00227625-00-01" id="0"/><memo text="ヨミ不明"/>
+我愛 があい 我愛 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * 10P
-+ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="別名" sid="wiki00227625-01-01" id="0"/>
++ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="別名" sid="wiki00227625-01-01" id="0"/><rel type="ト" target="貪欲" sid="wiki00227625-01-01" id="1"/><rel type="ト" mode="AND" target="我愛" sid="wiki00227625-01-01" id="2"/>
 いい いい いう 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8
 * 5D
 + 5D
 五 ご 五 名詞 6 数詞 7 * 0 * 0
-+ 6D
++ 6D <rel type="修飾" target="五" sid="wiki00227625-01-01" id="4"/>
 欲 よく 欲 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 7D
-+ 8D <rel type="ガ" target="物" sid="wiki00227625-01-01" id="8"/><rel type="ノ" target="欲" sid="wiki00227625-01-01" id="5"/><rel type="=" target="対象" sid="wiki00227625-00-01" id="8"/>
++ 8D <rel type="ガ" target="物" sid="wiki00227625-01-01" id="8"/><rel type="ノ" target="欲" sid="wiki00227625-01-01" id="5"/><rel type="=" target="対象" sid="wiki00227625-00-01" id="8"/><rel type="=構" mode="AND" target="物" sid="wiki00227625-01-01" id="8"/>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 * 7D
 + 8D
-万 まん 万 名詞 6 数詞 7 * 0 * 0
+万 よろず 万 名詞 6 数詞 7 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 9D
-+ 10D <rel type="=" target="対象" sid="wiki00227625-00-01" id="8"/>
++ 10D <rel type="=構" target="対象" sid="wiki00227625-01-01" id="6"/><rel type="修飾" target="万" sid="wiki00227625-01-01" id="7"/>
 物 もの 物 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 9D
@@ -95,36 +95,33 @@ EOS
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 に に に 助詞 9 格助詞 1 * 0 * 0
 * 10D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00227625-01-01" id="8"/>
++ 11D <rel type="ヲ" target="物" sid="wiki00227625-01-01" id="8"/><rel type="ガ" target="心" sid="wiki00227625-01-01" id="11"/>
 求める もとめる 求める 動詞 2 * 0 母音動詞 1 基本形 2
 * -1D
-+ -1D <rel type="ガ" target="貪り" sid="wiki00227625-00-01" id="5"/><rel type="=" target="我愛" sid="wiki00227625-01-01" id="2"/>
++ -1D <rel type="ガ" target="貪" sid="wiki00227625-00-01" id="0"/><rel type="トイウ" target="求める" sid="wiki00227625-01-01" id="10"/><rel type="=≒" target="心" sid="wiki00227625-00-01" id="6"/><rel type="=構" mode="AND" target="貪" sid="wiki00227625-00-01" id="0"/><rel type="ノ" target="不特定:人"/>
 心 こころ 心 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00227625-01-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
-* 1D
-+ 1D <rel type="=" target="別名" sid="wiki00227625-01-01" id="0"/>
-とん とん とん 名詞 6 普通名詞 1 * 0 * 0
+# S-ID:wiki00227625-01-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/31 MEMO:
 * -1D
-+ -1D
-よく よく よい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7
++ -1D <rel type="=" target="貪欲" sid="wiki00227625-01-01" id="1"/>
+とんよく とんよく とんよく 名詞 6 普通名詞 1 * 0 * 0
 EOS
-# S-ID:wiki00227625-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00227625-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/31 MEMO:
 * 1D
 + 1D <rel type="ノ" target="貪" sid="wiki00227625-00-01" id="0"/>
 対義語 たいぎご 対義語 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="対義語" sid="wiki00227625-02-01" id="0"/><rel type="=" target="対義語" sid="wiki00227625-02-01" id="0"/>
++ -1D <rel type="ガ" target="対義語" sid="wiki00227625-02-01" id="0"/><rel type="=構" target="対義語" sid="wiki00227625-02-01" id="0"/><memo text="CO"/>
 無 む 無 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0
-貪 むさぼり 貪 名詞 6 普通名詞 1 * 0 * 0
+貪 とん 貪 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00227625-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00227625-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
-+ -1D <rel type="=" target="無貪" sid="wiki00227625-02-01" id="1"/>
-alobha alobha alobha 名詞 6 組織名 6 * 0 * 0
++ -1D <rel type="=" target="無貪" sid="wiki00227625-02-01" id="1"/><memo text="パーリ語"/>
+alobha alobha alobha 名詞 6 普通名詞 1 * 0 * 0
 EOS

@@ -1,13 +1,13 @@
-# S-ID:wiki00224508-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00224508-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/10/27 MEMO:
 * 4D
-+ 1D
-ザ ザ ザ 名詞 6 サ変名詞 2 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
 + 2D
-フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0
-・ ・ ・ 特殊 1 記号 5 * 0 * 0
-+ 8D
-アソシエーション アソシエーション アソシエーション 名詞 6 普通名詞 1 * 0 * 0
+ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
++ 2D
+フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
++ 8D <NE:ORGANIZATION:ザ・フットボール・アソシエーション>
+アソシエーション あそしえーしょん アソシエーション 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
@@ -15,209 +15,205 @@
 イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 3D
-+ 5D
++ 5D <rel type="ノ？" target="イングランド" sid="wiki00224508-00" id="3"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 4D
-+ 8D
++ 8D <rel type="ガ" target="連盟" sid="wiki00224508-00" id="8"/><rel type="ヲ" target="サッカー" sid="wiki00224508-00" id="4"/>
 統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2
 * -1D
-+ 7D
++ 8D
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
-+ 8D
++ 8D <rel type="トイウ" target="サッカー" sid="wiki00224508-00" id="4"/>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0
-+ -1D
++ -1D <rel type="修飾" target="国" sid="wiki00224508-00" id="6"/><rel type="ノ？" target="競技" sid="wiki00224508-00" id="7"/>
 連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00224508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00224508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/27 MEMO:
 * 1D
-+ 1D
++ 2D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D
-The The The 名詞 6 組織名 6 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
-FA FA FA 名詞 6 組織名 6 * 0 * 0
++ 2D <rel type="=" target="ザ" sid="wiki00224508-00" id="0"/>
+The The The 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ORGANIZATION:middle>
++ -1D <rel type="ガ" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=" mode="AND" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:The　FA>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00224508-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00224508-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/27 MEMO:
 * -1D
-+ 1D
-ジ ジ ジ 名詞 6 サ変名詞 2 * 0 * 0 <NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:PERSON:middle>
-+ -1D <NE:PERSON:ジ・エフエー>
-エフエー エフエー エフエー 名詞 6 サ変名詞 2 * 0 * 0 <NE:PERSON:tail>
++ 1D <rel type="=" target="The" sid="wiki00224508-01-01" id="1"/>
+ジ ジ ジ 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><NE:ORGANIZATION:ジ・エフエー>
+エフエー えふえー エフエー 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00224508-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000
+# S-ID:wiki00224508-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000 MOD:2022/10/27 MEMO:
 * 1D
 + 1D <NE:DATE:1863年>
-1863 1863 1863 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
+1863 せんはっぴゃくろくじゅうさん 1863 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:tail>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0
-* 4D
-+ 5D
+* 3D
++ 5D <rel type="時間" target="1863年" sid="wiki00224508-02" id="0"/><rel type="ガ" target="協会" sid="wiki00224508-02" id="5"/>
 創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
 * 3D
 + 3D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0
-* 4D
-+ 5D
++ 5D <rel type="デ" target="世界" sid="wiki00224508-02" id="2"/>
 最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4
-* 5D
-+ 5D
+* 4D
++ 5D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0
-+ 6D
++ 6D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="外の関係" target="ため" sid="wiki00224508-02" id="6"/><rel type="修飾" target="最古の" sid="wiki00224508-02" id="3"/><rel type="ノ？" target="サッカー" sid="wiki00224508-02" id="4"/><rel type="=構" target="アソシエーション" sid="wiki00224508-00" id="2"/>
 協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15
 * 14D
-+ 21D
++ 20D <rel type="ノ" target="協会である" sid="wiki00224508-02" id="5"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
-* 7D
-+ 9D
+* 6D
++ 9D <NE:OPTIONAL:英>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 14D
-+ 9D
++ 9D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/>
 正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1
-+ 21D
++ 20D <rel type="修飾" target="英語" sid="wiki00224508-02" id="7"/><rel type="修飾" mode="AND" target="正式" sid="wiki00224508-02" id="8"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
-* 9D
+* 8D
 + 11D
 国名 こくめい 国名 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
+* 9D
++ 13D <rel type="ガ" target="語" sid="wiki00224508-02" id="13"/><rel type="ヲ" target="国名" sid="wiki00224508-02" id="10"/>
+表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2
 * 10D
 + 13D
-表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2
-* 11D
-+ 13D
 修飾 しゅうしょく 修飾 名詞 6 サ変名詞 2 * 0 * 0
-+ 14D
++ 14D <rel type="修飾" target="修飾" sid="wiki00224508-02" id="12"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 14P
-+ 21P
++ 20P <rel type="ヲ" target="語" sid="wiki00224508-02" id="13"/><rel type="ニ" target="名称" sid="wiki00224508-02" id="9"/><rel type="ガ" target="不特定:人"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4
-* 14D
+* 12D
 + 16D
 定 てい 定 名詞 6 普通名詞 1 * 0 * 0
-+ 17D
++ 17D <rel type="修飾" target="定" sid="wiki00224508-02" id="15"/>
 冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
-+ 19D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0
-+ 19D
-The The The 名詞 6 組織名 6 * 0 * 0
-+ 21D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0
++ 18D <rel type="修飾" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=構" target="冠詞" sid="wiki00224508-02" id="16"/>
+' ' ' 特殊 1 括弧始 3 * 0 * 0
+The The The 名詞 6 普通名詞 1 * 0 * 0
+' ' ' 特殊 1 括弧終 4 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
-* 14D
-+ 21D
+* 13D
++ 19D <rel type="ヲ" target="The" sid="wiki00224508-02" id="17"/><rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="外の関係" target="形" sid="wiki00224508-02" id="19"/>
 伴う ともなう 伴う 動詞 2 * 0 子音動詞ワ行 12 基本形 2
-* 15D
-+ 22D
+* 14D
++ 20D <rel type="トイウ" target="伴う" sid="wiki00224508-02" id="18"/>
 形 かたち 形 名詞 6 普通名詞 1 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="デ" target="形" sid="wiki00224508-02" id="19"/><rel type="ニ" target="不特定:人"/>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00224508-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000
-* 12D
+# S-ID:wiki00224508-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2022/10/27 MEMO:
+* 14D
 + 19D
 なお なお なお 副詞 8 * 0 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 2D
-+ 2D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0
-+ 3D
++ 2D <NE:OPTIONAL:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00224508-03" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5D
-+ 8D
++ 8D <rel type="デ" target="語" sid="wiki00224508-03" id="2"/><rel type="ガ" target="不特定:人"/>
 報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 * 4D
-+ 5D
++ 6D <rel type="=" target="イングランド" sid="wiki00224508-00" id="3"/>
 イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 <NE:ORGANIZATION:head>
-+ 6D
++ 6D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:middle>
-+ 7D <NE:ORGANIZATION:イングランドサッカー協会>
++ 7D <rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:イングランドサッカー協会>
 協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 5D
-+ 8D
++ 8D <rel type="トイウ" target="協会" sid="wiki00224508-03" id="6"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 6D
-+ 9D
++ 9D <rel type="ガ" target="呼称" sid="wiki00224508-03" id="7"/><rel type="デ" target="報道" sid="wiki00224508-03" id="3"/>
 定着 ていちゃく 定着 名詞 6 サ変名詞 2 * 0 * 0
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
-* 12D
-+ 19D
+* 14P
++ 19P <rel type="ノ" target="定着している" sid="wiki00224508-03" id="8"/>
 他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 8D
-+ 11D
++ 11D <rel type="=" target="サッカー" sid="wiki00224508-03" id="5"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0
-+ 12D
++ 12D <rel type="ノ？" target="サッカー" sid="wiki00224508-03" id="10"/>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 12D
-+ 19D
+* 14D
++ 19D <rel type="修飾" target="専門" sid="wiki00224508-03" id="11"/>
 雑誌 ざっし 雑誌 名詞 6 普通名詞 1 * 0 * 0
 など など など 助詞 9 副助詞 2 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 は は は 助詞 9 副助詞 2 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
-* 10D
-+ 14D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0
-+ 17D
-The The The 名詞 6 組織名 6 * 0 * 0
-　 　 　 特殊 1 空白 6 * 0 * 0
-FA FA FA 名詞 6 組織名 6 * 0 * 0
-+ 17D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0
+* 11D
++ 16D <rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:The　FA>
+' ' ' 特殊 1 括弧始 3 * 0 * 0
+The The The 名詞 6 普通名詞 1 * 0 * 0 <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 <NE:ORGANIZATION:middle>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:tail>
+' ' ' 特殊 1 括弧終 4 * 0 * 0
 　 　 　 特殊 1 空白 6 * 0 * 0
 から から から 助詞 9 格助詞 1 * 0 * 0
-* 12D
-+ 17D
+* 11D
++ 15D
 定 てい 定 名詞 6 普通名詞 1 * 0 * 0
-+ 19D
++ 16D <rel type="修飾" target="定" sid="wiki00224508-03" id="14"/><rel type="=" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=" mode="AND" target="The" sid="wiki00224508-03" id="13"/>
 冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0
 を を を 助詞 9 格助詞 1 * 0 * 0
 * 12D
-+ 19D
++ 17D <rel type="ガ" target="不特定:人"/><rel type="カラ" target="The　FA" sid="wiki00224508-03" id="13"/><rel type="ヲ" target="冠詞" sid="wiki00224508-03" id="15"/>
 省いた はぶいた 省く 動詞 2 * 0 子音動詞カ行 2 タ形 10
 * 13D
-+ 20D
-FA FA FA 名詞 6 組織名 6 * 0 * 0
++ 18D <rel type="修飾" target="省いた" sid="wiki00224508-03" id="16"/><rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:FA>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 <NE:ORGANIZATION:single>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * 14D
-+ 21D
++ 19D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="トイウ" target="FA等" sid="wiki00224508-03" id="17"/>
 呼び名 よびな 呼び名 名詞 6 普通名詞 1 * 0 * 0
 でも でも でも 助詞 9 副助詞 2 * 0 * 0
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="デ" target="呼び名" sid="wiki00224508-03" id="18"/><rel type="デ" mode="AND" target="雑誌など" sid="wiki00224508-03" id="12"/>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2

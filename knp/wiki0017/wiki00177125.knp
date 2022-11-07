@@ -1,4 +1,4 @@
-# S-ID:wiki00177125-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/08/22 MEMO:
+# S-ID:wiki00177125-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/23 MEMO:
 * 3D
 + 1D
 ベリー べりー ベリー 名詞 6 地名 4 * 0 * 0 <NE:ARTIFACT:head>
@@ -14,31 +14,31 @@
 * 8D
 + 5D
 時祷 じとう 時祷 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:middle>
-+ 16D <rel type="ノ？" target="公" sid="wiki00177125-00-01" id="1"/><NE:ARTIFACT:ベリー公のいとも豪華なる時祷書>
++ 16D <rel type="ノ？" target="公" sid="wiki00177125-00-01" id="1"/><rel type="ノ？" mode="AND" target="時祷" sid="wiki00177125-00-01" id="4"/><NE:ARTIFACT:ベリー公のいとも豪華なる時祷書>
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0
 、 、 、 特殊 1 読点 2 * 0 * 0
 * 5D
 + 8D <NE:DATE:中世>
 中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 <NE:DATE:single>
-* 6D
 + 8D
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:head>
 + 9D <rel type="時間" target="中世" sid="wiki00177125-00-01" id="6"/><NE:LOCATION:フランス王国>
 王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0
-* 7D
+* 6D
 + 13D <rel type="ノ？" target="王国" sid="wiki00177125-00-01" id="8"/>
 王族 おうぞく 王族 名詞 6 普通名詞 1 * 0 * 0
+* 7D
 + 11D <rel type="=" target="ベリー" sid="wiki00177125-00-01" id="0"/>
 ベリー べりー ベリー 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:head>
 + 13D <rel type="=" target="公" sid="wiki00177125-00-01" id="1"/><rel type="ノ？" target="ベリー" sid="wiki00177125-00-01" id="10"/><NE:OPTIONAL:ベリー公>
 公 こう 公 名詞 6 普通名詞 1 * 0 * 0 <NE:OPTIONAL:tail>
 + 13D
-ジャン じゃん ジャン 名詞 6 人名 5 * 0 * 0 <NE:OPTIONAL:head>
-+ 14D <rel type="=構" target="王族" sid="wiki00177125-00-01" id="9"/><rel type="=構" mode="AND" target="公" sid="wiki00177125-00-01" id="11"/><rel type="修飾" target="王族" sid="wiki00177125-00-01" id="9"/><rel type="修飾" mode="AND" target="公" sid="wiki00177125-00-01" id="11"/><NE:OPTIONAL:ジャン1世>
-1 いっ 1 名詞 6 数詞 7 * 0 * 0 <NE:OPTIONAL:middle>
-世 せい 世 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:OPTIONAL:tail>
+ジャン じゃん ジャン 名詞 6 人名 5 * 0 * 0 <NE:PERSON:head>
++ 14D <rel type="=構" target="王族" sid="wiki00177125-00-01" id="9"/><rel type="=構" mode="AND" target="公" sid="wiki00177125-00-01" id="11"/><rel type="修飾" target="王族" sid="wiki00177125-00-01" id="9"/><rel type="修飾" mode="AND" target="公" sid="wiki00177125-00-01" id="11"/><NE:PERSON:ジャン1世>
+1 いっ 1 名詞 6 数詞 7 * 0 * 0 <NE:PERSON:middle>
+世 せい 世 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:PERSON:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0
 * 8D
 + 16D <rel type="ガ" target="1世" sid="wiki00177125-00-01" id="13"/><rel type="ヲ" target="写本" sid="wiki00177125-00-01" id="16"/><rel type="ニ" target="不特定:人"/>

@@ -1,4 +1,4 @@
-# S-ID:wiki00166822-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00166822-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/26 MEMO:
 * 7D
 + 1D <NE:OPTIONAL:セルビア>
 セルビア せるびあ セルビア 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
@@ -49,7 +49,7 @@
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00166822-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/08 MEMO:
+# S-ID:wiki00166822-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/26 MEMO:
 * 4P
 + 1P <rel type="=" target="セルビア" sid="wiki00166822-00-01" id="0"/><NE:OPTIONAL:セルビア>
 セルビア せるびあ セルビア 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
@@ -96,12 +96,12 @@ EOS
 + -1D <rel type="=" target="人" sid="wiki00166822-00-01" id="4"/><NE:OPTIONAL:Srbi>
 Srbi Srbi Srbi 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00166822-00-04 括弧始:（ 括弧終:） 括弧位置:99 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/08 MEMO:
+# S-ID:wiki00166822-00-04 括弧始:（ 括弧終:） 括弧位置:99 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/26 MEMO:
 * -1D
 + -1D <rel type="=" target="人" sid="wiki00166822-00-01" id="6"/><NE:OPTIONAL:Hrvati>
 Hrvati Hrvati Hrvati 名詞 6 固有名詞 3 * 0 * 0 <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00166822-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00166822-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/26 MEMO:
 * 3D
 + 4D <NE:LOCATION:ユーゴスラビア>
 ユーゴスラビア ゆーごすらびあ ユーゴスラビア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -115,7 +115,7 @@ EOS
 * 3D
 + 3D
 公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0
-+ 4D <rel type="修飾" target="公用" sid="wiki00166822-01" id="2"/><rel type="修飾" mode="AND" target="憲法上" sid="wiki00166822-01" id="1"/><rel type="=構" target="語" sid="wiki00166822-00-01" id="2"/>
++ 4D <rel type="修飾" target="公用" sid="wiki00166822-01" id="2"/><rel type="修飾" mode="AND" target="憲法上" sid="wiki00166822-01" id="1"/><rel type="=構" target="語" sid="wiki00166822-00-01" id="2"/><rel type="ノ？" target="ユーゴスラビア" sid="wiki00166822-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0
 と と と 助詞 9 格助詞 1 * 0 * 0
 * -1D
@@ -125,7 +125,7 @@ EOS
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00166822-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00166822-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/26 MEMO:
 * 1P
 + 1P <rel type="=" target="セルビア" sid="wiki00166822-00-01" id="3"/><NE:LOCATION:セルビア>
 セルビア せるびあ セルビア 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -144,13 +144,13 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0
 で で で 助詞 9 格助詞 1 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00166822-00-01" id="2"/><rel type="デ" target="セルビア" sid="wiki00166822-02" id="0"/><rel type="デ" mode="AND" target="クロアチア" sid="wiki00166822-02" id="1"/><rel type="デ" mode="AND" target="ボスニア・ヘルツェゴビナ" sid="wiki00166822-02" id="2"/><rel type="デ" mode="AND" target="モンテネグロなど" sid="wiki00166822-02" id="3"/><rel type="=" target="話されている" sid="wiki00166822-00-01" id="12"/>
++ -1D <rel type="ガ" target="語" sid="wiki00166822-00-01" id="2"/><rel type="デ" target="セルビア" sid="wiki00166822-02" id="0"/><rel type="デ" mode="AND" target="クロアチア" sid="wiki00166822-02" id="1"/><rel type="デ" mode="AND" target="ボスニア・ヘルツェゴビナ" sid="wiki00166822-02" id="2"/><rel type="デ" mode="AND" target="モンテネグロなど" sid="wiki00166822-02" id="3"/><rel type="=" target="話されている" sid="wiki00166822-00-01" id="12"/><rel type="ニ" target="人" sid="wiki00166822-00-01" id="4"/><rel type="ニ" mode="AND" target="人" sid="wiki00166822-00-01" id="6"/><rel type="ニ" mode="AND" target="人" sid="wiki00166822-00-01" id="8"/><rel type="ニ" mode="AND" target="人" sid="wiki00166822-00-01" id="10"/>
 話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00166822-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:113.00000 MOD:2022/09/07 MEMO:
+# S-ID:wiki00166822-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:113.00000 MOD:2022/09/26 MEMO:
 * 1P
 + 1D <rel type="=" target="セルビア" sid="wiki00166822-02" id="0"/><NE:OPTIONAL:セルビア>
 セルビア せるびあ セルビア 名詞 6 地名 4 * 0 * 0 <NE:OPTIONAL:single>
@@ -229,9 +229,9 @@ EOS
 複数 ふくすう 複数 名詞 6 普通名詞 1 * 0 * 0
 + 26D
 中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0
-+ 27D
++ 27D <rel type="修飾" target="複数" sid="wiki00166822-03" id="24"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0
-+ 28D <rel type="=≒" target="語" sid="wiki00166822-03" id="23"/>
++ 28D <rel type="=≒" target="語" sid="wiki00166822-03" id="23"/><rel type="修飾" target="地" sid="wiki00166822-03" id="26"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0
 の の の 助詞 9 格助詞 1 * 0 * 0
 * 13D
@@ -245,7 +245,7 @@ EOS
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00166822-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/08 MEMO:
+# S-ID:wiki00166822-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/09/26 MEMO:
 * 1D
 + 1D
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0

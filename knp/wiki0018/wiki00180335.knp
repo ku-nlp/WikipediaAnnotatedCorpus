@@ -1,4 +1,4 @@
-# S-ID:wiki00180335-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/08/25 MEMO:
+# S-ID:wiki00180335-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/28 MEMO:
 * 5D
 + 6D <rel type="ノ？" target="ノルウェー" sid="wiki00180335-00-01" id="1"/><NE:LOCATION:トロンハイム>
 トロンハイム とろんはいむ トロンハイム 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
@@ -23,7 +23,7 @@
 3 さん 3 名詞 6 数詞 7 * 0 * 0
 の の の 助詞 9 接続助詞 3 * 0 * 0
 * -1D
-+ -1D <rel type="ガ" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="=" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="修飾" target="第3" sid="wiki00180335-00-01" id="5"/><memo text="CO"/>
++ -1D <rel type="ガ" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="=" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="修飾" target="第3" sid="wiki00180335-00-01" id="5"/><rel type="ノ？" target="ノルウェー" sid="wiki00180335-00-01" id="4"/><memo text="CO"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
@@ -32,15 +32,14 @@ EOS
 + -1D <rel type="=" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><NE:LOCATION:Trondheim>
 Trondheim Trondheim Trondheim 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
 EOS
-# S-ID:wiki00180335-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/13 MEMO:
+# S-ID:wiki00180335-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/28 MEMO:
 * 1D
 + 1D <memo text="南　の意"/>
 ソール そーる ソール 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 <NE:LOCATION:middle>
-+ 2D
++ 2D <rel type="ノ？" target="ノルウェー" sid="wiki00180335-00-01" id="4"/><NE:LOCATION:ソール・トロンデラーグ県>
 トロンデラーグ とろんでらーぐ トロンデラーグ 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:middle>
-+ 3D <rel type="ノ？" target="ノルウェー" sid="wiki00180335-00-01" id="4"/><NE:LOCATION:ソール・トロンデラーグ県>
-県 けん 県 名詞 6 普通名詞 1 * 0 * 0 <NE:LOCATION:tail>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0
 * -1D
 + -1D <rel type="ガ" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="ニ" target="県" sid="wiki00180335-01" id="2"/>
@@ -66,23 +65,21 @@ EOS
 平方キロ へいほうきろ 平方キロ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00180335-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/25 MEMO:
-* 1D
+# S-ID:wiki00180335-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/28 MEMO:
+* -1D
 + 1D
 2008 にせんはち 2008 名詞 6 数詞 7 * 0 * 0 <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:middle>
-* 2D
 + 2D
 1 いち 1 名詞 6 数詞 7 * 0 * 0 <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:middle>
-* -1D
 + 3D <NE:DATE:2008年1月1日>
 1 ついたち 1 名詞 6 数詞 7 * 0 * 0 <NE:DATE:middle>
 日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 <NE:DATE:tail>
 + -1D <rel type="=" target="1日" sid="wiki00180335-02-02" id="2"/><rel type="ガ" target="165,191人" sid="wiki00180335-02-01" id="1"/><memo text="？"/>
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0
 EOS
-# S-ID:wiki00180335-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/08/25 MEMO:
+# S-ID:wiki00180335-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/09/28 MEMO:
 * 2D
 + 1D <NE:PERSON:オーラヴ>
 オーラヴ おーらゔ オーラヴ 名詞 6 人名 5 * 0 * 0 <NE:PERSON:single>
@@ -103,7 +100,7 @@ EOS
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2
 * 7P
-+ 9P <rel type="ガ" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="=構" target="トロンハイム" sid="wiki00180335-00-01" id="0"/>
++ 9P <rel type="ガ" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="=構" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><rel type="修飾" target="伝承される" sid="wiki00180335-03" id="4"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12
 、 、 、 特殊 1 読点 2 * 0 * 0
@@ -120,7 +117,7 @@ EOS
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0
 。 。 。 特殊 1 句点 1 * 0 * 0
 EOS
-# S-ID:wiki00180335-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/08/25 MEMO:
+# S-ID:wiki00180335-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/28 MEMO:
 * 1D
 + 1D <rel type="=構" target="トロンハイム" sid="wiki00180335-00-01" id="0"/><NE:LOCATION:トロンヘイム>
 トロンヘイム とろんへいむ トロンヘイム 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>

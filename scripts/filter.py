@@ -19,7 +19,7 @@ def filter_tags(document: Document) -> Document:
         if ne_feature is not None:
             morpheme.features["NE"] = ne_feature
         morpheme.semantics.clear()
-        morpheme.semantics.is_nil = False
+        morpheme.semantics.is_nil = True
     return document
 
 
@@ -86,39 +86,39 @@ def test_filter():
         # S-ID:wiki00100134-00 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000
         * 3D
         + 3D
-        は は は 助詞 9 副助詞 2 * 0 * 0
-        、 、 、 特殊 1 読点 2 * 0 * 0
+        は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+        、 、 、 特殊 1 読点 2 * 0 * 0 NIL
         * 2D
         + 2D <memo text="メモ1"/><NE:LOCATION:日本>
-        日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 <NE:LOCATION:single>
-        の の の 助詞 9 接続助詞 3 * 0 * 0
+        日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+        の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
         * 3D
         + 3D
-        元号 げんごう 元号 名詞 6 普通名詞 1 * 0 * 0
-        の の の 助詞 9 接続助詞 3 * 0 * 0
+        元号 げんごう 元号 名詞 6 普通名詞 1 * 0 * 0 NIL
+        の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
         * -1D
         + -1D <rel type="ガ" target="は、" sid="wiki00100134-00" id="0"/><rel type="ノ" target="元号" sid="wiki00100134-00" id="2"/><rel type="=" target="は、" sid="wiki00100134-00" id="0"/>
-        一 いち 一 名詞 6 数詞 7 * 0 * 0
-        つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0
-        。 。 。 特殊 1 句点 1 * 0 * 0
+        一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+        つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+        。 。 。 特殊 1 句点 1 * 0 * 0 NIL
         EOS
         # S-ID:wiki00100134-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:-2.00000
         * 1D
         + 1D
-        安元 あんげん 安元 名詞 6 普通名詞 1 * 0 * 0
-        の の の 助詞 9 接続助詞 3 * 0 * 0
+        安元 あんげん 安元 名詞 6 普通名詞 1 * 0 * 0 NIL
+        の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
         * 3D
         + 3D <rel type="ノ" target="安元" sid="wiki00100134-01" id="0"/>
-        後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0
-        、 、 、 特殊 1 読点 2 * 0 * 0
+        後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+        、 、 、 特殊 1 読点 2 * 0 * 0 NIL
         * 3D
         + 3D <memo text="メモ2"/>
-        養和 ようわ 養和 名詞 6 普通名詞 1 * 0 * 0
-        の の の 助詞 9 接続助詞 3 * 0 * 0
+        養和 ようわ 養和 名詞 6 普通名詞 1 * 0 * 0 NIL
+        の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
         * -1D
         + -1D <rel type="ガ" target="は、" sid="wiki00100134-00" id="0"/><rel type="ノ" target="養和" sid="wiki00100134-01" id="2"/><rel type="=" target="一つ" sid="wiki00100134-00" id="3"/>
-        前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0
-        。 。 。 特殊 1 句点 1 * 0 * 0
+        前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+        。 。 。 特殊 1 句点 1 * 0 * 0 NIL
         EOS
         """
     )

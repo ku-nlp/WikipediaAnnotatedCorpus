@@ -1,4 +1,4 @@
-# S-ID:wiki00226494-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/28 MEMO:
+# S-ID:wiki00226494-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/09 MEMO:
 * 6D
 + 1P <NE:PERSON:マルクス>
 マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
@@ -12,11 +12,11 @@
 * 3D
 + 4D <rel type="=" target="マルクス" sid="wiki00226494-00-01" id="0"/><NE:PERSON:マルクス>
 マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 6D
++ 6D <rel type="=≒" target="主義" sid="wiki00226494-00-01" id="2"/>
 主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D
++ 6D <rel type="ノ" target="主義" sid="wiki00226494-00-01" id="4"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -25,8 +25,8 @@
 潮流 ちょうりゅう 潮流 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 5P
-+ 10P
+* 5D
++ 10D
 ボリシェヴィズム ぼりしぇゔぃずむ ボリシェヴィズム 名詞 6 固有名詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -35,7 +35,7 @@
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 10D <rel type="=" target="マルクス" sid="wiki00226494-00-01" id="3"/><NE:PERSON:マルクス>
 マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 11D
++ 11D <rel type="修飾" target="ロシア" sid="wiki00226494-00-01" id="8"/><rel type="=" target="ボリシェヴィズム" sid="wiki00226494-00-01" id="7"/><memo text="ボリシェヴィズムと同格的に捉えた（二）"/>
 主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -56,7 +56,7 @@ EOS
 + -1D <rel type="=" target="主義" sid="wiki00226494-00-01" id="2"/>
 しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00226494-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/10/28 MEMO:
+# S-ID:wiki00226494-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/11/09 MEMO:
 * 1D
 + 1D <rel type="=" target="レーニン" sid="wiki00226494-00-02" id="1"/><NE:PERSON:レーニン>
 レーニン れーにん レーニン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
@@ -67,10 +67,10 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D
-ヨシフ よしふ ヨシフ 名詞 6 人名 5 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <NE:PERSON:スターリン>
-スターリン すたーりん スターリン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+ヨシフ よしふ ヨシフ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 4D <NE:PERSON:ヨシフ・スターリン>
+スターリン すたーりん スターリン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D
@@ -128,7 +128,7 @@ EOS
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00226494-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/28 MEMO:
+# S-ID:wiki00226494-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/11/09 MEMO:
 * 3D
 + 4D
 また また また 副詞 8 * 0 * 0 * 0 NIL

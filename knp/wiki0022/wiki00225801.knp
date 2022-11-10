@@ -1,4 +1,4 @@
-# S-ID:wiki00225801-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00225801-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2022/11/08 MEMO:
 * 2D
 + 1D
 複数 ふくすう 複数 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -16,7 +16,7 @@
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="制" sid="wiki00225801-00-01" id="2"/><rel type="ノ" target="制" sid="wiki00225801-00-01" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="制" sid="wiki00225801-00-01" id="2"/><rel type="ノ" target="制" sid="wiki00225801-00-01" id="4"/><rel type="=構" target="制" sid="wiki00225801-00-01" id="4"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -30,7 +30,7 @@ EOS
 + -1D <rel type="=" target="制" sid="wiki00225801-00-01" id="2"/>
 せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00225801-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00225801-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/08 MEMO:
 * 1P
 + 1D <rel type="ガ" target="政党" sid="wiki00225801-01" id="1"/><rel type="ト" target="政党" sid="wiki00225801-01" id="1"/>
 競合 きょうごう 競合 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -79,7 +79,7 @@ EOS
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00225801-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00225801-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/11/09 MEMO:
 * 1D
 + 1D <rel type="=" target="多党制" sid="wiki00225801-01" id="7"/>
 多党制 たとうせい 多党制 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -104,7 +104,7 @@ EOS
 意見 いけん 意見 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 17P <rel type="ガ" target="多党制" sid="wiki00225801-03" id="0"/><rel type="ヲ" target="意見" sid="wiki00225801-03" id="5"/><rel type="ニ" target="政治" sid="wiki00225801-03" id="15"/>
++ 17P <rel type="ガ" target="多党制" sid="wiki00225801-03" id="0"/><rel type="ヲ" target="意見" sid="wiki00225801-03" id="5"/><rel type="ニ" target="政治" sid="wiki00225801-03" id="15"/><rel type="=≒" target="メリット" sid="wiki00225801-03" id="1"/>
 反映 はんえい 反映 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -116,12 +116,12 @@ EOS
 世論 せろん 世論 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="運営" sid="wiki00225801-03" id="10"/><rel type="ガ" mode="AND" target="政権" sid="wiki00225801-03" id="12"/><rel type="ニ" target="世論" sid="wiki00225801-03" id="7"/>
++ 10D <rel type="ガ" target="運営" sid="wiki00225801-03" id="10"/><rel type="ガ" mode="AND" target="政権" sid="wiki00225801-03" id="12"/><rel type="ニ" target="世論" sid="wiki00225801-03" id="7"/>
 基づいた もとづいた 基づく 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
 * 12D
 + 10D
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="政治" sid="wiki00225801-03" id="9"/>
++ 16P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="政治" sid="wiki00225801-03" id="9"/><rel type="ニモトヅイテ" target="世論" sid="wiki00225801-03" id="7"/>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 12D <rel type="ガ" target="政党" sid="wiki00225801-00-01" id="1"/><rel type="外の関係" target="政権" sid="wiki00225801-03" id="12"/>
@@ -145,7 +145,7 @@ EOS
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 18D <rel type="ガ" target="多党制" sid="wiki00225801-03" id="0"/><rel type="ニ" target="運営" sid="wiki00225801-03" id="16"/>
++ 18D <rel type="ガ" target="多党制" sid="wiki00225801-03" id="0"/><rel type="ニ" target="運営" sid="wiki00225801-03" id="16"/><rel type="ニ" mode="AND" target="運営" sid="wiki00225801-03" id="10"/><rel type="=≒" target="メリット" sid="wiki00225801-03" id="1"/>
 つながり つながり つながる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 やすい やすい やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -153,7 +153,7 @@ EOS
 + 19D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 16D
-+ 20D <rel type="トイウ" target="つながりやすい" sid="wiki00225801-03" id="17"/><rel type="トイウ" mode="AND" target="反映することができ" sid="wiki00225801-03" id="6"/>
++ 20D <rel type="トイウ" target="つながりやすい" sid="wiki00225801-03" id="17"/><rel type="トイウ" mode="AND" target="反映することができ" sid="wiki00225801-03" id="6"/><rel type="=構" target="メリット" sid="wiki00225801-03" id="1"/>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -162,7 +162,7 @@ EOS
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00225801-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00225801-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2022/11/09 MEMO:
 * 16D
 + 20D
 一方 いっぽう 一方 接続詞 10 * 0 * 0 * 0 NIL
@@ -206,7 +206,7 @@ EOS
 不安定 ふあんてい 不安定だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 17P <rel type="ガ" target="運営" sid="wiki00225801-04" id="10"/><rel type="ガ" mode="AND" target="政権" sid="wiki00225801-04" id="8"/><rel type="ト" target="不安定" sid="wiki00225801-04" id="11"/>
++ 17P <rel type="ガ" target="運営" sid="wiki00225801-04" id="10"/><rel type="ガ" mode="AND" target="政権" sid="wiki00225801-04" id="8"/><rel type="ト" target="不安定" sid="wiki00225801-04" id="11"/><rel type="=≒" target="デメリット" sid="wiki00225801-04" id="1"/>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -226,14 +226,14 @@ EOS
 明確 めいかく 明確だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 18D <rel type="ガ" target="所在" sid="wiki00225801-04" id="15"/><rel type="ト" target="不明確" sid="wiki00225801-04" id="16"/>
++ 18D <rel type="ガ" target="所在" sid="wiki00225801-04" id="15"/><rel type="ト" target="不明確" sid="wiki00225801-04" id="16"/><rel type="=≒" target="デメリット" sid="wiki00225801-04" id="1"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 19D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 16D
-+ 20D <rel type="トイウ" target="なる" sid="wiki00225801-04" id="17"/><rel type="トイウ" mode="AND" target="なり" sid="wiki00225801-04" id="12"/><rel type="=≒" target="点" sid="wiki00225801-03" id="19"/>
++ 20D <rel type="トイウ" target="なる" sid="wiki00225801-04" id="17"/><rel type="トイウ" mode="AND" target="なり" sid="wiki00225801-04" id="12"/><rel type="=≒" target="点" sid="wiki00225801-03" id="19"/><rel type="=構" mode="AND" target="デメリット" sid="wiki00225801-04" id="1"/>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

@@ -1,4 +1,4 @@
-# S-ID:wiki00227627-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00227627-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2022/11/09 MEMO:
 * 1D
 + 1D
 仏教 ぶっきょう 仏教 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -82,7 +82,7 @@ EOS
 + -1D <rel type="=" target="Moha" sid="wiki00227627-00-01" id="7"/>
 モーハ もーは モーハ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00227627-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00227627-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/11/09 MEMO:
 * 2D
 + 3D
 時 とき 時 名詞 6 時相名詞 10 * 0 * 0 NIL
@@ -106,22 +106,22 @@ EOS
 + -1D <rel type="=" target="無明" sid="wiki00227627-01-01" id="1"/>
 Avidyā Avidyā Avidyā 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00227627-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00227627-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/11/09 MEMO:
 * 4D
 + 4D <rel type="ノ" target="癡" sid="wiki00227627-00-01" id="2"/>
 別名 べつめい 別名 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/>
++ 2P <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/><rel type="=構" mode="AND" target="別名" sid="wiki00227627-02-01" id="0"/>
 愚癡 ぐち 愚癡 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/>
++ 3P <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/><rel type="=構" mode="AND" target="別名" sid="wiki00227627-02-01" id="0"/>
 我癡 がち 我癡 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 また また また 副詞 8 * 0 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/><memo text="4文目と矛盾するが仕方ない"/>
++ 4D <rel type="=構" target="癡" sid="wiki00227627-00-01" id="2"/><rel type="=構" mode="AND" target="別名" sid="wiki00227627-02-01" id="0"/><memo text="4文目と矛盾するが仕方ない"/>
 無明 むみょう 無明 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -130,7 +130,7 @@ EOS
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00227627-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00227627-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/09 MEMO:
 * 1P
 + 1P <rel type="=" target="愚癡" sid="wiki00227627-02-01" id="1"/>
 ぐち ぐち ぐち 名詞 6 普通名詞 1 * 0 * 0 NIL

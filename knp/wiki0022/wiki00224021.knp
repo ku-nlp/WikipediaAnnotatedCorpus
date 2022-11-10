@@ -1,4 +1,4 @@
-# S-ID:wiki00224021-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00224021-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2022/11/08 MEMO:
 * 10D
 + 12D
 ソルフェージュ そるふぇーじゅ ソルフェージュ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -47,13 +47,13 @@
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00224021-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:317.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00224021-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:317.00000 MOD:2022/11/09 MEMO:
 * 2D
 + 2D <rel type="ノ" target="ソルフェージュ" sid="wiki00224021-00" id="0"/>
 類義語 るいぎご 類義語 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
++ 2D <rel type="=構" target="類義語" sid="wiki00224021-01" id="0"/>
 リトミック りとみっく リトミック 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 35P
@@ -76,11 +76,11 @@ EOS
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="=" target="音楽" sid="wiki00224021-00" id="2"/>
++ 8D <rel type="=≒" target="音楽" sid="wiki00224021-00" id="2"/>
 音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D <rel type="ガ" target="者" sid="wiki00224021-01" id="9"/><rel type="ヲ" target="音楽" sid="wiki00224021-01" id="7"/>
++ 9D <rel type="ガ" target="者" sid="wiki00224021-01" id="9"/><rel type="ヲ" target="音楽" sid="wiki00224021-01" id="7"/><rel type="=" target="学習" sid="wiki00224021-00" id="3"/>
 学ぶ まなぶ 学ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * 10D
 + 10D
@@ -100,13 +100,13 @@ EOS
 かかわら かかわら かかわる 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
 * 14D
-+ 17D <rel type="ガ" target="すべて" sid="wiki00224021-01" id="10"/><rel type="ヲ" target="全般" sid="wiki00224021-01" id="17"/>
++ 17D <rel type="ガ" target="すべて" sid="wiki00224021-01" id="10"/><rel type="ヲ" target="全般" sid="wiki00224021-01" id="17"/><rel type="ニヨラズ" target="専門" sid="wiki00224021-01" id="12"/><rel type="ニヨラズ" mode="？" target="なし"/>
 修める おさめる 修める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 べき べき べし 助動詞 5 * 0 助動詞く型 30 文語連体形 4 NIL
 * 15D
 + 16D <rel type="=" target="基礎" sid="wiki00224021-00" id="10"/>
 基礎 きそ 基礎 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="=" target="訓練" sid="wiki00224021-00" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 17D <rel type="=" target="訓練" sid="wiki00224021-00" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="基礎" sid="wiki00224021-01" id="15"/>
 訓練 くんれん 訓練 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 18D <rel type="ノ" target="訓練" sid="wiki00224021-01" id="16"/>
 全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -149,7 +149,7 @@ EOS
 + 27D <rel type="ガ" target="訓練" sid="wiki00224021-01" id="27"/><rel type="ヲ" target="リズム" sid="wiki00224021-01" id="24"/><rel type="ト" target="中心" sid="wiki00224021-01" id="25"/>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 25D
-+ 28D <rel type="=≒" target="訓練" sid="wiki00224021-01" id="16"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 28D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="した" sid="wiki00224021-01" id="26"/><rel type="=≒" target="訓練" sid="wiki00224021-01" id="16"/><rel type="=構" mode="AND" target="リトミック" sid="wiki00224021-01" id="19"/>
 訓練 くんれん 訓練 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 35P
@@ -186,7 +186,7 @@ EOS
 実際 じっさい 実際 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 33D
-+ 38D <rel type="修飾" target="実際" sid="wiki00224021-01" id="36"/>
++ 38D <rel type="修飾" target="実際" sid="wiki00224021-01" id="36"/><rel type="=" target="音" sid="wiki00224021-01" id="22"/>
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 34D
@@ -194,7 +194,7 @@ EOS
 結び むすび 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
 つける つける つける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 35D
-+ 40D <rel type="トイウ" target="結びつける" sid="wiki00224021-01" id="38"/><rel type="=≒" target="訓練" sid="wiki00224021-01" id="27"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 40D <rel type="トイウ" target="結びつける" sid="wiki00224021-01" id="38"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=≒" target="訓練" sid="wiki00224021-01" id="27"/><rel type="=構" mode="AND" target="ソルフェージュ" sid="wiki00224021-01" id="30"/>
 訓練 くんれん 訓練 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -202,9 +202,9 @@ EOS
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00224021-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/10/27 MEMO:
+# S-ID:wiki00224021-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/11/09 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="=≒" target="リトミック" sid="wiki00224021-01" id="19"/><rel type="=≒" mode="AND" target="ソルフェージュ" sid="wiki00224021-01" id="30"/><memo text="SE"/>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL

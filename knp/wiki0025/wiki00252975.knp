@@ -1,15 +1,15 @@
-# S-ID:wiki00252975-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000
+# S-ID:wiki00252975-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2022/12/12 MEMO:
 * 7D
 + 1D
-ヴィクトリア ヴィクトリア ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 9D <NE:PERSON:ヴィクトリア朝>
-朝 あさ 朝 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 9D <rel type="ノ？" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/><NE:OPTIONAL:ヴィクトリア朝>
+朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="=" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/><NE:PERSON:ヴィクトリア>
-ヴィクトリア ヴィクトリア ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 5D <rel type="ノ" target="イギリス" sid="wiki00252975-00-01" id="4"/><rel type="=" target="ヴィクトリア" sid="wiki00252975-00-01" id="2"/>
+ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 5D <rel type="ノ" target="イギリス" sid="wiki00252975-00-01" id="4"/><rel type="=役" target="ヴィクトリア" sid="wiki00252975-00-01" id="2"/>
 女王 じょおう 女王 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -17,22 +17,22 @@
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="女王" sid="wiki00252975-00-01" id="3"/><rel type="ヲ" target="イギリス" sid="wiki00252975-00-01" id="4"/>
++ 7D <rel type="ガ" target="女王" sid="wiki00252975-00-01" id="3"/><rel type="ヲ" target="イギリス" sid="wiki00252975-00-01" id="4"/><rel type="カラ" target="1837年" sid="wiki00252975-00-01" id="6"/><rel type="マデ" target="1901年" sid="wiki00252975-00-01" id="7"/>
 統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5P
-+ 7P
-1837 1837 1837 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 7P <NE:DATE:1837年>
+1837 せんはっぴゃくさんじゅうなな/せんはっぴゃくさんじゅうしち 1837 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D
-1901 1901 1901 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 8D <NE:DATE:1901年>
+1901 せんきゅうひゃくいち 1901 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="朝" sid="wiki00252975-00-01" id="1"/>
++ 9D <rel type="カラ" target="1837年" sid="wiki00252975-00-01" id="6"/><rel type="マデ" target="1901年" sid="wiki00252975-00-01" id="7"/><rel type="=構" target="朝" sid="wiki00252975-00-01" id="1"/>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -40,14 +40,14 @@
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00252975-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00252975-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/12 MEMO:
 * -1D
-+ 1D <rel type="=" target="ヴィクトリア" sid="wiki00252975-00-01" id="2"/><NE:PERSON:ヴィクトリア>
-ヴィクトリア ヴィクトリア ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ -1D <rel type="=" target="朝" sid="wiki00252975-00-01" id="1"/>
-ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/>
+ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="朝" sid="wiki00252975-00-01" id="1"/><NE:OPTIONAL:ヴィクトリアちょう>
+ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
-# S-ID:wiki00252975-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000
+# S-ID:wiki00252975-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000 MOD:2022/12/12 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
@@ -61,48 +61,48 @@ EOS
 + 4D <rel type="ノ" target="イギリス" sid="wiki00252975-01" id="2"/>
 史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12D
-+ 16D
+* 11D
++ 15D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 5D
 + 6D
 産業 さんぎょう 産業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ニカンシテ" target="産業" sid="wiki00252975-01" id="5"/>
 革命 かくめい 革命 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
-+ 8D
+* 7D
++ 9D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 7D
 + 9D
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="経済" sid="wiki00252975-01" id="8"/>
++ 11D <rel type="ガ" target="経済" sid="wiki00252975-01" id="8"/><rel type="ニヨッテ" target="革命" sid="wiki00252975-01" id="6"/>
 発展 はってん 発展 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="帝国" sid="wiki00252975-01" id="13"/>
++ 11D <rel type="ガ" target="経済" sid="wiki00252975-01" id="8"/>
 成熟 せいじゅく 成熟 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 10D
-+ 13D <rel type="ガ" target="発展" sid="wiki00252975-01" id="9"/><rel type="ニ" target="成熟" sid="wiki00252975-01" id="10"/>
+* 11D
++ 15D <rel type="ガ" target="発展" sid="wiki00252975-01" id="9"/><rel type="ニ" target="成熟" sid="wiki00252975-01" id="10"/><rel type="外の関係" target="期" sid="wiki00252975-01" id="15"/>
 達した たっした 達する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 11D
-+ 13D <rel type="=" target="イギリス" sid="wiki00252975-01" id="2"/><NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 15D <rel type="ノ" target="イギリス" sid="wiki00252975-01" id="12"/>
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="=" target="イギリス" sid="wiki00252975-01" id="2"/>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <rel type="ノ" target="イギリス" sid="wiki00252975-01" id="12"/><rel type="=" target="イギリス" sid="wiki00252975-00-01" id="4"/><NE:LOCATION:イギリス帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 15D
++ 15D <rel type="ノ" target="帝国" sid="wiki00252975-01" id="13"/>
 絶頂 ぜっちょう 絶頂 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="ガ" target="時代" sid="wiki00252975-01" id="1"/><rel type="ノ" target="帝国" sid="wiki00252975-01" id="13"/><rel type="=" target="時代" sid="wiki00252975-01" id="1"/>
++ 16D <rel type="ガ" target="時代" sid="wiki00252975-01" id="1"/><rel type="ノ" target="帝国" sid="wiki00252975-01" id="13"/><rel type="修飾" target="絶頂" sid="wiki00252975-01" id="14"/><rel type="ニオイテ" target="史" sid="wiki00252975-01" id="3"/><rel type="=構" target="時代" sid="wiki00252975-01" id="1"/>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00252975-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="時代" sid="wiki00252975-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="期である" sid="wiki00252975-01" id="15"/>
 みなさ みなさ みなす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

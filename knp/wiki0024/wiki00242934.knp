@@ -1,8 +1,8 @@
-# S-ID:wiki00242934-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000
+# S-ID:wiki00242934-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/12/08 MEMO:
 * 7D
-+ 1D
++ 1D <memo text="現在、「柔道家」というwikiページは存在しない？"/>
 柔道 じゅうどう 柔道 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="柔道" sid="wiki00242934-00-01" id="0"/>
++ 8D <rel type="ノ？" target="柔道" sid="wiki00242934-00-01" id="0"/>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,46 +12,44 @@
 柔道 じゅうどう 柔道 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="者" sid="wiki00242934-00-01" id="7"/><rel type="ヲ" target="柔道" sid="wiki00242934-00-01" id="2"/>
++ 4D <rel type="ヲ" target="柔道" sid="wiki00242934-00-01" id="2"/><rel type="ガ" target="人" sid="wiki00242934-00-01" id="4"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 6P
-+ 7P
++ 7P <rel type="=構" target="家" sid="wiki00242934-00-01" id="1"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D
++ 6D <rel type="=構" target="柔道" sid="wiki00242934-00-01" id="2"/><rel type="ノ" target="者" sid="wiki00242934-00-01" id="7"/>
 生業 なりわい 生業 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="者" sid="wiki00242934-00-01" id="7"/><rel type="ヲ" target="柔道" sid="wiki00242934-00-01" id="2"/>
++ 7D <rel type="ガ" target="者" sid="wiki00242934-00-01" id="7"/><rel type="ヲ" target="柔道" sid="wiki00242934-00-01" id="2"/><rel type="ト" target="生業" sid="wiki00242934-00-01" id="5"/>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 8D <rel type="=" target="人" sid="wiki00242934-00-01" id="4"/>
++ 8D <rel type="=≒" target="人" sid="wiki00242934-00-01" id="4"/><rel type="=構" mode="AND" target="家" sid="wiki00242934-00-01" id="1"/>
 者 もの 者 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="家" sid="wiki00242934-00-01" id="1"/><rel type="ノ" target="者" sid="wiki00242934-00-01" id="7"/>
++ -1D <rel type="ガ" target="家" sid="wiki00242934-00-01" id="1"/><rel type="ノ" target="者" sid="wiki00242934-00-01" id="7"/><rel type="ノ" mode="AND" target="人" sid="wiki00242934-00-01" id="4"/><rel type="=構" target="家" sid="wiki00242934-00-01" id="1"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00242934-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
+# S-ID:wiki00242934-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/14 MEMO:
+* -1D
 + 1D <rel type="=" target="柔道" sid="wiki00242934-00-01" id="2"/>
-じゅう じゅう じゅう 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D
-どう どう どう 指示詞 7 副詞形態指示詞 3 * 0 * 0 NIL
-か か か 助詞 9 接続助詞 3 * 0 * 0 NIL
+じゅうどう じゅうどう じゅうどう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="家" sid="wiki00242934-00-01" id="1"/>
+か か か 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00242934-00-03 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00242934-00-03 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ 1D
++ 1D <rel type="ガ" target="者" sid="wiki00242934-00-03" id="1"/><rel type="=≒" target="柔道" sid="wiki00242934-00-01" id="2"/>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="者" sid="wiki00242934-00-01" id="7"/>
++ -1D <rel type="=" target="人" sid="wiki00242934-00-01" id="4"/><rel type="ノ？" target="柔道" sid="wiki00242934-00-01" id="2"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00242934-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00242934-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/08 MEMO:
 * 6D
 + 6D
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -64,11 +62,11 @@ EOS
 引退 いんたい 引退 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
-+ 4D
++ 4D <rel type="=≒" target="人" sid="wiki00242934-00-01" id="4"/><rel type="=≒" mode="AND" target="者" sid="wiki00242934-00-01" id="7"/>
 人物 じんぶつ 人物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="=" target="こと" sid="wiki00242934-00-01" id="8"/>
++ 5D <rel type="ノ" target="人物" sid="wiki00242934-01-01" id="3"/><rel type="=構" target="家" sid="wiki00242934-00-01" id="1"/>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -76,17 +74,17 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="家" sid="wiki00242934-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="家" sid="wiki00242934-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="呼称" sid="wiki00242934-01-01" id="4"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00242934-01-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00242934-01-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * 1D
 + 1D
 とりわけ とりわけ とりわけ 副詞 8 * 0 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="柔道" sid="wiki00242934-00-01" id="0"/>
++ -1D <rel type="=≒" target="人物" sid="wiki00242934-01-01" id="3"/><rel type="ノ？" target="柔道" sid="wiki00242934-00-01" id="0"/>
 師範 しはん 師範 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 EOS

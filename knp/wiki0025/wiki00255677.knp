@@ -1,11 +1,11 @@
-# S-ID:wiki00255677-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00255677-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 3D
-+ 1D <NE:LOCATION:ソウル>
-ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 2D
-特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL
-+ 5D
-市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D
+特別 とくべつ 特別 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="大韓民国" sid="wiki00255677-00-01" id="3"/><rel type="修飾" target="特別" sid="wiki00255677-00-01" id="1"/><NE:LOCATION:ソウル特別市>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -13,21 +13,20 @@
 大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 5P <rel type="=" target="市" sid="wiki00255677-00-01" id="2"/>
++ 5P <rel type="=構" target="市" sid="wiki00255677-00-01" id="2"/><rel type="ガ" target="市" sid="wiki00255677-00-01" id="2"/><rel type="ノ？" target="大韓民国" sid="wiki00255677-00-01" id="3"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="市" sid="wiki00255677-00-01" id="2"/><rel type="ノ" target="大韓民国" sid="wiki00255677-00-01" id="3"/><rel type="=" target="都市" sid="wiki00255677-00-01" id="4"/>
++ -1D <rel type="ガ" target="市" sid="wiki00255677-00-01" id="2"/><rel type="ノ" target="大韓民国" sid="wiki00255677-00-01" id="3"/><rel type="=構" target="市" sid="wiki00255677-00-01" id="2"/><memo text="CO"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00255677-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
-* 1D
-+ 1D <rel type="=" target="ソウル" sid="wiki00255677-00-01" id="0"/><NE:LOCATION:ソウル>
-ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+# S-ID:wiki00255677-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="市" sid="wiki00255677-00-01" id="2"/>
-くべつ くべつ くべつ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 2D <rel type="=" target="ソウル" sid="wiki00255677-00-01" id="0"/>
+ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="特別" sid="wiki00255677-00-01" id="1"/>
+とくべつ とくべつ とくべつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="市" sid="wiki00255677-00-01" id="2"/><NE:LOCATION:ソウルとくべつし>
+し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

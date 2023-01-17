@@ -1,62 +1,62 @@
-# S-ID:wiki00286489-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:47.00000
+# S-ID:wiki00286489-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:47.00000 MOD:2022/12/22 MEMO:
 * 4D
 + 6D
-ウェーバ ウェーバ ウェーバ 名詞 6 普通名詞 1 * 0 * 0 NIL
+ウェーバ うぇーば ウェーバ 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D
 磁束 じそく 磁束 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
-+ 6D <rel type="ガ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><rel type="ノ" target="磁束" sid="wiki00286489-00-01" id="1"/><rel type="=" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
+* 4P
++ 6P <rel type="ガ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><rel type="ノ" target="磁束" sid="wiki00286489-00-01" id="1"/><rel type="=構" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D
-SI SI SI 名詞 6 組織名 6 * 0 * 0 NIL
++ 5D <memo text="国際単位系"/><NE:OPTIONAL:SI>
+SI SI SI 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 5D
-組立 組立 組立 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
+組立 くみたて 組立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="組立" sid="wiki00286489-00-01" id="4"/><rel type="ノ？" target="SI" sid="wiki00286489-00-01" id="3"/>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><rel type="ノ" target="単位" sid="wiki00286489-00-01" id="5"/><rel type="=" target="単位" sid="wiki00286489-00-01" id="2"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><rel type="ノ" target="単位" sid="wiki00286489-00-01" id="5"/><rel type="=構" target="単位" sid="wiki00286489-00-01" id="5"/><rel type="=構" mode="AND" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286489-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00286489-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/22 MEMO:
 * -1D
 + 1D <rel type="ノ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
 記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="一つ" sid="wiki00286489-00-01" id="6"/>
-Wb Wb Wb 名詞 6 組織名 6 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="ガ" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=構" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=" mode="AND" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><memo text="品詞？"/>
+Wb Wb Wb 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286489-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00286489-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/22 MEMO:
 * 1D
-+ 4D <NE:LOCATION:ドイツ>
++ 2D <NE:LOCATION:ドイツ>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="物理" sid="wiki00286489-01" id="1"/>
++ 4D <rel type="ノ？" target="ドイツ" sid="wiki00286489-01" id="0"/><rel type="ノ？" mode="AND" target="物理" sid="wiki00286489-01" id="1"/>
 学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 2D
 + 4D
-ヴィルヘルム ヴィルヘルム ヴィルヘルム 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="=" target="学者" sid="wiki00286489-01" id="2"/>
-ヴェーバー ヴェーバー ヴェーバー 名詞 6 普通名詞 1 * 0 * 0 NIL
+ヴィルヘルム ゔぃるへるむ ヴィルヘルム 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <rel type="修飾" target="学者" sid="wiki00286489-01" id="2"/><rel type="=構" target="学者" sid="wiki00286489-01" id="2"/><NE:PERSON:ヴィルヘルム・ヴェーバー>
+ヴェーバー ゔぇーばー ヴェーバー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ニ" target="ヴェーバー" sid="wiki00286489-01" id="4"/>
++ 6D <rel type="ニ" target="ヴェーバー" sid="wiki00286489-01" id="4"/><rel type="ガ" target="命名された" sid="wiki00286489-01" id="6"/>
 ちなんで ちなんで ちなむ 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
 * -1D
-+ -1D <rel type="ガ" target="Wb" sid="wiki00286489-00-02" id="2"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
 命名 めいめい 命名 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

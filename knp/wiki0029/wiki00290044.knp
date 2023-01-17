@@ -1,49 +1,49 @@
-# S-ID:wiki00290044-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
-* 5D
-+ 6D
+# S-ID:wiki00290044-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/21 MEMO:
+* 6D
++ 7D
 リゾート りぞーと リゾート 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 4D
+* 2D
++ 2D
 大勢 おおぜい 大勢 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 3D
-+ 3D
+* 5D
++ 6D <rel type="修飾" target="大勢" sid="wiki00290044-00-01" id="1"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
-+ 4D
+* 4D
++ 4P
 休暇 きゅうか 休暇 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
++ 5D
 余暇 よか 余暇 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="人" sid="wiki00290044-00-01" id="2"/><rel type="ヲ" target="余暇" sid="wiki00290044-00-01" id="4"/>
++ 6D <rel type="ガ" target="人" sid="wiki00290044-00-01" id="2"/><rel type="ヲ" target="余暇" sid="wiki00290044-00-01" id="4"/><rel type="ヲ" mode="AND" target="休暇" sid="wiki00290044-00-01" id="3"/><rel type="デ" target="場所" sid="wiki00290044-00-01" id="6"/>
 過ごす すごす 過ごす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 6D
-+ 7D
++ 7D <rel type="=構" target="リゾート" sid="wiki00290044-00-01" id="0"/>
 場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="リゾート" sid="wiki00290044-00-01" id="0"/><rel type="ノ" target="場所" sid="wiki00290044-00-01" id="6"/>
++ -1D <rel type="ガ" target="リゾート" sid="wiki00290044-00-01" id="0"/><rel type="ノ" target="場所" sid="wiki00290044-00-01" id="6"/><rel type="=構" target="リゾート" sid="wiki00290044-00-01" id="0"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290044-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00290044-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="場所" sid="wiki00290044-00-01" id="6"/>
-resort resort resort 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="リゾート" sid="wiki00290044-00-01" id="0"/>
+resort resort resort 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290044-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00290044-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
 + 1D
 行楽 こうらく 行楽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="resort" sid="wiki00290044-00-02" id="0"/><rel type="=" target="場所" sid="wiki00290044-00-01" id="6"/>
++ -1D <rel type="ガ" target="リゾート" sid="wiki00290044-00-01" id="0"/><rel type="=構" target="リゾート" sid="wiki00290044-00-01" id="0"/><rel type="ノ？" target="行楽" sid="wiki00290044-01" id="0"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

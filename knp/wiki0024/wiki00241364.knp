@@ -1,14 +1,14 @@
-# S-ID:wiki00241364-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000
+# S-ID:wiki00241364-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/12/08 MEMO:
 * 12D
 + 17D
 前照灯 ぜんしょうとう 前照灯 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="機械" sid="wiki00241364-00-01" id="2"/>
 輸送 ゆそう 輸送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
++ 3D <rel type="修飾" target="輸送" sid="wiki00241364-00-01" id="1"/>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
@@ -21,38 +21,38 @@
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="ヘルメット" sid="wiki00241364-00-01" id="4"/>
++ 6P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="前部" sid="wiki00241364-00-01" id="3"/>
 搭載 とうさい 搭載 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 13P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="ヘルメット" sid="wiki00241364-00-01" id="4"/>
++ 13P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="ヘルメットなど" sid="wiki00241364-00-01" id="4"/>
 装着 そうちゃく 装着 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="ヲ" target="機械" sid="wiki00241364-00-01" id="2"/>
++ 8D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="ヲ" target="機械" sid="wiki00241364-00-01" id="2"/><rel type="ヲ" mode="？" target="不特定:物"/>
 操縦 そうじゅう 操縦 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 9D <rel type="ノ？" target="操縦" sid="wiki00241364-00-01" id="7"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 12P <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/>
-視認 視認 視認 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12P <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
+視認 しにん 視認 名詞 6 サ変名詞 2 * 0 * 0 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ノ" target="機械" sid="wiki00241364-00-01" id="2"/>
++ 12D
 外部 がいぶ 外部 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 12D
 被 ひ 被 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/>
-視認 視認 視認 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="カラ" target="外部" sid="wiki00241364-00-01" id="10"/><rel type="=≒" target="視認" sid="wiki00241364-00-01" id="9"/><rel type="修飾" target="被" sid="wiki00241364-00-01" id="11"/>
+視認 しにん 視認 名詞 6 サ変名詞 2 * 0 * 0 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="ヲ" target="視認性" sid="wiki00241364-00-01" id="9"/>
++ 14D <rel type="ガ" target="者" sid="wiki00241364-00-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00241364-00-01" id="14"/><rel type="ヲ" target="視認性" sid="wiki00241364-00-01" id="9"/><rel type="ヲ" mode="AND" target="視認性" sid="wiki00241364-00-01" id="12"/>
 向上 こうじょう 向上 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -61,64 +61,65 @@
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 17D <rel type="ガ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="不特定:人"/>
++ 17D <rel type="ガ" target="装置" sid="wiki00241364-00-01" id="17"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="ため" sid="wiki00241364-00-01" id="14"/><rel type="ニ" mode="？" target="なし"/>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
 + 17D
 照明 しょうめい 照明 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="前照灯" sid="wiki00241364-00-01" id="0"/><rel type="ノ" target="照明" sid="wiki00241364-00-01" id="16"/><rel type="=" target="前照灯" sid="wiki00241364-00-01" id="0"/>
++ -1D <rel type="ガ" target="前照灯" sid="wiki00241364-00-01" id="0"/><rel type="=構" target="前照灯" sid="wiki00241364-00-01" id="0"/><rel type="ノ？" target="照明" sid="wiki00241364-00-01" id="16"/><memo text="CO"/>
 装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00241364-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00241364-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/21 MEMO:
+* -1D
++ -1D <rel type="=" target="前照灯" sid="wiki00241364-00-01" id="0"/>
+ぜんしょうとう ぜんしょうとう ぜんしょうとう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00241364-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/21 MEMO:
 * 1D
 + 1D
-ぜんしょ ぜんしょ ぜんしょ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-* -1D
-+ -1D
-うとう うとう うつ 動詞 2 * 0 子音動詞タ行 6 意志形 4 NIL
-EOS
-# S-ID:wiki00241364-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
-* 1P
-+ 1D
 ヘッド へっど ヘッド 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2P <rel type="=" target="前照灯" sid="wiki00241364-00-01" id="0"/>
++ 3D <rel type="修飾" target="ヘッド" sid="wiki00241364-01" id="0"/><rel type="=構" target="前照灯" sid="wiki00241364-00-01" id="0"/>
 ランプ らんぷ ランプ 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="前照灯" sid="wiki00241364-00-01" id="0"/>
-ヘッドライト へっどらいと ヘッドライト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D
+ヘッド へっど ヘッド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ヘッド" sid="wiki00241364-01" id="2"/><rel type="=構" target="前照灯" sid="wiki00241364-00-01" id="0"/>
+ライト らいと ライト 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="前照灯" sid="wiki00241364-00-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="前照灯" sid="wiki00241364-00-01" id="0"/><rel type="ト" target="ランプ" sid="wiki00241364-01" id="1"/><rel type="ト" mode="AND" target="ライト" sid="wiki00241364-01" id="3"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00241364-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00241364-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/08 MEMO:
 * 4D
-+ 5D
++ 6D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
 * 4D
 + 2D
-当 当 当 名詞 6 人名 5 * 0 * 0 NIL
-+ 5D
+当 とう 当 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="当" sid="wiki00241364-02" id="1"/>
 記事 きじ 記事 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="ヘッドライト" sid="wiki00241364-01" id="2"/>
-ヘッドライト へっどらいと ヘッドライト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D
+ヘッド へっど ヘッド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="ライト" sid="wiki00241364-01" id="3"/><rel type="=構" mode="AND" target="前照灯" sid="wiki00241364-00-01" id="0"/>
+ライト らいと ライト 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
++ 6D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="前照灯" sid="wiki00241364-00-01" id="0"/>
++ -1D <rel type="トシテ" target="ライト" sid="wiki00241364-02" id="4"/><rel type="ガ" target="著者"/><rel type="ヲ" target="前照灯" sid="wiki00241364-00-01" id="0"/><rel type="デ" target="記事" sid="wiki00241364-02" id="2"/>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

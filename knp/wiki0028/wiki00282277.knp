@@ -1,9 +1,9 @@
-# S-ID:wiki00282277-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000
+# S-ID:wiki00282277-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2022/12/19 MEMO:
 * 10D
 + 1D
 レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D <rel type="ノ" target="レコード" sid="wiki00282277-00" id="0"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ノ？" target="レコード" sid="wiki00282277-00" id="0"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -13,64 +13,64 @@
 作品 さくひん 作品 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
++ 5P <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
 録音 ろくおん 録音 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
++ 7D <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ニ" mode="AND" target="者" sid="wiki00282277-00" id="17"/>
 録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
-* 4D
+* 5D
 + 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
 記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D
++ 9D
 媒体 ばいたい 媒体 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D
++ 9D <rel type="ヲ" target="媒体" sid="wiki00282277-00" id="7"/>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
-+ 15D <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ヲ" target="媒体" sid="wiki00282277-00" id="7"/>
+* 8P
++ 15P <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ヲ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ニ" target="専門" sid="wiki00282277-00" id="8"/><rel type="ニ" mode="？" target="なし"/>
 制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 11D <rel type="ガ" target="媒体" sid="wiki00282277-00" id="7"/>
++ 11P <rel type="ガ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ガ" mode="？" target="作品" sid="wiki00282277-00" id="3"/>
 流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 14P <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ヲ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="不特定:人"/>
++ 14P <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ヲ" mode="？" target="媒体" sid="wiki00282277-00" id="7"/>
 販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 13D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
 広告 こうこく 広告 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 14D <rel type="ヲ" target="広告" sid="wiki00282277-00" id="12"/>
 代理 だいり 代理 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="代理" sid="wiki00282277-00" id="13"/>
++ 15D <rel type="トイウ" target="代理" sid="wiki00282277-00" id="13"/>
 業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 17D <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ヲ" target="販売" sid="wiki00282277-00" id="11"/><rel type="ニ" target="専門" sid="wiki00282277-00" id="8"/>
++ 17D <rel type="ガ" target="者" sid="wiki00282277-00" id="17"/><rel type="ヲ" target="販売" sid="wiki00282277-00" id="11"/><rel type="ヲ" mode="AND" target="流通" sid="wiki00282277-00" id="10"/><rel type="ヲ" mode="AND" target="業務など" sid="wiki00282277-00" id="14"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 10D
-+ 17D
++ 17D <rel type="=≒" target="制作" sid="wiki00282277-00" id="9"/><rel type="=≒" mode="AND" target="行う" sid="wiki00282277-00" id="15"/>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D <rel type="=" target="会社" sid="wiki00282277-00" id="1"/>
++ 18D <rel type="ノ？" target="事業" sid="wiki00282277-00" id="16"/><rel type="=構" target="会社" sid="wiki00282277-00" id="1"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ノ" target="者" sid="wiki00282277-00" id="17"/><rel type="=" target="会社" sid="wiki00282277-00" id="1"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ノ" target="者" sid="wiki00282277-00" id="17"/><rel type="=構" target="会社" sid="wiki00282277-00" id="1"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282277-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00282277-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/12/19 MEMO:
 * 1D
 + 1D
-レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
+レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="意味" sid="wiki00282277-01" id="2"/>
++ 2D <rel type="ガ" target="意味" sid="wiki00282277-01" id="2"/><rel type="ト" target="レーベル" sid="wiki00282277-01" id="0"/>
 同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
 * 3D
 + 3D <rel type="ガ" target="会社" sid="wiki00282277-01" id="6"/>
@@ -78,7 +78,7 @@ EOS
 だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ニ" target="不特定:人"/>
++ 10D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="意味" sid="wiki00282277-01" id="2"/>
 誤解 ごかい 誤解 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -94,12 +94,12 @@ EOS
 * 6P
 + 6D
 レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P <rel type="=" target="者" sid="wiki00282277-00" id="17"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="=" target="会社" sid="wiki00282277-00" id="1"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 10D <rel type="=" target="レーベル" sid="wiki00282277-01" id="0"/>
-レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
+レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
 + 9D
@@ -108,7 +108,7 @@ EOS
 + 10D <rel type="ガ" target="物" sid="wiki00282277-01" id="10"/>
 別の べつの 別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D <rel type="ガ" target="レーベル" sid="wiki00282277-01" id="7"/><rel type="=" target="レーベル" sid="wiki00282277-01" id="7"/>
++ -1D <rel type="ガ" target="レーベル" sid="wiki00282277-01" id="7"/><rel type="ガ" mode="AND" target="会社" sid="wiki00282277-01" id="6"/><rel type="修飾" target="別の" sid="wiki00282277-01" id="9"/>
 物 もの 物 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

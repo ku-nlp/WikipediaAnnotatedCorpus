@@ -1,4 +1,4 @@
-# S-ID:wiki00229702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2022/11/10 MEMO:
 * 13D
 + 15D
 茶室 ちゃしつ 茶室 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -14,8 +14,8 @@
 + 4D <rel type="修飾" target="式" sid="wiki00229702-00-01" id="2"/>
 茶道 さどう 茶道 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12D
-+ 14D
+* 13D
++ 15D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
@@ -25,7 +25,7 @@
 * 7D
 + 7D <rel type="ガ" target="者" sid="wiki00229702-00-01" id="7"/><rel type="ヲ" target="茶事" sid="wiki00229702-00-01" id="5"/>
 主催 しゅさい 主催 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 9D <rel type="ノ？" target="主催" sid="wiki00229702-00-01" id="6"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -74,7 +74,7 @@ EOS
 + -1D <rel type="=" target="者" sid="wiki00229702-00-01" id="7"/>
 亭主 ていしゅ 亭主 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/10 MEMO:
 * 1D
 + 1D <rel type="=" target="茶" sid="wiki00229702-00-01" id="10"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
@@ -102,7 +102,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/10 MEMO:
 * 5D
 + 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="茶室" sid="wiki00229702-00-01" id="0"/>
 大別 たいべつ 大別 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -159,13 +159,13 @@ EOS
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/11/10 MEMO:
 * 1D
 + 1D <rel type="ガ" target="建物" sid="wiki00229702-03" id="1"/>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 2D
-+ 2D <rel type="=構" target="茶室" sid="wiki00229702-00-01" id="0"/>
++ 2D
 建物 たてもの 建物 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -186,12 +186,12 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 7D
++ 7D <rel type="=≒" target="書院" sid="wiki00229702-03" id="5"/>
 建物 たてもの 建物 名詞 6 普通名詞 1 * 0 * 0 NIL
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="ガ" target="茶室" sid="wiki00229702-00-01" id="0"/><rel type="ニ" target="建物内" sid="wiki00229702-03" id="6"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="外の関係" target="場合" sid="wiki00229702-03" id="8"/><rel type="=≒" target="書院" sid="wiki00229702-03" id="5"/>
++ 8D <rel type="ガ" target="茶室" sid="wiki00229702-00-01" id="0"/><rel type="ニ" target="建物内" sid="wiki00229702-03" id="6"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="外の関係" target="場合" sid="wiki00229702-03" id="8"/>
 造り つくり 造る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 込ま こま 込む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -204,7 +204,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:66.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:66.00000 MOD:2022/11/10 MEMO:
 * 1D
 + 1D
 いずれ いずれ いずれ 副詞 8 * 0 * 0 * 0 NIL
@@ -269,7 +269,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-05-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-05-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/11/10 MEMO:
 * 1D
 + 1D
 禅宗 ぜんしゅう 禅宗 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -305,7 +305,7 @@ EOS
 + 8D <rel type="ガ" target="もの" sid="wiki00229702-05-01" id="8"/><rel type="ヨリ" target="それ" sid="wiki00229702-05-01" id="6"/>
 狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 10I
-+ 10I
++ 10I <rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -313,14 +313,14 @@ EOS
 小間 こま 小間 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14P
-+ 14P <rel type="ヲ" target="もの" sid="wiki00229702-05-01" id="8"/><rel type="ト" target="茶室" sid="wiki00229702-05-01" id="10"/><rel type="修飾" target="小間" sid="wiki00229702-05-01" id="9"/><rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/>
++ 14P <rel type="ヲ" target="もの" sid="wiki00229702-05-01" id="8"/><rel type="ト" target="茶室" sid="wiki00229702-05-01" id="10"/><rel type="修飾" target="小間" sid="wiki00229702-05-01" id="9"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/><rel type="=構" mode="AND" target="もの" sid="wiki00229702-05-01" id="8"/>
 茶室 ちゃしつ 茶室 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 12D <rel type="ガ" target="もの" sid="wiki00229702-05-01" id="12"/><rel type="ヨリ" target="それ" sid="wiki00229702-05-01" id="6"/>
++ 12D <rel type="ガ" target="もの" sid="wiki00229702-05-01" id="12"/><rel type="ヨリ" target="それ" sid="wiki00229702-05-01" id="6"/><rel type="=≒" target="狭い" sid="wiki00229702-05-01" id="7"/>
 広い ひろい 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 14I
-+ 14I
++ 14I <rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
@@ -328,7 +328,7 @@ EOS
 広間 ひろま 広間 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 15D <rel type="修飾" target="広間" sid="wiki00229702-05-01" id="13"/><rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/>
++ 15D <rel type="修飾" target="広間" sid="wiki00229702-05-01" id="13"/><rel type="=≒" target="茶室" sid="wiki00229702-00-01" id="0"/><rel type="=構" mode="AND" target="もの" sid="wiki00229702-05-01" id="12"/>
 茶室 ちゃしつ 茶室 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -348,7 +348,7 @@ EOS
 + -1D <rel type="ガ" target="方丈" sid="wiki00229702-05-01" id="1"/><rel type="ノ" target="四方" sid="wiki00229702-05-02" id="1"/>
 意 い 意 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229702-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229702-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/11/10 MEMO:
 * 1P
 + 1D
 室町 むろまち 室町 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>

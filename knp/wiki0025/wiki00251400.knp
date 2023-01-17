@@ -1,4 +1,4 @@
-# S-ID:wiki00251400-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00251400-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/12/09 MEMO:
 * 7D
 + 9D
 階段 かいだん 階段 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -7,7 +7,7 @@
 * 2D
 + 2D
 高低 こうてい 高低 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="高低" sid="wiki00251400-00-01" id="1"/>
++ 3D <rel type="ノ？" target="高低" sid="wiki00251400-00-01" id="1"/>
 差 さ 差 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -19,11 +19,11 @@
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヘ" target="場所" sid="wiki00251400-00-01" id="4"/>
 移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="移動" sid="wiki00251400-00-01" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="移動" sid="wiki00251400-00-01" id="5"/><rel type="外の関係" target="ため" sid="wiki00251400-00-01" id="7"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 7D
 + 9D <rel type="ノ" target="行う" sid="wiki00251400-00-01" id="6"/>
@@ -32,16 +32,16 @@
 * -1D
 + 9D
 構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="階段" sid="wiki00251400-00-01" id="0"/><rel type="=" target="階段" sid="wiki00251400-00-01" id="0"/>
++ -1D <rel type="ガ" target="階段" sid="wiki00251400-00-01" id="0"/><rel type="=構" target="階段" sid="wiki00251400-00-01" id="0"/><rel type="ノ？" target="構造" sid="wiki00251400-00-01" id="8"/><memo text="CO"/>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00251400-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/16 MEMO:
 * -1D
 + -1D <rel type="=" target="階段" sid="wiki00251400-00-01" id="0"/>
-かいだん かいだん かいだん 名詞 6 サ変名詞 2 * 0 * 0 NIL
+かいだん かいだん かいだん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00251400-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/09 MEMO:
 * 1D
 + 1D
 人間 にんげん 人間 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -51,11 +51,11 @@ EOS
 足 あし 足 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="人間" sid="wiki00251400-01-01" id="0"/><rel type="ヲ" target="段" sid="wiki00251400-01-01" id="7"/>
++ 3D <rel type="ガ" target="人間" sid="wiki00251400-01-01" id="0"/><rel type="デ" target="足" sid="wiki00251400-01-01" id="1"/><rel type="ヲ" target="高さ" sid="wiki00251400-01-01" id="3"/>
 昇降 しょうこう 昇降 名詞 6 サ変名詞 2 * 0 * 0 NIL
 可能な かのうな 可能だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
-+ 4D
++ 4D <rel type="修飾" target="昇降可能な" sid="wiki00251400-01-01" id="2"/>
 高 たか 高い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -73,7 +73,7 @@ EOS
 + 7D <rel type="ガ" target="段" sid="wiki00251400-01-01" id="7"/>
 水平な すいへいな 水平だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 8D
-+ 8D
++ 8D <rel type="修飾" target="いくつも" sid="wiki00251400-01-01" id="5"/><rel type="修飾" mode="AND" target="水平な" sid="wiki00251400-01-01" id="6"/>
 段 だん 段 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -84,48 +84,46 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00251400-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/16 MEMO:
 * -1D
-+ -1D
-蹴 けり 蹴 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="高さ" sid="wiki00251400-01-01" id="3"/>
+蹴 け 蹴 名詞 6 普通名詞 1 * 0 * 0 NIL
 上げ あげ 上げ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-01-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00251400-01-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="段" sid="wiki00251400-01-01" id="7"/>
 踏み ふみ 踏む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL
-づら づら づらい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 語幹 1 NIL
+づら づら づら 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:13.00000
+# S-ID:wiki00251400-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:13.00000 MOD:2022/12/09 MEMO:
 * 2D
-+ 1D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL
-+ 3D
++ 1D <NE:OPTIONAL:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00251400-02-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 3P
++ 3P <rel type="ノ？" target="語" sid="wiki00251400-02-01" id="1"/>
 古語 こご 古語 名詞 6 普通名詞 1 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
-雅語 雅語 雅語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="語" sid="wiki00251400-02-01" id="1"/>
+雅語 がご 雅語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D
-きざ きざ きざだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-し し する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 基本連用形 8 NIL
++ 5D <rel type="修飾" target="古語" sid="wiki00251400-02-01" id="2"/><rel type="修飾" mode="AND" target="雅語" sid="wiki00251400-02-01" id="3"/><rel type="=構" target="階段" sid="wiki00251400-00-01" id="0"/>
+きざはし きざはし きざはし 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="段" sid="wiki00251400-01-01" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="階段" sid="wiki00251400-00-01" id="0"/><rel type="ト" target="きざはし" sid="wiki00251400-02-01" id="4"/><rel type="デ" target="古語" sid="wiki00251400-02-01" id="2"/><rel type="デ" mode="AND" target="雅語" sid="wiki00251400-02-01" id="3"/><rel type="デ" mode="？" target="なし"/>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251400-02-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00251400-02-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
 * -1D
-+ -1D <rel type="=" target="段" sid="wiki00251400-01-01" id="7"/>
-階 かい 階 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="きざはし" sid="wiki00251400-02-01" id="4"/>
+階 きざはし 階 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

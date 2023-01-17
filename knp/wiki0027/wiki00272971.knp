@@ -1,30 +1,30 @@
-# S-ID:wiki00272971-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00272971-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/16 MEMO:
 * 7D
-+ 1D
++ 2D
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 14D <rel type="ノ" target="自動車" sid="wiki00272971-00-01" id="1"/><NE:ORGANIZATION:国際自動車連盟>
++ 14D <NE:ORGANIZATION:国際自動車連盟>
 連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="国際" sid="wiki00272971-00-01" id="0"/>
++ 4D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="世界" sid="wiki00272971-00-01" id="3"/>
++ 6D <rel type="修飾" target="世界" sid="wiki00272971-00-01" id="3"/>
 各国 かっこく 各国 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 6D <rel type="=" target="自動車" sid="wiki00272971-00-01" id="1"/>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="自動車" sid="wiki00272971-00-01" id="5"/>
++ 7D <rel type="ノ？" target="各国" sid="wiki00272971-00-01" id="4"/><rel type="ノ？" mode="AND" target="自動車" sid="wiki00272971-00-01" id="5"/>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 8D
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 7D
-+ 14D <rel type="ガ" target="機関" sid="wiki00272971-00-01" id="11"/>
++ 14D <rel type="ニヨッテ" target="団体" sid="wiki00272971-00-01" id="6"/><rel type="ガ" target="機関" sid="wiki00272971-00-01" id="11"/><rel type="ガ" mode="AND" target="連盟" sid="wiki00272971-00-01" id="14"/>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -36,38 +36,38 @@
 * 7P
 + 11D <rel type="=" target="国際" sid="wiki00272971-00-01" id="0"/>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14P <rel type="=" target="連盟" sid="wiki00272971-00-01" id="2"/>
++ 14P <rel type="=構" target="連盟" sid="wiki00272971-00-01" id="2"/><rel type="修飾" target="非営利" sid="wiki00272971-00-01" id="9"/><rel type="修飾" mode="AND" target="国際" sid="wiki00272971-00-01" id="10"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 13D <rel type="=" target="国際" sid="wiki00272971-00-01" id="0"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 14D <rel type="=" target="国際" sid="wiki00272971-00-01" id="0"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 14D
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="連盟" sid="wiki00272971-00-01" id="2"/><rel type="=" target="連盟" sid="wiki00272971-00-01" id="2"/><NE:ORGANIZATION:国際競技連盟>
-連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="連盟" sid="wiki00272971-00-01" id="2"/><rel type="=構" target="連盟" sid="wiki00272971-00-01" id="2"/><rel type="修飾" target="国際" sid="wiki00272971-00-01" id="12"/><rel type="ノ？" target="競技" sid="wiki00272971-00-01" id="13"/><memo text="CO"/>
+連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00272971-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00272971-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
 * -1D
 + 2D <rel type="=" target="国際" sid="wiki00272971-00-01" id="0"/>
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D
-じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ -1D <rel type="=" target="機関" sid="wiki00272971-00-01" id="11"/><NE:ARTIFACT:こくさいじどうしゃれんめい>
-れんめい れんめい れんめい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="自動車" sid="wiki00272971-00-01" id="1"/>
+じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="連盟" sid="wiki00272971-00-01" id="2"/><NE:ORGANIZATION:こくさいじどうしゃれんめい>
+れんめい れんめい れんめい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00272971-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00272971-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/16 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ノ" target="連盟" sid="wiki00272971-00-01" id="2"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00272971-01" id="0"/><rel type="=" target="略称" sid="wiki00272971-01" id="0"/>
-FIA FIA FIA 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="略称" sid="wiki00272971-01" id="0"/><rel type="=構" target="略称" sid="wiki00272971-01" id="0"/><rel type="=" mode="AND" target="連盟" sid="wiki00272971-00-01" id="2"/><memo text="CO"/><NE:ORGANIZATION:FIA>
+FIA FIA FIA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00272971-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00272971-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/16 MEMO:
 * 3D
 + 3D <rel type="ノ" target="連盟" sid="wiki00272971-00-01" id="2"/>
 本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -77,7 +77,7 @@ EOS
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:パリ>
++ 3D <rel type="ノ？" target="フランス" sid="wiki00272971-02" id="1"/><NE:LOCATION:パリ>
 パリ ぱり パリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -85,23 +85,23 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00272971-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00272971-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/16 MEMO:
 * 1D
 + 1D <NE:DATE:2009年>
-2009 2009 2009 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+2009 にせんきゅう/にせんく 2009 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 + 2D
 以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="連盟" sid="wiki00272971-00-01" id="2"/>
++ 4D <rel type="ノ" target="連盟" sid="wiki00272971-00-01" id="2"/><rel type="カラ" target="2009年" sid="wiki00272971-03" id="0"/>
 会長 かいちょう 会長 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 4D
-ジャン ジャン ジャン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+ジャン じゃん ジャン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <rel type="ガ" target="会長" sid="wiki00272971-03" id="2"/><rel type="=" target="会長" sid="wiki00272971-03" id="2"/><NE:PERSON:ジャン・トッド>
-トッド トッド トッド 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ -1D <rel type="ガ" target="会長" sid="wiki00272971-03" id="2"/><rel type="=構" target="会長" sid="wiki00272971-03" id="2"/><memo text="CO"/><NE:PERSON:ジャン・トッド>
+トッド とっど トッド 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

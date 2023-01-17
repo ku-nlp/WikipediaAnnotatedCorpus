@@ -1,29 +1,29 @@
-# S-ID:wiki00281137-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00281137-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/12/16 MEMO:
 * 12D
 + 1D
 差動 さどう 差動 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D
++ 14D <rel type="ノ？" target="差動" sid="wiki00281137-00-01" id="0"/>
 装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <rel type="ガ" target="機構" sid="wiki00281137-00-01" id="3"/>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 + 4D
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 12D
-+ 14D <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="1"/><rel type="ノ" target="機構" sid="wiki00281137-00-01" id="3"/><rel type="=" target="装置" sid="wiki00281137-00-01" id="1"/>
+* 12P
++ 14P <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="1"/><rel type="ノ" target="機構" sid="wiki00281137-00-01" id="3"/><rel type="=構" target="装置" sid="wiki00281137-00-01" id="1"/>
 一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ" target="部分" sid="wiki00281137-00-01" id="6"/>
-二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
+二 ふた 二 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ノ" target="装置" sid="wiki00281137-00-01" id="1"/>
++ 7D <rel type="修飾" target="二つ" sid="wiki00281137-00-01" id="5"/>
 部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -51,32 +51,32 @@
 + 13P <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="14"/><rel type="ヲ" target="差" sid="wiki00281137-00-01" id="11"/><rel type="ニ" target="動力" sid="wiki00281137-00-01" id="10"/>
 つけ つけ つける 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 * 12D
-+ 14D <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="14"/><rel type="ヲ" target="動力" sid="wiki00281137-00-01" id="10"/><rel type="ニ" target="動力" sid="wiki00281137-00-01" id="10"/>
++ 14D <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="14"/><rel type="ヲ" target="動力" sid="wiki00281137-00-01" id="10"/>
 振り分ける ふりわける 振り分ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="1"/><rel type="=" target="装置" sid="wiki00281137-00-01" id="1"/>
++ -1D <rel type="ガ" target="装置" sid="wiki00281137-00-01" id="1"/><rel type="=構" target="装置" sid="wiki00281137-00-01" id="1"/><memo text="CO"/>
 装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00281137-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00281137-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
 * -1D
 + 1D <rel type="=" target="差動" sid="wiki00281137-00-01" id="0"/>
-さどう さどう さどう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="一種" sid="wiki00281137-00-01" id="4"/>
-そうち そうち そうち 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さどう さどう さどう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="装置" sid="wiki00281137-00-01" id="1"/>
+そうち そうち そうち 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00281137-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00281137-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/16 MEMO:
 * 1D
 + 1D
 歯車 はぐるま 歯車 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="歯車" sid="wiki00281137-01" id="0"/><rel type="ニ" target="歯車" sid="wiki00281137-01" id="3"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="歯車" sid="wiki00281137-01" id="0"/><rel type="ニ" target="装置" sid="wiki00281137-00-01" id="14"/>
 使った つかった 使う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 5P
 + 3D <rel type="=" target="差動" sid="wiki00281137-00-01" id="0"/>
 差動 さどう 差動 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6P
++ 6P <rel type="修飾" target="差動" sid="wiki00281137-01" id="2"/><rel type="=≒" target="装置" sid="wiki00281137-00-01" id="1"/>
 歯車 はぐるま 歯車 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -87,12 +87,12 @@ EOS
 + 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ねじ" sid="wiki00281137-01" id="4"/><rel type="ニ" target="もの" sid="wiki00281137-01" id="6"/>
 使った つかった 使う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 6D
-+ 7D
++ 7D <rel type="=≒" target="装置" sid="wiki00281137-00-01" id="14"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="歯車" sid="wiki00281137-01" id="3"/><rel type="ニ" target="装置" sid="wiki00281137-00-01" id="1"/>
++ -1D <rel type="ニ" target="装置" sid="wiki00281137-00-01" id="1"/><rel type="ガ" target="歯車" sid="wiki00281137-01" id="3"/><rel type="ガ" mode="AND" target="ものなど" sid="wiki00281137-01" id="6"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

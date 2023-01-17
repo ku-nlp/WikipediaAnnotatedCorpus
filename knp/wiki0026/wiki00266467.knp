@@ -1,9 +1,9 @@
-# S-ID:wiki00266467-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00266467-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/06 MEMO:
 * 2D
 + 1D
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 5D
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 5D <NE:OPTIONAL:大正天皇>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -12,139 +12,120 @@
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + 4D
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-123 123 123 名詞 6 数詞 7 * 0 * 0 NIL
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+123 ひゃくにじゅうさん 123 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="天皇" sid="wiki00266467-00-01" id="1"/><rel type="=" target="天皇" sid="wiki00266467-00-01" id="1"/>
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ガ" target="天皇" sid="wiki00266467-00-01" id="1"/><rel type="修飾" target="代" sid="wiki00266467-00-01" id="4"/><rel type="=構" target="天皇" sid="wiki00266467-00-01" id="1"/><memo text="CO"/><NE:OPTIONAL:第123代天皇>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00266467-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 8P
+# S-ID:wiki00266467-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
+* 2D
 + 1D <rel type="=" target="大正" sid="wiki00266467-00-01" id="0"/>
-たいしょう たいしょう たいしょう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P <rel type="=" target="天皇" sid="wiki00266467-00-01" id="5"/>
-てんのう てんのう てんのう 名詞 6 普通名詞 1 * 0 * 0 NIL
+たいしょう たいしょう たいしょう 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 11D <rel type="=" target="天皇" sid="wiki00266467-00-01" id="5"/><NE:OPTIONAL:たいしょうてんのう>
+てんのう てんのう てんのう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:DATE:1879年>
-1879 1879 1879 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-* 3D
 + 4D
-〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 5D <NE:DATE:明治12年>
-12 12 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
-* 4D
+1879 せんはっぴゃくななじゅうく/せんはっぴゃくななじゅうきゅう 1879 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 4D
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <rel type="=" target="1879年" sid="wiki00266467-00-02" id="2"/>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
 + 6D
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 8D
-+ 11D <NE:DATE:8月31日>
-31 31 31 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 11D <NE:DATE:1879年〈明治12年〉8月31日>
+31 さんじゅういち 31 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 8D
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 9D
+1926 せんきゅうひゃくにじゅうろく 1926 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 9D <rel type="=" target="大正" sid="wiki00266467-00-01" id="0"/>
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <rel type="=" target="1926年" sid="wiki00266467-00-02" id="7"/>
+15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
 + 11D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 7D
-+ 9D
-1926 1926 1926 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 8D
-+ 10D
-〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 11D <NE:DATE:大正15年>
-15 15 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
-* 9D
-+ 12D
-12 12 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* -1D
-+ -1D <NE:DATE:12月25日>
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="31日" sid="wiki00266467-00-02" id="6"/><rel type="マデ" target="25日" sid="wiki00266467-00-02" id="11"/><NE:DATE:1926年〈大正15年〉12月25日>
+25 にじゅうご 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00266467-00-03 括弧始:（ 括弧終:） 括弧位置:66 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D <rel type="ガ" target="天皇" sid="wiki00266467-00-01" id="1"/>
+# S-ID:wiki00266467-00-03 括弧始:（ 括弧終:） 括弧位置:66 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
+* 2D
++ 14D <rel type="ガ" target="天皇" sid="wiki00266467-00-01" id="1"/><rel type="カラ" target="30日" sid="wiki00266467-00-03" id="7"/><rel type="マデ" target="25日" sid="wiki00266467-00-03" id="14"/>
 在位 ざいい 在位 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 4D
-+ 9D
-1912 1912 1912 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 3D
-+ 4D
-〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 7D <NE:DATE:明治45年>
-45 45 45 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 6D
-／ ／ ／ 特殊 1 記号 5 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+* 2D
++ 5D
+1912 せんきゅうひゃくじゅうに 1912 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 3D
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5P <rel type="=" target="1912年" sid="wiki00266467-00-03" id="1"/>
+45 よんじゅうご 45 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+／ ／ ／ 特殊 1 記号 5 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <rel type="=" target="大正" sid="wiki00266467-00-02" id="8"/>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <rel type="=" target="1912年" sid="wiki00266467-00-03" id="1"/><rel type="=" mode="AND" target="45年" sid="wiki00266467-00-03" id="3"/>
+元年 がんねん 元年 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
 + 7D
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 8D <NE:DATE:大正元年>
-元年 がんねん 元年 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
-〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
-* 4D
-+ 9D
-7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 8D
-+ 17D <NE:DATE:7月30日>
-30 30 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 14D <NE:DATE:1912年〈明治45年／大正元年〉7月30日>
+30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 8D
-+ 17D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 7D
-+ 12D <rel type="=" target="1926年" sid="wiki00266467-00-02" id="8"/>
-1926 1926 1926 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 8D
-+ 14D
-〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 14D <rel type="=" target="1926年" sid="wiki00266467-00-02" id="8"/><NE:DATE:大正15年>
-15 15 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 16D
-／ ／ ／ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 17D <NE:DATE:昭和元年>
-元年 がんねん 元年 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
-〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
-* 9D
-+ 18D
-12 12 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * -1D
-+ -1D <NE:DATE:12月25日>
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 12D
+1926 せんきゅうひゃくにじゅうろく 1926 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <rel type="=" target="大正" sid="wiki00266467-00-03" id="4"/>
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 12P <rel type="=" target="1926年" sid="wiki00266467-00-03" id="8"/>
+15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+／ ／ ／ 特殊 1 記号 5 * 0 * 0 NIL <NE:DATE:middle>
++ 12D
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <rel type="=" target="1926年" sid="wiki00266467-00-03" id="8"/><rel type="=" mode="AND" target="15年" sid="wiki00266467-00-03" id="10"/>
+元年 がんねん 元年 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
++ 14D
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <NE:DATE:1926年〈大正15年／昭和元年〉12月25日>
+25 にじゅうご 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00266467-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00266467-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/12/14 MEMO:
 * 1D
 + 1D <rel type="ノ" target="天皇" sid="wiki00266467-00-01" id="1"/>
-諱 諱 諱 名詞 6 普通名詞 1 * 0 * 0 NIL
+諱 いみな 諱 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=" target="諱" sid="wiki00266467-01-01" id="0"/>
-嘉仁 嘉仁 嘉仁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="ガ" target="諱" sid="wiki00266467-01-01" id="0"/><rel type="=構" target="諱" sid="wiki00266467-01-01" id="0"/><memo text="CO"/><NE:PERSON:嘉仁>
+嘉仁 よしひと 嘉仁 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ" target="天皇" sid="wiki00266467-00-01" id="1"/><rel type="=" target="嘉仁" sid="wiki00266467-01-01" id="1"/>
@@ -152,39 +133,33 @@ EOS
 称号 しょうごう 称号 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="御称号" sid="wiki00266467-01-01" id="2"/><rel type="=" target="御称号" sid="wiki00266467-01-01" id="2"/>
-明宮 明宮 明宮 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="御称号" sid="wiki00266467-01-01" id="2"/><rel type="=構" target="御称号" sid="wiki00266467-01-01" id="2"/><memo text="CO 人名とした"/><NE:OPTIONAL:明宮>
+明宮 はるのみや 明宮 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00266467-01-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D
-よし よし よい 形容詞 3 * 0 イ形容詞アウオ段 18 文語基本形 18 NIL
+# S-ID:wiki00266467-01-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/06 MEMO:
 * -1D
-+ -1D <rel type="=" target="御称号" sid="wiki00266467-01-01" id="2"/>
-ひと ひと ひと 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="嘉仁" sid="wiki00266467-01-01" id="1"/><NE:PERSON:よしひと>
+よしひと よしひと よしひと 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 EOS
-# S-ID:wiki00266467-01-03 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D <rel type="=" target="諱" sid="wiki00266467-01-01" id="0"/>
-はる はる はる 名詞 6 時相名詞 10 * 0 * 0 NIL
+# S-ID:wiki00266467-01-03 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="諱" sid="wiki00266467-01-01" id="0"/>
-のみや のみや のみや 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="明宮" sid="wiki00266467-01-01" id="3"/><NE:OPTIONAL:はるのみや>
+はるのみや はるのみや はるのみや 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00266467-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00266467-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/06 MEMO:
 * 1D
 + 1D <rel type="ノ" target="天皇" sid="wiki00266467-00-01" id="1"/>
 お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 印 しるし 印 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="お印" sid="wiki00266467-02-01" id="0"/><rel type="=" target="お印" sid="wiki00266467-02-01" id="0"/><NE:PERSON:壽>
-壽 壽 壽 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ -1D <rel type="ガ" target="お印" sid="wiki00266467-02-01" id="0"/><rel type="=構" target="お印" sid="wiki00266467-02-01" id="0"/><memo text="CO"/>
+壽 じゅ 壽 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00266467-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00266467-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="お印" sid="wiki00266467-02-01" id="0"/>
++ -1D <rel type="=" target="壽" sid="wiki00266467-02-01" id="1"/>
 じゅ じゅ じゅ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

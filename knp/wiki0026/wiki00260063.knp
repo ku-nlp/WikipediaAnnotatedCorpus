@@ -1,44 +1,44 @@
-# S-ID:wiki00260063-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00260063-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/13 MEMO:
 * 5D
-+ 1D
++ 1D <rel type="ガ" target="不特定:物1"/><rel type="ト" target="不特定:物2"/><rel type="外の関係" target="音" sid="wiki00260063-00-01" id="1"/><memo text="ガト交替可"/>
 摩擦 まさつ 摩擦 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D
-音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ニヨッテ" target="摩擦" sid="wiki00260063-00-01" id="0"/>
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-調音 ちょうおん 調音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ガ" target="不特定:人"/><rel type="デ" target="方法" sid="wiki00260063-00-01" id="3"/>
+調音 ちょうおん 調音 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 4D <rel type="ノ" target="調音" sid="wiki00260063-00-01" id="2"/>
 方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 3D
-+ 5D
+* 4D
++ 6D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 4D
 + 6D
 子音 しいん 子音 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="子音" sid="wiki00260063-00-01" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="子音" sid="wiki00260063-00-01" id="5"/><rel type="ニヨッテ" target="方法" sid="wiki00260063-00-01" id="3"/>
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="音" sid="wiki00260063-00-01" id="1"/><rel type="ノ" target="分類" sid="wiki00260063-00-01" id="6"/><rel type="=" target="音" sid="wiki00260063-00-01" id="1"/>
-一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
++ -1D <rel type="ガ" target="音" sid="wiki00260063-00-01" id="1"/><rel type="ノ" target="分類" sid="wiki00260063-00-01" id="6"/><rel type="=構" target="音" sid="wiki00260063-00-01" id="1"/><memo text="CO 副詞→名詞に"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00260063-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00260063-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ 1D <rel type="=" target="一種" sid="wiki00260063-00-01" id="7"/>
++ 1D <rel type="=" target="摩擦" sid="wiki00260063-00-01" id="0"/>
 まさつ まさつ まさつ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="一種" sid="wiki00260063-00-01" id="7"/>
++ -1D <rel type="=" target="音" sid="wiki00260063-00-01" id="1"/>
 おん おん おん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00260063-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00260063-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/11/25 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="不特定:人"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="=" target="調音" sid="wiki00260063-00-01" id="2"/>
 調音 ちょうおん 調音 名詞 6 普通名詞 1 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
@@ -46,7 +46,7 @@ EOS
 際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D
++ 5D <rel type="ノ" target="不特定:人"/>
 声道 せいどう 声道 名詞 6 普通名詞 1 * 0 * 0 NIL
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -54,15 +54,15 @@ EOS
 + 4D <rel type="ガ" target="隙間" sid="wiki00260063-01" id="4"/>
 狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 5D
-+ 5D
++ 5D <rel type="=" target="不特定:物1"/>
 隙間 すきま 隙間 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="隙間" sid="wiki00260063-01" id="4"/><rel type="ニ" target="声道内" sid="wiki00260063-01" id="2"/>
++ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="隙間" sid="wiki00260063-01" id="4"/><rel type="ニ" target="声道内" sid="wiki00260063-01" id="2"/><rel type="時間" target="際" sid="wiki00260063-01" id="1"/>
 つくり つくり つくる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 9D
++ 9D <rel type="=" target="不特定:物2"/>
 空気 くうき 空気 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -76,7 +76,7 @@ EOS
 + 10D <rel type="ガ" target="空気" sid="wiki00260063-01" id="6"/><rel type="ヲ" target="狭め" sid="wiki00260063-01" id="8"/>
 通る とおる 通る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 12D
-+ 12D
++ 12D <rel type="ノ" target="通る" sid="wiki00260063-01" id="9"/><rel type="ノ" mode="AND" target="つくり" sid="wiki00260063-01" id="5"/>
 とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
@@ -84,38 +84,38 @@ EOS
 噪音 そうおん 噪音 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="音" sid="wiki00260063-00-01" id="1"/><rel type="ヲ" target="噪音" sid="wiki00260063-01" id="11"/>
++ -1D <rel type="ヲ" target="噪音" sid="wiki00260063-01" id="11"/><rel type="時間" target="とき" sid="wiki00260063-01" id="10"/><rel type="ガ" target="不特定:状況"/><rel type="デ" target="声道" sid="wiki00260063-01" id="2"/>
 発する はっする 発する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00260063-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00260063-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/13 MEMO:
 * 1D
-+ 1D <rel type="=" target="調音" sid="wiki00260063-00-01" id="2"/>
-調音 ちょうおん 調音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="調音する" sid="wiki00260063-01" id="0"/>
+調音 ちょうおん 調音 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 2D <rel type="ノ" target="調音" sid="wiki00260063-02" id="0"/>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="点" sid="wiki00260063-02" id="1"/><rel type="=" target="隙間" sid="wiki00260063-01" id="4"/>
++ 4D <rel type="修飾" target="点" sid="wiki00260063-02" id="1"/><rel type="=≒" target="隙間" sid="wiki00260063-01" id="4"/><rel type="=構" mode="AND" target="点" sid="wiki00260063-02" id="1"/>
 隙間 すきま 隙間 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="隙間" sid="wiki00260063-02" id="2"/>
++ 4D <rel type="=" target="隙間" sid="wiki00260063-01" id="4"/>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="隙間" sid="wiki00260063-02" id="2"/>
++ 7D <rel type="ガ" target="隙間" sid="wiki00260063-02" id="2"/><rel type="ヨリ" target="これ" sid="wiki00260063-02" id="3"/><rel type="=" target="狭い" sid="wiki00260063-01" id="3"/>
 狭い せまい 狭い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="点" sid="wiki00260063-02" id="1"/>
++ 6D <rel type="ガ" target="不特定:物"/>
 破裂 はれつ 破裂 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ニヨッテ" target="破裂" sid="wiki00260063-02" id="5"/>
 音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 12P <rel type="ガ" target="隙間" sid="wiki00260063-02" id="2"/><rel type="ニ" target="音" sid="wiki00260063-02" id="6"/>
++ 12P <rel type="ニ" target="音" sid="wiki00260063-02" id="6"/><rel type="ガ" target="不特定:状況"/>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
@@ -124,17 +124,17 @@ EOS
 より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="隙間" sid="wiki00260063-02" id="2"/>
++ 12D <rel type="ガ" target="隙間" sid="wiki00260063-02" id="2"/><rel type="ヨリ" target="これ" sid="wiki00260063-02" id="8"/><rel type="=≒" target="狭い" sid="wiki00260063-02" id="4"/>
 広い ひろい 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ニ" target="不特定:人"/>
++ 11D <rel type="ガ" target="不特定:物"/><rel type="ト" target="不特定:物"/>
 接近 せっきん 接近 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D
++ 12D <rel type="ニヨッテ" target="接近" sid="wiki00260063-02" id="10"/>
 音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="音" sid="wiki00260063-00-01" id="1"/><rel type="ニ" target="音" sid="wiki00260063-02" id="11"/>
++ -1D <rel type="ニ" target="音" sid="wiki00260063-02" id="11"/><rel type="ガ" target="不特定:状況"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

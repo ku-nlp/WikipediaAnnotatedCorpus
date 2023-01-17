@@ -1,10 +1,10 @@
-# S-ID:wiki00251837-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:84.00000
-* 15D
-+ 1D <rel type="ガ" target="員" sid="wiki00251837-00-01" id="1"/><rel type="ヲ" target="事件ごと" sid="wiki00251837-00-01" id="10"/>
+# S-ID:wiki00251837-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:84.00000 MOD:2022/12/09 MEMO:
+* 14D
++ 1D <rel type="ガ" target="員" sid="wiki00251837-00-01" id="1"/><rel type="ヲ" target="事件" sid="wiki00251837-00-01" id="10"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="裁判" sid="wiki00251837-00-01" id="0"/>
++ 2D <rel type="ノ？" target="裁判" sid="wiki00251837-00-01" id="0"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D
++ 22D <rel type="ノ" target="員" sid="wiki00251837-00-01" id="1"/>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -16,95 +16,94 @@
 * 3D
 + 5D
 刑事 けいじ 刑事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="不特定:人"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="特定" sid="wiki00251837-00-01" id="3"/><rel type="修飾" mode="AND" target="刑事" sid="wiki00251837-00-01" id="4"/><rel type="=" target="裁判" sid="wiki00251837-00-01" id="0"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12D
+* 11D
 + 17D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 8D
 満 まん 満 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 6D
-+ 9D
-20 20 20 名詞 6 数詞 7 * 0 * 0 NIL
++ 9D <rel type="修飾" target="満" sid="wiki00251837-00-01" id="7"/>
+20 にじゅっ 20 名詞 6 数詞 7 * 0 * 0 NIL
 歳 さい 歳 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
-+ 11D
+* 7D
++ 11D <rel type="修飾" target="20歳以上" sid="wiki00251837-00-01" id="8"/><rel type="ノ" target="日本" sid="wiki00251837-00-01" id="18"/>
 国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
+* 7D
 + 11D
 事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
-+ 13D <rel type="ガ" target="員" sid="wiki00251837-00-01" id="13"/><rel type="ニ" target="不特定:人"/>
+* 8D
++ 13D <rel type="ガ" target="員" sid="wiki00251837-00-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="カラ" target="国民" sid="wiki00251837-00-01" id="9"/>
 選ば えらば 選ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
-* 12D
+* 11D
 + 13D <rel type="=" target="裁判" sid="wiki00251837-00-01" id="0"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 17D <rel type="=" target="員" sid="wiki00251837-00-01" id="1"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12D
-+ 15D <rel type="ガ" target="官とともに" sid="wiki00251837-00-01" id="15"/><rel type="=" target="裁判" sid="wiki00251837-00-01" id="0"/>
+* 11D
++ 15D <rel type="ガ" target="官" sid="wiki00251837-00-01" id="15"/><rel type="=≒" target="裁判" sid="wiki00251837-00-01" id="0"/><rel type="ヲ" target="事件" sid="wiki00251837-00-01" id="10"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D <rel type="ノ" target="裁判" sid="wiki00251837-00-01" id="14"/>
++ 17D <rel type="ノ？" target="裁判" sid="wiki00251837-00-01" id="14"/>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
-* 12D
-+ 17D <rel type="ガ" target="官とともに" sid="wiki00251837-00-01" id="15"/><rel type="ヲ" target="事件ごと" sid="wiki00251837-00-01" id="10"/>
+* 11D
++ 17D <rel type="ガ" target="官" sid="wiki00251837-00-01" id="15"/><rel type="ガ" mode="AND" target="員" sid="wiki00251837-00-01" id="13"/><rel type="ヲ" target="事件" sid="wiki00251837-00-01" id="10"/>
 審理 しんり 審理 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 14D
-+ 21D <rel type="ガ" target="員" sid="wiki00251837-00-01" id="13"/><rel type="ニ" target="審理" sid="wiki00251837-00-01" id="16"/>
+* 13D
++ 21D <rel type="ニ" target="審理" sid="wiki00251837-00-01" id="16"/><rel type="ニオイテ" target="裁判" sid="wiki00251837-00-01" id="5"/><rel type="ガ" target="員" sid="wiki00251837-00-01" id="13"/><rel type="ガ" mode="AND" target="官" sid="wiki00251837-00-01" id="15"/><rel type="外の関係" target="制度" sid="wiki00251837-00-01" id="21"/>
 参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 14D
+* 13D
 + 21D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 15D
-+ 20D
+* 14D
++ 20P
 司法 しほう 司法 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 21D <rel type="=" target="裁判" sid="wiki00251837-00-01" id="5"/>
++ 21D <rel type="=" target="裁判" sid="wiki00251837-00-01" id="14"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="事件" sid="wiki00251837-00-01" id="10"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 22D <rel type="ノ" target="裁判" sid="wiki00251837-00-01" id="20"/><rel type="=" target="制度" sid="wiki00251837-00-01" id="2"/>
++ 22D <rel type="=構" target="制度" sid="wiki00251837-00-01" id="2"/><rel type="ノ" target="裁判" sid="wiki00251837-00-01" id="20"/><rel type="ノ" mode="AND" target="司法" sid="wiki00251837-00-01" id="19"/><rel type="トイウ" target="参加する" sid="wiki00251837-00-01" id="17"/><rel type="ノ？" target="日本" sid="wiki00251837-00-01" id="18"/>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制度" sid="wiki00251837-00-01" id="21"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制度" sid="wiki00251837-00-01" id="21"/><rel type="ト" target="制度" sid="wiki00251837-00-01" id="2"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251837-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00251837-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
 * -1D
-+ 1D
++ 1D <rel type="=" target="裁判" sid="wiki00251837-00-01" id="0"/>
 さいばん さいばん さいばん 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 2D <rel type="=" target="員" sid="wiki00251837-00-01" id="1"/>
-いん いん いん 名詞 6 サ変名詞 2 * 0 * 0 NIL
+いん いん いん 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="制度" sid="wiki00251837-00-01" id="2"/>
 せいど せいど せいど 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00251837-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:135.00000
+# S-ID:wiki00251837-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:135.00000 MOD:2022/12/09 MEMO:
 * 1D
 + 1D <rel type="=" target="日本" sid="wiki00251837-00-01" id="18"/><NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="体系" sid="wiki00251837-01" id="4"/>
++ 4D <rel type="ガ" target="体系" sid="wiki00251837-01" id="4"/><rel type="ト" target="日本" sid="wiki00251837-01" id="0"/>
 同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
 * 3D
 + 3D <NE:LOCATION:ローマ>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D
++ 4D <rel type="修飾" target="ローマ" sid="wiki00251837-01" id="2"/>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <rel type="ノ" target="法" sid="wiki00251837-01" id="3"/>
 体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -117,7 +116,7 @@ EOS
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D
++ 12D <rel type="ノ？" target="ヨーロッパ" sid="wiki00251837-01" id="6"/>
 国々 くにぐに 国々 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -125,35 +124,35 @@ EOS
 + 12D
 古くから ふるくから 古くから 副詞 8 * 0 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="制" sid="wiki00251837-01" id="11"/>
++ 11D <rel type="ガ" target="制" sid="wiki00251837-01" id="11"/><rel type="ト" target="制度" sid="wiki00251837-00-01" id="2"/>
 同様の どうようの 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 9D
-+ 11D
++ 11D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="参加する" sid="wiki00251837-00-01" id="17"/><rel type="外の関係" target="制" sid="wiki00251837-01" id="11"/>
 参審 さんしん 参審 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D <rel type="ノ" target="参審" sid="wiki00251837-01" id="10"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12P
-+ 16P <rel type="ガ" target="制" sid="wiki00251837-01" id="11"/>
+* 13P
++ 17P <rel type="ガ" target="制" sid="wiki00251837-01" id="11"/><rel type="デ" target="国々" sid="wiki00251837-01" id="7"/>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ガ" target="もの" sid="wiki00251837-01" id="14"/><rel type="ニ" target="制" sid="wiki00251837-01" id="11"/>
++ 14D <rel type="ガ" target="もの" sid="wiki00251837-01" id="14"/><rel type="=" target="参審" sid="wiki00251837-01" id="10"/><rel type="=≒" mode="AND" target="参加する" sid="wiki00251837-00-01" id="17"/>
 参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 12D
-+ 16D <rel type="=" target="員" sid="wiki00251837-00-01" id="13"/>
+* 13D
++ 17D <rel type="修飾" target="参加する" sid="wiki00251837-01" id="13"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="=" target="参審" sid="wiki00251837-01" id="10"/>
++ 16D <rel type="=" target="参審" sid="wiki00251837-01" id="10"/><rel type="ガ" target="員" sid="wiki00251837-01" id="16"/>
 参審 さんしん 参審 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="=" target="員" sid="wiki00251837-00-01" id="13"/>
++ 17D <rel type="ノ？" target="参審" sid="wiki00251837-01" id="15"/><rel type="=構" target="もの" sid="wiki00251837-01" id="14"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="もの" sid="wiki00251837-01" id="14"/><rel type="ヲ" target="もの" sid="wiki00251837-01" id="14"/>
++ -1D <rel type="ヲ" target="もの" sid="wiki00251837-01" id="14"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="員" sid="wiki00251837-01" id="16"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,66 +1,66 @@
-# S-ID:wiki00237709-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000
+# S-ID:wiki00237709-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/11/24 MEMO:
 * 9D
-+ 12D <rel type="ガ" target="不特定:人"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 免職 めんしょく 免職 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 2D <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="員" sid="wiki00237709-00-01" id="5"/>
++ 2D <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="員" sid="wiki00237709-00-01" id="5"/><rel type="ニ" target="職" sid="wiki00237709-00-01" id="6"/><rel type="外の関係" target="権" sid="wiki00237709-00-01" id="2"/>
 任命 にんめい 任命 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ" target="任命" sid="wiki00237709-00-01" id="1"/>
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="権" sid="wiki00237709-00-01" id="2"/>
+者 じゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D
 公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="公務" sid="wiki00237709-00-01" id="4"/>
++ 6D <rel type="ノ？" target="公務" sid="wiki00237709-00-01" id="4"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D
++ 8D <rel type="ノ？" target="員" sid="wiki00237709-00-01" id="5"/>
 職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 8D
 一方的に いっぽうてきに 一方的だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 7P
-+ 10P <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="職" sid="wiki00237709-00-01" id="6"/>
++ 10P <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="職" sid="wiki00237709-00-01" id="6"/><rel type="外の関係" target="処分" sid="wiki00237709-00-01" id="11"/>
 免じ めんじ 免ずる 動詞 2 * 0 ザ変動詞 17 基本連用形 8 NIL
 * 7D
-+ 10D <rel type="ノ" target="員" sid="wiki00237709-00-01" id="5"/>
++ 10D <rel type="トイウ" target="員" sid="wiki00237709-00-01" id="5"/>
 身分 みぶん 身分 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="身分" sid="wiki00237709-00-01" id="9"/>
++ 11D <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="身分" sid="wiki00237709-00-01" id="9"/><rel type="外の関係" target="処分" sid="wiki00237709-00-01" id="11"/>
 失わ うしなわ 失う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 9D
-+ 12D <rel type="=" target="免職" sid="wiki00237709-00-01" id="0"/>
++ 12D <rel type="=構" target="免職" sid="wiki00237709-00-01" id="0"/><rel type="トイウ" target="免じ" sid="wiki00237709-00-01" id="8"/><rel type="トイウ" mode="AND" target="失わせる" sid="wiki00237709-00-01" id="10"/>
 処分 しょぶん 処分 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="処分" sid="wiki00237709-00-01" id="11"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="処分" sid="wiki00237709-00-01" id="11"/><rel type="ト" target="免職" sid="wiki00237709-00-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00237709-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00237709-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * -1D
-+ -1D <rel type="=" target="処分" sid="wiki00237709-00-01" id="11"/>
++ -1D <rel type="=" target="免職" sid="wiki00237709-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 めんしょく めんしょく めんしょく 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00237709-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00237709-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * -1D
-+ 1D <rel type="=" target="処分" sid="wiki00237709-00-01" id="11"/>
-解き とき 解き 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="ヲ" target="職" sid="wiki00237709-00-01" id="6"/><rel type="=" target="免じ" sid="wiki00237709-00-01" id="8"/>
+解き とき 解く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="職" sid="wiki00237709-00-01" id="6"/>
++ -1D <rel type="ヲ" target="職" sid="wiki00237709-00-01" id="6"/><rel type="ガ" target="者" sid="wiki00237709-00-01" id="3"/><rel type="=" target="免じ" sid="wiki00237709-00-01" id="8"/>
 剥奪 はくだつ 剥奪 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 EOS
-# S-ID:wiki00237709-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00237709-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/11/24 MEMO:
 * 12D
 + 14D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
@@ -69,14 +69,14 @@ EOS
 通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="処分" sid="wiki00237709-00-01" id="11"/>
++ 3D <rel type="=" target="免職" sid="wiki00237709-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 免職 めんしょく 免職 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 7D
-+ 8D <rel type="=" target="処分" sid="wiki00237709-00-01" id="11"/>
++ 8D <rel type="トイウ" target="免職" sid="wiki00237709-01" id="2"/>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
@@ -89,30 +89,30 @@ EOS
 + 8D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 12P
-+ 14P <rel type="ガ" target="表現" sid="wiki00237709-01" id="4"/><rel type="ニ" target="不特定:人"/>
++ 14P <rel type="ガ" target="表現" sid="wiki00237709-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="ニタイシテ" target="員" sid="wiki00237709-01" id="6"/>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
 + 10D
 民間 みんかん 民間 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D
++ 14D <rel type="修飾" target="民間" sid="wiki00237709-01" id="9"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="=" target="処分" sid="wiki00237709-00-01" id="11"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=≒" target="免職" sid="wiki00237709-00-01" id="0"/>
 解雇 かいこ 解雇 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
 + 13D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 12D
-+ 14D <rel type="=" target="表現" sid="wiki00237709-01" id="4"/>
++ 14D <rel type="トイウ" target="解雇" sid="wiki00237709-01" id="11"/><rel type="=≒" target="表現" sid="wiki00237709-01" id="4"/>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="表現" sid="wiki00237709-01" id="13"/>
++ -1D <rel type="ガ" target="表現" sid="wiki00237709-01" id="13"/><rel type="デ" target="企業" sid="wiki00237709-01" id="10"/>
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

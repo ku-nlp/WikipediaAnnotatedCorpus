@@ -1,13 +1,13 @@
-# S-ID:wiki00240022-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00240022-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/08 MEMO:
 * 12D
-+ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="領域" sid="wiki00240022-00" id="3"/>
++ 14D <rel type="ヲ" target="領域" sid="wiki00240022-00" id="3"/><rel type="ガ" target="不特定:人1"/>
 占領 せんりょう 占領 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 + 3D
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -17,7 +17,7 @@
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
 + 5P <rel type="ノ" target="領域" sid="wiki00240022-00" id="3"/>
-全部 ぜんぶ 全部 副詞 8 * 0 * 0 * 0 NIL
+全部 ぜんぶ 全部 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
 + 13D <rel type="ノ" target="領域" sid="wiki00240022-00" id="3"/>
@@ -32,17 +32,17 @@
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ガ" target="権力以外" sid="wiki00240022-00" id="9"/>
++ 9D <rel type="ガ" target="権力" sid="wiki00240022-00" id="9"/>
 正当な せいとうな 正当だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
 * 9D
-+ 11D <rel type="ノ" target="国" sid="wiki00240022-00" id="7"/>
++ 11D <rel type="ノ" target="国" sid="wiki00240022-00" id="7"/><rel type="修飾" target="正当な" sid="wiki00240022-00" id="8"/>
 権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
 + 11D
 軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="軍事" sid="wiki00240022-00" id="10"/>
++ 12D <rel type="ノ？" target="軍事" sid="wiki00240022-00" id="10"/><rel type="修飾" target="権力以外" sid="wiki00240022-00" id="9"/><rel type="ノ" target="不特定:人1"/>
 力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
@@ -50,10 +50,10 @@
 もと もと もと 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 14D <rel type="ガ" target="一部" sid="wiki00240022-00" id="5"/><rel type="ニ" target="もと" sid="wiki00240022-00" id="12"/>
++ 14D <rel type="ニ" target="もと" sid="wiki00240022-00" id="12"/><rel type="ガ" target="全部" sid="wiki00240022-00" id="4"/><rel type="ガ" mode="AND" target="一部" sid="wiki00240022-00" id="5"/><rel type="外の関係" target="こと" sid="wiki00240022-00" id="14"/>
 入る はいる 入る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="占領" sid="wiki00240022-00" id="0"/><rel type="=" target="占領" sid="wiki00240022-00" id="0"/>
++ -1D <rel type="ガ" target="占領" sid="wiki00240022-00" id="0"/><rel type="トイウ" target="入る" sid="wiki00240022-00" id="13"/><rel type="=構" target="占領" sid="wiki00240022-00" id="0"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,77 +1,77 @@
-# S-ID:wiki00253731-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00253731-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/12/13 MEMO:
 * 10D
-+ 14D <NE:LOCATION:朝鮮>
++ 15D <NE:LOCATION:朝鮮>
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 4P
-+ 2D
+* 6P
++ 2D <rel type="=" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7P <NE:LOCATION:朝鮮半島>
++ 11P <NE:LOCATION:朝鮮半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
 + 4D
-済州 さいしゅう 済州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+済州 さいしゅう/ちぇじゅ 済州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 6P <NE:LOCATION:済州島>
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
 + 6D
-巨文 巨文 巨文 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7P <NE:LOCATION:巨文島>
+巨文 きょぶん/こむん 巨文 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 8P <NE:LOCATION:巨文島>
 島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6A
-+ 10A <NE:LOCATION:鬱陵島>
-鬱陵島 ウルルンとう 鬱陵島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 6D
++ 8D
+鬱陵 うるるん/うつりょう 鬱陵 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 11D <NE:LOCATION:鬱陵島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ノ" target="半島" sid="wiki00253731-00-01" id="2"/>
++ 11D <rel type="ノ" target="半島" sid="wiki00253731-00-01" id="2"/>
 周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D
++ 11P <rel type="=≒" target="島" sid="wiki00253731-00-01" id="8"/><rel type="=≒" mode="AND" target="島" sid="wiki00253731-00-01" id="6"/><rel type="=≒" mode="AND" target="島" sid="wiki00253731-00-01" id="4"/><rel type="修飾" target="周囲" sid="wiki00253731-00-01" id="9"/>
 島嶼 とうしょ 島嶼 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
++ 12D <rel type="修飾" target="周囲" sid="wiki00253731-00-01" id="9"/>
 海域 かいいき 海域 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ガ" target="呼称" sid="wiki00253731-00-01" id="14"/><rel type="ヲ" target="島嶼" sid="wiki00253731-00-01" id="9"/>
++ 13D <rel type="ヲ" target="島嶼" sid="wiki00253731-00-01" id="10"/><rel type="ヲ" mode="AND" target="海域" sid="wiki00253731-00-01" id="11"/><rel type="ヲ" mode="AND" target="半島" sid="wiki00253731-00-01" id="2"/><rel type="ガ" target="地域" sid="wiki00253731-00-01" id="13"/>
 併せた あわせた 併せる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 9D
-+ 13D
++ 14D <rel type="修飾" target="併せた" sid="wiki00253731-00-01" id="12"/><rel type="=構" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="ガ" target="呼称" sid="wiki00253731-00-01" id="14"/><rel type="ヲ" target="地域" sid="wiki00253731-00-01" id="12"/>
++ 15D <rel type="ガ" target="呼称" sid="wiki00253731-00-01" id="14"/><rel type="ヲ" target="地域" sid="wiki00253731-00-01" id="12"/>
 表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="=" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
++ -1D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="=構" target="朝鮮" sid="wiki00253731-00-01" id="0"/><memo text="CO"/>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00253731-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00253731-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
 * 1P
-+ 1P <rel type="=" target="半島" sid="wiki00253731-00-01" id="2"/>
-ちょうせん ちょうせん ちょうせん 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1P <rel type="=" target="朝鮮" sid="wiki00253731-00-01" id="0"/><NE:LOCATION:ちょうせん>
+ちょうせん ちょうせん ちょうせん 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="=" target="半島" sid="wiki00253731-00-01" id="2"/>
-チョソン チョソン チョソン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="=" target="朝鮮" sid="wiki00253731-00-01" id="0"/><NE:LOCATION:チョソン>
+チョソン ちょそん チョソン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-조 조 조 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D
-선 선 선 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="朝鮮" sid="wiki00253731-00-01" id="0"/><NE:LOCATION:조선>
+조선 조선 조선 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
-# S-ID:wiki00253731-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00253731-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/12/13 MEMO:
 * 1D
 + 1D
 ユーラシア ゆーらしあ ユーラシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="ノ" target="ユーラシア" sid="wiki00253731-01-01" id="0"/><NE:LOCATION:ユーラシア大陸>
++ 2D <NE:LOCATION:ユーラシア大陸>
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -87,49 +87,49 @@ EOS
 + 5I <rel type="ノ" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6P
-+ 7P <NE:LOCATION:中華人民共和国>
+* 11P
++ 15P <rel type="ニ" target="北西" sid="wiki00253731-01-01" id="4"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="中華人民共和国" sid="wiki00253731-01-01" id="5"/><NE:LOCATION:中華人民共和国>
 中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6I
-+ 7I
++ 7I <rel type="ノ" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
 北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 15P <NE:LOCATION:ロシア>
++ 15P <rel type="ニ" target="北東" sid="wiki00253731-01-01" id="6"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="ロシア" sid="wiki00253731-01-01" id="7"/><NE:LOCATION:ロシア>
 ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 8I
-+ 12I <rel type="ノ" target="大陸" sid="wiki00253731-01-01" id="1"/>
+* 11I
++ 15I <rel type="ノ" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
 南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 10D
 対馬 つしま 対馬 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 12D <NE:LOCATION:対馬海峡>
-海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + 12D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
-水道 すいどう 水道 名詞 6 普通名詞 1 * 0 * 0 NIL
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 12D
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 13D <NE:LOCATION:対馬海峡西水道>
+水道 すいどう 水道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 10D
-+ 14D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ヲ" target="水道" sid="wiki00253731-01-01" id="12"/><rel type="ニ" target="南東" sid="wiki00253731-01-01" id="8"/>
+* 11D
++ 15D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ヲ" target="水道" sid="wiki00253731-01-01" id="12"/><rel type="ニ" target="南東" sid="wiki00253731-01-01" id="8"/>
 隔てて へだてて 隔てる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
 * 11D
 + 15D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/>
++ -1D <rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="日本" sid="wiki00253731-01-01" id="14"/><rel type="ニ" target="南東" sid="wiki00253731-01-01" id="8"/>
 隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00253731-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00253731-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
 * -1D
 + 1D
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="半島" sid="wiki00253731-00-01" id="2"/><NE:LOCATION:朝鮮海峡>
++ -1D <rel type="=" target="水道" sid="wiki00253731-01-01" id="12"/><NE:LOCATION:朝鮮海峡>
 海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

@@ -1,6 +1,6 @@
-# S-ID:wiki00265143-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00265143-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/14 MEMO:
 * 5D
-+ 9D <rel type="ガ" target="不特定:人"/>
++ 9D <rel type="ニ" target="不特定:人3"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/><memo text="不特定人１:被告側　不特定人2:原告側　不特定人3：裁判所としたが、全て不特定人でいいか　"/>
 上告 じょうこく 上告 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -8,200 +8,197 @@
 * 2D
 + 2D
 民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="不特定:人"/>
++ 4P <rel type="修飾" target="民事" sid="wiki00265143-00-01" id="1"/><rel type="ガ" target="不特定:人2"/><rel type="ニタイシテ" target="不特定:人1"/>
 訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D
 刑事 けいじ 刑事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="修飾" target="刑事" sid="wiki00265143-00-01" id="3"/><rel type="ガ" target="不特定:人2"/><rel type="ニタイシテ" target="不特定:人1"/>
 訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D
++ 6D <rel type="外の関係" target="過程" sid="wiki00265143-00-01" id="6"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="AND" target="不特定:人2"/><rel type="ガ" mode="AND" target="不特定:人3"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="裁判" sid="wiki00265143-00-01" id="5"/>
++ 7D <rel type="ノ" target="裁判" sid="wiki00265143-00-01" id="5"/><rel type="ノ？" target="訴訟" sid="wiki00265143-00-01" id="2"/><rel type="ノ？" mode="AND" target="訴訟" sid="wiki00265143-00-01" id="4"/>
 過程 かてい 過程 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 8D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 5D
-+ 9D
++ 9D <rel type="ニオイテ" target="過程" sid="wiki00265143-00-01" id="6"/><rel type="=≒" target="上告" sid="wiki00265143-00-01" id="0"/><rel type="ニ" target="不特定:人3"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/>
 上訴 じょうそ 上訴 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="上告" sid="wiki00265143-00-01" id="0"/><rel type="ノ" target="上訴" sid="wiki00265143-00-01" id="8"/><rel type="=" target="上告" sid="wiki00265143-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="上告" sid="wiki00265143-00-01" id="0"/><rel type="ノ" target="上訴" sid="wiki00265143-00-01" id="8"/><rel type="=構" target="上告" sid="wiki00265143-00-01" id="0"/><rel type="=構" mode="AND" target="上訴" sid="wiki00265143-00-01" id="8"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00265143-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00265143-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00265143-00-01" id="9"/>
++ -1D <rel type="=" target="上告" sid="wiki00265143-00-01" id="0"/>
 じょうこく じょうこく じょうこく 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00265143-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:180.00000
+# S-ID:wiki00265143-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:180.00000 MOD:2022/12/14 MEMO:
 * 1D
 + 1D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 32D
-+ 42D
++ 39D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
++ 4D <rel type="=≒" target="不特定:人3"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="日本" sid="wiki00265143-01-01" id="0"/>
 審 しん 審 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6P
-+ 5D
+* 7D
++ 4D <rel type="ノ" target="第二審" sid="wiki00265143-01-01" id="2"/>
 終局 しゅうきょく 終局 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P
++ 11P <rel type="ガ" target="第二審" sid="wiki00265143-01-01" id="2"/><rel type="修飾" target="終局" sid="wiki00265143-01-01" id="3"/>
 判決 はんけつ 判決 名詞 6 サ変名詞 2 * 0 * 0 NIL
 若しくは もしくは 若しくは 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
+* 6P
 + 7D
 高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 8D
++ 7D <rel type="ガ" target="所" sid="wiki00265143-01-01" id="7"/>
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D
++ 9D <rel type="修飾" target="高等" sid="wiki00265143-01-01" id="5"/><rel type="=≒" target="不特定:人3"/>
 所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D
++ 9D
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="審" sid="wiki00265143-01-01" id="3"/>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 審 しん 審 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D <rel type="ガ" target="所" sid="wiki00265143-01-01" id="8"/><rel type="ヲ" target="判決" sid="wiki00265143-01-01" id="13"/>
++ 11D <rel type="ヲ" target="判決" sid="wiki00265143-01-01" id="13"/><rel type="ガ" target="所" sid="wiki00265143-01-01" id="7"/><rel type="ト" target="第一審" sid="wiki00265143-01-01" id="8"/>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 8D
-+ 13D <rel type="=" target="終局" sid="wiki00265143-01-01" id="4"/>
++ 11D <rel type="=" target="終局" sid="wiki00265143-01-01" id="4"/>
 終局 しゅうきょく 終局 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D
++ 12D <rel type="ガ" target="所" sid="wiki00265143-01-01" id="7"/><rel type="=≒" target="判決" sid="wiki00265143-01-01" id="4"/><rel type="修飾" target="終局" sid="wiki00265143-01-01" id="10"/>
 判決 はんけつ 判決 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 16D
++ 14D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 10D
-+ 16D <rel type="ガ" target="不特定:人"/>
++ 14D <rel type="ニタイシテ" target="判決" sid="wiki00265143-01-01" id="4"/><rel type="ニタイシテ" mode="AND" target="判決" sid="wiki00265143-01-01" id="11"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/>
 不服 ふふく 不服だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="ガ" target="不服" sid="wiki00265143-01-01" id="15"/><rel type="ガ２" target="不特定:人"/>
++ 15D <rel type="ニタイシテ" target="判決" sid="wiki00265143-01-01" id="4"/><rel type="ニタイシテ" mode="AND" target="判決" sid="wiki00265143-01-01" id="11"/><rel type="ガ" target="不服" sid="wiki00265143-01-01" id="13"/><rel type="ガ２" target="不特定:人1"/><rel type="ガ２" mode="OR" target="不特定:人2"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
-* 22P
-+ 31P
+* 23D
++ 29P <rel type="ノ" target="ある" sid="wiki00265143-01-01" id="14"/>
 とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 又は または 又は 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 19D <NE:LOCATION:飛越>
-飛越 飛越 飛越 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 20D <rel type="ガ" target="不特定:人"/>
++ 17D
+飛越 とびこし 飛越 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ニ" target="所" sid="wiki00265143-01-01" id="32"/><rel type="修飾" target="飛越" sid="wiki00265143-01-01" id="16"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="AND" target="不特定:人2"/>
 上告 じょうこく 上告 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 21D <rel type="ガ" target="不特定:人"/>
++ 19D <rel type="ニツイテ" target="上告" sid="wiki00265143-01-01" id="17"/><rel type="ガ" target="不特定:人2"/><rel type="ガ" mode="AND" target="不特定:人1"/>
 合意 ごうい 合意 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 22D <rel type="ガ" target="合意" sid="wiki00265143-01-01" id="20"/><rel type="ニ" target="不特定:人"/>
++ 20D <rel type="ガ" target="合意" sid="wiki00265143-01-01" id="20"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 16D
-+ 23D <rel type="ノ" target="ある" sid="wiki00265143-01-01" id="21"/>
++ 21D <rel type="ノ" target="ある" sid="wiki00265143-01-01" id="21"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 31D
++ 28D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 18D
-+ 25D
++ 23D <rel type="=" target="第一審" sid="wiki00265143-01-01" id="8"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 26D <rel type="=" target="審" sid="wiki00265143-01-01" id="10"/>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 審 しん 審 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 28D <rel type="ガ" target="審" sid="wiki00265143-01-01" id="25"/><rel type="ヲ" target="判決" sid="wiki00265143-01-01" id="28"/>
++ 25D <rel type="ガ" target="第一審" sid="wiki00265143-01-01" id="22"/><rel type="ヲ" target="判決" sid="wiki00265143-01-01" id="25"/>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 20D
-+ 28D <rel type="=" target="終局" sid="wiki00265143-01-01" id="12"/>
++ 25D
 終局 しゅうきょく 終局 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 29D
++ 26D <rel type="=" target="終局" sid="wiki00265143-01-01" id="12"/><rel type="ガ" target="第一審" sid="wiki00265143-01-01" id="22"/>
 判決 はんけつ 判決 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 31D
++ 28D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 22D
-+ 31D
++ 28D <rel type="=≒" target="不服" sid="wiki00265143-01-01" id="13"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/><rel type="ニタイシテ" target="判決" sid="wiki00265143-01-01" id="25"/>
 不服 ふふく 不服だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 23D
-+ 32D <rel type="ガ" target="不服" sid="wiki00265143-01-01" id="30"/><rel type="ガ２" target="不特定:人"/>
++ 29D <rel type="ニオイテ" target="場合" sid="wiki00265143-01-01" id="20"/><rel type="ガ" target="不服" sid="wiki00265143-01-01" id="27"/><rel type="ガ２" target="不特定:人1"/><rel type="ガ２" mode="OR" target="不特定:人2"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 30D
-+ 40D
++ 37D <rel type="ノ" target="ある" sid="wiki00265143-01-01" id="28"/>
 とき とき とき 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 25D
-+ 35D
++ 32D
 上級 じょうきゅう 上級 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 26D
-+ 35D
++ 32D
 裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 36D
++ 33D <rel type="修飾" target="上級" sid="wiki00265143-01-01" id="30"/><rel type="ノ？" target="裁判" sid="wiki00265143-01-01" id="31"/><rel type="=≒" target="不特定:人3"/>
 所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 30D
-+ 40D
++ 37D
 対し たいし 対する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 29D
-+ 39D
++ 36D <rel type="=" target="判決" sid="wiki00265143-01-01" id="25"/><rel type="=" mode="AND" target="判決" sid="wiki00265143-01-01" id="11"/><rel type="=" mode="AND" target="判決" sid="wiki00265143-01-01" id="4"/>
 原判決 げんはんけつ 原判決 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 29P
-+ 39P
+* 29D
++ 36P <rel type="ガ" target="所" sid="wiki00265143-01-01" id="32"/><rel type="ヲ" target="原判決" sid="wiki00265143-01-01" id="34"/>
 取消し とりけし 取消し 名詞 6 普通名詞 1 * 0 * 0 NIL
 又は または 又は 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 30D
-+ 40D <rel type="ガ" target="所" sid="wiki00265143-01-01" id="35"/><rel type="ヲ" target="原判決" sid="wiki00265143-01-01" id="37"/>
++ 37D <rel type="ガ" target="所" sid="wiki00265143-01-01" id="35"/><rel type="ヲ" target="原判決" sid="wiki00265143-01-01" id="37"/>
 変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 31D
-+ 41D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="取消し" sid="wiki00265143-01-01" id="38"/>
++ 38D <rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/><rel type="ヲ" target="取消し" sid="wiki00265143-01-01" id="35"/><rel type="ヲ" mode="OR" target="変更" sid="wiki00265143-01-01" id="36"/><rel type="時間" target="とき" sid="wiki00265143-01-01" id="15"/><rel type="時間" mode="OR" target="とき" sid="wiki00265143-01-01" id="29"/>
 求める もとめる 求める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
-* 32D
-+ 42D
+* 32P
++ 39D <rel type="ニタイシテ" target="所" sid="wiki00265143-01-01" id="32"/><rel type="ヲ" target="求める" sid="wiki00265143-01-01" id="37"/><rel type="=構" target="上告" sid="wiki00265143-00-01" id="0"/><rel type="ガ" target="不特定:人1"/><rel type="ガ" mode="OR" target="不特定:人2"/>
 申立て もうしたて 申立て 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="申立て" sid="wiki00265143-01-01" id="41"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="申立て" sid="wiki00265143-01-01" id="41"/><rel type="ニオイテ" target="日本" sid="wiki00265143-01-01" id="0"/><rel type="ト" target="上告" sid="wiki00265143-00-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00265143-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00265143-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/30 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="とき" sid="wiki00265143-01-01" id="15"/><memo text="（１）第二審の終局判決若しくは高等裁判所が第一審としていた終局判決（原判決）に対して不服があるとき"/>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
 EOS
-# S-ID:wiki00265143-01-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00265143-01-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="原判決" sid="wiki00265143-01-01" id="37"/>
++ -1D <rel type="=" target="判決" sid="wiki00265143-01-01" id="11"/>
 原判決 げんはんけつ 原判決 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00265143-01-04 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00265143-01-04 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="とき" sid="wiki00265143-01-01" id="29"/><memo text="（２）飛越上告の合意がある場合において第一審のした終局判決に対して不服があるとき"/>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 EOS

@@ -1,4 +1,4 @@
-# S-ID:wiki00256600-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00256600-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/15 MEMO:
 * 1D
 + 1D <NE:LOCATION:アメリカ合衆国>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -12,53 +12,55 @@
 + 4D
 一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="国旗" sid="wiki00256600-00-01" id="1"/>
-星条旗 せいじょうき 星条旗 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=構" target="国旗" sid="wiki00256600-00-01" id="1"/><NE:OPTIONAL:星条旗>
+星条旗 せいじょうき 星条旗 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国旗" sid="wiki00256600-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="国旗" sid="wiki00256600-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="星条旗" sid="wiki00256600-00-01" id="3"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00256600-00-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00256600-00-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="星条旗" sid="wiki00256600-00-01" id="3"/>
-せいじょうき せいじょうき せいじょうき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="星条旗" sid="wiki00256600-00-01" id="3"/><NE:OPTIONAL:せいじょうき>
+せいじょうき せいじょうき せいじょうき 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00256600-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00256600-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/15 MEMO:
 * 1D
 + 1D <rel type="ガ" target="名" sid="wiki00256600-01-01" id="1"/>
 正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 3D <rel type="ノ" target="国旗" sid="wiki00256600-00-01" id="1"/>
-名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="国旗" sid="wiki00256600-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00256600-01-01" id="0"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 3D
-合衆 合衆 合衆 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="名" sid="wiki00256600-01-01" id="1"/><rel type="=" target="名" sid="wiki00256600-01-01" id="1"/>
-国旗 こっき 国旗 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="アメリカ合衆国" sid="wiki00256600-00-01" id="0"/>
+合衆国 がっしゅうこく 合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="ガ" target="名" sid="wiki00256600-01-01" id="1"/><rel type="=構" target="名" sid="wiki00256600-01-01" id="1"/><memo text="CO"/><NE:OPTIONAL:合衆国旗>
+旗 き 旗 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00256600-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00256600-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="名" sid="wiki00256600-01-01" id="1"/>
-がっしゅうこくき がっしゅうこくき がっしゅうこくき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="合衆国" sid="wiki00256600-01-01" id="2"/>
+がっしゅうこく がっしゅうこく がっしゅうこく 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="旗" sid="wiki00256600-01-01" id="3"/><NE:OPTIONAL:がっしゅうこくき>
+き き き 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
-# S-ID:wiki00256600-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00256600-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/15 MEMO:
 * 1D
 + 1D <rel type="ガ" target="栄光" sid="wiki00256600-02" id="1"/>
-古き ふるき 古い 形容詞 3 * 0 イ形容詞アウオ段 18 文語連体形 21 NIL
+古き ふるき 古い 形容詞 3 * 0 イ形容詞アウオ段 18 文語連体形 21 NIL <NE:OPTIONAL:head>
 * 2D
-+ 2D
-栄光 えいこう 栄光 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="国旗" sid="wiki00256600-00-01" id="1"/><NE:OPTIONAL:古き栄光>
+栄光 えいこう 栄光 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="栄光" sid="wiki00256600-02" id="1"/>
++ 3D <rel type="トイウ" target="栄光" sid="wiki00256600-02" id="1"/><rel type="ノ" target="旗" sid="wiki00256600-01-01" id="3"/><rel type="=構" target="栄光" sid="wiki00256600-02" id="1"/>
 別名 べつめい 別名 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="別名" sid="wiki00256600-02" id="2"/><rel type="ニ" target="星条旗" sid="wiki00256600-00-01" id="3"/>
++ -1D <rel type="ガ" target="別名" sid="wiki00256600-02" id="2"/><rel type="ニ" target="国旗" sid="wiki00256600-00-01" id="1"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

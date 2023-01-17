@@ -1,10 +1,10 @@
-# S-ID:wiki00290480-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000
+# S-ID:wiki00290480-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/12/21 MEMO:
 * 8D
 + 1D
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="修飾" target="国際" sid="wiki00290480-00-01" id="0"/>
 収支 しゅうし 収支 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
++ 13D <rel type="修飾" target="国際" sid="wiki00290480-00-01" id="0"/><rel type="ニツイテ" target="収支" sid="wiki00290480-00-01" id="1"/>
 統計 とうけい 統計 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 * 2D
 + 4D
 一定 いってい 一定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="修飾" target="一定" sid="wiki00290480-00-01" id="3"/>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -23,87 +23,88 @@
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D
++ 8D <rel type="=" target="国" sid="wiki00290480-00-01" id="6"/>
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D
++ 9D <rel type="ガ" target="地域" sid="wiki00290480-00-01" id="9"/><rel type="ニ" target="それ" sid="wiki00290480-00-01" id="7"/>
 準ずる じゅんずる 準ずる 動詞 2 * 0 ザ変動詞 17 基本形 2 NIL
 * 7D
-+ 12D
++ 12D <rel type="修飾" target="準ずる" sid="wiki00290480-00-01" id="8"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 11D
++ 12D
 対外 たいがい 対外 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
++ 13D <rel type="ニオイテ" target="期間" sid="wiki00290480-00-01" id="4"/><rel type="ガ" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ガ" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/><rel type="修飾" target="対外" sid="wiki00290480-00-01" id="10"/><rel type="修飾" mode="AND" target="経済" sid="wiki00290480-00-01" id="11"/><rel type="ト" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ト" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ニツイテ" target="取引" sid="wiki00290480-00-01" id="12"/><rel type="ガ" target="統計" sid="wiki00290480-00-01" id="2"/><rel type="=構" target="統計" sid="wiki00290480-00-01" id="2"/>
 統計 とうけい 統計 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290480-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00290480-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
-+ 2D
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D
-しゅうし しゅうし しゅうし 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ -1D <NE:ARTIFACT:こくさいしゅうしとうけい>
-とうけい とうけい とうけい 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <rel type="=" target="国際" sid="wiki00290480-00-01" id="0"/>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="収支" sid="wiki00290480-00-01" id="1"/>
+しゅうし しゅうし しゅうし 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="統計" sid="wiki00290480-00-01" id="2"/>
+とうけい とうけい とうけい 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290480-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00290480-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/21 MEMO:
 * 1P
 + 1P
 財 ざい 財 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2P
-+ 2P
++ 2P <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D
 所得 しょとく 所得 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
-+ 11D
+* 7D
++ 9P <rel type="=≒" target="取引" sid="wiki00290480-00-01" id="12"/><rel type="ガ" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ガ" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/><rel type="ヲ" target="財" sid="wiki00290480-00-03" id="0"/><rel type="ヲ" mode="AND" target="サービス" sid="wiki00290480-00-03" id="1"/><rel type="ヲ" mode="AND" target="所得" sid="wiki00290480-00-03" id="2"/><rel type="ト" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ト" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
+* 5D
++ 6D <rel type="=" target="対外" sid="wiki00290480-00-01" id="10"/>
 対外 たいがい 対外 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6P <rel type="修飾" target="対外" sid="wiki00290480-00-03" id="4"/>
 資産 しさん 資産 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="修飾" target="対外" sid="wiki00290480-00-03" id="4"/>
 負債 ふさい 負債 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
-+ 8D
+* 6D
++ 8D <rel type="ガ" target="資産" sid="wiki00290480-00-03" id="5"/><rel type="ガ" mode="AND" target="負債" sid="wiki00290480-00-03" id="6"/>
 増減 ぞうげん 増減 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
-+ 11D
+* 7D
++ 9D
 関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 10D
++ 11P <rel type="=≒" target="取引" sid="wiki00290480-00-01" id="12"/><rel type="ガ" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ガ" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/><rel type="ニカンシテ" target="増減" sid="wiki00290480-00-03" id="7"/><rel type="ト" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ト" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><memo text="？"/>
 移転 いてん 移転 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D
++ -1D <rel type="=≒" target="取引" sid="wiki00290480-00-01" id="12"/><rel type="ガ" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ガ" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/><rel type="ニカンシテ" target="移転" sid="wiki00290480-00-03" id="10"/><rel type="ト" target="国" sid="wiki00290480-00-01" id="6"/><rel type="ト" mode="AND" target="地域" sid="wiki00290480-00-01" id="9"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290480-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000
+# S-ID:wiki00290480-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2022/12/21 MEMO:
 * 11D
-+ 1D
++ 1D <rel type="=" target="国際" sid="wiki00290480-00-01" id="0"/>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="=" target="収支" sid="wiki00290480-00-01" id="1"/>
 収支 しゅうし 収支 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D
++ 18D <rel type="=" target="統計" sid="wiki00290480-00-01" id="2"/>
 統計 とうけい 統計 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -116,11 +117,11 @@ EOS
 ほとんど ほとんど ほとんど 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 6P
++ 6P <rel type="修飾" target="世界" sid="wiki00290480-01-01" id="3"/><rel type="修飾" mode="AND" target="ほとんど" sid="wiki00290480-01-01" id="4"/><rel type="=" target="国" sid="wiki00290480-00-01" id="6"/>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D
++ 7D <rel type="修飾" target="世界" sid="wiki00290480-01-01" id="3"/><rel type="修飾" mode="AND" target="ほとんど" sid="wiki00290480-01-01" id="4"/><rel type="=" target="地域" sid="wiki00290480-00-01" id="9"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -128,83 +129,87 @@ EOS
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D
++ 9D <rel type="=" target="国際" sid="wiki00290480-00-01" id="0"/>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 12D <NE:ORGANIZATION:国際連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 11D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=" target="国際" sid="wiki00290480-01-01" id="8"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 12D
-通貨 つうか 通貨 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
-基金 ききん 基金 名詞 6 普通名詞 1 * 0 * 0 NIL
+通貨 つうか 通貨 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 13D <NE:ORGANIZATION:国際通貨基金>
+基金 ききん 基金 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D
++ 16D <rel type="ガ" target="基金" sid="wiki00290480-01-01" id="12"/><rel type="ヲ" target="マニュアル" sid="wiki00290480-01-01" id="16"/>
 策定 さくてい 策定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 10D
-+ 15D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
-収支 しゅうし 収支 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D
-マニュアル まにゅある マニュアル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=" target="国際" sid="wiki00290480-01-01" id="10"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 16D <rel type="=" target="収支" sid="wiki00290480-01-01" id="1"/>
+収支 しゅうし 収支 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 17D <NE:ARTIFACT:国際収支マニュアル>
+マニュアル まにゅある マニュアル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 18D
++ 18D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="マニュアル" sid="wiki00290480-01-01" id="16"/>
 のっとって のっとって のっとる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 14D
-+ 21D
++ 21D <rel type="ガ" target="統計" sid="wiki00290480-01-01" id="2"/><rel type="ニオイテ" target="国" sid="wiki00290480-01-01" id="5"/><rel type="ニオイテ" mode="AND" target="地域" sid="wiki00290480-01-01" id="6"/><rel type="ニ" target="不特定:人"/>
 作成 さくせい 作成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 20D
++ 20D <rel type="ノ" target="国" sid="wiki00290480-01-01" id="5"/><rel type="ノ" mode="AND" target="地域" sid="wiki00290480-01-01" id="6"/>
 各国 かっこく 各国 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 21D
++ 21D <rel type="ノ？" target="各国" sid="wiki00290480-01-01" id="19"/><rel type="ノ" target="統計" sid="wiki00290480-01-01" id="2"/>
 状況 じょうきょう 状況 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="状況" sid="wiki00290480-01-01" id="20"/>
 比較 ひかく 比較 名詞 6 サ変名詞 2 * 0 * 0 NIL
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00290480-01-02 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00290480-01-02 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
-+ -1D
-IMF IMF IMF 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="基金" sid="wiki00290480-01-01" id="12"/><NE:ORGANIZATION:IMF>
+IMF IMF IMF 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00290480-01-03 括弧始:（ 括弧終:） 括弧位置:55 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00290480-01-03 括弧始:（ 括弧終:） 括弧位置:55 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
 + 1D
-Balance Balance Balance 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-of of of 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Payments Payments Payments 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-and and and 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-International International International 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Investment Investment Investment 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Position Position Position 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Manua Manua Manua 名詞 6 組織名 6 * 0 * 0 NIL
-+ 2D
-l l l 特殊 1 記号 5 * 0 * 0 NIL
+Balance Balance Balance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 3D
-; ; ; 名詞 6 普通名詞 1 * 0 * 0 NIL
+Payments Payments Payments 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5P
+and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D
+International International International 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D
+Investment Investment Investment 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7D
+Position Position Position 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8P <memo text="係り受け？"/><NE:ARTIFACT:Balance　of　Payments　and　International　Investment　Position　Manual>
+Manual Manual Manual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+; ; ; 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D
-BPM BPM BPM 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <NE:ARTIFACT:BPM>
+BPM BPM BPM 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 EOS

@@ -1,214 +1,213 @@
-# S-ID:wiki00244325-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000
+# S-ID:wiki00244325-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000 MOD:2022/12/09 MEMO:
 * 12D
-+ 17D
-ISSN ISSN ISSN 名詞 6 組織名 6 * 0 * 0 NIL
++ 18D <memo text="固有名詞でいい？"/><NE:ARTIFACT:ISSN>
+ISSN ISSN ISSN 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D
 逐次 ちくじ 逐次 副詞 8 * 0 * 0 * 0 NIL
-+ 3D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00244325-00-01" id="3"/><rel type="修飾" target="逐次" sid="wiki00244325-00-01" id="1"/>
 刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="ノ？" target="刊行" sid="wiki00244325-00-01" id="2"/>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00244325-00-01" id="3"/><rel type="外の関係" target="ため" sid="wiki00244325-00-01" id="5"/>
 識別 しきべつ 識別 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 12D
-+ 17D
+* 4D
++ 6D <rel type="ノ" target="識別する" sid="wiki00244325-00-01" id="4"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
-+ 7D
+* 12P
++ 18P <rel type="ガ" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="=構" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00244325-00-01" id="5"/>
 番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 14D
-1971 1971 1971 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 15D <NE:DATE:1971年>
+1971 せんきゅうひゃくななじゅういち 1971 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
+* 7D
 + 9D
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 12D
++ 10D
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 12D <NE:ORGANIZATION:国際標準化機構>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 12D
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 10D
-+ 14D
-3297 3297 3297 名詞 6 数詞 7 * 0 * 0 NIL
++ 12D <rel type="=" target="機構" sid="wiki00244325-00-01" id="10"/>
+ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 13D <rel type="=構" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="ニオイテ" target="機構" sid="wiki00244325-00-01" id="10"/><NE:ARTIFACT:ISO　3297>
+3297 さんにきゅうなな/さんぜんにひゃくきゅうじゅうなな 3297 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
+* 10D
 + 15D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
-* 12D
-+ 17D
+* 10D
++ 15D <rel type="ノ" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="ノ" mode="？" target="番号" sid="wiki00244325-00-01" id="6"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 12P
-+ 16P
+* 12D
++ 18D <rel type="ガ" target="規格" sid="wiki00244325-00-01" id="14"/><rel type="トシテ" target="3297" sid="wiki00244325-00-01" id="12"/><rel type="時間" target="1971年" sid="wiki00244325-00-01" id="7"/><rel type="ガ２" target="ISSN" sid="wiki00244325-00-01" id="0"/>
 策定 さくてい 策定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 13D
-+ 17D
-ISSN ISSN ISSN 名詞 6 組織名 6 * 0 * 0 NIL
-+ 18D
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 12D
++ 17D <rel type="=" target="ISSN" sid="wiki00244325-00-01" id="0"/>
+ISSN ISSN ISSN 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 18D <memo text="パリにあるISSN国際センターおよび各国のナショナルセンターで構成"/><NE:ORGANIZATION:ISSNネットワーク>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="ネットワーク" sid="wiki00244325-00-01" id="17"/><rel type="ヲ" target="ISSN" sid="wiki00244325-00-01" id="0"/>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00244325-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00244325-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
 * 1P
-+ 3P
-International International International 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Standard Standard Standard 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Serial Serial Serial 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Number Number Number 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D
+International International International 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3D
+Standard Standard Standard 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3D
+Serial Serial Serial 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 9P <rel type="=" target="ISSN" sid="wiki00244325-00-01" id="0"/><NE:ARTIFACT:International　Standard　Serial　Number>
+Number Number Number 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-逐次 ちくじ 逐次 副詞 8 * 0 * 0 * 0 NIL
-+ 5D
-刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D
-物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D
-番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="国際" sid="wiki00244325-00-01" id="8"/><rel type="=" mode="AND" target="International" sid="wiki00244325-00-02" id="0"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 9D <rel type="修飾" target="国際" sid="wiki00244325-00-02" id="4"/><rel type="=" target="Standard" sid="wiki00244325-00-02" id="1"/><rel type="=" mode="AND" target="標準" sid="wiki00244325-00-01" id="9"/>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7D <rel type="=" target="逐次" sid="wiki00244325-00-01" id="1"/>
+逐次 ちくじ 逐次 副詞 8 * 0 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D <rel type="=" target="刊行" sid="wiki00244325-00-01" id="2"/>
+刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 9D <rel type="=" target="物" sid="wiki00244325-00-01" id="3"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="ノ" target="物" sid="wiki00244325-00-02" id="8"/><rel type="修飾" target="標準" sid="wiki00244325-00-02" id="5"/><NE:ARTIFACT:国際標準逐次刊行物番号>
+番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00244325-00-03 括弧始:（ 括弧終:） 括弧位置:117 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1A
-+ 8D
+# S-ID:wiki00244325-00-03 括弧始:（ 括弧終:） 括弧位置:117 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
+* 1P
++ 6D <rel type="ノ" target="ネットワーク" sid="wiki00244325-00-01" id="17"/>
 旧称 きゅうしょう 旧称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-逐次 ちくじ 逐次 副詞 8 * 0 * 0 * 0 NIL
-+ 5D
-刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 6D
-物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
-データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8A
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D
+逐次 ちくじ 逐次 副詞 8 * 0 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00244325-00-03" id="4"/>
+刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="物" sid="wiki00244325-00-01" id="3"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D
+データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7P <rel type="ガ" target="旧称" sid="wiki00244325-00-03" id="0"/><rel type="=構" target="旧称" sid="wiki00244325-00-03" id="0"/><rel type="=" mode="AND" target="ネットワーク" sid="wiki00244325-00-01" id="17"/><NE:ORGANIZATION:国際逐次刊行物データシステム>
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="旧称" sid="wiki00244325-00-03" id="0"/><rel type="=構" target="旧称" sid="wiki00244325-00-03" id="0"/><rel type="=" mode="AND" target="システム" sid="wiki00244325-00-03" id="6"/><rel type="=" mode="AND" target="ネットワーク" sid="wiki00244325-00-01" id="17"/><NE:ORGANIZATION:ISDS>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-ISDS ISDS ISDS 名詞 6 組織名 6 * 0 * 0 NIL
+ISDS ISDS ISDS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
-# S-ID:wiki00244325-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00244325-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/09 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ≒" target="規格" sid="wiki00244325-01-01" id="1"/>
 翻訳 ほんやく 翻訳 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="修飾" target="翻訳" sid="wiki00244325-01-01" id="0"/><rel type="=構" target="ISSN" sid="wiki00244325-00-01" id="0"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 3D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 5D
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 5D
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D <rel type="=構≒" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="=構" mode="AND" target="規格" sid="wiki00244325-01-01" id="1"/><memo text="ISSNは日本工業規格の一つで、かつ流用されているものだからと考え、≒にした。　日本工業規格は、現在は日本産業規格に改称"/><NE:ARTIFACT:日本工業規格>
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="トシテ" target="規格" sid="wiki00244325-01-01" id="1"/><rel type="ニ" target="規格" sid="wiki00244325-01-01" id="5"/>
 なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00244325-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D
-JIS JIS JIS 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 2D
-X X X 特殊 1 記号 5 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+# S-ID:wiki00244325-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/09 MEMO:
 * -1D
++ 1D <rel type="=" target="規格" sid="wiki00244325-01-01" id="5"/>
+JIS じす JIS 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 2D <memo text="部門記号"/>
+X X X 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 3D
-0306 0306 0306 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
-2012 2012 2012 名詞 6 数詞 7 * 0 * 0 NIL
+0306 ぜろさんぜろろく 0306 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+: : : 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="ノ？" target="規格" sid="wiki00244325-01-01" id="5"/><rel type="=≒" target="規格" sid="wiki00244325-01-01" id="5"/><rel type="=" mode="AND" target="ISSN" sid="wiki00244325-00-01" id="0"/><memo text="前文の日本工業規格の詳細情報。「おぼえがき」のカッコ内のタグ付与法を参照したが、同格的に捉えるべき？"/><NE:ARTIFACT:JIS　X　0306:2012>
+2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00244325-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
-* 3D
-+ 5D
+# S-ID:wiki00244325-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/09 MEMO:
+* 4D
++ 7D
 また また また 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
-+ 2D
-RFC RFC RFC 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 3D
-+ 3D
-3044 3044 3044 名詞 6 数詞 7 * 0 * 0 NIL
+* 4D
++ 2D <memo text="Request for Comments　技術仕様の保存、公開形式"/>
+RFC RFC RFC 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7D <NE:ARTIFACT:RFC　3044>
+3044 さんぜろよんよん/さんぜんよんじゅうよん 3044 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 4D
-+ 5D
-URN URN URN 名詞 6 組織名 6 * 0 * 0 NIL
+* 3D
++ 5D <memo text="識別子　Uniform Resource Name"/><NE:ARTIFACT:URN>
+URN URN URN 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:single>
 + 5D
 名前 なまえ 名前 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ノ？" target="URN" sid="wiki00244325-02" id="3"/><rel type="=構" target="ISSN" sid="wiki00244325-00-01" id="0"/>
 空間 くうかん 空間 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
+* 4D
 + 7D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="ISSN" sid="wiki00244325-00-01" id="0"/><rel type="デ" target="3044" sid="wiki00244325-02" id="2"/><rel type="トシテ" target="空間" sid="wiki00244325-02" id="5"/><rel type="ニ" target="不特定:人1"/><memo text="不特定人１＝IETF"/>
 定義 ていぎ 定義 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00244325-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000
+# S-ID:wiki00244325-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/12/09 MEMO:
 * 1D
-+ 1D <NE:LOCATION:日本>
++ 1D <rel type="=" target="日本" sid="wiki00244325-01-01" id="3"/><NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 13D
++ 13D <rel type="ノ" target="日本" sid="wiki00244325-03" id="0"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 3D
++ 5D
 国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D
++ 5D
 国会 こっかい 国会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D
 図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
@@ -216,54 +215,54 @@ EOS
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
-ISSN ISSN ISSN 名詞 6 組織名 6 * 0 * 0 NIL
-+ 8D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 9D
-センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="ISSN" sid="wiki00244325-00-01" id="0"/>
+ISSN ISSN ISSN 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 8D <rel type="=" target="日本" sid="wiki00244325-03" id="0"/><memo text="RU"/>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="=構" target="館" sid="wiki00244325-03" id="5"/><rel type="=≒" mode="AND" target="ネットワーク" sid="wiki00244325-00-01" id="17"/><NE:ORGANIZATION:ISSN日本センター>
+センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D
++ 13D <rel type="ガ" target="日本" sid="wiki00244325-03" id="0"/><rel type="ヲ" target="館" sid="wiki00244325-03" id="5"/><rel type="ト" target="センター" sid="wiki00244325-03" id="8"/>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 6D
-+ 12D
-ISSN ISSN ISSN 名詞 6 組織名 6 * 0 * 0 NIL
++ 12D <rel type="=" target="ISSN" sid="wiki00244325-00-01" id="0"/><NE:ARTIFACT:ISSN>
+ISSN ISSN ISSN 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 12D
++ 12P <rel type="ヲ" target="ISSN" sid="wiki00244325-03" id="10"/><rel type="ガ" target="館" sid="wiki00244325-03" id="5"/><rel type="トシテ" target="センター" sid="wiki00244325-03" id="8"/>
 登録 とうろく 登録 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 13D
++ 13D <rel type="ヲ" target="ISSN" sid="wiki00244325-03" id="10"/><rel type="ガ" target="館" sid="wiki00244325-03" id="5"/><rel type="トシテ" target="センター" sid="wiki00244325-03" id="8"/>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="トシテ" target="センター" sid="wiki00244325-03" id="8"/><rel type="ヲ" target="登録" sid="wiki00244325-03" id="11"/><rel type="ヲ" mode="AND" target="管理" sid="wiki00244325-03" id="12"/><rel type="ガ" target="館" sid="wiki00244325-03" id="5"/>
 行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00244325-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00244325-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/09 MEMO:
 * 1D
-+ 1D
-ISSN ISSN ISSN 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <NE:ARTIFACT:ISSN>
+ISSN ISSN ISSN 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="ヲ" target="ISSN" sid="wiki00244325-04" id="0"/><rel type="ガ" target="館" sid="wiki00244325-03" id="5"/><rel type="ガ" mode="？" target="センター" sid="wiki00244325-03" id="8"/><rel type="ニ" target="不特定:物"/>
 付与 ふよ 付与 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ガ" target="者" sid="wiki00244325-04" id="3"/><rel type="ヲ" target="不特定:物"/>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="ノ？" target="出版" sid="wiki00244325-04" id="2"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="ガ" target="者" sid="wiki00244325-04" id="3"/><rel type="ニ" target="センター" sid="wiki00244325-03" id="8"/><rel type="ニ" mode="？" target="館" sid="wiki00244325-03" id="5"/><rel type="ヲ" target="付与" sid="wiki00244325-04" id="1"/>
 申請 しんせい 申請 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="館" sid="wiki00244325-03" id="5"/><rel type="ガ" mode="？" target="センター" sid="wiki00244325-03" id="8"/><rel type="ニヨッテ" target="申請" sid="wiki00244325-04" id="4"/><rel type="ヲ" target="付与" sid="wiki00244325-04" id="1"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

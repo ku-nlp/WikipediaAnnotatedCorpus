@@ -1,61 +1,60 @@
-# S-ID:wiki00266549-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000
+# S-ID:wiki00266549-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2022/12/15 MEMO:
 * 9D
-+ 11D
++ 10D
 色素 しきそ 色素 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 2D
-可 か 可 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-視 し 視 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
-光 ひかり 光 名詞 6 普通名詞 1 * 0 * 0 NIL
+可視 かし 可視 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="可視" sid="wiki00266549-00-01" id="1"/>
+光 こう 光 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 5P <rel type="ガ" target="物質" sid="wiki00266549-00-01" id="10"/><rel type="ヲ" target="光" sid="wiki00266549-00-01" id="3"/>
++ 4P <rel type="ヲ" target="光" sid="wiki00266549-00-01" id="2"/><rel type="ガ" target="物質" sid="wiki00266549-00-01" id="9"/>
 吸収 きゅうしゅう 吸収 名詞 6 サ変名詞 2 * 0 * 0 NIL
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="物質" sid="wiki00266549-00-01" id="10"/><rel type="ヲ" target="光" sid="wiki00266549-00-01" id="3"/>
++ 5D <rel type="ヲ" target="光" sid="wiki00266549-00-01" id="3"/><rel type="ガ" target="物質" sid="wiki00266549-00-01" id="9"/>
 放出 ほうしゅつ 放出 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D
++ 8D
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
-* 7D
-+ 9D
+* 9D
++ 8D
 物体 ぶったい 物体 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D
++ 8D
 色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="物質" sid="wiki00266549-00-01" id="10"/><rel type="ヲ" target="色" sid="wiki00266549-00-01" id="8"/><rel type="ニ" target="物体" sid="wiki00266549-00-01" id="7"/>
++ 9D <rel type="ガ" target="物質" sid="wiki00266549-00-01" id="9"/><rel type="ヲ" target="色" sid="wiki00266549-00-01" id="7"/><rel type="ニ" target="物体" sid="wiki00266549-00-01" id="6"/><rel type="ニヨッテ" target="吸収" sid="wiki00266549-00-01" id="3"/><rel type="ニヨッテ" mode="OR" target="放出" sid="wiki00266549-00-01" id="4"/>
 与える あたえる 与える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 9D
-+ 11D
++ 10D <rel type="=" target="色素" sid="wiki00266549-00-01" id="0"/>
 物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="色素" sid="wiki00266549-00-01" id="0"/><rel type="ノ" target="物質" sid="wiki00266549-00-01" id="10"/><rel type="=" target="色素" sid="wiki00266549-00-01" id="0"/>
++ -1D <rel type="ノ" target="物質" sid="wiki00266549-00-01" id="9"/><rel type="ガ" target="色素" sid="wiki00266549-00-01" id="0"/><rel type="=構" target="色素" sid="wiki00266549-00-01" id="0"/><memo text="CO"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00266549-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 2P
+# S-ID:wiki00266549-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/15 MEMO:
+* 1P
 + 2P <rel type="=" target="色素" sid="wiki00266549-00-01" id="0"/>
 しきそ しきそ しきそ 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
+* 2P
 + 2D
-coloring coloring coloring 名詞 6 組織名 6 * 0 * 0 NIL
+coloring coloring coloring 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-matter matter matter 名詞 6 組織名 6 * 0 * 0 NIL
++ 3P <rel type="=" target="色素" sid="wiki00266549-00-01" id="0"/>
+matter matter matter 名詞 6 普通名詞 1 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-pigment pigment pigment 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="色素" sid="wiki00266549-00-01" id="0"/>
+pigment pigment pigment 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

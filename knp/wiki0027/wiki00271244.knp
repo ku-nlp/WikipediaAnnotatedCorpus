@@ -1,33 +1,33 @@
-# S-ID:wiki00271244-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:150.00000
+# S-ID:wiki00271244-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:150.00000 MOD:2022/12/15 MEMO:
 * 17D
 + 1D
-コーポレート コーポレート コーポレート 名詞 6 普通名詞 1 * 0 * 0 NIL
+コーポレート こーぽれーと コーポレート 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 21D
++ 21D <rel type="ノ" target="コーポレート" sid="wiki00271244-00" id="0"/>
 アイデンティティ あいでんてぃてぃ アイデンティティ 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="コーポレート" sid="wiki00271244-00" id="0"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="企業" sid="wiki00271244-00" id="2"/>
++ 4D <rel type="ノ？" target="企業" sid="wiki00271244-00" id="2"/>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5P
-+ 7P <rel type="ガ" target="企業" sid="wiki00271244-00" id="2"/><rel type="ヲ" target="文化" sid="wiki00271244-00" id="3"/>
+* 10P
++ 12P <rel type="ガ" target="企業" sid="wiki00271244-00" id="2"/><rel type="ヲ" target="文化" sid="wiki00271244-00" id="3"/><rel type="外の関係" target="こと" sid="wiki00271244-00" id="15"/>
 構築 こうちく 構築 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 4P
 + 6P <rel type="ノ" target="企業" sid="wiki00271244-00" id="2"/>
 特性 とくせい 特性 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
-+ 7D <rel type="ノ" target="企業" sid="wiki00271244-00" id="19"/>
+* 10D
++ 12D <rel type="ノ" target="企業" sid="wiki00271244-00" id="19"/>
 独自 どくじ 独自だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="デザイン、また" sid="wiki00271244-00" id="9"/>
++ 9D <rel type="ガ" target="デザイン" sid="wiki00271244-00" id="9"/><rel type="ガ" mode="AND" target="イメージ" sid="wiki00271244-00" id="8"/><rel type="ニ" target="企業" sid="wiki00271244-00" id="2"/>
 統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -45,11 +45,11 @@
 わかり わかり わかる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 やすい やすい やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 10D
-+ 12D
++ 12D <rel type="ノ" target="企業" sid="wiki00271244-00" id="2"/>
 メッセージ めっせーじ メッセージ 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 14P <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ヲ" target="独自性" sid="wiki00271244-00" id="6"/><rel type="ニ" target="社会" sid="wiki00271244-00" id="13"/>
++ 14P <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ニ" target="社会" sid="wiki00271244-00" id="13"/><rel type="ヲ" target="独自性" sid="wiki00271244-00" id="6"/><rel type="ヲ" mode="AND" target="特性" sid="wiki00271244-00" id="5"/><rel type="デ" target="メッセージ" sid="wiki00271244-00" id="11"/><rel type="デ" mode="AND" target="イメージ" sid="wiki00271244-00" id="8"/><rel type="デ" mode="AND" target="デザイン" sid="wiki00271244-00" id="9"/><rel type="外の関係" target="こと" sid="wiki00271244-00" id="15"/>
 発信 はっしん 発信 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 12D
@@ -57,21 +57,21 @@
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 15D <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ヲ" target="独自性" sid="wiki00271244-00" id="6"/>
++ 15D <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ヲ" target="独自性" sid="wiki00271244-00" id="6"/><rel type="ヲ" mode="AND" target="特性" sid="wiki00271244-00" id="5"/><rel type="ト" target="社会" sid="wiki00271244-00" id="13"/><rel type="外の関係" target="こと" sid="wiki00271244-00" id="15"/>
 共有 きょうゆう 共有 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 15D
-+ 18D
++ 18D <rel type="トイウ" target="共有する" sid="wiki00271244-00" id="14"/><rel type="トイウ" mode="AND" target="発信し" sid="wiki00271244-00" id="12"/><rel type="トイウ" mode="AND" target="構築し" sid="wiki00271244-00" id="4"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 17D <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 18D <rel type="ノ" target="存在" sid="wiki00271244-00" id="16"/>
++ 18D <rel type="ノ" target="企業" sid="wiki00271244-00" id="2"/><rel type="ニツイテ" target="存在" sid="wiki00271244-00" id="16"/>
 価値 かち 価値 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 16D
-+ 20D <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ヲ" target="価値" sid="wiki00271244-00" id="17"/>
+* 17D
++ 21D <rel type="ガ" target="企業" sid="wiki00271244-00" id="19"/><rel type="ヲ" target="価値" sid="wiki00271244-00" id="17"/><rel type="デ" target="こと" sid="wiki00271244-00" id="15"/><rel type="外の関係" target="一つ" sid="wiki00271244-00" id="21"/>
 高めて たかめて 高める 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
 いく いく いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 基本形 2 NIL
 * 17D
@@ -81,36 +81,36 @@
 戦略 せんりゃく 戦略 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アイデンティティ" sid="wiki00271244-00" id="1"/><rel type="ノ" target="戦略" sid="wiki00271244-00" id="20"/><rel type="=" target="アイデンティティ" sid="wiki00271244-00" id="1"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="アイデンティティ" sid="wiki00271244-00" id="1"/><rel type="=構" target="アイデンティティ" sid="wiki00271244-00" id="1"/><rel type="トイウ" target="高めていく" sid="wiki00271244-00" id="18"/><rel type="ノ" target="戦略" sid="wiki00271244-00" id="20"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00271244-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00271244-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/15 MEMO:
 * 1P
-+ 2P <rel type="=" target="アイデンティティ" sid="wiki00271244-00" id="1"/>
++ 2P <rel type="=構" target="アイデンティティ" sid="wiki00271244-00" id="1"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-CI CI CI 名詞 6 組織名 6 * 0 * 0 NIL
+CI CI CI 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 2P
 + 2D <rel type="=" target="CI" sid="wiki00271244-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-CI CI CI 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 4P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="CI" sid="wiki00271244-01" id="1"/><NE:ARTIFACT:CI計画>
-計画 けいかく 計画 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
+CI CI CI 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="CI" sid="wiki00271244-01" id="1"/><rel type="=構" target="アイデンティティ" sid="wiki00271244-00" id="1"/>
+計画 けいかく 計画 名詞 6 サ変名詞 2 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3D
 + 4D <rel type="=" target="CI" sid="wiki00271244-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-CI CI CI 名詞 6 組織名 6 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="CI" sid="wiki00271244-01" id="3"/>
+CI CI CI 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="CI" sid="wiki00271244-01" id="3"/><rel type="=構" target="アイデンティティ" sid="wiki00271244-00" id="1"/>
 プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アイデンティティ" sid="wiki00271244-00" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="アイデンティティ" sid="wiki00271244-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="CI" sid="wiki00271244-01" id="0"/><rel type="ト" mode="AND" target="計画" sid="wiki00271244-01" id="2"/><rel type="ト" mode="AND" target="プロジェクト" sid="wiki00271244-01" id="4"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

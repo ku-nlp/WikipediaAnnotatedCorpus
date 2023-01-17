@@ -1,26 +1,26 @@
-# S-ID:wiki00264548-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000
+# S-ID:wiki00264548-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/12/14 MEMO:
 * 4D
-+ 5D
++ 5D <NE:ARTIFACT:隋書>
 『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
-隋書 ずいしょ 隋書 名詞 6 普通名詞 1 * 0 * 0 NIL
+隋書 ずいしょ 隋書 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D
-二十四 二十四 二十四 名詞 6 数詞 7 * 0 * 0 NIL
-+ 3D
-史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL
+二十四 にじゅうし 二十四 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 3D <rel type="=≒" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="修飾" target="二十四" sid="wiki00264548-00-01" id="1"/><NE:OPTIONAL:二十四史>
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
-+ 5D <rel type="ノ" target="史" sid="wiki00264548-00-01" id="2"/><rel type="=" target="隋書" sid="wiki00264548-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+* 4P
++ 5P <rel type="ノ" target="史" sid="wiki00264548-00-01" id="2"/><rel type="ガ" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="=構" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="=構" mode="AND" target="史" sid="wiki00264548-00-01" id="2"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * 4D
 + 5D <rel type="ノ" target="史" sid="wiki00264548-00-01" id="2"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-13 13 13 名詞 6 数詞 7 * 0 * 0 NIL
+13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -29,16 +29,16 @@
 あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00264548-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00264548-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00264548-00-01" id="3"/>
-ずいしょ ずいしょ ずいしょ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="隋書" sid="wiki00264548-00-01" id="0"/><NE:ARTIFACT:ずいしょ>
+ずいしょ ずいしょ ずいしょ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 EOS
-# S-ID:wiki00264548-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00264548-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/12/14 MEMO:
 * 1D
 + 1D <NE:LOCATION:中国>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D <rel type="ノ" target="中国" sid="wiki00264548-01" id="0"/>
++ 2D <rel type="ノ" target="中国" sid="wiki00264548-01" id="0"/><rel type="=≒" target="史" sid="wiki00264548-00-01" id="2"/>
 史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -46,40 +46,42 @@ EOS
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
++ 5D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 4D
-+ 5D
-隋代 隋代 隋代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=≒" target="中国" sid="wiki00264548-01" id="0"/>
+隋 ずい 隋 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
++ 6D <rel type="ニオイテ" target="中" sid="wiki00264548-01" id="2"/><rel type="ノ" target="隋" sid="wiki00264548-01" id="4"/><memo text="接尾辞の「代」は、受講代の代のようだがこのままでいい？"/><NE:DATE:隋代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="書" sid="wiki00264548-01" id="7"/><rel type="ヲ" target="隋代" sid="wiki00264548-01" id="4"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="代" sid="wiki00264548-01" id="5"/><rel type="デ" target="書" sid="wiki00264548-01" id="8"/>
 扱った あつかった 扱う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * -1D
-+ 7D
++ 8D <rel type="=" target="史" sid="wiki00264548-01" id="1"/><rel type="ノ？" target="中国" sid="wiki00264548-01" id="0"/>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="=" target="隋書" sid="wiki00264548-00-01" id="0"/>
++ -1D <rel type="ガ" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="=構" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="ノ？" target="歴史" sid="wiki00264548-01" id="7"/><memo text="CO"/>
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00264548-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00264548-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 1D
 + 1D
-志 こころざし 志 名詞 6 普通名詞 1 * 0 * 0 NIL
+志 し 志 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="志" sid="wiki00264548-02-01" id="0"/>
++ 2D <rel type="ノ" target="隋書" sid="wiki00264548-00-01" id="0"/><rel type="ノ？" target="志" sid="wiki00264548-02-01" id="0"/>
 部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
 だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="部分" sid="wiki00264548-02-01" id="1"/>
++ -1D <rel type="ガ" target="部分" sid="wiki00264548-02-01" id="1"/><rel type="=構" target="部分" sid="wiki00264548-02-01" id="1"/>
 通史 つうし 通史 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00264548-02-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00264548-02-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ニツイテ" target="通史" sid="wiki00264548-02-01" id="2"/><rel type="デ" target="後文"/>
 後述 こうじゅつ 後述 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS

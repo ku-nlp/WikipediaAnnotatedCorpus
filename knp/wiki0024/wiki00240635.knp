@@ -1,92 +1,93 @@
-# S-ID:wiki00240635-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00240635-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/12/08 MEMO:
 * 6D
 + 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 4D
-セブン セブン セブン 名詞 6 人名 5 * 0 * 0 NIL
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D
+セブン せぶん セブン 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+& あんど & 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D
-& & & 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
-アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 17D
-ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL
+アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 15D <NE:ORGANIZATION:株式会社セブン&アイ・ホールディングス>
+ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 8D
-セブン セブン セブン 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D
-イレブン イレブン イレブン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D
+セブン せぶん セブン 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7D
+イレブン いれぶん イレブン 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10P <NE:ORGANIZATION:セブン-イレブン・ジャパン>
++ 8P <NE:ORGANIZATION:セブン-イレブン・ジャパン>
 ジャパン じゃぱん ジャパン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 12D <NE:ORGANIZATION:イトーヨーカ堂>
++ 10D <NE:ORGANIZATION:イトーヨーカ堂>
 イトーヨーカ堂 いとーよーかどう イトーヨーカ堂 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 12D <rel type="ノ" target="ホールディングス" sid="wiki00240635-00" id="5"/>
++ 10D <rel type="ノ" target="ホールディングス" sid="wiki00240635-00" id="5"/>
 傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 17D <rel type="ガ" target="会社" sid="wiki00240635-00" id="17"/><rel type="ヲ" target="イトーヨーカ堂" sid="wiki00240635-00" id="10"/><rel type="ニ" target="傘下" sid="wiki00240635-00" id="11"/>
++ 15D <rel type="ガ" target="会社" sid="wiki00240635-00" id="17"/><rel type="ニ" target="傘下" sid="wiki00240635-00" id="11"/><rel type="ヲ" target="ジャパン" sid="wiki00240635-00" id="7"/><rel type="ヲ" mode="AND" target="イトーヨーカ堂など" sid="wiki00240635-00" id="8"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 6D
-+ 17D <NE:LOCATION:日本>
++ 15D <NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 15D
 大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
++ 15D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="不特定:物"/><rel type="カラ" target="不特定:人"/>
 流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D
++ 15D
 持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="5"/><rel type="=" target="ホールディングス" sid="wiki00240635-00" id="5"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="5"/><rel type="ノ？" target="日本" sid="wiki00240635-00" id="11"/><rel type="修飾" target="大手" sid="wiki00240635-00" id="12"/><rel type="修飾" mode="AND" target="流通" sid="wiki00240635-00" id="13"/><rel type="修飾" mode="AND" target="持株" sid="wiki00240635-00" id="14"/><rel type="=構" target="ホールディングス" sid="wiki00240635-00" id="7"/><memo text="CO"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00240635-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00240635-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * 1P
-+ 1D <NE:ORGANIZATION:日経>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 2D
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3P
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="ガ" target="日経" sid="wiki00240635-01" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00240635-01" id="2"/>
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5P <rel type="修飾" target="平均" sid="wiki00240635-01" id="1"/><NE:OPTIONAL:日経平均株価>
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 4P
-TOPIX TOPIX TOPIX 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Core Core Core 名詞 6 組織名 6 * 0 * 0 NIL
-30 30 30 名詞 6 数詞 7 * 0 * 0 NIL
++ 5D
+TOPIX とぴっくす TOPIX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D
+Core Core Core 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9P <NE:OPTIONAL:TOPIX　Core30>
+30 さんじゅう 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="日経" sid="wiki00240635-01" id="0"/>
-JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="日経" sid="wiki00240635-01" id="0"/>
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <NE:ORGANIZATION:JPX日経インデックス>
-インデックス インデックス インデックス 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-400 400 400 名詞 6 数詞 7 * 0 * 0 NIL
++ 7P
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 8D <rel type="=" target="日経" sid="wiki00240635-01" id="0"/>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9D
+インデックス いんでっくす インデックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 11D <NE:OPTIONAL:JPX日経インデックス400>
+400 よんひゃく 400 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="銘柄" sid="wiki00240635-01" id="8"/><rel type="ヲ" target="株価" sid="wiki00240635-01" id="2"/>
++ 11D <rel type="ガ" target="銘柄" sid="wiki00240635-01" id="8"/><rel type="ヲ" target="株価" sid="wiki00240635-01" id="2"/><rel type="ヲ" mode="AND" target="30" sid="wiki00240635-01" id="5"/><rel type="ヲ" mode="AND" target="400" sid="wiki00240635-01" id="9"/>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 12D <rel type="修飾" target="構成" sid="wiki00240635-01" id="10"/><rel type="=≒" target="ホールディングス" sid="wiki00240635-00" id="4"/>
 銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="5"/><rel type="ノ" target="銘柄" sid="wiki00240635-01" id="8"/><rel type="=" target="ホールディングス" sid="wiki00240635-00" id="5"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="5"/><rel type="ノ" target="銘柄" sid="wiki00240635-01" id="8"/><rel type="=構" target="ホールディングス" sid="wiki00240635-00" id="7"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00240635-01" id="11"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,9 +1,9 @@
-# S-ID:wiki00232957-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000
+# S-ID:wiki00232957-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/11/09 MEMO:
 * 9D
 + 1D
 最終 さいしゅう 最終だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 12D
-氷期 氷期 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="修飾" target="最終" sid="wiki00232957-00-01" id="0"/>
+氷期 ひょうき 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -12,23 +12,23 @@
 およそ およそ およそ 副詞 8 * 0 * 0 * 0 NIL
 * 3D
 + 4D
-7万 7万 7万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+7万 ななまん 7万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 5D <NE:DATE:7万年前>
 前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 8P <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="11"/>
++ 8P <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="11"/><rel type="時間" target="前" sid="wiki00232957-00-01" id="4"/>
 始まって はじまって 始まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 5D
 + 7D
-1万 1万 1万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+1万 いちまん 1万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 8D <NE:DATE:1万年前>
 前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="11"/>
++ 11D <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="11"/><rel type="時間" target="前" sid="wiki00232957-00-01" id="7"/>
 終了 しゅうりょう 終了 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 7D
@@ -38,64 +38,66 @@
 + 11D <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="11"/>
 新しい あたらしい 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL
 * 9D
-+ 12D <rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/>
-氷期 氷期 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=構" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="修飾" target="新しい" sid="wiki00232957-00-01" id="10"/>
+氷期 ひょうき 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="ノ" target="氷期" sid="wiki00232957-00-01" id="11"/><rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/>
++ -1D <rel type="ガ" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="ノ" target="氷期" sid="wiki00232957-00-01" id="11"/><rel type="=構" target="氷期" sid="wiki00232957-00-01" id="1"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00232957-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00232957-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/09 MEMO:
 * 1P
 + 1D <rel type="=" target="最終" sid="wiki00232957-00-01" id="0"/>
-さいしゅう さいしゅう さいしゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2P <rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/>
-ひょうき ひょうき ひょうき 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さいしゅう さいしゅう さいしゅうだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 4P <rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="修飾" target="さいしゅう" sid="wiki00232957-00-02" id="0"/>
+ひょうき ひょうき ひょうき 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D
-Last Last Last 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D <rel type="=" target="最終" sid="wiki00232957-00-01" id="0"/>
+Last Last Last 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-glacial glacial glacial 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D
+glacial glacial glacial 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-period period period 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="修飾" target="Last" sid="wiki00232957-00-02" id="2"/><rel type="修飾" mode="AND" target="glacial" sid="wiki00232957-00-02" id="3"/>
+period period period 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00232957-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000
+# S-ID:wiki00232957-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000 MOD:2022/11/22 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ノ" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="=" target="こと" sid="wiki00232957-00-01" id="12"/>
++ 12D <rel type="ノ" target="氷期" sid="wiki00232957-00-01" id="1"/><rel type="=" target="氷期" sid="wiki00232957-00-01" id="1"/>
 時期 じき 時期 名詞 6 時相名詞 10 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="氷期" sid="wiki00232957-00-01" id="11"/>
-氷期 氷期 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=≒" target="氷期" sid="wiki00232957-00-01" id="11"/>
+氷期 ひょうき 氷期 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 12D <rel type="ノ" target="氷期" sid="wiki00232957-01" id="2"/>
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
-* 5D
+* 5P
 + 5D
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7P <rel type="ニツイテ" target="地質" sid="wiki00232957-01" id="4"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
+* 6P
 + 7D
 地理 ちり 地理 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D
++ 9P <rel type="ニツイテ" target="地理" sid="wiki00232957-01" id="6"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 9D
 気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
++ 12D <rel type="ニツイテ" target="気候" sid="wiki00232957-01" id="8"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -105,8 +107,8 @@ EOS
 * 9D
 + 12D
 詳しく くわしく 詳しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7 NIL
-* 19D
-+ 26D <rel type="ガ" target="時期" sid="wiki00232957-01" id="1"/><rel type="ニ" target="不特定:人"/>
+* 19P
++ 26P <rel type="ガ" target="時期" sid="wiki00232957-01" id="1"/><rel type="ニ" target="不特定:人"/>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -118,42 +120,42 @@ EOS
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 15D
++ 15P
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 16D
 海洋 かいよう 海洋 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16P
-+ 23P <rel type="ノ" target="大気" sid="wiki00232957-01" id="14"/>
++ 23P <rel type="ノ" target="大気" sid="wiki00232957-01" id="14"/><rel type="ノ" mode="AND" target="気温" sid="wiki00232957-01" id="13"/><rel type="ノ" mode="AND" target="海洋" sid="wiki00232957-01" id="15"/><rel type="時間" target="時期" sid="wiki00232957-01" id="1"/>
 状態 じょうたい 状態 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
 + 18D
-海水 かいすい 海水 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D
-準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 20D <rel type="ガ" target="準" sid="wiki00232957-01" id="18"/>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ノ" target="海" sid="wiki00232957-01" id="17"/>
+水準 すいじゅん 水準 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ガ" target="水準" sid="wiki00232957-01" id="18"/>
 低下 ていか 低下 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 21D
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 16D
-+ 23D <rel type="ガ" target="線" sid="wiki00232957-01" id="23"/>
++ 23D <rel type="ガ" target="線" sid="wiki00232957-01" id="23"/><rel type="ニヨッテ" target="低下" sid="wiki00232957-01" id="19"/>
 変化 へんか 変化 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
-* 18A
+* 18D
 + 23D
 海岸 かいがん 海岸 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 25A <rel type="ノ" target="海岸" sid="wiki00232957-01" id="22"/>
++ 25D <rel type="時間" target="時期" sid="wiki00232957-01" id="1"/><rel type="ノ？" target="海岸" sid="wiki00232957-01" id="22"/>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 18D
 + 25D <rel type="ガ" target="復元" sid="wiki00232957-01" id="25"/>
 緻密な ちみつな 緻密だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 19D
-+ 26D <rel type="ガ" target="線" sid="wiki00232957-01" id="23"/>
++ 26D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="線など" sid="wiki00232957-01" id="23"/><rel type="ヲ" mode="AND" target="状態" sid="wiki00232957-01" id="16"/>
 復元 ふくげん 復元 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

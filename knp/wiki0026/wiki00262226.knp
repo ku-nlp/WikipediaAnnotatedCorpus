@@ -1,10 +1,10 @@
-# S-ID:wiki00262226-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00262226-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/14 MEMO:
 * 4D
-+ 1D
++ 3D
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
 天文 てんもん 天文 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
++ 3D <rel type="ニツイテ" target="天文" sid="wiki00262226-00-01" id="1"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 9D <NE:ORGANIZATION:国際天文学連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
@@ -17,11 +17,11 @@
 * 3D
 + 6D <rel type="=" target="天文" sid="wiki00262226-00-01" id="1"/>
 天文 てんもん 天文 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="天文" sid="wiki00262226-00-01" id="5"/>
++ 7D <rel type="ノ？" target="天文" sid="wiki00262226-00-01" id="5"/><rel type="ノ？" mode="AND" target="世界" sid="wiki00262226-00-01" id="4"/>
 学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="組織" sid="wiki00262226-00-01" id="9"/>
++ 9D <rel type="ガ" target="組織" sid="wiki00262226-00-01" id="9"/><rel type="デ" target="学者" sid="wiki00262226-00-01" id="6"/>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -29,64 +29,62 @@
 * -1D
 + 9D <rel type="=" target="国際" sid="wiki00262226-00-01" id="0"/>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="連合" sid="wiki00262226-00-01" id="3"/><rel type="=" target="連合" sid="wiki00262226-00-01" id="3"/>
++ -1D <rel type="ガ" target="連合" sid="wiki00262226-00-01" id="3"/><rel type="修飾" target="国際" sid="wiki00262226-00-01" id="8"/><rel type="=構" target="連合" sid="wiki00262226-00-01" id="3"/><memo text="CO"/>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00262226-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000
-* 1D
+# S-ID:wiki00262226-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000 MOD:2022/12/14 MEMO:
+* 1P
 + 3D <rel type="=" target="国際" sid="wiki00262226-00-01" id="0"/>
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="天文" sid="wiki00262226-00-01" id="1"/>
-てんもん てんもん てんもん 名詞 6 普通名詞 1 * 0 * 0 NIL
-が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 2D
-+ 3D
-く く く 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 7D <rel type="=" target="組織" sid="wiki00262226-00-01" id="9"/><NE:ORGANIZATION:くれんごう>
+てんもん てんもん てんもん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="学" sid="wiki00262226-00-01" id="2"/>
+がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7P <rel type="=" target="連合" sid="wiki00262226-00-01" id="3"/><NE:ORGANIZATION:こくさいてんもんがくれんごう>
 れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 6D
++ 7D <NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 7D <rel type="=" target="国際" sid="wiki00262226-00-01" id="0"/>
-International International International 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Astronomical Astronomical Astronomical 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Union Union Union 名詞 6 組織名 6 * 0 * 0 NIL
-+ 8D
+International International International 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7D <rel type="=≒" target="学" sid="wiki00262226-00-01" id="2"/>
+Astronomical Astronomical Astronomical 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8P <rel type="=" target="連合" sid="wiki00262226-00-01" id="3"/><rel type="デ" target="英" sid="wiki00262226-00-02" id="4"/><NE:ORGANIZATION:International　Astronomical　Union>
+Union Union Union 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=" target="れんごう" sid="wiki00262226-00-02" id="3"/>
-IAU IAU IAU 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="連合" sid="wiki00262226-00-01" id="3"/><NE:ORGANIZATION:IAU>
+IAU IAU IAU 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00262226-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00262226-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/29 MEMO:
 * 1D
-+ 1D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D
-学術 がくじゅつ 学術 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D
+学術 がくじゅつ 学術 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <NE:ORGANIZATION:国際学術会議>
+会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D
 下部 かぶ 下部 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="=" target="連合" sid="wiki00262226-00-01" id="3"/>
++ 5D <rel type="ノ" target="会議" sid="wiki00262226-01-01" id="2"/><rel type="修飾" target="下部" sid="wiki00262226-01-01" id="3"/><rel type="=構" target="連合" sid="wiki00262226-00-01" id="3"/>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="連合" sid="wiki00262226-00-01" id="3"/>
++ -1D <rel type="ガ" target="連合" sid="wiki00262226-00-01" id="3"/><rel type="ト" target="組織" sid="wiki00262226-01-01" id="4"/>
 なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00262226-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00262226-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="れんごう" sid="wiki00262226-00-02" id="3"/>
-ISC ISC ISC 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="会議" sid="wiki00262226-01-01" id="2"/><memo text="International Science Council"/><NE:ORGANIZATION:ISC>
+ISC ISC ISC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

@@ -1,8 +1,8 @@
-# S-ID:wiki00281342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000
+# S-ID:wiki00281342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2022/12/16 MEMO:
 * 6D
 + 1D
 事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
++ 10D <rel type="ノ？" target="事務" sid="wiki00281342-00-01" id="0"/>
 次官 じかん 次官 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,40 +13,40 @@
 * 3D
 + 4D
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="行政" sid="wiki00281342-00-01" id="3"/>
++ 5D <rel type="ノ？" target="行政" sid="wiki00281342-00-01" id="3"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00281342-00-01" id="2"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="機関" sid="wiki00281342-00-01" id="4"/>
++ 6D <rel type="ノ？" target="機関" sid="wiki00281342-00-01" id="4"/><rel type="=≒" target="次官" sid="wiki00281342-00-01" id="1"/>
 官職 かんしょく 官職 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
-+ 10D <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ノ" target="官職" sid="wiki00281342-00-01" id="5"/><rel type="=" target="次官" sid="wiki00281342-00-01" id="1"/>
+* 6P
++ 10P <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ノ" target="官職" sid="wiki00281342-00-01" id="5"/><rel type="=構" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="=構" mode="AND" target="官職" sid="wiki00281342-00-01" id="5"/>
 一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D
-各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + 9D
+各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 9P <rel type="=≒" target="機関" sid="wiki00281342-00-01" id="4"/><rel type="修飾" target="各" sid="wiki00281342-00-01" id="7"/>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="機関" sid="wiki00281342-00-01" id="4"/>
++ 10D <rel type="=≒" target="機関" sid="wiki00281342-00-01" id="4"/><rel type="修飾" target="各" sid="wiki00281342-00-01" id="7"/>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ニ" target="省" sid="wiki00281342-00-01" id="9"/>
++ -1D <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ニ" target="府" sid="wiki00281342-00-01" id="8"/><rel type="ニ" mode="AND" target="省" sid="wiki00281342-00-01" id="9"/>
 置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00281342-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00281342-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
 * -1D
-+ 1D
++ 1D <rel type="=" target="事務" sid="wiki00281342-00-01" id="0"/>
 じむ じむ じむ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="一種" sid="wiki00281342-00-01" id="6"/>
++ -1D <rel type="=" target="次官" sid="wiki00281342-00-01" id="1"/>
 じかん じかん じかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00281342-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00281342-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/16 MEMO:
 * 2D
 + 3D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
@@ -54,12 +54,12 @@ EOS
 * 2D
 + 2D
 復興 ふっこう 復興 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <NE:ORGANIZATION:復興庁>
++ 3D <rel type="=≒" target="機関" sid="wiki00281342-00-01" id="4"/><NE:ORGANIZATION:復興庁>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ニ" target="庁" sid="wiki00281342-01" id="2"/>
++ -1D <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ニ" target="庁" sid="wiki00281342-01" id="2"/><rel type="時間" target="現在" sid="wiki00281342-01" id="0"/>
 置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

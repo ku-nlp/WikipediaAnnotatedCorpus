@@ -1,4 +1,4 @@
-# S-ID:wiki00269711-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00269711-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/15 MEMO:
 * 4D
 + 1D
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -7,35 +7,35 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
++ 3D <rel type="ガ" target="選挙" sid="wiki00269711-00-01" id="3"/>
 直接 ちょくせつ 直接 副詞 8 * 0 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="修飾" target="直接" sid="wiki00269711-00-01" id="2"/>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 3D
-+ 6D
+* 4D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="デ" target="選挙" sid="wiki00269711-00-01" id="3"/><rel type="ニ" target="組織" sid="wiki00269711-00-01" id="7"/>
 選出 せんしゅつ 選出 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
-+ 6D
++ 6D <rel type="=" target="欧州" sid="wiki00269711-00-01" id="0"/>
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7D <NE:ORGANIZATION:欧州連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ノ" target="連合" sid="wiki00269711-00-01" id="6"/><rel type="ガ" target="議会" sid="wiki00269711-00-01" id="1"/><rel type="=構" target="議会" sid="wiki00269711-00-01" id="1"/><memo text="CO"/>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00269711-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00269711-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ 1D
-おうしゅう おうしゅう おうしゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D
-ぎかい ぎかい ぎかいだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 1D <rel type="=" target="欧州" sid="wiki00269711-00-01" id="0"/>
+おうしゅう おうしゅう おうしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/><NE:ORGANIZATION:おうしゅうぎかい>
+ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00269711-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00269711-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/15 MEMO:
 * 1D
 + 1D
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -43,7 +43,7 @@ EOS
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <rel type="ノ？" target="連合" sid="wiki00269711-01" id="1"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -52,34 +52,34 @@ EOS
 * 6D
 + 5D
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D
++ 7D <rel type="=" target="連合" sid="wiki00269711-01" id="1"/>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D
 理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:欧州連合理事会>
++ 12D <rel type="ノ" target="連合" sid="wiki00269711-01" id="5"/><rel type="ノ？" target="理事" sid="wiki00269711-01" id="6"/><memo text="理事会：上院　議会：下院"/><NE:ORGANIZATION:欧州連合理事会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
 * 5D
-+ 9D
++ 9D <rel type="=≒" target="会" sid="wiki00269711-01" id="7"/><rel type="=≒" mode="AND" target="議会" sid="wiki00269711-00-01" id="1"/><memo text="SE　一般的な両院制と捉えて、=格入れない方がいい？"/>
 両院 りょういん 両院 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="ノ" target="両院" sid="wiki00269711-01" id="8"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 11D
-立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
+立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 12D <rel type="修飾" target="制" sid="wiki00269711-01" id="9"/><rel type="=構≒" target="会" sid="wiki00269711-01" id="7"/><rel type="=構≒" mode="AND" target="議会" sid="wiki00269711-00-01" id="1"/><NE:OPTIONAL:立法府>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ニオイテ" target="機関" sid="wiki00269711-01" id="2"/><rel type="ガ" target="議会" sid="wiki00269711-00-01" id="1"/><rel type="ガ" mode="AND" target="会" sid="wiki00269711-01" id="7"/><rel type="ヲ" target="府" sid="wiki00269711-01" id="11"/>
 形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00269711-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:159.00000
+# S-ID:wiki00269711-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:159.00000 MOD:2022/12/15 MEMO:
 * 16D
 + 22D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
@@ -91,20 +91,20 @@ EOS
 多く おおく 多く 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D
++ 6D <rel type="修飾" target="多く" sid="wiki00269711-02" id="1"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D
 共同 きょうどう 共同 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="ガ" target="会" sid="wiki00269711-02" id="8"/><rel type="ガ" mode="AND" target="議会" sid="wiki00269711-02" id="10"/><rel type="外の関係" target="手続" sid="wiki00269711-02" id="5"/><rel type="修飾" target="共同" sid="wiki00269711-02" id="3"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
 決定 けってい 決定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ニヨッテ" target="決定" sid="wiki00269711-02" id="4"/>
 手続 てつづき 手続 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 14P
++ 14P <rel type="ガ" target="手続" sid="wiki00269711-02" id="5"/><rel type="デ" target="分野" sid="wiki00269711-02" id="2"/><rel type="ニ" target="連合" sid="wiki00269711-01" id="1"/>
 適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -112,72 +112,72 @@ EOS
 * 6P
 + 8D
 理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P
++ 10P <rel type="=" target="会" sid="wiki00269711-01" id="7"/>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <NE:ORGANIZATION:欧州議会>
++ 11D <rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/><NE:ORGANIZATION:欧州議会>
 議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 12D
++ 12D <rel type="=≒" target="会" sid="wiki00269711-02" id="8"/><rel type="=≒" mode="AND" target="議会" sid="wiki00269711-02" id="10"/><memo text="SE"/>
 双方 そうほう 双方 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D
++ 13D <rel type="ガ" target="双方" sid="wiki00269711-02" id="11"/><rel type="外の関係" target="こと" sid="wiki00269711-02" id="13"/><rel type="=" target="決定" sid="wiki00269711-02" id="4"/>
 同意 どうい 同意 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 14D
++ 14D <rel type="トイウ" target="同意する" sid="wiki00269711-02" id="12"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 22D
++ 22D <rel type="ガ" target="こと" sid="wiki00269711-02" id="13"/><rel type="ニ" target="決定" sid="wiki00269711-02" id="4"/>
 必要に ひつように 必要だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
 なって なって なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 16D
++ 16D <rel type="=≒" target="決定" sid="wiki00269711-02" id="4"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="権" sid="wiki00269711-02" id="16"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
 決定 けってい 決定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 19D
++ 19D <rel type="ノ" target="決定" sid="wiki00269711-02" id="15"/>
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13D
 + 18D
 理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D
++ 19D <rel type="=" target="会" sid="wiki00269711-02" id="8"/>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 20D
++ 20D <rel type="ガ" target="権" sid="wiki00269711-02" id="16"/><rel type="ニ" target="会" sid="wiki00269711-02" id="18"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 21D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 16D
-+ 22D
++ 22D <rel type="トイウ" target="ある" sid="wiki00269711-02" id="19"/><rel type="=≒" target="分野" sid="wiki00269711-02" id="2"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="時間" target="現在" sid="wiki00269711-02" id="0"/><rel type="ガ" target="分野" sid="wiki00269711-02" id="21"/>
 限定 げんてい 限定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 なって なって なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00269711-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:187.00000
+# S-ID:wiki00269711-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:187.00000 MOD:2022/12/15 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ノ" target="議会" sid="wiki00269711-02" id="10"/>
 議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 22D
-+ 22D
-751 751 751 名詞 6 数詞 7 * 0 * 0 NIL
+* 22P
++ 22P <rel type="ガ" target="議員" sid="wiki00269711-03" id="0"/><rel type="ノ" target="議員" sid="wiki00269711-03" id="0"/><rel type="=構" target="議員" sid="wiki00269711-03" id="0"/>
+751 ななひゃくごじゅういち 751 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -185,24 +185,24 @@ EOS
 + 3D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 15D
-+ 15D
++ 15D <rel type="=" target="選挙" sid="wiki00269711-00-01" id="3"/><rel type="ノ" target="議会" sid="wiki00269711-02" id="10"/>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 5D
++ 5D <rel type="ガ" target="実施" sid="wiki00269711-03" id="5"/>
 民主 みんしゅ 民主 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 6D
-+ 6D
++ 6D <rel type="ガ" target="もの" sid="wiki00269711-03" id="6"/><rel type="修飾" target="民主的に" sid="wiki00269711-03" id="4"/><rel type="ニ" target="不特定:人"/>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 7D
++ 7D <rel type="=≒" target="選挙" sid="wiki00269711-03" id="3"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 15D
-+ 15D
+* 12D
++ 12D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9D
@@ -212,18 +212,18 @@ EOS
 * 12D
 + 12D
 ついで ついで つぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL
-* 12D
-+ 12D
+* 11D
++ 11D <rel type="=≒" target="インド" sid="wiki00269711-03" id="8"/><rel type="=≒" mode="AND" target="欧州" sid="wiki00269711-02" id="9"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 12D
++ 12D <rel type="デ" target="世界" sid="wiki00269711-03" id="10"/>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 13D
++ 13D <rel type="トシテ" target="もの" sid="wiki00269711-03" id="6"/><rel type="ニツヅイテ" target="インド" sid="wiki00269711-03" id="8"/><rel type="ガ" target="有権者" sid="wiki00269711-03" id="13"/><rel type="ニ" target="2番目" sid="wiki00269711-03" id="11"/><rel type="ニ" mode="？" target="なし"/>
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 14D
 + 14D
@@ -233,7 +233,7 @@ EOS
 + 15D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 22P
-+ 22P
++ 22P <rel type="ニヨッテ" target="有権者" sid="wiki00269711-03" id="13"/><rel type="ガ" target="選挙" sid="wiki00269711-03" id="3"/>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -244,10 +244,10 @@ EOS
 国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 18D
++ 18D <rel type="ガ" target="選挙" sid="wiki00269711-03" id="18"/><rel type="ヲ" target="国境" sid="wiki00269711-03" id="16"/>
 越えた こえた 越える 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 19D
-+ 19D
++ 19D <rel type="修飾" target="越えた" sid="wiki00269711-03" id="17"/><rel type="=≒" target="選挙" sid="wiki00269711-00-01" id="3"/>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
@@ -255,13 +255,13 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 21D
-+ 21D
++ 21D <rel type="=" target="世界" sid="wiki00269711-03" id="10"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 22D
-+ 22D
++ 22D <rel type="デ" target="世界" sid="wiki00269711-03" id="20"/><rel type="ガ" target="規模" sid="wiki00269711-03" id="22"/>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D
++ -1D <rel type="トシテ" target="選挙" sid="wiki00269711-03" id="18"/><rel type="ガ" target="選挙" sid="wiki00269711-03" id="3"/><rel type="修飾" target="最大の" sid="wiki00269711-03" id="21"/>
 規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

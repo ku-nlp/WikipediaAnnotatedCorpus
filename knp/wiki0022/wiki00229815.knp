@@ -1,4 +1,4 @@
-# S-ID:wiki00229815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/10 MEMO:
 * 5D
 + 9D <NE:LOCATION:チュニス>
 チュニス ちゅにす チュニス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -38,21 +38,21 @@
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229815-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229815-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/10 MEMO:
 * 1P
-+ 1P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
-Tunis Tunis Tunis 名詞 6 地名 4 * 0 * 0 NIL
++ 1P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/><NE:LOCATION:Tunis>
+Tunis Tunis Tunis 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
-تونس تونس تونس 名詞 6 地名 4 * 0 * 0 NIL
++ 2P <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/><NE:LOCATION:تونس>
+تونس تونس تونس 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/>
-Tūnis Tūnis Tūnis 名詞 6 地名 4 * 0 * 0 NIL
++ -1D <rel type="=" target="チュニス" sid="wiki00229815-00-01" id="0"/><NE:LOCATION:Tūnis>
+Tūnis Tūnis Tūnis 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
-# S-ID:wiki00229815-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229815-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/10 MEMO:
 * 5D
 + 10D
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -90,19 +90,19 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229815-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229815-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/11/10 MEMO:
 * 2D
-+ 7D
-2019 にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 7D <NE:DATE:2019年>
+2019 にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/>
 経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="会社" sid="wiki00229815-02" id="3"/><rel type="ニカンシテ" target="経営" sid="wiki00229815-02" id="1"/>
-コンサルティング コンサルティング コンサルティング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ニカンシテ" target="経営" sid="wiki00229815-02" id="1"/>
+コンサルティング こんさるてぃんぐ コンサルティング 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="ノ？" target="コンサルティング" sid="wiki00229815-02" id="2"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D <memo text="アンドリュー"/>
 A A A 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
@@ -110,7 +110,7 @@ A A A 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
 T T T 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D <rel type="=構" target="会社" sid="wiki00229815-02" id="3"/><rel type="修飾" target="会社" sid="wiki00229815-02" id="3"/><NE:ORGANIZATION:A.T.カーニー>
-カーニー カーニー カーニー 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+カーニー かーにー カーニー 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 8D <rel type="ガ" target="カーニー" sid="wiki00229815-02" id="6"/>
@@ -124,7 +124,7 @@ T T T 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 * 5D
 + 10D <rel type="=" target="世界" sid="wiki00229815-01" id="9"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="デ" target="世界" sid="wiki00229815-02" id="9"/>
++ 12D <rel type="デ" target="世界" sid="wiki00229815-02" id="9"/><rel type="ノ" target="都市" sid="wiki00229815-02" id="12"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 102 ひゃくに 102 名詞 6 数詞 7 * 0 * 0 NIL
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
@@ -143,7 +143,7 @@ T T T 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00229815-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/10/31 MEMO:
+# S-ID:wiki00229815-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/11/10 MEMO:
 * 4D
 + 1D <rel type="ノ" target="アフリカ" sid="wiki00229815-01" id="7"/>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>

@@ -1,14 +1,14 @@
-# S-ID:wiki00255001-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00255001-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/29 MEMO:
 * 3D
 + 1D
-カール カール カール 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+カール かーる カール 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2D <NE:PERSON:カール・ライムント>
-ライムント ライムント ライムント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <NE:ORGANIZATION:ポパー>
-ポパー ポパー ポパー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 8D <rel type="=" target="ポパー" sid="wiki00255001-00-01" id="2"/>
++ 2D
+ライムント らいむんと ライムント 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 3D <NE:PERSON:カール・ライムント・ポパー>
+ポパー ぽぱー ポパー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <rel type="=役" target="ポパー" sid="wiki00255001-00-01" id="2"/>
 卿 きょう 卿 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -25,65 +25,62 @@
 * -1D
 + 8D
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="卿" sid="wiki00255001-00-01" id="3"/><rel type="ノ" target="哲学" sid="wiki00255001-00-01" id="7"/><rel type="=" target="ポパー" sid="wiki00255001-00-01" id="2"/>
++ -1D <rel type="ガ" target="卿" sid="wiki00255001-00-01" id="3"/><rel type="=構" target="卿" sid="wiki00255001-00-01" id="3"/><rel type="ノ？" target="哲学" sid="wiki00255001-00-01" id="7"/><rel type="修飾" target="出身" sid="wiki00255001-00-01" id="5"/><rel type="修飾" mode="AND" target="イギリス" sid="wiki00255001-00-01" id="6"/><memo text="CO"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00255001-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 5P
-+ 5P <rel type="=" target="者" sid="wiki00255001-00-01" id="8"/>
-Sir Sir Sir 名詞 6 組織名 6 * 0 * 0 NIL
+# S-ID:wiki00255001-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
+* 2D
++ 3D <rel type="=" target="卿" sid="wiki00255001-00-01" id="3"/>
+Sir Sir Sir 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Karl Karl Karl 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Raimund Raimund Raimund 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Popper Popper Popper 名詞 6 組織名 6 * 0 * 0 NIL
++ 2D <rel type="=" target="カール" sid="wiki00255001-00-01" id="0"/>
+Karl Karl Karl 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 3D <rel type="=" target="ライムント" sid="wiki00255001-00-01" id="1"/>
+Raimund Raimund Raimund 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 9D <rel type="=" target="ポパー" sid="wiki00255001-00-01" id="2"/><NE:PERSON:Karl　Raimund　Popper>
+Popper Popper Popper 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-1902 1902 1902 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 5D
 + 5D
-7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+1902 せんきゅうひゃくに 1902 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D
+7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 4D
-+ 4D <NE:DATE:1902年7月28日>
-28 28 28 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 9P <NE:DATE:1902年7月28日>
+28 にじゅうはち 28 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 5D
-+ 5D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 6D
-+ 6D
-1994 1994 1994 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 7D
-+ 7D
-9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * -1D
-+ -1D
-17 17 17 名詞 6 数詞 7 * 0 * 0 NIL
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 8D
+1994 せんきゅうひゃくきゅうじゅうよ 1994 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 9D
+9 く 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <NE:DATE:1994年9月17日>
+17 じゅうしち 17 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00255001-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00255001-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
-+ 1D
++ 3D <rel type="ノ？" target="イギリス" sid="wiki00255001-00-01" id="6"/>
 ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D
 スクール すくーる スクール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-オブ オブ オブ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D <NE:ORGANIZATION:ロンドン・スクール・オブ・エコノミクス>
-エコノミクス エコノミクス エコノミクス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ -1D <rel type="ガ" target="卿" sid="wiki00255001-00-01" id="3"/><rel type="ノ" target="エコノミクス" sid="wiki00255001-01" id="3"/><rel type="=" target="ポパー" sid="wiki00255001-00-01" id="2"/>
+エコノミクス えこのみくす エコノミクス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="ガ" target="卿" sid="wiki00255001-00-01" id="3"/><rel type="ノ" target="エコノミクス" sid="wiki00255001-01" id="3"/><rel type="=構" target="卿" sid="wiki00255001-00-01" id="3"/><memo text="CO"/>
 教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

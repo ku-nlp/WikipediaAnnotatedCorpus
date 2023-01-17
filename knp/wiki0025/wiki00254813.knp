@@ -1,213 +1,197 @@
-# S-ID:wiki00254813-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:132.00000
+# S-ID:wiki00254813-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:132.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D
-文禄 ぶんろく 文禄 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <NE:DATE:文禄>
+文禄 ぶんろく 文禄 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-慶長 けいちょう 慶長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <NE:DATE:慶長>
+慶長 けいちょう 慶長 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 31D
-+ 47D
-役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 23D
++ 42D <rel type="時間" target="文禄" sid="wiki00254813-00-01" id="0"/><rel type="時間" mode="AND" target="慶長" sid="wiki00254813-00-01" id="1"/>
+役 えき 役 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D
-天正 てんせい 天正 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 4D
-+ 7D
-20 20 20 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 6D
-/ / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-万 まん 万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-+ 8D
-暦 こよみ 暦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
-* 5D
-+ 10D <NE:DATE:万暦20年>
-20 20 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+天正 てんしょう 天正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 6P <NE:DATE:天正20年>
+20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 10D
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
-宣祖 せんそ 宣祖 名詞 6 人名 5 * 0 * 0 NIL
-* 6D
-+ 12D
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 6D
+万暦 ばんれき 万暦 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 8P <rel type="=" target="20年" sid="wiki00254813-00-01" id="4"/><NE:DATE:万暦20年>
+20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+/ / / 特殊 1 記号 5 * 0 * 0 NIL
++ 8D
+宣祖 せんそ 宣祖 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 9D <rel type="=" target="20年" sid="wiki00254813-00-01" id="6"/><NE:DATE:宣祖25年>
+25 にじゅうご 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9P
-+ 16P
+* 5P
++ 13P <rel type="ガ" target="役" sid="wiki00254813-00-01" id="15"/><rel type="時間" target="20年" sid="wiki00254813-00-01" id="4"/><rel type="時間" mode="AND" target="20年" sid="wiki00254813-00-01" id="6"/><rel type="時間" mode="AND" target="25年" sid="wiki00254813-00-01" id="8"/>
 始まって はじまって 始まる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
-* 8D
-+ 14D
+* 5D
++ 12D <rel type="ノ" target="20年" sid="wiki00254813-00-01" id="4"/>
 翌 よく 翌 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 15D
-文禄 ぶんろく 文禄 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 9D
-+ 16D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 12D <rel type="=" target="文禄" sid="wiki00254813-00-01" id="0"/>
+文禄 ぶんろく 文禄 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 13D <rel type="修飾" target="翌" sid="wiki00254813-00-01" id="10"/><NE:DATE:文禄2年>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
-+ 18D
+* 7D
++ 15D <rel type="ガ" target="役" sid="wiki00254813-00-01" id="15"/><rel type="時間" target="2年" sid="wiki00254813-00-01" id="12"/>
 休戦 きゅうせん 休戦 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
-* 11D
-+ 18D
-文禄 ぶんろく 文禄 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 7D
++ 15D <rel type="=" target="文禄" sid="wiki00254813-00-01" id="0"/><NE:DATE:文禄>
+文禄 ぶんろく 文禄 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 28P
-+ 44P
-役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 20P
++ 39P <rel type="時間" target="文禄" sid="wiki00254813-00-01" id="14"/><rel type="=≒" target="役" sid="wiki00254813-00-01" id="2"/>
+役 えき 役 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 13D
-+ 20D
-慶長 けいちょう 慶長 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 14D
-+ 23D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+* 9D
++ 17D <rel type="=" target="慶長" sid="wiki00254813-00-01" id="1"/>
+慶長 けいちょう 慶長 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 20D <NE:DATE:慶長2年>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 15D
-+ 22D
+* 10D
++ 19D <rel type="ガ" target="日本" sid="wiki00254813-00-01" id="34"/><rel type="ト" target="不特定:人1"/><rel type="外の関係" target="交渉" sid="wiki00254813-00-01" id="19"/><memo text="ガト交替可、不特定:人1＝明"/>
 講和 こうわ 講和 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 23D
++ 20D <rel type="ガ" target="日本" sid="wiki00254813-00-01" id="34"/><rel type="ト" target="不特定:人1"/><rel type="ニツイテ" target="講和" sid="wiki00254813-00-01" id="18"/><memo text="ガト交替可"/>
 交渉 こうしょう 交渉 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 24D
++ 21D <rel type="時間" target="2年" sid="wiki00254813-00-01" id="17"/><rel type="ガ" target="交渉" sid="wiki00254813-00-01" id="19"/>
 決裂 けつれつ 決裂 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 16D
-+ 25D
+* 11D
++ 22D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
-* 26P
-+ 42P
+* 18P
++ 37P <rel type="ガ" target="役" sid="wiki00254813-00-01" id="39"/><rel type="ニヨッテ" target="決裂" sid="wiki00254813-00-01" id="20"/>
 再開 さいかい 再開 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
-* 18D
-+ 27D
-慶長 けいちょう 慶長 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 19D
-+ 30D
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 29D
+* 14D
++ 24D <rel type="=" target="慶長" sid="wiki00254813-00-01" id="16"/>
+慶長 けいちょう 慶長 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 26P <NE:DATE:慶長3年>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 30D
-万暦 万暦 万暦 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 20D
-+ 32D
-26 26 26 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 32D
++ 26D <rel type="=" target="万暦" sid="wiki00254813-00-01" id="5"/>
+万暦 ばんれき 万暦 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 28P <rel type="=" target="3年" sid="wiki00254813-00-01" id="24"/><NE:DATE:万暦26年>
+26 にじゅうろく 26 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 33D
-宣祖 せんそ 宣祖 名詞 6 人名 5 * 0 * 0 NIL
-* 21D
-+ 36D
-31 31 31 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 28D <rel type="=" target="宣祖" sid="wiki00254813-00-01" id="7"/>
+宣祖 せんそ 宣祖 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 32D <rel type="=" target="26年" sid="wiki00254813-00-01" id="26"/><NE:DATE:宣祖31年>
+31 さんじゅういち 31 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 22D
-+ 35D
+* 14D
++ 31D
 太閤 たいこう 太閤 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 36D
-豊臣 豊臣 豊臣 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 37D
-秀吉 ひでよし 秀吉 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 31D
+豊臣 とよとみ 豊臣 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 32D <rel type="=構" target="太閤" sid="wiki00254813-00-01" id="29"/><rel type="修飾" target="太閤" sid="wiki00254813-00-01" id="29"/><NE:PERSON:豊臣秀吉>
+秀吉 ひでよし 秀吉 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 23D
-+ 38D
+* 15D
++ 33D <rel type="ガ" target="秀吉" sid="wiki00254813-00-01" id="31"/><rel type="時間" target="3年" sid="wiki00254813-00-01" id="24"/><rel type="時間" mode="AND" target="26年" sid="wiki00254813-00-01" id="26"/><rel type="時間" mode="AND" target="31年" sid="wiki00254813-00-01" id="28"/>
 死 し 死 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 26D
-+ 42D
+* 18D
++ 37D <rel type="ヲ" target="死" sid="wiki00254813-00-01" id="32"/>
 もって もって もる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
-* 25D
-+ 40D
+* 17D
++ 35D
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 41D <NE:ORGANIZATION:日本軍>
++ 36D <rel type="ノ" target="日本" sid="wiki00254813-00-01" id="34"/><NE:ORGANIZATION:日本軍>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 26D
-+ 42D
+* 18D
++ 37D <rel type="ガ" target="軍" sid="wiki00254813-00-01" id="35"/>
 撤退 てったい 撤退 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 28D
-+ 44D
+* 20D
++ 39D <rel type="ガ" target="役" sid="wiki00254813-00-01" id="39"/><rel type="デ" target="死" sid="wiki00254813-00-01" id="32"/><rel type="デ" mode="AND" target="撤退" sid="wiki00254813-00-01" id="36"/>
 終結 しゅうけつ 終結 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
-* 28D
-+ 44D
-慶長 けいちょう 慶長 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 20D
++ 39D <rel type="=" target="慶長" sid="wiki00254813-00-01" id="23"/><NE:DATE:慶長>
+慶長 けいちょう 慶長 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 29D
-+ 45D
-役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 21D
++ 40D <rel type="=≒" target="役" sid="wiki00254813-00-01" id="2"/><rel type="時間" target="慶長" sid="wiki00254813-00-01" id="38"/>
+役 えき 役 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 30D
-+ 46D
+* 23D
++ 42D <rel type="ヲ" target="役" sid="wiki00254813-00-01" id="39"/><rel type="ト" target="役" sid="wiki00254813-00-01" id="15"/><rel type="外の関係" target="総称" sid="wiki00254813-00-01" id="42"/><rel type="ガ" target="不特定:人"/>
 合わせた あわせた 合わせる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
-* 31D
-+ 47D
+* 23D
++ 42D <rel type="=≒" target="役" sid="wiki00254813-00-01" id="15"/><rel type="=≒" mode="AND" target="役" sid="wiki00254813-00-01" id="39"/>
 戦役 せんえき 戦役 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ノ" target="戦役" sid="wiki00254813-00-01" id="41"/><rel type="ガ" target="役" sid="wiki00254813-00-01" id="2"/><rel type="=構" target="役" sid="wiki00254813-00-01" id="2"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00254813-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00254813-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * 1D
-+ 1D
-ぶん ぶん ぶん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-ろく ろく ろく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="=" target="文禄" sid="wiki00254813-00-01" id="0"/><NE:DATE:ぶんろく>
+ぶんろく ぶんろく ぶんろく 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D
-けいちょう けいちょう けいちょう 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="=" target="慶長" sid="wiki00254813-00-01" id="1"/><NE:DATE:けいちょう>
+けいちょう けいちょう けいちょう 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="=" target="役" sid="wiki00254813-00-01" id="2"/><rel type="時間" target="ぶんろく" sid="wiki00254813-00-02" id="0"/><rel type="時間" mode="AND" target="けいちょう" sid="wiki00254813-00-02" id="1"/>
 えき えき えき 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00254813-00-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00254813-00-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ -1D
-1592 1592 1592 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="=" target="25年" sid="wiki00254813-00-01" id="8"/><NE:DATE:1592年>
+1592 せんごひゃくきゅうじゅうに 1592 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00254813-00-04 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00254813-00-04 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ -1D
-1593 1593 1593 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="=" target="2年" sid="wiki00254813-00-01" id="12"/><NE:DATE:1593年>
+1593 せんごひゃくきゅうじゅうさん 1593 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00254813-00-05 括弧始:（ 括弧終:） 括弧位置:80 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00254813-00-05 括弧始:（ 括弧終:） 括弧位置:80 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ -1D
-1597 1597 1597 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="=" target="2年" sid="wiki00254813-00-01" id="17"/><NE:DATE:1597年>
+1597 せんごひゃくきゅうじゅうなな 1597 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00254813-00-06 括弧始:（ 括弧終:） 括弧位置:119 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00254813-00-06 括弧始:（ 括弧終:） 括弧位置:119 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ -1D
-1598 1598 1598 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="=" target="31年" sid="wiki00254813-00-01" id="28"/><NE:DATE:1598年>
+1598 せんごひゃくきゅうじゅうはち 1598 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
-# S-ID:wiki00254813-00-07 括弧始:（ 括弧終:） 括弧位置:169 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00254813-00-07 括弧始:（ 括弧終:） 括弧位置:169 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ノ" target="役" sid="wiki00254813-00-01" id="2"/>
 他 た 他 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D
++ 2D <rel type="ノ" target="役" sid="wiki00254813-00-01" id="2"/><rel type="修飾" target="他" sid="wiki00254813-00-07" id="0"/>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -215,70 +199,66 @@ EOS
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 4D
-後節 後節 後節 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="後文"/>
+後節 こうせつ 後節 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ニツイテ" target="名称" sid="wiki00254813-00-07" id="1"/><rel type="ガ" target="読者"/><rel type="ヲ" target="後節" sid="wiki00254813-00-07" id="3"/><memo text="「のこと」「されたし」等の省略"/>
 参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00254813-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00254813-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/14 MEMO:
 * 1D
 + 1D
 全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 2D
-兵 へい 兵 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-船 せん 船 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="全" sid="wiki00254813-01" id="0"/><rel type="ノ？" target="朝鮮" sid="wiki00254813-01" id="6"/>
+兵船 へいせん 兵船 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D
-3分の1 3分の1 3分の1 名詞 6 数詞 7 * 0 * 0 NIL
++ 3D <rel type="ノ" target="兵船" sid="wiki00254813-01" id="1"/><NE:PERCENT:3分の1>
+3分の1 さんぶんのいち 3分の1 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:single>
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D
++ 5D <rel type="ガ" target="朝鮮" sid="wiki00254813-01" id="6"/><rel type="ヲ" target="3分の1以上" sid="wiki00254813-01" id="2"/><rel type="ニ" target="侵略した" sid="wiki00254813-01" id="5"/>
 動員 どういん 動員 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <NE:LOCATION:対馬>
++ 5D <rel type="ノ？" target="日本" sid="wiki00254813-00-01" id="34"/><NE:LOCATION:対馬>
 対馬 つしま 対馬 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
-+ 7D
+* 8D
++ 9D <rel type="ガ" target="朝鮮" sid="wiki00254813-01" id="6"/><rel type="ヲ" target="対馬" sid="wiki00254813-01" id="4"/><rel type="外の関係" target="外寇" sid="wiki00254813-01" id="9"/>
 侵略 しんりゃく 侵略 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6D
-+ 8D <NE:LOCATION:朝鮮>
++ 7D <NE:LOCATION:朝鮮>
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D
++ 9D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 8D
-+ 12D
-応永 おうえい 応永 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <NE:DATE:応永>
+応永 おうえい 応永 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 9D
-+ 11D
-外 そと 外 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:head>
-+ 12D <NE:PERSON:外寇>
-寇 寇 寇 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
-+ 15D
+* 10D
++ 10D <rel type="時間" target="応永" sid="wiki00254813-01" id="8"/><rel type="トイウ" target="侵略した" sid="wiki00254813-01" id="5"/><rel type="ニヨッテ" target="朝鮮" sid="wiki00254813-01" id="6"/>
+外寇 がいこう 外寇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D
 以来 いらい 以来 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 14D
-朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 15D
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 16D <NE:ORGANIZATION:朝鮮半島国家>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <rel type="=" target="朝鮮" sid="wiki00254813-01" id="6"/>
+朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 13D <NE:LOCATION:朝鮮半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 14D <rel type="ノ？" target="半島" sid="wiki00254813-01" id="12"/><rel type="=≒" target="不特定:人1"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="カラ" target="外寇" sid="wiki00254813-01" id="9"/><rel type="ト" target="国家" sid="wiki00254813-01" id="13"/><rel type="判ガ" target="役" sid="wiki00254813-00-01" id="2"/><rel type="ガ" target="日本" sid="wiki00254813-00-01" id="34"/>
 戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

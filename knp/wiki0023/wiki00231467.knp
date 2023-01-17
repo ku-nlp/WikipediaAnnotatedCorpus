@@ -1,39 +1,39 @@
-# S-ID:wiki00231467-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00231467-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/11/22 MEMO:
 * 7D
-+ 1D
-タークス タークス タークス 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-カイコス カイコス カイコス 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:head>
-+ 15D <NE:LOCATION:カイコス諸島>
++ 1P <memo text="「サボテン」や「海賊」の意が語源であるという説もあるらしい"/>
+タークス たーくす タークス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <memo text="「諸島」の意ではあるらしい"/>
+カイコス かいこす カイコス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 15D <memo text="タークス諸島とカイコス諸島からなる地域だそうなので、語源に関わらず、それぞれの品詞を地名とした。"/><NE:LOCATION:タークス・カイコス諸島>
 諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 4D
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <NE:LOCATION:西インド>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 6D
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <NE:LOCATION:西インド諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ガ" target="諸島" sid="wiki00231467-00-01" id="8"/><rel type="ニ" target="諸島" sid="wiki00231467-00-01" id="5"/>
++ 10D <rel type="ニ" target="諸島" sid="wiki00231467-00-01" id="5"/><rel type="ガ" target="諸島" sid="wiki00231467-00-01" id="8"/><rel type="ガ" mode="AND" target="諸島" sid="wiki00231467-00-01" id="10"/>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4P
 + 8D <rel type="=" target="タークス" sid="wiki00231467-00-01" id="0"/>
-タークス タークス タークス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL
+タークス たーくす タークス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10P <rel type="ノ？" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=≒" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=" mode="AND" target="タークス" sid="wiki00231467-00-01" id="0"/><NE:LOCATION:タークス諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D
-カイコス カイコス カイコス 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <NE:LOCATION:カイコス諸島>
++ 10D <rel type="=" target="カイコス" sid="wiki00231467-00-01" id="1"/>
+カイコス かいこす カイコス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 11D <rel type="ノ？" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=≒" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=" mode="AND" target="カイコス" sid="wiki00231467-00-01" id="1"/><NE:LOCATION:カイコス諸島>
 諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 15D <rel type="ガ" target="領土" sid="wiki00231467-00-01" id="15"/>
++ 15D <rel type="ガ" target="領土" sid="wiki00231467-00-01" id="15"/><rel type="カラ" target="諸島" sid="wiki00231467-00-01" id="8"/><rel type="カラ" mode="AND" target="諸島" sid="wiki00231467-00-01" id="10"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
@@ -43,33 +43,35 @@
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 15D
++ 15D <rel type="ノ" target="イギリス" sid="wiki00231467-00-01" id="12"/>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=" target="諸島" sid="wiki00231467-00-01" id="2"/>
++ -1D <rel type="ガ" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="ノ" target="イギリス" sid="wiki00231467-00-01" id="12"/><rel type="=構" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="=構" mode="AND" target="領" sid="wiki00231467-00-01" id="13"/><rel type="修飾" target="海外" sid="wiki00231467-00-01" id="14"/><rel type="修飾" mode="AND" target="領" sid="wiki00231467-00-01" id="13"/><memo text="CO"/>
 領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00231467-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00231467-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/22 MEMO:
 * 1P
-+ 1D
-タークス タークス タークス 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-カイコス カイコス カイコス 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5P <rel type="=" target="諸島" sid="wiki00231467-00-01" id="2"/>
-しょとう しょとう しょとう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="=" target="タークス" sid="wiki00231467-00-01" id="0"/>
+タークス たーくす タークス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <rel type="=" target="カイコス" sid="wiki00231467-00-01" id="1"/>
+カイコス かいこす カイコス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7P <rel type="=" target="諸島" sid="wiki00231467-00-01" id="2"/><NE:LOCATION:タークス・カイコスしょとう>
+しょとう しょとう しょとう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="=" target="イギリス" sid="wiki00231467-00-01" id="12"/><NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D
++ 7D <rel type="=" target="イギリス" sid="wiki00231467-00-01" id="12"/><NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=" target="タークス" sid="wiki00231467-00-02" id="0"/>
-Turks Turks Turks 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-and and and 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Caicos Caicos Caicos 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Islands Islands Islands 名詞 6 組織名 6 * 0 * 0 NIL
++ 5D <rel type="=" target="タークス" sid="wiki00231467-00-02" id="0"/>
+Turks Turks Turks 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D
+and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <rel type="=" target="カイコス" sid="wiki00231467-00-02" id="1"/>
+Caicos Caicos Caicos 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="諸島" sid="wiki00231467-00-01" id="2"/><rel type="デ" target="英" sid="wiki00231467-00-02" id="3"/><NE:LOCATION:Turks　and　Caicos　Islands>
+Islands Islands Islands 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

@@ -7,7 +7,7 @@
 + 2D <memo text="イエスであるキリスト　キリストであるイエスという意味の同格的表現"/>
 イエス いえす イエス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 4D <memo text="NE微妙だが"/><NE:PERSON:イエス・キリスト>
++ 4D <NE:PERSON:イエス・キリスト><memo text="NE微妙だが"/>
 キリスト きりすと キリスト 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -58,7 +58,7 @@
 + 16D <rel type="ガ" target="教派" sid="wiki00255372-00-01" id="10"/><rel type="ヲ" target="もの" sid="wiki00255372-00-01" id="16"/><rel type="ト" target="象徴" sid="wiki00255372-00-01" id="14"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="十字架" sid="wiki00255372-00-01" id="0"/><rel type="=構" target="十字架" sid="wiki00255372-00-01" id="0"/><rel type="=構" mode="AND" target="象徴" sid="wiki00255372-00-01" id="14"/><memo text="CO"/>
++ -1D <rel type="ガ" target="十字架" sid="wiki00255372-00-01" id="0"/><memo text="CO"/><rel type="=構" target="十字架" sid="wiki00255372-00-01" id="0"/><rel type="=構" mode="AND" target="象徴" sid="wiki00255372-00-01" id="14"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

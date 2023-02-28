@@ -1,7 +1,7 @@
-# S-ID:wiki00275857-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 4D
-+ 6D <NE:OPTIONAL:ウィキトラベル>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6D <NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -12,7 +12,7 @@
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 4D <rel type="ガ" target="不特定:人"/>
 旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 5D <rel type="ノ？" target="旅行" sid="wiki00275857-00-01" id="3"/>
 ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -25,12 +25,12 @@
 プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00275857-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/31 MEMO:
 * -1D
-+ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:Wikitravel>
-Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:Wikitravel><NE-OPTIONAL:ARTIFACT,NONE:0>
+Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00275857-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/01/31 MEMO:
 * 1D
 + 1D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -38,32 +38,32 @@ EOS
 中 じゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="修飾" target="中の" sid="wiki00275857-01-01" id="1"/>
++ 3D <rel type="修飾" target="中" sid="wiki00275857-01-01" id="1"/>
 ウィキトラベラー ウィキトラベラー ウィキトラベラー 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/>
++ 14D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="ニ" mode="AND" target="製作" sid="wiki00275857-01-01" id="13"/>
 協力 きょうりょく 協力 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="ガ" target="ブック" sid="wiki00275857-01-01" id="13"/>
++ 5P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
 コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
-* 7D
-+ 8D <rel type="ガ" target="ブック" sid="wiki00275857-01-01" id="13"/>
+* 7P
++ 8P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
 包括 ほうかつ 包括 名詞 6 サ変名詞 2 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="ブック" sid="wiki00275857-01-01" id="13"/>
++ 8D <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
 最新で さいしんで 最新だ 形容詞 3 * 0 ナノ形容詞 22 ダ列タ系連用テ形 13 NIL
 * 7D
-+ 8D <rel type="ガ" target="不特定:人"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
 信頼 しんらい 信頼 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="信頼" sid="wiki00275857-01-01" id="7"/><rel type="ガ２" target="不特定:人"/><rel type="ニ" target="ブック" sid="wiki00275857-01-01" id="13"/>
++ 12D <rel type="ガ" target="信頼" sid="wiki00275857-01-01" id="7"/><rel type="ガ２" target="不特定:人"/><rel type="ニ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 9D
 + 10D <rel type="=" target="世界" sid="wiki00275857-01-01" id="0"/>
@@ -74,11 +74,11 @@ EOS
 * 10D
 + 12D <rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/>
 旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D <rel type="=" target="ガイドブック" sid="wiki00275857-00-01" id="4"/>
++ 13D <rel type="=" target="ガイドブック" sid="wiki00275857-00-01" id="4"/><rel type="修飾" target="規模" sid="wiki00275857-01-01" id="10"/>
 ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 10D
-+ 14D <rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><rel type="ガ" target="不特定:人"/><rel type="=" target="作る" sid="wiki00275857-00-01" id="5"/>
+* 11D
++ 14D <rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><rel type="=" target="作る" sid="wiki00275857-00-01" id="5"/><rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ガ" mode="？" target="不特定:人"/>
 製作 せいさく 製作 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -86,13 +86,13 @@ EOS
 目指す めざす 目指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00275857-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/31 MEMO:
 * 1D
-+ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
 + 2D <rel type="ガ" target="者" sid="wiki00275857-01-02" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-01-02" id="0"/>
 参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ノ？" target="参加" sid="wiki00275857-01-02" id="1"/><rel type="=" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/>
++ 3D <rel type="ノ？" target="参加" sid="wiki00275857-01-02" id="1"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
@@ -102,10 +102,10 @@ EOS
 + -1D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニタイシテ" target="者" sid="wiki00275857-01-02" id="2"/>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00275857-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 7D
-+ 8D <rel type="=" target="ウィキトラベル" sid="wiki00275857-01-02" id="0"/><NE:OPTIONAL:ウィキトラベル>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 2D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/>
@@ -137,7 +137,7 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00275857-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00275857-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/31 MEMO:
 * 1D
 + 1D <rel type="=" target="コピーレフト" sid="wiki00275857-01-01" id="4"/>
 コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -168,7 +168,7 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
 + 9D <rel type="トイウ" target="使われる" sid="wiki00275857-03" id="7"/>
-事 こと 事 名詞 6 普通名詞 1 * 0 * 0 NIL
+事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><rel type="ヲ" target="事" sid="wiki00275857-03" id="8"/><rel type="ニヨッテ" target="ライセンス" sid="wiki00275857-03" id="1"/><rel type="ニ" target="不特定:人"/>

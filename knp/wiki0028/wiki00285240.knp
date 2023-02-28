@@ -24,14 +24,14 @@
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/25 MEMO:
 * -1D
 + 1D <rel type="=" target="大" sid="wiki00285240-00-01" id="0"/>
 だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="企業" sid="wiki00285240-00-01" id="1"/>
-きぎょう きぎょう きぎょう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+きぎょう きぎょう きぎょう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2023/01/25 MEMO:
 * 6D
 + 8D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
@@ -52,7 +52,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 ような ような ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 6D
-+ 8D <rel type="=≒" target="企業" sid="wiki00285240-01" id="2"/>
++ 8D <rel type="=≒" target="企業" sid="wiki00285240-01" id="2"/><rel type="修飾" target="知っているような" sid="wiki00285240-01" id="4"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
@@ -68,7 +68,7 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/25 MEMO:
 * 6D
 + 12D
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -88,7 +88,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 6D
 準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 7D <rel type="修飾" target="準" sid="wiki00285240-02-01" id="5"/><rel type="=" target="大手" sid="wiki00285240-02-01" id="3"/>
++ 7D <rel type="修飾" target="準" sid="wiki00285240-02-01" id="5"/><rel type="=≒" target="大手" sid="wiki00285240-02-01" id="3"/>
 大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9P <rel type="修飾" target="大手" sid="wiki00285240-02-01" id="6"/><rel type="=≒" target="企業" sid="wiki00285240-00-01" id="1"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -112,7 +112,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-02-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-02-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/01/25 MEMO:
 * 1D
 + 1D <rel type="=" target="有名" sid="wiki00285240-01" id="6"/>
 有名 ゆうめい 有名だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
@@ -136,11 +136,11 @@ EOS
 + 7D <rel type="ヲ" target="トップ" sid="wiki00285240-02-02" id="5"/><rel type="ガ" target="数社" sid="wiki00285240-02-02" id="7"/>
 占める しめる 占める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="企業" sid="wiki00285240-02-01" id="4"/><rel type="=構" target="企業" sid="wiki00285240-02-01" id="4"/><memo text="CO or PO:を言う、指すなど"/>
++ -1D <rel type="ガ" target="企業" sid="wiki00285240-02-01" id="4"/><rel type="=構" target="企業" sid="wiki00285240-02-01" id="4"/><memo text="CO or PO:を言う、指すなど"/><rel type="修飾" target="うち" sid="wiki00285240-02-02" id="2"/>
 数 すう 数 名詞 6 数詞 7 * 0 * 0 NIL
 社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-02-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-02-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/01/25 MEMO:
 * 1P
 + 1P <rel type="=" target="企業" sid="wiki00285240-02-01" id="4"/>
 大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -161,7 +161,7 @@ EOS
 + -1D <rel type="ガ" target="企業" sid="wiki00285240-02-01" id="7"/><rel type="=構" target="企業" sid="wiki00285240-02-01" id="7"/><memo text="CO or PO:を言う、指すなど"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00285240-02-04 括弧始:（ 括弧終:） 括弧位置:62 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00285240-02-04 括弧始:（ 括弧終:） 括弧位置:62 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/25 MEMO:
 * 1D
 + 1D
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
@@ -184,13 +184,13 @@ EOS
 + 7D <rel type="修飾" target="資本" sid="wiki00285240-02-04" id="5"/>
 金 きん 金 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ノ" target="金" sid="wiki00285240-02-04" id="6"/><rel type="=構" target="金" sid="wiki00285240-02-04" id="6"/><NE:MONEY:10億円>
++ 8D <rel type="ノ" target="金" sid="wiki00285240-02-04" id="6"/><NE:MONEY:10億円><rel type="=構" target="金" sid="wiki00285240-02-04" id="6"/>
 10億 じゅうおく 10億 名詞 6 数詞 7 * 0 * 0 NIL <NE:MONEY:head>
 円 えん 円 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:MONEY:tail>
 未満 みまん 未満 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13P
-+ 17P <rel type="修飾" target="10億円未満" sid="wiki00285240-02-04" id="7"/><rel type="=≒" target="会社" sid="wiki00285240-02-04" id="3"/><rel type="=構" mode="AND" target="企業" sid="wiki00285240-02-01" id="9"/>
++ 17P <rel type="=≒" target="会社" sid="wiki00285240-02-04" id="3"/><rel type="=構" mode="AND" target="企業" sid="wiki00285240-02-01" id="9"/><rel type="修飾" target="10億円未満" sid="wiki00285240-02-04" id="7"/><rel type="修飾" mode="AND" target="うち" sid="wiki00285240-02-04" id="4"/><rel type="ガ" target="企業" sid="wiki00285240-02-01" id="9"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -215,12 +215,12 @@ EOS
 + 16D <rel type="修飾" target="資本" sid="wiki00285240-02-04" id="14"/><rel type="=≒" target="金" sid="wiki00285240-02-04" id="6"/>
 金 きん 金 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 13D
-+ 17D <rel type="ノ" target="金" sid="wiki00285240-02-04" id="15"/><rel type="=構" target="金" sid="wiki00285240-02-04" id="15"/><NE:MONEY:1億円>
++ 17D <rel type="ノ" target="金" sid="wiki00285240-02-04" id="15"/><NE:MONEY:1億円><rel type="=構" target="金" sid="wiki00285240-02-04" id="15"/>
 1億 いちおく 1億 名詞 6 数詞 7 * 0 * 0 NIL <NE:MONEY:head>
 円 えん 円 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:MONEY:tail>
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="企業" sid="wiki00285240-02-01" id="9"/><rel type="=構" target="企業" sid="wiki00285240-02-01" id="9"/><rel type="修飾" target="1億円以上" sid="wiki00285240-02-04" id="16"/><memo text="CO or PO:を言う、指すなど"/>
++ -1D <memo text="CO or PO:を言う、指すなど"/><rel type="ガ" target="企業" sid="wiki00285240-02-01" id="9"/><rel type="=構" target="企業" sid="wiki00285240-02-01" id="9"/><rel type="修飾" target="1億円以上" sid="wiki00285240-02-04" id="16"/><rel type="修飾" mode="AND" target="うち" sid="wiki00285240-02-04" id="13"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

@@ -4,7 +4,7 @@
 ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 2D
 特別 とくべつ 特別 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="大韓民国" sid="wiki00255677-00-01" id="3"/><rel type="修飾" target="特別" sid="wiki00255677-00-01" id="1"/><NE:LOCATION:ソウル特別市>
++ 5D <NE:LOCATION:ソウル特別市><rel type="ノ？" target="大韓民国" sid="wiki00255677-00-01" id="3"/><rel type="修飾" target="特別" sid="wiki00255677-00-01" id="1"/>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -27,6 +27,6 @@ EOS
 ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 2D <rel type="=" target="特別" sid="wiki00255677-00-01" id="1"/>
 とくべつ とくべつ とくべつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="市" sid="wiki00255677-00-01" id="2"/><NE:LOCATION:ソウルとくべつし>
++ -1D <NE:LOCATION:ソウルとくべつし><rel type="=" target="市" sid="wiki00255677-00-01" id="2"/>
 し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

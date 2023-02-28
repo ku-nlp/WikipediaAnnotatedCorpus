@@ -1,81 +1,87 @@
-# S-ID:wiki00301679-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00301679-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/01/28 MEMO:
 * 11D
-+ 1D
++ 1D <rel type="ノ" target="不特定:人"/>
 心臓 しんぞう 心臓 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
-弁膜症 弁膜症 弁膜症 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="心臓" sid="wiki00301679-00-01" id="0"/>
+弁膜 べんまく 弁膜 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ノ？" target="弁膜" sid="wiki00301679-00-01" id="1"/>
+症 しょう 症 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
-+ 3D <rel type="=" target="心臓" sid="wiki00301679-00-01" id="0"/>
+* 4D
++ 4D <rel type="=" target="心臓" sid="wiki00301679-00-01" id="0"/>
 心臓 しんぞう 心臓 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="弁" sid="wiki00301679-00-01" id="5"/><rel type="ニ" target="心臓" sid="wiki00301679-00-01" id="2"/>
++ 6D <rel type="ニ" target="心臓" sid="wiki00301679-00-01" id="3"/><rel type="ガ" target="弁" sid="wiki00301679-00-01" id="6"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
-* 4D
-+ 5D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="5"/>
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="6"/>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
-+ 6D <rel type="ノ" target="心臓" sid="wiki00301679-00-01" id="2"/><rel type="=" target="4つ" sid="wiki00301679-00-01" id="4"/>
+* 7D
++ 7D <rel type="修飾" target="4つ" sid="wiki00301679-00-01" id="5"/><rel type="=構" target="4つ" sid="wiki00301679-00-01" id="5"/><rel type="=" mode="AND" target="弁膜" sid="wiki00301679-00-01" id="1"/>
 弁 べん 弁 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="5"/>
++ 9D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="5"/>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 7P
-+ 8P <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="5"/>
+* 9D
++ 9D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="6"/><rel type="修飾" target="うち" sid="wiki00301679-00-01" id="7"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="5"/>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
++ 12D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="6"/><rel type="修飾" target="うち" sid="wiki00301679-00-01" id="7"/>
+2 ふた 2 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D
++ 11D <rel type="ノ" target="弁" sid="wiki00301679-00-01" id="6"/>
 機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="機能" sid="wiki00301679-00-01" id="9"/>
++ 12D <rel type="ノ" target="機能" sid="wiki00301679-00-01" id="10"/>
 障害 しょうがい 障害 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 10D
-+ 12D <rel type="ガ" target="2つ以上" sid="wiki00301679-00-01" id="8"/><rel type="ヲ" target="障害" sid="wiki00301679-00-01" id="10"/>
+* 11D
++ 13D <rel type="ガ" target="ひとつ" sid="wiki00301679-00-01" id="8"/><rel type="ガ" mode="OR" target="2つ以上" sid="wiki00301679-00-01" id="9"/><rel type="ヲ" target="障害" sid="wiki00301679-00-01" id="11"/><rel type="外の関係" target="疾患" sid="wiki00301679-00-01" id="13"/>
 起こす おこす 起こす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 11D
-+ 13D
++ 14D <rel type="=" target="症" sid="wiki00301679-00-01" id="2"/><rel type="トイウ" target="起こす" sid="wiki00301679-00-01" id="12"/>
 疾患 しっかん 疾患 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="弁膜症" sid="wiki00301679-00-01" id="1"/><rel type="ノ" target="疾患" sid="wiki00301679-00-01" id="12"/><rel type="=" target="弁膜症" sid="wiki00301679-00-01" id="1"/>
++ -1D <rel type="ノ" target="疾患" sid="wiki00301679-00-01" id="13"/><rel type="=構" target="症" sid="wiki00301679-00-01" id="2"/><rel type="ガ" target="症" sid="wiki00301679-00-01" id="2"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00301679-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00301679-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/28 MEMO:
 * -1D
-+ -1D <rel type="=" target="心臓" sid="wiki00301679-00-01" id="0"/>
-しんぞうべんまくしょう しんぞうべんまくしょう しんぞうべんまくしょう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="心臓" sid="wiki00301679-00-01" id="0"/>
+しんぞう しんぞう しんぞう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="弁膜" sid="wiki00301679-00-01" id="1"/>
+べんまく べんまく べんまく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="症" sid="wiki00301679-00-01" id="2"/>
+しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00301679-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00301679-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/01/28 MEMO:
 * 1D
-+ 2D
-弁膜 弁膜 弁膜 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="弁膜" sid="wiki00301679-00-01" id="1"/>
+弁膜 べんまく 弁膜 名詞 6 普通名詞 1 * 0 * 0 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 2D
-心 こころ 心 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="心" sid="wiki00301679-01" id="1"/>
++ 2D <rel type="=" target="心臓" sid="wiki00301679-00-01" id="0"/>
+心 しん 心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=構" target="症" sid="wiki00301679-00-01" id="2"/><rel type="修飾" target="弁膜性" sid="wiki00301679-01" id="0"/><rel type="ノ？" target="心" sid="wiki00301679-01" id="1"/>
 疾患 しっかん 疾患 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="弁膜症" sid="wiki00301679-00-01" id="1"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="症" sid="wiki00301679-00-01" id="2"/><rel type="ト" target="疾患" sid="wiki00301679-01" id="2"/><rel type="外の関係" target="場合" sid="wiki00301679-01" id="4"/>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * 3D
-+ 5D
++ 5D <rel type="トイウ" target="呼ぶ" sid="wiki00301679-01" id="3"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D

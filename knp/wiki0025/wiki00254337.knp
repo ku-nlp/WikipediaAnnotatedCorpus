@@ -22,14 +22,14 @@
 生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D <rel type="=" target="保険" sid="wiki00254337-00-01" id="2"/><rel type="修飾" target="生命" sid="wiki00254337-00-01" id="6"/>
 保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00254337-00-01" id="5"/><rel type="修飾" target="保険" sid="wiki00254337-00-01" id="7"/><rel type="=構" target="会社" sid="wiki00254337-00-01" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00254337-00-01" id="4"/><memo text="CO"/><rel type="ノ？" target="日本" sid="wiki00254337-00-01" id="5"/><rel type="修飾" target="保険" sid="wiki00254337-00-01" id="7"/><rel type="=構" target="会社" sid="wiki00254337-00-01" id="4"/>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254337-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
 * 1P
 + 2D <rel type="=" target="第一" sid="wiki00254337-00-01" id="0"/>
-だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:head><NE:OPTIONAL:tail>
 いち いち いち 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D <rel type="=" target="生命" sid="wiki00254337-00-01" id="1"/>
 せいめい せいめい せいめい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
@@ -37,7 +37,7 @@ EOS
 ほけん ほけん ほけん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 9D <rel type="ノ" target="会社" sid="wiki00254337-00-01" id="4"/><NE:OPTIONAL:英>
++ 9D <rel type="ノ" target="会社" sid="wiki00254337-00-01" id="4"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英称 英称 英称 名詞 6 普通名詞 1 * 0 * 0 NIL
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 8D
@@ -58,7 +58,7 @@ Insurance Insurance Insurance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATI
 Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 , , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="英称" sid="wiki00254337-00-02" id="3"/><rel type="=" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="=構" mode="AND" target="英称" sid="wiki00254337-00-02" id="3"/><NE:ORGANIZATION:The　Dai-ichi　Life　Insurance　Company,　Limited>
++ -1D <rel type="ガ" target="英称" sid="wiki00254337-00-02" id="3"/><NE:ORGANIZATION:The　Dai-ichi　Life　Insurance　Company,　Limited><rel type="=" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="=構" mode="AND" target="英称" sid="wiki00254337-00-02" id="3"/>
 Limited Limited Limited 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00254337-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:

@@ -1,8 +1,8 @@
-# S-ID:wiki00297393-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00297393-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/18 MEMO:
 * 5D
 + 1D
 知識 ちしき 知識 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="修飾" target="知識" sid="wiki00297393-00-01" id="0"/>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 + 3D <rel type="ガ" target="知識" sid="wiki00297393-00-01" id="3"/>
 高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 3P
-+ 4P <rel type="=" target="知識" sid="wiki00297393-00-01" id="0"/>
++ 4P <rel type="=" target="知識" sid="wiki00297393-00-01" id="0"/><rel type="修飾" target="高い" sid="wiki00297393-00-01" id="2"/>
 知識 ちしき 知識 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -20,48 +20,47 @@
 教養 きょうよう 教養 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="人" sid="wiki00297393-00-01" id="6"/><rel type="ヲ" target="知識" sid="wiki00297393-00-01" id="3"/>
++ 6D <rel type="ガ" target="人" sid="wiki00297393-00-01" id="6"/><rel type="ヲ" target="知識" sid="wiki00297393-00-01" id="3"/><rel type="ヲ" mode="AND" target="教養" sid="wiki00297393-00-01" id="4"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 6D
-+ 7D <rel type="=" target="人" sid="wiki00297393-00-01" id="1"/>
++ 7D <rel type="=構" target="人" sid="wiki00297393-00-01" id="1"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人" sid="wiki00297393-00-01" id="1"/><rel type="ノ" target="人" sid="wiki00297393-00-01" id="6"/>
++ -1D <rel type="ガ" target="人" sid="wiki00297393-00-01" id="1"/><rel type="ノ" target="人" sid="wiki00297393-00-01" id="6"/><rel type="=構" target="人" sid="wiki00297393-00-01" id="1"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00297393-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00297393-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/18 MEMO:
 * -1D
 + 1D <rel type="=" target="知識" sid="wiki00297393-00-01" id="0"/>
 ちしき ちしき ちしき 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="人" sid="wiki00297393-00-01" id="6"/>
++ -1D <rel type="=" target="人" sid="wiki00297393-00-01" id="1"/>
 じん じん じん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00297393-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00297393-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/23 MEMO:
 * 1P
-+ 2P
++ 2P <rel type="=構" target="人" sid="wiki00297393-00-01" id="1"/>
 インテリ いんてり インテリ 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
 有識 ゆうしき 有識 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="=" target="人" sid="wiki00297393-00-01" id="6"/>
++ 3D <rel type="=構" target="人" sid="wiki00297393-00-01" id="1"/><rel type="修飾" target="有識" sid="wiki00297393-01-01" id="1"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人" sid="wiki00297393-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="人" sid="wiki00297393-00-01" id="1"/><rel type="ト" target="インテリ" sid="wiki00297393-01-01" id="0"/><rel type="ト" mode="AND" target="者" sid="wiki00297393-01-01" id="2"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00297393-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D
-ゆう ゆう ゆう 名詞 6 時相名詞 10 * 0 * 0 NIL
+# S-ID:wiki00297393-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/18 MEMO:
 * -1D
-+ -1D <rel type="=" target="インテリ" sid="wiki00297393-01-01" id="0"/>
-しきしゃ しきしゃ しきしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="有識" sid="wiki00297393-01-01" id="1"/>
+ゆうしき ゆうしき ゆうしき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="者" sid="wiki00297393-01-01" id="2"/>
+しゃ しゃ しゃ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS

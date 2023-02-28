@@ -60,7 +60,7 @@ EOS
 さっぽろ さっぽろ さっぽろ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="テレビ" sid="wiki00255663-00-01" id="1"/>
 テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="放送" sid="wiki00255663-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00255663-00-01" id="4"/><NE:ORGANIZATION:さっぽろテレビほうそう>
++ -1D <NE:ORGANIZATION:さっぽろテレビほうそう><rel type="=" target="放送" sid="wiki00255663-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00255663-00-01" id="4"/>
 ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00255663-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
@@ -79,7 +79,7 @@ STV STV STV 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 * -1D
 + 4D <rel type="=" target="札幌" sid="wiki00255663-00-01" id="0"/>
 札幌 さっぽろ 札幌 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="ガ" target="通称" sid="wiki00255663-01" id="2"/><rel type="=構" target="通称" sid="wiki00255663-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00255663-00-01" id="4"/><rel type="=" mode="AND" target="テレビ" sid="wiki00255663-00-01" id="1"/><memo text="CO"/><NE:ORGANIZATION:札幌テレビ>
++ -1D <rel type="ガ" target="通称" sid="wiki00255663-01" id="2"/><NE:ORGANIZATION:札幌テレビ><rel type="=構" target="通称" sid="wiki00255663-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00255663-00-01" id="4"/><rel type="=" mode="AND" target="テレビ" sid="wiki00255663-00-01" id="1"/><memo text="CO"/>
 テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -94,16 +94,16 @@ EOS
 + 3D
 JOKX JOKX JOKX 特殊 1 記号 5 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="サイン" sid="wiki00255663-02" id="1"/><rel type="=構" target="サイン" sid="wiki00255663-02" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="サイン" sid="wiki00255663-02" id="1"/><memo text="CO"/><rel type="=構" target="サイン" sid="wiki00255663-02" id="1"/>
 DTV DTV DTV 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255663-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1P <NE:OPTIONAL:NNN>
++ 1P <NE:OPTIONAL:NNN><NE-OPTIONAL:ORGANIZATION,NONE:0>
 NNN NNN NNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <NE:OPTIONAL:NNS>
++ 2D <NE:OPTIONAL:NNS><NE-OPTIONAL:ORGANIZATION,NONE:0>
 NNS NNS NNS 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3D <rel type="ノ" target="NNS" sid="wiki00255663-03" id="1"/><rel type="ノ" mode="AND" target="NNN" sid="wiki00255663-03" id="0"/><rel type="=≒" target="会社" sid="wiki00255663-00-01" id="4"/>
 系列 けいれつ 系列 名詞 6 普通名詞 1 * 0 * 0 NIL

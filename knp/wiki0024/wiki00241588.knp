@@ -20,7 +20,7 @@
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 8D
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 9D <rel type="ノ" target="リーグ" sid="wiki00241588-00-01" id="6"/><rel type="ノ？" target="西" sid="wiki00241588-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールアメリカンリーグ西地区>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00241588-00-01" id="6"/><NE:OPTIONAL:メジャーリーグベースボールアメリカンリーグ西地区><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="ノ？" target="西" sid="wiki00241588-00-01" id="7"/>
 地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 12D <rel type="ガ" target="チーム" sid="wiki00241588-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00241588-00-01" id="8"/>
 所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -39,7 +39,7 @@ EOS
 + 1D <rel type="ノ" target="エンゼルス" sid="wiki00241588-00-01" id="1"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00241588-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00241588-00-02" id="0"/><rel type="=" mode="AND" target="エンゼルス" sid="wiki00241588-00-01" id="1"/><NE:ORGANIZATION:LAA>
++ -1D <NE:ORGANIZATION:LAA><rel type="ガ" target="略称" sid="wiki00241588-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00241588-00-02" id="0"/><rel type="=" mode="AND" target="エンゼルス" sid="wiki00241588-00-01" id="1"/>
 LAA LAA LAA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00241588-00-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
@@ -48,7 +48,7 @@ EOS
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ベースボール" sid="wiki00241588-00-01" id="4"/><NE:OPTIONAL:MLB>
++ -1D <rel type="=" target="ベースボール" sid="wiki00241588-00-01" id="4"/><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION,NONE:0>
 MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00241588-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/14 MEMO:
@@ -62,7 +62,7 @@ EOS
 + 3D
 カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="地" sid="wiki00241588-01" id="1"/><rel type="=構" target="地" sid="wiki00241588-01" id="1"/><rel type="ノ？" target="カリフォルニア州" sid="wiki00241588-01" id="2"/><memo text="CO"/><NE:LOCATION:カリフォルニア州アナハイム>
++ -1D <rel type="ガ" target="地" sid="wiki00241588-01" id="1"/><NE:LOCATION:カリフォルニア州アナハイム><rel type="=構" target="地" sid="wiki00241588-01" id="1"/><rel type="ノ？" target="カリフォルニア州" sid="wiki00241588-01" id="2"/><memo text="CO"/>
 アナハイム あなはいむ アナハイム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -85,7 +85,7 @@ EOS
 + 6D
 オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="球場" sid="wiki00241588-02" id="2"/><rel type="=構" target="球場" sid="wiki00241588-02" id="2"/><memo text="CO"/><NE:LOCATION:エンゼル・スタジアム・オブ・アナハイム>
++ -1D <rel type="ガ" target="球場" sid="wiki00241588-02" id="2"/><NE:LOCATION:エンゼル・スタジアム・オブ・アナハイム><rel type="=構" target="球場" sid="wiki00241588-02" id="2"/><memo text="CO"/>
 アナハイム あなはいむ アナハイム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -97,7 +97,7 @@ NHK NHK NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="エンゼルス" sid="wiki00241588-00-01" id="1"/><NE:ORGANIZATION:エンジェルス>
++ 2D <NE:ORGANIZATION:エンジェルス><rel type="=" target="エンゼルス" sid="wiki00241588-00-01" id="1"/>
 エンジェルス えんじぇるす エンジェルス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -125,7 +125,7 @@ EOS
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="愛称" sid="wiki00241588-04-01" id="0"/><rel type="修飾" target="意味する" sid="wiki00241588-04-01" id="3"/><rel type="=構" target="愛称" sid="wiki00241588-04-01" id="0"/><rel type="=" mode="AND" target="エンゼルス" sid="wiki00241588-00-01" id="1"/><NE:ORGANIZATION:Halos>
++ -1D <rel type="ガ" target="愛称" sid="wiki00241588-04-01" id="0"/><NE:ORGANIZATION:Halos><rel type="修飾" target="意味する" sid="wiki00241588-04-01" id="3"/><rel type="=構" target="愛称" sid="wiki00241588-04-01" id="0"/><rel type="=" mode="AND" target="エンゼルス" sid="wiki00241588-00-01" id="1"/>
 Halos Halos Halos 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -139,6 +139,6 @@ halo halo halo 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00241588-04-03 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="Halos" sid="wiki00241588-04-01" id="4"/><NE:ORGANIZATION:ヘイロウズ>
++ -1D <NE:ORGANIZATION:ヘイロウズ><rel type="=" target="Halos" sid="wiki00241588-04-01" id="4"/>
 ヘイロウズ へいろうず ヘイロウズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

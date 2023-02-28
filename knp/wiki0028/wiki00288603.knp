@@ -1,4 +1,4 @@
-# S-ID:wiki00288603-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/27 MEMO:
+# S-ID:wiki00288603-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/26 MEMO:
 * 7D
 + 1D
 Web うぇぶ Web 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -8,8 +8,8 @@ Web うぇぶ Web 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D
-HTTP HTTP HTTP 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <NE:OPTIONAL:HTTP><NE-OPTIONAL:ARTIFACT,NONE:0>
+HTTP HTTP HTTP 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
@@ -47,16 +47,16 @@ EOS
 # S-ID:wiki00288603-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/27 MEMO:
 * -1D
 + 1D <rel type="=" target="Web" sid="wiki00288603-00-01" id="0"/>
-ウェブ うぇぶ ウェブ 名詞 6 普通名詞 1 * 0 * 0 NIL
+ウェブ うぇぶ ウェブ 名詞 6 普通名詞 1 * 0 * 0 NIL 
 + -1D <rel type="=" target="サービス" sid="wiki00288603-00-01" id="1"/>
-サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
+サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL 
 EOS
-# S-ID:wiki00288603-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2022/12/27 MEMO:
+# S-ID:wiki00288603-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2023/01/26 MEMO:
 * 1D
 + 1D <NE:ORGANIZATION:W3C>
-W3C だぶりゅーすりーしー W3C 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+W3C だぶりゅーすりーしー W3C 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ORGANIZATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 1D
+* 2D
 + 16D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -84,8 +84,8 @@ Web うぇぶ Web 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 5D
 + 8D <rel type="ガ" target="ソフトウェア同士" sid="wiki00288603-01" id="10"/>
 異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
-* 7D
-+ 10D
+* 8D
++ 10D <rel type="修飾" target="異なる" sid="wiki00288603-01" id="7"/>
 ソフトウェア そふとうぇあ ソフトウェア 名詞 6 普通名詞 1 * 0 * 0 NIL
 同士 どうし 同士 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -95,7 +95,7 @@ Web うぇぶ Web 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="ガ" target="ソフトウェア同士" sid="wiki00288603-01" id="10"/><rel type="ヲ" target="ソフトウェア同士" sid="wiki00288603-01" id="10"/><rel type="ニ" target="相互" sid="wiki00288603-01" id="9"/><rel type="ニ" mode="？" target="なし"/><rel type="外の関係" target="ため" sid="wiki00288603-01" id="11"/>
 運用 うんよう 運用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 9D
+* 10D
 + 13D <rel type="ノ" target="運用する" sid="wiki00288603-01" id="12"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -103,8 +103,8 @@ Web うぇぶ Web 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D <rel type="ガ" target="手段" sid="wiki00288603-01" id="15"/>
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
-* 11D
-+ 14D <rel type="ノ" target="ため" sid="wiki00288603-01" id="11"/>
+* 12D
++ 14D <rel type="修飾" target="ため" sid="wiki00288603-01" id="11"/><rel type="修飾" mode="AND" target="標準的な" sid="wiki00288603-01" id="12"/>
 手段 しゅだん 手段 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D

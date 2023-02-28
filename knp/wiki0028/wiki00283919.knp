@@ -1,4 +1,4 @@
-# S-ID:wiki00283919-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00283919-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/01/25 MEMO:
 * 4D
 + 4D <NE:LOCATION:淀川>
 淀川 よどがわ 淀川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -16,34 +16,34 @@
 唯一 ゆいいつ 唯一 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="淀川" sid="wiki00283919-00-01" id="0"/><memo text="CO"/><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="修飾" target="唯一" sid="wiki00283919-00-01" id="3"/>
 河川 かせん 河川 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00283919-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
 * -1D
-+ -1D <rel type="=" target="淀川" sid="wiki00283919-00-01" id="0"/><NE:LOCATION:よどがわ>
-よどがわ よどがわ よどがわ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <NE:LOCATION:よどがわ><rel type="=" target="淀川" sid="wiki00283919-00-01" id="0"/>
+よどがわ よどがわ よどがわ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:single>
 EOS
-# S-ID:wiki00283919-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00283919-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/01/25 MEMO:
 * 1P
 + 1D
 瀬田 せた 瀬田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <NE:LOCATION:瀬田川>
++ 3P <NE:LOCATION:瀬田川><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/>
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D
 宇治 うじ 宇治 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4P <rel type="=" target="川" sid="wiki00283919-01-01" id="1"/><NE:LOCATION:宇治川>
++ 4P <NE:LOCATION:宇治川><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/>
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=" target="川" sid="wiki00283919-01-01" id="3"/><rel type="=" mode="AND" target="淀川" sid="wiki00283919-00-01" id="0"/><NE:LOCATION:淀川>
-淀川 よどがわ 淀川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <NE:LOCATION:淀川><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/>
+淀川 よどがわ 淀川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="淀川" sid="wiki00283919-01-01" id="4"/>
++ 6D <rel type="ノ" target="淀川" sid="wiki00283919-00-01" id="0"/>
 名前 なまえ 名前 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -51,9 +51,9 @@ EOS
 変えて かえて 変える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
 * 6D
 + 8D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head><NE:LOCATION:head>
 + 9D <NE:LOCATION:大阪湾>
-湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="ニ" target="湾" sid="wiki00283919-01-01" id="8"/>
@@ -64,30 +64,30 @@ EOS
 # S-ID:wiki00283919-01-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
 * -1D
 + 1D <rel type="=" target="瀬田" sid="wiki00283919-01-01" id="0"/>
-せた せた せた 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="川" sid="wiki00283919-01-01" id="1"/><NE:LOCATION:せたがわ>
-がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+せた せた せた 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:head>
++ -1D <NE:LOCATION:せたがわ><rel type="=" target="川" sid="wiki00283919-01-01" id="1"/>
+がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
 EOS
 # S-ID:wiki00283919-01-03 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
 * -1D
 + 1D <rel type="=" target="宇治" sid="wiki00283919-01-01" id="2"/>
-うじ うじ うじ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+うじ うじ うじ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:head>
 + -1D <rel type="=" target="川" sid="wiki00283919-01-01" id="3"/><NE:LOCATION:うじがわ>
-がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
 EOS
-# S-ID:wiki00283919-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/12/27 MEMO:
+# S-ID:wiki00283919-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/01/25 MEMO:
 * 1P
-+ 1P <rel type="=≒" target="川" sid="wiki00283919-01-01" id="1"/><NE:LOCATION:滋賀県>
++ 1P <NE:LOCATION:滋賀県><rel type="=≒" target="川" sid="wiki00283919-01-01" id="1"/>
 滋賀 しが 滋賀 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=≒" target="川" sid="wiki00283919-01-01" id="3"/><NE:LOCATION:京都府>
++ 2P <NE:LOCATION:京都府><rel type="=≒" target="川" sid="wiki00283919-01-01" id="3"/>
 京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=≒" target="淀川" sid="wiki00283919-01-01" id="4"/><NE:LOCATION:大阪府>
++ 3D <NE:LOCATION:大阪府><rel type="=≒" target="淀川" sid="wiki00283919-01-01" id="4"/>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -95,13 +95,13 @@ EOS
 + 5D <rel type="ガ" target="水系" sid="wiki00283919-02" id="5"/><rel type="ヲ" target="滋賀県" sid="wiki00283919-02" id="0"/><rel type="ヲ" mode="AND" target="京都府" sid="wiki00283919-02" id="1"/><rel type="ヲ" mode="AND" target="大阪府" sid="wiki00283919-02" id="2"/>
 流れる ながれる 流れる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 5D
-+ 5D <rel type="=" target="淀川" sid="wiki00283919-00-01" id="0"/><NE:LOCATION:淀川>
++ 5D <NE:LOCATION:淀川><rel type="=" target="淀川" sid="wiki00283919-00-01" id="0"/>
 淀川 よどがわ 淀川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 6D <rel type="ノ" target="淀川" sid="wiki00283919-02" id="4"/>
-水系 すいけい 水系 名詞 6 普通名詞 1 * 0 * 0 NIL
+水系 すいけい 水系 名詞 6 普通名詞 1 * 0 * 0 NIL 
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 8P <rel type="修飾" target="水系" sid="wiki00283919-02" id="5"/><rel type="ガ" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/>
++ 8P <rel type="ガ" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="=構" target="淀川" sid="wiki00283919-00-01" id="0"/><rel type="ノ？" target="水系" sid="wiki00283919-02" id="5"/>
 本流 ほんりゅう 本流 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * -1D
@@ -112,14 +112,14 @@ EOS
 河川 かせん 河川 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00283919-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00283919-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/25 MEMO:
 * 1D
 + 1D <rel type="ノ" target="淀川" sid="wiki00283919-00-01" id="0"/>
 流路 りゅうろ 流路 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D <rel type="ノ" target="流路" sid="wiki00283919-03" id="0"/>
 延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL
 * 3P
-+ 5P <rel type="ガ" target="延長" sid="wiki00283919-03" id="1"/><rel type="ノ" target="延長" sid="wiki00283919-03" id="1"/><rel type="=構" target="延長" sid="wiki00283919-03" id="1"/><memo text="CO"/>
++ 5P <memo text="CO"/><rel type="ガ" target="延長" sid="wiki00283919-03" id="1"/><rel type="ノ" target="延長" sid="wiki00283919-03" id="1"/><rel type="=構" target="延長" sid="wiki00283919-03" id="1"/>
 75.1 ななじゅうごてんいち 75.1 名詞 6 数詞 7 * 0 * 0 NIL
       特殊 1 空白 6 * 0 * 0 NIL
 km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
@@ -130,12 +130,12 @@ km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 + 5D <rel type="ノ" target="流域" sid="wiki00283919-03" id="3"/>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="面積" sid="wiki00283919-03" id="4"/><rel type="ノ" target="面積" sid="wiki00283919-03" id="4"/><rel type="=構" target="面積" sid="wiki00283919-03" id="4"/><memo text="CO"/>
++ -1D <memo text="CO"/><rel type="ガ" target="面積" sid="wiki00283919-03" id="4"/><rel type="ノ" target="面積" sid="wiki00283919-03" id="4"/><rel type="=構" target="面積" sid="wiki00283919-03" id="4"/>
 8,240 はっせんにひゃくよんじゅう 8,240 名詞 6 数詞 7 * 0 * 0 NIL
-km2 へおほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00283919-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:119.00000 MOD:2022/12/27 MEMO:
+# S-ID:wiki00283919-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:119.00000 MOD:2023/01/25 MEMO:
 * 15D
 + 18D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
@@ -147,18 +147,18 @@ EOS
 * 4D
 + 3D
 流路 りゅうろ 流路 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="延長" sid="wiki00283919-03" id="1"/>
++ 6D <rel type="=" target="延長" sid="wiki00283919-03" id="1"/><rel type="修飾" target="先述" sid="wiki00283919-04" id="1"/>
 延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=" target="琵琶湖" sid="wiki00283919-00-01" id="1"/><NE:LOCATION:琵琶湖>
++ 5D <NE:LOCATION:琵琶湖><rel type="=" target="琵琶湖" sid="wiki00283919-00-01" id="1"/>
 琵琶湖 びわこ 琵琶湖 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 6D <rel type="ノ" target="琵琶湖" sid="wiki00283919-04" id="4"/><memo text="カラ格のほうがいい？"/>
++ 6D <rel type="ノ" target="琵琶湖" sid="wiki00283919-04" id="4"/>
 南端 なんたん 南端 名詞 6 普通名詞 1 * 0 * 0 NIL
 より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15P
-+ 18P <rel type="ヨリ" target="南端" sid="wiki00283919-04" id="5"/><rel type="ガ" target="延長" sid="wiki00283919-04" id="3"/><rel type="=構" target="延長" sid="wiki00283919-04" id="3"/>
++ 18P <rel type="ヨリ" target="南端" sid="wiki00283919-04" id="5"/><rel type="ガ" target="延長" sid="wiki00283919-04" id="3"/><rel type="=構" target="延長" sid="wiki00283919-04" id="3"/><memo text="カラ格のほうがいい？"/>
 延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -170,14 +170,14 @@ EOS
 + 9D
 最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="地点" sid="wiki00283919-04" id="10"/>
++ 10D <rel type="ガ" target="地点" sid="wiki00283919-04" id="10"/><rel type="カラ" target="河口" sid="wiki00283919-04" id="7"/><rel type="修飾" target="最も" sid="wiki00283919-04" id="8"/>
 遠い とおい 遠い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 11D
 + 14D
 地点 ちてん 地点 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 12P <NE:LOCATION:滋賀県>
++ 12P <NE:LOCATION:滋賀県><rel type="=" target="滋賀県" sid="wiki00283919-02" id="0"/>
 滋賀 しが 滋賀 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -186,16 +186,16 @@ EOS
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ト" target="滋賀県" sid="wiki00283919-04" id="11"/><rel type="ノ" target="福井県" sid="wiki00283919-04" id="12"/><memo text="トノ交替可"/>
++ 14D <rel type="ト" target="滋賀県" sid="wiki00283919-04" id="11"/><rel type="ノ" target="福井県" sid="wiki00283919-04" id="12"/><memo text="トノ交替可"/><rel type="ガ" target="栃ノ木峠" sid="wiki00283919-04" id="14"/><rel type="=構" target="栃ノ木峠" sid="wiki00283919-04" id="14"/>
 分水嶺 ぶんすいれい 分水嶺 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 15P
-+ 18P <rel type="ガ" target="地点" sid="wiki00283919-04" id="10"/><rel type="=構" target="地点" sid="wiki00283919-04" id="10"/><NE:LOCATION:栃ノ木峠>
++ 18P <NE:LOCATION:栃ノ木峠><rel type="ガ" target="地点" sid="wiki00283919-04" id="10"/><rel type="=構" target="地点" sid="wiki00283919-04" id="10"/><rel type="=構" mode="AND" target="分水嶺" sid="wiki00283919-04" id="13"/>
 栃ノ木峠 とちのきとうげ 栃ノ木峠 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="=" target="淀川" sid="wiki00283919-02" id="4"/><NE:LOCATION:淀川>
++ 16D <NE:LOCATION:淀川><rel type="=" target="淀川" sid="wiki00283919-02" id="4"/>
 淀川 よどがわ 淀川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -214,7 +214,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00283919-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:139.00000 MOD:2022/12/27 MEMO:
+# S-ID:wiki00283919-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:139.00000 MOD:2023/01/25 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
@@ -223,7 +223,7 @@ EOS
 場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:琵琶湖>
++ 3D <NE:LOCATION:琵琶湖><rel type="=" target="琵琶湖" sid="wiki00283919-00-01" id="1"/>
 琵琶湖 びわこ 琵琶湖 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -236,13 +236,13 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 6D <memo text="高時村という村があったらしい"/>
 高時 たかとき 高時 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8D <rel type="修飾" target="河川" sid="wiki00283919-05" id="4"/><rel type="=構" target="河川" sid="wiki00283919-05" id="4"/><NE:LOCATION:高時川>
++ 8D <NE:LOCATION:高時川><rel type="修飾" target="河川" sid="wiki00283919-05" id="4"/><rel type="=構" target="河川" sid="wiki00283919-05" id="4"/>
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13P
-+ 8D
++ 8D <rel type="ノ" target="川" sid="wiki00283919-05" id="6"/>
 水源 すいげん 水源 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18P <rel type="ノ" target="川" sid="wiki00283919-05" id="6"/><rel type="ノ" mode="AND" target="水源" sid="wiki00283919-05" id="7"/><rel type="ガ" target="場所" sid="wiki00283919-05" id="1"/><rel type="=構" target="場所" sid="wiki00283919-05" id="1"/>
++ 18P <rel type="ガ" target="場所" sid="wiki00283919-05" id="1"/><rel type="=構" target="場所" sid="wiki00283919-05" id="1"/><rel type="ノ？" target="水源" sid="wiki00283919-05" id="7"/><rel type="ノ" target="川" sid="wiki00283919-05" id="6"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -269,13 +269,13 @@ EOS
 km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 15D
++ 15D <rel type="=" target="流路" sid="wiki00283919-04" id="2"/>
 流路 りゅうろ 流路 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 16D <rel type="=≒" target="延長" sid="wiki00283919-04" id="3"/>
 延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 17D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="延長" sid="wiki00283919-05" id="15"/>
++ 17D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="延長" sid="wiki00283919-05" id="15"/><rel type="カラ" target="そこ" sid="wiki00283919-05" id="9"/><rel type="マデ" target="河口" sid="wiki00283919-05" id="10"/>
 換算 かんさん 換算 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -286,7 +286,7 @@ km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="延長" sid="wiki00283919-05" id="15"/><rel type="ト" target="約170km" sid="wiki00283919-05" id="17"/>
++ -1D <rel type="ガ" target="不特定:状況"/><rel type="ト" target="約170km" sid="wiki00283919-05" id="17"/><rel type="ト" mode="AND" target="約130km" sid="wiki00283919-05" id="13"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

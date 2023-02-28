@@ -12,9 +12,9 @@
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 4D <rel type="=" target="憲法" sid="wiki00264093-00-01" id="1"/>
-憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL
+憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL undefined
 + -1D <rel type="ガ" target="憲法" sid="wiki00264093-00-01" id="1"/><rel type="=構" target="憲法" sid="wiki00264093-00-01" id="1"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00264093-00-01" id="2"/><rel type="ノ？" mode="AND" target="憲法" sid="wiki00264093-00-01" id="3"/>
-法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL
+法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL 
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -22,6 +22,6 @@ EOS
 * -1D
 + 1D <rel type="=" target="アメリカ合衆国" sid="wiki00264093-00-01" id="0"/>
 アメリカがっしゅうこく あめりかがっしゅうこく アメリカがっしゅうこく 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ -1D <rel type="=" target="憲法" sid="wiki00264093-00-01" id="1"/><NE:ARTIFACT:アメリカがっしゅうこくけんぽう>
++ -1D <NE:ARTIFACT:アメリカがっしゅうこくけんぽう><rel type="=" target="憲法" sid="wiki00264093-00-01" id="1"/>
 けんぽう けんぽう けんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS

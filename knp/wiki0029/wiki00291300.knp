@@ -1,4 +1,4 @@
-# S-ID:wiki00291300-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:129.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00291300-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:129.00000 MOD:2023/01/20 MEMO:
 * 13D
 + 13D
 襖 ふすま 襖 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -51,7 +51,7 @@
 + 13D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="それ" sid="wiki00291300-00-01" id="9"/><rel type="ヲ" target="引手" sid="wiki00291300-00-01" id="11"/><rel type="ヲ" mode="AND" target="縁" sid="wiki00291300-00-01" id="10"/><rel type="外の関係" target="もの" sid="wiki00291300-00-01" id="13"/>
 付けた つけた 付ける 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="襖" sid="wiki00291300-00-01" id="0"/><rel type="=構" target="襖" sid="wiki00291300-00-01" id="0"/><rel type="トイウ" target="付けた" sid="wiki00291300-00-01" id="12"/><memo text="CO"/>
++ -1D <rel type="ガ" target="襖" sid="wiki00291300-00-01" id="0"/><rel type="=構" target="襖" sid="wiki00291300-00-01" id="0"/><memo text="CO"/><rel type="トイウ" target="付けた" sid="wiki00291300-00-01" id="12"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -83,7 +83,7 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00291300-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00291300-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/20 MEMO:
 * 1P
 + 1D <rel type="=" target="襖" sid="wiki00291300-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
@@ -96,7 +96,7 @@ EOS
 + 3D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 唐紙 からかみ 唐紙 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=構" target="襖" sid="wiki00291300-00-01" id="0"/>
++ 4D <rel type="=構" target="襖" sid="wiki00291300-00-01" id="0"/><rel type="修飾" target="唐紙" sid="wiki00291300-02-01" id="2"/>
 障子 しょうじ 障子 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -123,7 +123,7 @@ EOS
 + -1D <rel type="=" target="障子" sid="wiki00291300-02-01" id="3"/>
 しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00291300-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/21 MEMO:
+# S-ID:wiki00291300-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/20 MEMO:
 * 2D
 + 2D
 単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL

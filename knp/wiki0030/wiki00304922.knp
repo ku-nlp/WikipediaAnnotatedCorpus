@@ -1,4 +1,4 @@
-# S-ID:wiki00304922-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00304922-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/02/16 MEMO:
 * 2D
 + 2D <NE:LOCATION:ハバナ>
 ハバナ はばな ハバナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -9,32 +9,32 @@
 キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ハバナ" sid="wiki00304922-00" id="0"/><rel type="ノ" target="キューバ" sid="wiki00304922-00" id="1"/><rel type="=" target="ハバナ" sid="wiki00304922-00" id="0"/>
++ -1D <rel type="ガ" target="ハバナ" sid="wiki00304922-00" id="0"/><rel type="ノ" target="キューバ" sid="wiki00304922-00" id="1"/><rel type="=構" target="ハバナ" sid="wiki00304922-00" id="0"/><memo text="CO"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304922-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
-* 1D
+# S-ID:wiki00304922-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/02/16 MEMO:
+* 3D
 + 1D <rel type="=" target="キューバ" sid="wiki00304922-00" id="1"/>
 キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <NE:LOCATION:キューバ島>
++ 3D <NE:LOCATION:キューバ島>
 島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + 3D <rel type="ノ" target="島" sid="wiki00304922-01" id="1"/>
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="島" sid="wiki00304922-01" id="1"/>
++ 7D <rel type="ノ" target="島" sid="wiki00304922-01" id="1"/><rel type="修飾" target="北西" sid="wiki00304922-01" id="2"/>
 沿岸 えんがん 沿岸 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 5D
 フロリダ ふろりだ フロリダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="ノ" target="フロリダ" sid="wiki00304922-01" id="4"/><NE:LOCATION:フロリダ海峡>
++ 6D <NE:LOCATION:フロリダ海峡>
 海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 7D <rel type="ガ" target="地点" sid="wiki00304922-01" id="7"/><rel type="ニ" target="海峡" sid="wiki00304922-01" id="5"/>
 接する せっする 接する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 8D
++ 8D <rel type="修飾" target="沿岸" sid="wiki00304922-01" id="3"/><rel type="修飾" mode="AND" target="接する" sid="wiki00304922-01" id="6"/>
 地点 ちてん 地点 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
@@ -55,82 +55,82 @@ EOS
 + 13D <rel type="ガ" target="都市" sid="wiki00304922-01" id="13"/>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D <rel type="ガ" target="ハバナ" sid="wiki00304922-00" id="0"/><rel type="=" target="首都" sid="wiki00304922-00" id="2"/>
++ -1D <rel type="ガ" target="ハバナ" sid="wiki00304922-00" id="0"/><rel type="ニオイテ" target="地域" sid="wiki00304922-01" id="10"/><rel type="=構" target="ハバナ" sid="wiki00304922-00" id="0"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304922-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00304922-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/02/16 MEMO:
 * 1D
 + 1D <rel type="ノ" target="ハバナ" sid="wiki00304922-00" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00304922-02" id="0"/><rel type="=" target="人口" sid="wiki00304922-02" id="0"/>
++ -1D <rel type="ガ" target="人口" sid="wiki00304922-02" id="0"/><rel type="=構" target="人口" sid="wiki00304922-02" id="0"/><memo text="CO"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-200万 200万 200万 名詞 6 数詞 7 * 0 * 0 NIL
+200万 にひゃくまん 200万 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304922-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00304922-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/02/16 MEMO:
 * 6D
-+ 6D <rel type="=" target="人口" sid="wiki00304922-02" id="0"/>
++ 6D <rel type="ノ" target="ハバナ" sid="wiki00304922-00" id="0"/>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D
 北緯 ほくい 北緯 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 3D
-+ 3D
-23 23 23 名詞 6 数詞 7 * 0 * 0 NIL
+* 3P
++ 3D <rel type="修飾" target="北緯" sid="wiki00304922-03" id="1"/>
+23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL
 度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 6P
-+ 6P
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL
-分 ふん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+* 6D
++ 6P <memo text="文節区切り"/>
+8 はち/はっ 8 名詞 6 数詞 7 * 0 * 0 NIL
+分 ふん/ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 5D
 西経 せいけい 西経 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 6D
-+ 6D
-82 82 82 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <rel type="修飾" target="西経" sid="wiki00304922-03" id="4"/>
+82 はちじゅうに 82 名詞 6 数詞 7 * 0 * 0 NIL
 度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="位置" sid="wiki00304922-03" id="0"/>
-23 23 23 名詞 6 数詞 7 * 0 * 0 NIL
-分 ふん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="ガ" target="位置" sid="wiki00304922-03" id="0"/><memo text="CO　文節区切り"/>
+23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL
+分 ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304922-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000
+# S-ID:wiki00304922-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2023/02/16 MEMO:
 * 1D
 + 2D <rel type="=" target="キューバ" sid="wiki00304922-00" id="1"/><NE:LOCATION:キューバ>
-キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
 公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="語" sid="wiki00304922-04" id="4"/><rel type="ノ" target="キューバ" sid="wiki00304922-04" id="0"/>
++ 4D <rel type="ガ" target="語" sid="wiki00304922-04" id="4"/><rel type="ノ" target="キューバ" sid="wiki00304922-04" id="0"/><rel type="修飾" target="公用" sid="wiki00304922-04" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 3D
-+ 4D
-スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL
-+ 5D <rel type="=" target="語" sid="wiki00304922-04" id="2"/>
++ 4D <NE:OPTIONAL:スペイン><NE-OPTIONAL:LOCATION,NONE:0>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 5D <rel type="=構" target="語" sid="wiki00304922-04" id="2"/><rel type="ノ？" target="スペイン" sid="wiki00304922-04" id="3"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ハバナ" sid="wiki00304922-00" id="0"/><rel type="デ" target="語" sid="wiki00304922-04" id="4"/>
 発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
 + 7D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ラ ラ ラ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 8D <rel type="=" target="発音" sid="wiki00304922-04" id="5"/>
-アバーナ アバーナ アバーナ 名詞 6 普通名詞 1 * 0 * 0 NIL
+ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
++ 8D <NE:OPTIONAL:ラ・アバーナ><NE-OPTIONAL:LOCATION,NONE:0>
+アバーナ あばーな アバーナ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
@@ -139,20 +139,20 @@ EOS
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 10D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL
-+ 17D
++ 10D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 17D <rel type="ノ？" target="日本" sid="wiki00304922-04" id="9"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 12D
++ 12D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D <rel type="ノ" target="英語" sid="wiki00304922-04" id="11"/>
-音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14D <rel type="ガ" target="名称" sid="wiki00304922-04" id="15"/><rel type="ニ" target="音" sid="wiki00304922-04" id="12"/>
++ 14D <rel type="ニ" target="音" sid="wiki00304922-04" id="12"/><rel type="ガ" target="ハバナ" sid="wiki00304922-04" id="14"/>
 近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 10D
 + 15D <rel type="=" target="ハバナ" sid="wiki00304922-00" id="0"/><NE:LOCATION:ハバナ>
@@ -161,14 +161,14 @@ EOS
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 17D <rel type="=" target="ハバナ" sid="wiki00304922-04" id="14"/>
++ 17D <rel type="トイウ" target="ハバナ" sid="wiki00304922-04" id="14"/><rel type="=構" target="ハバナ" sid="wiki00304922-04" id="14"/>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
 + 17D
 広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 * -1D
-+ -1D <rel type="ガ" target="名称" sid="wiki00304922-04" id="15"/>
++ -1D <rel type="ガ" target="名称" sid="wiki00304922-04" id="15"/><rel type="デ" target="語" sid="wiki00304922-04" id="10"/><rel type="ニ" target="不特定:人"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

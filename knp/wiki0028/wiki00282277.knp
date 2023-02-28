@@ -1,4 +1,4 @@
-# S-ID:wiki00282277-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282277-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2023/01/24 MEMO:
 * 10D
 + 1D
 レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -9,21 +9,21 @@
 * 2D
 + 3D
 音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="音楽" sid="wiki00282277-00" id="2"/>
++ 5D <rel type="ノ？" target="音楽" sid="wiki00282277-00" id="2"/>
 作品 さくひん 作品 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5P <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
++ 5P <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/>
 録音 ろくおん 録音 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ニ" mode="AND" target="者" sid="wiki00282277-00" id="17"/>
++ 7D <rel type="ガ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/>
 録画 ろくが 録画 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5D
 + 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="作品" sid="wiki00282277-00" id="3"/><rel type="ニ" target="媒体" sid="wiki00282277-00" id="7"/>
 記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 9D <rel type="ノ？" target="記録" sid="wiki00282277-00" id="6"/>
 媒体 ばいたい 媒体 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -44,7 +44,7 @@
 * 8D
 + 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
 広告 こうこく 広告 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="ヲ" target="広告" sid="wiki00282277-00" id="12"/>
++ 14D <rel type="ヲ" target="広告" sid="wiki00282277-00" id="12"/><rel type="ガ" target="不特定:人"/>
 代理 だいり 代理 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 15D <rel type="トイウ" target="代理" sid="wiki00282277-00" id="13"/>
 業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -60,11 +60,11 @@
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ノ" target="者" sid="wiki00282277-00" id="17"/><rel type="=構" target="会社" sid="wiki00282277-00" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ノ" target="者" sid="wiki00282277-00" id="17"/><memo text="CO"/><rel type="=構" target="会社" sid="wiki00282277-00" id="1"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282277-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282277-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/01/24 MEMO:
 * 1D
 + 1D
 レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -78,7 +78,7 @@ EOS
 だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="意味" sid="wiki00282277-01" id="2"/>
++ 10D <rel type="ガ" target="会社" sid="wiki00282277-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="意味だ" sid="wiki00282277-01" id="2"/>
 誤解 ごかい 誤解 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

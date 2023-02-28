@@ -19,7 +19,7 @@
 + 5P <NE:LOCATION:京都>
 京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <rel type="=≒" target="京都" sid="wiki00255425-00-01" id="4"/><NE:LOCATION:山城>
++ 6D <NE:LOCATION:山城><rel type="=≒" target="京都" sid="wiki00255425-00-01" id="4"/>
 山城 やましろ 山城 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -39,7 +39,7 @@
 同志社 どうししゃ 同志社 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:head>
 + 11D
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 12D <rel type="修飾" target="官許" sid="wiki00255425-00-01" id="8"/><NE:LOCATION:同志社英学校>
++ 12D <NE:LOCATION:同志社英学校><rel type="修飾" target="官許" sid="wiki00255425-00-01" id="8"/>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -81,19 +81,19 @@
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 25D
 組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 27D <NE:OPTIONAL:キリスト新教改革教会組合派>
++ 27D <NE:OPTIONAL:キリスト新教改革教会組合派><NE-OPTIONAL:ORGANIZATION,NONE:0>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
 + 27D
-清 せい 清 名詞 6 普通名詞 1 * 0 * 0 NIL
+清 せい 清 名詞 6 普通名詞 1 * 0 * 0 NIL 
 + 29D <rel type="ノ？" target="派" sid="wiki00255425-00-01" id="25"/><rel type="ガ" target="襄" sid="wiki00255425-00-01" id="29"/><rel type="=構" target="襄" sid="wiki00255425-00-01" id="29"/><rel type="修飾" target="清" sid="wiki00255425-00-01" id="26"/>
 教徒 きょうと 教徒 名詞 6 普通名詞 1 * 0 * 0 NIL
 だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
 * 15D
 + 29D
 新島 にいじま 新島 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 30D <rel type="=構" target="一人" sid="wiki00255425-00-01" id="19"/><NE:PERSON:新島襄>
++ 30D <NE:PERSON:新島襄><rel type="=構" target="一人" sid="wiki00255425-00-01" id="19"/>
 襄 じょう 襄 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
@@ -112,7 +112,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="明治" sid="wiki00255425-00-01" id="14"/>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1875年" sid="wiki00255425-00-01" id="3"/><NE:DATE:明治8年>
++ -1D <NE:DATE:明治8年><rel type="=" target="1875年" sid="wiki00255425-00-01" id="3"/>
 8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -126,7 +126,7 @@ EOS
 プロテスタント ぷろてすたんと プロテスタント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D
 会衆 かいしゅう 会衆 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="派" sid="wiki00255425-00-01" id="25"/><rel type="ノ？" target="プロテスタント" sid="wiki00255425-00-03" id="2"/><NE:OPTIONAL:カルバン主義プロテスタント会衆派>
++ -1D <NE:OPTIONAL:カルバン主義プロテスタント会衆派><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="=" target="派" sid="wiki00255425-00-01" id="25"/><rel type="ノ？" target="プロテスタント" sid="wiki00255425-00-03" id="2"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00255425-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/12/14 MEMO:
@@ -178,7 +178,7 @@ EOS
 * -1D
 + 1D
 大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1920年" sid="wiki00255425-01-01" id="0"/><NE:DATE:大正9年>
++ -1D <NE:DATE:大正9年><rel type="=" target="1920年" sid="wiki00255425-01-01" id="0"/>
 9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -190,14 +190,14 @@ EOS
 * -1D
 + 2D
 旧制 きゅうせい 旧制 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D <rel type="修飾" target="旧制" sid="wiki00255425-01-03" id="1"/><NE:OPTIONAL:旧制大学>
++ 3D <NE:OPTIONAL:旧制大学><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="修飾" target="旧制" sid="wiki00255425-01-03" id="1"/>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + -1D <rel type="ガ" target="読者"/><rel type="ヲ" target="大学" sid="wiki00255425-01-03" id="2"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
 参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255425-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/14 MEMO:
 * 3D
-+ 3D <rel type="=" target="京都" sid="wiki00255425-00-01" id="4"/><NE:LOCATION:京都府>
++ 3D <NE:LOCATION:京都府><rel type="=" target="京都" sid="wiki00255425-00-01" id="4"/>
 京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL

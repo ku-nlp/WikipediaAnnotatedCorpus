@@ -1,4 +1,4 @@
-# S-ID:wiki00292712-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00292712-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/20 MEMO:
 * 3D
 + 1D
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -6,25 +6,25 @@
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
 山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-と と と 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + 4D
-溪谷 けいこく 溪谷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+溪谷 けいこく 溪谷 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + 8D <NE:ORGANIZATION:株式会社山と溪谷社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* -1D
+* 3D
 + 7D <NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* -1D
-+ 7D <rel type="ヲ" target="不特定:物"/><rel type="ガ" target="不特定:人"/>
+* 3D
++ 7D <rel type="ヲ" target="不特定:物"/><rel type="ガ" target="社" sid="wiki00292712-00-01" id="7"/><rel type="ガ" mode="AND" target="不特定:人"/>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ？" target="日本" sid="wiki00292712-00-01" id="5"/><rel type="ノ？" mode="AND" target="出版" sid="wiki00292712-00-01" id="6"/>
++ 8D <rel type="ノ？" target="日本" sid="wiki00292712-00-01" id="5"/><rel type="ノ？" mode="AND" target="出版" sid="wiki00292712-00-01" id="6"/><rel type="=≒" target="社" sid="wiki00292712-00-01" id="4"/>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="社" sid="wiki00292712-00-01" id="6"/><rel type="ガ" target="社" sid="wiki00292712-00-01" id="4"/><rel type="=構" target="社" sid="wiki00292712-00-01" id="4"/><rel type="=構" mode="AND" target="社" sid="wiki00292712-00-01" id="7"/><memo text="CO"/>
++ -1D <rel type="ノ" target="社" sid="wiki00292712-00-01" id="6"/><rel type="ガ" target="社" sid="wiki00292712-00-01" id="4"/><memo text="CO"/><rel type="=構" target="社" sid="wiki00292712-00-01" id="4"/><rel type="=構" mode="AND" target="社" sid="wiki00292712-00-01" id="7"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -39,7 +39,7 @@ EOS
 + -1D <rel type="=" target="社" sid="wiki00292712-00-01" id="4"/><NE:ORGANIZATION:やまとけいこくしゃ>
 しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00292712-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00292712-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/20 MEMO:
 * 1D
 + 1D <rel type="=" target="山" sid="wiki00292712-00-01" id="2"/>
 山岳 さんがく 山岳 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -50,8 +50,8 @@ EOS
 『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
 山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 5D <rel type="修飾" target="雑誌" sid="wiki00292712-01" id="1"/><rel type="=構" target="雑誌" sid="wiki00292712-01" id="1"/><rel type="=" mode="AND" target="溪谷" sid="wiki00292712-00-01" id="3"/><NE:ARTIFACT:山と溪谷>
-溪谷 溪谷 溪谷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 5D <NE:ARTIFACT:山と溪谷><rel type="修飾" target="雑誌" sid="wiki00292712-01" id="1"/><rel type="=構" target="雑誌" sid="wiki00292712-01" id="1"/><rel type="=" mode="AND" target="溪谷" sid="wiki00292712-00-01" id="3"/>
+溪谷 けいこく 溪谷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -99,39 +99,39 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00292712-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00292712-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/20 MEMO:
 * 1P
-+ 3D
++ 3D <rel type="=≒" target="溪谷" sid="wiki00292712-01" id="3"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ヤマケイ やまけい ヤマケイ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
+ヤマケイ やまけい ヤマケイ 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:ARTIFACT:head>
 + 3D
-私鉄 してつ 私鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+私鉄 してつ 私鉄 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
 + 3D
-ハンド ハンド ハンド 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+ハンド はんど ハンド 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
 + 6P <NE:ARTIFACT:ヤマケイ私鉄ハンドブック>
-ブック ぶっく ブック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+ブック ぶっく ブック 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 6D <rel type="=" target="ヤマケイ" sid="wiki00292712-02" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ヤマケイ やまけい ヤマケイ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
+ヤマケイ やまけい ヤマケイ 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
 + 6D
-レイル れいる レイル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
+レイル れいる レイル 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
 + 8P <NE:ARTIFACT:ヤマケイ・レイル・グラフィックス>
-グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
-」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
-、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL undefined
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL undefined
 * 3D
 + 8D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
 * 4D
 + 9D <NE:ARTIFACT:日本の鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -158,11 +158,11 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00292712-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00292712-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/20 MEMO:
 * -1D
 + 1D
 インプレス いんぷれす インプレス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="ノ" target="インプレス" sid="wiki00292712-03" id="0"/><rel type="ガ" target="社" sid="wiki00292712-00-01" id="4"/><rel type="=構" target="社" sid="wiki00292712-00-01" id="4"/><memo text="CO"/><NE:ORGANIZATION:インプレスグループ>
++ -1D <rel type="ノ" target="インプレス" sid="wiki00292712-03" id="0"/><NE:ORGANIZATION:インプレスグループ><rel type="ガ" target="社" sid="wiki00292712-00-01" id="4"/><memo text="CO"/><rel type="=構" target="社" sid="wiki00292712-00-01" id="4"/>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

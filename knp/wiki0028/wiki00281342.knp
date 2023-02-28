@@ -1,4 +1,4 @@
-# S-ID:wiki00281342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00281342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2023/01/19 MEMO:
 * 6D
 + 1D
 事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -22,7 +22,7 @@
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
 + 10P <rel type="ガ" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="ノ" target="官職" sid="wiki00281342-00-01" id="5"/><rel type="=構" target="次官" sid="wiki00281342-00-01" id="1"/><rel type="=構" mode="AND" target="官職" sid="wiki00281342-00-01" id="5"/>
-一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -46,7 +46,7 @@ EOS
 + -1D <rel type="=" target="次官" sid="wiki00281342-00-01" id="1"/>
 じかん じかん じかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00281342-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00281342-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/01/19 MEMO:
 * 2D
 + 3D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
@@ -54,7 +54,7 @@ EOS
 * 2D
 + 2D
 復興 ふっこう 復興 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <rel type="=≒" target="機関" sid="wiki00281342-00-01" id="4"/><NE:ORGANIZATION:復興庁>
++ 3D <NE:ORGANIZATION:復興庁><rel type="=≒" target="機関" sid="wiki00281342-00-01" id="4"/>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

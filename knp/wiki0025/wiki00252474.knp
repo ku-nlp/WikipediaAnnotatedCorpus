@@ -1,6 +1,6 @@
 # S-ID:wiki00252474-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/12 MEMO:
 * 2D
-+ 2D <rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/><NE:LOCATION:ダマスカス>
++ 2D <NE:LOCATION:ダマスカス><rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/>
 ダマスカス だますかす ダマスカス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
@@ -8,7 +8,7 @@
 シリア しりあ シリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ダマスカス" sid="wiki00252474-00-01" id="0"/><rel type="=構" target="ダマスカス" sid="wiki00252474-00-01" id="0"/><rel type="ノ" target="シリア" sid="wiki00252474-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ダマスカス" sid="wiki00252474-00-01" id="0"/><rel type="=構" target="ダマスカス" sid="wiki00252474-00-01" id="0"/><memo text="CO"/><rel type="ノ" target="シリア" sid="wiki00252474-00-01" id="1"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -21,12 +21,12 @@ EOS
 アラブ あらぶ アラブ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 3D
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="シリア" sid="wiki00252474-00-01" id="1"/><NE:LOCATION:シリア・アラブ共和国>
++ -1D <NE:LOCATION:シリア・アラブ共和国><rel type="=" target="シリア" sid="wiki00252474-00-01" id="1"/>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00252474-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/12 MEMO:
 * 1D
-+ 1D <rel type="=構" target="ダマスカス" sid="wiki00252474-00-01" id="0"/><NE:LOCATION:ダマスクス>
++ 1D <NE:LOCATION:ダマスクス><rel type="=構" target="ダマスカス" sid="wiki00252474-00-01" id="0"/>
 ダマスクス だますくす ダマスクス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -39,7 +39,7 @@ EOS
 EOS
 # S-ID:wiki00252474-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/12/12 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:アラビア>
++ 1D <NE:OPTIONAL:アラビア><NE-OPTIONAL:LOCATION,NONE:0>
 アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 2D <rel type="ノ？" target="アラビア" sid="wiki00252474-02-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -73,24 +73,24 @@ Dimashq Dimashq Dimashq 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
 # S-ID:wiki00252474-02-03 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/12 MEMO:
 * -1D
-+ 2P <rel type="=" target="シャーム" sid="wiki00252474-02-01" id="4"/><NE:LOCATION:الشام>
++ 2P <NE:LOCATION:الشام><rel type="=" target="シャーム" sid="wiki00252474-02-01" id="4"/>
 الشام الشام الشام 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 2D
 al al al 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="シャーム" sid="wiki00252474-02-01" id="4"/><NE:LOCATION:al-sham>
++ -1D <NE:LOCATION:al-sham><rel type="=" target="シャーム" sid="wiki00252474-02-01" id="4"/>
 sham sham sham 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00252474-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/12 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:日本>
++ 1D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3D <rel type="ノ？" target="日本" sid="wiki00252474-03" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <NE:OPTIONAL:聖書>
++ 3D <NE:OPTIONAL:聖書><NE-OPTIONAL:ARTIFACT,NONE:0>
 聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="聖書" sid="wiki00252474-03" id="2"/><rel type="ニ" target="語" sid="wiki00252474-03" id="1"/>
 翻訳 ほんやく 翻訳 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -147,7 +147,7 @@ EOS
 * 1D
 + 1D
 カシオン かしおん カシオン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/><NE:LOCATION:カシオン山>
++ 2D <NE:LOCATION:カシオン山><rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/>
 山 さん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
@@ -157,7 +157,7 @@ EOS
 * 9D
 + 4D
 バラダ ばらだ バラダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/><NE:LOCATION:バラダ川>
++ 5D <NE:LOCATION:バラダ川><rel type="ノ？" target="シリア" sid="wiki00252474-00-01" id="1"/>
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + 13D <rel type="ニ" target="川" sid="wiki00252474-05" id="4"/>
 沿い ぞい 沿い 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -171,7 +171,7 @@ EOS
 囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 9D <NE:OPTIONAL:古代>
++ 9D <NE:OPTIONAL:古代><NE-OPTIONAL:DATE,NONE:0>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D

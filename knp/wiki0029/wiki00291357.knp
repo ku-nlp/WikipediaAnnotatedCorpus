@@ -1,10 +1,10 @@
-# S-ID:wiki00291357-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00291357-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/20 MEMO:
 * 5P
 + 1D
-グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
 + 3P
-ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + 3D
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D
@@ -18,7 +18,7 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 9D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/><NE:LOCATION:イギリス>
++ 9D <NE:LOCATION:イギリス><rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/>
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
@@ -33,9 +33,9 @@
 本国 ほんごく 本国 名詞 6 普通名詞 1 * 0 * 0 NIL
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ノ" target="本国" sid="wiki00291357-00-01" id="10"/><rel type="修飾" target="海外" sid="wiki00291357-00-01" id="11"/>
++ 12D <rel type="ノ" target="本国" sid="wiki00291357-00-01" id="10"/>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/>
++ 14D <rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/><rel type="修飾" target="海外" sid="wiki00291357-00-01" id="11"/>
 領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -49,10 +49,10 @@ EOS
 # S-ID:wiki00291357-00-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1P
 + 1D <rel type="=" target="グレート" sid="wiki00291357-00-01" id="0"/>
-グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
 + 3P <rel type="=" target="ブリテン" sid="wiki00291357-00-01" id="1"/>
-ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="北" sid="wiki00291357-00-01" id="2"/>
 きた きた きた 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D <rel type="=" target="アイルランド" sid="wiki00291357-00-01" id="3"/>
@@ -60,11 +60,11 @@ EOS
 + 5D <rel type="=" target="連合" sid="wiki00291357-00-01" id="4"/>
 れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/>
-おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/><NE:ORGANIZATION:グレートブリテンおよびきたアイルランドれんごうおうこくぎかい>
-ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00291357-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00291357-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/01/20 MEMO:
 * 2D
 + 4D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/>
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
@@ -133,13 +133,13 @@ EOS
 有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00291357-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00291357-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2023/01/20 MEMO:
 * 1D
 + 1D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/>
-長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
+長 ちょう/おさ 長 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="=" target="イギリス" sid="wiki00291357-00-01" id="7"/><NE:LOCATION:イギリス>
@@ -159,9 +159,9 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 7D
-グレーター ぐれーたー グレーター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="イギリス" sid="wiki00291357-00-01" id="7"/><NE:LOCATION:グレーター・ロンドン>
+グレーター ぐれーたー グレーター 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:LOCATION:middle>
++ 8D <NE:LOCATION:グレーター・ロンドン><rel type="ノ？" target="イギリス" sid="wiki00291357-00-01" id="7"/>
 ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -170,18 +170,18 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
 + 10D
-シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
+シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:LOCATION:middle>
 + 11D
-オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13D <rel type="ノ？" target="ロンドン" sid="wiki00291357-02-01" id="7"/><NE:LOCATION:シティ・オブ・ウェストミンスター>
+オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:LOCATION:middle>
++ 13D <NE:LOCATION:シティ・オブ・ウェストミンスター><rel type="ノ？" target="ロンドン" sid="wiki00291357-02-01" id="7"/>
 ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 13D
++ 13D <rel type="=" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/>
 ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 14D <rel type="ノ？" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/><NE:LOCATION:ウェストミンスター宮殿>
++ 14D <NE:LOCATION:ウェストミンスター宮殿><rel type="ノ？" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/>
 宮殿 きゅうでん 宮殿 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -189,19 +189,19 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00291357-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00291357-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/20 MEMO:
 * 1D
 + 2D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 2D
-エリザベス えりざべす エリザベス 名詞 6 人名 5 * 0 * 0 NIL
-+ -1D <rel type="時間" target="現在" sid="wiki00291357-02-02" id="0"/><rel type="ガ" target="君主" sid="wiki00291357-02-01" id="3"/><rel type="=構" target="君主" sid="wiki00291357-02-01" id="3"/>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
-世 せい 世 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+エリザベス えりざべす エリザベス 名詞 6 人名 5 * 0 * 0 NIL undefined<NE:PERSON:head>
++ -1D <rel type="時間" target="現在" sid="wiki00291357-02-02" id="0"/><rel type="ガ" target="君主" sid="wiki00291357-02-01" id="3"/><rel type="=構" target="君主" sid="wiki00291357-02-01" id="3"/><memo text="CO"/><NE:PERSON:エリザベス2世>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:PERSON:middle>
+世 せい 世 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:PERSON:tail>
 EOS
-# S-ID:wiki00291357-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/12/23 MEMO:
+# S-ID:wiki00291357-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/01/20 MEMO:
 * 1D
 + 1D <rel type="ノ" target="イギリス" sid="wiki00291357-02-01" id="2"/>
 王室 おうしつ 王室 名詞 6 普通名詞 1 * 0 * 0 NIL

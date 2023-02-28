@@ -52,7 +52,7 @@ EOS
 * 1D
 + 1D <rel type="=" target="鎌倉" sid="wiki00252115-00-01" id="5"/>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 5D <rel type="ノ？" target="鎌倉" sid="wiki00252115-01" id="0"/><NE:OPTIONAL:鎌倉幕府>
++ 5D <NE:OPTIONAL:鎌倉幕府><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><rel type="ノ？" target="鎌倉" sid="wiki00252115-01" id="0"/>
 幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -62,7 +62,7 @@ EOS
 征夷 せいい 征夷 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
 大 たい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="頼朝" sid="wiki00252115-00-01" id="1"/><rel type="ノ？" target="幕府" sid="wiki00252115-01" id="1"/><rel type="修飾" target="初代" sid="wiki00252115-01" id="2"/><rel type="修飾" mode="AND" target="征夷" sid="wiki00252115-01" id="3"/><rel type="修飾" mode="AND" target="大" sid="wiki00252115-01" id="4"/><rel type="=構" target="頼朝" sid="wiki00252115-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="頼朝" sid="wiki00252115-00-01" id="1"/><rel type="ノ？" target="幕府" sid="wiki00252115-01" id="1"/><rel type="修飾" target="初代" sid="wiki00252115-01" id="2"/><rel type="修飾" mode="AND" target="征夷" sid="wiki00252115-01" id="3"/><rel type="修飾" mode="AND" target="大" sid="wiki00252115-01" id="4"/><memo text="CO"/><rel type="=構" target="頼朝" sid="wiki00252115-00-01" id="1"/>
 将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

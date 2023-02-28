@@ -1,70 +1,68 @@
-# S-ID:wiki00294865-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
-* 4D
+# S-ID:wiki00294865-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/23 MEMO:
+* 3D
 + 1D
 執政 しっせい 執政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ノ？" target="執政" sid="wiki00294865-00-01" id="0"/>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL
-* 3D
-+ 5D <NE:LOCATION:ローマ>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL undefined<NE:LOCATION:head>
++ 5D <NE:LOCATION:古代ローマ><rel type="修飾" target="古代" sid="wiki00294865-00-01" id="2"/>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
+* 3D
 + 5D
 政務 せいむ 政務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="政務" sid="wiki00294865-00-01" id="4"/>
++ 6D <rel type="デ" target="ローマ" sid="wiki00294865-00-01" id="3"/><rel type="ノ？" target="政務" sid="wiki00294865-00-01" id="4"/><rel type="=≒" target="官" sid="wiki00294865-00-01" id="1"/>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="官" sid="wiki00294865-00-01" id="1"/><rel type="ノ" target="官" sid="wiki00294865-00-01" id="5"/><rel type="=" target="官" sid="wiki00294865-00-01" id="1"/>
++ -1D <rel type="ガ" target="官" sid="wiki00294865-00-01" id="1"/><rel type="ノ" target="官" sid="wiki00294865-00-01" id="5"/><rel type="=構" target="官" sid="wiki00294865-00-01" id="1"/><rel type="=構" mode="AND" target="官" sid="wiki00294865-00-01" id="5"/><memo text="CO"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00294865-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000
-* 1D
-+ 1D
-しっせ しっせ しっせる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
-いか いか いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 未然形 3 NIL
-ん ん ぬ 助動詞 5 * 0 助動詞ぬ型 27 音便基本形 12 NIL
+# S-ID:wiki00294865-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000 MOD:2023/01/17 MEMO:
+* 1P
++ 1D <rel type="=" target="執政" sid="wiki00294865-00-01" id="0"/>
+しっせい しっせい しっせい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="=" target="官" sid="wiki00294865-00-01" id="1"/>
+かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <NE:ORGANIZATION:コンスル>
-コンスル コンスル コンスル 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="官" sid="wiki00294865-00-01" id="1"/>
+コンスル こんする コンスル 名詞 6 普通名詞 1 * 0 * 0 NIL 
 EOS
-# S-ID:wiki00294865-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000
-* 1A
-+ 1A
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 2D
-+ 2D <rel type="=" target="ローマ" sid="wiki00294865-00-01" id="3"/><NE:LOCATION:ローマ>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+# S-ID:wiki00294865-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/01/23 MEMO:
+* 1D
++ 1D <memo text="都市国家"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
++ 2D <rel type="修飾" target="都市" sid="wiki00294865-01" id="0"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><NE:OPTIONAL:都市ローマ><NE-OPTIONAL:LOCATION:0><memo text="NEの範囲"/>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
-+ 8D <rel type="ガ" target="官" sid="wiki00294865-00-01" id="1"/><rel type="ノ" target="ローマ" sid="wiki00294865-01" id="1"/><rel type="=" target="ひとつ" sid="wiki00294865-00-01" id="6"/>
-長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 5P
++ 8P <rel type="ガ" target="官" sid="wiki00294865-00-01" id="1"/><rel type="ノ" target="ローマ" sid="wiki00294865-01" id="1"/><rel type="=構" target="官" sid="wiki00294865-00-01" id="1"/>
+長 ちょう/おさ 長 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
-政 まつりごと 政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="ローマ" sid="wiki00294865-01" id="1"/><NE:LOCATION:ローマ>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
++ 5D <rel type="修飾" target="共和" sid="wiki00294865-01" id="3"/>
+政 せい 政 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:middle>
++ 7D <rel type="修飾" target="政" sid="wiki00294865-01" id="4"/><memo text="NEの範囲？"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><rel type="ノ" target="ローマ" sid="wiki00294865-00-01" id="3"/><NE:LOCATION:共和政ローマ>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
+* 4D
 + 7D
 形式 けいしき 形式 名詞 6 普通名詞 1 * 0 * 0 NIL
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
-+ 8D <rel type="ノ" target="ローマ" sid="wiki00294865-01" id="5"/><rel type="=" target="長" sid="wiki00294865-01" id="2"/>
+* 5D
++ 8D <rel type="ノ" target="ローマ" sid="wiki00294865-01" id="5"/><rel type="修飾" target="形式上" sid="wiki00294865-01" id="6"/><rel type="=構" target="官" sid="wiki00294865-00-01" id="1"/>
 元首 げんしゅ 元首 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -72,9 +70,9 @@ EOS
 当たる あたる 当たる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00294865-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00294865-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/01/23 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="官" sid="wiki00294865-02" id="3"/>
++ 1D <rel type="ノ" target="コンスル" sid="wiki00294865-00-02" id="2"/>
 訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -83,7 +81,7 @@ EOS
 * 3D
 + 3D
 執政 しっせい 執政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="訳語" sid="wiki00294865-02" id="0"/>
++ 4D <rel type="=" target="官" sid="wiki00294865-00-01" id="1"/><rel type="=構" mode="AND" target="訳語" sid="wiki00294865-02" id="0"/>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -91,11 +89,11 @@ EOS
 ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D
-統領 統領 統領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=構" target="訳語" sid="wiki00294865-02" id="0"/><rel type="=" mode="AND" target="官" sid="wiki00294865-02" id="3"/>
+統領 とうりょう 統領 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="統領" sid="wiki00294865-02" id="5"/><rel type="ニ" target="ほか" sid="wiki00294865-02" id="4"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="統領" sid="wiki00294865-02" id="5"/><rel type="トシテ" target="訳語" sid="wiki00294865-02" id="0"/><rel type="ニ" target="ほか" sid="wiki00294865-02" id="4"/><rel type="ニ" mode="？" target="なし"/>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

@@ -1,83 +1,79 @@
-# S-ID:wiki00299419-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
-* 7D
-+ 1D
-NH NH NH 名詞 6 組織名 6 * 0 * 0 NIL
+# S-ID:wiki00299419-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/01/23 MEMO:
+* 6D
 + 2D
-K K K 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-FM FM FM 名詞 6 組織名 6 * 0 * 0 NIL
-+ 18D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ARTIFACT:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
++ 2D
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
++ 16D <NE:ARTIFACT:NHK-FM放送><rel type="ガ" target="NHK" sid="wiki00299419-00-01" id="0"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 6D
+* 2D
++ 5D
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 7D
++ 5D
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D <NE:ORGANIZATION:日本放送協会>
++ 6D <NE:ORGANIZATION:日本放送協会><rel type="=" target="NHK" sid="wiki00299419-00-01" id="0"/>
 協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 3D
-+ 9D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="16"/>
+* 5D
++ 14D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="16"/>
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
-* 6D
-+ 11D
+* 4D
++ 9D
 地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 9D
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D
++ 11D <rel type="修飾" target="地上" sid="wiki00299419-00-01" id="7"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00299419-00-01" id="8"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5A
-+ 13A <rel type="ノ" target="放送" sid="wiki00299419-00-01" id="11"/>
-一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
-* 6D
-+ 14D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="16"/>
-別の べつの 別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
-* 7D
-+ 18D
+* 5D
++ 11D
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ 14D <rel type="修飾" target="一" sid="wiki00299419-00-01" id="10"/><rel type="ノ" target="放送" sid="wiki00299419-00-01" id="9"/>
+種別 しゅべつ 種別 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6P
++ 13D
 超 ちょう 超 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 16D
++ 14D <rel type="修飾" target="超" sid="wiki00299419-00-01" id="12"/>
 短波 たんぱ 短波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="4"/><rel type="=" target="放送" sid="wiki00299419-00-01" id="4"/>
++ 16P <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="4"/><rel type="=構" target="放送" sid="wiki00299419-00-01" id="2"/><rel type="=構" mode="AND" target="種別" sid="wiki00299419-00-01" id="11"/><rel type="修飾" target="種別" sid="wiki00299419-00-01" id="11"/><rel type="ニヨッテ" target="短波" sid="wiki00299419-00-01" id="13"/><rel type="ニヨッテ" mode="AND" target="協会" sid="wiki00299419-00-01" id="5"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
-+ 18D
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* -1D
++ 16D <rel type="=" target="日本" sid="wiki00299419-00-01" id="3"/>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 19D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="4"/>
++ -1D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="4"/><rel type="=構" target="放送" sid="wiki00299419-00-01" id="2"/><rel type="修飾" target="国内" sid="wiki00299419-00-01" id="15"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
-* -1D
-+ -1D <rel type="ガ" target="放送" sid="wiki00299419-00-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00299419-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00299419-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * -1D
-+ 1D <rel type="=" target="日本" sid="wiki00299419-00-01" id="5"/>
-エヌエイチケイ エヌエイチケイ エヌエイチケイ 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-エフエム えふえむ エフエム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="放送" sid="wiki00299419-00-01" id="16"/>
-ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="=" target="NHK" sid="wiki00299419-00-01" id="0"/>
+エヌエイチケイ えぬえいちけい エヌエイチケイ 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
++ 2D <rel type="=" target="FM" sid="wiki00299419-00-01" id="1"/>
+エフエム えふえむ エフエム 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
++ -1D <rel type="=" target="放送" sid="wiki00299419-00-01" id="2"/><NE:ARTIFACT:エヌエイチケイ・エフエムほうそう>
+ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00299419-00-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00299419-00-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * -1D
-+ -1D
-NHK NHK NHK 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <NE:ORGANIZATION:NHK><rel type="=" target="協会" sid="wiki00299419-00-01" id="5"/><rel type="=" mode="AND" target="NHK" sid="wiki00299419-00-01" id="0"/>
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00299419-00-04 括弧始:（ 括弧終:） 括弧位置:60 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00299419-00-04 括弧始:（ 括弧終:） 括弧位置:60 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * -1D
-+ 1D
-FM FM FM 名詞 6 組織名 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="放送" sid="wiki00299419-00-01" id="18"/>
++ 1D <rel type="=" target="FM" sid="wiki00299419-00-01" id="1"/>
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="放送" sid="wiki00299419-00-01" id="14"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS

@@ -6,7 +6,7 @@
 * 3P
 + 2D
 沿 えん 沿 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8P <rel type="=" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/><rel type="修飾" target="沿" sid="wiki00250473-00-01" id="1"/><NE:LOCATION:沿ドニエストル>
++ 8P <NE:LOCATION:沿ドニエストル><rel type="=" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/><rel type="修飾" target="沿" sid="wiki00250473-00-01" id="1"/>
 ドニエストル どにえすとる ドニエストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -23,10 +23,10 @@
 モルドバ もるどば モルドバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 8D
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 23D <rel type="=" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/><NE:LOCATION:沿ドニエストル・モルドバ共和国>
++ 23D <NE:LOCATION:沿ドニエストル・モルドバ共和国><rel type="=" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL undefined
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL undefined
 * 5P
 + 10D <rel type="=≒" target="ドニエストル" sid="wiki00250473-00-01" id="2"/>
 ドニエストル どにえすとる ドニエストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
@@ -60,7 +60,7 @@
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 19D <rel type="=" target="モルドバ" sid="wiki00250473-00-01" id="6"/><NE:LOCATION:モルドバ>
++ 19D <NE:LOCATION:モルドバ><rel type="=" target="モルドバ" sid="wiki00250473-00-01" id="6"/>
 モルドバ もるどば モルドバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -96,11 +96,11 @@ EOS
 ドニエストル どにえすとる ドニエストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="=" target="ドニエストル" sid="wiki00250473-00-01" id="2"/><NE:LOCATION:Transdniestria>
++ 3P <NE:LOCATION:Transdniestria><rel type="=" target="ドニエストル" sid="wiki00250473-00-01" id="2"/>
 Transdniestria Transdniestria Transdniestria 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ドニエストル" sid="wiki00250473-00-01" id="2"/><NE:LOCATION:Pridnestrovie>
++ -1D <NE:LOCATION:Pridnestrovie><rel type="=" target="ドニエストル" sid="wiki00250473-00-01" id="2"/>
 Pridnestrovie Pridnestrovie Pridnestrovie 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
 # S-ID:wiki00250473-00-04 括弧始:（ 括弧終:） 括弧位置:90 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000 MOD:2022/12/09 MEMO:
@@ -125,7 +125,7 @@ EOS
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00250473-01" id="0"/><rel type="=構" target="首都" sid="wiki00250473-01" id="0"/><rel type="ノ？" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/><memo text="CO"/><NE:LOCATION:ティラスポリ>
++ -1D <rel type="ガ" target="首都" sid="wiki00250473-01" id="0"/><NE:LOCATION:ティラスポリ><rel type="=構" target="首都" sid="wiki00250473-01" id="0"/><memo text="CO"/><rel type="ノ？" target="トランスニストリア" sid="wiki00250473-00-01" id="0"/>
 ティラスポリ てぃらすぽり ティラスポリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

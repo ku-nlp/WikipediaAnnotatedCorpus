@@ -83,7 +83,7 @@ EOS
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D
 大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <NE:OPTIONAL:第二次世界大戦後>
++ 8D <NE:OPTIONAL:第二次世界大戦後><NE-OPTIONAL:DATE,NONE:0>
 後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -94,7 +94,7 @@ EOS
 高度 こうど 高度 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 7D
 成長 せいちょう 成長 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ" target="後" sid="wiki00251977-01" id="3"/><NE:OPTIONAL:高度成長期>
++ 8D <NE:OPTIONAL:高度成長期><NE-OPTIONAL:DATE,NONE:0><rel type="ノ" target="後" sid="wiki00251977-01" id="3"/>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 17D
 以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL

@@ -19,7 +19,7 @@
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D
-中華民国 ちゅうかみんこく 中華民国 名詞 6 地名 4 * 0 * 0 NIL
+中華民国 ちゅうかみんこく 中華民国 名詞 6 地名 4 * 0 * 0 NIL 
 + 7D <rel type="ノ？" target="中華民国" sid="wiki00254540-00-01" id="5"/>
 奉天 ほうてん 奉天 名詞 6 地名 4 * 0 * 0 NIL
 + 9D <rel type="ノ" target="奉天" sid="wiki00254540-00-01" id="6"/>
@@ -28,14 +28,14 @@
 * 10D
 + 9D
 柳条 りゅうじょう 柳条 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 23D <rel type="修飾" target="郊外" sid="wiki00254540-00-01" id="7"/><NE:LOCATION:柳条湖>
++ 23D <NE:LOCATION:柳条湖><rel type="修飾" target="郊外" sid="wiki00254540-00-01" id="7"/>
 湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
 + 11D
 関東 かんとう 関東 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 23D <rel type="ノ？" target="日" sid="wiki00254540-00-01" id="12"/><NE:ORGANIZATION:関東軍>
++ 23D <NE:ORGANIZATION:関東軍><rel type="ノ？" target="日" sid="wiki00254540-00-01" id="12"/>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -51,7 +51,7 @@
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 17D
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 18D <rel type="=" target="日" sid="wiki00254540-00-01" id="12"/><NE:LOCATION:大日本帝国>
++ 18D <NE:LOCATION:大日本帝国><rel type="=" target="日" sid="wiki00254540-00-01" id="12"/>
 帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -91,14 +91,14 @@
 * 15D
 + 28D
 関東 かんとう 関東 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 29D <rel type="=" target="軍" sid="wiki00254540-00-01" id="11"/><NE:ORGANIZATION:関東軍>
++ 29D <NE:ORGANIZATION:関東軍><rel type="=" target="軍" sid="wiki00254540-00-01" id="11"/>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
 + 32D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 17D
-+ 31D <rel type="=" target="満州" sid="wiki00254540-00-01" id="0"/><NE:LOCATION:満州>
++ 31D <NE:LOCATION:満州><rel type="=" target="満州" sid="wiki00254540-00-01" id="0"/>
 満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 32D <rel type="ノ" target="満州" sid="wiki00254540-00-01" id="30"/>
 全土 ぜんど 全土 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -125,7 +125,7 @@
 * 21D
 + 38D
 塘沽 とうこ/たんくー 塘沽 名詞 6 地名 4 * 0 * 0 NIL
-+ 39D <rel type="ガ" target="日本" sid="wiki00254540-00-01" id="41"/><rel type="ト" target="中華民国" sid="wiki00254540-00-01" id="42"/><rel type="デ" target="塘沽" sid="wiki00254540-00-01" id="37"/><memo text="ガト交替可"/>
++ 39D <rel type="ガ" target="日本" sid="wiki00254540-00-01" id="41"/><rel type="ト" target="中華民国" sid="wiki00254540-00-01" id="42"/><memo text="ガト交替可"/><rel type="デ" target="塘沽" sid="wiki00254540-00-01" id="37"/>
 協定 きょうてい 協定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 40D <rel type="ガ" target="協定" sid="wiki00254540-00-01" id="38"/><rel type="時間" target="31日" sid="wiki00254540-00-01" id="36"/>
 成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -135,11 +135,11 @@
 至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23P
-+ 42P <rel type="=" target="帝国" sid="wiki00254540-00-01" id="17"/><NE:LOCATION:日本>
++ 42P <NE:LOCATION:日本><rel type="=" target="帝国" sid="wiki00254540-00-01" id="17"/>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 24D
-+ 43D <rel type="=" target="中華民国" sid="wiki00254540-00-01" id="5"/><NE:LOCATION:中華民国>
++ 43D <NE:LOCATION:中華民国><rel type="=" target="中華民国" sid="wiki00254540-00-01" id="5"/>
 中華民国 ちゅうかみんこく 中華民国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -157,7 +157,7 @@
 EOS
 # S-ID:wiki00254540-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * -1D
-+ 1D <rel type="=" target="満州" sid="wiki00254540-00-01" id="0"/><NE:LOCATION:まんしゅう>
++ 1D <NE:LOCATION:まんしゅう><rel type="=" target="満州" sid="wiki00254540-00-01" id="0"/>
 まんしゅう まんしゅう まんしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + -1D <rel type="=" target="事変" sid="wiki00254540-00-01" id="1"/>
 じへん じへん じへん 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -166,21 +166,21 @@ EOS
 * 1D
 + 1D
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 3P <rel type="=" target="1931年" sid="wiki00254540-00-01" id="2"/><NE:DATE:昭和6年>
++ 3P <NE:DATE:昭和6年><rel type="=" target="1931年" sid="wiki00254540-00-01" id="2"/>
 6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 3D
 民国 みんこく 民国 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1931年" sid="wiki00254540-00-01" id="2"/><NE:DATE:民国20年>
++ -1D <NE:DATE:民国20年><rel type="=" target="1931年" sid="wiki00254540-00-01" id="2"/>
 20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00254540-00-04 括弧始:（ 括弧終:） 括弧位置:45 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * -1D
 + 1D
-現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL undefined
 + -1D <rel type="時間" target="現" sid="wiki00254540-00-04" id="0"/><rel type="=" target="奉天" sid="wiki00254540-00-01" id="6"/><NE:LOCATION:瀋陽>
 瀋陽 しんよう 瀋陽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
@@ -188,7 +188,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="柳条" sid="wiki00254540-00-01" id="8"/>
 柳条 りゅうじょう 柳条 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="湖" sid="wiki00254540-00-01" id="9"/><NE:LOCATION:柳条湖>
++ 2D <NE:LOCATION:柳条湖><rel type="=" target="湖" sid="wiki00254540-00-01" id="9"/>
 湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + -1D <rel type="=" target="事件" sid="wiki00254540-00-01" id="24"/>
 事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -206,7 +206,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="昭和" sid="wiki00254540-00-03" id="0"/>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1933年" sid="wiki00254540-00-01" id="34"/><NE:DATE:昭和8年>
++ -1D <NE:DATE:昭和8年><rel type="=" target="1933年" sid="wiki00254540-00-01" id="34"/>
 8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -217,7 +217,7 @@ EOS
 EOS
 # S-ID:wiki00254540-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D <rel type="=≒" target="中華民国" sid="wiki00254540-00-01" id="42"/><NE:LOCATION:中国>
++ 1D <NE:LOCATION:中国><rel type="=≒" target="中華民国" sid="wiki00254540-00-01" id="42"/>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -226,9 +226,9 @@ EOS
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="=" target="18日" sid="wiki00254540-00-01" id="4"/><NE:OPTIONAL:九一八>
++ 3D <rel type="=" target="18日" sid="wiki00254540-00-01" id="4"/><NE:OPTIONAL:九一八><NE-OPTIONAL:DATE,NONE:0>
 九一八 きゅういちはち 九一八 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="ガ" target="呼称" sid="wiki00254540-01" id="1"/><rel type="=構" target="呼称" sid="wiki00254540-01" id="1"/><rel type="=" mode="AND" target="事変" sid="wiki00254540-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="呼称" sid="wiki00254540-01" id="1"/><memo text="CO"/><rel type="=構" target="呼称" sid="wiki00254540-01" id="1"/><rel type="=" mode="AND" target="事変" sid="wiki00254540-00-01" id="1"/>
 事変 じへん 事変 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -236,7 +236,7 @@ EOS
 * 3D
 + 1D
 関東 かんとう 関東 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=" target="軍" sid="wiki00254540-00-01" id="28"/><NE:ORGANIZATION:関東軍>
++ 5D <NE:ORGANIZATION:関東軍><rel type="=" target="軍" sid="wiki00254540-00-01" id="28"/>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
@@ -246,7 +246,7 @@ EOS
 か月 かげつ か月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="満州" sid="wiki00254540-00-01" id="30"/><NE:LOCATION:満州>
++ 4D <NE:LOCATION:満州><rel type="=" target="満州" sid="wiki00254540-00-01" id="30"/>
 満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 5D <rel type="=" target="全土" sid="wiki00254540-00-01" id="31"/>
 全土 ぜんど 全土 名詞 6 普通名詞 1 * 0 * 0 NIL

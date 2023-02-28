@@ -61,7 +61,7 @@
 出さ ださ 出す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="音" sid="wiki00260112-00-01" id="1"/><rel type="=構" target="音" sid="wiki00260112-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="音" sid="wiki00260112-00-01" id="1"/><memo text="CO"/><rel type="=構" target="音" sid="wiki00260112-00-01" id="1"/>
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -183,13 +183,13 @@ EOS
 EOS
 # S-ID:wiki00260112-03-02 括弧始:（ 括弧終:） 括弧位置:47 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
 * 1P
-+ 1D <NE:OPTIONAL:ドイツ>
++ 1D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3P <rel type="ノ？" target="ドイツ" sid="wiki00260112-03-02" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:OPTIONAL:フランス>
++ 3D <NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 6D <rel type="ノ？" target="フランス" sid="wiki00260112-03-02" id="2"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL

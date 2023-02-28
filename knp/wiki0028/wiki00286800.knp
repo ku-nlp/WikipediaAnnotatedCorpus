@@ -1,8 +1,8 @@
-# S-ID:wiki00286800-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/26 MEMO:
 * 2D
 + 1D
 ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="ラグビー" sid="wiki00286800-00" id="0"/>
++ 5D <rel type="ノ？" target="ラグビー" sid="wiki00286800-00" id="0"/>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -15,12 +15,12 @@
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="スポーツ" sid="wiki00286800-00" id="4"/><rel type="ガ" target="リーグ" sid="wiki00286800-00" id="1"/><rel type="=構" target="リーグ" sid="wiki00286800-00" id="1"/><memo text="副詞→名詞に"/>
++ -1D <rel type="ノ" target="スポーツ" sid="wiki00286800-00" id="4"/><rel type="ガ" target="リーグ" sid="wiki00286800-00" id="1"/><memo text="副詞→名詞に"/><rel type="=構" target="リーグ" sid="wiki00286800-00" id="1"/>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286800-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/01/26 MEMO:
 * 1D
 + 1D <memo text="ヨミ"/>
 1 いっ/ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
@@ -32,7 +32,7 @@ EOS
 名 めい 名 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ずつ ずつ ずつ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 9D
+* 7D
 + 11D <rel type="修飾" target="13名" sid="wiki00286800-01" id="2"/><memo text="ヨミ"/>
 2 に/ふた 2 名詞 6 数詞 7 * 0 * 0 NIL
 チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -41,16 +41,14 @@ EOS
 * 4D
 + 5D <rel type="ノ" target="フィールド" sid="wiki00286800-01" id="10"/>
 幅 はば 幅 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 6P
 + 8P <rel type="=構" target="幅" sid="wiki00286800-01" id="4"/><rel type="ノ" target="幅" sid="wiki00286800-01" id="4"/><rel type="ガ" target="幅" sid="wiki00286800-01" id="4"/>
 68 ろくじゅうはち 68 名詞 6 数詞 7 * 0 * 0 NIL
 メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
+* 5D
 + 8D <rel type="ノ" target="フィールド" sid="wiki00286800-01" id="10"/>
 長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
-* 7D
 + 8P <rel type="=構≒" target="長さ" sid="wiki00286800-01" id="6"/>
 112 ひゃくじゅうに 112 名詞 6 数詞 7 * 0 * 0 NIL
 — から — 特殊 1 記号 5 * 0 * 0 NIL
@@ -58,11 +56,11 @@ EOS
 122 ひゃくにじゅうに 122 名詞 6 数詞 7 * 0 * 0 NIL
 メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
+* 6D
 + 10D <rel type="修飾" target="68メートル" sid="wiki00286800-01" id="5"/><rel type="修飾" mode="AND" target="112" sid="wiki00286800-01" id="7"/><rel type="修飾" mode="OR" target="122メートル" sid="wiki00286800-01" id="8"/>
 長方形 ちょうほうけい 長方形 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 9D
+* 7D
 + 11D <rel type="修飾" target="長方形" sid="wiki00286800-01" id="9"/>
 フィールド ふぃーるど フィールド 名詞 6 普通名詞 1 * 0 * 0 NIL
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -73,11 +71,11 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286800-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/26 MEMO:
 * 1D
 + 1D
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="リーグ" sid="wiki00286800-02" id="0"/><rel type="=構≒" target="リーグ" sid="wiki00286800-00" id="1"/><memo text="こともある　という表現なので≒つけた"/>
++ 2D <rel type="修飾" target="リーグ" sid="wiki00286800-02" id="0"/><rel type="=構" target="リーグ" sid="wiki00286800-00" id="1"/><rel type="=≒" mode="AND" target="ラグビー" sid="wiki00286800-00" id="0"/>
 ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -89,9 +87,9 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286800-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/26 MEMO:
 * 2D
-+ 2D
++ 2D <rel type="=" target="ラグビー" sid="wiki00286800-00" id="0"/>
 ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -100,7 +98,7 @@ EOS
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ？" target="ラグビー" sid="wiki00286800-03-01" id="0"/><rel type="修飾" target="2つ" sid="wiki00286800-03-01" id="1"/><rel type="=構" target="2つ" sid="wiki00286800-03-01" id="1"/>
++ 3D <rel type="修飾" target="2つ" sid="wiki00286800-03-01" id="1"/><rel type="=構" target="2つ" sid="wiki00286800-03-01" id="1"/><rel type="ノ" target="ラグビー" sid="wiki00286800-03-01" id="0"/>
 コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -114,7 +112,7 @@ EOS
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D
++ 6D <rel type="ノ？" target="ラグビー" sid="wiki00286800-03-01" id="0"/>
 選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -132,23 +130,23 @@ EOS
 イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 11D
-ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 11D <rel type="=" target="ラグビー" sid="wiki00286800-03-01" id="0"/>
+ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
 + 12D
-フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 13D <rel type="=≒" target="コード" sid="wiki00286800-03-01" id="2"/><rel type="ノ？" target="イングランド" sid="wiki00286800-03-01" id="9"/><memo text="RFU"/><NE:ORGANIZATION:ラグビー・フットボール・ユニオン>
-ユニオン ゆにおん ユニオン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
++ 13D <NE:ORGANIZATION:ラグビー・フットボール・ユニオン><rel type="=≒" target="コード" sid="wiki00286800-03-01" id="2"/><rel type="ノ？" target="イングランド" sid="wiki00286800-03-01" id="9"/><memo text="RFU"/>
+ユニオン ゆにおん ユニオン 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="カラ" target="ユニオン" sid="wiki00286800-03-01" id="12"/><rel type="時間" target="1895年" sid="wiki00286800-03-01" id="14"/><rel type="ガ" target="不特定:人2"/><memo text="不特定人２：北部フットボールラグビー連合（NRFU、ラグビーリーグの全身）"/>
++ 14D <rel type="カラ" target="ユニオン" sid="wiki00286800-03-01" id="12"/><rel type="時間" target="1895年" sid="wiki00286800-03-01" id="14"/><memo text="不特定人２：北部フットボールラグビー連合（NRFU、ラグビーリーグの全身）"/><rel type="ガ" target="不特定:人2"/>
 分離 ぶんり 分離 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 13D
 + 16D <NE:DATE:1895年>
-1895 せんひゃっぴゃくきゅうじゅうご 1895 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+1895 せんひゃっぴゃくきゅうじゅうご 1895 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
 + 16D <rel type="ノ" target="リーグ" sid="wiki00286800-00" id="1"/>
@@ -166,9 +164,9 @@ code code code 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="=" target="コード" sid="wiki00286800-03-01" id="2"/>
-法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL
+法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL 
 EOS
-# S-ID:wiki00286800-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:33.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:33.00000 MOD:2023/01/26 MEMO:
 * 3D
 + 3D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -205,7 +203,7 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00286800-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:121.00000 MOD:2022/12/22 MEMO:
+# S-ID:wiki00286800-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:121.00000 MOD:2023/01/26 MEMO:
 * 2D
 + 2D <rel type="ガ" target="選手" sid="wiki00286800-03-01" id="5"/>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -240,14 +238,14 @@ EOS
 + 8D
 より より より 副詞 8 * 0 * 0 * 0 NIL
 * 10P
-+ 10P <rel type="ガ" target="試合" sid="wiki00286800-05" id="11"/>
++ 10P <rel type="ガ" target="試合" sid="wiki00286800-05" id="11"/><rel type="ヨリ" target="ユニオン" sid="wiki00286800-04" id="8"/>
 速く はやく 速い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
 + 10D
 より より より 副詞 8 * 0 * 0 * 0 NIL
 * 11D
-+ 11D <rel type="ガ" target="試合" sid="wiki00286800-05" id="11"/>
++ 11D <rel type="ガ" target="試合" sid="wiki00286800-05" id="11"/><rel type="ヨリ" target="ユニオン" sid="wiki00286800-04" id="8"/>
 面白い おもしろい 面白い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
 * 12D
 + 12D <rel type="修飾" target="速く" sid="wiki00286800-05" id="8"/><rel type="修飾" mode="AND" target="面白い" sid="wiki00286800-05" id="10"/>
@@ -269,7 +267,7 @@ EOS
 ルール るーる ルール 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="デ" target="目的" sid="wiki00286800-05" id="13"/><rel type="ヲ" target="ルール" sid="wiki00286800-05" id="15"/><rel type="ガ" target="リーグ" sid="wiki00286800-05" id="4"/>
++ -1D <rel type="ヲ" target="ルール" sid="wiki00286800-05" id="15"/><rel type="ガ" target="リーグ" sid="wiki00286800-05" id="4"/><rel type="デ" target="目的" sid="wiki00286800-05" id="13"/><rel type="デ" mode="？" target="なし"/>
 変更 へんこう 変更 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いった いった いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 タ形 10 NIL

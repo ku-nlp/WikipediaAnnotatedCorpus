@@ -1,4 +1,4 @@
-# S-ID:wiki00282800-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282800-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2023/01/24 MEMO:
 * 9D
 + 1D
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -11,7 +11,7 @@
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 8P <rel type="ガ" target="不特定:人"/><rel type="ニ" target="学校" sid="wiki00282800-00" id="2"/>
++ 8P <rel type="ガ" target="不特定:人"/><rel type="ニ" target="学校" sid="wiki00282800-00" id="2"/><rel type="外の関係" target="こと" sid="wiki00282800-00" id="9"/>
 通学 つうがく 通学 名詞 6 サ変名詞 2 * 0 * 0 NIL
 せ せ する 動詞 2 * 0 サ変動詞 16 文語未然形 19 NIL
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
@@ -35,7 +35,7 @@
 + 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学習" sid="wiki00282800-00" id="7"/><rel type="外の関係" target="こと" sid="wiki00282800-00" id="9"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 9D
-+ 10D <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/><rel type="トイウ" target="行う" sid="wiki00282800-00" id="8"/>
++ 10D <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/><rel type="トイウ" target="行う" sid="wiki00282800-00" id="8"/><rel type="トイウ" mode="AND" target="通学せず" sid="wiki00282800-00" id="3"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -43,7 +43,7 @@
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282800-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282800-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/01/24 MEMO:
 * 1D
 + 1D
 オルタナティブ おるたなてぃぶ オルタナティブ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -63,13 +63,13 @@ EOS
 * 4P
 + 5D <rel type="=" target="ホーム" sid="wiki00282800-00" id="0"/>
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/>
++ 7P <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/><rel type="修飾" target="ホーム" sid="wiki00282800-01" id="4"/>
 スクール すくーる スクール 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 7D <rel type="=" target="ホーム" sid="wiki00282800-01" id="4"/>
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/>
++ 8D <rel type="=構" target="スクーリング" sid="wiki00282800-00" id="1"/><rel type="修飾" target="ホーム" sid="wiki00282800-01" id="6"/>
 エデュケーション えでゅけーしょん エデュケーション 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -79,7 +79,7 @@ EOS
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282800-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:116.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282800-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:116.00000 MOD:2023/01/24 MEMO:
 * 1D
 + 1D <rel type="=" target="ホーム" sid="wiki00282800-00" id="0"/>
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -90,7 +90,7 @@ EOS
 + 3D <rel type="ガ" target="スクーリング" sid="wiki00282800-02-01" id="1"/><rel type="デ" target="米国など" sid="wiki00282800-02-01" id="3"/>
 盛んな さかんな 盛んだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 18D
-+ 23D <NE:LOCATION:米国>
++ 23D <NE:LOCATION:米国><rel type="修飾" target="盛んな" sid="wiki00282800-02-01" id="2"/>
 米国 べいこく 米国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -101,7 +101,7 @@ EOS
 家庭 かてい 家庭 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="=" target="拠点" sid="wiki00282800-00" id="5"/><rel type="ノ" target="スクーリング" sid="wiki00282800-02-01" id="1"/>
++ 6D <rel type="ノ" target="学習" sid="wiki00282800-00" id="7"/><rel type="=" target="拠点" sid="wiki00282800-00" id="5"/><rel type="=構" mode="AND" target="家庭" sid="wiki00282800-02-01" id="4"/>
 拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -143,7 +143,7 @@ EOS
 * 18D
 + 17D <rel type="ガ" target="不特定:人"/>
 在宅 ざいたく 在宅 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 23D <rel type="ガ" target="不特定:人"/><rel type="デ" target="在宅" sid="wiki00282800-02-01" id="16"/><rel type="=構" target="スクーリング" sid="wiki00282800-02-01" id="1"/>
++ 23D <rel type="ガ" target="不特定:人"/><rel type="=構" target="スクーリング" sid="wiki00282800-02-01" id="1"/><rel type="ヲ" target="不特定:人"/><rel type="デ" target="在宅" sid="wiki00282800-02-01" id="16"/><rel type="デ" mode="？" target="なし"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
@@ -169,16 +169,16 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282800-02-02 括弧始:（ 括弧終:） 括弧位置:61 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282800-02-02 括弧始:（ 括弧終:） 括弧位置:61 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/24 MEMO:
 * -1D
 + 1D
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="教育" sid="wiki00282800-02-01" id="17"/><rel type="=" mode="AND" target="スクーリング" sid="wiki00282800-02-01" id="1"/>
 スクーリング すくーりんぐ スクーリング 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00282800-02-03 括弧始:（ 括弧終:） 括弧位置:84 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/19 MEMO:
+# S-ID:wiki00282800-02-03 括弧始:（ 括弧終:） 括弧位置:84 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/24 MEMO:
 * -1P
-+ 1D
++ 1D <rel type="=" target="自宅" sid="wiki00282800-02-01" id="18"/>
 home home home 名詞 6 普通名詞 1 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL
 + 2D <rel type="=" target="ベース" sid="wiki00282800-02-01" id="19"/>
@@ -188,11 +188,11 @@ based based based 名詞 6 普通名詞 1 * 0 * 0 NIL
 education education education 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 4D <rel type="=" target="home" sid="wiki00282800-02-03" id="0"/><memo text="文節区切り　Bにできず"/>
-ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
+ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL 
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL 
 + 5D <rel type="=" target="based" sid="wiki00282800-02-03" id="1"/>
-ベイスド べいすど ベイスド 名詞 6 サ変名詞 2 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
+ベイスド べいすど ベイスド 名詞 6 普通名詞 1 * 0 * 0 NIL 
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL 
 + -1D <rel type="=" target="education" sid="wiki00282800-02-03" id="2"/>
-エデュケーション えでゅけーしょん エデュケーション 名詞 6 普通名詞 1 * 0 * 0 NIL
+エデュケーション えでゅけーしょん エデュケーション 名詞 6 普通名詞 1 * 0 * 0 NIL 
 EOS

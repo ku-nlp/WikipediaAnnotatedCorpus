@@ -1,7 +1,7 @@
-# S-ID:wiki00304642-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00304642-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/02/16 MEMO:
 * 9D
 + 10D
-タクソン タクソン タクソン 名詞 6 普通名詞 1 * 0 * 0 NIL
+タクソン たくそん タクソン 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -27,7 +27,7 @@
 階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="集合" sid="wiki00304642-00-01" id="9"/><rel type="ニ" target="階級" sid="wiki00304642-00-01" id="6"/>
++ 8D <rel type="ニ" target="階級" sid="wiki00304642-00-01" id="6"/><rel type="ガ" target="生物" sid="wiki00304642-00-01" id="8"/>
 位置づけ いちづけ 位置づける 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
@@ -35,32 +35,31 @@
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D
++ 10D <rel type="ノ" target="生物" sid="wiki00304642-00-01" id="8"/><rel type="=構" target="タクソン" sid="wiki00304642-00-01" id="0"/>
 集合 しゅうごう 集合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="タクソン" sid="wiki00304642-00-01" id="0"/><rel type="ノ" target="集合" sid="wiki00304642-00-01" id="9"/><rel type="=" target="タクソン" sid="wiki00304642-00-01" id="0"/>
++ -1D <rel type="ガ" target="タクソン" sid="wiki00304642-00-01" id="0"/><rel type="ノ" target="集合" sid="wiki00304642-00-01" id="9"/><rel type="=構" target="タクソン" sid="wiki00304642-00-01" id="0"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304642-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00304642-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/16 MEMO:
 * 2P
-+ 4P <rel type="=" target="タクソン" sid="wiki00304642-00-01" id="0"/>
-taxon taxon taxon 名詞 6 組織名 6 * 0 * 0 NIL
++ 3P <rel type="=" target="タクソン" sid="wiki00304642-00-01" id="0"/>
+taxon taxon taxon 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D
-複 複 複 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
++ 3D <rel type="ノ" target="タクソン" sid="wiki00304642-00-01" id="0"/>
+複 ふく 複 名詞 6 普通名詞 1 * 0 * 0 NIL
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 4P <rel type="=" target="集合" sid="wiki00304642-00-01" id="9"/>
-タクサ タクサ タクサ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=構" target="複" sid="wiki00304642-00-02" id="1"/>
+タクサ たくさ タクサ 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="タクサ" sid="wiki00304642-00-02" id="3"/>
-taxa taxa taxa 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="複" sid="wiki00304642-00-02" id="1"/><rel type="=構" target="複" sid="wiki00304642-00-02" id="1"/><rel type="=" mode="AND" target="タクサ" sid="wiki00304642-00-02" id="2"/>
+taxa taxa taxa 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304642-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00304642-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/02/16 MEMO:
 * 1D
 + 1D <rel type="ノ" target="タクソン" sid="wiki00304642-00-01" id="0"/>
 訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -72,46 +71,46 @@ EOS
 * 3D
 + 3D <rel type="=" target="分類" sid="wiki00304642-00-01" id="2"/>
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="分類" sid="wiki00304642-01-01" id="2"/>
++ 4D <rel type="ノ" target="分類" sid="wiki00304642-01-01" id="2"/><rel type="=構" target="訳語" sid="wiki00304642-01-01" id="0"/>
 群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 5D
-+ 6D <rel type="=" target="訳語" sid="wiki00304642-01-01" id="0"/>
++ 6D <rel type="=" target="訳語" sid="wiki00304642-01-01" id="0"/><rel type="トイウ" target="群" sid="wiki00304642-01-01" id="3"/>
 用語 ようご 用語 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="用語" sid="wiki00304642-01-01" id="5"/>
++ -1D <rel type="ガ" target="用語" sid="wiki00304642-01-01" id="5"/><rel type="トシテ" target="訳語" sid="wiki00304642-01-01" id="0"/>
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 的である てきである 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 デアル列基本形 17 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304642-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00304642-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/16 MEMO:
 * -1D
-+ 1D <rel type="=" target="生物" sid="wiki00304642-00-01" id="1"/>
++ 1D <rel type="=" target="生物" sid="wiki00304642-00-01" id="1"/><rel type="=" mode="AND" target="分類" sid="wiki00304642-00-01" id="5"/>
 ぶんるい ぶんるい ぶんるい 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="=" target="群" sid="wiki00304642-01-01" id="3"/>
 ぐん ぐん ぐん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304642-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00304642-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/02/16 MEMO:
 * 1P
-+ 1P
-taxonomic taxonomic taxonomic 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D
+taxonomic taxonomic taxonomic 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-unit unit unit 名詞 6 組織名 6 * 0 * 0 NIL
++ 3P
+unit unit unit 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2P
-+ 3P <rel type="=" target="taxonomic　unit" sid="wiki00304642-02" id="0"/>
-taxonomical taxonomical taxonomical 名詞 6 組織名 6 * 0 * 0 NIL
+* 2D
++ 3D
+taxonomical taxonomical taxonomical 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-group group group 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D <rel type="ガ" target="タクソン" sid="wiki00304642-00-01" id="0"/>
+group group group 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 3D
-同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="タクソン" sid="wiki00304642-00-01" id="0"/>
-義 ぎ 義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="タクソン" sid="wiki00304642-00-01" id="0"/><rel type="ト" target="unit" sid="wiki00304642-02" id="1"/><rel type="ト" mode="AND" target="group" sid="wiki00304642-02" id="3"/><memo text="CO　「同/義」を「/同義/」にした"/>
+同義 どうぎ 同義 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -6,7 +6,7 @@
 連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 3D <rel type="ガ" target="連邦" sid="wiki00252544-00-01" id="1"/><rel type="ヲ" target="地" sid="wiki00252544-00-01" id="3"/>
 直轄 ちょっかつ 直轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="インド" sid="wiki00252544-00-01" id="4"/><rel type="修飾" target="直轄" sid="wiki00252544-00-01" id="2"/><NE:LOCATION:デリー連邦直轄地>
++ 8D <rel type="ノ？" target="インド" sid="wiki00252544-00-01" id="4"/><NE:LOCATION:デリー連邦直轄地><rel type="修飾" target="直轄" sid="wiki00252544-00-01" id="2"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -24,7 +24,7 @@
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D
 特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="地" sid="wiki00252544-00-01" id="3"/><rel type="=構" target="地" sid="wiki00252544-00-01" id="3"/><rel type="修飾" target="特別" sid="wiki00252544-00-01" id="7"/><rel type="修飾" mode="AND" target="首都" sid="wiki00252544-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="地" sid="wiki00252544-00-01" id="3"/><rel type="=構" target="地" sid="wiki00252544-00-01" id="3"/><memo text="CO"/><rel type="修飾" target="特別" sid="wiki00252544-00-01" id="7"/><rel type="修飾" mode="AND" target="首都" sid="wiki00252544-00-01" id="6"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -108,7 +108,7 @@ km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 *
 * 11D
 + 19D
 南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 20D <rel type="修飾" target="南" sid="wiki00252544-01" id="18"/><rel type="=≒" target="インド" sid="wiki00252544-01" id="4"/><NE:LOCATION:南アジア>
++ 20D <NE:LOCATION:南アジア><rel type="修飾" target="南" sid="wiki00252544-01" id="18"/><rel type="=≒" target="インド" sid="wiki00252544-01" id="4"/>
 アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D

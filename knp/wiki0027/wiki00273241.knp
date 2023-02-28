@@ -1,9 +1,9 @@
-# S-ID:wiki00273241-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00273241-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/19 MEMO:
 * 5D
 + 1D
-シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+シティ してぃ シティ 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
 + 9D <NE:ORGANIZATION:シティグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -23,7 +23,7 @@
 金融 きんゆう 金融 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D <rel type="ガ" target="事業" sid="wiki00273241-00" id="7"/><rel type="ニ" target="金融" sid="wiki00273241-00" id="5"/>
 関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 9D <rel type="ニカンシテ" target="金融" sid="wiki00273241-00" id="5"/>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -48,20 +48,20 @@ EOS
 第一人者 だいいちにんしゃ 第一人者 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00273241-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00273241-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/19 MEMO:
 * 1P
 + 1D
 四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="修飾" target="四" sid="wiki00273241-02" id="0"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 4P <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/>
++ 4P <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/><rel type="修飾" target="大" sid="wiki00273241-02" id="1"/>
 銀行 ぎんこう 銀行 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D
 バルジ ばるじ バルジ 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/><memo text="Bulge Bracket、世界経済に大きな影響を与える一流投資銀行群"/>
++ 5D <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/><memo text="Bulge Bracket、世界経済に大きな影響を与える一流投資銀行群"/><rel type="修飾" target="バルジ" sid="wiki00273241-02" id="3"/>
 ブラケット ぶらけっと ブラケット 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -70,7 +70,7 @@ EOS
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00273241-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
+# S-ID:wiki00273241-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/19 MEMO:
 * -1D
 + 3D
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
@@ -78,7 +78,7 @@ EOS
 証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証券" sid="wiki00273241-03" id="1"/><rel type="デ" target="所" sid="wiki00273241-03" id="3"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <NE:OPTIONAL:ニューヨーク証券取引所>
++ 4D <NE:OPTIONAL:ニューヨーク証券取引所><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 所 じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 5D <rel type="ガ" target="企業" sid="wiki00273241-03" id="5"/><rel type="ニ" target="所" sid="wiki00273241-03" id="3"/>
 上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL

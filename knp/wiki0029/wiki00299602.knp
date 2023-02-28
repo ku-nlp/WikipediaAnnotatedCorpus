@@ -1,6 +1,6 @@
-# S-ID:wiki00299602-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000
+# S-ID:wiki00299602-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/01/23 MEMO:
 * 4D
-+ 1D
++ 1D <rel type="ガ" target="不特定:物"/><rel type="外の関係" target="量" sid="wiki00299602-00-01" id="1"/>
 排水 はいすい 排水 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 5D <rel type="ノ" target="排水" sid="wiki00299602-00-01" id="0"/>
 量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -18,8 +18,8 @@
 * 4D
 + 5D <rel type="ガ" target="数値" sid="wiki00299602-00-01" id="5"/><rel type="ヲ" target="重量" sid="wiki00299602-00-01" id="3"/>
 示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
-* 8D
-+ 9D <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="=" target="量" sid="wiki00299602-00-01" id="1"/>
+* 8P
++ 9P <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="=構" target="量" sid="wiki00299602-00-01" id="1"/>
 数値 すうち 数値 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -27,56 +27,57 @@
 + 9D
 主として しゅとして 主として 副詞 8 * 0 * 0 * 0 NIL
 * 7D
-+ 8D
++ 8D <rel type="=≒" target="船" sid="wiki00299602-00-01" id="2"/>
 艦艇 かんてい 艦艇 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 9D
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * -1D
-+ -1D <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ニツイテ" target="艦艇" sid="wiki00299602-00-01" id="7"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00299602-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00299602-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/19 MEMO:
 * -1D
 + 1D <rel type="=" target="排水" sid="wiki00299602-00-01" id="0"/>
 はいすい はいすい はいすい 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="=" target="量" sid="wiki00299602-00-01" id="1"/>
 りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00299602-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00299602-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/23 MEMO:
 * 1D
 + 1D
 トン とん トン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="トン" sid="wiki00299602-01-01" id="0"/>
++ 2D <rel type="ノ" target="トン" sid="wiki00299602-01-01" id="0"/><rel type="=≒" target="量" sid="wiki00299602-00-01" id="1"/>
 数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 6P <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ノ" target="数" sid="wiki00299602-01-01" id="1"/>
-一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
++ 6P <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ノ" target="数" sid="wiki00299602-01-01" id="1"/><rel type="=構" target="量" sid="wiki00299602-00-01" id="1"/><rel type="=構" mode="AND" target="数" sid="wiki00299602-01-01" id="1"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
++ 5D <rel type="=" target="排水" sid="wiki00299602-00-01" id="0"/>
 排水 はいすい 排水 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="=" target="トン" sid="wiki00299602-01-01" id="0"/>
 トン とん トン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="量" sid="wiki00299602-00-01" id="1"/>
++ 6D <rel type="=構" target="量" sid="wiki00299602-00-01" id="1"/><rel type="=≒" mode="AND" target="数" sid="wiki00299602-01-01" id="1"/><rel type="修飾" target="排水" sid="wiki00299602-01-01" id="3"/>
 数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
-称さ そやさ 称す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ガ" target="量" sid="wiki00299602-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="数" sid="wiki00299602-01-01" id="5"/>
+称さ しょうさ 称す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00299602-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00299602-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/19 MEMO:
 * -1D
-+ -1D
-displacement displacement displacement 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <rel type="=" target="排水" sid="wiki00299602-01-01" id="3"/>
+displacement displacement displacement 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-tonnage tonnage tonnage 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="数" sid="wiki00299602-01-01" id="5"/>
+tonnage tonnage tonnage 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

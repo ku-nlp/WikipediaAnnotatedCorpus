@@ -1,29 +1,28 @@
-# S-ID:wiki00304497-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/02/15 MEMO:
-* 5D
+# S-ID:wiki00304497-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/04/19 MEMO:
+* 4D
 + 1D
 カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 9D <NE:LOCATION:カスティーリャ王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <NE:DATE:中世>
-中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL undefined<NE:DATE:single>
-* 3P
-+ 7P <NE:LOCATION:ヨーロッパ><memo text="中世ヨーロッパでDATEとする？"/><rel type="時間" target="中世" sid="wiki00304497-00-01" id="2"/>
+中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 7P <rel type="時間" target="中世" sid="wiki00304497-00-01" id="2"/><memo text="中世ヨーロッパでDATEとする？"/><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 4D
+* 3D
 + 5D
 イベリア いべりあ イベリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <NE:LOCATION:イベリア半島><rel type="ノ" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/>
++ 7D <rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><NE:LOCATION:イベリア半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 + 7D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/>
 中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/><rel type="ノ？" target="中央" sid="wiki00304497-00-01" id="6"/>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
+* 4D
 + 9D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="9"/><rel type="ニ" target="部" sid="wiki00304497-00-01" id="7"/><rel type="ニ" mode="AND" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/>
 あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
 * -1D
@@ -37,9 +36,9 @@ EOS
 + 1D <rel type="=" target="カスティーリャ" sid="wiki00304497-00-01" id="0"/>
 カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + -1D <rel type="=" target="王国" sid="wiki00304497-00-01" id="1"/><NE:LOCATION:カスティーリャおうこく>
-おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
+おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
-# S-ID:wiki00304497-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/02/15 MEMO:
+# S-ID:wiki00304497-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/04/19 MEMO:
 * 1D
 + 1D
 キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -60,7 +59,7 @@ EOS
 + 6D <rel type="ガ" target="役割" sid="wiki00304497-01-01" id="6"/>
 主導 しゅどう 主導 名詞 6 サ変名詞 2 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 7D
++ 7D <rel type="修飾" target="主導的" sid="wiki00304497-01-01" id="5"/>
 役割 やくわり 役割 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
@@ -74,8 +73,8 @@ EOS
 * 8D
 + 10D
 スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <rel type="修飾" target="後" sid="wiki00304497-01-01" id="8"/><NE:LOCATION:スペイン王国><rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
++ 11D <rel type="修飾" target="後" sid="wiki00304497-01-01" id="8"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><NE:LOCATION:スペイン王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 12D <rel type="ノ" target="王国" sid="wiki00304497-01-01" id="10"/><rel type="=構" target="王国" sid="wiki00304497-00-01" id="1"/>
@@ -86,7 +85,7 @@ EOS
 なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00304497-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/15 MEMO:
+# S-ID:wiki00304497-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/19 MEMO:
 * -1D
 + 1D <rel type="=" target="半島" sid="wiki00304497-00-01" id="5"/>
 国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL

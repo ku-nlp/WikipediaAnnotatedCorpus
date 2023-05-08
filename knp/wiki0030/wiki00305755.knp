@@ -1,4 +1,4 @@
-# S-ID:wiki00305755-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2023/02/20 MEMO:
+# S-ID:wiki00305755-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2023/04/20 MEMO:
 * 10D
 + 1D
 相対 そうたい 相対 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -23,14 +23,14 @@
 相対 そうたい 相対 名詞 6 普通名詞 1 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 6D
-+ 7D <rel type="ノ" target="音" sid="wiki00305755-00-01" id="8"/><rel type="ト" target="音" sid="wiki00305755-00-01" id="4"/>
++ 7D <rel type="ノ" target="音" sid="wiki00305755-00-01" id="8"/><rel type="ト" target="音" sid="wiki00305755-00-01" id="4"/><rel type="修飾" target="相対的な" sid="wiki00305755-00-01" id="5"/>
 音程 おんてい 音程 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 10D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 8D
-+ 9D
++ 9D <rel type="=≒" target="音" sid="wiki00305755-00-01" id="4"/>
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -48,10 +48,10 @@
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00305755-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/20 MEMO:
+# S-ID:wiki00305755-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/20 MEMO:
 * -1D
 + 1D <rel type="=" target="相対" sid="wiki00305755-00-01" id="0"/>
-そうたい そうたい そうたい 名詞 6 サ変名詞 2 * 0 * 0 NIL
+そうたい そうたい そうたい 名詞 6 普通名詞 1 * 0 * 0 NIL
 + -1D <rel type="=" target="音感" sid="wiki00305755-00-01" id="1"/>
 おんかん おんかん おんかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
@@ -64,7 +64,7 @@ EOS
 + -1D <rel type="=" target="音" sid="wiki00305755-00-01" id="4"/>
 楽音 がくおん 楽音 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00305755-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/02/20 MEMO:
+# S-ID:wiki00305755-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/04/20 MEMO:
 * 2D
 + 2D
 音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -85,8 +85,8 @@ EOS
 + 5D <rel type="=" target="音感" sid="wiki00305755-00-01" id="1"/>
 音感 おんかん 音感 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 10D
-+ 11D <rel type="ガ" target="音感" sid="wiki00305755-01" id="4"/><rel type="ニ" target="感じる" sid="wiki00305755-01" id="2"/>
+* 11D
++ 12D <rel type="ガ" target="音感" sid="wiki00305755-01" id="4"/><rel type="ニ" target="感じる" sid="wiki00305755-01" id="2"/>
 必要である ひつようである 必要だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -114,7 +114,7 @@ EOS
 能力 のうりょく 能力 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="能力" sid="wiki00305755-01" id="11"/><rel type="ヲ" target="音感" sid="wiki00305755-01" id="4"/>
++ -1D <rel type="ト" target="能力" sid="wiki00305755-01" id="11"/><rel type="ヲ" target="音感" sid="wiki00305755-01" id="4"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="著者"/>
 言える いえる 言える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

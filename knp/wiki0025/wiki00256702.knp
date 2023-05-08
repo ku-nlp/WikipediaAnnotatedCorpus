@@ -26,7 +26,7 @@
 * -1D
 + 8D
 業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="新聞" sid="wiki00256702-00-01" id="1"/><memo text="CO"/><rel type="=構" target="新聞" sid="wiki00256702-00-01" id="1"/><rel type="ノ？" target="業界" sid="wiki00256702-00-01" id="7"/>
++ -1D <rel type="ガ" target="新聞" sid="wiki00256702-00-01" id="1"/><rel type="=構" target="新聞" sid="wiki00256702-00-01" id="1"/><rel type="ノ？" target="業界" sid="wiki00256702-00-01" id="7"/><memo text="CO"/>
 紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -34,7 +34,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="交通" sid="wiki00256702-00-01" id="0"/>
 こうつう こうつう こうつう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ -1D <NE:ARTIFACT:こうつうしんぶん><rel type="=" target="新聞" sid="wiki00256702-00-01" id="1"/>
++ -1D <rel type="=" target="新聞" sid="wiki00256702-00-01" id="1"/><NE:ARTIFACT:こうつうしんぶん>
 しんぶん しんぶん しんぶん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00256702-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/15 MEMO:
@@ -58,7 +58,7 @@ JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 6D <rel type="=" target="新聞" sid="wiki00256702-00-01" id="1"/>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <NE:ORGANIZATION:交通新聞社><rel type="=構" target="企業" sid="wiki00256702-01" id="3"/>
++ 7D <rel type="=構" target="企業" sid="wiki00256702-01" id="3"/><NE:ORGANIZATION:交通新聞社>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -93,7 +93,7 @@ EOS
 * 5D
 + 5D <rel type="=" target="JR" sid="wiki00256702-01" id="1"/>
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="トシテ" target="企業" sid="wiki00256702-02-01" id="2"/><NE:ORGANIZATION:JRグループ><rel type="=" target="JR" sid="wiki00256702-01" id="1"/>
++ 6D <rel type="トシテ" target="企業" sid="wiki00256702-02-01" id="2"/><rel type="=" target="JR" sid="wiki00256702-01" id="1"/><NE:ORGANIZATION:JRグループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 7D <rel type="ノ" target="グループ" sid="wiki00256702-02-01" id="5"/>
 全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -115,7 +115,7 @@ JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 つつ つつ つつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 13D <NE:ORGANIZATION:JR><rel type="=" target="JR" sid="wiki00256702-02-01" id="4"/>
++ 13D <rel type="=" target="JR" sid="wiki00256702-02-01" id="4"/><NE:ORGANIZATION:JR>
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -188,7 +188,7 @@ EOS
 加え くわえ 加える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:ORGANIZATION:JR><rel type="=" target="グループ" sid="wiki00256702-02-01" id="5"/>
++ 4D <rel type="=" target="グループ" sid="wiki00256702-02-01" id="5"/><NE:ORGANIZATION:JR>
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -248,7 +248,7 @@ EOS
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 11D <rel type="=" target="交通" sid="wiki00256702-03" id="2"/>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 13D <NE:ARTIFACT:東京交通新聞><rel type="修飾" target="紙" sid="wiki00256702-03" id="8"/><rel type="=" target="新聞" sid="wiki00256702-03" id="3"/><rel type="=構" mode="AND" target="紙" sid="wiki00256702-03" id="8"/>
++ 13D <rel type="修飾" target="紙" sid="wiki00256702-03" id="8"/><rel type="=" target="新聞" sid="wiki00256702-03" id="3"/><rel type="=構" mode="AND" target="紙" sid="wiki00256702-03" id="8"/><NE:ARTIFACT:東京交通新聞>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL

@@ -88,7 +88,7 @@ EOS
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 15P <NE:LOCATION:中華人民共和国><rel type="ニ" target="北西" sid="wiki00253731-01-01" id="4"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="中華人民共和国" sid="wiki00253731-01-01" id="5"/>
++ 15P <rel type="ニ" target="北西" sid="wiki00253731-01-01" id="4"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="中華人民共和国" sid="wiki00253731-01-01" id="5"/><NE:LOCATION:中華人民共和国>
 中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6I
@@ -96,7 +96,7 @@ EOS
 北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 15P <NE:LOCATION:ロシア><rel type="ニ" target="北東" sid="wiki00253731-01-01" id="6"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="ロシア" sid="wiki00253731-01-01" id="7"/>
++ 15P <rel type="ニ" target="北東" sid="wiki00253731-01-01" id="6"/><rel type="ガ" target="朝鮮" sid="wiki00253731-00-01" id="0"/><rel type="ト" target="ロシア" sid="wiki00253731-01-01" id="7"/><NE:LOCATION:ロシア>
 ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11I
@@ -130,6 +130,6 @@ EOS
 * -1D
 + 1D
 朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <NE:LOCATION:朝鮮海峡><rel type="=" target="水道" sid="wiki00253731-01-01" id="12"/>
++ -1D <rel type="=" target="水道" sid="wiki00253731-01-01" id="12"/><NE:LOCATION:朝鮮海峡>
 海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

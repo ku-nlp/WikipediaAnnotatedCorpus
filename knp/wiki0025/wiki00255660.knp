@@ -27,7 +27,7 @@ EOS
 + 1D
 セントラル せんとらる セントラル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 2D <NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="修飾" target="セントラル" sid="wiki00255660-01" id="0"/><rel type="ノ？" target="野球" sid="wiki00255660-00-01" id="3"/>
++ 2D <rel type="修飾" target="セントラル" sid="wiki00255660-01" id="0"/><rel type="ノ？" target="野球" sid="wiki00255660-00-01" id="3"/><NE:OPTIONAL:セントラル・リーグ>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -80,13 +80,13 @@ EOS
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9P
-+ 14P <NE:ORGANIZATION:読売ジャイアンツ><rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/>
++ 14P <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><NE:ORGANIZATION:読売ジャイアンツ>
 読売ジャイアンツ よみうりじゃいあんつ 読売ジャイアンツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
 + 14D
 阪神 はんしん 阪神 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 15D <NE:ORGANIZATION:阪神タイガース><rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/>
++ 15D <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><NE:ORGANIZATION:阪神タイガース>
 タイガース タイガース タイガース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
@@ -122,12 +122,12 @@ EOS
 愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><NE:ORGANIZATION:ドラゴンズ><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/>
++ 2P <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><NE:ORGANIZATION:ドラゴンズ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ドラゴンズ どらごんず ドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><NE:ORGANIZATION:中日><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:中日>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 中日 ちゅうにち 中日 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -141,12 +141,12 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <NE:ORGANIZATION:ドラ><rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/>
++ 2P <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><NE:ORGANIZATION:ドラ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ドラ どら ドラ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3D
-+ 3D <NE:ORGANIZATION:竜><rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/>
++ 3D <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><NE:ORGANIZATION:竜>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 竜 りゅう 竜 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL

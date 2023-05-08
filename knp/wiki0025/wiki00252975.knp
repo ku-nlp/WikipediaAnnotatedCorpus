@@ -2,7 +2,7 @@
 * 7D
 + 1D
 ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 9D <rel type="ノ？" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/><NE:OPTIONAL:ヴィクトリア朝><NE-OPTIONAL:DATE,NONE:0>
++ 9D <rel type="ノ？" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/><NE:OPTIONAL:ヴィクトリア朝>
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -44,7 +44,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="ヴィクトリア" sid="wiki00252975-00-01" id="0"/>
 ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="朝" sid="wiki00252975-00-01" id="1"/><NE:OPTIONAL:ヴィクトリアちょう><NE-OPTIONAL:DATE,NONE:0>
++ -1D <rel type="=" target="朝" sid="wiki00252975-00-01" id="1"/><NE:OPTIONAL:ヴィクトリアちょう>
 ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00252975-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000 MOD:2022/12/12 MEMO:
@@ -91,7 +91,7 @@ EOS
 * 11D
 + 13D <rel type="=" target="イギリス" sid="wiki00252975-01" id="2"/>
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 15D <rel type="ノ" target="イギリス" sid="wiki00252975-01" id="12"/><NE:LOCATION:イギリス帝国><rel type="=" target="イギリス" sid="wiki00252975-00-01" id="4"/>
++ 15D <rel type="ノ" target="イギリス" sid="wiki00252975-01" id="12"/><rel type="=" target="イギリス" sid="wiki00252975-00-01" id="4"/><NE:LOCATION:イギリス帝国>
 帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D

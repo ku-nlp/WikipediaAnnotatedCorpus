@@ -4,7 +4,7 @@
 チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 5D
-+ 5D <NE:OPTIONAL:チャドの歴史><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="0"/>
++ 5D <rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="0"/><NE:OPTIONAL:チャドの歴史>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -32,6 +32,6 @@ EOS
 チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><NE:OPTIONAL:チャドのれきし><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="ノ？" target="チャド" sid="wiki00258044-00-02" id="0"/>
++ -1D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><rel type="ノ？" target="チャド" sid="wiki00258044-00-02" id="0"/><NE:OPTIONAL:チャドのれきし>
 れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

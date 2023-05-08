@@ -2,13 +2,13 @@
 * 1P
 + 1D
 リビア りびあ リビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <NE:LOCATION:リビア国><rel type="ノ？" target="アフリカ" sid="wiki00257585-00-01" id="5"/>
++ 3P <rel type="ノ？" target="アフリカ" sid="wiki00257585-00-01" id="5"/><NE:LOCATION:リビア国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 3D <rel type="ノ" target="国" sid="wiki00257585-00-01" id="1"/>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <NE:LOCATION:リビア><rel type="=" target="リビア" sid="wiki00257585-00-01" id="0"/><rel type="=" mode="AND" target="国" sid="wiki00257585-00-01" id="1"/><rel type="=構" mode="AND" target="通称" sid="wiki00257585-00-01" id="2"/><rel type="修飾" target="通称" sid="wiki00257585-00-01" id="2"/>
++ 9D <rel type="=" target="リビア" sid="wiki00257585-00-01" id="0"/><rel type="=" mode="AND" target="国" sid="wiki00257585-00-01" id="1"/><rel type="=構" mode="AND" target="通称" sid="wiki00257585-00-01" id="2"/><rel type="修飾" target="通称" sid="wiki00257585-00-01" id="2"/><NE:LOCATION:リビア>
 リビア りびあ リビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -27,7 +27,7 @@
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9D <rel type="ノ" target="共和" sid="wiki00257585-00-01" id="7"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><rel type="=構" target="リビア" sid="wiki00257585-00-01" id="3"/><memo text="CO"/><rel type="修飾" target="制" sid="wiki00257585-00-01" id="8"/>
++ -1D <rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><rel type="=構" target="リビア" sid="wiki00257585-00-01" id="3"/><rel type="修飾" target="制" sid="wiki00257585-00-01" id="8"/><memo text="CO"/>
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -48,10 +48,10 @@ EOS
 # S-ID:wiki00257585-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 WARNING:Cannot detect consistent CS scopes MOD:2022/12/15 MEMO:
 * 1I
 + 1I <rel type="ノ" target="リビア" sid="wiki00257585-00-01" id="3"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL 
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 3P <NE:LOCATION:エジプト><rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="東" sid="wiki00257585-01" id="0"/><rel type="ト" target="エジプト" sid="wiki00257585-01" id="1"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/>
++ 3P <rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="東" sid="wiki00257585-01" id="0"/><rel type="ト" target="エジプト" sid="wiki00257585-01" id="1"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><NE:LOCATION:エジプト>
 エジプト えじぷと エジプト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3I
@@ -59,7 +59,7 @@ EOS
 南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 6P <NE:LOCATION:スーダン><rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="南東" sid="wiki00257585-01" id="2"/><rel type="ト" target="スーダン" sid="wiki00257585-01" id="3"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/>
++ 6P <rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="南東" sid="wiki00257585-01" id="2"/><rel type="ト" target="スーダン" sid="wiki00257585-01" id="3"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><NE:LOCATION:スーダン>
 スーダン すーだん スーダン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6I
@@ -71,7 +71,7 @@ EOS
 チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 8P <NE:LOCATION:ニジェール><rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="南" sid="wiki00257585-01" id="4"/><rel type="ト" target="チャド" sid="wiki00257585-01" id="5"/><rel type="ト" mode="AND" target="ニジェール" sid="wiki00257585-01" id="6"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/>
++ 8P <rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ニ" target="南" sid="wiki00257585-01" id="4"/><rel type="ト" target="チャド" sid="wiki00257585-01" id="5"/><rel type="ト" mode="AND" target="ニジェール" sid="wiki00257585-01" id="6"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><NE:LOCATION:ニジェール>
 ニジェール にじぇーる ニジェール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8I
@@ -79,7 +79,7 @@ EOS
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 10P <NE:LOCATION:アルジェリア><rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ト" target="アルジェリア" sid="wiki00257585-01" id="8"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><rel type="ニ" target="西" sid="wiki00257585-01" id="7"/>
++ 10P <rel type="ヲ" target="国境" sid="wiki00257585-01" id="11"/><rel type="ト" target="アルジェリア" sid="wiki00257585-01" id="8"/><rel type="ガ" target="リビア" sid="wiki00257585-00-01" id="3"/><rel type="ニ" target="西" sid="wiki00257585-01" id="7"/><NE:LOCATION:アルジェリア>
 アルジェリア あるじぇりあ アルジェリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
@@ -124,7 +124,7 @@ EOS
 宗主国 そうしゅこく 宗主国 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 20D
-+ 21D <NE:LOCATION:イタリア><rel type="=構" target="宗主国" sid="wiki00257585-01" id="19"/><rel type="修飾" target="宗主国" sid="wiki00257585-01" id="19"/>
++ 21D <rel type="=構" target="宗主国" sid="wiki00257585-01" id="19"/><rel type="修飾" target="宗主国" sid="wiki00257585-01" id="19"/><NE:LOCATION:イタリア>
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -139,7 +139,7 @@ EOS
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00257585-02" id="0"/><NE:LOCATION:トリポリ><rel type="=構" target="首都" sid="wiki00257585-02" id="0"/><rel type="ノ？" target="リビア" sid="wiki00257585-00-01" id="3"/>
++ -1D <rel type="ガ" target="首都" sid="wiki00257585-02" id="0"/><rel type="=構" target="首都" sid="wiki00257585-02" id="0"/><rel type="ノ？" target="リビア" sid="wiki00257585-00-01" id="3"/><NE:LOCATION:トリポリ>
 トリポリ とりぽり トリポリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

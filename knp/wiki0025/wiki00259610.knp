@@ -13,7 +13,7 @@
 近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <NE:LOCATION:日本><rel type="時間" target="近世" sid="wiki00259610-00-01" id="2"/><rel type="時間" mode="OR" target="中世" sid="wiki00259610-00-01" id="1"/>
++ 4D <rel type="時間" target="近世" sid="wiki00259610-00-01" id="2"/><rel type="時間" mode="OR" target="中世" sid="wiki00259610-00-01" id="1"/><NE:LOCATION:日本>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -28,7 +28,7 @@
 身分 みぶん 身分 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="旗本" sid="wiki00259610-00-01" id="0"/><rel type="ノ" target="身分" sid="wiki00259610-00-01" id="6"/><memo text="CO"/><rel type="=構" target="旗本" sid="wiki00259610-00-01" id="0"/><rel type="=構" mode="AND" target="身分" sid="wiki00259610-00-01" id="6"/>
++ -1D <rel type="ガ" target="旗本" sid="wiki00259610-00-01" id="0"/><rel type="ノ" target="身分" sid="wiki00259610-00-01" id="6"/><rel type="=構" target="旗本" sid="wiki00259610-00-01" id="0"/><rel type="=構" mode="AND" target="身分" sid="wiki00259610-00-01" id="6"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

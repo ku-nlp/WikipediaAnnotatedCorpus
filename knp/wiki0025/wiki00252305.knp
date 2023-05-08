@@ -17,7 +17,7 @@
 * 3D
 + 7D <rel type="=" target="西" sid="wiki00252305-00-01" id="0"/>
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D <NE:LOCATION:西日本><rel type="=" target="日本" sid="wiki00252305-00-01" id="1"/><rel type="修飾" target="西" sid="wiki00252305-00-01" id="6"/>
++ 9D <rel type="=" target="日本" sid="wiki00252305-00-01" id="1"/><rel type="修飾" target="西" sid="wiki00252305-00-01" id="6"/><NE:LOCATION:西日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -39,7 +39,7 @@
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 16D <NE:LOCATION:日本><rel type="=≒" target="日本" sid="wiki00252305-00-01" id="7"/>
++ 16D <rel type="=≒" target="日本" sid="wiki00252305-00-01" id="7"/><NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -47,7 +47,7 @@
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 16D <rel type="ニカンシテ" target="鉄道" sid="wiki00252305-00-01" id="14"/>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/><rel type="ノ？" target="事業" sid="wiki00252305-00-01" id="15"/><rel type="=構" target="会社" sid="wiki00252305-00-01" id="5"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><rel type="ノ？" target="事業" sid="wiki00252305-00-01" id="15"/><rel type="=構" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -59,7 +59,7 @@ EOS
 にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="旅客" sid="wiki00252305-00-01" id="2"/>
 りょかく りょかく りょかく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:にしにほんりょかくてつどう><rel type="=" target="鉄道" sid="wiki00252305-00-01" id="3"/><rel type="=" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/>
++ -1D <rel type="=" target="鉄道" sid="wiki00252305-00-01" id="3"/><rel type="=" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/><NE:ORGANIZATION:にしにほんりょかくてつどう>
 てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00252305-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/12 MEMO:
@@ -92,29 +92,29 @@ EOS
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 9D
 国有 こくゆう 国有 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 29D <NE:ORGANIZATION:日本国有鉄道><rel type="=" target="国鉄" sid="wiki00252305-01-01" id="3"/>
++ 29D <rel type="=" target="国鉄" sid="wiki00252305-01-01" id="3"/><NE:ORGANIZATION:日本国有鉄道>
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11P <NE:LOCATION:大阪><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 11P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:大阪>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12P <NE:LOCATION:天王寺><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 12P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:天王寺>
 天王寺 てんのうじ 天王寺 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 13P <NE:LOCATION:福知山><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 13P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:福知山>
 福知山 ふくちやま 福知山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 14P <NE:LOCATION:岡山><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 14P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:岡山>
 岡山 おかやま 岡山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 15P <NE:LOCATION:米子><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 15P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:米子>
 米子 よなご 米子 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16P <NE:LOCATION:広島><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 16P <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:広島>
 広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 20D <NE:LOCATION:金沢><rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
++ 20D <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/><NE:LOCATION:金沢>
 金沢 かなざわ 金沢 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -130,12 +130,12 @@ EOS
 * 8D
 + 22D
 新幹線 しんかんせん 新幹線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 24P <NE:OPTIONAL:新幹線総局><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="ニカンシテ" target="新幹線" sid="wiki00252305-01-01" id="21"/><rel type="ノ" target="鉄道" sid="wiki00252305-01-01" id="9"/>
++ 24P <rel type="ニカンシテ" target="新幹線" sid="wiki00252305-01-01" id="21"/><rel type="ノ" target="鉄道" sid="wiki00252305-01-01" id="9"/><NE:OPTIONAL:新幹線総局>
 総局 そうきょく 総局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 24D <rel type="ノ？" target="日本" sid="wiki00252305-01-01" id="7"/>
 九州 きゅうしゅう 九州 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 28D <rel type="ノ" target="鉄道" sid="wiki00252305-01-01" id="9"/><NE:OPTIONAL:九州総局><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="ノ？" target="九州" sid="wiki00252305-01-01" id="23"/>
++ 28D <rel type="ノ" target="鉄道" sid="wiki00252305-01-01" id="9"/><rel type="ノ？" target="九州" sid="wiki00252305-01-01" id="23"/><NE:OPTIONAL:九州総局>
 総局 そうきょく 総局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
@@ -160,7 +160,7 @@ EOS
 * 12D
 + 32D
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 35D <NE:ORGANIZATION:JRグループ><rel type="ノ" target="JR" sid="wiki00252305-01-01" id="31"/>
++ 35D <rel type="ノ" target="JR" sid="wiki00252305-01-01" id="31"/><NE:ORGANIZATION:JRグループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
@@ -179,14 +179,14 @@ JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 EOS
 # S-ID:wiki00252305-01-02 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/12 MEMO:
 * -1D
-+ -1D <NE:ORGANIZATION:国鉄><rel type="=" target="鉄道" sid="wiki00252305-01-01" id="9"/><rel type="=" mode="AND" target="国鉄" sid="wiki00252305-01-01" id="3"/>
++ -1D <rel type="=" target="鉄道" sid="wiki00252305-01-01" id="9"/><rel type="=" mode="AND" target="国鉄" sid="wiki00252305-01-01" id="3"/><NE:ORGANIZATION:国鉄>
 国鉄 こくてつ 国鉄 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00252305-01-03 括弧始:（ 括弧終:） 括弧位置:70 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/22 MEMO:
 * -1D
 + 1D
 山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=≒" target="総局" sid="wiki00252305-01-01" id="22"/><NE:OPTIONAL:山陽新幹線><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0><memo text="サービスと捉えるか、路線と捉えるか"/>
++ -1D <rel type="=≒" target="総局" sid="wiki00252305-01-01" id="22"/><memo text="サービスと捉えるか、路線と捉えるか"/><NE:OPTIONAL:山陽新幹線>
 新幹線 しんかんせん 新幹線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00252305-01-04 括弧始:（ 括弧終:） 括弧位置:82 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/12 MEMO:
@@ -206,11 +206,11 @@ EOS
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 3D
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7P <rel type="ガ" target="通称" sid="wiki00252305-02-01" id="0"/><rel type="=" target="会社" sid="wiki00252305-00-01" id="5"/><rel type="=構" mode="AND" target="通称" sid="wiki00252305-02-01" id="0"/><NE:ORGANIZATION:JR西日本><memo text="CO"/>
++ 7P <rel type="ガ" target="通称" sid="wiki00252305-02-01" id="0"/><rel type="=" target="会社" sid="wiki00252305-00-01" id="5"/><rel type="=構" mode="AND" target="通称" sid="wiki00252305-02-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:JR西日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
++ 5D <NE:OPTIONAL:英>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D <rel type="デ" target="英語" sid="wiki00252305-02-01" id="4"/><rel type="ノ" target="会社" sid="wiki00252305-00-01" id="5"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -219,7 +219,7 @@ JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7D <rel type="=" target="JR" sid="wiki00252305-01-01" id="31"/>
 JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="略称" sid="wiki00252305-02-01" id="5"/><memo text="CO"/><NE:ORGANIZATION:JR　West><rel type="=構" target="略称" sid="wiki00252305-02-01" id="5"/><rel type="=" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00252305-02-01" id="5"/><rel type="=構" target="略称" sid="wiki00252305-02-01" id="5"/><rel type="=" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/><NE:ORGANIZATION:JR　West>
 West West West 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -229,7 +229,7 @@ EOS
 ジェイアール じぇいあーる ジェイアール 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="西" sid="wiki00252305-02-01" id="2"/>
 にし にし にし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:ジェイアールにしにほん><rel type="=" target="日本" sid="wiki00252305-02-01" id="3"/>
++ -1D <rel type="=" target="日本" sid="wiki00252305-02-01" id="3"/><NE:ORGANIZATION:ジェイアールにしにほん>
 にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00252305-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/12 MEMO:
@@ -240,7 +240,7 @@ EOS
 カラー からー カラー 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="カラー" sid="wiki00252305-03" id="1"/><memo text="CO"/><rel type="=構" target="カラー" sid="wiki00252305-03" id="1"/>
++ -1D <rel type="ガ" target="カラー" sid="wiki00252305-03" id="1"/><rel type="=構" target="カラー" sid="wiki00252305-03" id="1"/><memo text="CO"/>
 青色 あおいろ 青色 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -256,7 +256,7 @@ EOS
 + 3D <rel type="ノ？" target="大阪府" sid="wiki00252305-04" id="1"/>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="本社" sid="wiki00252305-04" id="0"/><NE:LOCATION:大阪府大阪市北区><rel type="ノ？" target="大阪市" sid="wiki00252305-04" id="2"/><rel type="ニ" target="北区" sid="wiki00252305-04" id="3"/><memo text="PO:ある、など"/>
++ -1D <rel type="ガ" target="本社" sid="wiki00252305-04" id="0"/><rel type="ノ？" target="大阪市" sid="wiki00252305-04" id="2"/><rel type="ニ" target="北区" sid="wiki00252305-04" id="3"/><memo text="PO:ある、など"/><NE:LOCATION:大阪府大阪市北区>
 北 きた 北 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -275,7 +275,7 @@ EOS
 * -1D
 + 5D <rel type="ガ" target="企業" sid="wiki00252305-05" id="5"/><rel type="ニ" target="所" sid="wiki00252305-05" id="3"/>
 上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="所" sid="wiki00252305-05" id="3"/><rel type="修飾" mode="AND" target="上場" sid="wiki00252305-05" id="4"/><rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/><rel type="=構" target="会社" sid="wiki00252305-00-01" id="5"/>
++ -1D <rel type="修飾" target="所" sid="wiki00252305-05" id="3"/><rel type="修飾" mode="AND" target="上場" sid="wiki00252305-05" id="4"/><rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -285,7 +285,7 @@ EOS
 日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D
 平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 5D <NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 5D <NE:OPTIONAL:日経平均株価>
 株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -294,7 +294,7 @@ TOPIX とぴっくす TOPIX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:hea
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
 Large Large Large 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D <NE:OPTIONAL:TOPIX　Large70><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 7D <NE:OPTIONAL:TOPIX　Large70>
 70 ななじゅう/せぶんてぃ 70 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
@@ -304,7 +304,7 @@ Large Large Large 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="銘柄" sid="wiki00252305-06" id="7"/><rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/><rel type="=構" target="銘柄" sid="wiki00252305-06" id="7"/><rel type="=構" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/>
++ -1D <rel type="ノ" target="銘柄" sid="wiki00252305-06" id="7"/><rel type="ガ" target="会社" sid="wiki00252305-00-01" id="5"/><rel type="=構" target="銘柄" sid="wiki00252305-06" id="7"/><rel type="=構" mode="AND" target="会社" sid="wiki00252305-00-01" id="5"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

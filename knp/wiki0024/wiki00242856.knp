@@ -4,7 +4,7 @@
 13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="イギリス" sid="wiki00242856-00-01" id="3"/><rel type="ニ" target="地" sid="wiki00242856-00-01" id="2"/>
 植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 11D <NE:OPTIONAL:13植民地><NE-OPTIONAL:LOCATION:0>
++ 11D <NE:OPTIONAL:13植民地>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -54,7 +54,7 @@ EOS
 * 3P
 + 2D <rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><rel type="カラ" target="イギリス" sid="wiki00242856-00-01" id="3"/>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 6P <rel type="ヲ" target="独立" sid="wiki00242856-01-01" id="1"/><rel type="ニ" target="不特定:人"/><NE:ARTIFACT:独立宣言><rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><rel type="時間" target="1776年" sid="wiki00242856-01-01" id="0"/>
++ 6P <rel type="ヲ" target="独立" sid="wiki00242856-01-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><rel type="時間" target="1776年" sid="wiki00242856-01-01" id="0"/><NE:ARTIFACT:独立宣言>
 宣言 せんげん 宣言 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -62,11 +62,11 @@ EOS
 その後 そのご その後 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <NE:LOCATION:アメリカ><rel type="=" target="北米" sid="wiki00242856-00-01" id="8"/>
++ 6D <rel type="=" target="北米" sid="wiki00242856-00-01" id="8"/><NE:LOCATION:アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 6D <rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><rel type="カラ" target="イギリス" sid="wiki00242856-00-01" id="3"/><rel type="=" target="独立" sid="wiki00242856-01-01" id="1"/>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><memo text="ガト交替可"/><rel type="ト" target="イギリス" sid="wiki00242856-00-01" id="3"/><rel type="時間" target="その後" sid="wiki00242856-01-01" id="3"/>
++ 7D <rel type="ガ" target="地" sid="wiki00242856-01-01" id="10"/><rel type="ト" target="イギリス" sid="wiki00242856-00-01" id="3"/><rel type="時間" target="その後" sid="wiki00242856-01-01" id="3"/><memo text="ガト交替可"/>
 戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -77,11 +77,11 @@ EOS
 13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 10D
 植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 13D <rel type="=" target="地" sid="wiki00242856-00-01" id="2"/><NE:OPTIONAL:13植民地><NE-OPTIONAL:LOCATION,NONE:0>
++ 13D <rel type="=" target="地" sid="wiki00242856-00-01" id="2"/><NE:OPTIONAL:13植民地>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 12D <NE:LOCATION:アメリカ合衆国><rel type="=構" target="地" sid="wiki00242856-00-01" id="2"/><rel type="=" mode="AND" target="アメリカ" sid="wiki00242856-01-01" id="4"/>
++ 12D <rel type="=構" target="地" sid="wiki00242856-00-01" id="2"/><rel type="=" mode="AND" target="アメリカ" sid="wiki00242856-01-01" id="4"/><NE:LOCATION:アメリカ合衆国>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D

@@ -10,7 +10,7 @@
 前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 4D <NE:ORGANIZATION:文部><rel type="=≒" target="文部" sid="wiki00244208-00-01" id="0"/>
++ 4D <rel type="=≒" target="文部" sid="wiki00244208-00-01" id="0"/><NE:ORGANIZATION:文部>
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 15D <rel type="=構" target="前身" sid="wiki00244208-00-01" id="2"/><rel type="修飾" target="前身" sid="wiki00244208-00-01" id="2"/><rel type="ノ？" target="文部" sid="wiki00244208-00-01" id="3"/>
 卿 きょう 卿 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -47,7 +47,7 @@
 * 10D
 + 14D <rel type="=" target="文部" sid="wiki00244208-00-01" id="0"/>
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 15D <NE:ORGANIZATION:文部省><rel type="=構" target="機関" sid="wiki00244208-00-01" id="10"/><rel type="ノ？" target="文部" sid="wiki00244208-00-01" id="13"/>
++ 15D <rel type="=構" target="機関" sid="wiki00244208-00-01" id="10"/><rel type="ノ？" target="文部" sid="wiki00244208-00-01" id="13"/><NE:ORGANIZATION:文部省>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -90,7 +90,7 @@ EOS
 + 6D
 9 く 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 11P <NE:DATE:1871年9月2日><rel type="=" target="18日" sid="wiki00244208-00-04" id="3"/>
++ 11P <rel type="=" target="18日" sid="wiki00244208-00-04" id="3"/><NE:DATE:1871年9月2日>
 2 ふつ 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -120,7 +120,7 @@ EOS
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00244208-01-01" id="0"/><memo text="CO"/><rel type="=構" target="略称" sid="wiki00244208-01-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00244208-00-01" id="1"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00244208-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00244208-01-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00244208-00-01" id="1"/><memo text="CO"/>
 文相 ぶんしょう 文相 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -152,7 +152,7 @@ EOS
 * 5D
 + 6D
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <NE:OPTIONAL:文部省><NE-OPTIONAL:ARTIFACT,NONE:0><memo text="wikiページ"/><rel type="=≒" target="省" sid="wiki00244208-00-01" id="14"/>
++ 7D <rel type="=≒" target="省" sid="wiki00244208-00-01" id="14"/><memo text="wikiページ"/><NE:OPTIONAL:文部省>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D

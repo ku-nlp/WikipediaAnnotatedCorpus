@@ -3,7 +3,7 @@
 + 1D
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
 + 13D <NE:DATE:鎌倉時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL undefined<NE:DATE:tail>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -56,10 +56,10 @@ EOS
 # S-ID:wiki00299798-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * 1D
 + 1D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/>
-かまくら かまくら かまくら 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:DATE:head>
+かまくら かまくら かまくら 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
 * 3D
 + 8D <rel type="=" target="時代" sid="wiki00299798-00-01" id="1"/><NE:DATE:かまくらじだい>
-じだい じだい じだい 名詞 6 時相名詞 10 * 0 * 0 NIL undefined<NE:DATE:tail>
+じだい じだい じだい 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D
@@ -71,21 +71,21 @@ EOS
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 5D
-元弘 げんこう 元弘 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:DATE:head>
+元弘 げんこう 元弘 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
 + 7P <rel type="=" target="末" sid="wiki00299798-00-02" id="3"/><NE:DATE:元弘3年>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 / / / 特殊 1 記号 5 * 0 * 0 NIL
 + 7D
-正慶 しょうきょう 正慶 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:DATE:head>
+正慶 しょうきょう 正慶 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
 + 8D <NE:DATE:正慶2年>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=" target="2年" sid="wiki00299798-00-02" id="9"/><NE:DATE:1333年><rel type="カラ" target="末" sid="wiki00299798-00-02" id="3"/><rel type="マデ" target="1333年" sid="wiki00299798-00-02" id="8"/>
++ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=" target="2年" sid="wiki00299798-00-02" id="9"/><rel type="カラ" target="末" sid="wiki00299798-00-02" id="3"/><rel type="マデ" target="1333年" sid="wiki00299798-00-02" id="8"/><NE:DATE:1333年>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-1333 せんさんびゃくさんじゅうさん 1333 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+1333 せんさんびゃくさんじゅうさん 1333 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00299798-00-03 括弧始:（ 括弧終:） 括弧位置:49 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
@@ -96,7 +96,7 @@ EOS
 + 2D
 神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <NE:LOCATION:神奈川県鎌倉市><rel type="ノ？" target="神奈川県" sid="wiki00299798-00-03" id="1"/><rel type="修飾" target="現" sid="wiki00299798-00-03" id="0"/><rel type="=≒" target="鎌倉" sid="wiki00299798-00-01" id="5"/>
++ -1D <rel type="ノ？" target="神奈川県" sid="wiki00299798-00-03" id="1"/><rel type="修飾" target="現" sid="wiki00299798-00-03" id="0"/><rel type="=≒" target="鎌倉" sid="wiki00299798-00-01" id="5"/><NE:LOCATION:神奈川県鎌倉市>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
@@ -124,14 +124,14 @@ EOS
 * 7D
 + 7D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 11D <rel type="=" target="幕府" sid="wiki00299798-00-01" id="4"/><NE:OPTIONAL:鎌倉幕府><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 11D <rel type="=" target="幕府" sid="wiki00299798-00-01" id="4"/><NE:OPTIONAL:鎌倉幕府>
 幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 9D
-相模 さがみの 相模 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
+相模 さがみの 相模 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 10D <rel type="=≒" target="神奈川県" sid="wiki00299798-00-03" id="1"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:middle>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
 + 11D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="5"/><rel type="ノ？" target="国" sid="wiki00299798-01" id="9"/><NE:LOCATION:相模国鎌倉>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL

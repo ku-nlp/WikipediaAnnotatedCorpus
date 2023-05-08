@@ -78,7 +78,7 @@ EOS
 * 10D
 + 11D
 樹 じゅ 樹 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="樹" sid="wiki00293450-01" id="10"/><memo text="RU,TY?「樹形（じゅけい）」では？"/><rel type="修飾" target="独特の" sid="wiki00293450-01" id="9"/>
++ 12D <rel type="ノ" target="樹" sid="wiki00293450-01" id="10"/><rel type="修飾" target="独特の" sid="wiki00293450-01" id="9"/><memo text="RU,TY?「樹形（じゅけい）」では？"/>
 型 がた/けい 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -110,12 +110,12 @@ EOS
 # S-ID:wiki00293450-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/01/20 MEMO:
 * 3D
 + 1D
-ヤシ やし ヤシ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+ヤシ やし ヤシ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 4D <rel type="=" target="科" sid="wiki00293450-00-01" id="7"/>
 科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
++ 4D <NE:OPTIONAL:英>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -128,8 +128,8 @@ EOS
 いい いい いう 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,NONE:0>
-ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 6D <NE:OPTIONAL:ラテン>
+ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 7D <rel type="ノ？" target="ラテン" sid="wiki00293450-03-01" id="5"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL

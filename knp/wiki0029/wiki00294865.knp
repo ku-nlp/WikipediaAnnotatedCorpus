@@ -8,8 +8,8 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL undefined<NE:LOCATION:head>
-+ 5D <NE:LOCATION:古代ローマ><rel type="修飾" target="古代" sid="wiki00294865-00-01" id="2"/>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="修飾" target="古代" sid="wiki00294865-00-01" id="2"/><NE:LOCATION:古代ローマ>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -34,13 +34,13 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="=" target="官" sid="wiki00294865-00-01" id="1"/>
-コンスル こんする コンスル 名詞 6 普通名詞 1 * 0 * 0 NIL 
+コンスル こんする コンスル 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00294865-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/01/23 MEMO:
 * 1D
 + 1D <memo text="都市国家"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-+ 2D <rel type="修飾" target="都市" sid="wiki00294865-01" id="0"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><NE:OPTIONAL:都市ローマ><NE-OPTIONAL:LOCATION:0><memo text="NEの範囲"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="修飾" target="都市" sid="wiki00294865-01" id="0"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><memo text="NEの範囲"/><NE:OPTIONAL:都市ローマ>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
@@ -50,10 +50,10 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 5D <rel type="修飾" target="共和" sid="wiki00294865-01" id="3"/>
-政 せい 政 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:middle>
-+ 7D <rel type="修飾" target="政" sid="wiki00294865-01" id="4"/><memo text="NEの範囲？"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><rel type="ノ" target="ローマ" sid="wiki00294865-00-01" id="3"/><NE:LOCATION:共和政ローマ>
+政 せい 政 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <rel type="修飾" target="政" sid="wiki00294865-01" id="4"/><rel type="=≒" target="ローマ" sid="wiki00294865-00-01" id="3"/><rel type="ノ" target="ローマ" sid="wiki00294865-00-01" id="3"/><memo text="NEの範囲？"/><NE:LOCATION:共和政ローマ>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D

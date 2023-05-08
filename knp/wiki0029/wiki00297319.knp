@@ -1,10 +1,10 @@
 # S-ID:wiki00297319-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/01/23 MEMO:
 * 4D
 + 1D <memo text="由来としてはロシア語の普通名詞らしいが地名とした"/>
-ナゴルノ なごるの ナゴルノ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:LOCATION:middle>
+ナゴルノ なごるの ナゴルノ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
 + 5D <memo text="由来としては現地の普通名詞のロシア語読みらしいが地名とした"/><NE:LOCATION:ナゴルノ・カラバフ>
-カラバフ からばふ カラバフ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:tail>
+カラバフ からばふ カラバフ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -33,7 +33,7 @@ EOS
 カラバフ からばふ カラバフ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 3D
 自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="地域" sid="wiki00297319-00-01" id="5"/><NE:LOCATION:ナゴルノ・カラバフ自治州><rel type="ノ？" target="アゼルバイジャン" sid="wiki00297319-00-01" id="2"/><rel type="修飾" target="自治" sid="wiki00297319-00-02" id="2"/>
++ -1D <rel type="=" target="地域" sid="wiki00297319-00-01" id="5"/><rel type="ノ？" target="アゼルバイジャン" sid="wiki00297319-00-01" id="2"/><rel type="修飾" target="自治" sid="wiki00297319-00-02" id="2"/><NE:LOCATION:ナゴルノ・カラバフ自治州>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00297319-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/23 MEMO:
@@ -65,8 +65,8 @@ EOS
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ノ" target="約14万7000人" sid="wiki00297319-02" id="1"/><NE:PERCENT:9割>
-9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:PERCENT:head>
-割 わり 割 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:PERCENT:tail>
+9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
+割 わり 割 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -92,11 +92,11 @@ EOS
 * 7D
 + 12D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-アルツァフ あるつぁふ アルツァフ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:LOCATION:head>
+アルツァフ あるつぁふ アルツァフ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 12D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:middle>
-+ 13D <NE:LOCATION:アルツァフ共和国><rel type="=構" target="カラバフ" sid="wiki00297319-00-01" id="1"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:tail>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 13D <rel type="=構" target="カラバフ" sid="wiki00297319-00-01" id="1"/><NE:LOCATION:アルツァフ共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -141,7 +141,7 @@ EOS
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="都市" sid="wiki00297319-03" id="1"/><NE:LOCATION:ステパナケルト><rel type="=構" target="都市" sid="wiki00297319-03" id="1"/><memo text="CO"/><rel type="ノ？" target="カラバフ" sid="wiki00297319-00-01" id="1"/>
++ -1D <rel type="ガ" target="都市" sid="wiki00297319-03" id="1"/><rel type="=構" target="都市" sid="wiki00297319-03" id="1"/><rel type="ノ？" target="カラバフ" sid="wiki00297319-00-01" id="1"/><memo text="CO"/><NE:LOCATION:ステパナケルト>
 ステパナケルト すてぱなけると ステパナケルト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

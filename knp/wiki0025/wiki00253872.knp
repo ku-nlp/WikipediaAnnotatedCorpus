@@ -110,7 +110,7 @@ EOS
 * 5D
 + 11D <rel type="=" target="四国" sid="wiki00253872-00-01" id="10"/>
 四国 しこく 四国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 14D <rel type="ノ" target="鉄道" sid="wiki00253872-01-01" id="9"/><rel type="ノ？" target="四国" sid="wiki00253872-01-01" id="10"/><NE:OPTIONAL:四国総局>
++ 14D <rel type="ノ" target="鉄道" sid="wiki00253872-01-01" id="9"/><rel type="ノ？" target="四国" sid="wiki00253872-01-01" id="10"/><NE:OPTIONAL:四国総局><NE-OPTIONAL:ORGANIZATION,NONE:0>
 総局 そうきょく 総局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -187,7 +187,7 @@ JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 四国 しこく 四国 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:OPTIONAL:英>
++ 4D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="修飾" target="英語" sid="wiki00253872-02-01" id="3"/><rel type="ノ" target="会社" sid="wiki00253872-00-01" id="4"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL

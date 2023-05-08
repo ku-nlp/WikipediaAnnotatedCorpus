@@ -4,7 +4,7 @@
 13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="イギリス" sid="wiki00242856-00-01" id="3"/><rel type="ニ" target="地" sid="wiki00242856-00-01" id="2"/>
 植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 11D <NE:OPTIONAL:13植民地>
++ 11D <NE:OPTIONAL:13植民地><NE-OPTIONAL:LOCATION:0>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -77,7 +77,7 @@ EOS
 13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 10D
 植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 13D <rel type="=" target="地" sid="wiki00242856-00-01" id="2"/><NE:OPTIONAL:13植民地>
++ 13D <rel type="=" target="地" sid="wiki00242856-00-01" id="2"/><NE:OPTIONAL:13植民地><NE-OPTIONAL:LOCATION,NONE:0>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D

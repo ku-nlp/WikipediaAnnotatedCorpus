@@ -59,7 +59,7 @@ EOS
 + 1D <rel type="=" target="ラパ" sid="wiki00270638-01-01" id="3"/>
 ラパ らぱ ラパ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 2D <rel type="=" target="ヌイ" sid="wiki00270638-01-01" id="4"/><NE:OPTIONAL:ラパ・ヌイ>
++ 2D <rel type="=" target="ヌイ" sid="wiki00270638-01-01" id="4"/><NE:OPTIONAL:ラパ・ヌイ><NE-OPTIONAL:LOCATION,NONE:0>
 ヌイ ぬい ヌイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 4D <rel type="=" target="語" sid="wiki00270638-01-01" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -96,7 +96,7 @@ EOS
 Pascua Pascua Pascua 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 8D <NE:OPTIONAL:スペイン>
++ 8D <NE:OPTIONAL:スペイン><NE-OPTIONAL:LOCATION,NONE:0>
 スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 11D <rel type="ノ？" target="スペイン" sid="wiki00270638-02-01" id="7"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -141,7 +141,7 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="島" sid="wiki00270638-02-01" id="4"/><NE:OPTIONAL:英>
++ 2D <rel type="ノ" target="島" sid="wiki00270638-02-01" id="4"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 4D <rel type="ガ" target="島" sid="wiki00270638-03" id="4"/><rel type="ニ" target="英称" sid="wiki00270638-03" id="1"/>
 由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL

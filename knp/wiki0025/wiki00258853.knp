@@ -2,14 +2,14 @@
 * 9D
 + 1D
 カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 15D <rel type="修飾" target="カトリック" sid="wiki00258853-00-01" id="0"/><NE:OPTIONAL:カトリック教会>
++ 15D <rel type="修飾" target="カトリック" sid="wiki00258853-00-01" id="0"/><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D <memo text="ローマにいる教皇ということなのか、ローマカトリックの略と考えるか"/>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <NE:OPTIONAL:ローマ教皇>
++ 7D <NE:OPTIONAL:ローマ教皇><NE-OPTIONAL:PERSON,NONE:0>
 教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -43,7 +43,7 @@
 + 15D <rel type="ヲ" target="信徒" sid="wiki00258853-00-01" id="11"/><rel type="ニ" target="世界" sid="wiki00258853-00-01" id="9"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/>
 有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 14D <NE:OPTIONAL:キリスト教>
++ 14D <NE:OPTIONAL:キリスト教><NE-OPTIONAL:ORGANIZATION,NONE:0>
 キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 15D <rel type="デ" target="キリスト教" sid="wiki00258853-00-01" id="13"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
@@ -56,7 +56,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/>
 カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:カトリックきょうかい>
++ -1D <rel type="=" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:カトリックきょうかい><NE-OPTIONAL:ORGANIZATION,NONE:0>
 きょうかい きょうかい きょうかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00258853-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/12/15 MEMO:
@@ -88,7 +88,7 @@ EOS
 * 7P
 + 8D <rel type="=" target="ローマ" sid="wiki00258853-01-01" id="2"/>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 11P <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ教会>
++ 11P <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
@@ -97,7 +97,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/>
 カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 12D <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ・カトリック教会>
++ 12D <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ・カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -117,6 +117,6 @@ EOS
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 3D <rel type="=" target="教皇" sid="wiki00258853-00-01" id="3"/>
 教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=≒" target="座" sid="wiki00258853-01-01" id="4"/><NE:OPTIONAL:ローマ教皇庁>
++ -1D <rel type="=≒" target="座" sid="wiki00258853-01-01" id="4"/><NE:OPTIONAL:ローマ教皇庁><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

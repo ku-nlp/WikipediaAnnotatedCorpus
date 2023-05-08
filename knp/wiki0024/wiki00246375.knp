@@ -2,7 +2,7 @@
 * 2D
 + 1D <memo text="「近衛府」で一タグ単位として、和訓のよみも入れる？"/>
 近衛 このえ/こんえ 近衛 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D <rel type="ノ" target="近衛" sid="wiki00246375-00-01" id="0"/><NE:OPTIONAL:近衛府>
++ 3D <rel type="ノ" target="近衛" sid="wiki00246375-00-01" id="0"/><NE:OPTIONAL:近衛府><NE-OPTIONAL:ORGANIZATION,PERSON,LOCATION,NONE:0>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -20,13 +20,13 @@ EOS
 * 1P
 + 1D <rel type="=" target="近衛" sid="wiki00246375-00-01" id="0"/>
 このえ このえ このえ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3P <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><NE:OPTIONAL:このえふ>
++ 3P <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><NE:OPTIONAL:このえふ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 ふ ふ ふ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 3D <rel type="=" target="近衛" sid="wiki00246375-00-01" id="0"/>
 こんえ こんえ こんえ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><NE:OPTIONAL:こんえふ>
++ -1D <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><NE:OPTIONAL:こんえふ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 ふ ふ ふ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00246375-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/09 MEMO:
@@ -42,7 +42,7 @@ EOS
 + 3D
 ちかき ちかき ちかい 形容詞 3 * 0 イ形容詞アウオ段 18 文語連体形 21 NIL <NE:OPTIONAL:middle>
 * 6P
-+ 6P <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><rel type="=構" mode="AND" target="和訓" sid="wiki00246375-01" id="0"/><NE:OPTIONAL:おおきちかきまもり>
++ 6P <rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><rel type="=構" mode="AND" target="和訓" sid="wiki00246375-01" id="0"/><NE:OPTIONAL:おおきちかきまもり><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 まもり まもり まもり 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -55,7 +55,7 @@ EOS
 まもり まもり まもり 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="ガ" target="和訓" sid="wiki00246375-01" id="0"/><rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><rel type="=構" mode="AND" target="和訓" sid="wiki00246375-01" id="0"/><memo text="CO"/><NE:OPTIONAL:ちかきまもりのつかさ>
++ -1D <rel type="ガ" target="和訓" sid="wiki00246375-01" id="0"/><rel type="=" target="府" sid="wiki00246375-00-01" id="1"/><rel type="=構" mode="AND" target="和訓" sid="wiki00246375-01" id="0"/><memo text="CO"/><NE:OPTIONAL:ちかきまもりのつかさ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 つかさ つかさ つかさ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -66,7 +66,7 @@ EOS
 唐名 とうめい 唐名 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="唐名" sid="wiki00246375-02" id="0"/><rel type="=構" target="唐名" sid="wiki00246375-02" id="0"/><rel type="=" mode="AND" target="府" sid="wiki00246375-00-01" id="1"/><memo text="CO　皇帝直属の部隊名"/><NE:OPTIONAL:羽林>
++ -1D <rel type="ガ" target="唐名" sid="wiki00246375-02" id="0"/><rel type="=構" target="唐名" sid="wiki00246375-02" id="0"/><rel type="=" mode="AND" target="府" sid="wiki00246375-00-01" id="1"/><memo text="CO　皇帝直属の部隊名"/><NE:OPTIONAL:羽林><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 羽林 うりん 羽林 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL

@@ -48,7 +48,7 @@ EOS
 EOS
 # S-ID:wiki00210619-00-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/13 MEMO:
 * -1D
-+ 2D <NE:OPTIONAL:英>
++ 2D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -120,14 +120,14 @@ EOS
 テーマ てーま テーマ 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7P
-+ 3D <NE:OPTIONAL:ドイツ>
++ 3D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 10P <rel type="ガ" target="テーマ" sid="wiki00210619-03-01" id="1"/><rel type="ノ？" target="ドイツ" sid="wiki00210619-03-01" id="2"/><rel type="=構" target="テーマ" sid="wiki00210619-03-01" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=" target="英" sid="wiki00210619-00-03" id="0"/><NE:OPTIONAL:英>
++ 6D <rel type="=" target="英" sid="wiki00210619-00-03" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -143,7 +143,7 @@ song song song 名詞 6 普通名詞 1 * 0 * 0 NIL
 相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 9D <NE:OPTIONAL:ドイツ>
++ 9D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 10D <rel type="ノ？" target="ドイツ" sid="wiki00210619-03-01" id="8"/><rel type="=" target="語" sid="wiki00210619-03-01" id="3"/><rel type="修飾" target="相当する" sid="wiki00210619-03-01" id="7"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -167,9 +167,9 @@ Titellied Titellied Titellied 名詞 6 普通名詞 1 * 0 * 0 NIL
 一種 いっしゅ 一種 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 15D <NE:OPTIONAL:和>
++ 15D <NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
 和製 わせい 和製 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ソング" sid="wiki00210619-03-01" id="12"/><rel type="修飾" target="一種" sid="wiki00210619-03-01" id="13"/><rel type="修飾" mode="AND" target="和製" sid="wiki00210619-03-01" id="14"/><rel type="=構" target="ソング" sid="wiki00210619-03-01" id="12"/><NE:OPTIONAL:英>
++ -1D <rel type="ガ" target="ソング" sid="wiki00210619-03-01" id="12"/><rel type="修飾" target="一種" sid="wiki00210619-03-01" id="13"/><rel type="修飾" mode="AND" target="和製" sid="wiki00210619-03-01" id="14"/><rel type="=構" target="ソング" sid="wiki00210619-03-01" id="12"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

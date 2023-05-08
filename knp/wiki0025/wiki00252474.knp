@@ -39,7 +39,7 @@ EOS
 EOS
 # S-ID:wiki00252474-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/12/12 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:アラビア>
++ 1D <NE:OPTIONAL:アラビア><NE-OPTIONAL:LOCATION,NONE:0>
 アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 2D <rel type="ノ？" target="アラビア" sid="wiki00252474-02-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -84,13 +84,13 @@ sham sham sham 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00252474-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/12 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:日本>
++ 1D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3D <rel type="ノ？" target="日本" sid="wiki00252474-03" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <NE:OPTIONAL:聖書>
++ 3D <NE:OPTIONAL:聖書><NE-OPTIONAL:ARTIFACT,NONE:0>
 聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="聖書" sid="wiki00252474-03" id="2"/><rel type="ニ" target="語" sid="wiki00252474-03" id="1"/>
 翻訳 ほんやく 翻訳 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -171,7 +171,7 @@ EOS
 囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 9D <NE:OPTIONAL:古代>
++ 9D <NE:OPTIONAL:古代><NE-OPTIONAL:DATE,NONE:0>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D

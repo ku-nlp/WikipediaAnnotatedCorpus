@@ -42,7 +42,7 @@ WMG WMG WMG 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 6D <NE:ORGANIZATION:NASDAQ>
 NASDAQ なすだっく NASDAQ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="NASDAQ" sid="wiki00281019-00-02" id="5"/><rel type="=" target="WMG" sid="wiki00281019-00-02" id="4"/><rel type="=" mode="AND" target="グループ" sid="wiki00281019-00-01" id="2"/><memo text="銘柄のシンボルとして"/><NE:OPTIONAL:WMG>
++ -1D <rel type="修飾" target="NASDAQ" sid="wiki00281019-00-02" id="5"/><rel type="=" target="WMG" sid="wiki00281019-00-02" id="4"/><rel type="=" mode="AND" target="グループ" sid="wiki00281019-00-01" id="2"/><memo text="銘柄のシンボルとして"/><NE:OPTIONAL:WMG><NE-OPTIONAL:ORGANIZATION,NONE:0>
 WMG WMG WMG 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00281019-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2023/01/19 MEMO:

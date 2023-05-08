@@ -37,7 +37,7 @@ ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
 * 7D
 + 12D <rel type="ヲ" target="事項" sid="wiki00201473-00-01" id="13"/><rel type="ニタイシテ" target="組織" sid="wiki00201473-00-01" id="9"/><rel type="ガ" target="ISO" sid="wiki00201473-00-01" id="0"/>
 要求 ようきゅう 要求 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 15D <rel type="修飾" target="要求" sid="wiki00201473-00-01" id="11"/><NE:OPTIONAL:マネジメントシステム－フードチェーンに関わる組織に対する要求事項>
++ 15D <rel type="修飾" target="要求" sid="wiki00201473-00-01" id="11"/><NE:OPTIONAL:マネジメントシステム－フードチェーンに関わる組織に対する要求事項><NE-OPTIONAL:ARTIFACT,NONE:0>
 事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -88,7 +88,7 @@ the the the 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 11D
 food food food 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="事項" sid="wiki00201473-00-01" id="12"/><rel type="=" mode="AND" target="チェーン" sid="wiki00201473-00-01" id="7"/><NE:OPTIONAL:Food　safety　management　systems　-　Requirements　for　any　organization　in　the　food　chain>
++ -1D <rel type="=" target="事項" sid="wiki00201473-00-01" id="12"/><rel type="=" mode="AND" target="チェーン" sid="wiki00201473-00-01" id="7"/><NE:OPTIONAL:Food　safety　management　systems　-　Requirements　for　any　organization　in　the　food　chain><NE-OPTIONAL:ARTIFACT,NONE:0>
 chain chain chain 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00201473-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2022/10/31 MEMO:
@@ -115,7 +115,7 @@ EOS
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D <NE:OPTIONAL:HACCP>
++ 7D <NE:OPTIONAL:HACCP><NE-OPTIONAL:ARTIFACT,NONE:0>
 HACCP はさっぷ HACCP 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 8D <rel type="ノ" target="HACCP" sid="wiki00201473-01-01" id="6"/>
 システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL

@@ -1,6 +1,6 @@
 # S-ID:wiki00220416-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2022/11/07 MEMO:
 * 2D
-+ 1D <NE:OPTIONAL:漢>
++ 1D <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 2D <rel type="ノ？" target="漢字" sid="wiki00220416-00-01" id="0"/>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -27,7 +27,7 @@
 EOS
 # S-ID:wiki00220416-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/21 MEMO:
 * -1D
-+ 1D <rel type="=" target="漢字" sid="wiki00220416-00-01" id="0"/><NE:OPTIONAL:かん>
++ 1D <rel type="=" target="漢字" sid="wiki00220416-00-01" id="0"/><NE:OPTIONAL:かん><NE-OPTIONAL:LOCATION,NONE:0>
 かんじ かんじ かんじ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 2D <rel type="=" target="文化" sid="wiki00220416-00-01" id="1"/>
 ぶんか ぶんか ぶんか 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -36,7 +36,7 @@ EOS
 EOS
 # S-ID:wiki00220416-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2022/11/07 MEMO:
 * 1D
-+ 1D <rel type="=" target="漢字" sid="wiki00220416-00-01" id="0"/><NE:OPTIONAL:漢>
++ 1D <rel type="=" target="漢字" sid="wiki00220416-00-01" id="0"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
@@ -45,7 +45,7 @@ EOS
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 3D
-+ 3D <NE:OPTIONAL:漢>
++ 3D <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢 かん 漢 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 4D <rel type="ノ？" target="漢" sid="wiki00220416-01-01" id="2"/>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -76,7 +76,7 @@ EOS
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="=" target="漢字" sid="wiki00220416-01-01" id="0"/><NE:OPTIONAL:漢>
++ 10D <rel type="=" target="漢字" sid="wiki00220416-01-01" id="0"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -84,7 +84,7 @@ EOS
 他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 12P <NE:OPTIONAL:漢>
++ 12P <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢文 かんぶん 漢文 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
@@ -116,7 +116,7 @@ EOS
 EOS
 # S-ID:wiki00220416-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/11/07 MEMO:
 * 1D
-+ 1D <rel type="=" target="漢字" sid="wiki00220416-01-01" id="0"/><NE:OPTIONAL:漢>
++ 1D <rel type="=" target="漢字" sid="wiki00220416-01-01" id="0"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 2D <rel type="ノ" target="漢字" sid="wiki00220416-02" id="0"/><rel type="=構" target="圏" sid="wiki00220416-00-01" id="2"/>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL

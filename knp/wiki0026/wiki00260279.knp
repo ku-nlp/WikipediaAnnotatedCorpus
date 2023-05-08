@@ -27,7 +27,7 @@
 定め さだめ 定める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ 9D <NE:OPTIONAL:中国>
++ 9D <NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + -1D <rel type="ガ" target="話" sid="wiki00260279-00-01" id="1"/><rel type="修飾" target="定められた" sid="wiki00260279-00-01" id="7"/><rel type="ノ？" target="中国" sid="wiki00260279-00-01" id="8"/><rel type="=構" target="話" sid="wiki00260279-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00260279-00-01" id="5"/><memo text="CO"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -50,14 +50,14 @@ EOS
 * -1D
 + 2D
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <NE:OPTIONAL:中国>
++ 2D <NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + -1D <rel type="修飾" target="標準" sid="wiki00260279-00-03" id="0"/><rel type="ノ？" target="中国" sid="wiki00260279-00-03" id="1"/><rel type="=" target="語" sid="wiki00260279-00-01" id="9"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00260279-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2022/12/13 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:中国>
++ 1D <NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 2D <rel type="ノ？" target="中国" sid="wiki00260279-01-01" id="0"/><rel type="=" target="語" sid="wiki00260279-00-01" id="9"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -69,7 +69,7 @@ EOS
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:OPTIONAL:日本>
++ 4D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 5D <rel type="ノ？" target="日本" sid="wiki00260279-01-01" id="3"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL

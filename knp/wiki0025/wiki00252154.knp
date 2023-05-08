@@ -69,7 +69,7 @@ EOS
 * -1D
 + 2D
 弘法 こうぼう 弘法 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="ガ" target="諡号" sid="wiki00252154-01-01" id="0"/><rel type="=構" target="諡号" sid="wiki00252154-01-01" id="0"/><memo text="CO"/><NE:OPTIONAL:弘法大師>
++ -1D <rel type="ガ" target="諡号" sid="wiki00252154-01-01" id="0"/><rel type="=構" target="諡号" sid="wiki00252154-01-01" id="0"/><memo text="CO"/><NE:OPTIONAL:弘法大師><NE-OPTIONAL:PERSON,NONE:0>
 大師 だいし 大師 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -77,7 +77,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="弘法" sid="wiki00252154-01-01" id="1"/>
 こうぼう こうぼう こうぼう 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="大師" sid="wiki00252154-01-01" id="2"/><NE:OPTIONAL:こうぼうだいし>
++ -1D <rel type="=" target="大師" sid="wiki00252154-01-01" id="2"/><NE:OPTIONAL:こうぼうだいし><NE-OPTIONAL:PERSON,NONE:0>
 だいし だいし だいし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00252154-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/12 MEMO:

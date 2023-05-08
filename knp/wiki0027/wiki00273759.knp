@@ -1,15 +1,15 @@
 # S-ID:wiki00273759-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/01/19 MEMO:
 * 3D
-+ 1D <NE:OPTIONAL:ヨルバ>
++ 1D <NE:OPTIONAL:ヨルバ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ヨルバ よるば ヨルバ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 6D <rel type="ノ？" target="ヨルバ" sid="wiki00273759-00-01" id="0"/><memo text="ヨルバ人が話す言葉"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3P <NE:OPTIONAL:ニジェール>
++ 3P <NE:OPTIONAL:ニジェール><NE-OPTIONAL:LOCATION,NONE:0>
 ニジェール にじぇーる ニジェール 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <NE:OPTIONAL:コンゴ>
++ 4D <NE:OPTIONAL:コンゴ><NE-OPTIONAL:LOCATION,NONE:0>
 コンゴ こんご コンゴ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 5D <rel type="ノ？" target="ニジェール" sid="wiki00273759-00-01" id="2"/><rel type="ノ？" mode="AND" target="コンゴ" sid="wiki00273759-00-01" id="3"/><rel type="=≒" target="語" sid="wiki00273759-00-01" id="1"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -25,7 +25,7 @@
 EOS
 # S-ID:wiki00273759-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/16 MEMO:
 * -1D
-+ 1D <rel type="=" target="ヨルバ" sid="wiki00273759-00-01" id="0"/><NE:OPTIONAL:ヨルバ>
++ 1D <rel type="=" target="ヨルバ" sid="wiki00273759-00-01" id="0"/><NE:OPTIONAL:ヨルバ><NE-OPTIONAL:LOCATION,NONE:0>
 ヨルバ よるば ヨルバ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + -1D <rel type="=" target="語" sid="wiki00273759-00-01" id="1"/><rel type="ノ？" target="ヨルバ" sid="wiki00273759-00-02" id="0"/>
 ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -98,7 +98,7 @@ EOS
 + 8D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 5D
-+ 5D <NE:OPTIONAL:イツェキリ>
++ 5D <NE:OPTIONAL:イツェキリ><NE-OPTIONAL:LOCATION,NONE:0>
 イツェキリ いつぇきり イツェキリ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 8D <rel type="ノ？" target="イツェキリ" sid="wiki00273759-03" id="4"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL

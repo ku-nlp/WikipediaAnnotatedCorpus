@@ -5,7 +5,7 @@
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 2D
 体育 たいいく 体育 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 11D <NE:OPTIONAL:愛知県体育館>
++ 11D <NE:OPTIONAL:愛知県体育館><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -46,6 +46,6 @@ EOS
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 2D <rel type="=" target="体育" sid="wiki00203058-00-01" id="1"/>
 たいいく たいいく たいいく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="館" sid="wiki00203058-00-01" id="2"/><NE:OPTIONAL:あいちけん　たいいくかん>
++ -1D <rel type="=" target="館" sid="wiki00203058-00-01" id="2"/><NE:OPTIONAL:あいちけん　たいいくかん><NE-OPTIONAL:LOCATION,ARTIFACT:0>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

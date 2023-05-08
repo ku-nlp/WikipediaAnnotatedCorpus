@@ -2,7 +2,7 @@
 * 10D
 + 1D
 青空 あおぞら 青空 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 14D <memo text="サービスと捉えるか"/><NE:OPTIONAL:青空文庫>
++ 14D <memo text="サービスと捉えるか"/><NE:OPTIONAL:青空文庫><NE-OPTIONAL:ARTIFACT,NONE:0>
 文庫 ぶんこ 文庫 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -60,7 +60,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="青空" sid="wiki00286048-00-01" id="0"/>
 あおぞら あおぞら あおぞら 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="文庫" sid="wiki00286048-00-01" id="1"/><NE:OPTIONAL:あおぞらぶんこ>
++ -1D <rel type="=" target="文庫" sid="wiki00286048-00-01" id="1"/><NE:OPTIONAL:あおぞらぶんこ><NE-OPTIONAL:ARTIFACT,NONE:0>
 ぶんこ ぶんこ ぶんこ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00286048-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/22 MEMO:

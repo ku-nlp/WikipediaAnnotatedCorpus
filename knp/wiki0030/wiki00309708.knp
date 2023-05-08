@@ -11,7 +11,7 @@
 別 べつ 別 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="雑誌" sid="wiki00309708-00-01" id="4"/>
 学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 19D <rel type="ノ？" target="館" sid="wiki00309708-00-01" id="1"/><rel type="修飾" target="学習" sid="wiki00309708-00-01" id="3"/><rel type="修飾" mode="AND" target="学年別" sid="wiki00309708-00-01" id="2"/><memo text="シリーズ名のようなもの？"/><NE:OPTIONAL:小学館の学年別学習雑誌>
++ 19D <rel type="ノ？" target="館" sid="wiki00309708-00-01" id="1"/><rel type="修飾" target="学習" sid="wiki00309708-00-01" id="3"/><rel type="修飾" mode="AND" target="学年別" sid="wiki00309708-00-01" id="2"/><memo text="シリーズ名のようなもの？"/><NE:OPTIONAL:小学館の学年別学習雑誌><NE-OPTIONAL:ARTIFACT:0>
 雑誌 ざっし 雑誌 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -82,7 +82,7 @@ EOS
 べつ べつ べつ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D <rel type="=" target="学習" sid="wiki00309708-00-01" id="3"/>
 がくしゅう がくしゅう がくしゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="雑誌" sid="wiki00309708-00-01" id="4"/><NE:OPTIONAL:しょうがくかんのがくねんべつがくしゅうざっし>
++ -1D <rel type="=" target="雑誌" sid="wiki00309708-00-01" id="4"/><NE:OPTIONAL:しょうがくかんのがくねんべつがくしゅうざっし><NE-OPTIONAL:ARTIFACT,NONE:0>
 ざっし ざっし ざっし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00309708-00-03 括弧始:（ 括弧終:） 括弧位置:53 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/20 MEMO:

@@ -4,7 +4,7 @@
 地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D <rel type="ノ" target="地球" sid="wiki00235273-00-01" id="0"/>
 史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ？" target="史" sid="wiki00235273-00-01" id="1"/><NE:OPTIONAL:地球史年表>
++ 8D <rel type="ノ？" target="史" sid="wiki00235273-00-01" id="1"/><NE:OPTIONAL:地球史年表><NE-OPTIONAL:ARTIFACT,NONE:0>
 年表 ねんぴょう 年表 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -38,6 +38,6 @@ EOS
 ちきゅう ちきゅう ちきゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D <rel type="=" target="史" sid="wiki00235273-00-01" id="1"/>
 し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="年表" sid="wiki00235273-00-01" id="2"/><NE:OPTIONAL:ちきゅうしねんぴょう>
++ -1D <rel type="=" target="年表" sid="wiki00235273-00-01" id="2"/><NE:OPTIONAL:ちきゅうしねんぴょう><NE-OPTIONAL:ARTIFACT,NONE:0>
 ねんぴょう ねんぴょう ねんぴょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

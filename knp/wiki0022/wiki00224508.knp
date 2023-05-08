@@ -81,7 +81,7 @@ EOS
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D <NE:OPTIONAL:英>
++ 9D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -140,7 +140,7 @@ EOS
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:OPTIONAL:日本>
++ 2D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3D <rel type="ノ？" target="日本" sid="wiki00224508-03" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -190,7 +190,7 @@ EOS
 ' ' ' 特殊 1 括弧始 3 * 0 * 0 NIL
 The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 17D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><memo text="言葉としての問題なのでここはNEにはしない？"/><NE:OPTIONAL:The　FA>
++ 17D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><memo text="言葉としての問題なのでここはNEにはしない？"/><NE:OPTIONAL:The　FA><NE-OPTIONAL:ORGANIZATION,NONE:0>
 FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
 ' ' ' 特殊 1 括弧終 4 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL

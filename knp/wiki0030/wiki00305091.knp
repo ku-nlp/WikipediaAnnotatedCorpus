@@ -4,7 +4,7 @@
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 6D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><NE:OPTIONAL:日本の選挙>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><NE:OPTIONAL:日本の選挙><NE-OPTIONAL:ARTIFACT,NONE:0>
 選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -38,6 +38,6 @@ EOS
 にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="選挙" sid="wiki00305091-00-01" id="1"/><NE:OPTIONAL:にっぽんのせんきょ>
++ -1D <rel type="=" target="選挙" sid="wiki00305091-00-01" id="1"/><NE:OPTIONAL:にっぽんのせんきょ><NE-OPTIONAL:ARTIFACT,NONE:0>
 せんきょ せんきょ せんきょ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

@@ -81,7 +81,7 @@
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 25D
 組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 27D <NE:OPTIONAL:キリスト新教改革教会組合派>
++ 27D <NE:OPTIONAL:キリスト新教改革教会組合派><NE-OPTIONAL:ORGANIZATION,NONE:0>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -126,7 +126,7 @@ EOS
 プロテスタント ぷろてすたんと プロテスタント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D
 会衆 かいしゅう 会衆 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="派" sid="wiki00255425-00-01" id="25"/><rel type="ノ？" target="プロテスタント" sid="wiki00255425-00-03" id="2"/><NE:OPTIONAL:カルバン主義プロテスタント会衆派>
++ -1D <rel type="=" target="派" sid="wiki00255425-00-01" id="25"/><rel type="ノ？" target="プロテスタント" sid="wiki00255425-00-03" id="2"/><NE:OPTIONAL:カルバン主義プロテスタント会衆派><NE-OPTIONAL:ORGANIZATION,NONE:0>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00255425-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/12/14 MEMO:
@@ -190,7 +190,7 @@ EOS
 * -1D
 + 2D
 旧制 きゅうせい 旧制 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D <rel type="修飾" target="旧制" sid="wiki00255425-01-03" id="1"/><NE:OPTIONAL:旧制大学>
++ 3D <rel type="修飾" target="旧制" sid="wiki00255425-01-03" id="1"/><NE:OPTIONAL:旧制大学><NE-OPTIONAL:ARTIFACT,NONE:0>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + -1D <rel type="ガ" target="読者"/><rel type="ヲ" target="大学" sid="wiki00255425-01-03" id="2"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
 参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL

@@ -4,7 +4,7 @@
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 8D
-+ 9D <NE:OPTIONAL:世界の地理>
++ 9D <NE:OPTIONAL:世界の地理><NE-OPTIONAL:ARTIFACT,NONE:0>
 地理 ちり 地理 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -47,6 +47,6 @@ EOS
 せかい せかい せかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="地理" sid="wiki00205752-00-01" id="1"/><NE:OPTIONAL:せかいのちり>
++ -1D <rel type="=" target="地理" sid="wiki00205752-00-01" id="1"/><NE:OPTIONAL:せかいのちり><NE-OPTIONAL:ARTIFACT,NONE:0>
 ちり ちり ちり 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

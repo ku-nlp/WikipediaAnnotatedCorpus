@@ -100,10 +100,10 @@ DTV DTV DTV 特殊 1 記号 5 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255663-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1P <NE:OPTIONAL:NNN>
++ 1P <NE:OPTIONAL:NNN><NE-OPTIONAL:ORGANIZATION,NONE:0>
 NNN NNN NNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <NE:OPTIONAL:NNS>
++ 2D <NE:OPTIONAL:NNS><NE-OPTIONAL:ORGANIZATION,NONE:0>
 NNS NNS NNS 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 3D <rel type="ノ" target="NNS" sid="wiki00255663-03" id="1"/><rel type="ノ" mode="AND" target="NNN" sid="wiki00255663-03" id="0"/><rel type="=≒" target="会社" sid="wiki00255663-00-01" id="4"/>
 系列 けいれつ 系列 名詞 6 普通名詞 1 * 0 * 0 NIL

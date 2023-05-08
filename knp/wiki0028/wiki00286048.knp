@@ -1,9 +1,9 @@
 # S-ID:wiki00286048-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2023/01/26 MEMO:
 * 10D
 + 1D
-青空 あおぞら 青空 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-+ 14D <NE:OPTIONAL:青空文庫><NE-OPTIONAL:ARTIFACT,NONE:0><memo text="サービスと捉えるか"/>
-文庫 ぶんこ 文庫 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+青空 あおぞら 青空 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 14D <memo text="サービスと捉えるか"/><NE:OPTIONAL:青空文庫>
+文庫 ぶんこ 文庫 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -59,9 +59,9 @@ EOS
 # S-ID:wiki00286048-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/22 MEMO:
 * -1D
 + 1D <rel type="=" target="青空" sid="wiki00286048-00-01" id="0"/>
-あおぞら あおぞら あおぞら 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-+ -1D <rel type="=" target="文庫" sid="wiki00286048-00-01" id="1"/><NE:OPTIONAL:あおぞらぶんこ><NE-OPTIONAL:ARTIFACT,NONE:0>
-ぶんこ ぶんこ ぶんこ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+あおぞら あおぞら あおぞら 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="文庫" sid="wiki00286048-00-01" id="1"/><NE:OPTIONAL:あおぞらぶんこ>
+ぶんこ ぶんこ ぶんこ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00286048-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/22 MEMO:
 * 1P
@@ -84,10 +84,10 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 7D
-らんむろ らんむろ らんむろ 名詞 6 人名 5 * 0 * 0 NIL undefined<NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:PERSON:middle>
+らんむろ らんむろ らんむろ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
 + 8D <NE:PERSON:らんむろ・さてぃ>
-さてぃ さてぃ さてぃ 名詞 6 人名 5 * 0 * 0 NIL undefined<NE:PERSON:tail>
+さてぃ さてぃ さてぃ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 11D <rel type="=≒" target="倫生" sid="wiki00286048-01" id="1"/><rel type="=≒" mode="AND" target="英司" sid="wiki00286048-01" id="3"/><rel type="=≒" mode="AND" target="美恵" sid="wiki00286048-01" id="5"/><rel type="=≒" mode="AND" target="さてぃ" sid="wiki00286048-01" id="7"/><memo text="SE"/>
@@ -137,15 +137,15 @@ EOS
 * -1D
 + 9D <rel type="ガ" target="者" sid="wiki00286048-02" id="9"/><rel type="ニツイテ" target="動き" sid="wiki00286048-02" id="7"/>
 先駆 せんく 先駆 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="4人" sid="wiki00286048-01" id="8"/><rel type="=構" target="4人" sid="wiki00286048-01" id="8"/><memo text="CO"/><rel type="ノ？" target="先駆" sid="wiki00286048-02" id="8"/><rel type="ノ？" mode="AND" target="動き" sid="wiki00286048-02" id="7"/>
++ -1D <rel type="ガ" target="4人" sid="wiki00286048-01" id="8"/><rel type="=構" target="4人" sid="wiki00286048-01" id="8"/><rel type="ノ？" target="先駆" sid="wiki00286048-02" id="8"/><rel type="ノ？" mode="AND" target="動き" sid="wiki00286048-02" id="7"/><memo text="CO"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00286048-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/26 MEMO:
 * 1D
 + 3D <NE:DATE:2017年>
-2017 にせんじゅうなな/にせんじゅうしち 2017 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+2017 にせんじゅうなな/にせんじゅうしち 2017 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="2017年" sid="wiki00286048-03" id="0"/>

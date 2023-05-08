@@ -6,7 +6,7 @@
 議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D
 図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <NE:OPTIONAL:アメリカ議会図書館><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0><rel type="ノ？" target="議会" sid="wiki00280639-00-01" id="1"/><rel type="ノ？" mode="AND" target="図書" sid="wiki00280639-00-01" id="2"/>
++ 8D <rel type="ノ？" target="議会" sid="wiki00280639-00-01" id="1"/><rel type="ノ？" mode="AND" target="図書" sid="wiki00280639-00-01" id="2"/><NE:OPTIONAL:アメリカ議会図書館>
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -24,7 +24,7 @@
 国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D
 図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="館" sid="wiki00280639-00-01" id="3"/><rel type="修飾" target="国立" sid="wiki00280639-00-01" id="6"/><rel type="=構" target="館" sid="wiki00280639-00-01" id="3"/><memo text="CO"/><rel type="ノ？" target="図書" sid="wiki00280639-00-01" id="7"/><rel type="ノ？" mode="AND" target="アメリカ合衆国" sid="wiki00280639-00-01" id="4"/>
++ -1D <rel type="ガ" target="館" sid="wiki00280639-00-01" id="3"/><rel type="修飾" target="国立" sid="wiki00280639-00-01" id="6"/><rel type="=構" target="館" sid="wiki00280639-00-01" id="3"/><rel type="ノ？" target="図書" sid="wiki00280639-00-01" id="7"/><rel type="ノ？" mode="AND" target="アメリカ合衆国" sid="wiki00280639-00-01" id="4"/><memo text="CO"/>
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -36,6 +36,6 @@ EOS
 ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D <rel type="=" target="図書" sid="wiki00280639-00-01" id="2"/>
 としょ としょ としょ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="館" sid="wiki00280639-00-01" id="3"/><NE:OPTIONAL:アメリカぎかいとしょかん><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
++ -1D <rel type="=" target="館" sid="wiki00280639-00-01" id="3"/><NE:OPTIONAL:アメリカぎかいとしょかん>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

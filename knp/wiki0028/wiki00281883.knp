@@ -21,8 +21,8 @@ EOS
 * 4D
 + 2D
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 2D <NE:OPTIONAL:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 7D <rel type="修飾" target="標準" sid="wiki00281883-01" id="0"/><rel type="ノ？" target="ドイツ" sid="wiki00281883-01" id="1"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -31,7 +31,7 @@ EOS
 * 2D
 + 4D <rel type="=" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
 ギュムナーズィウム ぎゅむなーずぃうむ ギュムナーズィウム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <memo text="？形態素、タグ単位"/><rel type="=" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/>
++ 5D <rel type="=" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/><memo text="？形態素、タグ単位"/>
 [ [ [ 特殊 1 記号 5 * 0 * 0 NIL
 gʏmná gʏmná gʏmná 名詞 6 普通名詞 1 * 0 * 0 NIL
 ː ː ː 特殊 1 記号 5 * 0 * 0 NIL
@@ -78,7 +78,7 @@ EOS
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 5D
 + 9D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:LOCATION:head>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
 + 13D <rel type="修飾" target="中央" sid="wiki00281883-02" id="8"/><rel type="=≒" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><NE:LOCATION:中央ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL

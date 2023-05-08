@@ -13,16 +13,16 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 7D <NE:LOCATION:大阪府><rel type="=≒" target="京阪" sid="wiki00289153-00-01" id="0"/>
++ 7D <rel type="=≒" target="京阪" sid="wiki00289153-00-01" id="0"/><NE:LOCATION:大阪府>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 + 7D <rel type="ノ" target="大阪府" sid="wiki00289153-00-01" id="5"/>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL 
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 11D <rel type="ノ" target="大阪府" sid="wiki00289153-00-01" id="5"/><rel type="ノ？" target="北東" sid="wiki00289153-00-01" id="6"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL 
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 9D <NE:LOCATION:京都府><rel type="=≒" target="京阪" sid="wiki00289153-00-01" id="0"/>
++ 9D <rel type="=≒" target="京阪" sid="wiki00289153-00-01" id="0"/><NE:LOCATION:京都府>
 京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 + 11P <rel type="ノ" target="京都府" sid="wiki00289153-00-01" id="8"/>
@@ -32,7 +32,7 @@
 + 11D
 滋賀 しが 滋賀 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 12D <NE:LOCATION:滋賀県大津市><rel type="ノ？" target="滋賀県" sid="wiki00289153-00-01" id="10"/>
++ 12D <rel type="ノ？" target="滋賀県" sid="wiki00289153-00-01" id="10"/><NE:LOCATION:滋賀県大津市>
 大津 おおつ 大津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -61,7 +61,7 @@ EOS
 けいはん けいはん けいはん 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="=" target="電気" sid="wiki00289153-00-01" id="1"/>
 でんき でんき でんき 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:けいはんでんきてつどう><rel type="=" target="鉄道" sid="wiki00289153-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/>
++ -1D <rel type="=" target="鉄道" sid="wiki00289153-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/><NE:ORGANIZATION:けいはんでんきてつどう>
 てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00289153-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/26 MEMO:
@@ -85,13 +85,13 @@ EOS
 * 2P
 + 2D <rel type="=" target="京阪" sid="wiki00289153-01" id="0"/>
 京阪 けいはん 京阪 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4P <NE:ORGANIZATION:京阪電鉄><rel type="=構" target="通称" sid="wiki00289153-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/>
++ 4P <rel type="=構" target="通称" sid="wiki00289153-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/><NE:ORGANIZATION:京阪電鉄>
 電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
 + 4D <rel type="=" target="京阪" sid="wiki00289153-02" id="1"/>
 京阪 けいはん 京阪 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6P <rel type="ガ" target="通称" sid="wiki00289153-02" id="0"/><NE:ORGANIZATION:京阪電車><rel type="=構" target="通称" sid="wiki00289153-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/>
++ 6P <rel type="ガ" target="通称" sid="wiki00289153-02" id="0"/><rel type="=構" target="通称" sid="wiki00289153-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/><NE:ORGANIZATION:京阪電車>
 電車 でんしゃ 電車 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -100,7 +100,7 @@ EOS
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00289153-02" id="5"/><NE:ORGANIZATION:京阪><memo text="CO"/><rel type="=構" target="略称" sid="wiki00289153-02" id="5"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00289153-02" id="5"/><rel type="=構" target="略称" sid="wiki00289153-02" id="5"/><rel type="=" mode="AND" target="会社" sid="wiki00289153-00-01" id="4"/><memo text="CO"/><NE:ORGANIZATION:京阪>
 京阪 けいはん 京阪 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

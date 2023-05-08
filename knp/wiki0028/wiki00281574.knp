@@ -4,7 +4,7 @@
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
 法制 ほうせい 法制 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <NE:ORGANIZATION:内閣法制局><rel type="ノ" target="法制" sid="wiki00281574-00-01" id="1"/><rel type="ノ" mode="AND" target="内閣" sid="wiki00281574-00-01" id="0"/>
++ 3D <rel type="ノ" target="法制" sid="wiki00281574-00-01" id="1"/><rel type="ノ" mode="AND" target="内閣" sid="wiki00281574-00-01" id="0"/><NE:ORGANIZATION:内閣法制局>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 12D <rel type="ノ" target="局" sid="wiki00281574-00-01" id="2"/>
 長官 ちょうかん 長官 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -47,5 +47,5 @@ EOS
 + 3D <rel type="=" target="局" sid="wiki00281574-00-01" id="2"/><NE:ORGANIZATION:ないかくほうせいきょく>
 きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + -1D <rel type="=" target="長官" sid="wiki00281574-00-01" id="3"/>
-ちょうかん ちょうかん ちょうかん 名詞 6 普通名詞 1 * 0 * 0 NIL 
+ちょうかん ちょうかん ちょうかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

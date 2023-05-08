@@ -1,10 +1,10 @@
 # S-ID:wiki00288065-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/26 MEMO:
 * 10D
 + 1D
-プリメーラ ぷりめーら プリメーラ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-+ 14D <rel type="ノ？" target="リーグ" sid="wiki00288065-00-01" id="15"/><NE:OPTIONAL:プリメーラ・ディビシオン><NE-OPTIONAL:ORGANIZATION,NONE:0>
-ディビシオン でぃびしおん ディビシオン 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+プリメーラ ぷりめーら プリメーラ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 14D <rel type="ノ？" target="リーグ" sid="wiki00288065-00-01" id="15"/><NE:OPTIONAL:プリメーラ・ディビシオン>
+ディビシオン でぃびしおん ディビシオン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -12,10 +12,10 @@
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 6P
-+ 8P <memo text="原表記「LaLiga」なので1タグ単位としたが分ける？"/><rel type="=構" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><NE:OPTIONAL:ラ・リーガ><NE-OPTIONAL:ORGANIZATION,NONE:0>
-ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
++ 8P <rel type="=構" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><memo text="原表記「LaLiga」なので1タグ単位としたが分ける？"/><NE:OPTIONAL:ラ・リーガ>
+ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 * 6P
 + 8D
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -28,12 +28,12 @@
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 7D
 + 8D <rel type="=" target="ラ・リーガ" sid="wiki00288065-00-01" id="3"/>
-ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-+ 9D <memo text="銀行名"/><rel type="=構" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><NE:OPTIONAL:ラ・リーガ　サンタンデール><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="ニヨッテ" target="スポンサーシップ" sid="wiki00288065-00-01" id="5"/>
-サンタンデール さんたんでーる サンタンデール 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single><NE:OPTIONAL:tail>
+ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9D <rel type="=構" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><rel type="ニヨッテ" target="スポンサーシップ" sid="wiki00288065-00-01" id="5"/><memo text="銀行名"/><NE:OPTIONAL:ラ・リーガ　サンタンデール>
+サンタンデール さんたんでーる サンタンデール 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 10D
@@ -59,30 +59,30 @@
 EOS
 # S-ID:wiki00288065-00-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/26 MEMO:
 * -1D
-+ -1D <rel type="=" target="ラ・リーガ" sid="wiki00288065-00-01" id="3"/><NE:OPTIONAL:LaLiga><NE-OPTIONAL:ORGANIZATION,NONE:0>
-LaLiga らりーが LaLiga 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ -1D <rel type="=" target="ラ・リーガ" sid="wiki00288065-00-01" id="3"/><NE:OPTIONAL:LaLiga>
+LaLiga らりーが LaLiga 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00288065-00-03 括弧始:（ 括弧終:） 括弧位置:57 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/26 MEMO:
 * -1D
 + 1D <rel type="=" target="ラ・リーガ" sid="wiki00288065-00-01" id="8"/>
-LaLiga LaLiga LaLiga 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="サンタンデール" sid="wiki00288065-00-01" id="9"/><NE:OPTIONAL:LaLiga　Santander><NE-OPTIONAL:ORGANIZATION,NONE:0>
-Santander Santander Santander 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+LaLiga LaLiga LaLiga 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="=" target="サンタンデール" sid="wiki00288065-00-01" id="9"/><NE:OPTIONAL:LaLiga　Santander>
+Santander Santander Santander 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00288065-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/01/26 MEMO:
 * 1D
-+ 1D <memo text="正式には、リーガ・ナシオナル・デ・フトボル・プロフェシオナルと「ナシオナル」が入るよう"/><rel type="=≒" target="リーガ" sid="wiki00288065-00-01" id="3"/>
-リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
++ 1D <rel type="=≒" target="リーガ" sid="wiki00288065-00-01" id="3"/><memo text="正式には、リーガ・ナシオナル・デ・フトボル・プロフェシオナルと「ナシオナル」が入るよう"/>
+リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D
-デ で デ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
+デ で デ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="サッカー" sid="wiki00288065-00-01" id="14"/>
-フトボル ふとぼる フトボル 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-+ 4D <NE:ORGANIZATION:リーガ・デ・フトボル・プロフェシオナル><rel type="=" target="プロ" sid="wiki00288065-00-01" id="13"/>
-プロフェシオナル ぷろふぇしおなる プロフェシオナル 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
+フトボル ふとぼる フトボル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="プロ" sid="wiki00288065-00-01" id="13"/><NE:ORGANIZATION:リーガ・デ・フトボル・プロフェシオナル>
+プロフェシオナル ぷろふぇしおなる プロフェシオナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 5D <rel type="ガ" target="プロフェシオナル" sid="wiki00288065-01-01" id="3"/><rel type="ヲ" target="リーグ" sid="wiki00288065-00-01" id="16"/>
@@ -110,10 +110,10 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 11D
-セグンダ せぐんだ セグンダ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:OPTIONAL:middle>
-+ 12D <rel type="修飾" target="セグンダ" sid="wiki00288065-01-01" id="12"/><rel type="=≒" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><NE:OPTIONAL:セグンダ・ディビシオン><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="ノ？" target="リーグ" sid="wiki00288065-00-01" id="14"/>
-ディビシオン でぃびしおん ディビシオン 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:OPTIONAL:tail>
+セグンダ せぐんだ セグンダ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 12D <rel type="修飾" target="セグンダ" sid="wiki00288065-01-01" id="12"/><rel type="=≒" target="ディビシオン" sid="wiki00288065-00-01" id="1"/><rel type="ノ？" target="リーグ" sid="wiki00288065-00-01" id="14"/><NE:OPTIONAL:セグンダ・ディビシオン>
+ディビシオン でぃびしおん ディビシオン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ニ" target="ディビシオン" sid="wiki00288065-01-01" id="13"/><rel type="ガ" target="3チーム" sid="wiki00288065-01-01" id="9"/>
@@ -129,6 +129,6 @@ EOS
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="リーグ" sid="wiki00288065-00-01" id="15"/>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:スペインプロリーグ機構><rel type="=" target="プロフェシオナル" sid="wiki00288065-01-01" id="3"/><rel type="ノ？" target="スペイン" sid="wiki00288065-01-02" id="0"/>
++ -1D <rel type="=" target="プロフェシオナル" sid="wiki00288065-01-01" id="3"/><rel type="ノ？" target="スペイン" sid="wiki00288065-01-02" id="0"/><NE:ORGANIZATION:スペインプロリーグ機構>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

@@ -15,7 +15,7 @@
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="スポーツ" sid="wiki00286800-00" id="4"/><rel type="ガ" target="リーグ" sid="wiki00286800-00" id="1"/><memo text="副詞→名詞に"/><rel type="=構" target="リーグ" sid="wiki00286800-00" id="1"/>
++ -1D <rel type="ノ" target="スポーツ" sid="wiki00286800-00" id="4"/><rel type="ガ" target="リーグ" sid="wiki00286800-00" id="1"/><rel type="=構" target="リーグ" sid="wiki00286800-00" id="1"/><memo text="副詞→名詞に"/>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -131,22 +131,22 @@ EOS
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
 + 11D <rel type="=" target="ラグビー" sid="wiki00286800-03-01" id="0"/>
-ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
+ラグビー らぐびー ラグビー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 12D
-フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-+ 13D <NE:ORGANIZATION:ラグビー・フットボール・ユニオン><rel type="=≒" target="コード" sid="wiki00286800-03-01" id="2"/><rel type="ノ？" target="イングランド" sid="wiki00286800-03-01" id="9"/><memo text="RFU"/>
-ユニオン ゆにおん ユニオン 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
+フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 13D <rel type="=≒" target="コード" sid="wiki00286800-03-01" id="2"/><rel type="ノ？" target="イングランド" sid="wiki00286800-03-01" id="9"/><memo text="RFU"/><NE:ORGANIZATION:ラグビー・フットボール・ユニオン>
+ユニオン ゆにおん ユニオン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="カラ" target="ユニオン" sid="wiki00286800-03-01" id="12"/><rel type="時間" target="1895年" sid="wiki00286800-03-01" id="14"/><memo text="不特定人２：北部フットボールラグビー連合（NRFU、ラグビーリーグの全身）"/><rel type="ガ" target="不特定:人2"/>
++ 14D <rel type="カラ" target="ユニオン" sid="wiki00286800-03-01" id="12"/><rel type="時間" target="1895年" sid="wiki00286800-03-01" id="14"/><rel type="ガ" target="不特定:人2"/><memo text="不特定人２：北部フットボールラグビー連合（NRFU、ラグビーリーグの全身）"/>
 分離 ぶんり 分離 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 13D
 + 16D <NE:DATE:1895年>
-1895 せんひゃっぴゃくきゅうじゅうご 1895 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+1895 せんひゃっぴゃくきゅうじゅうご 1895 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
 + 16D <rel type="ノ" target="リーグ" sid="wiki00286800-00" id="1"/>
@@ -164,7 +164,7 @@ code code code 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + -1D <rel type="=" target="コード" sid="wiki00286800-03-01" id="2"/>
-法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL 
+法典 ほうてん 法典 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00286800-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:33.00000 MOD:2023/01/26 MEMO:
 * 3D

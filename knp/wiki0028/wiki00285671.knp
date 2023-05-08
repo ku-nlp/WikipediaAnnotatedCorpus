@@ -1,7 +1,7 @@
 # S-ID:wiki00285671-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/01/25 MEMO:
 * 3D
 + 4D
-グランジ ぐらんじ グランジ 名詞 6 普通名詞 1 * 0 * 0 NIL 
+グランジ ぐらんじ グランジ 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -18,7 +18,7 @@
 ジャンル じゃんる ジャンル 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="グランジ" sid="wiki00285671-00" id="0"/><memo text="CO"/><rel type="ノ" target="ジャンル" sid="wiki00285671-00" id="3"/><rel type="=構" target="グランジ" sid="wiki00285671-00" id="0"/><rel type="=構" mode="AND" target="ジャンル" sid="wiki00285671-00" id="3"/>
++ -1D <rel type="ガ" target="グランジ" sid="wiki00285671-00" id="0"/><rel type="ノ" target="ジャンル" sid="wiki00285671-00" id="3"/><rel type="=構" target="グランジ" sid="wiki00285671-00" id="0"/><rel type="=構" mode="AND" target="ジャンル" sid="wiki00285671-00" id="3"/><memo text="CO"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -63,22 +63,22 @@ grunge grunge grunge 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="grunge" sid="wiki00285671-01" id="7"/><memo text="CO"/><rel type="ノ" target="グランジ" sid="wiki00285671-00" id="0"/><rel type="=構" target="grunge" sid="wiki00285671-01" id="7"/>
++ -1D <rel type="ガ" target="grunge" sid="wiki00285671-01" id="7"/><rel type="ノ" target="グランジ" sid="wiki00285671-00" id="0"/><rel type="=構" target="grunge" sid="wiki00285671-01" id="7"/><memo text="CO"/>
 語源 ごげん 語源 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00285671-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/01/25 MEMO:
 * 3D
 + 4D <NE:DATE:1989年>
-1989 せんきゅうひゃくはちじゅうく/せんきゅうひゃくはちじゅうきゅう 1989 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+1989 せんきゅうひゃくはちじゅうく/せんきゅうひゃくはちじゅうきゅう 1989 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 頃 ころ/ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <NE:LOCATION:アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <NE:LOCATION:シアトル><rel type="ノ？" target="アメリカ" sid="wiki00285671-02" id="1"/>
++ 3D <rel type="ノ？" target="アメリカ" sid="wiki00285671-02" id="1"/><NE:LOCATION:シアトル>
 シアトル しあとる シアトル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -121,17 +121,17 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 5P <memo text="Soundgarden"/><NE:ORGANIZATION:サウンドガーデン>
-サウンドガーデン さうんどがーでん サウンドガーデン 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ORGANIZATION:single>
+サウンドガーデン さうんどがーでん サウンドガーデン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
 + 5D
-ダイナソー だいなそー ダイナソー 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
+ダイナソー だいなそー ダイナソー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 6P <NE:ORGANIZATION:ダイナソーJr.>
-Jr じゅにあ Jr 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-. . . 特殊 1 句点 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
+Jr じゅにあ Jr 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 7D <NE:ORGANIZATION:マッドハニー><memo text="Mudhoney　映画「マッドハニー」に由来"/>
++ 7D <memo text="Mudhoney　映画「マッドハニー」に由来"/><NE:ORGANIZATION:マッドハニー>
 マッドハニー まっどはにー マッドハニー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -179,8 +179,8 @@ Jr じゅにあ Jr 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION
 当時 とうじ 当時 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 21D <NE:LOCATION:アメリカ><rel type="=" target="アメリカ" sid="wiki00285671-02" id="1"/>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single><NE:LOCATION:single>
++ 21D <rel type="=" target="アメリカ" sid="wiki00285671-02" id="1"/><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
 + 21D <rel type="=" target="ロック" sid="wiki00285671-00" id="1"/>
@@ -261,8 +261,8 @@ Tシャツ てぃーしゃつ Tシャツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 34D
 + 42D <NE:DATE:1996年>
-1996 せんきゅうひゃくきゅうじゅうろく 1996 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:DATE:tail>
+1996 せんきゅうひゃくきゅうじゅうろく 1996 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 頃 ころ/ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

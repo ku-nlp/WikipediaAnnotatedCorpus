@@ -13,8 +13,8 @@
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <memo text="国際単位系"/><NE:OPTIONAL:SI><NE-OPTIONAL:ARTIFACT,NONE:0>
-SI SI SI 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 5D <memo text="国際単位系"/><NE:OPTIONAL:SI>
+SI SI SI 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 5D
 組立 くみたて 組立 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="修飾" target="組立" sid="wiki00286489-00-01" id="4"/><rel type="ノ？" target="SI" sid="wiki00286489-00-01" id="3"/><rel type="=≒" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
@@ -32,7 +32,7 @@ EOS
 + 1D <rel type="ノ" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
 記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <memo text="品詞？"/><rel type="ガ" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=構" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=" mode="AND" target="ウェーバ" sid="wiki00286489-00-01" id="0"/>
++ -1D <rel type="ガ" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=構" target="記号" sid="wiki00286489-00-02" id="0"/><rel type="=" mode="AND" target="ウェーバ" sid="wiki00286489-00-01" id="0"/><memo text="品詞？"/>
 Wb Wb Wb 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00286489-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/26 MEMO:
@@ -47,10 +47,10 @@ EOS
 学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 3D
 + 4D
-ヴィルヘルム ゔぃるへるむ ヴィルヘルム 名詞 6 人名 5 * 0 * 0 NIL undefined<NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL undefined<NE:PERSON:middle>
-+ 5D <NE:PERSON:ヴィルヘルム・ヴェーバー><rel type="修飾" target="学者" sid="wiki00286489-01" id="2"/><rel type="=構" target="学者" sid="wiki00286489-01" id="2"/>
-ヴェーバー ゔぇーばー ヴェーバー 名詞 6 人名 5 * 0 * 0 NIL undefined<NE:PERSON:tail>
+ヴィルヘルム ゔぃるへるむ ヴィルヘルム 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <rel type="修飾" target="学者" sid="wiki00286489-01" id="2"/><rel type="=構" target="学者" sid="wiki00286489-01" id="2"/><NE:PERSON:ヴィルヘルム・ヴェーバー>
+ヴェーバー ゔぇーばー ヴェーバー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ニ" target="ヴェーバー" sid="wiki00286489-01" id="4"/><rel type="ガ" target="命名" sid="wiki00286489-01" id="6"/>

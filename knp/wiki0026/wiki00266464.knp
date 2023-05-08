@@ -2,7 +2,7 @@
 * 2D
 + 1D
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 5D <NE:OPTIONAL:昭和天皇><NE-OPTIONAL:PERSON,NONE:0>
++ 5D <NE:OPTIONAL:昭和天皇>
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -16,7 +16,7 @@
 124 ひゃくにじゅうよん 124 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
 代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="ガ" target="天皇" sid="wiki00266464-00-01" id="1"/><NE:OPTIONAL:第124代天皇><rel type="=構" target="天皇" sid="wiki00266464-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00266464-00-01" id="2"/><rel type="修飾" target="代" sid="wiki00266464-00-01" id="4"/><memo text="CO"/><NE-OPTIONAL:PERSON,NONE:0>
++ -1D <rel type="ガ" target="天皇" sid="wiki00266464-00-01" id="1"/><rel type="=構" target="天皇" sid="wiki00266464-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00266464-00-01" id="2"/><rel type="修飾" target="代" sid="wiki00266464-00-01" id="4"/><memo text="CO"/><NE:OPTIONAL:第124代天皇>
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -24,7 +24,7 @@ EOS
 * 2P
 + 1D <rel type="=" target="昭和" sid="wiki00266464-00-01" id="0"/>
 しょうわ しょうわ しょうわ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 11P <rel type="=" target="天皇" sid="wiki00266464-00-01" id="5"/><NE:OPTIONAL:しょうわてんのう><NE-OPTIONAL:PERSON,NONE:0>
++ 11P <rel type="=" target="天皇" sid="wiki00266464-00-01" id="5"/><NE:OPTIONAL:しょうわてんのう>
 てんのう てんのう てんのう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -101,17 +101,17 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 10D
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head><NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 11D <rel type="=" target="1989年" sid="wiki00266464-00-03" id="8"/>
-64 ろくじゅうよ 64 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle><NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail><NE:DATE:middle>
+64 ろくじゅうよ 64 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
 + 12D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head><NE:DATE:middle>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle><NE:DATE:middle>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + -1D <rel type="ガ" target="在位" sid="wiki00266464-00-03" id="0"/><rel type="カラ" target="25日" sid="wiki00266464-00-03" id="7"/><rel type="マデ" target="7日" sid="wiki00266464-00-03" id="12"/><NE:DATE:1989年〈昭和64年〉1月7日>
-7 なの 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle><NE:DATE:middle>
-日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail><NE:DATE:tail>
+7 なの 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00266464-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/12/14 MEMO:
 * 1D
@@ -119,7 +119,7 @@ EOS
 諱 いみな 諱 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=構" target="諱" sid="wiki00266464-01-01" id="0"/><memo text="CO"/><rel type="ガ" target="諱" sid="wiki00266464-01-01" id="0"/><NE:PERSON:裕仁>
++ 3P <rel type="=構" target="諱" sid="wiki00266464-01-01" id="0"/><rel type="ガ" target="諱" sid="wiki00266464-01-01" id="0"/><memo text="CO"/><NE:PERSON:裕仁>
 裕仁 ひろひと 裕仁 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -128,7 +128,7 @@ EOS
 称号 しょうごう 称号 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="御称号" sid="wiki00266464-01-01" id="2"/><rel type="=構" target="御称号" sid="wiki00266464-01-01" id="2"/><NE:OPTIONAL:迪宮><NE-OPTIONAL:PERSON:0><memo text="CO　人名とした"/>
++ -1D <rel type="ガ" target="御称号" sid="wiki00266464-01-01" id="2"/><rel type="=構" target="御称号" sid="wiki00266464-01-01" id="2"/><memo text="CO　人名とした"/><NE:OPTIONAL:迪宮>
 迪宮 みちのみや 迪宮 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -139,7 +139,7 @@ EOS
 EOS
 # S-ID:wiki00266464-01-03 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="迪宮" sid="wiki00266464-01-01" id="3"/><NE:OPTIONAL:みちのみや><NE-OPTIONAL:PERSON,NONE:0>
++ -1D <rel type="=" target="迪宮" sid="wiki00266464-01-01" id="3"/><NE:OPTIONAL:みちのみや>
 みちのみや みちのみや みちのみや 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00266464-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/05 MEMO:

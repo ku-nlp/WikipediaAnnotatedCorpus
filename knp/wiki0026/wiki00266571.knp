@@ -26,7 +26,7 @@
 治癒 ちゆ 治癒 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="治癒" sid="wiki00266571-00-01" id="6"/><rel type="ニヨッテ" target="手術" sid="wiki00266571-00-01" id="2"/><memo text="かかり先　医学？分野？"/><rel type="デ" target="分野" sid="wiki00266571-00-01" id="11"/>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="治癒" sid="wiki00266571-00-01" id="6"/><rel type="ニヨッテ" target="手術" sid="wiki00266571-00-01" id="2"/><rel type="デ" target="分野" sid="wiki00266571-00-01" id="11"/><memo text="かかり先　医学？分野？"/>
 目指す めざす 目指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 8D
 + 9D
@@ -37,7 +37,7 @@
 * -1D
 + 11D
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="学" sid="wiki00266571-00-01" id="1"/><rel type="ノ" target="医学" sid="wiki00266571-00-01" id="9"/><rel type="=構" target="学" sid="wiki00266571-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="一" sid="wiki00266571-00-01" id="10"/>
++ -1D <rel type="ガ" target="学" sid="wiki00266571-00-01" id="1"/><rel type="ノ" target="医学" sid="wiki00266571-00-01" id="9"/><rel type="=構" target="学" sid="wiki00266571-00-01" id="1"/><rel type="修飾" target="一" sid="wiki00266571-00-01" id="10"/><memo text="CO"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -50,7 +50,7 @@ EOS
 がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
++ 3D <NE:OPTIONAL:英>
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL

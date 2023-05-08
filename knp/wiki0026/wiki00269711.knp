@@ -32,7 +32,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="欧州" sid="wiki00269711-00-01" id="0"/>
 おうしゅう おうしゅう おうしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:おうしゅうぎかい><rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/>
++ -1D <rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/><NE:ORGANIZATION:おうしゅうぎかい>
 ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00269711-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/15 MEMO:
@@ -56,7 +56,7 @@ EOS
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D
 理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:欧州連合理事会><rel type="ノ" target="連合" sid="wiki00269711-01" id="5"/><rel type="ノ？" target="理事" sid="wiki00269711-01" id="6"/><memo text="理事会：上院　議会：下院"/>
++ 12D <rel type="ノ" target="連合" sid="wiki00269711-01" id="5"/><rel type="ノ？" target="理事" sid="wiki00269711-01" id="6"/><memo text="理事会：上院　議会：下院"/><NE:ORGANIZATION:欧州連合理事会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
@@ -69,7 +69,7 @@ EOS
 * 6D
 + 11D
 立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 12D <rel type="修飾" target="制" sid="wiki00269711-01" id="9"/><rel type="=構≒" target="会" sid="wiki00269711-01" id="7"/><rel type="=構≒" mode="AND" target="議会" sid="wiki00269711-00-01" id="1"/><NE:OPTIONAL:立法府><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 12D <rel type="修飾" target="制" sid="wiki00269711-01" id="9"/><rel type="=構≒" target="会" sid="wiki00269711-01" id="7"/><rel type="=構≒" mode="AND" target="議会" sid="wiki00269711-00-01" id="1"/><NE:OPTIONAL:立法府>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -118,7 +118,7 @@ EOS
 * 7D
 + 10D
 欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <NE:ORGANIZATION:欧州議会><rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/>
++ 11D <rel type="=" target="議会" sid="wiki00269711-00-01" id="1"/><NE:ORGANIZATION:欧州議会>
 議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D

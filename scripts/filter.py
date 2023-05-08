@@ -10,9 +10,12 @@ def filter_tags(document: Document) -> Document:
         phrase.features.clear()
     for base_phrase in document.base_phrases:
         ne_feature = base_phrase.features.get("NE")
+        ne_optional_feature = base_phrase.features.get("NE-OPTIONAL")
         base_phrase.features.clear()
         if ne_feature is not None:
             base_phrase.features["NE"] = ne_feature
+        if ne_optional_feature is not None:
+            base_phrase.features["NE-OPTIONAL"] = ne_optional_feature
     for morpheme in document.morphemes:
         ne_feature = morpheme.features.get("NE")
         morpheme.features.clear()

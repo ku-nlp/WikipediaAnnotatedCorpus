@@ -1,7 +1,7 @@
 # S-ID:wiki00279117-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/01/20 MEMO:
 * 5D
-+ 7D <NE:OPTIONAL:Zepp><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT,NONE:0>
-Zepp ぜっぷ Zepp 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 7D <NE:OPTIONAL:Zepp>
+Zepp ぜっぷ Zepp 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -33,8 +33,8 @@ Zepp ぜっぷ Zepp 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:OPTIONAL:singl
 EOS
 # S-ID:wiki00279117-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="Zepp" sid="wiki00279117-00-01" id="0"/><NE:OPTIONAL:ゼップ><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-ゼップ ぜっぷ ゼップ 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ -1D <rel type="=" target="Zepp" sid="wiki00279117-00-01" id="0"/><NE:OPTIONAL:ゼップ>
+ゼップ ぜっぷ ゼップ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00279117-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/20 MEMO:
 * -1D
@@ -64,11 +64,11 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 5D
 + 6D <rel type="=" target="Zepp" sid="wiki00279117-00-01" id="0"/>
-Zepp ぜっぷ Zepp 名詞 6 組織名 6 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
+Zepp ぜっぷ Zepp 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 7D <rel type="=≒" target="ホール" sid="wiki00279117-00-03" id="1"/>
-ホール ほーる ホール 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:middle>
-+ 9D <NE:ORGANIZATION:Zeppホールネットワーク><rel type="=構" target="子会社" sid="wiki00279117-01" id="4"/>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
+ホール ほーる ホール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="=構" target="子会社" sid="wiki00279117-01" id="4"/><NE:ORGANIZATION:Zeppホールネットワーク>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 9D <rel type="ガ" target="ネットワーク" sid="wiki00279117-01" id="7"/><rel type="ヲ" target="Zepp" sid="wiki00279117-00-01" id="0"/><rel type="デ" target="日本" sid="wiki00279117-01" id="0"/>

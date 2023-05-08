@@ -1,7 +1,7 @@
 # S-ID:wiki00275857-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 4D
-+ 6D <NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 6D <NE:OPTIONAL:ウィキトラベル>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -27,8 +27,8 @@
 EOS
 # S-ID:wiki00275857-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/31 MEMO:
 * -1D
-+ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:Wikitravel><NE-OPTIONAL:ARTIFACT,NONE:0>
-Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:Wikitravel>
+Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00275857-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/01/31 MEMO:
 * 1D
@@ -88,8 +88,8 @@ EOS
 EOS
 # S-ID:wiki00275857-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/31 MEMO:
 * 1D
-+ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 2D <rel type="ガ" target="者" sid="wiki00275857-01-02" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-01-02" id="0"/>
 参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ノ？" target="参加" sid="wiki00275857-01-02" id="1"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/>
@@ -104,8 +104,8 @@ EOS
 EOS
 # S-ID:wiki00275857-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 7D
-+ 8D <NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:OPTIONAL:single>
++ 8D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 2D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/>

@@ -1,9 +1,9 @@
 # S-ID:wiki00273241-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/19 MEMO:
 * 5D
 + 1D
-シティ してぃ シティ 名詞 6 固有名詞 3 * 0 * 0 NIL undefined<NE:ORGANIZATION:head>
+シティ してぃ シティ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 9D <NE:ORGANIZATION:シティグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ORGANIZATION:tail>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -61,7 +61,7 @@ EOS
 + 4D
 バルジ ばるじ バルジ 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/><memo text="Bulge Bracket、世界経済に大きな影響を与える一流投資銀行群"/><rel type="修飾" target="バルジ" sid="wiki00273241-02" id="3"/>
++ 5D <rel type="=≒" target="グループ" sid="wiki00273241-00" id="1"/><rel type="修飾" target="バルジ" sid="wiki00273241-02" id="3"/><memo text="Bulge Bracket、世界経済に大きな影響を与える一流投資銀行群"/>
 ブラケット ぶらけっと ブラケット 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -78,7 +78,7 @@ EOS
 証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="証券" sid="wiki00273241-03" id="1"/><rel type="デ" target="所" sid="wiki00273241-03" id="3"/>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <NE:OPTIONAL:ニューヨーク証券取引所><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
++ 4D <NE:OPTIONAL:ニューヨーク証券取引所>
 所 じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 + 5D <rel type="ガ" target="企業" sid="wiki00273241-03" id="5"/><rel type="ニ" target="所" sid="wiki00273241-03" id="3"/>
 上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL

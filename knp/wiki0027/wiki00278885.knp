@@ -6,7 +6,7 @@
 安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ARTIFACT:middle>
 + 3D <rel type="ニカンシテ" target="労働" sid="wiki00278885-00-01" id="0"/>
 衛生 えいせい 衛生 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 12D <NE:ARTIFACT:労働安全衛生法><rel type="ニツイテ" target="安全" sid="wiki00278885-00-01" id="1"/><rel type="ニツイテ" mode="AND" target="衛生" sid="wiki00278885-00-01" id="2"/>
++ 12D <rel type="ニツイテ" target="安全" sid="wiki00278885-00-01" id="1"/><rel type="ニツイテ" mode="AND" target="衛生" sid="wiki00278885-00-01" id="2"/><NE:ARTIFACT:労働安全衛生法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -54,7 +54,7 @@ EOS
 + 3D <rel type="=" target="衛生" sid="wiki00278885-00-01" id="2"/>
 えいせい えいせい えいせい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 7D <rel type="=" target="法" sid="wiki00278885-00-01" id="3"/><NE:ARTIFACT:ろうどうあんぜんえいせいほう>
-ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
+ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 5D
@@ -63,9 +63,9 @@ EOS
 47 よんじゅうなな/よんじゅうしち 47 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 7D
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + -1D <rel type="=" target="法" sid="wiki00278885-00-01" id="3"/><NE:ARTIFACT:昭和47年法律第57号>
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
-57 ごじゅうなな/ごじゅうしち 57 名詞 6 数詞 7 * 0 * 0 NIL undefined<NE:ARTIFACT:middle>
-号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL undefined<NE:ARTIFACT:tail>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+57 ごじゅうなな/ごじゅうしち 57 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS

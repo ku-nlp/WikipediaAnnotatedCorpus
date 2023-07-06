@@ -1,7 +1,7 @@
-# S-ID:wiki00095787-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00095787-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/06/08 MEMO:
 * 13D
-+ 15D <NE:ORGANIZATION:フリーランス>
-フリーランス フリーランス フリーランス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 15D
+フリーランス ふりーらんす フリーランス 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
@@ -9,19 +9,19 @@
 特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 3P
++ 3P <rel type="修飾" target="特定" sid="wiki00095787-00" id="1"/>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 4P
++ 4P <rel type="修飾" target="特定" sid="wiki00095787-00" id="1"/>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D
++ 5D <rel type="修飾" target="特定" sid="wiki00095787-00" id="1"/>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 12P <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/><rel type="ニ" target="組織" sid="wiki00095787-00" id="4"/>
++ 12P <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/><rel type="ニ" target="組織" sid="wiki00095787-00" id="4"/><rel type="ニ" mode="AND" target="団体" sid="wiki00095787-00" id="3"/><rel type="ニ" mode="AND" target="企業" sid="wiki00095787-00" id="2"/>
 専従 せんじゅう 専従 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 おら おら おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 未然形 3 NIL
@@ -36,11 +36,11 @@
 技能 ぎのう 技能 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/><rel type="ヲ" target="技能" sid="wiki00095787-00" id="7"/><rel type="ニ" target="不特定:人"/>
++ 9D <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/><rel type="ヲ" target="技能" sid="wiki00095787-00" id="7"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00095787-00" id="9"/>
 提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 10D
++ 10D <rel type="トイウ" target="提供する" sid="wiki00095787-00" id="8"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
@@ -51,20 +51,20 @@
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 13D
-+ 15D <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/>
++ 15D <rel type="ガ" target="主" sid="wiki00095787-00" id="15"/><rel type="ニヨッテ" target="こと" sid="wiki00095787-00" id="9"/>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 14D
++ 15D
 個人 こじん 個人 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 15D
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ノ" target="事業" sid="wiki00095787-00" id="14"/><rel type="=" target="フリーランス" sid="wiki00095787-00" id="0"/>
++ -1D <rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ノ" target="事業" sid="wiki00095787-00" id="14"/><rel type="修飾" target="個人" sid="wiki00095787-00" id="13"/><rel type="=構" target="フリーランス" sid="wiki00095787-00" id="0"/>
 主 ぬし 主 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095787-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:16.00000
+# S-ID:wiki00095787-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:16.00000 MOD:2023/06/08 MEMO:
 * 5D
 + 7D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -76,7 +76,7 @@ EOS
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/>
++ 7D <rel type="デ" target="日本" sid="wiki00095787-01" id="0"/><rel type="ノ" target="法令上" sid="wiki00095787-01" id="1"/><rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ガ" mode="AND" target="業" sid="wiki00095787-01" id="4"/><rel type="ガ" mode="AND" target="職業" sid="wiki00095787-01" id="6"/>
 用語 ようご 用語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -86,61 +86,61 @@ EOS
 * 4P
 + 4D <rel type="ガ" target="業" sid="wiki00095787-01" id="4"/>
 自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 6P <rel type="=" target="フリーランス" sid="wiki00095787-00" id="0"/>
++ 6P <rel type="=構" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ノ？" target="自由" sid="wiki00095787-01" id="3"/>
 業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="業" sid="wiki00095787-01" id="4"/><rel type="=" target="自由" sid="wiki00095787-01" id="3"/>
++ 6D <rel type="=" target="自由" sid="wiki00095787-01" id="3"/><rel type="ガ" target="職業" sid="wiki00095787-01" id="6"/>
 自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 7D <rel type="=" target="業" sid="wiki00095787-01" id="4"/>
++ 7D <rel type="=構" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="修飾" target="自由" sid="wiki00095787-01" id="5"/>
 職業 しょくぎょう 職業 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="フリーランス" sid="wiki00095787-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="日本" sid="wiki00095787-01" id="0"/><rel type="ト" target="業" sid="wiki00095787-01" id="4"/><rel type="ト" mode="AND" target="職業" sid="wiki00095787-01" id="6"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095787-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00095787-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/08 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="フリーランス" sid="wiki00095787-00" id="0"/>
++ 2D <rel type="トイウ" target="フリーランス" sid="wiki00095787-00" id="0"/>
 形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
-+ 10D
+* 3D
++ 3D
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 4D
-+ 4D <rel type="ガ" target="人" sid="wiki00095787-02" id="6"/><rel type="ヲ" target="業務" sid="wiki00095787-02" id="4"/>
++ 4D <rel type="ガ" target="人" sid="wiki00095787-02" id="6"/><rel type="ヲ" target="業務" sid="wiki00095787-02" id="4"/><rel type="ニヨッテ" target="形態" sid="wiki00095787-02" id="1"/><rel type="カラ" target="不特定:人"/>
 請け負った うけおった 請け負う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 5D
 + 5D
 業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="人" sid="wiki00095787-02" id="6"/><rel type="ヲ" target="業務" sid="wiki00095787-02" id="4"/>
++ 6D <rel type="ガ" target="人" sid="wiki00095787-02" id="6"/><rel type="ヲ" target="業務" sid="wiki00095787-02" id="4"/><rel type="ニヨッテ" target="形態" sid="wiki00095787-02" id="1"/>
 遂行 すいこう 遂行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 10D
++ 10D <rel type="=" target="フリーランス" sid="wiki00095787-00" id="0"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P <rel type="=" target="主" sid="wiki00095787-00" id="15"/>
-フリーランサー フリーランサー フリーランサー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="=構" target="人" sid="wiki00095787-02" id="6"/>
+フリーランサー ふりーらんさー フリーランサー 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 9D <rel type="=" target="自由" sid="wiki00095787-01" id="5"/>
 フリー ふりー フリーだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 10D
-エージェント エージェント エージェント 名詞 6 人名 5 * 0 * 0 NIL
++ 10D <rel type="修飾" target="フリー" sid="wiki00095787-02" id="8"/><rel type="=構" target="人" sid="wiki00095787-02" id="6"/>
+エージェント えーじぇんと エージェント 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00095787-02" id="6"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00095787-02" id="6"/><rel type="ト" target="フリーランサー" sid="wiki00095787-02" id="7"/><rel type="ト" mode="AND" target="エージェント" sid="wiki00095787-02" id="9"/>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

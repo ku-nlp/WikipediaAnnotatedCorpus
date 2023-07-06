@@ -1,36 +1,36 @@
-# S-ID:wiki00095254-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
-* 6D
-+ 7D
-パーカッション パーカッション パーカッション 名詞 6 普通名詞 1 * 0 * 0 NIL
+# S-ID:wiki00095254-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/06/08 MEMO:
+* 7D
++ 8D
+パーカッション ぱーかっしょん パーカッション 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
-+ 2D
+* 3D
++ 3D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
-+ 7D
+* 3D
++ 3D <rel type="=構" target="パーカッション" sid="wiki00095254-00" id="0"/>
 打撃 だげき 打撃 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6P
-+ 7P <rel type="ガ" target="パーカッション" sid="wiki00095254-00" id="0"/><rel type="ヲ" target="打撃" sid="wiki00095254-00" id="2"/>
+* 7P
++ 8P <rel type="ガ" target="パーカッション" sid="wiki00095254-00" id="0"/><rel type="ヲ" target="打撃" sid="wiki00095254-00" id="2"/><rel type="デ" target="英語" sid="wiki00095254-00" id="1"/>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 5D
-+ 6D
+* 7D
++ 8D
 本来 ほんらい 本来 副詞 8 * 0 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 6D
++ 6D <rel type="=" target="パーカッション" sid="wiki00095254-00" id="0"/>
 打楽器 だがっき 打楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="打楽器" sid="wiki00095254-00" id="5"/>
++ 7D <rel type="ノ" target="打楽器" sid="wiki00095254-00" id="5"/><rel type="=構" target="パーカッション" sid="wiki00095254-00" id="0"/>
 全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ノ" target="全般" sid="wiki00095254-00" id="6"/>
++ 8D <rel type="ノ" target="全般" sid="wiki00095254-00" id="6"/><rel type="=構" target="パーカッション" sid="wiki00095254-00" id="0"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -38,13 +38,13 @@
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095254-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00095254-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/08 MEMO:
 * 1D
 + 1D <rel type="=" target="本来" sid="wiki00095254-00" id="4"/>
 本来 ほんらい 本来 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D
++ 2D <rel type="修飾" target="本来" sid="wiki00095254-01" id="0"/><rel type="ノ" target="パーカッション" sid="wiki00095254-00" id="0"/>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -56,11 +56,11 @@ EOS
 打楽器 だがっき 打楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ノ" target="打楽器" sid="wiki00095254-01" id="3"/>
++ 5D <rel type="トイウ" target="打楽器" sid="wiki00095254-01" id="3"/><rel type="ノ" target="不特定:物1"/>
 項 こう 項 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="読者"/><rel type="ヲ" target="項" sid="wiki00095254-01" id="4"/>
++ -1D <rel type="ガ" target="読者"/><rel type="ヲ" target="項" sid="wiki00095254-01" id="4"/><rel type="ニツイテ" target="意味" sid="wiki00095254-01" id="1"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
 参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

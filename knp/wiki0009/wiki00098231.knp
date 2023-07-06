@@ -1,55 +1,55 @@
-# S-ID:wiki00098231-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00098231-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/12 MEMO:
 * 4D
-+ 1D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 2D
-BS BS BS 名詞 6 組織名 6 * 0 * 0 NIL
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <memo text="Broadcasting Satellite、放送衛星（BS）は通信衛星（CS）の1つ"/>
+BS びーえす BS 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 15D <NE:ORGANIZATION:日本BS放送株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <rel type="=" target="BS" sid="wiki00098231-00-01" id="1"/>
-BS BS BS 名詞 6 組織名 6 * 0 * 0 NIL
++ 7D <rel type="=" target="BS" sid="wiki00098231-00-01" id="1"/>
+BS びーえす BS 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 7D
 デジタル でじたる デジタル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="ニヨッテ" target="BS" sid="wiki00098231-00-01" id="5"/><rel type="ガ" target="不特定:人"/><rel type="修飾" target="デジタル" sid="wiki00098231-00-01" id="6"/><rel type="=≒" target="放送" sid="wiki00098231-00-01" id="2"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 15D <rel type="ガ" target="グループ" sid="wiki00098231-00-01" id="10"/><rel type="ヲ" target="放送" sid="wiki00098231-00-01" id="7"/>
++ 15D <rel type="ヲ" target="放送" sid="wiki00098231-00-01" id="7"/><rel type="ガ" target="者" sid="wiki00098231-00-01" id="15"/>
 行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
 + 10D
-ビックカメラ ビックカメラ ビックカメラ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
+ビックカメラ びっくかめら ビックカメラ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 15D <rel type="ノ" target="ビックカメラ" sid="wiki00098231-00-01" id="9"/><NE:ORGANIZATION:ビックカメラグループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 12D <rel type="=" target="BS" sid="wiki00098231-00-01" id="5"/>
++ 13D <rel type="=≒" target="BS" sid="wiki00098231-00-01" id="5"/>
 衛星 えいせい 衛星 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="=" target="放送" sid="wiki00098231-00-01" id="2"/>
++ 14D <rel type="ニヨッテ" target="衛星" sid="wiki00098231-00-01" id="11"/><rel type="修飾" target="基幹" sid="wiki00098231-00-01" id="12"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="放送" sid="wiki00098231-00-01" id="2"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="放送" sid="wiki00098231-00-01" id="13"/>
++ 15D <rel type="ノ？" target="放送" sid="wiki00098231-00-01" id="13"/>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00098231-00-01" id="4"/><rel type="ノ" target="事業" sid="wiki00098231-00-01" id="14"/><rel type="=" target="会社" sid="wiki00098231-00-01" id="4"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00098231-00-01" id="4"/><rel type="ノ？" target="事業" sid="wiki00098231-00-01" id="14"/><rel type="修飾" target="グループ" sid="wiki00098231-00-01" id="10"/><rel type="=構" target="会社" sid="wiki00098231-00-01" id="4"/><rel type="=構" mode="AND" target="グループ" sid="wiki00098231-00-01" id="10"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00098231-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00098231-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/12 MEMO:
 * -1D
 + 2D <rel type="=" target="日本" sid="wiki00098231-00-01" id="0"/>
-にほん にほん にほん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="衛星" sid="wiki00098231-00-01" id="11"/>
-ビーエス ビーエス ビーエス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="放送" sid="wiki00098231-00-01" id="2"/>
-ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="BS" sid="wiki00098231-00-01" id="1"/>
+ビーエス びーえす ビーエス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="放送" sid="wiki00098231-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00098231-00-01" id="4"/><rel type="ガ" target="不特定:人"/><NE:ORGANIZATION:にほんビーエスほうそう>
+ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

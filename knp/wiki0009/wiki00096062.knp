@@ -1,59 +1,58 @@
-# S-ID:wiki00096062-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00096062-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/08 MEMO:
 * 5D
-+ 1D
-ソマリ ソマリ ソマリ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 1D <NE:OPTIONAL:ソマリ><NE-OPTIONAL:LOCATION,NONE:0>
+ソマリ そまり ソマリ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 11D <rel type="ノ？" target="ソマリ" sid="wiki00096062-00-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-アフロ アフロ アフロ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <NE:OPTIONAL:アフロ><NE-OPTIONAL:LOCATION,NONE:0>
+アフロ あふろ アフロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <NE:LOCATION:アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ" target="アジア" sid="wiki00096062-00-01" id="3"/>
++ 4D <memo text="Afro-Asia　合成語"/><NE:OPTIONAL:アジア><NE-OPTIONAL:LOCATION,NONE:0>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <rel type="ノ" target="アジア" sid="wiki00096062-00-01" id="3"/><rel type="ノ" mode="AND" target="アフロ" sid="wiki00096062-00-01" id="2"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D
-クシ くし クシ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <memo text="人名由来の模様"/><NE:OPTIONAL:クシ><NE-OPTIONAL:LOCATION,NONE:0>
+クシ くし クシ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 7D
 諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="ノ" target="語族" sid="wiki00096062-00-01" id="4"/><rel type="修飾" target="諸" sid="wiki00096062-00-01" id="6"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 4D
-+ 10D <rel type="ガ" target="言語" sid="wiki00096062-00-01" id="11"/><rel type="ニ" target="語" sid="wiki00096062-00-01" id="7"/>
+* 5D
++ 11D <rel type="ガ" target="言語" sid="wiki00096062-00-01" id="11"/><rel type="ニ" target="語" sid="wiki00096062-00-01" id="7"/>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 10D <rel type="=" target="ソマリ" sid="wiki00096062-00-01" id="0"/>
-ソマリ ソマリ ソマリ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="ソマリ" sid="wiki00096062-00-01" id="0"/><NE:OPTIONAL:ソマリ><NE-OPTIONAL:LOCATION,NONE:0>
+ソマリ そまり ソマリ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 11D <rel type="ノ" target="ソマリ" sid="wiki00096062-00-01" id="9"/>
 族 ぞく 族 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00096062-00-01" id="1"/><rel type="ノ" target="族" sid="wiki00096062-00-01" id="10"/><rel type="=" target="語" sid="wiki00096062-00-01" id="1"/>
++ -1D <rel type="ガ" target="語" sid="wiki00096062-00-01" id="1"/><rel type="ノ" target="族" sid="wiki00096062-00-01" id="10"/><rel type="=構" target="語" sid="wiki00096062-00-01" id="1"/><memo text="CO"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00096062-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D <rel type="=" target="ソマリ" sid="wiki00096062-00-01" id="9"/><NE:LOCATION:ソマリ>
-ソマリ ソマリ ソマリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-* 2D
-+ 5D
-ご ご ご 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
+# S-ID:wiki00096062-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/08 MEMO:
+* 1P
++ 1D <rel type="=" target="ソマリ" sid="wiki00096062-00-01" id="0"/><NE:OPTIONAL:ソマリ><NE-OPTIONAL:LOCATION,NONE:0>
+ソマリ そまり ソマリ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5P <rel type="=" target="語" sid="wiki00096062-00-01" id="1"/><rel type="ノ？" target="ソマリ" sid="wiki00096062-00-02" id="0"/>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-ソマリ ソマリ ソマリ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="=" target="言語" sid="wiki00096062-00-01" id="11"/>
++ 3D <NE:OPTIONAL:ソマリ><NE-OPTIONAL:LOCATION,NONE:0>
+ソマリ そまり ソマリ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <rel type="=" target="語" sid="wiki00096062-00-01" id="1"/><rel type="ノ？" target="ソマリ" sid="wiki00096062-00-02" id="2"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D
-af af af 名詞 6 組織名 6 * 0 * 0 NIL
++ 5D
+af af af 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Soomaali Soomaali Soomaali 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="語" sid="wiki00096062-00-02" id="3"/><rel type="ガ" target="語" sid="wiki00096062-00-01" id="1"/><rel type="=" target="語" sid="wiki00096062-00-01" id="1"/><NE:OPTIONAL:Soomaali><NE-OPTIONAL:LOCATION,NONE:0>
+Soomaali Soomaali Soomaali 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS

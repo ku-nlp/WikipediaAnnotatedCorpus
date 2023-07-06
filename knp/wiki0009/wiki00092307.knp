@@ -1,97 +1,95 @@
-# S-ID:wiki00092307-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
-* 1D
-+ 1D <NE:LOCATION:ワシントン>
-ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D
-ナショナルズ ナショナルズ ナショナルズ 名詞 6 普通名詞 1 * 0 * 0 NIL
+# S-ID:wiki00092307-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/05 MEMO:
+* 2D
++ 1D
+ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 12D <NE:ORGANIZATION:ワシントン・ナショナルズ>
+ナショナルズ なしょなるず ナショナルズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 4D <rel type="修飾" target="メジャー" sid="wiki00092307-00-01" id="2"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6D
-ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 6D
-ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="リーグ" sid="wiki00092307-00-01" id="6"/>
-地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ガ" target="チーム" sid="wiki00092307-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00092307-00-01" id="8"/>
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 8D <rel type="ノ" target="ベースボール" sid="wiki00092307-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00092307-00-01" id="5"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 8D
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00092307-00-01" id="6"/><rel type="修飾" target="東" sid="wiki00092307-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ東地区><NE-OPTIONAL:ORGANIZATION,NONE:0>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 12D <rel type="ガ" target="チーム" sid="wiki00092307-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00092307-00-01" id="8"/>
 所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 11D
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
++ 12D <rel type="修飾" target="プロ" sid="wiki00092307-00-01" id="10"/>
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00092307-00-01" id="11"/><rel type="=" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
++ -1D <rel type="ガ" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00092307-00-01" id="11"/><rel type="=構" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/><rel type="修飾" target="プロ" sid="wiki00092307-00-01" id="10"/><memo text="CO"/>
 チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092307-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092307-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * -1D
-+ 2D
++ 1D <rel type="ノ" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="略称" sid="wiki00092307-00-02" id="0"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00092307-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00092307-00-02" id="0"/><rel type="=" mode="AND" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
 WSH WSH WSH 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092307-00-03 括弧始:（ 括弧終:） 括弧位置:38 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092307-00-03 括弧始:（ 括弧終:） 括弧位置:38 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * 1D
 + 1D
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="ベースボール" sid="wiki00092307-00-01" id="4"/><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION,NONE:0>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00092307-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000
-* 4D
-+ 1D <rel type="ノ" target="MLB" sid="wiki00092307-00-03" id="1"/>
+# S-ID:wiki00092307-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2023/06/05 MEMO:
+* 3D
++ 1D <rel type="ノ" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
 本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="本拠" sid="wiki00092307-01" id="0"/>
++ 7D <rel type="ノ？" target="本拠" sid="wiki00092307-01" id="0"/><rel type="ノ？" mode="AND" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="ワシントン" sid="wiki00092307-00-01" id="0"/><NE:LOCATION:ワシントン>
-ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="=" target="ワシントン" sid="wiki00092307-00-01" id="0"/>
+ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 4D
-D D D 特殊 1 記号 5 * 0 * 0 NIL
-. . . 特殊 1 句点 1 * 0 * 0 NIL
-* 3D
-+ 5D
-C C C 特殊 1 記号 5 * 0 * 0 NIL
-. . . 特殊 1 句点 1 * 0 * 0 NIL
+D D D 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <NE:LOCATION:ワシントンD.C.>
+C C C 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 4D
-+ 7D <rel type="ガ" target="パーク" sid="wiki00092307-01" id="7"/><rel type="ニ" target="C.に" sid="wiki00092307-01" id="4"/>
+* 3D
++ 7D <rel type="ガ" target="パーク" sid="wiki00092307-01" id="7"/><rel type="ニ" target="C" sid="wiki00092307-01" id="4"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
 + 7D <rel type="=" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/>
-ナショナルズ ナショナルズ ナショナルズ 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="地" sid="wiki00092307-01" id="1"/><rel type="=" target="地" sid="wiki00092307-01" id="1"/>
-パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL
+ナショナルズ なしょなるず ナショナルズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="ガ" target="地" sid="wiki00092307-01" id="1"/><rel type="=構" target="地" sid="wiki00092307-01" id="1"/><memo text="CO"/><NE:LOCATION:ナショナルズ・パーク>
+パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092307-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00092307-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/05 MEMO:
 * 1D
-+ 1D <rel type="=" target="地" sid="wiki00092307-01" id="1"/>
-Nats Nats Nats 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <rel type="=" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/><NE:ORGANIZATION:Nats>
+Nats なっつ Nats 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="地" sid="wiki00092307-01" id="1"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="ナショナルズ" sid="wiki00092307-00-01" id="1"/><rel type="ト" target="Nats" sid="wiki00092307-02-01" id="0"/>
 略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -99,8 +97,8 @@ Nats Nats Nats 名詞 6 組織名 6 * 0 * 0 NIL
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092307-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092307-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * -1D
-+ -1D
-ナッツ なっつ ナッツ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="Nats" sid="wiki00092307-02-01" id="0"/><NE:ORGANIZATION:ナッツ>
+ナッツ なっつ ナッツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

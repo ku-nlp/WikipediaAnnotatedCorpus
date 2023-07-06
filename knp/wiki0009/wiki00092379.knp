@@ -1,14 +1,14 @@
-# S-ID:wiki00092379-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00092379-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/02/10 MEMO:
 * 6D
 + 1D
 性 せい 性 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ニカンシテ" target="性" sid="wiki00092379-00-01" id="0"/>
 風俗 ふうぞく 風俗 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <rel type="=≒" target="風俗" sid="wiki00092379-00-01" id="1"/>
 風俗 ふうぞく 風俗 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -23,26 +23,26 @@
 + 6D <rel type="ガ" target="分野" sid="wiki00092379-00-01" id="6"/><rel type="ニ" target="性" sid="wiki00092379-00-01" id="4"/>
 関わる かかわる 関わる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 6D
-+ 7D
++ 7D <rel type="=構" target="風俗" sid="wiki00092379-00-01" id="1"/><rel type="デ" target="中" sid="wiki00092379-00-01" id="3"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="風俗" sid="wiki00092379-00-01" id="1"/><rel type="ノ" target="分野" sid="wiki00092379-00-01" id="6"/><rel type="=" target="風俗" sid="wiki00092379-00-01" id="1"/>
++ -1D <rel type="ガ" target="風俗" sid="wiki00092379-00-01" id="1"/><rel type="ノ" target="分野" sid="wiki00092379-00-01" id="6"/><rel type="=構" target="風俗" sid="wiki00092379-00-01" id="1"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092379-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092379-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/10 MEMO:
 * -1D
-+ 1D <rel type="=" target="性" sid="wiki00092379-00-01" id="4"/>
++ 1D <rel type="=" target="性" sid="wiki00092379-00-01" id="0"/>
 せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="風俗" sid="wiki00092379-00-01" id="1"/>
++ -1D <rel type="=" target="風俗" sid="wiki00092379-00-01" id="1"/><rel type="ニカンシテ" target="せい" sid="wiki00092379-00-02" id="0"/>
 ふうぞく ふうぞく ふうぞく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092379-00-03 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092379-00-03 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * -1D
 + 1D
 民衆 みんしゅう 民衆 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D
++ -1D <rel type="=" target="風俗" sid="wiki00092379-00-01" id="2"/><rel type="修飾" target="民衆" sid="wiki00092379-00-03" id="0"/>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

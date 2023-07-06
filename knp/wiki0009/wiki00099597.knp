@@ -1,12 +1,12 @@
-# S-ID:wiki00099597-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00099597-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/04/17 MEMO:
 * 1P
 + 1P
 捕手 ほしゅ 捕手 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 8D
-+ 8D
-キャッチャー キャッチャー キャッチャー 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 9D
++ 9D <rel type="=" target="捕手" sid="wiki00099597-00-01" id="0"/>
+キャッチャー きゃっちゃー キャッチャー 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -16,83 +16,83 @@
 + 3P
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
-+ 6D
+* 4D
++ 4D
 ソフトボール そふとぼーる ソフトボール 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 7D
-+ 7D
+* 9D
++ 9D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 6D
 + 6D
 投手 とうしゅ 投手 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
-+ 8D
+* 7D
++ 7D <rel type="ガ" target="投手" sid="wiki00099597-00-01" id="5"/>
 投球 とうきゅう 投球 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 8D
++ 8D <rel type="ガ" target="選手" sid="wiki00099597-00-01" id="9"/><rel type="ヲ" target="投球" sid="wiki00099597-00-01" id="6"/><rel type="外の関係" target="役割" sid="wiki00099597-00-01" id="8"/>
 受ける うける 受ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 9D
-+ 9D
++ 9D <rel type="トイウ" target="受ける" sid="wiki00099597-00-01" id="7"/><rel type="ノ" target="選手" sid="wiki00099597-00-01" id="9"/>
 役割 やくわり 役割 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ガ" mode="AND" target="キャッチャー" sid="wiki00099597-00-01" id="1"/><rel type="=構" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="=構" mode="AND" target="キャッチャー" sid="wiki00099597-00-01" id="1"/><rel type="ニオイテ" target="野球" sid="wiki00099597-00-01" id="2"/><rel type="ニオイテ" mode="AND" target="ソフトボール" sid="wiki00099597-00-01" id="3"/><rel type="修飾" target="役割" sid="wiki00099597-00-01" id="8"/>
 選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099597-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/17 MEMO:
 * -1D
-+ -1D
-ほしゅ ほしゅ ほしゅ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="捕手" sid="wiki00099597-00-01" id="0"/>
+ほしゅ ほしゅ ほしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00099597-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ガ" target="不特定:人"/>
 守備 しゅび 守備 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="ノ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ノ？" target="守備" sid="wiki00099597-01" id="0"/>
 番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="番号" sid="wiki00099597-01" id="1"/><rel type="=構" target="番号" sid="wiki00099597-01" id="1"/><memo text="CO"/>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00099597-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/04/17 MEMO:
 * 1D
-+ 1D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D
++ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="修飾" target="英" sid="wiki00099597-02-01" id="0"/><rel type="ノ" target="捕手" sid="wiki00099597-00-01" id="0"/>
 略字 りゃくじ 略字 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="略字" sid="wiki00099597-02-01" id="1"/><rel type="=構" target="略字" sid="wiki00099597-02-01" id="1"/><rel type="=" mode="AND" target="捕手" sid="wiki00099597-00-01" id="0"/><memo text="CO"/>
 C C C 特殊 1 記号 5 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099597-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * -1D
-+ -1D
-catcher catcher catcher 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="C" sid="wiki00099597-02-01" id="2"/><rel type="=" target="キャッチャー" sid="wiki00099597-00-01" id="1"/><rel type="カラ" target="catcher" sid="wiki00099597-02-02" id="0"/><memo text="PO:とる 等"/>
+catcher catcher catcher 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000
+# S-ID:wiki00099597-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/06/13 MEMO:
 * 1D
 + 3D
 常に つねに 常に 副詞 8 * 0 * 0 * 0 NIL
 * 2D
 + 2D
-スターティング スターティング スターティング 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
+スターティング すたーてぃんぐ スターティング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="スターティング" sid="wiki00099597-03-01" id="1"/>
 メンバー めんばー メンバー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="ガ" target="捕手" sid="wiki00099597-03-01" id="4"/><rel type="ニ" target="メンバー" sid="wiki00099597-03-01" id="2"/>
 入り いり 入り 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 8D
++ 8D <rel type="=≒" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ノ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="修飾" target="入りする" sid="wiki00099597-03-01" id="3"/>
 捕手 ほしゅ 捕手 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
@@ -101,47 +101,47 @@ EOS
 * 5D
 + 7D
 正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="=構" target="捕手" sid="wiki00099597-03-01" id="4"/><rel type="修飾" target="正" sid="wiki00099597-03-01" id="6"/>
 捕手 ほしゅ 捕手 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="捕手" sid="wiki00099597-03-01" id="4"/><rel type="ト" target="捕手" sid="wiki00099597-03-01" id="7"/><rel type="ニ" target="不特定:人"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-03-02 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099597-03-02 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/17 MEMO:
 * -1D
-+ 1D
++ 1D <rel type="=" target="正" sid="wiki00099597-03-01" id="6"/>
 せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D
++ -1D <rel type="=" target="捕手" sid="wiki00099597-03-01" id="7"/>
 ほしゅ ほしゅ ほしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000
+# S-ID:wiki00099597-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2023/06/13 MEMO:
 * 14D
 + 17D
 慣用句 かんようく 慣用句 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 2D
-+ 2D
++ 2D <rel type="=" target="投手" sid="wiki00099597-00-01" id="5"/>
 投手 とうしゅ 投手 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ヲ" target="投手" sid="wiki00099597-04" id="1"/>
 支える ささえる 支える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 5I
-+ 6I
++ 6I <rel type="トイウ" target="支える" sid="wiki00099597-04" id="2"/>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
 + 6D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 女房 にょうぼう 女房 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P
++ 12P <rel type="カラ" target="意味" sid="wiki00099597-04" id="4"/><rel type="ノ" target="女房" sid="wiki00099597-04" id="5"/><rel type="=構" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ト" target="役" sid="wiki00099597-04" id="6"/>
 役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -149,30 +149,30 @@ EOS
 + 8D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 10I
-+ 12I
++ 12I <rel type="ノ" target="役" sid="wiki00099597-04" id="6"/>
 連想 れんそう 連想 名詞 6 サ変名詞 2 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D
++ 10D <rel type="=" target="正" sid="wiki00099597-03-01" id="6"/>
 正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="=" target="捕手" sid="wiki00099597-03-01" id="7"/>
 捕手 ほしゅ 捕手 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D
++ 12D <rel type="ノ" target="捕手" sid="wiki00099597-04" id="10"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13P
-+ 16P
++ 16P <rel type="カラ" target="連想" sid="wiki00099597-04" id="8"/><rel type="=構" target="こと" sid="wiki00099597-04" id="11"/><rel type="=構" mode="AND" target="捕手" sid="wiki00099597-04" id="10"/><rel type="ヲ" target="こと" sid="wiki00099597-04" id="11"/><rel type="ト" target="正妻" sid="wiki00099597-04" id="12"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-正妻 正妻 正妻 名詞 6 普通名詞 1 * 0 * 0 NIL
+正妻 せいさい 正妻 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 または または または 接続詞 10 * 0 * 0 * 0 NIL
-* 13D
-+ 14D
+* 13I
++ 14D <rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="=≒" target="守備" sid="wiki00099597-01" id="0"/>
 守備 しゅび 守備 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 16D
++ 16I <rel type="ノ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ノ？" target="守備" sid="wiki00099597-04" id="13"/>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
@@ -181,12 +181,12 @@ EOS
 扇 おうぎ 扇 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 17D
++ 17D <rel type="=構" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ノ" target="扇" sid="wiki00099597-04" id="15"/>
 要 かなめ 要 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="カラ" target="位置" sid="wiki00099597-04" id="14"/><rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="要" sid="wiki00099597-04" id="16"/>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -195,13 +195,13 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00099597-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/13 MEMO:
 * 6D
 + 7D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="=" target="捕手" sid="wiki00099597-00-01" id="0"/>
 捕手 ほしゅ 捕手 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -209,60 +209,60 @@ EOS
 野手 やしゅ 野手 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 4D
++ 4D <rel type="ガ" target="捕手" sid="wiki00099597-05" id="1"/><rel type="ニ" target="野手" sid="wiki00099597-05" id="2"/><rel type="外の関係" target="の" sid="wiki00099597-05" id="4"/>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
-+ 7D
++ 7D <rel type="トイウ" target="含まれる" sid="wiki00099597-05" id="3"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 6D
++ 6D <rel type="ノ" target="捕手" sid="wiki00099597-05" id="1"/>
 広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D
++ 7D <rel type="ノ" target="広義" sid="wiki00099597-05" id="5"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="の" sid="wiki00099597-05" id="4"/><rel type="ニ" target="場合" sid="wiki00099597-05" id="6"/>
 限ら かぎら 限る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099597-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000
+# S-ID:wiki00099597-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/06/13 MEMO:
 * 7D
 + 8D
-クリケット クリケット クリケット 名詞 6 普通名詞 1 * 0 * 0 NIL
+クリケット くりけっと クリケット 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D
-ウィケット ウィケット ウィケット 名詞 6 普通名詞 1 * 0 * 0 NIL
+ウィケット うぃけっと ウィケット 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ノ" target="ウィケット" sid="wiki00099597-06" id="1"/>
 前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D
++ 4D <rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ヲ" target="前" sid="wiki00099597-06" id="2"/><rel type="外の関係" target="こと" sid="wiki00099597-06" id="4"/>
 陣取る じんどる 陣取る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 7D
-+ 8D
++ 8D <rel type="トイウ" target="陣取る" sid="wiki00099597-06" id="3"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 6D
-ウィケット ウィケット ウィケット 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P
++ 6D <rel type="=" target="ウィケット" sid="wiki00099597-06" id="1"/>
+ウィケット うぃけっと ウィケット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="ノ" target="ウィケット" sid="wiki00099597-06" id="5"/><rel type="=構" target="捕手" sid="wiki00099597-00-01" id="0"/>
 キーパー きーぱー キーパー 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D
++ 8D <rel type="=構" target="捕手" sid="wiki00099597-00-01" id="0"/>
 キーパー きーぱー キーパー 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="デ" target="クリケット" sid="wiki00099597-06" id="0"/><rel type="ガ" target="捕手" sid="wiki00099597-00-01" id="0"/><rel type="ト" target="キーパー" sid="wiki00099597-06" id="6"/><rel type="ト" mode="AND" target="キーパー" sid="wiki00099597-06" id="7"/><rel type="カラ" target="こと" sid="wiki00099597-06" id="4"/><rel type="ニ" target="不特定:人"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

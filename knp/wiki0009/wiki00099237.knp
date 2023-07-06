@@ -1,6 +1,6 @@
-# S-ID:wiki00099237-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00099237-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/13 MEMO:
 * 7D
-+ 9D
++ 7D
 遊撃手 ゆうげきしゅ 遊撃手 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,80 +10,78 @@
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D
++ 6D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 4P
-+ 4D
++ 4P
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
-+ 6P
 塁 るい 塁 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D
++ 5D
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL
-+ 7D
 塁 るい 塁 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ノ" target="塁" sid="wiki00099237-00-01" id="6"/>
++ 6D <rel type="ノ" target="三塁" sid="wiki00099237-00-01" id="4"/><rel type="ト" target="二塁" sid="wiki00099237-00-01" id="3"/>
 中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="内野手" sid="wiki00099237-00-01" id="9"/><rel type="ヲ" target="中間" sid="wiki00099237-00-01" id="7"/>
++ 7D <rel type="ガ" target="内野手" sid="wiki00099237-00-01" id="9"/><rel type="ヲ" target="中間" sid="wiki00099237-00-01" id="7"/><rel type="ニオイテ" target="野球" sid="wiki00099237-00-01" id="1"/>
 守る まもる 守る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="=" target="遊撃手" sid="wiki00099237-00-01" id="0"/>
++ -1D <rel type="ガ" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="=構" target="遊撃手" sid="wiki00099237-00-01" id="0"/><memo text="CO"/>
 内野手 ないやしゅ 内野手 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099237-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="内野手" sid="wiki00099237-00-01" id="9"/>
++ -1D <rel type="=" target="遊撃手" sid="wiki00099237-00-01" id="0"/>
 ゆうげきしゅ ゆうげきしゅ ゆうげきしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00099237-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="=" target="守る" sid="wiki00099237-00-01" id="6"/>
 守備 しゅび 守備 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="遊撃手" sid="wiki00099237-00-01" id="0"/>
++ 2D <rel type="ノ" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="修飾" target="守備" sid="wiki00099237-01" id="0"/>
 番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="番号" sid="wiki00099237-01" id="1"/><rel type="=" target="番号" sid="wiki00099237-01" id="1"/>
++ -1D <rel type="ガ" target="番号" sid="wiki00099237-01" id="1"/><rel type="=構" target="番号" sid="wiki00099237-01" id="1"/><memo text="CO"/>
 6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00099237-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D <NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D
++ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="英" sid="wiki00099237-02-01" id="0"/><rel type="ノ" target="遊撃手" sid="wiki00099237-00-01" id="0"/>
 略字 りゃくじ 略字 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="番号" sid="wiki00099237-01" id="1"/><rel type="=" target="番号" sid="wiki00099237-01" id="1"/>
-SS SS SS 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="略字" sid="wiki00099237-02-01" id="1"/><rel type="=" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="=構" mode="AND" target="略字" sid="wiki00099237-02-01" id="1"/><memo text="CO"/>
+SS SS SS 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099237-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * -1D
-+ -1D <rel type="=" target="6" sid="wiki00099237-01" id="2"/>
-Shortstop Shortstop Shortstop 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="SS" sid="wiki00099237-02-01" id="2"/><rel type="=" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="カラ" target="Shortstop" sid="wiki00099237-02-02" id="0"/><memo text="PO:呼ぶ等"/>
+Shortstop Shortstop Shortstop 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00099237-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/06/13 MEMO:
 * 2D
 + 2D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="番号" sid="wiki00099237-01" id="1"/>
++ 2D <rel type="=構" target="遊撃手" sid="wiki00099237-00-01" id="0"/>
 ショート しょーと ショート 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="遊撃手" sid="wiki00099237-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="日本" sid="wiki00099237-03" id="0"/><rel type="ト" target="ショート" sid="wiki00099237-03" id="1"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -91,7 +89,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00099237-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/13 MEMO:
 * 4D
 + 4D
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
@@ -104,7 +102,7 @@ EOS
 三塁手 さんるいしゅ 三塁手 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ" target="三塁手" sid="wiki00099237-04-01" id="2"/>
++ 4D <rel type="ノ" target="三塁手" sid="wiki00099237-04-01" id="2"/><rel type="ト" target="二塁手" sid="wiki00099237-04-01" id="1"/>
 間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -113,13 +111,13 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-04-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099237-04-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/14 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="二塁手" sid="wiki00099237-04-01" id="1"/>
 セカンド せかんど セカンド 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099237-04-03 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099237-04-03 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * -1D
-+ -1D <rel type="=" target="ショート" sid="wiki00099237-03" id="1"/>
++ -1D <rel type="=" target="三塁手" sid="wiki00099237-04-01" id="2"/>
 サード さーど サード 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

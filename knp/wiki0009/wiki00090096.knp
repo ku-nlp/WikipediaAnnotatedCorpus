@@ -1,117 +1,118 @@
-# S-ID:wiki00090096-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
-* 15D
+# S-ID:wiki00090096-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/02 MEMO:
+* 14D
 + 1D
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 34D <NE:ORGANIZATION:株式会社学研ホールディングス>
-学研ホールディングス 学研ホールディングス 学研ホールディングス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D
+学研 がっけん 学研 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 35D <NE:ORGANIZATION:株式会社学研ホールディングス>
+ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="不特定:人"/>
++ 5D <rel type="ガ" target="不特定:人"/>
 学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D
++ 7D <rel type="修飾" target="学習" sid="wiki00090096-00-01" id="4"/>
 塾 じゅく 塾 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 6D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13P <rel type="ガ" target="学研ホールディングス" sid="wiki00090096-00-01" id="2"/><rel type="ニ" target="不特定:人"/>
++ 14P <rel type="ニ" target="不特定:人"/><rel type="=≒" target="塾" sid="wiki00090096-00-01" id="5"/><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="教育" sid="wiki00090096-00-01" id="6"/>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00090096-00-01" id="8"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00090096-00-01" id="8"/>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
++ 10D <rel type="修飾" target="出版" sid="wiki00090096-00-01" id="8"/>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 13P <rel type="ガ" target="学研ホールディングス" sid="wiki00090096-00-01" id="2"/><rel type="ヲ" target="物" sid="wiki00090096-00-01" id="8"/>
++ 14P <rel type="ヲ" target="物" sid="wiki00090096-00-01" id="8"/><rel type="ガ" target="不特定:人"/>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 保育 ほいく 保育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="保育" sid="wiki00090096-00-01" id="10"/>
++ 14D <rel type="ノ" target="保育" sid="wiki00090096-00-01" id="10"/>
 用品 ようひん 用品 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 11P
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="用品" sid="wiki00090096-00-01" id="11"/>
+* 10P
++ 14P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="用品など" sid="wiki00090096-00-01" id="12"/>
 製作 せいさく 製作 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 29P <rel type="ガ" target="学研ホールディングス" sid="wiki00090096-00-01" id="2"/><rel type="ヲ" target="用品" sid="wiki00090096-00-01" id="11"/>
++ 30P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="用品など" sid="wiki00090096-00-01" id="12"/>
 販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 15D
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 16D
++ 20D <rel type="ガ" target="サービス" sid="wiki00090096-00-01" id="15"/><rel type="ニ" target="住宅" sid="wiki00090096-00-01" id="20"/>
 付 つき 付 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D
-高齢 こうれい 高齢 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 18D
+高齢 こうれい 高齢 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ノ？" target="高齢" sid="wiki00090096-00-01" id="17"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 19D
++ 20D <rel type="ニ" target="者" sid="wiki00090096-00-01" id="18"/>
 向け むけ 向け 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-* 9P
-+ 23P
++ 24P <rel type="修飾" target="向け" sid="wiki00090096-00-01" id="19"/>
 住宅 じゅうたく 住宅 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 10D
-+ 21D
-認知 にんち 認知 名詞 6 サ変名詞 2 * 0 * 0 NIL
+* 9D
 + 22D
+認知 にんち 認知 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 24D <rel type="ノ？" target="認知" sid="wiki00090096-00-01" id="21"/>
 症 しょう 症 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D
++ 24D
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 28D
++ 26D <rel type="修飾" target="グループ" sid="wiki00090096-00-01" id="23"/><rel type="修飾" mode="AND" target="症" sid="wiki00090096-00-01" id="22"/>
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 11D
-+ 25D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
+* 10D
++ 26D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="デ" target="施設" sid="wiki00090096-00-01" id="26"/>
 介護 かいご 介護 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 28D
++ 29P <rel type="=≒" target="ホーム" sid="wiki00090096-00-01" id="24"/><rel type="=≒" mode="AND" target="住宅" sid="wiki00090096-00-01" id="20"/><rel type="修飾" target="介護" sid="wiki00090096-00-01" id="25"/>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 27D <rel type="ガ" target="不特定:人"/>
++ 28D <rel type="ガ" target="不特定:人"/>
 子育て こそだて 子育て 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 28D <rel type="ガ" target="施設" sid="wiki00090096-00-01" id="28"/><rel type="ヲ" target="子育て" sid="wiki00090096-00-01" id="26"/>
++ 29D <rel type="ヲ" target="子育て" sid="wiki00090096-00-01" id="26"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="施設" sid="wiki00090096-00-01" id="29"/>
 支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 29D
++ 30D <rel type="修飾" target="支援" sid="wiki00090096-00-01" id="28"/>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 12D
-+ 30D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00090096-00-01" id="28"/>
+* 11D
++ 31D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00090096-00-01" id="29"/><rel type="ヲ" mode="AND" target="施設" sid="wiki00090096-00-01" id="26"/>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 13D
-+ 31D
+* 12D
++ 32D <rel type="=≒" target="運営" sid="wiki00090096-00-01" id="30"/><rel type="=≒" mode="AND" target="販売" sid="wiki00090096-00-01" id="14"/><rel type="=≒" mode="AND" target="製作" sid="wiki00090096-00-01" id="13"/><rel type="=≒" mode="AND" target="発行" sid="wiki00090096-00-01" id="10"/><rel type="=≒" mode="AND" target="サービス" sid="wiki00090096-00-01" id="7"/>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 15D
-+ 34D <rel type="ガ" target="会社" sid="wiki00090096-00-01" id="34"/><rel type="ヲ" target="事業" sid="wiki00090096-00-01" id="30"/>
+* 14D
++ 35D <rel type="ガ" target="会社" sid="wiki00090096-00-01" id="34"/><rel type="ヲ" target="事業" sid="wiki00090096-00-01" id="30"/>
 統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 15D
-+ 34D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 14D
++ 35D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 34D
++ 35D
 持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="学研ホールディングス" sid="wiki00090096-00-01" id="2"/><rel type="=" target="学研ホールディングス" sid="wiki00090096-00-01" id="2"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ホールディングス" sid="wiki00090096-00-01" id="3"/><rel type="=構" target="ホールディングス" sid="wiki00090096-00-01" id="3"/><rel type="修飾" target="持株" sid="wiki00090096-00-01" id="34"/><rel type="ノ？" target="日本" sid="wiki00090096-00-01" id="33"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00090096-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00090096-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/02 MEMO:
 * -1D
-+ 1D
-がっけん がっけん がっけん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="会社" sid="wiki00090096-00-01" id="34"/>
-ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="学研" sid="wiki00090096-00-01" id="2"/>
+がっけん がっけん がっけん 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="ホールディングス" sid="wiki00090096-00-01" id="3"/><NE:ORGANIZATION:がっけんホールディングス>
+ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

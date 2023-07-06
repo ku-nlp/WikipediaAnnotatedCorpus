@@ -1,4 +1,4 @@
-# S-ID:wiki00096815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00096815-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/09 MEMO:
 * 9D
 + 10D
 政策 せいさく 政策 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -7,11 +7,11 @@
 * 2D
 + 2D
 現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
++ 3D <rel type="時間" target="現代" sid="wiki00096815-00-01" id="1"/>
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
-+ 9D
+* 9D
++ 10D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -30,27 +30,27 @@
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 8P
++ 8P <rel type="修飾" target="施政上" sid="wiki00096815-00-01" id="6"/><rel type="ノ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ノ" mode="AND" target="政党など" sid="wiki00096815-00-01" id="5"/><rel type="=構" target="政策" sid="wiki00096815-00-01" id="0"/>
 方針 ほうしん 方針 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D
++ 9D <rel type="修飾" target="施政上" sid="wiki00096815-00-01" id="6"/><rel type="ノ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ノ" mode="AND" target="政党など" sid="wiki00096815-00-01" id="5"/><rel type="=構" target="政策" sid="wiki00096815-00-01" id="0"/>
 方策 ほうさく 方策 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ヲ" target="方針" sid="wiki00096815-00-01" id="7"/>
++ 10D <rel type="ガ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ガ" mode="AND" target="政党など" sid="wiki00096815-00-01" id="5"/><rel type="ヲ" target="方針" sid="wiki00096815-00-01" id="7"/><rel type="ヲ" mode="AND" target="方策" sid="wiki00096815-00-01" id="8"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="政策" sid="wiki00096815-00-01" id="0"/><rel type="=" target="政策" sid="wiki00096815-00-01" id="0"/>
++ -1D <rel type="ガ" target="政策" sid="wiki00096815-00-01" id="0"/><rel type="ニオイテ" target="社会" sid="wiki00096815-00-01" id="2"/><rel type="=構" target="政策" sid="wiki00096815-00-01" id="0"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00096815-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00096815-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/04 MEMO:
 * -1D
-+ -1D <rel type="=" target="こと" sid="wiki00096815-00-01" id="10"/>
-せいさく せいさく せいさく 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="政策" sid="wiki00096815-00-01" id="0"/>
+せいさく せいさく せいさく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00096815-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00096815-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/09 MEMO:
 * 6D
 + 6D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
@@ -59,27 +59,27 @@ EOS
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="方策" sid="wiki00096815-00-01" id="8"/>
++ 3D <rel type="=" target="政策" sid="wiki00096815-00-01" id="0"/>
 策 さく 策 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ヲ" target="策" sid="wiki00096815-01-01" id="2"/>
++ 4D <rel type="ヲ" target="策" sid="wiki00096815-01-01" id="2"/><rel type="ガ" target="政府" sid="wiki00096815-00-01" id="4"/><rel type="ガ" mode="AND" target="政党など" sid="wiki00096815-00-01" id="5"/><rel type="外の関係" target="こと" sid="wiki00096815-01-01" id="4"/>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 6D
++ 6D <rel type="トイウ" target="実施する" sid="wiki00096815-01-01" id="3"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="=" target="こと" sid="wiki00096815-00-01" id="10"/>
++ 6D <rel type="=構" target="こと" sid="wiki00096815-01-01" id="4"/>
 施策 しさく 施策 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00096815-01-01" id="4"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00096815-01-01" id="4"/><rel type="ト" target="施策" sid="wiki00096815-01-01" id="5"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00096815-01-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00096815-01-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/09 MEMO:
 * -1D
 + -1D <rel type="=" target="施策" sid="wiki00096815-01-01" id="5"/>
 しさく しさく しさく 名詞 6 サ変名詞 2 * 0 * 0 NIL

@@ -1,9 +1,9 @@
-# S-ID:wiki00099351-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00099351-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/13 MEMO:
 * 12D
 + 1D
-ピューリッツァー ピューリッツァー ピューリッツァー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL
+ピューリッツァー ぴゅーりっつぁー ピューリッツァー 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 13D <NE:ARTIFACT:ピューリッツァー賞>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -17,17 +17,17 @@
 + 5P
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 5P
-+ 6P
+* 6P
++ 7P
 雑誌 ざっし 雑誌 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 8D
-+ 9D
+* 6D
++ 7D
 オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 8P <rel type="ガ" target="不特定:人"/>
++ 8P <rel type="ガ" target="不特定:人"/><rel type="修飾" target="オンライン上" sid="wiki00099351-00-01" id="6"/>
 報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
@@ -39,26 +39,26 @@
 作曲 さっきょく 作曲 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="ノ" target="文学" sid="wiki00099351-00-01" id="8"/>
++ 11D <rel type="ニオイテ" target="作曲" sid="wiki00099351-00-01" id="9"/><rel type="ニオイテ" mode="AND" target="文学" sid="wiki00099351-00-01" id="8"/><rel type="ニオイテ" mode="AND" target="報道" sid="wiki00099351-00-01" id="7"/><rel type="ニオイテ" mode="AND" target="雑誌" sid="wiki00099351-00-01" id="5"/><rel type="ニオイテ" mode="AND" target="新聞" sid="wiki00099351-00-01" id="4"/><rel type="ニオイテ" mode="AND" target="アメリカ合衆国" sid="wiki00099351-00-01" id="2"/>
 功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
 + 12D
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 12D
-+ 13D <rel type="ガ" target="賞" sid="wiki00099351-00-01" id="13"/><rel type="ニ" target="不特定:人"/>
++ 13D <rel type="ガ" target="賞" sid="wiki00099351-00-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ニタイシテ" target="功績" sid="wiki00099351-00-01" id="10"/><rel type="カラ" target="不特定:人1"/>
 授与 じゅよ 授与 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="賞" sid="wiki00099351-00-01" id="1"/><rel type="=" target="賞" sid="wiki00099351-00-01" id="1"/>
++ -1D <rel type="ガ" target="賞" sid="wiki00099351-00-01" id="1"/><rel type="=構" target="賞" sid="wiki00099351-00-01" id="1"/><memo text="CO"/>
 賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00099351-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00099351-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * -1D
 + 1D <rel type="=" target="ピューリッツァー" sid="wiki00099351-00-01" id="0"/>
-ピューリッツァー ピューリッツァー ピューリッツァー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="賞" sid="wiki00099351-00-01" id="1"/>
-しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL
+ピューリッツァー ぴゅーりっつぁー ピューリッツァー 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:head>
++ -1D <rel type="=" target="賞" sid="wiki00099351-00-01" id="1"/><NE:ARTIFACT:ピューリッツァーしょう>
+しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS

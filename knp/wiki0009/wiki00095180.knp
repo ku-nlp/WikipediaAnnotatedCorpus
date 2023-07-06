@@ -1,64 +1,64 @@
-# S-ID:wiki00095180-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00095180-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/08 MEMO:
 * 3D
-+ 3D
-神亀 じんき 神亀 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <NE:OPTIONAL:神亀><NE-OPTIONAL:ARTIFACT,DATE,NONE:0>
+神亀 じんき/しんき 神亀 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ノ？" target="日本" sid="wiki00095180-00-01" id="1"/><rel type="=≒" target="神亀" sid="wiki00095180-00-01" id="0"/>
 元号 げんごう 元号 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="ノ" target="元号" sid="wiki00095180-00-01" id="2"/><rel type="=" target="神亀" sid="wiki00095180-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="ノ" target="元号" sid="wiki00095180-00-01" id="2"/><rel type="=構" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="=構" mode="AND" target="元号" sid="wiki00095180-00-01" id="2"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095180-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D
-じんき じんき じんきだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+# S-ID:wiki00095180-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/22 MEMO:
+* 1P
++ 1P <rel type="=" target="神亀" sid="wiki00095180-00-01" id="0"/><NE:OPTIONAL:じんき><NE-OPTIONAL:ARTIFACT,DATE,NONE:0>
+じんき じんき じんき 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00095180-00-01" id="3"/>
-しんき しんき しんきだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ -1D <rel type="=" target="神亀" sid="wiki00095180-00-01" id="0"/><NE:OPTIONAL:しんき><NE-OPTIONAL:ARTIFACT,DATE,NONE:0>
+しんき しんき しんき 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00095180-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000
+# S-ID:wiki00095180-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2023/06/08 MEMO:
 * 1D
-+ 1D
-養老 ようろう 養老 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <NE:DATE:養老>
+養老 ようろう 養老 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 3D
-+ 3D <rel type="ノ" target="養老" sid="wiki00095180-01" id="0"/>
+* 3P
++ 3P <rel type="ノ" target="養老" sid="wiki00095180-01" id="0"/><rel type="ガ" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="=構" target="神亀" sid="wiki00095180-00-01" id="0"/>
 後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:天平>
-天平 てんへい 天平 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <NE:DATE:天平>
+天平 てんぴょう 天平 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="ノ" target="天平" sid="wiki00095180-01" id="2"/><rel type="=" target="後" sid="wiki00095180-01" id="1"/>
++ -1D <rel type="ガ" target="神亀" sid="wiki00095180-00-01" id="0"/><rel type="ノ" target="天平" sid="wiki00095180-01" id="2"/><rel type="=構" target="神亀" sid="wiki00095180-00-01" id="0"/><memo text="CO"/>
 前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095180-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00095180-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/02/22 MEMO:
 * 1P
-+ 1P
-724 724 724 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 1P <NE:DATE:724年>
+724 ななひゃくにじゅうよ 724 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
-729 729 729 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 2D <NE:DATE:729年>
+729 ななひゃくにじゅうきゅう/ななひゃくにじゅうく 729 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="前" sid="wiki00095180-01" id="3"/>
++ 3D <rel type="マデ" target="729年" sid="wiki00095180-02" id="1"/><rel type="カラ" target="724年" sid="wiki00095180-02" id="0"/><rel type="=構" target="神亀" sid="wiki00095180-00-01" id="0"/>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -66,20 +66,22 @@ EOS
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00095180-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00095180-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/08 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="後" sid="wiki00095180-01" id="1"/>
++ 2D <rel type="=" target="神亀" sid="wiki00095180-00-01" id="0"/>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
++ 4D <rel type="時間" target="時代" sid="wiki00095180-03" id="1"/>
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="天皇" sid="wiki00095180-03" id="2"/><rel type="=" target="天皇" sid="wiki00095180-03" id="2"/><NE:PERSON:聖武天皇>
-聖武天皇 しょうむてんのう 聖武天皇 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D
+聖武 しょうむ 聖武 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="ガ" target="天皇" sid="wiki00095180-03" id="2"/><rel type="=構" target="天皇" sid="wiki00095180-03" id="2"/><memo text="CO"/><NE:OPTIONAL:聖武天皇><NE-OPTIONAL:PERSON,NONE:3>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,10 +1,10 @@
-# S-ID:wiki00092414-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
-* 2D
+# S-ID:wiki00092414-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/05 MEMO:
+* 3D
 + 1D
-ハードコア ハードコア ハードコア 名詞 6 普通名詞 1 * 0 * 0 NIL
+ハードコア はーどこあ ハードコア 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D
-パンク パンク パンク 名詞 6 人名 5 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ハードコア" sid="wiki00092414-00-01" id="0"/>
+パンク ぱんく パンク 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -14,41 +14,42 @@
 ロック ろっく ロック 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="ロック" sid="wiki00092414-00-01" id="2"/>
++ 4D <rel type="ノ" target="ロック" sid="wiki00092414-00-01" id="2"/><rel type="=≒" target="パンク" sid="wiki00092414-00-01" id="1"/>
 ジャンル じゃんる ジャンル 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:物"/><rel type="ノ" target="ジャンル" sid="wiki00092414-00-01" id="3"/><rel type="=" target="ジャンル" sid="wiki00092414-00-01" id="3"/>
++ -1D <rel type="ノ" target="ジャンル" sid="wiki00092414-00-01" id="3"/><rel type="ガ" target="パンク" sid="wiki00092414-00-01" id="1"/><rel type="=構" target="ジャンル" sid="wiki00092414-00-01" id="3"/><rel type="=構" mode="AND" target="パンク" sid="wiki00092414-00-01" id="1"/><memo text="CO"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092414-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00092414-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/10 MEMO:
 * -1D
-+ -1D <rel type="=" target="ロック" sid="wiki00092414-00-01" id="2"/>
-Hardcore Hardcore Hardcore 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <rel type="=" target="ハードコア" sid="wiki00092414-00-01" id="0"/>
+Hardcore Hardcore Hardcore 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-punk punk punk 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="パンク" sid="wiki00092414-00-01" id="1"/>
+punk punk punk 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092414-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00092414-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/06/05 MEMO:
 * 1D
-+ 1D
-パンク パンク パンク 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 4D <rel type="=" target="パンク" sid="wiki00092414-00-01" id="1"/><NE:PERSON:パンク・ロック>
-ロック ロック ロック 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 1D <rel type="=≒" target="パンク" sid="wiki00092414-00-01" id="1"/>
+パンク ぱんく パンク 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 4D <rel type="修飾" target="パンク" sid="wiki00092414-01" id="0"/><rel type="=≒" target="ロック" sid="wiki00092414-00-01" id="2"/>
+ロック ろっく ロック 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 3D
-ロックン ロックン ロックン 名詞 6 普通名詞 1 * 0 * 0 NIL
+ロックン ろっくん ロックン 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D
 ロール ろーる ロール 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="ロール" sid="wiki00092414-01" id="3"/>
-色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="ロール" sid="wiki00092414-01" id="3"/><rel type="ノ" target="ロック" sid="wiki00092414-01" id="1"/>
+色 しょく 色 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="色" sid="wiki00092414-01" id="4"/>
++ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="色" sid="wiki00092414-01" id="4"/><rel type="カラ" target="ロック" sid="wiki00092414-01" id="1"/><rel type="外の関係" target="ジャンル" sid="wiki00092414-01" id="10"/>
 排し はいし 排す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -60,38 +61,38 @@ EOS
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
 攻撃 こうげき 攻撃 名詞 6 サ変名詞 2 * 0 * 0 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="暴力性" sid="wiki00092414-01" id="7"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="暴力性" sid="wiki00092414-01" id="7"/><rel type="ヲ" mode="AND" target="攻撃性" sid="wiki00092414-01" id="8"/><rel type="外の関係" target="ジャンル" sid="wiki00092414-01" id="10"/>
 強調 きょうちょう 強調 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:物"/><rel type="=" target="ひとつ" sid="wiki00092414-00-01" id="4"/>
++ -1D <rel type="ガ" target="パンク" sid="wiki00092414-00-01" id="1"/><rel type="=構" target="パンク" sid="wiki00092414-00-01" id="1"/><rel type="トイウ" target="強調した" sid="wiki00092414-01" id="9"/><rel type="トイウ" mode="AND" target="排し" sid="wiki00092414-01" id="5"/>
 ジャンル じゃんる ジャンル 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092414-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00092414-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/06/05 MEMO:
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ジャンル" sid="wiki00092414-01" id="10"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="パンク" sid="wiki00092414-00-01" id="1"/>
 略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
 * 2P
-+ 2P <rel type="=" target="ジャンル" sid="wiki00092414-01" id="10"/>
-HC HC HC 名詞 6 組織名 6 * 0 * 0 NIL
++ 2P <rel type="=構" target="パンク" sid="wiki00092414-00-01" id="1"/>
+HC HC HC 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="HC" sid="wiki00092414-02" id="1"/>
-HxCx HxCx HxCx 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <rel type="=構" target="パンク" sid="wiki00092414-00-01" id="1"/>
+HxCx HxCx HxCx 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="ジャンル" sid="wiki00092414-01" id="10"/><rel type="ニ" target="不特定:人"/>
++ 4D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="パンク" sid="wiki00092414-00-01" id="1"/><rel type="ト" target="HC" sid="wiki00092414-02" id="1"/><rel type="ト" mode="AND" target="HxCx" sid="wiki00092414-02" id="2"/><rel type="外の関係" target="場合" sid="wiki00092414-02" id="4"/>
 書か かか 書く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 5D
++ 5D <rel type="トイウ" target="書かれる" sid="wiki00092414-02" id="3"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
@@ -99,17 +100,17 @@ HxCx HxCx HxCx 名詞 6 組織名 6 * 0 * 0 NIL
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00092414-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00092414-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/05 MEMO:
 * 1D
 + 1D <rel type="ガ" target="サウンド" sid="wiki00092414-03" id="1"/>
-ラウド ラウド ラウド 名詞 6 普通名詞 1 * 0 * 0 NIL
+ラウド らうど ラウド 名詞 6 普通名詞 1 * 0 * 0 NIL
 な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3 NIL
 * 2D
-+ 2D
++ 2D <rel type="修飾" target="ラウド" sid="wiki00092414-03" id="0"/>
 サウンド さうんど サウンド 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="サウンド" sid="wiki00092414-03" id="1"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="サウンド" sid="wiki00092414-03" id="1"/><rel type="外の関係" target="ため" sid="wiki00092414-03" id="3"/>
 維持 いじ 維持 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
@@ -117,15 +118,15 @@ EOS
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 5P
-ディストーション ディストーション ディストーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="修飾" target="ため" sid="wiki00092414-03" id="3"/>
+ディストーション でぃすとーしょん ディストーション 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D
++ 6D <rel type="修飾" target="ため" sid="wiki00092414-03" id="3"/>
 ギター ぎたー ギター 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ディストーション" sid="wiki00092414-03" id="4"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ディストーション" sid="wiki00092414-03" id="4"/><rel type="ヲ" mode="AND" target="ギター" sid="wiki00092414-03" id="5"/><rel type="デ" target="パンク" sid="wiki00092414-00-01" id="1"/>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

@@ -1,12 +1,12 @@
-# S-ID:wiki00076534-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000
+# S-ID:wiki00076534-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/05/26 MEMO:
 * 8D
 + 10D
 俳諧 はいかい 俳諧 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 4D
+* 2D
++ 3D
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 3D
 + 3D
@@ -14,17 +14,17 @@
 + 4D <NE:DATE:江戸時代>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 4D
-+ 6D <rel type="ガ" target="形式、また" sid="wiki00076534-00-01" id="7"/>
+* 5D
++ 7D <rel type="ガ" target="形式" sid="wiki00076534-00-01" id="7"/><rel type="時間" target="時代" sid="wiki00076534-00-01" id="3"/>
 栄えた さかえた 栄える 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 5D
 + 6D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D
++ 7D <rel type="ノ？" target="日本" sid="wiki00076534-00-01" id="5"/>
 文学 ぶんがく 文学 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="ノ" target="文学" sid="wiki00076534-00-01" id="6"/>
++ 9P <rel type="ノ" target="文学" sid="wiki00076534-00-01" id="6"/><rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/>
 形式 けいしき 形式 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 また また また 副詞 8 * 0 * 0 * 0 NIL
@@ -33,32 +33,32 @@
 + 9D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ノ" target="俳諧" sid="wiki00076534-00-01" id="0"/>
++ 10D <rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="修飾" target="形式" sid="wiki00076534-00-01" id="7"/>
 作品 さくひん 作品 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="ノ" target="作品" sid="wiki00076534-00-01" id="9"/><rel type="=" target="形式、また" sid="wiki00076534-00-01" id="7"/>
++ -1D <rel type="ガ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="ノ" target="作品" sid="wiki00076534-00-01" id="9"/><rel type="ノ" mode="AND" target="形式" sid="wiki00076534-00-01" id="7"/><rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076534-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00076534-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/26 MEMO:
 * -1D
 + -1D <rel type="=" target="俳諧" sid="wiki00076534-00-01" id="0"/>
-はいかい はいかい はいかい 名詞 6 サ変名詞 2 * 0 * 0 NIL
+はいかい はいかい はいかい 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076534-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00076534-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/26 MEMO:
 * 1D
-+ 1D <rel type="=" target="形式、また" sid="wiki00076534-00-01" id="7"/>
-誹諧 誹諧 誹諧 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/>
+誹諧 はいかい 誹諧 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="俳諧" sid="wiki00076534-00-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="ト" target="誹諧" sid="wiki00076534-01" id="0"/>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076534-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000
+# S-ID:wiki00076534-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/05/26 MEMO:
 * 4D
 + 5D
 正しく ただしく 正しい 形容詞 3 * 0 イ形容詞イ段 19 基本連用形 7 NIL
@@ -68,34 +68,34 @@ EOS
 俳諧 はいかい 俳諧 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 4P <rel type="=" target="形式、また" sid="wiki00076534-00-01" id="7"/>
++ 4P <rel type="修飾" target="俳諧" sid="wiki00076534-02" id="1"/><rel type="=構" target="こと" sid="wiki00076534-00-01" id="10"/>
 連歌 れんが 連歌 名詞 6 普通名詞 1 * 0 * 0 NIL
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 4D <rel type="=" target="俳諧" sid="wiki00076534-02" id="1"/>
 俳諧 はいかい 俳諧 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="=" target="連歌" sid="wiki00076534-02" id="2"/>
++ 5D <rel type="修飾" target="俳諧" sid="wiki00076534-02" id="3"/><rel type="=" target="連歌" sid="wiki00076534-02" id="2"/><rel type="=構" mode="AND" target="こと" sid="wiki00076534-00-01" id="10"/>
 連歌 れんが 連歌 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15P
-+ 17P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="俳諧" sid="wiki00076534-00-01" id="0"/>
++ 17P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00076534-00-01" id="10"/><rel type="ト" target="連歌" sid="wiki00076534-02" id="2"/><rel type="ト" mode="AND" target="連歌" sid="wiki00076534-02" id="4"/>
 呼び よび 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ガ" target="連歌" sid="wiki00076534-02" id="7"/>
 正統の せいとうの 正統だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 7D
-+ 8D
++ 8D <rel type="修飾" target="正統の" sid="wiki00076534-02" id="6"/><rel type="=≒" target="連歌" sid="wiki00076534-02" id="2"/>
 連歌 れんが 連歌 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
-+ 10D <rel type="ガ" target="文芸" sid="wiki00076534-02" id="12"/>
+* 9P
++ 10P <rel type="ガ" target="文芸" sid="wiki00076534-02" id="12"/><rel type="カラ" target="連歌" sid="wiki00076534-02" id="7"/>
 分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 10D
-遊戯 遊戯 遊戯 名詞 6 普通名詞 1 * 0 * 0 NIL
+遊戯 ゆうぎ 遊戯 名詞 6 普通名詞 1 * 0 * 0 NIL
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -104,7 +104,7 @@ EOS
 * 15D
 + 12D
 集団 しゅうだん 集団 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ガ" target="連歌" sid="wiki00076534-02" id="4"/><rel type="=" target="形式、また" sid="wiki00076534-00-01" id="7"/>
++ 17D <rel type="修飾" target="集団" sid="wiki00076534-02" id="11"/><rel type="ガ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/>
 文芸 ぶんげい 文芸 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -120,11 +120,11 @@ EOS
 + 16D
 いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
 * 15D
-+ 17D <rel type="=" target="連歌" sid="wiki00076534-02" id="2"/>
++ 17D <rel type="トイウ" target="発句" sid="wiki00076534-02" id="13"/><rel type="トイウ" mode="AND" target="連句" sid="wiki00076534-02" id="14"/><rel type="=≒" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="=≒" mode="AND" target="形式" sid="wiki00076534-00-01" id="7"/>
 形式 けいしき 形式 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="ノ" target="形式" sid="wiki00076534-02" id="16"/><rel type="=" target="こと" sid="wiki00076534-00-01" id="10"/>
++ -1D <rel type="ガ" target="俳諧" sid="wiki00076534-00-01" id="0"/><rel type="ノ" target="形式" sid="wiki00076534-02" id="16"/><rel type="=構" target="俳諧" sid="wiki00076534-00-01" id="0"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

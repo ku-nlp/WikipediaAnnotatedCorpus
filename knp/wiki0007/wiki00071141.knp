@@ -1,18 +1,18 @@
-# S-ID:wiki00071141-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00071141-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/15 MEMO:
 * 8D
-+ 9D
++ 9D <rel type="ガ" target="不特定:人1"/>
 強盗 ごうとう 強盗 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="他人" sid="wiki00071141-00-01" id="5"/>
++ 3P <rel type="ヲ" target="他人" sid="wiki00071141-00-01" id="5"/><rel type="ガ" target="不特定:人1"/>
 脅迫 きょうはく 脅迫 名詞 6 サ変名詞 2 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D
 実力 じつりょく 実力 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="実力" sid="wiki00071141-00-01" id="2"/>
++ 4D <rel type="ヲ" target="実力" sid="wiki00071141-00-01" id="2"/><rel type="ガ" target="不特定:人1"/>
 行使 こうし 行使 名詞 6 サ変名詞 2 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -24,26 +24,26 @@
 他人 たにん 他人 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D
++ 8D <rel type="ノ？" target="他人" sid="wiki00071141-00-01" id="5"/>
 財物 ざいぶつ 財物 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D
 無理矢理 むりやり 無理矢理 副詞 8 * 0 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="財物" sid="wiki00071141-00-01" id="6"/>
++ 9D <rel type="ヲ" target="財物" sid="wiki00071141-00-01" id="6"/><rel type="ニヨッテ" target="脅迫" sid="wiki00071141-00-01" id="1"/><rel type="ニヨッテ" mode="AND" target="行使など" sid="wiki00071141-00-01" id="3"/><rel type="カラ" target="他人" sid="wiki00071141-00-01" id="5"/><rel type="外の関係" target="犯罪" sid="wiki00071141-00-01" id="9"/><rel type="ガ" target="不特定:人1"/>
 奪う うばう 奪う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="強盗" sid="wiki00071141-00-01" id="0"/><rel type="=" target="強盗" sid="wiki00071141-00-01" id="0"/>
++ -1D <rel type="ガ" target="強盗" sid="wiki00071141-00-01" id="0"/><rel type="=構" target="強盗" sid="wiki00071141-00-01" id="0"/><rel type="トイウ" target="奪う" sid="wiki00071141-00-01" id="8"/><memo text="CO"/>
 犯罪 はんざい 犯罪 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071141-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00071141-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/15 MEMO:
 * -1D
-+ -1D <rel type="=" target="強盗" sid="wiki00071141-00-01" id="0"/>
-ごうとう ごうとう ごうとうだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ -1D <rel type="=" target="強盗" sid="wiki00071141-00-01" id="0"/><rel type="ガ" target="不特定:人1"/>
+ごうとう ごうとう ごうとう 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071141-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00071141-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/15 MEMO:
 * 3D
 + 3D
 あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
@@ -51,7 +51,7 @@ EOS
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="トイウ" target="奪う" sid="wiki00071141-00-01" id="8"/><rel type="=" target="不特定:人1"/><rel type="=構" mode="AND" target="強盗" sid="wiki00071141-00-01" id="0"/>
 者 もの 者 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -59,21 +59,21 @@ EOS
 さす さす さす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071141-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00071141-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/15 MEMO:
 * 3D
-+ 3D
-刑法 けいほう 刑法 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <NE:ARTIFACT:刑法>
+刑法 けいほう 刑法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:single>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="強盗" sid="wiki00071141-00-01" id="0"/>
 処罰 しょばつ 処罰 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="処罰" sid="wiki00071141-02" id="1"/>
++ 3D <rel type="ノ" target="処罰" sid="wiki00071141-02" id="1"/><rel type="=構" target="強盗" sid="wiki00071141-00-01" id="0"/>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="強盗" sid="wiki00071141-00-01" id="0"/>
++ -1D <rel type="ガ" target="強盗" sid="wiki00071141-00-01" id="0"/><rel type="ト" target="対象" sid="wiki00071141-02" id="2"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,10 +1,10 @@
-# S-ID:wiki00076892-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00076892-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/26 MEMO:
 * 5D
 + 1D
-ニッコロ ニッコロ ニッコロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D
-マキャヴェッリ マキャヴェッリ マキャヴェッリ 名詞 6 普通名詞 1 * 0 * 0 NIL
+ニッコロ にっころ ニッコロ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 12D <NE:PERSON:ニッコロ・マキャヴェッリ>
+マキャヴェッリ まきゃゔぇっり マキャヴェッリ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -13,61 +13,55 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D
-ルネサンス るねさんす ルネサンス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="ルネサンス" sid="wiki00076892-00-01" id="3"/>
-期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL
+ルネサンス るねさんす ルネサンス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 7D <rel type="ノ" target="ルネサンス" sid="wiki00076892-00-01" id="3"/><NE:OPTIONAL:ルネサンス期><NE-OPTIONAL:DATE,NONE:0>
+期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
 + 6D
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ニカンシテ" target="政治" sid="wiki00076892-00-01" id="5"/>
 思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ノ" target="思想" sid="wiki00076892-00-01" id="6"/><rel type="=" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/>
++ 12P <rel type="ガ" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/><rel type="=構" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/><rel type="時間" target="期" sid="wiki00076892-00-01" id="4"/><rel type="ノ？" target="思想" sid="wiki00076892-00-01" id="6"/><rel type="ノ？" mode="AND" target="イタリア" sid="wiki00076892-00-01" id="2"/>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 9D <NE:ORGANIZATION:フィレンツェ>
-フィレンツェ フィレンツェ フィレンツェ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 + 10D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+フィレンツェ ふぃれんつぇ フィレンツェ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 12D <rel type="ノ？" target="イタリア" sid="wiki00076892-00-01" id="2"/><NE:LOCATION:フィレンツェ共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 12D
 外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00076892-00-01" id="10"/><rel type="=" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/>
++ -1D <rel type="ガ" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00076892-00-01" id="10"/><rel type="=構" target="マキャヴェッリ" sid="wiki00076892-00-01" id="1"/><rel type="ノ？" target="外交" sid="wiki00076892-00-01" id="11"/><memo text="CO"/>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076892-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
+# S-ID:wiki00076892-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/26 MEMO:
+* 1P
 + 1D
-1469 1469 1469 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+1469 せんよんひゃくろくじゅうく/せんよんひゃくろくじゅうきゅう 1469 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 2D
 + 2D
 5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 5D
-+ 5D <NE:DATE:1469年5月3日>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ 5P <NE:DATE:1469年5月3日>
+3 みっ 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 4D
-+ 4D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 5D
-+ 5D
-1527 1527 1527 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 6D
-+ 6D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * -1D
-+ -1D
-21 21 21 名詞 6 数詞 7 * 0 * 0 NIL
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 4D
+1527 せんごひゃくにじゅうなな/せんごひゃくにじゅうしち 1527 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <NE:DATE:1527年6月21日>
+21 にじゅういち 21 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

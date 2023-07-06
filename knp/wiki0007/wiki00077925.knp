@@ -1,44 +1,46 @@
-# S-ID:wiki00077925-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00077925-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/05/29 MEMO:
 * 7D
 + 1D
-立正 立正 立正 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+立正 りっしょう 立正 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 12D <NE:ORGANIZATION:立正大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-1580 1580 1580 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 3D <NE:DATE:1580年>
+1580 せんごひゃくはちじゅう 1580 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="飯高檀林" sid="wiki00077925-00" id="8"/><rel type="ニ" target="不特定:人"/>
++ 9D <rel type="時間" target="1580年" sid="wiki00077925-00" id="2"/><rel type="ガ" target="檀林" sid="wiki00077925-00" id="9"/><rel type="ニ" target="日蓮宗" sid="wiki00077925-00" id="4"/>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 5D
-日蓮宗 日蓮宗 日蓮宗 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 5D <NE:OPTIONAL:日蓮宗><NE-OPTIONAL:ORGANIZATION,NONE:0>
+日蓮宗 にちれんしゅう 日蓮宗 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <rel type="修飾" target="日蓮宗" sid="wiki00077925-00" id="4"/>
 僧侶 そうりょ 僧侶 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="僧侶" sid="wiki00077925-00" id="5"/>
++ 7D <rel type="ヲ" target="僧侶" sid="wiki00077925-00" id="5"/><rel type="外の関係" target="機関" sid="wiki00077925-00" id="7"/><rel type="ガ" target="日蓮宗" sid="wiki00077925-00" id="4"/>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="教育" sid="wiki00077925-00" id="6"/>
++ 9D <rel type="ノ？" target="教育" sid="wiki00077925-00" id="6"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="=" target="機関" sid="wiki00077925-00" id="7"/>
-飯高檀林 飯高檀林 飯高檀林 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D
+飯高 いいだか 飯高 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 11D <rel type="修飾" target="機関" sid="wiki00077925-00" id="7"/><rel type="=構" target="機関" sid="wiki00077925-00" id="7"/><NE:ORGANIZATION:飯高檀林>
+檀林 だんりん 檀林 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ノ" target="大学" sid="wiki00077925-00" id="11"/>
-淵源 淵源 淵源 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="大学" sid="wiki00077925-00" id="11"/><rel type="=構" target="檀林" sid="wiki00077925-00" id="9"/>
+淵源 えんげん 淵源 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="大学" sid="wiki00077925-00" id="11"/><rel type="ヲ" target="飯高檀林" sid="wiki00077925-00" id="8"/>
++ 12D <rel type="ガ" target="大学" sid="wiki00077925-00" id="11"/><rel type="ト" target="淵源" sid="wiki00077925-00" id="9"/><rel type="ヲ" target="檀林" sid="wiki00077925-00" id="9"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="大学" sid="wiki00077925-00" id="1"/><rel type="=" target="大学" sid="wiki00077925-00" id="1"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00077925-00" id="1"/><rel type="=構" target="大学" sid="wiki00077925-00" id="1"/>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

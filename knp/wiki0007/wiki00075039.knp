@@ -1,4 +1,4 @@
-# S-ID:wiki00075039-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00075039-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/05/21 MEMO:
 * 4D
 + 4D
 カジノ かじの カジノ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -9,32 +9,32 @@
 賭博 とばく 賭博 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="施設" sid="wiki00075039-00" id="3"/><rel type="ヲ" target="賭博" sid="wiki00075039-00" id="1"/>
++ 3D <rel type="ヲ" target="賭博" sid="wiki00075039-00" id="1"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="施設" sid="wiki00075039-00" id="3"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 4D
-+ 4D
++ 4D <rel type="=≒" target="カジノ" sid="wiki00075039-00" id="0"/>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="ノ" target="施設" sid="wiki00075039-00" id="3"/><rel type="=" target="カジノ" sid="wiki00075039-00" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="ノ" target="施設" sid="wiki00075039-00" id="3"/><rel type="=構" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="=構" mode="AND" target="施設" sid="wiki00075039-00" id="3"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00075039-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00075039-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/05/21 MEMO:
 * 1P
 + 2P
-ルーレット ルーレット ルーレット 名詞 6 普通名詞 1 * 0 * 0 NIL
+ルーレット るーれっと ルーレット 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
 ブラック ぶらっく ブラック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
++ 3D <rel type="修飾" target="ブラック" sid="wiki00075039-01" id="1"/>
 ジャック じゃっく ジャック 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="=≒" target="ルーレット" sid="wiki00075039-01" id="0"/><rel type="=≒" mode="AND" target="ジャック" sid="wiki00075039-01" id="2"/>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -42,23 +42,23 @@ EOS
 金銭 きんせん 金銭 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="金銭" sid="wiki00075039-01" id="4"/><rel type="ニ" target="場所" sid="wiki00075039-01" id="6"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="金銭" sid="wiki00075039-01" id="4"/><rel type="デ" target="ゲーム" sid="wiki00075039-01" id="3"/><rel type="外の関係" target="場所" sid="wiki00075039-01" id="6"/><rel type="=" target="行う" sid="wiki00075039-00" id="2"/>
 賭ける かける 賭ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="=" target="カジノ" sid="wiki00075039-00" id="0"/>
++ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="トイウ" target="賭ける" sid="wiki00075039-01" id="5"/><rel type="=構" target="カジノ" sid="wiki00075039-00" id="0"/><memo text="CO"/>
 場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00075039-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00075039-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/05/21 MEMO:
 * 1D
 + 1D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="デ" target="日本" sid="wiki00075039-02" id="0"/><rel type="ト" target="賭場" sid="wiki00075039-02" id="2"/><rel type="ヲ" target="施設" sid="wiki00075039-00" id="3"/>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="=" target="場所" sid="wiki00075039-01" id="6"/>
++ -1D <rel type="ガ" target="カジノ" sid="wiki00075039-00" id="0"/><rel type="=構" target="カジノ" sid="wiki00075039-00" id="0"/><memo text="CO"/>
 賭場 とば 賭場 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

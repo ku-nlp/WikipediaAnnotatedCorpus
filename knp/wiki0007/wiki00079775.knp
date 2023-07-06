@@ -1,10 +1,10 @@
-# S-ID:wiki00079775-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00079775-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/05/30 MEMO:
 * 7D
 + 1D
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="都市" sid="wiki00079775-00-01" id="0"/>
 計画 けいかく 計画 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 9D <rel type="ノ" target="計画" sid="wiki00079775-00-01" id="1"/><NE:ARTIFACT:都市計画法>
++ 9D <rel type="ニツイテ" target="計画" sid="wiki00079775-00-01" id="1"/><NE:ARTIFACT:都市計画法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,61 +13,55 @@
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="発展等" sid="wiki00079775-00-01" id="5"/>
++ 5D <rel type="ガ" target="発展" sid="wiki00079775-00-01" id="5"/>
 健全な けんぜんな 健全だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 5D
-+ 7D <rel type="ガ" target="都市" sid="wiki00079775-00-01" id="3"/>
++ 7D <rel type="ガ" target="都市" sid="wiki00079775-00-01" id="3"/><rel type="修飾" target="健全な" sid="wiki00079775-00-01" id="4"/>
 発展 はってん 発展 名詞 6 サ変名詞 2 * 0 * 0 NIL
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D
++ 7D <rel type="ノ" target="法律" sid="wiki00079775-00-01" id="9"/><rel type="=構" target="発展等" sid="wiki00079775-00-01" id="5"/>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="法律" sid="wiki00079775-00-01" id="9"/><rel type="ヲ" target="発展等" sid="wiki00079775-00-01" id="5"/>
++ 9D <rel type="ガ" target="法律" sid="wiki00079775-00-01" id="9"/><rel type="ヲ" target="発展等" sid="wiki00079775-00-01" id="5"/><rel type="ト" target="目的" sid="wiki00079775-00-01" id="6"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
 + 9D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00079775-00-01" id="2"/><rel type="=" target="法" sid="wiki00079775-00-01" id="2"/>
++ -1D <rel type="ガ" target="法" sid="wiki00079775-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00079775-00-01" id="8"/><rel type="=構" target="法" sid="wiki00079775-00-01" id="2"/>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079775-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00079775-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/30 MEMO:
 * 1D
-+ 1D
-と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 7P
-+ 2D <rel type="=" target="都市" sid="wiki00079775-00-01" id="3"/>
-しけい しけい しけい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="=" target="法" sid="wiki00079775-00-01" id="2"/>
-かくほう かくほう かくほう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="都市" sid="wiki00079775-00-01" id="0"/>
+とし とし とし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="とし" sid="wiki00079775-00-02" id="0"/><rel type="=" target="計画" sid="wiki00079775-00-01" id="1"/>
+けいかく けいかく けいかく 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8P <rel type="=" target="法" sid="wiki00079775-00-01" id="2"/><rel type="ニツイテ" target="けいかく" sid="wiki00079775-00-02" id="1"/><NE:ARTIFACT:としけいかくほう>
+ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 4D
-昭和 しょうわ 昭和 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-* 4D
-+ 5D
-43 43 43 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 5D
-+ 6D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 7D
-+ 8D <NE:DATE:昭和43年6月15日>
-15 15 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-* 7D
-+ 8D
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00079775-00-01" id="2"/>
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-100 100 100 名詞 6 数詞 7 * 0 * 0 NIL
-号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 4D
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 5D
+43 よんじゅうさん 43 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D
+15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="法" sid="wiki00079775-00-01" id="2"/><NE:ARTIFACT:昭和43年6月15日法律第100号>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS

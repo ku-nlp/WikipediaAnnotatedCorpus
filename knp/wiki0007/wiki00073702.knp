@@ -1,28 +1,28 @@
-# S-ID:wiki00073702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:99.00000
+# S-ID:wiki00073702-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:99.00000 MOD:2023/05/19 MEMO:
 * 12D
-+ 1D
-コールド コールド コールド 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
++ 1D <rel type="ガ" target="ゲーム" sid="wiki00073702-00-01" id="1"/>
+コールド こーるど コールド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="コールド" sid="wiki00073702-00-01" id="0"/>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3P
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-クリケット クリケット クリケット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P
+クリケット くりけっと クリケット 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 5D
 水球 すいきゅう 水球 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D
++ 6D <rel type="=≒" target="野球" sid="wiki00073702-00-01" id="2"/><rel type="=≒" mode="AND" target="クリケット" sid="wiki00073702-00-01" id="3"/><rel type="=≒" mode="AND" target="水球" sid="wiki00073702-00-01" id="4"/>
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="不特定:人"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="スポーツ" sid="wiki00073702-00-01" id="5"/>
 試合 しあい 試合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -34,7 +34,7 @@
 何らか なんらか 何らか 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D
++ 10D <rel type="修飾" target="何らか" sid="wiki00073702-00-01" id="8"/>
 理由 りゆう 理由 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -44,30 +44,31 @@
 * 10D
 + 12D <rel type="ガ" target="員" sid="wiki00073702-00-01" id="12"/><rel type="ヲ" target="試合" sid="wiki00073702-00-01" id="6"/>
 審判 しんぱん 審判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D
++ 14D <rel type="ノ" target="審判" sid="wiki00073702-00-01" id="11"/>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="試合" sid="wiki00073702-00-01" id="15"/>
 打ち切り うちきり 打ち切り 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="員" sid="wiki00073702-00-01" id="12"/><rel type="ヲ" target="打ち切り" sid="wiki00073702-00-01" id="13"/>
++ 15D <rel type="ガ" target="員" sid="wiki00073702-00-01" id="12"/><rel type="ヲ" target="打ち切り" sid="wiki00073702-00-01" id="13"/><rel type="=" target="コールド" sid="wiki00073702-00-01" id="0"/><rel type="ニオイテ" target="試合" sid="wiki00073702-00-01" id="6"/><rel type="ニヨッテ" target="理由" sid="wiki00073702-00-01" id="9"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="試合" sid="wiki00073702-00-01" id="15"/>
 命じた めいじた 命ずる 動詞 2 * 0 ザ変動詞 17 タ形 10 NIL
 * 12D
-+ 16D
++ 16D <rel type="=構" target="ゲーム" sid="wiki00073702-00-01" id="1"/><rel type="トイウ" target="命じた" sid="wiki00073702-00-01" id="14"/>
 試合 しあい 試合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ゲーム" sid="wiki00073702-00-01" id="1"/><rel type="ノ" target="試合" sid="wiki00073702-00-01" id="15"/><rel type="=" target="ゲーム" sid="wiki00073702-00-01" id="1"/>
++ -1D <rel type="ガ" target="ゲーム" sid="wiki00073702-00-01" id="1"/><rel type="ノ" target="試合" sid="wiki00073702-00-01" id="15"/><rel type="=構" target="ゲーム" sid="wiki00073702-00-01" id="1"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00073702-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00073702-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/19 MEMO:
 * -1D
-+ -1D
-called called called 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <rel type="=" target="コールド" sid="wiki00073702-00-01" id="0"/>
+called called called 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-game game game 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="ゲーム" sid="wiki00073702-00-01" id="1"/>
+game game game 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

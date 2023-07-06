@@ -1,4 +1,4 @@
-# S-ID:wiki00074671-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00074671-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/05/21 MEMO:
 * 9D
 + 9D
 ポンプ ぽんぷ ポンプ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -8,7 +8,7 @@
 圧力 あつりょく 圧力 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="圧力" sid="wiki00074671-00-01" id="1"/>
++ 3D <rel type="ガ" target="圧力" sid="wiki00074671-00-01" id="1"/><rel type="ニ" target="不特定:物"/>
 作用 さよう 作用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -23,34 +23,34 @@
 気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 7P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="液体" sid="wiki00074671-00-01" id="4"/>
++ 7P <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="作用" sid="wiki00074671-00-01" id="2"/><rel type="ヲ" target="液体" sid="wiki00074671-00-01" id="4"/><rel type="ヲ" mode="AND" target="気体" sid="wiki00074671-00-01" id="5"/><rel type="外の関係" target="ため" sid="wiki00074671-00-01" id="8"/>
 吸い すい 吸う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
 上げたり あげたり 上げる 動詞 2 * 0 母音動詞 1 タ系連用タリ形 15 NIL
 * 8D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="液体" sid="wiki00074671-00-01" id="4"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="作用" sid="wiki00074671-00-01" id="2"/><rel type="ヲ" target="液体" sid="wiki00074671-00-01" id="4"/><rel type="ヲ" mode="AND" target="気体" sid="wiki00074671-00-01" id="5"/><rel type="外の関係" target="ため" sid="wiki00074671-00-01" id="8"/>
 送ったり おくったり 送る 動詞 2 * 0 子音動詞ラ行 10 タ系連用タリ形 15 NIL
 する する する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 9D
++ 9D <rel type="ノ" target="送ったりする" sid="wiki00074671-00-01" id="7"/><rel type="ノ" mode="AND" target="吸い上げたり" sid="wiki00074671-00-01" id="6"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="=" target="ポンプ" sid="wiki00074671-00-01" id="0"/>
++ -1D <rel type="ガ" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="=構" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00074671-00-01" id="8"/><memo text="CO"/>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00074671-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00074671-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/21 MEMO:
 * -1D
 + -1D <rel type="=" target="ポンプ" sid="wiki00074671-00-01" id="0"/>
-喞筒 そくとう 喞筒 名詞 6 普通名詞 1 * 0 * 0 NIL
+喞筒 そくとう/しょくとう 喞筒 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00074671-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00074671-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/21 MEMO:
 * 1D
 + 1D <rel type="ガ" target="エネルギー" sid="wiki00074671-01" id="1"/>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 3D
-+ 4D
++ 4D <rel type="修飾" target="機械的な" sid="wiki00074671-01" id="0"/>
 エネルギー えねるぎー エネルギー 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -60,7 +60,7 @@ EOS
 差 さ 差 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="ガ" target="機械" sid="wiki00074671-01" id="11"/><rel type="ヲ" target="差" sid="wiki00074671-01" id="3"/>
++ 9P <rel type="ガ" target="機械" sid="wiki00074671-01" id="11"/><rel type="ヲ" target="差" sid="wiki00074671-01" id="3"/><rel type="デ" target="エネルギー" sid="wiki00074671-01" id="1"/>
 発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -73,43 +73,41 @@ EOS
 気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="液体" sid="wiki00074671-01" id="5"/>
++ 8D <rel type="ガ" target="液体" sid="wiki00074671-01" id="5"/><rel type="ガ" mode="AND" target="気体" sid="wiki00074671-01" id="6"/>
 運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="運動" sid="wiki00074671-01" id="7"/>
++ 9D <rel type="修飾" target="運動" sid="wiki00074671-01" id="7"/><rel type="ノ" target="液体" sid="wiki00074671-01" id="5"/><rel type="ノ" mode="AND" target="気体" sid="wiki00074671-01" id="6"/>
 エネルギー えねるぎー エネルギー 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="機械" sid="wiki00074671-01" id="11"/><rel type="ヲ" target="エネルギー" sid="wiki00074671-01" id="8"/><rel type="ニ" target="エネルギー" sid="wiki00074671-01" id="8"/>
++ 11D <rel type="ガ" target="機械" sid="wiki00074671-01" id="11"/><rel type="ニ" target="エネルギー" sid="wiki00074671-01" id="8"/><rel type="ヲ" target="差" sid="wiki00074671-01" id="3"/>
 変換 へんかん 変換 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 11D
++ 11D <rel type="=≒" target="液体" sid="wiki00074671-01" id="5"/><rel type="=≒" mode="AND" target="気体" sid="wiki00074671-01" id="6"/>
 流体 りゅうたい 流体 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="=" target="ポンプ" sid="wiki00074671-00-01" id="0"/>
++ -1D <rel type="ガ" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="=構" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="修飾" target="流体" sid="wiki00074671-01" id="10"/>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00074671-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00074671-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/21 MEMO:
 * 1D
-+ 1D <rel type="=" target="喞筒" sid="wiki00074671-00-02" id="0"/>
-喞筒 そくとう 喞筒 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=構" target="喞筒" sid="wiki00074671-00-02" id="0"/>
+喞筒 そくとう/しょくとう 喞筒 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ポンプ" sid="wiki00074671-00-01" id="0"/><rel type="ト" target="喞筒" sid="wiki00074671-02-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00074671-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1P
-+ 2P <rel type="=" target="喞筒" sid="wiki00074671-02-01" id="0"/>
-そくとう そくとう そくとう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+# S-ID:wiki00074671-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/21 MEMO:
+* 1D
++ 1D <rel type="=" target="喞筒" sid="wiki00074671-02-01" id="0"/>
+そくとう そくとう そくとう 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D
-しょく しょく しょく 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="ポンプ" sid="wiki00074671-00-01" id="0"/>
-とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="喞筒" sid="wiki00074671-02-01" id="0"/>
+しょくとう しょくとう しょくとう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

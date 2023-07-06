@@ -1,4 +1,4 @@
-# S-ID:wiki00074979-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00074979-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/21 MEMO:
 * 3D
 + 1D
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -10,25 +10,25 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 5D <rel type="=" target="内閣" sid="wiki00074979-00-01" id="0"/>
-内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="内閣" sid="wiki00074979-00-01" id="4"/><rel type="=" target="官房" sid="wiki00074979-00-01" id="1"/>
-官房 かんぼう 官房 名詞 6 普通名詞 1 * 0 * 0 NIL
+内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <rel type="ノ" target="内閣" sid="wiki00074979-00-01" id="4"/><rel type="=" target="官房" sid="wiki00074979-00-01" id="1"/><NE:OPTIONAL:内閣官房><NE-OPTIONAL:ORGANIZATION,NONE:0>
+官房 かんぼう 官房 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="長官" sid="wiki00074979-00-01" id="2"/><rel type="ノ" target="官房" sid="wiki00074979-00-01" id="5"/><rel type="=" target="長官" sid="wiki00074979-00-01" id="2"/>
++ -1D <rel type="ガ" target="長官" sid="wiki00074979-00-01" id="2"/><rel type="ノ" target="官房" sid="wiki00074979-00-01" id="5"/><rel type="=構" target="長官" sid="wiki00074979-00-01" id="2"/><memo text="CO"/>
 長官 ちょうかん 長官 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00074979-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00074979-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/21 MEMO:
 * -1D
-+ 2D <rel type="=" target="内閣" sid="wiki00074979-00-01" id="4"/>
++ 1D <rel type="=" target="内閣" sid="wiki00074979-00-01" id="0"/>
 ないかく ないかく ないかく 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="官房" sid="wiki00074979-00-01" id="5"/>
++ 2D <rel type="=" target="官房" sid="wiki00074979-00-01" id="1"/>
 かんぼう かんぼう かんぼう 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="長官" sid="wiki00074979-00-01" id="6"/>
++ -1D <rel type="=" target="長官" sid="wiki00074979-00-01" id="2"/>
 ちょうかん ちょうかん ちょうかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

@@ -1,8 +1,8 @@
-# S-ID:wiki00079296-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000
+# S-ID:wiki00079296-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2023/05/30 MEMO:
 * 13D
 + 1D
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
++ 16D <rel type="ノ？" target="感覚" sid="wiki00079296-00-01" id="0"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,27 +12,27 @@
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
++ 4D <rel type="ノ" target="動物" sid="wiki00079296-00-01" id="2"/>
 体 からだ 体 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="ガ" target="器官" sid="wiki00079296-00-01" id="5"/><rel type="ヲ" target="体" sid="wiki00079296-00-01" id="3"/>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 6D
++ 6D <rel type="=≒" target="器" sid="wiki00079296-00-01" id="1"/>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 12D
-+ 15D
+* 13D
++ 16D <rel type="ノ" target="器官" sid="wiki00079296-00-01" id="5"/>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 10D
 何らか なんらか 何らか 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
-+ 10D
+* 8P
++ 9P
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -40,78 +40,78 @@
 + 10D
 化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 11D
++ 11D <rel type="修飾" target="何らか" sid="wiki00079296-00-01" id="7"/><rel type="修飾" mode="AND" target="物理的" sid="wiki00079296-00-01" id="8"/><rel type="修飾" mode="AND" target="化学的" sid="wiki00079296-00-01" id="9"/>
 刺激 しげき 刺激 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D
++ 13D <rel type="ヲ" target="刺激" sid="wiki00079296-00-01" id="10"/><rel type="ガ" target="器" sid="wiki00079296-00-01" id="13"/>
 受け取る うけとる 受け取る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 11D
-+ 13D
++ 13D <rel type="=" target="受け取る" sid="wiki00079296-00-01" id="11"/><rel type="ガ" target="器" sid="wiki00079296-00-01" id="13"/>
 受容 じゅよう 受容 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D
++ 14D <rel type="ノ？" target="受容" sid="wiki00079296-00-01" id="12"/><rel type="修飾" target="受け取る" sid="wiki00079296-00-01" id="11"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
 + 15D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 13D
-+ 16D
++ 16D <rel type="トシテ" target="器" sid="wiki00079296-00-01" id="13"/><rel type="ガ" target="器官" sid="wiki00079296-00-01" id="16"/>
 働く はたらく 働く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="器" sid="wiki00079296-00-01" id="1"/><rel type="=構" target="器" sid="wiki00079296-00-01" id="1"/><rel type="修飾" target="うち" sid="wiki00079296-00-01" id="6"/><rel type="修飾" mode="AND" target="働く" sid="wiki00079296-00-01" id="15"/>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00079296-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/30 MEMO:
 * -1D
-+ 1D
-かんか かんか かんか 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D
-くき くき くき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
+かんかく かんかく かんかく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="器" sid="wiki00079296-00-01" id="1"/>
+き き き 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:154.00000
+# S-ID:wiki00079296-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:154.00000 MOD:2023/05/30 MEMO:
 * 2D
 + 1D
 各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="修飾" target="各" sid="wiki00079296-01" id="0"/><rel type="ノ" target="器" sid="wiki00079296-00-01" id="1"/>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="=" target="器" sid="wiki00079296-00-01" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="ノ" target="器" sid="wiki00079296-01" id="3"/><rel type="=構" target="器官" sid="wiki00079296-01" id="1"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 19P
++ 19P <rel type="ガ" target="器官" sid="wiki00079296-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="系" sid="wiki00079296-01" id="4"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D
++ 7D <rel type="ノ" target="器官" sid="wiki00079296-01" id="1"/>
 それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D
++ 10D <rel type="ガ" target="それぞれ" sid="wiki00079296-01" id="6"/><rel type="ニ" target="系" sid="wiki00079296-01" id="10"/>
 繋がる つながる 繋がる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 6D
 + 9D
 末梢 まっしょう 末梢 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
++ 10D <rel type="修飾" target="末梢" sid="wiki00079296-01" id="8"/>
 神経 しんけい 神経 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="ノ" target="神経" sid="wiki00079296-01" id="9"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 19D
++ 19D <rel type="ヲ" target="系" sid="wiki00079296-01" id="10"/><memo text="?"/>
 通し とおし 通す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 13D
++ 13D <rel type="=" target="受け取る" sid="wiki00079296-00-01" id="11"/><rel type="ガ" target="器官" sid="wiki00079296-01" id="1"/><rel type="ヲ" target="情報" sid="wiki00079296-01" id="13"/>
 受け取った うけとった 受け取る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
 * 12D
 + 19D
@@ -119,31 +119,31 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
 + 15D
-ニューロン ニューロン ニューロン 名詞 6 普通名詞 1 * 0 * 0 NIL
+ニューロン にゅーろん ニューロン 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 19D
++ 19D <rel type="ヲ" target="ニューロン" sid="wiki00079296-01" id="14"/><rel type="ガ" target="情報" sid="wiki00079296-01" id="13"/>
 介して かいして 介す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
 * 12D
 + 17D
 中枢 ちゅうすう 中枢 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D
++ 18D <rel type="修飾" target="中枢" sid="wiki00079296-01" id="16"/><rel type="=≒" target="神経" sid="wiki00079296-01" id="9"/>
 神経 しんけい 神経 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D
++ 19D <rel type="ノ" target="神経" sid="wiki00079296-01" id="17"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="情報" sid="wiki00079296-01" id="13"/><rel type="ヘ" target="系" sid="wiki00079296-01" id="18"/>
 伝え つたえ 伝える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000
+# S-ID:wiki00079296-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/05/30 MEMO:
 * 14D
-+ 1D
++ 1D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D
++ 23D <rel type="=" target="器" sid="wiki00079296-00-01" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -152,12 +152,12 @@ EOS
 光 ひかり 光 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
++ 5D <rel type="ガ" target="器" sid="wiki00079296-02" id="5"/><rel type="ニ" target="光" sid="wiki00079296-02" id="2"/>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6P
 + 5D
 視覚 しかく 視覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9P
++ 9P <rel type="ノ？" target="視覚" sid="wiki00079296-02" id="4"/><rel type="=≒" target="器" sid="wiki00079296-02" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
@@ -165,32 +165,32 @@ EOS
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D
++ 9D <rel type="ガ" target="器" sid="wiki00079296-02" id="9"/><rel type="ニ" target="音" sid="wiki00079296-02" id="6"/>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9P
 + 9D
 聴覚 ちょうかく 聴覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16P
++ 16P <rel type="ノ？" target="聴覚" sid="wiki00079296-02" id="8"/><rel type="=≒" target="器" sid="wiki00079296-02" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 11D
 化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
++ 12D <rel type="修飾" target="化学" sid="wiki00079296-02" id="10"/>
 物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D
++ 16D <rel type="ガ" target="器" sid="wiki00079296-02" id="14"/><rel type="ガ" mode="AND" target="器" sid="wiki00079296-02" id="16"/><rel type="ニ" target="物質" sid="wiki00079296-02" id="11"/>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13P
 + 14D
 嗅覚 きゅうかく 嗅覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
++ 16P <rel type="=≒" target="器" sid="wiki00079296-02" id="1"/><rel type="ノ？" target="嗅覚" sid="wiki00079296-02" id="13"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 16D
 味覚 みかく 味覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22P
++ 22P <rel type="=≒" target="器" sid="wiki00079296-02" id="1"/><rel type="ノ？" target="味覚" sid="wiki00079296-02" id="15"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
@@ -200,138 +200,138 @@ EOS
 * 12D
 + 19D
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 20D
++ 20D <rel type="修飾" target="機械" sid="wiki00079296-02" id="18"/>
 刺激 しげき 刺激 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 22D
++ 22D <rel type="ガ" target="器" sid="wiki00079296-02" id="22"/><rel type="ニ" target="温度" sid="wiki00079296-02" id="17"/><rel type="ニ" mode="AND" target="刺激" sid="wiki00079296-02" id="19"/>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 14D
 + 22D
 触覚 しょっかく 触覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D
++ 23D <rel type="=≒" target="器" sid="wiki00079296-02" id="1"/><rel type="ノ？" target="触覚" sid="wiki00079296-02" id="21"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ニ" target="器" sid="wiki00079296-02" id="1"/><rel type="ガ" target="器" sid="wiki00079296-02" id="5"/><rel type="ガ" mode="AND" target="器" sid="wiki00079296-02" id="9"/><rel type="ガ" mode="AND" target="器" sid="wiki00079296-02" id="14"/><rel type="ガ" mode="AND" target="器" sid="wiki00079296-02" id="16"/><rel type="ガ" mode="AND" target="器など" sid="wiki00079296-02" id="22"/>
 挙げ あげ 挙げる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000
+# S-ID:wiki00079296-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000 MOD:2023/05/30 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="=≒" target="動物" sid="wiki00079296-00-01" id="2"/>
 ヒト ひと ヒト 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 11D
++ 11D <rel type="ノ" target="ヒト" sid="wiki00079296-03" id="0"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="ガ" target="器" sid="wiki00079296-03" id="5"/>
 代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 10D
-+ 5D
++ 5D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="修飾" target="代表的な" sid="wiki00079296-03" id="3"/><rel type="ノ？" target="感覚" sid="wiki00079296-03" id="4"/><rel type="=≒" target="器" sid="wiki00079296-00-01" id="1"/><rel type="ノ" target="ヒト" sid="wiki00079296-03" id="0"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 7P
++ 7P <rel type="=構" target="器" sid="wiki00079296-03" id="5"/><rel type="=" mode="AND" target="器" sid="wiki00079296-02" id="5"/>
 目 め 目 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 8P
++ 8P <rel type="=構" target="器" sid="wiki00079296-03" id="5"/><rel type="=" mode="AND" target="器" sid="wiki00079296-02" id="9"/>
 耳 みみ 耳 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
-+ 9P
++ 9P <rel type="=構" target="器" sid="wiki00079296-03" id="5"/><rel type="=" mode="AND" target="器" sid="wiki00079296-02" id="14"/>
 鼻 はな 鼻 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9P
-+ 10P
++ 10P <rel type="=構" target="器" sid="wiki00079296-03" id="5"/><rel type="=" mode="AND" target="器" sid="wiki00079296-02" id="16"/>
 舌 した 舌 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 11D
++ 11D <rel type="=構" target="器" sid="wiki00079296-03" id="5"/><rel type="=" mode="AND" target="器" sid="wiki00079296-02" id="22"/>
 皮膚 ひふ 皮膚 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="目" sid="wiki00079296-03" id="6"/><rel type="ガ" mode="AND" target="耳" sid="wiki00079296-03" id="7"/><rel type="ガ" mode="AND" target="鼻" sid="wiki00079296-03" id="8"/><rel type="ガ" mode="AND" target="舌" sid="wiki00079296-03" id="9"/><rel type="ガ" mode="AND" target="皮膚など" sid="wiki00079296-03" id="10"/><rel type="ニ" target="器" sid="wiki00079296-03" id="5"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00079296-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/30 MEMO:
 * 9D
 + 10D
 また また また 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
++ 2D <rel type="=" target="動物" sid="wiki00079296-00-01" id="2"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ノ" target="動物" sid="wiki00079296-04" id="1"/>
 種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 10D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 5D
-+ 6D
++ 6D <rel type="ガ" target="器" sid="wiki00079296-04" id="6"/><rel type="ニ" target="種類" sid="wiki00079296-04" id="2"/>
 独自の どくじの 独自だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 7D
-+ 6D
++ 6D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="ノ？" target="感覚" sid="wiki00079296-04" id="5"/><rel type="=≒" target="器" sid="wiki00079296-00-01" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D
 様々に さまざまに 様々だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
 * 8D
-+ 9D
++ 9D <rel type="ガ" target="器" sid="wiki00079296-04" id="6"/><rel type="外の関係" target="場合" sid="wiki00079296-04" id="9"/>
 発達 はったつ 発達 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 9D
-+ 10D
++ 10D <rel type="トイウ" target="発達している" sid="wiki00079296-04" id="8"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ニヨッテ" target="種類" sid="wiki00079296-04" id="2"/><rel type="ガ" target="場合" sid="wiki00079296-04" id="9"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00079296-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/30 MEMO:
 * 1D
 + 2D
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
-+ 2D
+* 2D
++ 2D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
++ 3D <rel type="=" target="器" sid="wiki00079296-00-01" id="1"/><rel type="修飾" target="これら" sid="wiki00079296-05" id="0"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D
++ 12D <rel type="ヲ" target="器" sid="wiki00079296-05" id="2"/><rel type="ガ" target="不特定:人"/>
 まとめて まとめて まとめる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
 * 4D
-+ 5D
++ 5D <rel type="=" target="感覚" sid="wiki00079296-01" id="2"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="=" target="器" sid="wiki00079296-01" id="3"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="=" target="系" sid="wiki00079296-01" id="4"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -339,41 +339,41 @@ EOS
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 6D
 + 10D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
+1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D
++ 10D <rel type="=" target="器官" sid="wiki00079296-00-01" id="5"/>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="ノ" target="器官" sid="wiki00079296-05" id="9"/><rel type="修飾" target="1つ" sid="wiki00079296-05" id="8"/><rel type="トイウ" target="系" sid="wiki00079296-05" id="6"/><rel type="=構" target="1つ" sid="wiki00079296-05" id="8"/><rel type="=構" mode="AND" target="系" sid="wiki00079296-05" id="6"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 12D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 9D
-+ 13D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="器" sid="wiki00079296-05" id="2"/><rel type="トシテ" target="系" sid="wiki00079296-05" id="10"/><rel type="外の関係" target="場合" sid="wiki00079296-05" id="13"/>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 10D
-+ 14D
++ 14D <rel type="トイウ" target="扱う" sid="wiki00079296-05" id="12"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="場合" sid="wiki00079296-05" id="13"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00079296-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00079296-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/05/30 MEMO:
 * 1P
 + 1D
 生理 せいり 生理 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P
++ 3P <rel type="修飾" target="生理" sid="wiki00079296-06" id="0"/>
 作用 さよう 作用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D
 知覚 ちかく 知覚 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="修飾" target="知覚" sid="wiki00079296-06" id="2"/>
 作用 さよう 作用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -381,43 +381,43 @@ EOS
 統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 4D
-+ 6D
++ 6D <rel type="ヲ" target="作用" sid="wiki00079296-06" id="1"/><rel type="ヲ" mode="AND" target="作用" sid="wiki00079296-06" id="3"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="場合" sid="wiki00079296-06" id="6"/>
 考察 こうさつ 考察 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 11D
-+ 15D
++ 15D <rel type="トイウ" target="考察する" sid="wiki00079296-06" id="5"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 8D
++ 8D <rel type="=" target="感覚" sid="wiki00079296-00-01" id="0"/>
 感覚 かんかく 感覚 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11P
++ 11P <rel type="=" target="器" sid="wiki00079296-00-01" id="1"/>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 11D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 9D
-+ 11D
++ 11D <rel type="=" target="知覚" sid="wiki00079296-06" id="2"/>
 知覚 ちかく 知覚 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D
++ 13D <rel type="修飾" target="知覚" sid="wiki00079296-06" id="10"/><rel type="ガ" target="器" sid="wiki00079296-06" id="8"/><rel type="=≒" target="作用" sid="wiki00079296-06" id="3"/>
 作用 さよう 作用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D
-感官 感官 感官 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="=構≒" target="器" sid="wiki00079296-06" id="8"/><rel type="=構≒" mode="AND" target="作用" sid="wiki00079296-06" id="11"/>
+感官 かんかん 感官 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D
++ 14D <rel type="外の関係" target="場合" sid="wiki00079296-06" id="14"/><rel type="ト" target="感官" sid="wiki00079296-06" id="12"/><rel type="ヲ" target="器" sid="wiki00079296-06" id="8"/><rel type="ヲ" mode="AND" target="作用" sid="wiki00079296-06" id="11"/>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * 11D
-+ 15D
++ 15D <rel type="トイウ" target="呼ぶ" sid="wiki00079296-06" id="13"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="場合" sid="wiki00079296-06" id="14"/><rel type="時間" target="場合" sid="wiki00079296-06" id="6"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

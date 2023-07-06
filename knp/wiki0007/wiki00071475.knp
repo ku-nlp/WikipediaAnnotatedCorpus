@@ -1,150 +1,148 @@
-# S-ID:wiki00071475-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00071475-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/16 MEMO:
 * 2D
-+ 1D
-イタリック イタリック イタリック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
++ 1D <NE:OPTIONAL:イタリック><NE-OPTIONAL:LOCATION,NONE:0>
+イタリック いたりっく イタリック 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="イタリック" sid="wiki00071475-00-01" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D <rel type="ノ" target="語" sid="wiki00071475-00-01" id="1"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:インド>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4P <NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 8D <rel type="ノ" target="ヨーロッパ" sid="wiki00071475-00-01" id="4"/>
++ 5D <NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="ノ？" target="ヨーロッパ" sid="wiki00071475-00-01" id="4"/><rel type="ノ？" mode="AND" target="インド" sid="wiki00071475-00-01" id="3"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D
++ 8D
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
 + 8D
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="派" sid="wiki00071475-00-01" id="2"/><rel type="ノ" target="語" sid="wiki00071475-00-01" id="7"/><rel type="=" target="派" sid="wiki00071475-00-01" id="2"/>
++ -1D <rel type="ガ" target="派" sid="wiki00071475-00-01" id="2"/><rel type="ノ" target="語" sid="wiki00071475-00-01" id="7"/><rel type="=構" target="派" sid="wiki00071475-00-01" id="2"/><rel type="ノ？" target="語族" sid="wiki00071475-00-01" id="5"/><rel type="修飾" target="一" sid="wiki00071475-00-01" id="6"/><memo text="CO"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00071475-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/16 MEMO:
 * -1D
-+ 1D <rel type="=" target="イタリック" sid="wiki00071475-00-01" id="0"/>
-イタリック イタリック イタリック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="派" sid="wiki00071475-00-01" id="8"/>
++ 1D <rel type="=" target="イタリック" sid="wiki00071475-00-01" id="0"/><NE:OPTIONAL:イタリック><NE-OPTIONAL:LOCATION,NONE:0>
+イタリック いたりっく イタリック 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="=" target="語" sid="wiki00071475-00-01" id="1"/>
 ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="派" sid="wiki00071475-00-01" id="2"/>
+は は は 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00071475-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/04/27 MEMO:
 * 1D
-+ 1D
-ケントゥム ケントゥム ケントゥム 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
++ 1D <memo text="地名由来ではない。"/><NE:OPTIONAL:ケントゥム><NE-OPTIONAL:ARTIFACT,NONE:0>
+ケントゥム けんとぅむ ケントゥム 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="ケントゥム" sid="wiki00071475-01" id="0"/><memo text="ケントゥム語とサテム語は、インド・ヨーロッパ語族に属する言語の、音変化による分類"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ご" sid="wiki00071475-00-02" id="1"/><rel type="ニ" target="語" sid="wiki00071475-01" id="1"/>
++ -1D <rel type="ニ" target="語" sid="wiki00071475-01" id="1"/><rel type="ガ" target="派" sid="wiki00071475-00-01" id="2"/>
 属す ぞくす 属す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00071475-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/04/27 MEMO:
 * 1P
-+ 1D
-オスク オスク オスク 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <NE:OPTIONAL:オスク><NE-OPTIONAL:LOCATION,NONE:0>
+オスク おすく オスク 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-ウンブリア ウンブリア ウンブリア 名詞 6 地名 4 * 0 * 0 NIL
-+ 3D
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6P <rel type="ノ" target="語" sid="wiki00071475-02" id="2"/>
-群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <NE:OPTIONAL:ウンブリア><NE-OPTIONAL:LOCATION,NONE:0>
+ウンブリア うんぶりあ ウンブリア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5P <rel type="ノ？" target="オスク" sid="wiki00071475-02" id="0"/><rel type="ノ？" mode="AND" target="ウンブリア" sid="wiki00071475-02" id="1"/>
+語群 ごぐん 語群 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 5D
-ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:PERSON:head>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6D <NE:PERSON:ラテン・ファリスク>
-ファリスク ファリスク ファリスク 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:PERSON:tail>
-+ 7D
++ 4P <NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,NONE:0>
+ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 5D <memo text="地名「ファレリイ」から"/><NE:OPTIONAL:ファリスク><NE-OPTIONAL:LOCATION,NONE:0>
+ファリスク ふぁりすく ファリスク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6D <rel type="ノ？" target="ラテン" sid="wiki00071475-02" id="3"/><rel type="ノ？" mode="AND" target="ファリスク" sid="wiki00071475-02" id="4"/>
 語群 ごぐん 語群 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ご" sid="wiki00071475-00-02" id="1"/><rel type="ニ" target="語群" sid="wiki00071475-02" id="6"/>
++ -1D <rel type="ガ" target="派" sid="wiki00071475-00-01" id="2"/><rel type="ニ" target="語群" sid="wiki00071475-02" id="5"/><rel type="ニ" mode="AND" target="語群" sid="wiki00071475-02" id="2"/><rel type="ニ" mode="AND" target="不特定:人"/>
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
-* 1D
+# S-ID:wiki00071475-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/16 MEMO:
+* 6D
 + 1D
-紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-* 7D
-+ 3D
-1000 1000 1000 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-〜 〜 〜 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D
-500 500 500 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-頃 ころ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 3D <rel type="ノ" target="紀元" sid="wiki00071475-03" id="0"/>
+前 ぜん 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ 3D <rel type="修飾" target="前" sid="wiki00071475-03" id="1"/><NE:DATE:紀元前1000年>
+1000 せん 1000 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+〜 から/ないし 〜 特殊 1 記号 5 * 0 * 0 NIL
++ 12D <rel type="修飾" target="前" sid="wiki00071475-03" id="1"/><NE:DATE:500年>
+500 ごひゃく 500 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+頃 ころ/ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 7D
+* 2D
++ 7D <rel type="ノ" target="派" sid="wiki00071475-00-01" id="2"/>
 他 た 他 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
-+ 7D
+* 3D
++ 7P <rel type="修飾" target="他" sid="wiki00071475-03" id="4"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 7D
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="語" sid="wiki00071475-03" id="6"/>
++ 8D <rel type="ノ" target="語" sid="wiki00071475-03" id="6"/><rel type="修飾" target="他" sid="wiki00071475-03" id="4"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 7D
-+ 12D
+* 6D
++ 12D <rel type="ノ？" target="派" sid="wiki00071475-03" id="7"/><rel type="ノ？" mode="AND" target="語族" sid="wiki00071475-03" id="5"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
-* 6D
-+ 11D
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL
+* 5D
++ 11D <rel type="=≒" target="500年" sid="wiki00071475-03" id="3"/><rel type="=≒" mode="AND" target="1000年" sid="wiki00071475-03" id="2"/><NE:OPTIONAL:古代><NE-OPTIONAL:DATE,NONE:0>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 7D
-+ 11D
+* 6D
++ 11D <rel type="時間" target="古代" sid="wiki00071475-03" id="9"/>
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 12D <NE:LOCATION:イタリア半島>
++ 12D <rel type="時間" target="古代" sid="wiki00071475-03" id="9"/><NE:LOCATION:イタリア半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
-+ 18D <rel type="ガ" target="ご" sid="wiki00071475-00-02" id="1"/><rel type="ニ" target="不特定:人"/>
+* 7D
++ 18D <rel type="ニ" target="不特定:人"/><rel type="デ" target="半島" sid="wiki00071475-03" id="11"/><rel type="ガ" target="派" sid="wiki00071475-00-01" id="2"/><rel type="ガ" mode="AND" target="言語" sid="wiki00071475-03" id="8"/><rel type="時間" target="500年頃" sid="wiki00071475-03" id="3"/><rel type="時間" mode="OR" target="1000年" sid="wiki00071475-03" id="2"/>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
-* 9D
-+ 14D
-（→ （→ （→ 特殊 1 記号 5 * 0 * 0 NIL
-+ 15D
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL
 * -1D
-+ 16D <NE:LOCATION:イタリア>
-イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 17D <rel type="ノ" target="イタリア" sid="wiki00071475-03" id="15"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 18D
-諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ご" sid="wiki00071475-00-02" id="1"/><rel type="ノ" target="地域" sid="wiki00071475-03" id="16"/><rel type="=" target="派" sid="wiki00071475-00-01" id="8"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
+→ → → 特殊 1 記号 5 * 0 * 0 NIL
++ 16D <rel type="=" target="古代" sid="wiki00071475-03" id="9"/>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 16D <rel type="時間" target="古代" sid="wiki00071475-03" id="14"/><rel type="=" target="イタリア" sid="wiki00071475-03" id="10"/>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 18D <rel type="ノ" target="イタリア" sid="wiki00071475-03" id="15"/><rel type="=≒" target="半島" sid="wiki00071475-03" id="11"/><rel type="時間" target="古代" sid="wiki00071475-03" id="14"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 18D
+諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ノ？" target="地域" sid="wiki00071475-03" id="16"/><rel type="=≒" target="派" sid="wiki00071475-00-01" id="2"/><rel type="修飾" target="諸" sid="wiki00071475-03" id="17"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="言語" sid="wiki00071475-03" id="18"/><memo text="「古代イタリア地域諸言語」のページを参照せよ　との意"/><NE:OPTIONAL:古代イタリア地域諸言語><NE-OPTIONAL:ARTIFACT,NONE:0>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00071475-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/06/16 MEMO:
 * 1D
-+ 1D
-イタリック イタリック イタリック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
++ 1D <rel type="=" target="イタリック" sid="wiki00071475-00-01" id="0"/><NE:OPTIONAL:イタリック><NE-OPTIONAL:LOCATION,NONE:0>
+イタリック いたりっく イタリック 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="=" target="語" sid="wiki00071475-00-01" id="1"/><rel type="ノ？" target="イタリック" sid="wiki00071475-04" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="=" target="派" sid="wiki00071475-00-01" id="2"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -153,43 +151,43 @@ EOS
 + 5D <rel type="ガ" target="部族" sid="wiki00071475-04" id="5"/><rel type="ヲ" target="派" sid="wiki00071475-04" id="2"/>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 3D
-+ 5D <rel type="=" target="古代" sid="wiki00071475-03" id="9"/>
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 5D <rel type="=" target="古代" sid="wiki00071475-03" id="9"/><NE:OPTIONAL:古代><NE-OPTIONAL:LOCATION,NONE:0>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D
++ 8D <rel type="時間" target="古代" sid="wiki00071475-04" id="4"/>
 部族 ぶぞく 部族 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="=" target="イタリア" sid="wiki00071475-03" id="15"/>
-イタリック イタリック イタリック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="=" target="部族" sid="wiki00071475-04" id="5"/>
++ 7D <rel type="=" target="イタリック" sid="wiki00071475-04" id="0"/><NE:OPTIONAL:イタリック><NE-OPTIONAL:LOCATION,NONE:0>
+イタリック いたりっく イタリック 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="ノ？" target="イタリック" sid="wiki00071475-04" id="6"/><rel type="=構" target="部族" sid="wiki00071475-04" id="5"/>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="部族" sid="wiki00071475-04" id="5"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="部族" sid="wiki00071475-04" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="人" sid="wiki00071475-04" id="7"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00071475-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00071475-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/06/16 MEMO:
 * 1D
-+ 1D <rel type="=" target="古代" sid="wiki00071475-03" id="14"/>
-古 いにしえ 古 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="イタリア" sid="wiki00071475-03" id="15"/><NE:LOCATION:イタリア>
-イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D
++ 1D <rel type="=≒" target="古代" sid="wiki00071475-03" id="14"/>
+古 こ 古 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="=" target="イタリア" sid="wiki00071475-03" id="15"/><rel type="修飾" target="古" sid="wiki00071475-05" id="0"/><NE:OPTIONAL:古イタリア><NE-OPTIONAL:LOCATION,NONE:0>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="ノ？" target="イタリア" sid="wiki00071475-05" id="1"/>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="部族" sid="wiki00071475-04" id="5"/><rel type="ヲ" target="文字" sid="wiki00071475-05" id="2"/>
++ 4D <rel type="ガ" target="部族" sid="wiki00071475-04" id="5"/><rel type="ヲ" target="文字" sid="wiki00071475-05" id="2"/><rel type="外の関係" target="こと" sid="wiki00071475-05" id="4"/>
 使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 3D
-+ 5D
++ 5D <rel type="トイウ" target="使う" sid="wiki00071475-05" id="3"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="こと" sid="wiki00071475-05" id="4"/><rel type="ガ２" target="部族" sid="wiki00071475-04" id="5"/>
++ -1D <rel type="ガ" target="こと" sid="wiki00071475-05" id="4"/>
 多かった おおかった 多い 形容詞 3 * 0 イ形容詞アウオ段 18 タ形 8 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

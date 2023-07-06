@@ -1,4 +1,4 @@
-# S-ID:wiki00072646-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000
+# S-ID:wiki00072646-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:117.00000 MOD:2023/06/20 MEMO:
 * 9D
 + 10D
 史料 しりょう 史料 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -9,7 +9,7 @@
 過去 かこ 過去 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="時間" target="過去" sid="wiki00072646-00-01" id="1"/><rel type="ガ" target="事象" sid="wiki00072646-00-01" id="3"/>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
@@ -17,7 +17,7 @@
 事象 じしょう 事象 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 6P
++ 6P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="事象" sid="wiki00072646-00-01" id="3"/><rel type="外の関係" target="の" sid="wiki00072646-00-01" id="7"/>
 把握 はあく 把握 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 6D
@@ -25,29 +25,29 @@
 筋道 すじみち 筋道 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 7D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="筋道" sid="wiki00072646-00-01" id="5"/><rel type="ニ" target="事象" sid="wiki00072646-00-01" id="3"/><rel type="外の関係" target="の" sid="wiki00072646-00-01" id="7"/>
 立てる たてる 立てる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
-+ 8D
++ 8D <rel type="トイウ" target="立てる" sid="wiki00072646-00-01" id="6"/><rel type="トイウ" mode="AND" target="把握し" sid="wiki00072646-00-01" id="4"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 9D
++ 9D <rel type="ガ" target="材料" sid="wiki00072646-00-01" id="9"/><rel type="ニ" target="の" sid="wiki00072646-00-01" id="7"/>
 役立つ やくだつ 役立つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 9D
-+ 10D
++ 10D <rel type="=構" target="史料" sid="wiki00072646-00-01" id="0"/>
 材料 ざいりょう 材料 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="史料" sid="wiki00072646-00-01" id="0"/><rel type="ヲ" target="材料" sid="wiki00072646-00-01" id="9"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072646-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00072646-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/15 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="史料" sid="wiki00072646-00-01" id="0"/>
 しりょう しりょう しりょう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072646-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00072646-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/20 MEMO:
 * 2D
 + 2D
 紙 かみ 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -57,7 +57,7 @@ EOS
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
++ 3D <rel type="ガ" target="文献" sid="wiki00072646-01" id="3"/><rel type="デ" target="文字" sid="wiki00072646-01" id="1"/><rel type="ニ" target="紙" sid="wiki00072646-01" id="0"/><rel type="ニ" mode="AND" target="不特定:人"/>
 書き記さ かきしるさ 書き記す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5P
@@ -68,78 +68,78 @@ EOS
 * 5D
 + 5D
 考古 こうこ 考古 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="ノ？" target="考古" sid="wiki00072646-01" id="4"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6P
-+ 7D
+* 11P
++ 8P <rel type="修飾" target="学上" sid="wiki00072646-01" id="5"/><rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
 遺構 いこう 遺構 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 8D
++ 8P <rel type="修飾" target="学上" sid="wiki00072646-01" id="5"/><rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
 遺物 いぶつ 遺物 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10P
++ 16P <rel type="修飾" target="学上" sid="wiki00072646-01" id="5"/><rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
 遺跡 いせき 遺跡 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
 + 10D
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="修飾" target="イメージ" sid="wiki00072646-01" id="9"/><rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
 史料 しりょう 史料 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
-+ 16D
+* 9D
++ 13D <rel type="ガ" target="絵画" sid="wiki00072646-01" id="12"/><rel type="ガ" mode="AND" target="写真" sid="wiki00072646-01" id="13"/><rel type="ト" target="史料" sid="wiki00072646-01" id="10"/><memo text="ガ格、伝承まで含む？"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 9P
-+ 13P
++ 13P <rel type="=構" target="史料" sid="wiki00072646-01" id="10"/>
 絵画 かいが 絵画 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 10P
-+ 15P
+* 11P
++ 16P <rel type="=構" target="史料" sid="wiki00072646-01" id="10"/>
 写真 しゃしん 写真 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
 + 15D
-オーラル オーラル オーラル 名詞 6 普通名詞 1 * 0 * 0 NIL
+オーラル おーらる オーラル 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16P <NE:ORGANIZATION:ヒストリー>
-ヒストリー ヒストリー ヒストリー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 16P <rel type="修飾" target="オーラル" sid="wiki00072646-01" id="14"/><rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
+ヒストリー ひすとりー ヒストリー 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 17D
++ 17D <rel type="=≒" target="史料" sid="wiki00072646-00-01" id="0"/>
 伝承 でんしょう 伝承 名詞 6 サ変名詞 2 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="史料" sid="wiki00072646-00-01" id="0"/><rel type="ヲ" target="文献" sid="wiki00072646-01" id="3"/><rel type="ヲ" mode="AND" target="遺構" sid="wiki00072646-01" id="6"/><rel type="ヲ" mode="AND" target="遺物" sid="wiki00072646-01" id="7"/><rel type="ヲ" mode="AND" target="遺跡" sid="wiki00072646-01" id="8"/><rel type="ヲ" mode="AND" target="絵画" sid="wiki00072646-01" id="12"/><rel type="ヲ" mode="AND" target="写真" sid="wiki00072646-01" id="13"/><rel type="ヲ" mode="AND" target="ヒストリー" sid="wiki00072646-01" id="15"/><rel type="ヲ" mode="AND" target="伝承など" sid="wiki00072646-01" id="16"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072646-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00072646-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/20 MEMO:
 * 2D
 + 1D
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="ノ？" target="歴史" sid="wiki00072646-02-01" id="0"/>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D
++ 4D <rel type="=" target="歴史" sid="wiki00072646-02-01" id="0"/>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
++ 4D <rel type="ガ" target="家" sid="wiki00072646-02-01" id="1"/><rel type="ヲ" target="歴史" sid="wiki00072646-02-01" id="2"/><rel type="外の関係" target="際" sid="wiki00072646-02-01" id="5"/>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
++ 5D <rel type="ガ" target="家" sid="wiki00072646-02-01" id="1"/><rel type="ヲ" target="歴史" sid="wiki00072646-02-01" id="2"/><rel type="外の関係" target="際" sid="wiki00072646-02-01" id="5"/>
 記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 6D
++ 6D <rel type="ノ" target="記述する" sid="wiki00072646-02-01" id="4"/><rel type="ノ" mode="AND" target="研究" sid="wiki00072646-02-01" id="3"/>
 際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D
++ 8D <rel type="時間" target="際" sid="wiki00072646-02-01" id="5"/><rel type="ガ" target="家" sid="wiki00072646-02-01" id="1"/><rel type="ヲ" target="もの" sid="wiki00072646-02-01" id="8"/>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 6D
 + 8D
@@ -149,18 +149,18 @@ EOS
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="もの" sid="wiki00072646-02-01" id="8"/><rel type="=構" target="もの" sid="wiki00072646-02-01" id="8"/><rel type="=" mode="AND" target="史料" sid="wiki00072646-00-01" id="0"/>
 史料 しりょう 史料 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072646-02-02 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000
+# S-ID:wiki00072646-02-02 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2023/06/20 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="=" target="紙" sid="wiki00072646-01" id="0"/>
 紙 かみ 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D
++ 8D <rel type="ノ" target="紙" sid="wiki00072646-02-02" id="0"/>
 代わり かわり 代わり 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -168,70 +168,68 @@ EOS
 古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 4D
++ 4P <rel type="=" target="代わり" sid="wiki00072646-02-02" id="1"/>
 木簡 もっかん 木簡 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6P
++ 6P <rel type="=" target="代わり" sid="wiki00072646-02-02" id="1"/>
 竹簡 ちくかん 竹簡 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
 + 6D
 粘土 ねんど 粘土 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P
-板 いた 板 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="修飾" target="粘土" sid="wiki00072646-02-02" id="5"/><rel type="=" target="代わり" sid="wiki00072646-02-02" id="1"/>
+板 ばん 板 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D
++ 8D <rel type="=" target="代わり" sid="wiki00072646-02-02" id="1"/>
 石板 せきばん 石板 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
-* 15D
-+ 19D
+* 14D
++ 18D <rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="木簡" sid="wiki00072646-02-02" id="3"/><rel type="ニ" mode="AND" target="竹簡" sid="wiki00072646-02-02" id="4"/><rel type="ニ" mode="AND" target="板" sid="wiki00072646-02-02" id="6"/><rel type="ニ" mode="AND" target="石板など" sid="wiki00072646-02-02" id="7"/><rel type="=≒" target="書き記された" sid="wiki00072646-01" id="2"/><rel type="ガ" target="史料" sid="wiki00072646-00-01" id="0"/>
 書か かか 書く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 15D
-+ 19D
+* 13D
++ 16D <rel type="=≒" target="木簡" sid="wiki00072646-02-02" id="3"/><rel type="=≒" mode="AND" target="竹簡" sid="wiki00072646-02-02" id="4"/><rel type="=≒" mode="AND" target="板" sid="wiki00072646-02-02" id="6"/><rel type="=≒" mode="AND" target="石板" sid="wiki00072646-02-02" id="7"/>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 12D
-伝世品 伝世品 伝世品 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="=構" target="これら" sid="wiki00072646-02-02" id="9"/>
+伝世品 でんせいひん 伝世品 名詞 6 普通名詞 1 * 0 * 0 NIL
 であれば であれば だ 判定詞 4 * 0 判定詞 25 デアル列基本条件形 19 NIL
 * 10D
-+ 12D
++ 12D <rel type="=構" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="=≒" mode="AND" target="文献" sid="wiki00072646-01" id="3"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 文献 ぶんけん 文献 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 16P
++ 16P <rel type="ガ" target="不特定:人"/><rel type="ト" target="文献" sid="wiki00072646-02-02" id="11"/><rel type="ヲ" target="これら" sid="wiki00072646-02-02" id="9"/>
 言い いい 言う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 14D
++ 14D <rel type="ガ" target="品" sid="wiki00072646-02-02" id="14"/>
 出土 しゅつど 出土 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15D
++ 15D <rel type="ガ" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="=構" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="修飾" target="出土" sid="wiki00072646-02-02" id="13"/>
 品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL
 なら なら なら 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13D
-+ 16D
++ 16D <rel type="=構" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="=" mode="AND" target="遺物" sid="wiki00072646-01" id="7"/>
 遺物 いぶつ 遺物 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 18P
++ 17D <rel type="ガ" target="不特定:人"/><rel type="ト" target="遺物" sid="wiki00072646-02-02" id="15"/><rel type="ヲ" target="これら" sid="wiki00072646-02-02" id="9"/><rel type="外の関係" target="の" sid="wiki00072646-02-02" id="17"/>
 言い いい 言う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
-* 15D
-+ 18D
 わける わける わける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
-+ 19D
++ 18D <rel type="トイウ" target="言いわける" sid="wiki00072646-02-02" id="16"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D
++ -1D <rel type="ガ" target="の" sid="wiki00072646-02-02" id="17"/>
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 的である てきである 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 デアル列基本形 17 NIL
 EOS

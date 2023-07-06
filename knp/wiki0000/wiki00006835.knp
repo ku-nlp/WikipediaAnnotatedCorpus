@@ -1,100 +1,100 @@
 # S-ID:wiki00006835-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 7D
-+ 1D
-B B B 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D
-z z z 特殊 1 記号 5 * 0 * 0 NIL
++ 1D <体言>
+B B B 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+' ' ' 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言>
+z z z 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <NE:PERSON:ギタリスト>
-ギタリスト ギタリスト ギタリスト 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 5D <体言><NE:PERSON:ギタリスト>
+ギタリスト ギタリスト ギタリスト 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 5D
-松本 まつもと 松本 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 8P <rel type="=" target="ギタリスト" sid="wiki00006835-00-01" id="3"/><NE:PERSON:松本孝弘>
-孝弘 たかひろ 孝弘 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 5D <体言>
+松本 まつもと 松本 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 8P <rel type="=" target="ギタリスト" sid="wiki00006835-00-01" id="3"/><体言><NE:PERSON:松本孝弘>
+孝弘 たかひろ 孝弘 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D
-ボーカリスト ボーカリスト ボーカリスト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+ボーカリスト ボーカリスト ボーカリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D
-稲葉 いなば 稲葉 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 9D <rel type="=" target="ボーカリスト" sid="wiki00006835-00-01" id="6"/><NE:PERSON:稲葉浩志>
-浩志 こうじ 浩志 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言>
+稲葉 いなば 稲葉 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 9D <rel type="=" target="ボーカリスト" sid="wiki00006835-00-01" id="6"/><体言><NE:PERSON:稲葉浩志>
+浩志 こうじ 浩志 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="ガ" target="ユニット" sid="wiki00006835-00-01" id="12"/>
-なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 12D <rel type="ガ" target="ユニット" sid="wiki00006835-00-01" id="12"/><用言:動><時制:非過去><節-主辞>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 12D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 12D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 12D
-ロック ろっく ロック 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="zは、" sid="wiki00006835-00-01" id="2"/><rel type="=" target="zは、" sid="wiki00006835-00-01" id="2"/>
-ユニット ゆにっと ユニット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><非用言格解析:動>
+ロック ろっく ロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="zは、" sid="wiki00006835-00-01" id="2"/><rel type="=" target="zは、" sid="wiki00006835-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ユニット ゆにっと ユニット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006835-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="ユニット" sid="wiki00006835-00-01" id="12"/>
-ビーズ びーず ビーズ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ユニット" sid="wiki00006835-00-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ビーズ びーず ビーズ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00006835-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D <rel type="ガ" target="所" sid="wiki00006835-01" id="2"/><rel type="ニ" target="zは、" sid="wiki00006835-00-01" id="2"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="所" sid="wiki00006835-01" id="2"/><rel type="ニ" target="zは、" sid="wiki00006835-00-01" id="2"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="所" sid="wiki00006835-01" id="2"/><rel type="=" target="所" sid="wiki00006835-01" id="2"/>
-VERMILLION VERMILLION VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="所" sid="wiki00006835-01" id="2"/><rel type="=" target="所" sid="wiki00006835-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+VERMILLION VERMILLION VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006835-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D <rel type="ガ" target="レーベル" sid="wiki00006835-02" id="1"/><rel type="ニ" target="zは、" sid="wiki00006835-00-01" id="2"/><rel type="=" target="所属" sid="wiki00006835-01" id="0"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="レーベル" sid="wiki00006835-02" id="1"/><rel type="ニ" target="zは、" sid="wiki00006835-00-01" id="2"/><rel type="=" target="所属" sid="wiki00006835-01" id="0"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D
-VERMILLION VERMILLION VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+VERMILLION VERMILLION VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 RECORDS RECORDS RECORDS 名詞 6 組織名 6 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00006835-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D
-公式 こうしき 公式 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="zは、" sid="wiki00006835-00-01" id="2"/>
-ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="ファン" sid="wiki00006835-03" id="1"/>
-クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+公式 こうしき 公式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="zは、" sid="wiki00006835-00-01" id="2"/><体言>
+ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="ファン" sid="wiki00006835-03" id="1"/><体言>
+クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 4D
++ 4D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-B B B 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
-' ' ' 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="ユニット" sid="wiki00006835-00-01" id="12"/>
-z z z 特殊 1 記号 5 * 0 * 0 NIL
+B B B 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+' ' ' 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=" target="ユニット" sid="wiki00006835-00-01" id="12"/><体言>
+z z z 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="クラブ" sid="wiki00006835-03" id="2"/><rel type="=" target="クラブ" sid="wiki00006835-03" id="2"/>
-Party Party Party 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="クラブ" sid="wiki00006835-03" id="2"/><rel type="=" target="クラブ" sid="wiki00006835-03" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+Party Party Party 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

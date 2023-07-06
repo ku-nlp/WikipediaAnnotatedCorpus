@@ -1,40 +1,40 @@
 # S-ID:wiki00621721-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
 * 3D
-+ 1D
-解剖 かいぼう 解剖 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D <rel type="ヲ" target="不特定:物"/>
-治療 ちりょう 治療 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 3D
-化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="化学" sid="wiki00621721-00-01" id="2"/>
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <rel type="ノ" target="分類" sid="wiki00621721-00-01" id="3"/><NE:ARTIFACT:解剖治療化学分類法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言><非用言格解析:動>
+解剖 かいぼう 解剖 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+治療 ちりょう 治療 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 3D <体言>
+化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="化学" sid="wiki00621721-00-01" id="2"/><体言><非用言格解析:動>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 8D <rel type="ノ" target="分類" sid="wiki00621721-00-01" id="3"/><体言><NE:ARTIFACT:解剖治療化学分類法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 6D
-医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="医薬" sid="wiki00621721-00-01" id="5"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="医薬" sid="wiki00621721-00-01" id="5"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00621721-00-01" id="6"/>
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00621721-00-01" id="6"/><体言><非用言格解析:動>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00621721-00-01" id="4"/><rel type="ニ" target="不特定:人"/>
-用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ -1D <rel type="ガ" target="法" sid="wiki00621721-00-01" id="4"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00621721-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1P <rel type="=" target="化学" sid="wiki00621721-00-01" id="2"/>
-かいぼうちりょうかがくぶんるいほう かいぼうちりょうかがくぶんるいほう かいぼうちりょうかがくぶんるいほう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="=" target="化学" sid="wiki00621721-00-01" id="2"/><体言>
+かいぼうちりょうかがくぶんるいほう かいぼうちりょうかがくぶんるいほう かいぼうちりょうかがくぶんるいほう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D
-Anatomical Anatomical Anatomical 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+Anatomical Anatomical Anatomical 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Therapeutic Therapeutic Therapeutic 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -46,24 +46,24 @@ System System System 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00621721-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 3D
-+ 5D
-普通 ふつう 普通 副詞 8 * 0 * 0 * 0 NIL
++ 5D <体言>
+普通 ふつう 普通 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2D
-ATC ATC ATC 名詞 6 組織名 6 * 0 * 0 NIL
-+ 4P
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言>
+ATC ATC ATC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 4P <用言:動><体言>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="ATC" sid="wiki00621721-01" id="1"/>
-ATC ATC ATC 名詞 6 組織名 6 * 0 * 0 NIL
-+ 5D
-コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="ATC" sid="wiki00621721-01" id="1"/><体言>
+ATC ATC ATC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00621721-00-01" id="4"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="法" sid="wiki00621721-00-01" id="4"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,150 +1,150 @@
 # S-ID:wiki00235115-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/24 MEMO:
 * 2D
-+ 1D
-南部 なんぶ 南部 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+南部 なんぶ 南部 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8D <NE:PERSON:南部　陽一郎>
-陽一郎 よういちろう 陽一郎 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言><NE:PERSON:南部　陽一郎>
+陽一郎 よういちろう 陽一郎 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日>
-日 にっ 日 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="日" sid="wiki00235115-00-01" id="2"/>
-系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <NE:LOCATION:アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 8D <rel type="ノ？" target="アメリカ" sid="wiki00235115-00-01" id="4"/><rel type="修飾" target="系" sid="wiki00235115-00-01" id="3"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:LOCATION:日>
+日 にっ 日 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <rel type="ノ" target="日" sid="wiki00235115-00-01" id="2"/><体言>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8D <rel type="ノ？" target="アメリカ" sid="wiki00235115-00-01" id="4"/><rel type="修飾" target="系" sid="wiki00235115-00-01" id="3"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="修飾" target="理論" sid="wiki00235115-00-01" id="6"/>
-物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="修飾" target="人" sid="wiki00235115-00-01" id="5"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="=構" mode="AND" target="人" sid="wiki00235115-00-01" id="5"/><rel type="ノ？" target="物理" sid="wiki00235115-00-01" id="7"/><memo text="CO"/>
-学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="修飾" target="理論" sid="wiki00235115-00-01" id="6"/><体言>
+物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="修飾" target="人" sid="wiki00235115-00-01" id="5"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="=構" mode="AND" target="人" sid="wiki00235115-00-01" id="5"/><rel type="ノ？" target="物理" sid="wiki00235115-00-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00235115-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2022/11/10 MEMO:
 * 2D
-+ 1D <rel type="=" target="南部" sid="wiki00235115-00-01" id="0"/>
-なんぶ なんぶ なんぶ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="南部" sid="wiki00235115-00-01" id="0"/><体言>
+なんぶ なんぶ なんぶ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 7D <rel type="=" target="陽一郎" sid="wiki00235115-00-01" id="1"/><NE:PERSON:なんぶ　よういちろう>
-よういちろう よういちろう よういちろう 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 7D <rel type="=" target="陽一郎" sid="wiki00235115-00-01" id="1"/><体言><NE:PERSON:なんぶ　よういちろう>
+よういちろう よういちろう よういちろう 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D
-1921 せんきゅうひゃくにじゅういち 1921 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言>
+1921 せんきゅうひゃくにじゅういち 1921 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 4D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7P <NE:DATE:1921年1月18日>
-18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7P <体言><NE:DATE:1921年1月18日>
+18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 6D
-2015 にせんじゅうご 2015 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言>
+2015 にせんじゅうご 2015 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D
-7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言>
+7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <NE:DATE:2015年7月5日>
-5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:2015年7月5日>
+5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00235115-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * 1P
-+ 1D
-シカゴ しかご シカゴ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <NE:ORGANIZATION:シカゴ大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 3D
-名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 11P <rel type="ノ" target="大学" sid="wiki00235115-01" id="1"/><rel type="修飾" target="名誉" sid="wiki00235115-01" id="2"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言>
+シカゴ しかご シカゴ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><NE:ORGANIZATION:シカゴ大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 3D <体言><非用言格解析:形>
+名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 11P <rel type="ノ" target="大学" sid="wiki00235115-01" id="1"/><rel type="修飾" target="名誉" sid="wiki00235115-01" id="2"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><体言><非用言格解析:動>
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 5D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D
-市立 しりつ 市立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <NE:ORGANIZATION:大阪市立大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 8D <rel type="=" target="名誉" sid="wiki00235115-01" id="2"/>
-名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 11P <rel type="ノ" target="大学" sid="wiki00235115-01" id="6"/><rel type="修飾" target="名誉" sid="wiki00235115-01" id="7"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言>
+市立 しりつ 市立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><NE:ORGANIZATION:大阪市立大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 8D <rel type="=" target="名誉" sid="wiki00235115-01" id="2"/><体言><非用言格解析:形>
+名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 11P <rel type="ノ" target="大学" sid="wiki00235115-01" id="6"/><rel type="修飾" target="名誉" sid="wiki00235115-01" id="7"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><体言><非用言格解析:動>
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 10D
-特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="特別" sid="wiki00235115-01" id="9"/>
-栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16P <rel type="ノ" target="大学" sid="wiki00235115-01" id="6"/><rel type="修飾" target="栄誉" sid="wiki00235115-01" id="10"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="特別" sid="wiki00235115-01" id="9"/><体言>
+栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16P <rel type="ノ" target="大学" sid="wiki00235115-01" id="6"/><rel type="修飾" target="栄誉" sid="wiki00235115-01" id="10"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><体言><非用言格解析:動>
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 13D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 16D <NE:ORGANIZATION:大阪大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 13D <体言>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 16D <体言><NE:ORGANIZATION:大阪大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 + 15D <rel type="=" target="特別" sid="wiki00235115-01" id="9"/>
-特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL
-+ 16D <rel type="修飾" target="特別" sid="wiki00235115-01" id="14"/><rel type="=" target="栄誉" sid="wiki00235115-01" id="10"/>
-栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22P <rel type="修飾" target="栄誉" sid="wiki00235115-01" id="15"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ノ" target="大学" sid="wiki00235115-01" id="13"/>
-教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="修飾" target="特別" sid="wiki00235115-01" id="14"/><rel type="=" target="栄誉" sid="wiki00235115-01" id="10"/><体言>
+栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22P <rel type="修飾" target="栄誉" sid="wiki00235115-01" id="15"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ノ" target="大学" sid="wiki00235115-01" id="13"/><体言><非用言格解析:動>
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 20D
-立命館 りつめいかん 立命館 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 19P
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 20D
-太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 22D <NE:ORGANIZATION:立命館アジア太平洋大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 22D
-アカデミック あかでみっく アカデミック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <体言>
+立命館 りつめいかん 立命館 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 19P <体言>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 20D <体言>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 22D <体言><NE:ORGANIZATION:立命館アジア太平洋大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 22D <体言>
+アカデミック あかでみっく アカデミック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ノ" target="大学" sid="wiki00235115-01" id="20"/><rel type="修飾" target="アカデミック" sid="wiki00235115-01" id="21"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><memo text="CO"/>
-アドバイザー あどばいざー アドバイザー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ノ" target="大学" sid="wiki00235115-01" id="20"/><rel type="修飾" target="アカデミック" sid="wiki00235115-01" id="21"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+アドバイザー あどばいざー アドバイザー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00235115-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/24 MEMO:
 * 1D
-+ 2D <rel type="ノ？" target="陽一郎" sid="wiki00235115-00-01" id="1"/>
-専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ？" target="陽一郎" sid="wiki00235115-00-01" id="1"/><体言>
+専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-素粒子 そりゅうし 素粒子 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="専門" sid="wiki00235115-02" id="0"/><rel type="=構" target="専門" sid="wiki00235115-02" id="0"/><rel type="ニカンシテ" target="素粒子" sid="wiki00235115-02" id="1"/><memo text="CO"/>
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+素粒子 そりゅうし 素粒子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="専門" sid="wiki00235115-02" id="0"/><rel type="=構" target="専門" sid="wiki00235115-02" id="0"/><rel type="ニカンシテ" target="素粒子" sid="wiki00235115-02" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00235115-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * -1D
-+ 1D <rel type="=≒" target="物理" sid="wiki00235115-00-01" id="7"/>
-理学 りがく 理学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ニツイテ" target="理学" sid="wiki00235115-03-01" id="0"/><memo text="CO　学位なのでヨミ「はくし」に"/>
-博士 はくし 博士 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=≒" target="物理" sid="wiki00235115-00-01" id="7"/><体言>
+理学 りがく 理学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="=構" target="陽一郎" sid="wiki00235115-00-01" id="1"/><rel type="ニツイテ" target="理学" sid="wiki00235115-03-01" id="0"/><memo text="CO　学位なのでヨミ「はくし」に"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+博士 はくし 博士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00235115-03-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * 1P
-+ 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2P <memo text="理学博士を取った大学"/><NE:ORGANIZATION:東京大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2P <memo text="理学博士を取った大学"/><体言><NE:ORGANIZATION:東京大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <memo text="理学博士を取った年"/><NE:DATE:1952年>
-1952 せんきゅうひゃくごじゅうに 1952 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ -1D <memo text="理学博士を取った年"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:1952年>
+1952 せんきゅうひゃくごじゅうに 1952 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

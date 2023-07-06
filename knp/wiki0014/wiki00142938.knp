@@ -1,40 +1,40 @@
 # S-ID:wiki00142938-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/03 MEMO:
 * 2D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:株式会社祥伝社>
-祥伝社 しょうでんしゃ 祥伝社 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:株式会社祥伝社>
+祥伝社 しょうでんしゃ 祥伝社 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="社" sid="wiki00142938-00-01" id="6"/><rel type="ヲ" target="不特定:物"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="修飾" target="総合" sid="wiki00142938-00-01" id="4"/><rel type="=構" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ノ？" target="出版" sid="wiki00142938-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00142938-00-01" id="3"/><memo text="CO"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動>
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="社" sid="wiki00142938-00-01" id="6"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="修飾" target="総合" sid="wiki00142938-00-01" id="4"/><rel type="=構" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ノ？" target="出版" sid="wiki00142938-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00142938-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00142938-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/06/29 MEMO:
 * -1D
-+ -1D <rel type="=" target="祥伝社" sid="wiki00142938-00-01" id="2"/>
-しょうでんしゃ しょうでんしゃ しょうでんしゃ 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="祥伝社" sid="wiki00142938-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+しょうでんしゃ しょうでんしゃ しょうでんしゃ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00142938-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/08/03 MEMO:
 * 1D
-+ 1D
-一ツ橋 ひとつばし 一ツ橋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="ノ" target="一ツ橋" sid="wiki00142938-01" id="0"/><NE:ORGANIZATION:一ツ橋グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+一ツ橋 ひとつばし 一ツ橋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="ノ" target="一ツ橋" sid="wiki00142938-01" id="0"/><体言><NE:ORGANIZATION:一ツ橋グループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ニ" target="グループ" sid="wiki00142938-01" id="1"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ニ" target="グループ" sid="wiki00142938-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,134 +1,134 @@
 # S-ID:wiki00083945-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2023/06/13 MEMO:
 * 2P
-+ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 3D <rel type="デ" target="英語" sid="wiki00083945-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00083945-00-01" id="3"/>
-読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 3D <rel type="デ" target="英語" sid="wiki00083945-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00083945-00-01" id="3"/><体言>
+読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-+ 3D <NE:OPTIONAL:マレー><NE-OPTIONAL:LOCATION,NONE:0>
-マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 7P <rel type="デ" target="読み" sid="wiki00083945-00-01" id="1"/><rel type="ノ？" target="マレー" sid="wiki00083945-00-01" id="2"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:OPTIONAL:マレー><NE-OPTIONAL:LOCATION,NONE:0>
+マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 7P <rel type="デ" target="読み" sid="wiki00083945-00-01" id="1"/><rel type="ノ？" target="マレー" sid="wiki00083945-00-01" id="2"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 また また また 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ノ" target="語" sid="wiki00083945-00-01" id="3"/>
-原語 げんご 原語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ヲ" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="原語" sid="wiki00083945-00-01" id="4"/>
-読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="語" sid="wiki00083945-00-01" id="3"/><体言>
+原語 げんご 原語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ヲ" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="原語" sid="wiki00083945-00-01" id="4"/><用言:判><体言><時制:非過去>
+読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ならば ならば だ 判定詞 4 * 0 判定詞 25 ダ列基本条件形 7 NIL
 * 8D
-+ 7D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/><NE:OPTIONAL:ムラユ><NE-OPTIONAL:LOCATION,NONE:0>
-ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 18D <rel type="デ" target="読み" sid="wiki00083945-00-01" id="5"/><rel type="=" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="ムラユ" sid="wiki00083945-00-01" id="6"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/><体言><NE:OPTIONAL:ムラユ><NE-OPTIONAL:LOCATION,NONE:0>
+ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 18D <rel type="デ" target="読み" sid="wiki00083945-00-01" id="5"/><rel type="=" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="ムラユ" sid="wiki00083945-00-01" id="6"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 9D
-東南 とうなん 東南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 13D <NE:LOCATION:東南アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9D <体言>
+東南 とうなん 東南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 13D <体言><NE:LOCATION:東南アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/>
-マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 12D <NE:LOCATION:マレー半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 13D <rel type="ノ" target="半島" sid="wiki00083945-00-01" id="11"/>
-周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="周辺" sid="wiki00083945-00-01" id="12"/><rel type="ノ？" target="アジア" sid="wiki00083945-00-01" id="9"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/><体言>
+マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 12D <体言><NE:LOCATION:マレー半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 13D <rel type="ノ" target="半島" sid="wiki00083945-00-01" id="11"/><体言>
+周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="周辺" sid="wiki00083945-00-01" id="12"/><rel type="ノ？" target="アジア" sid="wiki00083945-00-01" id="9"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 18D <rel type="ガ" target="言語" sid="wiki00083945-00-01" id="18"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="地域" sid="wiki00083945-00-01" id="13"/>
-話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 18D <rel type="ガ" target="言語" sid="wiki00083945-00-01" id="18"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="地域" sid="wiki00083945-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 16D <NE:OPTIONAL:オーストロネシア><NE-OPTIONAL:LOCATION,NONE:0>
-オーストロネシア おーすとろねしあ オーストロネシア 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 18D <rel type="ノ？" target="オーストロネシア" sid="wiki00083945-00-01" id="15"/>
-語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言><NE:OPTIONAL:オーストロネシア><NE-OPTIONAL:LOCATION,NONE:0>
+オーストロネシア おーすとろねしあ オーストロネシア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 18D <rel type="ノ？" target="オーストロネシア" sid="wiki00083945-00-01" id="15"/><体言>
+語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 18D <rel type="ガ" target="言語" sid="wiki00083945-00-01" id="18"/>
-主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 18D <rel type="ガ" target="言語" sid="wiki00083945-00-01" id="18"/><用言:形><時制:非過去>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ガ" mode="AND" target="語" sid="wiki00083945-00-01" id="3"/><rel type="=構" target="語" sid="wiki00083945-00-01" id="7"/><rel type="=構" mode="AND" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="語族" sid="wiki00083945-00-01" id="16"/><rel type="修飾" target="主要な" sid="wiki00083945-00-01" id="17"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ガ" mode="AND" target="語" sid="wiki00083945-00-01" id="3"/><rel type="=構" target="語" sid="wiki00083945-00-01" id="7"/><rel type="=構" mode="AND" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="語族" sid="wiki00083945-00-01" id="16"/><rel type="修飾" target="主要な" sid="wiki00083945-00-01" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00083945-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * 1P
-+ 1D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/><NE:OPTIONAL:マレー><NE-OPTIONAL:LOCATION,NONE:0>
-マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2P <rel type="=" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="マレー" sid="wiki00083945-00-02" id="0"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="マレー" sid="wiki00083945-00-01" id="2"/><体言><NE:OPTIONAL:マレー><NE-OPTIONAL:LOCATION,NONE:0>
+マレー まれー マレー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2P <rel type="=" target="語" sid="wiki00083945-00-01" id="3"/><rel type="ノ？" target="マレー" sid="wiki00083945-00-02" id="0"/><体言>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="語" sid="wiki00083945-00-01" id="3"/>
-Malay Malay Malay 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="語" sid="wiki00083945-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+Malay Malay Malay 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00083945-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * 1P
-+ 1D <rel type="=" target="ムラユ" sid="wiki00083945-00-01" id="6"/><NE:OPTIONAL:ムラユ><NE-OPTIONAL:LOCATION,NONE:0>
-ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3P <rel type="=" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ノ？" target="ムラユ" sid="wiki00083945-00-03" id="0"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ムラユ" sid="wiki00083945-00-01" id="6"/><体言><NE:OPTIONAL:ムラユ><NE-OPTIONAL:LOCATION,NONE:0>
+ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3P <rel type="=" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ノ？" target="ムラユ" sid="wiki00083945-00-03" id="0"/><体言>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D
-Bahasa Bahasa Bahasa 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+Bahasa Bahasa Bahasa 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 6P <rel type="=" target="語" sid="wiki00083945-00-01" id="7"/><rel type="=" mode="AND" target="ご" sid="wiki00083945-00-03" id="1"/>
-Melayu Melayu Melayu 名詞 6 地名 4 * 0 * 0 NIL
++ 6P <rel type="=" target="語" sid="wiki00083945-00-01" id="7"/><rel type="=" mode="AND" target="ご" sid="wiki00083945-00-03" id="1"/><体言>
+Melayu Melayu Melayu 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5D <NE:OPTIONAL:ジャウィ><NE-OPTIONAL:LOCATION,NONE:0>
-ジャウィ じゃうぃ ジャウィ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 6D <rel type="ノ？" target="ジャウィ" sid="wiki00083945-00-03" id="4"/>
-文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><NE:OPTIONAL:ジャウィ><NE-OPTIONAL:LOCATION,NONE:0>
+ジャウィ じゃうぃ ジャウィ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 6D <rel type="ノ？" target="ジャウィ" sid="wiki00083945-00-03" id="4"/><体言>
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 8P <rel type="デ" target="文字" sid="wiki00083945-00-03" id="5"/><rel type="=" target="語" sid="wiki00083945-00-01" id="7"/>
-ملايو ملايو ملايو 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="デ" target="文字" sid="wiki00083945-00-03" id="5"/><rel type="=" target="語" sid="wiki00083945-00-01" id="7"/><体言>
+ملايو ملايو ملايو 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 8D <rel type="=" target="Bahasa" sid="wiki00083945-00-03" id="2"/>
-バハサ ばはさ バハサ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="Bahasa" sid="wiki00083945-00-03" id="2"/><体言>
+バハサ ばはさ バハサ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=≒" target="ムラユ" sid="wiki00083945-00-03" id="0"/><rel type="=" mode="AND" target="Melayu" sid="wiki00083945-00-03" id="3"/><rel type="=" mode="AND" target="語" sid="wiki00083945-00-01" id="7"/>
-ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL
++ -1D <rel type="=≒" target="ムラユ" sid="wiki00083945-00-03" id="0"/><rel type="=" mode="AND" target="Melayu" sid="wiki00083945-00-03" id="3"/><rel type="=" mode="AND" target="語" sid="wiki00083945-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ムラユ むらゆ ムラユ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00083945-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/06/13 MEMO:
 * 3D
-+ 5D <rel type="ノ" target="語" sid="wiki00083945-00-01" id="7"/>
-広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="語" sid="wiki00083945-00-01" id="7"/><体言>
+広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2D <rel type="ノ？" target="半島" sid="wiki00083945-00-01" id="11"/><NE:OPTIONAL:マレーシア><NE-OPTIONAL:LOCATION,NONE:0>
-マレーシア まれーしあ マレーシア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 4P <rel type="ノ？" target="マレーシア" sid="wiki00083945-01-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ？" target="半島" sid="wiki00083945-00-01" id="11"/><体言><NE:OPTIONAL:マレーシア><NE-OPTIONAL:LOCATION,NONE:0>
+マレーシア まれーしあ マレーシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 4P <rel type="ノ？" target="マレーシア" sid="wiki00083945-01-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="アジア" sid="wiki00083945-00-01" id="9"/><NE:OPTIONAL:インドネシア><NE-OPTIONAL:LOCATION,NONE:0>
-インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 5D <rel type="ノ？" target="インドネシア" sid="wiki00083945-01-01" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ？" target="アジア" sid="wiki00083945-00-01" id="9"/><体言><NE:OPTIONAL:インドネシア><NE-OPTIONAL:LOCATION,NONE:0>
+インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="インドネシア" sid="wiki00083945-01-01" id="3"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ニ" target="広義" sid="wiki00083945-01-01" id="0"/><rel type="ヲ" target="語" sid="wiki00083945-01-01" id="2"/><rel type="ヲ" mode="AND" target="語等" sid="wiki00083945-01-01" id="4"/>
-含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00083945-00-01" id="7"/><rel type="ニ" target="広義" sid="wiki00083945-01-01" id="0"/><rel type="ヲ" target="語" sid="wiki00083945-01-01" id="2"/><rel type="ヲ" mode="AND" target="語等" sid="wiki00083945-01-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00083945-01-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="含む" sid="wiki00083945-01-01" id="5"/>
-詳細 しょうさい 詳細だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 1D <rel type="ノ" target="含む" sid="wiki00083945-01-01" id="5"/><体言><非用言格解析:形>
+詳細 しょうさい 詳細だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="詳細" sid="wiki00083945-01-02" id="0"/><memo text="PO:する"/>
-後述 こうじゅつ 後述 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="詳細" sid="wiki00083945-01-02" id="0"/><memo text="PO:する"/><用言:動><体言><節-主辞><節-区切>
+後述 こうじゅつ 後述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

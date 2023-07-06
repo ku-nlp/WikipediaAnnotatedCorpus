@@ -1,224 +1,224 @@
 # S-ID:wiki00098416-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:146.00000 MOD:2023/06/13 MEMO:
 * 11D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 23D <NE:ORGANIZATION:株式会社ビーイング>
-ビーイング びーいんぐ ビーイング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 23D <体言><NE:ORGANIZATION:株式会社ビーイング>
+ビーイング びーいんぐ ビーイング 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <NE:DATE:1978年>
-1978 せんきゅうひゃくななじゅうはち 1978 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言><NE:DATE:1978年>
+1978 せんきゅうひゃくななじゅうはち 1978 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="ノ？" target="東京都" sid="wiki00098416-00" id="4"/><NE:LOCATION:東京都港区>
-港 みなと 港 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="ノ？" target="東京都" sid="wiki00098416-00" id="4"/><体言><NE:LOCATION:東京都港区>
+港 みなと 港 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 14D <rel type="ガ" target="オフィス" sid="wiki00098416-00" id="14"/><rel type="ガ" mode="AND" target="会社" sid="wiki00098416-00" id="11"/><rel type="ガ" mode="AND" target="会社" sid="wiki00098416-00" id="9"/><rel type="ニ" target="港区" sid="wiki00098416-00" id="5"/><rel type="ニ" mode="AND" target="不特定:人1"/><rel type="時間" target="1978年" sid="wiki00098416-00" id="3"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="オフィス" sid="wiki00098416-00" id="14"/><rel type="ガ" mode="AND" target="会社" sid="wiki00098416-00" id="11"/><rel type="ガ" mode="AND" target="会社" sid="wiki00098416-00" id="9"/><rel type="ニ" target="港区" sid="wiki00098416-00" id="5"/><rel type="ニ" mode="AND" target="不特定:人1"/><rel type="時間" target="1978年" sid="wiki00098416-00" id="3"/><用言:動><時制:過去><節-主辞>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 8D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ガ" target="会社" sid="wiki00098416-00" id="9"/><rel type="ヲ" target="音楽" sid="wiki00098416-00" id="7"/>
-制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P <rel type="ノ？" target="制作" sid="wiki00098416-00" id="8"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="会社" sid="wiki00098416-00" id="9"/><rel type="ヲ" target="音楽" sid="wiki00098416-00" id="7"/><体言><非用言格解析:動>
+制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11P <rel type="ノ？" target="制作" sid="wiki00098416-00" id="8"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
-レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14P <rel type="ノ？" target="レコード" sid="wiki00098416-00" id="10"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14P <rel type="ノ？" target="レコード" sid="wiki00098416-00" id="10"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11P
-+ 13D
-アーティスト あーてぃすと アーティスト 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ガ" target="オフィス" sid="wiki00098416-00" id="14"/><rel type="ヲ" target="アーティスト" sid="wiki00098416-00" id="12"/>
-マネージメント まねーじめんと マネージメント 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/>
-オフィス おふぃす オフィス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+アーティスト あーてぃすと アーティスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ガ" target="オフィス" sid="wiki00098416-00" id="14"/><rel type="ヲ" target="アーティスト" sid="wiki00098416-00" id="12"/><体言>
+マネージメント まねーじめんと マネージメント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 23P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+オフィス おふぃす オフィス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 23D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 23D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 17D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D <rel type="ノ？" target="音楽" sid="wiki00098416-00" id="16"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="ノ？" target="音楽" sid="wiki00098416-00" id="16"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 23D
-加え くわえ 加える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 23D <用言:動>
+加え くわえ 加える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 20D
-不動産 ふどうさん 不動産 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 21D <rel type="ニ" target="不動産" sid="wiki00098416-00" id="19"/><rel type="ガ" target="不特定:人"/>
-投資 とうし 投資 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 23D <rel type="ノ？" target="投資" sid="wiki00098416-00" id="20"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <体言>
+不動産 ふどうさん 不動産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 21D <rel type="ニ" target="不動産" sid="wiki00098416-00" id="19"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+投資 とうし 投資 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 23D <rel type="ノ？" target="投資" sid="wiki00098416-00" id="20"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
-+ 23D <rel type="ノ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="事業" sid="wiki00098416-00" id="17"/><rel type="=構" mode="AND" target="事業" sid="wiki00098416-00" id="21"/>
-主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 23D <rel type="ノ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="事業" sid="wiki00098416-00" id="17"/><rel type="=構" mode="AND" target="事業" sid="wiki00098416-00" id="21"/><体言>
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="時間" target="現在" sid="wiki00098416-00" id="15"/><rel type="ト" target="主体" sid="wiki00098416-00" id="22"/><rel type="ガ２" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニクワエテ" target="事業" sid="wiki00098416-00" id="17"/><rel type="ガ" target="事業" sid="wiki00098416-00" id="21"/>
-なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ -1D <rel type="時間" target="現在" sid="wiki00098416-00" id="15"/><rel type="ト" target="主体" sid="wiki00098416-00" id="22"/><rel type="ガ２" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニクワエテ" target="事業" sid="wiki00098416-00" id="17"/><rel type="ガ" target="事業" sid="wiki00098416-00" id="21"/><用言:動><時制:非過去><節-主辞><節-区切>
+なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00098416-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="者" sid="wiki00098416-01" id="1"/><rel type="ヲ" target="ビーイング" sid="wiki00098416-00" id="2"/>
-創業 そうぎょう 創業 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ノ？" target="創業" sid="wiki00098416-01" id="0"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="ガ" target="者" sid="wiki00098416-01" id="1"/><rel type="ヲ" target="ビーイング" sid="wiki00098416-00" id="2"/><体言><非用言格解析:動>
+創業 そうぎょう 創業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ？" target="創業" sid="wiki00098416-01" id="0"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 3D
-長戸 ながと 長戸 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="ガ" target="者" sid="wiki00098416-01" id="1"/><rel type="=構" target="者" sid="wiki00098416-01" id="1"/><rel type="=" mode="AND" target="不特定:人1"/><memo text="CO"/><NE:PERSON:長戸大幸>
-大幸 だいこう 大幸 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 3D <体言>
+長戸 ながと 長戸 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <rel type="ガ" target="者" sid="wiki00098416-01" id="1"/><rel type="=構" target="者" sid="wiki00098416-01" id="1"/><rel type="=" mode="AND" target="不特定:人1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:長戸大幸>
+大幸 だいこう 大幸 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00098416-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:187.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 1D <rel type="=" target="ビーイング" sid="wiki00098416-00" id="2"/>
-ビーイング びーいんぐ ビーイング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="ノ" target="ビーイング" sid="wiki00098416-02" id="0"/><NE:ORGANIZATION:ビーインググループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="ビーイング" sid="wiki00098416-00" id="2"/><体言>
+ビーイング びーいんぐ ビーイング 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="ノ" target="ビーイング" sid="wiki00098416-02" id="0"/><体言><NE:ORGANIZATION:ビーインググループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 19P <rel type="ガ" target="集団" sid="wiki00098416-02" id="19"/><rel type="ト" target="グループ" sid="wiki00098416-02" id="1"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ 19P <rel type="ガ" target="集団" sid="wiki00098416-02" id="19"/><rel type="ト" target="グループ" sid="wiki00098416-02" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 4D <memo text="Garage Indies Zapping Association"/>
-GIZA ぎざ GIZA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4D <memo text="Garage Indies Zapping Association"/><体言>
+GIZA ぎざ GIZA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <NE:ORGANIZATION:GIZA　studio>
-studio studio studio 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6P <体言><NE:ORGANIZATION:GIZA　studio>
+studio studio studio 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 6D
-VERMILLION ばーみりおん VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <体言>
+VERMILLION ばーみりおん VERMILLION 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7P <NE:ORGANIZATION:VERMILLION　RECORDS>
-RECORDS れこーど RECORDS 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7P <体言><NE:ORGANIZATION:VERMILLION　RECORDS>
+RECORDS れこーど RECORDS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 8P <NE:ORGANIZATION:ビー企画室>
-ビー企画室 びーきかくしつ ビー企画室 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 8P <体言><NE:ORGANIZATION:ビー企画室>
+ビー企画室 びーきかくしつ ビー企画室 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 10P <memo text="社名は、"MAGAZINE RECORDING MANAGEMENT"のそれぞれの頭文字から"/><NE:ORGANIZATION:MRM>
-MRM MRM MRM 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 10P <memo text="社名は、"MAGAZINE RECORDING MANAGEMENT"のそれぞれの頭文字から"/><体言><NE:ORGANIZATION:MRM>
+MRM MRM MRM 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 10D
-ZAIN づぁいん ZAIN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 10D <体言>
+ZAIN づぁいん ZAIN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 13P <NE:ORGANIZATION:ZAIN　ARTISTS>
-ARTISTS ARTISTS ARTISTS 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 13P <体言><NE:ORGANIZATION:ZAIN　ARTISTS>
+ARTISTS ARTISTS ARTISTS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
-+ 12D
-堂島 どうじま 堂島 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 13D
-リバー りばー リバー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 14P <memo text="これのみ、企業名ではない"/><NE:OPTIONAL:堂島リバーフォーラム><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-フォーラム ふぉーらむ フォーラム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 12D <体言>
+堂島 どうじま 堂島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 13D <体言>
+リバー りばー リバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 14P <memo text="これのみ、企業名ではない"/><体言><NE:OPTIONAL:堂島リバーフォーラム><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+フォーラム ふぉーらむ フォーラム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 17D <NE:ORGANIZATION:ビープラネッツ>
-ビープラネッツ びーぷらねっつ ビープラネッツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 17D <体言><NE:ORGANIZATION:ビープラネッツ>
+ビープラネッツ びーぷらねっつ ビープラネッツ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 16D <rel type="ガ" target="企業" sid="wiki00098416-02" id="13"/><rel type="ト" target="ビーイング" sid="wiki00098416-00" id="2"/>
-関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ガ" target="企業" sid="wiki00098416-02" id="13"/><rel type="ト" target="ビーイング" sid="wiki00098416-00" id="2"/><体言><非用言格解析:動>
+関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 17D <体言>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 12D
-+ 19D <rel type="ノ" target="企業" sid="wiki00098416-02" id="13"/><rel type="=構" target="企業" sid="wiki00098416-02" id="16"/><rel type="=≒" mode="AND" target="studio" sid="wiki00098416-02" id="4"/><rel type="=≒" mode="AND" target="RECORDS" sid="wiki00098416-02" id="6"/><rel type="=≒" mode="AND" target="ビー企画室" sid="wiki00098416-02" id="7"/><rel type="=≒" mode="AND" target="MRM" sid="wiki00098416-02" id="8"/><rel type="=≒" mode="AND" target="ARTISTS" sid="wiki00098416-02" id="10"/><rel type="=≒" mode="AND" target="フォーラム" sid="wiki00098416-02" id="13"/><rel type="=≒" mode="AND" target="ビープラネッツ" sid="wiki00098416-02" id="14"/>
++ 19D <rel type="ノ" target="企業" sid="wiki00098416-02" id="13"/><rel type="=構" target="企業" sid="wiki00098416-02" id="16"/><rel type="=≒" mode="AND" target="studio" sid="wiki00098416-02" id="4"/><rel type="=≒" mode="AND" target="RECORDS" sid="wiki00098416-02" id="6"/><rel type="=≒" mode="AND" target="ビー企画室" sid="wiki00098416-02" id="7"/><rel type="=≒" mode="AND" target="MRM" sid="wiki00098416-02" id="8"/><rel type="=≒" mode="AND" target="ARTISTS" sid="wiki00098416-02" id="10"/><rel type="=≒" mode="AND" target="フォーラム" sid="wiki00098416-02" id="13"/><rel type="=≒" mode="AND" target="ビープラネッツ" sid="wiki00098416-02" id="14"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-60 ろくじゅっ 60 名詞 6 数詞 7 * 0 * 0 NIL
+60 ろくじゅっ 60 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 19D <rel type="ノ" target="ビーイング" sid="wiki00098416-00" id="2"/>
-傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ノ" target="ビーイング" sid="wiki00098416-00" id="2"/><体言>
+傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 21D <rel type="ガ" target="集団" sid="wiki00098416-02" id="18"/><rel type="ニ" target="傘下" sid="wiki00098416-02" id="15"/><rel type="ヲ" target="約60社以上" sid="wiki00098416-02" id="14"/>
-もつ もつ もつ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
++ 21D <rel type="ガ" target="集団" sid="wiki00098416-02" id="18"/><rel type="ニ" target="傘下" sid="wiki00098416-02" id="15"/><rel type="ヲ" target="約60社以上" sid="wiki00098416-02" id="14"/><用言:動><時制:非過去><節-主辞>
+もつ もつ もつ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 * 22P
-+ 21D
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 32P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ノ？" target="企業" sid="wiki00098416-02" id="17"/>
-集団 しゅうだん 集団 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <体言>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 32P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ノ？" target="企業" sid="wiki00098416-02" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+集団 しゅうだん 集団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 22D
-+ 32D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 32D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 17D
-+ 25D <rel type="=" target="ビーイング" sid="wiki00098416-00" id="2"/>
-当社 とうしゃ 当社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 25D <rel type="=" target="ビーイング" sid="wiki00098416-00" id="2"/><体言>
+当社 とうしゃ 当社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 25D <rel type="ノ" target="集団" sid="wiki00098416-02" id="21"/><rel type="=構" target="当社" sid="wiki00098416-02" id="23"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 25D <rel type="ノ" target="集団" sid="wiki00098416-02" id="21"/><rel type="=構" target="当社" sid="wiki00098416-02" id="23"/><体言>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 27D <rel type="ガ" target="企業" sid="wiki00098416-02" id="27"/><rel type="ヲ" target="当社" sid="wiki00098416-02" id="23"/><rel type="ト" target="中心" sid="wiki00098416-02" id="24"/>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
++ 27D <rel type="ガ" target="企業" sid="wiki00098416-02" id="27"/><rel type="ヲ" target="当社" sid="wiki00098416-02" id="23"/><rel type="ト" target="中心" sid="wiki00098416-02" id="24"/><用言:動><時制:過去><節-主辞>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 19D
-+ 27D <rel type="ガ" target="企業" sid="wiki00098416-02" id="27"/><rel type="=" target="関連" sid="wiki00098416-02" id="15"/>
-関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 28D <rel type="=≒" target="企業" sid="wiki00098416-02" id="16"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 27D <rel type="ガ" target="企業" sid="wiki00098416-02" id="27"/><rel type="=" target="関連" sid="wiki00098416-02" id="15"/><体言><非用言格解析:動>
+関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 28D <rel type="=≒" target="企業" sid="wiki00098416-02" id="16"/><体言>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22P
-+ 32P <rel type="時間" target="現在" sid="wiki00098416-02" id="22"/><rel type="ガ" target="集団" sid="wiki00098416-02" id="21"/><rel type="ニ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニ" mode="AND" target="企業" sid="wiki00098416-02" id="27"/><memo text="AG:ビーイング"/>
-再編 さいへん 再編 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 32P <rel type="時間" target="現在" sid="wiki00098416-02" id="22"/><rel type="ガ" target="集団" sid="wiki00098416-02" id="21"/><rel type="ニ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニ" mode="AND" target="企業" sid="wiki00098416-02" id="27"/><memo text="AG:ビーイング"/><用言:動><節-主辞><節-区切>
+再編 さいへん 再編 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 22D
-+ 30D
-関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 32D <rel type="=" target="企業" sid="wiki00098416-02" id="16"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 30D <体言><非用言格解析:動>
+関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 32D <rel type="=" target="企業" sid="wiki00098416-02" id="16"/><体言>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 22D
-+ 32D <rel type="ノ" target="企業" sid="wiki00098416-02" id="30"/><rel type="=構" target="企業" sid="wiki00098416-02" id="30"/>
++ 32D <rel type="ノ" target="企業" sid="wiki00098416-02" id="30"/><rel type="=構" target="企業" sid="wiki00098416-02" id="30"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-40 よんじゅっ 40 名詞 6 数詞 7 * 0 * 0 NIL
+40 よんじゅっ 40 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ほど ほど ほど 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="企業" sid="wiki00098416-02" id="30"/><rel type="カラ" target="約60社以上" sid="wiki00098416-02" id="17"/><rel type="時間" target="現在" sid="wiki00098416-02" id="22"/><rel type="ニ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニ" mode="AND" target="約40社" sid="wiki00098416-02" id="31"/><memo text="AG:ビーイング"/>
-縮小 しゅくしょう 縮小 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="企業" sid="wiki00098416-02" id="30"/><rel type="カラ" target="約60社以上" sid="wiki00098416-02" id="17"/><rel type="時間" target="現在" sid="wiki00098416-02" id="22"/><rel type="ニ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ニ" mode="AND" target="約40社" sid="wiki00098416-02" id="31"/><memo text="AG:ビーイング"/><用言:動><時制:非過去><節-主辞><節-区切>
+縮小 しゅくしょう 縮小 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

@@ -1,63 +1,63 @@
 # S-ID:wiki00003393-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
 * 8D
-+ 18D <NE:ORGANIZATION:三越>
-三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 18D <体言><NE:ORGANIZATION:三越>
+三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <NE:ORGANIZATION:株式会社三越伊勢丹>
-伊勢丹 伊勢丹 伊勢丹 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 6D
-ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="ホールディングス" sid="wiki00003393-00-01" id="5"/>
-傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言>
+三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言><NE:ORGANIZATION:株式会社三越伊勢丹>
+伊勢丹 伊勢丹 伊勢丹 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 6D <体言>
+ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="ホールディングス" sid="wiki00003393-00-01" id="5"/><体言>
+傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 8D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="=" target="伊勢丹" sid="wiki00003393-00-01" id="4"/>
-三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <NE:ORGANIZATION:株式会社三越伊勢丹>
-伊勢丹 伊勢丹 伊勢丹 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 8D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <rel type="=" target="伊勢丹" sid="wiki00003393-00-01" id="4"/><体言>
+三越 みつこし 三越 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><NE:ORGANIZATION:株式会社三越伊勢丹>
+伊勢丹 伊勢丹 伊勢丹 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 13D <rel type="ガ" target="伊勢丹" sid="wiki00003393-00-01" id="10"/><rel type="ヲ" target="店" sid="wiki00003393-00-01" id="13"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="伊勢丹" sid="wiki00003393-00-01" id="10"/><rel type="ヲ" target="店" sid="wiki00003393-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 13D
-呉服 ごふく 呉服 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="呉服" sid="wiki00003393-00-01" id="12"/>
-店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+呉服 ごふく 呉服 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ノ" target="呉服" sid="wiki00003393-00-01" id="12"/><体言>
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 15D <rel type="ノ" target="三越" sid="wiki00003393-00-01" id="0"/>
-起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ" target="三越" sid="wiki00003393-00-01" id="0"/><体言>
+起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 18D <rel type="ガ" target="百貨店" sid="wiki00003393-00-01" id="18"/><rel type="ヲ" target="店" sid="wiki00003393-00-01" id="13"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 18D <rel type="ガ" target="百貨店" sid="wiki00003393-00-01" id="18"/><rel type="ヲ" target="店" sid="wiki00003393-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 18D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 18D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 18D
-老舗 しにせ 老舗 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="三越" sid="wiki00003393-00-01" id="0"/><rel type="=" target="三越" sid="wiki00003393-00-01" id="0"/>
-百貨店 ひゃっかてん 百貨店 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <体言>
+老舗 しにせ 老舗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="三越" sid="wiki00003393-00-01" id="0"/><rel type="=" target="三越" sid="wiki00003393-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+百貨店 ひゃっかてん 百貨店 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00003393-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="起源" sid="wiki00003393-00-01" id="14"/>
-みつこし みつこし みつこし 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="起源" sid="wiki00003393-00-01" id="14"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+みつこし みつこし みつこし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

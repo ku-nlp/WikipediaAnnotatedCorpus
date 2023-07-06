@@ -1,90 +1,90 @@
 # S-ID:wiki00081177-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/06 MEMO:
 * 4D
-+ 1D
-琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 6D <NE:ARTIFACT:琉球新報>
-新報 しんぽう 新報 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 6D <体言><NE:ARTIFACT:琉球新報>
+新報 しんぽう 新報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/><NE:LOCATION:沖縄県>
-沖縄 おきなわ 沖縄 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/><体言><NE:LOCATION:沖縄県>
+沖縄 おきなわ 沖縄 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ヲ" target="沖縄県" sid="wiki00081177-00-01" id="2"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ヲ" target="沖縄県" sid="wiki00081177-00-01" id="2"/><用言:動><体言>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="新聞" sid="wiki00081177-00-01" id="6"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="AND" target="中心" sid="wiki00081177-00-01" id="3"/><rel type="ニ" mode="？" target="なし"/>
-発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="新聞" sid="wiki00081177-00-01" id="6"/><rel type="ニ" target="不特定:人1"/><rel type="ニ" mode="AND" target="中心" sid="wiki00081177-00-01" id="3"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 6D
-日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="修飾" target="日刊" sid="wiki00081177-00-01" id="5"/><rel type="=構" target="新報" sid="wiki00081177-00-01" id="1"/>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="修飾" target="日刊" sid="wiki00081177-00-01" id="5"/><rel type="=構" target="新報" sid="wiki00081177-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00081177-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * 1P
-+ 1D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/>
-りゅうきゅう りゅうきゅう りゅうきゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 4P <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/><NE:ARTIFACT:りゅうきゅうしんぽう>
-しんぽう しんぽう しんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/><体言>
+りゅうきゅう りゅうきゅう りゅうきゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 4P <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/><体言><NE:ARTIFACT:りゅうきゅうしんぽう>
+しんぽう しんぽう しんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1P
-+ 4D <rel type="ノ" target="新報" sid="wiki00081177-00-01" id="1"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="新報" sid="wiki00081177-00-01" id="1"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/>
-Ryukyu りゅうきゅう Ryukyu 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 4D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/><体言>
+Ryukyu りゅうきゅう Ryukyu 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ -1D <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="デ" target="英語" sid="wiki00081177-00-02" id="2"/><NE:ARTIFACT:Ryukyu　Shimpo>
-Shimpo しんぽう Shimpo 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ -1D <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="デ" target="英語" sid="wiki00081177-00-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:Ryukyu　Shimpo>
+Shimpo しんぽう Shimpo 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00081177-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/06 MEMO:
 * 1D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/>
-琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/>
-新報 しんぽう 新報 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="不特定:人1"/><NE:ORGANIZATION:株式会社琉球新報社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="琉球" sid="wiki00081177-00-01" id="0"/><体言>
+琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="新報" sid="wiki00081177-00-01" id="1"/><体言>
+新報 しんぽう 新報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="不特定:人1"/><体言><NE:ORGANIZATION:株式会社琉球新報社>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="社" sid="wiki00081177-01-01" id="4"/><rel type="ヲ" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="=" target="発行されている" sid="wiki00081177-00-01" id="4"/>
-発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="社" sid="wiki00081177-01-01" id="4"/><rel type="ヲ" target="新報" sid="wiki00081177-00-01" id="1"/><rel type="=" target="発行されている" sid="wiki00081177-00-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00081177-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * 1P
-+ 1D <rel type="=" target="琉球" sid="wiki00081177-01-01" id="2"/>
-りゅうきゅう りゅうきゅう りゅうきゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 2D <rel type="=" target="新報" sid="wiki00081177-01-01" id="3"/>
-しんぽう しんぽう しんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="社" sid="wiki00081177-01-01" id="4"/><NE:ORGANIZATION:りゅうきゅうしんぽうしゃ>
-しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="琉球" sid="wiki00081177-01-01" id="2"/><体言>
+りゅうきゅう りゅうきゅう りゅうきゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="新報" sid="wiki00081177-01-01" id="3"/><体言>
+しんぽう しんぽう しんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="社" sid="wiki00081177-01-01" id="4"/><体言><NE:ORGANIZATION:りゅうきゅうしんぽうしゃ>
+しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1P
-+ 6D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <体言>
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="=" target="Ryukyu" sid="wiki00081177-00-02" id="3"/>
-Ryukyu りゅうきゅう Ryukyu 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="Ryukyu" sid="wiki00081177-00-02" id="3"/><体言>
+Ryukyu りゅうきゅう Ryukyu 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="デ" target="英語" sid="wiki00081177-01-02" id="3"/><rel type="=" target="社" sid="wiki00081177-01-01" id="4"/><rel type="=" mode="AND" target="Shimpo" sid="wiki00081177-00-02" id="4"/><NE:ORGANIZATION:The　Ryukyu　Shimpo>
-Shimpo しんぽう Shimpo 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="デ" target="英語" sid="wiki00081177-01-02" id="3"/><rel type="=" target="社" sid="wiki00081177-01-01" id="4"/><rel type="=" mode="AND" target="Shimpo" sid="wiki00081177-00-02" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:The　Ryukyu　Shimpo>
+Shimpo しんぽう Shimpo 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

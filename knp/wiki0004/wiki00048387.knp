@@ -1,196 +1,196 @@
 # S-ID:wiki00048387-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 4D
-+ 1D <NE:PERSON:沢田>
-沢田 さわだ 沢田 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 1D <体言><NE:PERSON:沢田>
+沢田 さわだ 沢田 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 6D <NE:PERSON:研二>
-研二 けんじ 研二 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 6D <体言><NE:PERSON:研二>
+研二 けんじ 研二 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="=" target="研二" sid="wiki00048387-00-01" id="1"/>
-歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=" target="研二" sid="wiki00048387-00-01" id="1"/><体言>
+歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="=" target="歌手" sid="wiki00048387-00-01" id="3"/>
-俳優 はいゆう 俳優 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=" target="歌手" sid="wiki00048387-00-01" id="3"/><体言>
+俳優 はいゆう 俳優 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D
-作詞 さくし 作詞 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動>
+作詞 さくし 作詞 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-作曲 さっきょく 作曲 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="研二" sid="wiki00048387-00-01" id="1"/><rel type="=" target="俳優" sid="wiki00048387-00-01" id="4"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 7D <体言><非用言格解析:動>
+作曲 さっきょく 作曲 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="研二" sid="wiki00048387-00-01" id="1"/><rel type="=" target="俳優" sid="wiki00048387-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 4D
-+ 4D
-さわ さわ さわ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <用言:判><体言><時制:非過去>
+さわ さわ さわ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 2P
-+ 2P
-けんじ けんじ けんずる 動詞 2 * 0 ザ変動詞 17 基本連用形 8 NIL
++ 2P <用言:動><節-主辞><節-区切>
+けんじ けんじ けんずる 動詞 2 * 0 ザ変動詞 17 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-1948 1948 1948 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言>
+1948 1948 1948 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 4D
-+ 4D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <体言>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 5D
-+ 5D <NE:DATE:1948年6月25日>
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <体言><NE:DATE:1948年6月25日>
+25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00048387-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
 * 1D
-+ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/>
-両親 りょうしん 両親 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/><体言>
+両親 りょうしん 両親 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="両親" sid="wiki00048387-01" id="0"/>
-実家 じっか 実家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="両親" sid="wiki00048387-01" id="0"/><体言>
+実家 じっか 実家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="実家" sid="wiki00048387-01" id="1"/><rel type="ニ" target="鳥取市" sid="wiki00048387-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 4D <rel type="ガ" target="実家" sid="wiki00048387-01" id="1"/><rel type="ニ" target="鳥取市" sid="wiki00048387-01" id="4"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 4D
-鳥取 とっとり 鳥取 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言>
+鳥取 とっとり 鳥取 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <NE:LOCATION:鳥取県鳥取市>
-鳥取 とっとり 鳥取 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <体言><NE:LOCATION:鳥取県鳥取市>
+鳥取 とっとり 鳥取 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 8D
-生まれ うまれ 生まれ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+生まれ うまれ 生まれ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 7D
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <体言>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <NE:LOCATION:京都府京都市>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <体言><NE:LOCATION:京都府京都市>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ガ" target="研二" sid="wiki00048387-00-01" id="1"/>
-育ち そだち 育ち 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="研二" sid="wiki00048387-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+育ち そだち 育ち 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/>
-本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <NE:LOCATION:澤田>
-澤田 澤田 澤田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/><体言>
+本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><NE:LOCATION:澤田>
+澤田 澤田 澤田 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="本名" sid="wiki00048387-02-01" id="0"/><rel type="=" target="本名" sid="wiki00048387-02-01" id="0"/><NE:PERSON:研二>
-研二 けんじ 研二 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ -1D <rel type="ガ" target="本名" sid="wiki00048387-02-01" id="0"/><rel type="=" target="本名" sid="wiki00048387-02-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:研二>
+研二 けんじ 研二 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-02-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="読み" sid="wiki00048387-02-02" id="0"/><rel type="ガ２" target="研二" sid="wiki00048387-00-01" id="1"/>
-同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 語幹 1 NIL
++ 1D <体言>
+読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="読み" sid="wiki00048387-02-02" id="0"/><rel type="ガ２" target="研二" sid="wiki00048387-00-01" id="1"/><用言:形><時制:非過去><節-主辞><節-区切>
+同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 語幹 1 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00048387-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/><rel type="=" target="本名" sid="wiki00048387-02-01" id="0"/>
-ニックネーム ニックネーム ニックネーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="研二" sid="wiki00048387-00-01" id="1"/><rel type="=" target="本名" sid="wiki00048387-02-01" id="0"/><体言>
+ニックネーム ニックネーム ニックネーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><rel type="=" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><NE:PERSON:ジュリー>
-ジュリー ジュリー ジュリー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ -1D <rel type="ガ" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><rel type="=" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:ジュリー>
+ジュリー ジュリー ジュリー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-03-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 5D
-+ 7D
-由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <体言><非用言格解析:動>
+由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 2D <rel type="=" target="俳優" sid="wiki00048387-00-01" id="4"/><NE:PERSON:沢田>
-沢田 さわだ 沢田 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 6D <rel type="=" target="沢田" sid="wiki00048387-03-02" id="1"/>
-本人 ほんにん 本人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="俳優" sid="wiki00048387-00-01" id="4"/><体言><NE:PERSON:沢田>
+沢田 さわだ 沢田 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ 6D <rel type="=" target="沢田" sid="wiki00048387-03-02" id="1"/><体言>
+本人 ほんにん 本人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
-女優 じょゆう 女優 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+女優 じょゆう 女優 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
-ジュリー ジュリー ジュリー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 5D <体言>
+ジュリー ジュリー ジュリー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6D <rel type="=" target="女優" sid="wiki00048387-03-02" id="3"/><NE:PERSON:ジュリー・アンドリュース>
-アンドリュース アンドリュース アンドリュース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
++ 6D <rel type="=" target="女優" sid="wiki00048387-03-02" id="3"/><体言><NE:PERSON:ジュリー・アンドリュース>
+アンドリュース アンドリュース アンドリュース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="本人" sid="wiki00048387-03-02" id="2"/><rel type="ノ" target="アンドリュース" sid="wiki00048387-03-02" id="5"/>
-ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="本人" sid="wiki00048387-03-02" id="2"/><rel type="ノ" target="アンドリュース" sid="wiki00048387-03-02" id="5"/><用言:判><体言><時制:過去><節-主辞>
+ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
 * -1D
-+ -1D
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-区切>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00048387-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/>
-妻 つま 妻 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/><体言>
+妻 つま 妻 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-田中 たなか 田中 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="ガ" target="妻" sid="wiki00048387-04" id="0"/><rel type="=" target="妻" sid="wiki00048387-04" id="0"/><NE:PERSON:田中裕子>
-裕子 ゆうこ 裕子 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 2D <体言>
+田中 たなか 田中 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <rel type="ガ" target="妻" sid="wiki00048387-04" id="0"/><rel type="=" target="妻" sid="wiki00048387-04" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:田中裕子>
+裕子 ゆうこ 裕子 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/>
-前妻 ぜんさい 前妻 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/><体言>
+前妻 ぜんさい 前妻 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-伊藤 いとう 伊藤 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="ガ" target="前妻" sid="wiki00048387-05" id="0"/><rel type="=" target="前妻" sid="wiki00048387-05" id="0"/><NE:PERSON:伊藤エミ>
-エミ えみ エミ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
++ 2D <体言>
+伊藤 いとう 伊藤 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <rel type="ガ" target="前妻" sid="wiki00048387-05" id="0"/><rel type="=" target="前妻" sid="wiki00048387-05" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:伊藤エミ>
+エミ えみ エミ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/>
-身長 しんちょう 身長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/><体言>
+身長 しんちょう 身長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ 2D <rel type="=" target="身長" sid="wiki00048387-06" id="0"/>
-171 171 171 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><rel type="ガ２" target="由来" sid="wiki00048387-03-02" id="0"/>
-cm cm cm 名詞 6 組織名 6 * 0 * 0 NIL
++ 2D <rel type="=" target="身長" sid="wiki00048387-06" id="0"/><体言>
+171 171 171 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ニックネーム" sid="wiki00048387-03-01" id="0"/><rel type="ガ２" target="由来" sid="wiki00048387-03-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+cm cm cm 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048387-07 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/>
-血液型 けつえきがた 血液型 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-A A A 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="血液型" sid="wiki00048387-07" id="0"/><rel type="ノ" target="A" sid="wiki00048387-07" id="1"/><rel type="=" target="血液型" sid="wiki00048387-07" id="0"/>
-型 かた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="ノ" target="沢田" sid="wiki00048387-03-02" id="1"/><体言>
+血液型 けつえきがた 血液型 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+A A A 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="血液型" sid="wiki00048387-07" id="0"/><rel type="ノ" target="A" sid="wiki00048387-07" id="1"/><rel type="=" target="血液型" sid="wiki00048387-07" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+型 かた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

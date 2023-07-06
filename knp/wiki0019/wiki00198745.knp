@@ -1,68 +1,68 @@
 # S-ID:wiki00198745-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/10/20 MEMO:
 * 5D
-+ 1P
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 1P <体言>
+ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 / / / 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 2D
-IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 2D <体言>
+IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 11D <rel type="ノ" target="ISO" sid="wiki00198745-00-01" id="0"/><rel type="ノ" mode="AND" target="IEC" sid="wiki00198745-00-01" id="1"/><NE:ARTIFACT:ISO/IEC　18033>
-18033 いちはちぜろさんさん 18033 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 11D <rel type="ノ" target="ISO" sid="wiki00198745-00-01" id="0"/><rel type="ノ" mode="AND" target="IEC" sid="wiki00198745-00-01" id="1"/><体言><NE:ARTIFACT:ISO/IEC　18033>
+18033 いちはちぜろさんさん 18033 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4P <rel type="=" target="ISO" sid="wiki00198745-00-01" id="0"/><NE:ORGANIZATION:ISO>
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 4P <rel type="=" target="ISO" sid="wiki00198745-00-01" id="0"/><体言><NE:ORGANIZATION:ISO>
+ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="=" target="IEC" sid="wiki00198745-00-01" id="1"/><NE:ORGANIZATION:IEC>
-IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 5D <rel type="=" target="IEC" sid="wiki00198745-00-01" id="1"/><体言><NE:ORGANIZATION:IEC>
+IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 11D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-暗号 あんごう 暗号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言>
+暗号 あんごう 暗号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="暗号化" sid="wiki00198745-00-01" id="6"/>
-アルゴリズム あるごりずむ アルゴリズム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="暗号化" sid="wiki00198745-00-01" id="6"/><体言>
+アルゴリズム あるごりずむ アルゴリズム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 11D <用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 10D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="国際" sid="wiki00198745-00-01" id="9"/>
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ニヨッテ" target="ISO" sid="wiki00198745-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="IEC" sid="wiki00198745-00-01" id="4"/><rel type="ニカンシテ" target="アルゴリズム" sid="wiki00198745-00-01" id="7"/><rel type="ガ" target="18033" sid="wiki00198745-00-01" id="2"/><rel type="=構" target="18033" sid="wiki00198745-00-01" id="2"/><rel type="修飾" target="国際" sid="wiki00198745-00-01" id="9"/><rel type="修飾" mode="AND" target="標準" sid="wiki00198745-00-01" id="10"/>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="国際" sid="wiki00198745-00-01" id="9"/><体言>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ニヨッテ" target="ISO" sid="wiki00198745-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="IEC" sid="wiki00198745-00-01" id="4"/><rel type="ニカンシテ" target="アルゴリズム" sid="wiki00198745-00-01" id="7"/><rel type="ガ" target="18033" sid="wiki00198745-00-01" id="2"/><rel type="=構" target="18033" sid="wiki00198745-00-01" id="2"/><rel type="修飾" target="国際" sid="wiki00198745-00-01" id="9"/><rel type="修飾" mode="AND" target="標準" sid="wiki00198745-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00198745-00-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/20 MEMO:
 * -1D
-+ 1D
-Information Information Information 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+Information Information Information 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="ノ" target="Information" sid="wiki00198745-00-02" id="0"/><rel type="ノ" mode="？" target="なし"/>
-technology technology technology 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D
-Security Security Security 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 5D <rel type="ノ" target="Security" sid="wiki00198745-00-02" id="2"/><rel type="ノ" mode="？" target="なし"/><rel type="ノ？" target="technology" sid="wiki00198745-00-02" id="1"/><rel type="ノ？" mode="？" target="なし"/>
-techniques techniques techniques 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="ノ" target="Information" sid="wiki00198745-00-02" id="0"/><rel type="ノ" mode="？" target="なし"/><体言>
+technology technology technology 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 5D <rel type="=" target="暗号化" sid="wiki00198745-00-01" id="6"/>
-Encryption Encryption Encryption 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <体言>
+Security Security Security 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="ノ" target="Encryption" sid="wiki00198745-00-02" id="4"/><rel type="ノ" mode="？" target="なし"/><rel type="ノ？" target="techniques" sid="wiki00198745-00-02" id="3"/><rel type="ノ？" mode="？" target="なし"/><rel type="=" target="アルゴリズム" sid="wiki00198745-00-01" id="7"/><rel type="=" mode="AND" target="18033" sid="wiki00198745-00-01" id="2"/><NE:OPTIONAL:Information　technology　-　Security　techniques　-　Encryption　algorithms>
-algorithms algorithms algorithms 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 5D <rel type="ノ" target="Security" sid="wiki00198745-00-02" id="2"/><rel type="ノ" mode="？" target="なし"/><rel type="ノ？" target="technology" sid="wiki00198745-00-02" id="1"/><rel type="ノ？" mode="？" target="なし"/><体言>
+techniques techniques techniques 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D <rel type="=" target="暗号化" sid="wiki00198745-00-01" id="6"/><体言>
+Encryption Encryption Encryption 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ノ" target="Encryption" sid="wiki00198745-00-02" id="4"/><rel type="ノ" mode="？" target="なし"/><rel type="ノ？" target="techniques" sid="wiki00198745-00-02" id="3"/><rel type="ノ？" mode="？" target="なし"/><rel type="=" target="アルゴリズム" sid="wiki00198745-00-01" id="7"/><rel type="=" mode="AND" target="18033" sid="wiki00198745-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:Information　technology　-　Security　techniques　-　Encryption　algorithms>
+algorithms algorithms algorithms 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

@@ -1,40 +1,40 @@
 # S-ID:wiki00160435-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/09/14 MEMO:
 * 5D
-+ 1D
-ボーイング ぼーいんぐ ボーイング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 11D <NE:ARTIFACT:ボーイング737>
-737 ななさんなな 737 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+ボーイング ぼーいんぐ ボーイング 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 11D <体言><NE:ARTIFACT:ボーイング737>
+737 ななさんなな 737 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-航空 こうくう 航空 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ？" target="航空" sid="wiki00160435-00" id="3"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="機" sid="wiki00160435-00" id="4"/><rel type="ノ？" mode="AND" target="アメリカ合衆国" sid="wiki00160435-00" id="2"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+航空 こうくう 航空 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ？" target="航空" sid="wiki00160435-00" id="3"/><体言>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ？" target="機" sid="wiki00160435-00" id="4"/><rel type="ノ？" mode="AND" target="アメリカ合衆国" sid="wiki00160435-00" id="2"/><体言>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="ボーイング" sid="wiki00160435-00" id="0"/>
-ボーイング ぼーいんぐ ボーイング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D <rel type="=構" target="メーカー" sid="wiki00160435-00" id="5"/><rel type="修飾" target="メーカー" sid="wiki00160435-00" id="5"/><NE:ORGANIZATION:ボーイング社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <rel type="=" target="ボーイング" sid="wiki00160435-00" id="0"/><体言>
+ボーイング ぼーいんぐ ボーイング 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <rel type="=構" target="メーカー" sid="wiki00160435-00" id="5"/><rel type="修飾" target="メーカー" sid="wiki00160435-00" id="5"/><体言><NE:ORGANIZATION:ボーイング社>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="ガ" target="社" sid="wiki00160435-00" id="6"/><rel type="ヲ" target="旅客機" sid="wiki00160435-00" id="10"/>
-製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="社" sid="wiki00160435-00" id="6"/><rel type="ヲ" target="旅客機" sid="wiki00160435-00" id="10"/><用言:動><時制:非過去><節-主辞>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 11D <rel type="ガ" target="旅客機" sid="wiki00160435-00" id="10"/>
-小型 こがた 小型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 11D
-ジェット じぇっと ジェット 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="737" sid="wiki00160435-00" id="1"/><rel type="=構" target="737" sid="wiki00160435-00" id="1"/><rel type="修飾" target="製造する" sid="wiki00160435-00" id="8"/><rel type="修飾" mode="AND" target="ジェット" sid="wiki00160435-00" id="10"/>
-旅客機 りょかっき 旅客機 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ガ" target="旅客機" sid="wiki00160435-00" id="10"/><体言><非用言格解析:形>
+小型 こがた 小型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 11D <体言>
+ジェット じぇっと ジェット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="737" sid="wiki00160435-00" id="1"/><rel type="=構" target="737" sid="wiki00160435-00" id="1"/><rel type="修飾" target="製造する" sid="wiki00160435-00" id="8"/><rel type="修飾" mode="AND" target="ジェット" sid="wiki00160435-00" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+旅客機 りょかっき 旅客機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

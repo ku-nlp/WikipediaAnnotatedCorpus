@@ -1,34 +1,34 @@
 # S-ID:wiki00408879-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 3D
-+ 1D
-ゲームボーイ ゲームボーイ ゲームボーイ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
-アドバンス アドバンス アドバンス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+ゲームボーイ ゲームボーイ ゲームボーイ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言>
+アドバンス アドバンス アドバンス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:ORGANIZATION:任天堂>
-任天堂 にんてんどう 任天堂 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3D <体言><NE:ORGANIZATION:任天堂>
+任天堂 にんてんどう 任天堂 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="任天堂" sid="wiki00408879-00-01" id="2"/><rel type="ヲ" target="機" sid="wiki00408879-00-01" id="7"/>
-開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="任天堂" sid="wiki00408879-00-01" id="2"/><rel type="ヲ" target="機" sid="wiki00408879-00-01" id="7"/><用言:動><時制:過去><節-主辞>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機" sid="wiki00408879-00-01" id="7"/>
-携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機" sid="wiki00408879-00-01" id="7"/><体言><非用言格解析:動>
+携帯 けいたい 携帯 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 7D
-型 けい 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 7D
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="アドバンス" sid="wiki00408879-00-01" id="1"/><rel type="ノ" target="ゲーム" sid="wiki00408879-00-01" id="6"/><rel type="=" target="アドバンス" sid="wiki00408879-00-01" id="1"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+型 けい 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="アドバンス" sid="wiki00408879-00-01" id="1"/><rel type="ノ" target="ゲーム" sid="wiki00408879-00-01" id="6"/><rel type="=" target="アドバンス" sid="wiki00408879-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00408879-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="ゲーム" sid="wiki00408879-00-01" id="6"/>
-GAME GAME GAME 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="ゲーム" sid="wiki00408879-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+GAME GAME GAME 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 BOY BOY BOY 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -36,39 +36,39 @@ ADVANCE ADVANCE ADVANCE 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00408879-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
 * 4D
-+ 4D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D
-2001 2001 2001 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 2D <体言>
+2001 2001 2001 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 3D
-+ 3D
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 3D <体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 4D
-+ 4D <NE:DATE:2001年3月21日>
-21 21 21 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <体言><NE:DATE:2001年3月21日>
+21 21 21 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アドバンス" sid="wiki00408879-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
-発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="アドバンス" sid="wiki00408879-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切>
+発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00408879-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00408879-02" id="0"/><rel type="=" target="略称" sid="wiki00408879-02" id="0"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00408879-02" id="0"/><rel type="=" target="略称" sid="wiki00408879-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-GBA GBA GBA 名詞 6 組織名 6 * 0 * 0 NIL
+GBA GBA GBA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

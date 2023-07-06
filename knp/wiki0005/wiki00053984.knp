@@ -1,56 +1,56 @@
 # S-ID:wiki00053984-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
-+ 5D <NE:LOCATION:山形市>
-山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:山形市>
+山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:山形県>
-山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言><NE:LOCATION:山形県>
+山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="山形県" sid="wiki00053984-00-01" id="1"/>
-中部 ちゅうぶ 中部 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="中部" sid="wiki00053984-00-01" id="2"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="山形県" sid="wiki00053984-00-01" id="1"/><体言>
+中部 ちゅうぶ 中部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="中部" sid="wiki00053984-00-01" id="2"/><体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="市" sid="wiki00053984-00-01" id="5"/><rel type="ニ" target="東" sid="wiki00053984-00-01" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="市" sid="wiki00053984-00-01" id="5"/><rel type="ニ" target="東" sid="wiki00053984-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="=" target="山形市" sid="wiki00053984-00-01" id="0"/>
-市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="=" target="山形市" sid="wiki00053984-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00053984-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D
-やま やま やむ 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
++ -1D <用言:動><節-主辞><節-区切>
+やま やま やむ 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 がたし がたし がたい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 文語基本形 18 NIL
 EOS
 # S-ID:wiki00053984-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000
 * 1D
-+ 1D <rel type="=" target="山形県" sid="wiki00053984-00-01" id="1"/><NE:LOCATION:山形県>
-山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <rel type="=" target="山形県" sid="wiki00053984-00-01" id="1"/><体言><NE:LOCATION:山形県>
+山形 やまがた 山形 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="ノ" target="山形県" sid="wiki00053984-01" id="0"/><rel type="=" target="山形市" sid="wiki00053984-00-01" id="0"/><NE:LOCATION:県庁所在地>
-県庁所在地 けんちょうしょざいち 県庁所在地 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="ノ" target="山形県" sid="wiki00053984-01" id="0"/><rel type="=" target="山形市" sid="wiki00053984-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:県庁所在地>
+県庁所在地 けんちょうしょざいち 県庁所在地 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="県庁所在地" sid="wiki00053984-01" id="1"/>
-市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="県庁所在地" sid="wiki00053984-01" id="1"/><体言>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00053984-01" id="3"/>
-指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="山形市" sid="wiki00053984-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00053984-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

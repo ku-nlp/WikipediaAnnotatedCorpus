@@ -1,65 +1,65 @@
 # S-ID:wiki01615514-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 6D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <NE:ORGANIZATION:株式会社教文館>
-教文館 教文館 教文館 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><NE:ORGANIZATION:株式会社教文館>
+教文館 教文館 教文館 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 7D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D
-中央 ちゅうおう 中央 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <体言>
+中央 ちゅうおう 中央 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <NE:LOCATION:東京都中央区銀座>
-銀座 ぎんざ 銀座 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 7D <体言><NE:LOCATION:東京都中央区銀座>
+銀座 ぎんざ 銀座 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 * 4D
-+ 8D
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
++ 8D <体言>
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 丁目 ちょうめ 丁目 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="社" sid="wiki01615514-00-01" id="10"/><rel type="ニ" target="4丁目" sid="wiki01615514-00-01" id="7"/>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ガ" target="社" sid="wiki01615514-00-01" id="10"/><rel type="ニ" target="4丁目" sid="wiki01615514-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6P
-+ 10D <rel type="ガ" target="社" sid="wiki01615514-00-01" id="10"/><rel type="ヲ" target="不特定:物"/>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P <rel type="=" target="教文館" sid="wiki01615514-00-01" id="2"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="社" sid="wiki01615514-00-01" id="10"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11P <rel type="=" target="教文館" sid="wiki01615514-00-01" id="2"/><体言>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="教文館" sid="wiki01615514-00-01" id="2"/><rel type="=" target="社" sid="wiki01615514-00-01" id="10"/>
-書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="教文館" sid="wiki01615514-00-01" id="2"/><rel type="=" target="社" sid="wiki01615514-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01615514-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 1D <rel type="=" target="東京都" sid="wiki01615514-00-01" id="4"/>
-きょう きょう きょう 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 1D <rel type="=" target="東京都" sid="wiki01615514-00-01" id="4"/><体言>
+きょう きょう きょう 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * 2P
-+ 2P <rel type="=" target="社" sid="wiki01615514-00-01" id="10"/>
-ぶんかん ぶんかん ぶんかん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="=" target="社" sid="wiki01615514-00-01" id="10"/><体言>
+ぶんかん ぶんかん ぶんかん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-Kyobunkwan Kyobunkwan Kyobunkwan 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <体言>
+Kyobunkwan Kyobunkwan Kyobunkwan 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Inc Inc Inc 名詞 6 組織名 6 * 0 * 0 NIL
 . . . 特殊 1 句点 1 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-Christian Christian Christian 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+Christian Christian Christian 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Literature Literature Literature 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL

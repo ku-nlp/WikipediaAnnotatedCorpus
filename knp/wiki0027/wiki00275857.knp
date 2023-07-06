@@ -1,178 +1,178 @@
 # S-ID:wiki00275857-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 4D
-+ 6D <NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6D <体言><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 2D
-ウィキ うぃき ウィキ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="トイウ" target="ウィキ" sid="wiki00275857-00-01" id="1"/>
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+ウィキ うぃき ウィキ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="トイウ" target="ウィキ" sid="wiki00275857-00-01" id="1"/><体言>
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/>
-旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="ノ？" target="旅行" sid="wiki00275857-00-01" id="3"/>
-ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ？" target="旅行" sid="wiki00275857-00-01" id="3"/><体言>
+ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ガイドブック" sid="wiki00275857-00-01" id="4"/><rel type="デ" target="システム上" sid="wiki00275857-00-01" id="2"/><rel type="外の関係" target="プロジェクト" sid="wiki00275857-00-01" id="6"/>
-作る つくる 作る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ガイドブック" sid="wiki00275857-00-01" id="4"/><rel type="デ" target="システム上" sid="wiki00275857-00-01" id="2"/><rel type="外の関係" target="プロジェクト" sid="wiki00275857-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+作る つくる 作る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="トイウ" target="作る" sid="wiki00275857-00-01" id="5"/><rel type="=構" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><memo text="CO"/>
-プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="トイウ" target="作る" sid="wiki00275857-00-01" id="5"/><rel type="=構" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00275857-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/31 MEMO:
 * -1D
-+ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:Wikitravel><NE-OPTIONAL:ARTIFACT,NONE:0>
-Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:Wikitravel><NE-OPTIONAL:ARTIFACT,NONE:0>
+Wikitravel Wikitravel Wikitravel 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00275857-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/01/31 MEMO:
 * 1D
-+ 1D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="世界" sid="wiki00275857-01-01" id="0"/>
-中 じゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="世界" sid="wiki00275857-01-01" id="0"/><体言>
+中 じゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="修飾" target="中" sid="wiki00275857-01-01" id="1"/>
-ウィキトラベラー ウィキトラベラー ウィキトラベラー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="中" sid="wiki00275857-01-01" id="1"/><体言>
+ウィキトラベラー ウィキトラベラー ウィキトラベラー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="ニ" mode="AND" target="製作" sid="wiki00275857-01-01" id="13"/>
-協力 きょうりょく 協力 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="ニ" mode="AND" target="製作" sid="wiki00275857-01-01" id="13"/><体言><非用言格解析:動>
+協力 きょうりょく 協力 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
-コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
++ 5P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><用言:判><体言><時制:非過去>
+コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 * 7P
-+ 8P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
-包括 ほうかつ 包括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8P <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><用言:形><時制:非過去>
+包括 ほうかつ 包括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
-最新で さいしんで 最新だ 形容詞 3 * 0 ナノ形容詞 22 ダ列タ系連用テ形 13 NIL
++ 8D <rel type="ガ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><用言:形><時制:非過去>
+最新で さいしんで 最新だ 形容詞 3 * 0 ナノ形容詞 22 ダ列タ系連用テ形 13 NIL <基本句-主辞>
 * 7D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
-信頼 しんらい 信頼 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><体言><非用言格解析:動>
+信頼 しんらい 信頼 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="信頼" sid="wiki00275857-01-01" id="7"/><rel type="ガ２" target="不特定:人"/><rel type="ニ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/>
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 12D <rel type="ガ" target="信頼" sid="wiki00275857-01-01" id="7"/><rel type="ガ２" target="不特定:人"/><rel type="ニ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 10D <rel type="=" target="世界" sid="wiki00275857-01-01" id="0"/>
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="トイウ" target="世界" sid="wiki00275857-01-01" id="9"/>
-規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="世界" sid="wiki00275857-01-01" id="0"/><体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="トイウ" target="世界" sid="wiki00275857-01-01" id="9"/><体言>
+規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/>
-旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D <rel type="=" target="ガイドブック" sid="wiki00275857-00-01" id="4"/><rel type="修飾" target="規模" sid="wiki00275857-01-01" id="10"/>
-ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/><体言><非用言格解析:動>
+旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="=" target="ガイドブック" sid="wiki00275857-00-01" id="4"/><rel type="修飾" target="規模" sid="wiki00275857-01-01" id="10"/><体言>
+ガイドブック がいどぶっく ガイドブック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><rel type="=" target="作る" sid="wiki00275857-00-01" id="5"/><rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ガ" mode="？" target="不特定:人"/>
-製作 せいさく 製作 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ヲ" target="ガイドブック" sid="wiki00275857-01-01" id="12"/><rel type="=" target="作る" sid="wiki00275857-00-01" id="5"/><rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ガ" mode="？" target="不特定:人"/><体言><非用言格解析:動>
+製作 せいさく 製作 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="ヲ" target="製作" sid="wiki00275857-01-01" id="14"/>
-目指す めざす 目指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><rel type="ヲ" target="製作" sid="wiki00275857-01-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
+目指す めざす 目指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00275857-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/31 MEMO:
 * 1D
-+ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2D <rel type="ガ" target="者" sid="wiki00275857-01-02" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-01-02" id="0"/>
-参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ノ？" target="参加" sid="wiki00275857-01-02" id="1"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><体言><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2D <rel type="ガ" target="者" sid="wiki00275857-01-02" id="2"/><rel type="ニ" target="ウィキトラベル" sid="wiki00275857-01-02" id="0"/><体言><非用言格解析:動>
+参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ？" target="参加" sid="wiki00275857-01-02" id="1"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D
-対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 4D <用言:動><時制:非過去>
+対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニタイシテ" target="者" sid="wiki00275857-01-02" id="2"/>
-呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="=構" target="ウィキトラベラー" sid="wiki00275857-01-01" id="2"/><rel type="ニタイシテ" target="者" sid="wiki00275857-01-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00275857-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/31 MEMO:
 * 7D
-+ 8D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
-ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="=" target="ウィキトラベル" sid="wiki00275857-00-01" id="0"/><体言><NE:OPTIONAL:ウィキトラベル><NE-OPTIONAL:ARTIFACT,NONE:0>
+ウィキトラベル うぃきとらべる ウィキトラベル 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 2D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/>
-旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="ノ？" target="旅行" sid="wiki00275857-02" id="1"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="=" target="旅行" sid="wiki00275857-00-01" id="3"/><体言><非用言格解析:動>
+旅行 りょこう 旅行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ？" target="旅行" sid="wiki00275857-02" id="1"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ニカンシテ" target="旅行" sid="wiki00275857-02" id="1"/>
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ニカンシテ" target="旅行" sid="wiki00275857-02" id="1"/><体言>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
-容易に よういに 容易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 5D <用言:形><時制:非過去>
+容易に よういに 容易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="ヲ" target="情報" sid="wiki00275857-02" id="3"/><rel type="外の関係" target="精神" sid="wiki00275857-02" id="6"/>
-共有 きょうゆう 共有 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="者" sid="wiki00275857-02" id="2"/><rel type="ヲ" target="情報" sid="wiki00275857-02" id="3"/><rel type="外の関係" target="精神" sid="wiki00275857-02" id="6"/><用言:動><時制:非過去><節-主辞>
+共有 きょうゆう 共有 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 7D <rel type="トイウ" target="共有する" sid="wiki00275857-02" id="5"/>
-精神 せいしん 精神 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="トイウ" target="共有する" sid="wiki00275857-02" id="5"/><体言>
+精神 せいしん 精神 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 8D <用言:動>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><rel type="ニヨッテ" target="精神" sid="wiki00275857-02" id="6"/>
-成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><rel type="ニヨッテ" target="精神" sid="wiki00275857-02" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
+成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00275857-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/31 MEMO:
 * 1D
-+ 1D <rel type="=" target="コピーレフト" sid="wiki00275857-01-01" id="4"/>
-コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="コピーレフト" sid="wiki00275857-01-01" id="4"/><体言>
+コピーレフト こぴーれふと コピーレフト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="コピーレフト" sid="wiki00275857-03" id="0"/>
-ライセンス らいせんす ライセンス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="コピーレフト" sid="wiki00275857-03" id="0"/><体言>
+ライセンス らいせんす ライセンス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 9D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 9D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ノ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/>
-内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><体言>
+内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D
-より より より 副詞 8 * 0 * 0 * 0 NIL
+より より より 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5P
-+ 6P
-広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 6P <用言:形><時制:非過去>
+広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * 6D
-+ 7D
-フリーに ふりーに フリーだ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
++ 7D <用言:形><時制:非過去>
+フリーに ふりーに フリーだ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL <基本句-主辞>
 * 7D
-+ 8D <rel type="ガ" target="内容" sid="wiki00275857-03" id="3"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="事" sid="wiki00275857-03" id="8"/>
-使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ 8D <rel type="ガ" target="内容" sid="wiki00275857-03" id="3"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="事" sid="wiki00275857-03" id="8"/><用言:動><時制:非過去><節-主辞>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 9D <rel type="トイウ" target="使われる" sid="wiki00275857-03" id="7"/>
-事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 9D <rel type="トイウ" target="使われる" sid="wiki00275857-03" id="7"/><体言>
+事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><rel type="ヲ" target="事" sid="wiki00275857-03" id="8"/><rel type="ニヨッテ" target="ライセンス" sid="wiki00275857-03" id="1"/><rel type="ニ" target="不特定:人"/>
-保障 ほしょう 保障 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ウィキトラベル" sid="wiki00275857-02" id="0"/><rel type="ヲ" target="事" sid="wiki00275857-03" id="8"/><rel type="ニヨッテ" target="ライセンス" sid="wiki00275857-03" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+保障 ほしょう 保障 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

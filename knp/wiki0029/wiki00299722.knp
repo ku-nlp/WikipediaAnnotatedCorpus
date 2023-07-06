@@ -1,48 +1,48 @@
 # S-ID:wiki00299722-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/01/23 MEMO:
 * 4D
-+ 5D <NE:OPTIONAL:聖書><NE-OPTIONAL:ARTIFACT,NONE:0>
-聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <体言><NE:OPTIONAL:聖書><NE-OPTIONAL:ARTIFACT,NONE:0>
+聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P
-キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <体言>
+キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 3D
-ユダヤ ゆだや ユダヤ 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 5D <rel type="ノ？" target="ユダヤ" sid="wiki00299722-00-01" id="2"/>
-教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+ユダヤ ゆだや ユダヤ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ？" target="ユダヤ" sid="wiki00299722-00-01" id="2"/><体言>
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="キリスト教" sid="wiki00299722-00-01" id="1"/><rel type="ノ？" mode="AND" target="教" sid="wiki00299722-00-01" id="3"/>
-教典 きょうてん 教典 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="キリスト教" sid="wiki00299722-00-01" id="1"/><rel type="ノ？" mode="AND" target="教" sid="wiki00299722-00-01" id="3"/><体言>
+教典 きょうてん 教典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="キリスト教" sid="wiki00299722-00-01" id="1"/><rel type="ノ？" mode="AND" target="教" sid="wiki00299722-00-01" id="3"/><memo text="CO"/>
-正典 せいてん 正典 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="キリスト教" sid="wiki00299722-00-01" id="1"/><rel type="ノ？" mode="AND" target="教" sid="wiki00299722-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+正典 せいてん 正典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00299722-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * -1D
-+ -1D <rel type="=" target="聖書" sid="wiki00299722-00-01" id="0"/><NE:OPTIONAL:せいしょ><NE-OPTIONAL:ARTIFACT:0>
-せいしょ せいしょ せいしょ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="聖書" sid="wiki00299722-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:せいしょ><NE-OPTIONAL:ARTIFACT:0>
+せいしょ せいしょ せいしょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00299722-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/01/23 MEMO:
 * 2D
-+ 1D
-イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 3D
-教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="教" sid="wiki00299722-01" id="1"/>
-教典 きょうてん 教典 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=構" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="ノ？" target="教" sid="wiki00299722-01" id="1"/><体言>
+教典 きょうてん 教典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="デ" target="教" sid="wiki00299722-01" id="1"/><rel type="ト" target="教典" sid="wiki00299722-01" id="2"/><rel type="ニ" target="不特定:人"/>
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
++ -1D <rel type="ガ" target="聖書" sid="wiki00299722-00-01" id="0"/><rel type="デ" target="教" sid="wiki00299722-01" id="1"/><rel type="ト" target="教典" sid="wiki00299722-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

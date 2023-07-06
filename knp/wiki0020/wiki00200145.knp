@@ -1,48 +1,48 @@
 # S-ID:wiki00200145-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/10/31 MEMO:
 * 5D
-+ 1D
-パリ ぱり パリ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 9D <NE:ORGANIZATION:パリ大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+パリ ぱり パリ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 9D <体言><NE:ORGANIZATION:パリ大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 7D
-かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL
+かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 5D
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <NE:LOCATION:フランス共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 6D <体言><NE:LOCATION:フランス共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="パリ" sid="wiki00200145-00-01" id="0"/><rel type="ノ？" target="国" sid="wiki00200145-00-01" id="5"/><NE:LOCATION:パリ>
-パリ ぱり パリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="=" target="パリ" sid="wiki00200145-00-01" id="0"/><rel type="ノ？" target="国" sid="wiki00200145-00-01" id="5"/><体言><NE:LOCATION:パリ>
+パリ ぱり パリ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="大学" sid="wiki00200145-00-01" id="9"/><rel type="ニ" target="パリ" sid="wiki00200145-00-01" id="6"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="大学" sid="wiki00200145-00-01" id="9"/><rel type="ニ" target="パリ" sid="wiki00200145-00-01" id="6"/><用言:動><時制:過去><節-主辞>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 9D
-公立 こうりつ 公立 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="大学" sid="wiki00200145-00-01" id="1"/><rel type="修飾" target="公立" sid="wiki00200145-00-01" id="8"/><rel type="=構" target="大学" sid="wiki00200145-00-01" id="1"/><memo text="CO"/>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+公立 こうりつ 公立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="大学" sid="wiki00200145-00-01" id="1"/><rel type="修飾" target="公立" sid="wiki00200145-00-01" id="8"/><rel type="=構" target="大学" sid="wiki00200145-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00200145-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/31 MEMO:
 * -1D
-+ 3D <rel type="=≒" target="フランス" sid="wiki00200145-00-01" id="3"/><NE:OPTIONAL:仏><NE-OPTIONAL:LOCATION,NONE:0>
-仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <rel type="=≒" target="フランス" sid="wiki00200145-00-01" id="3"/><体言><NE:OPTIONAL:仏><NE-OPTIONAL:LOCATION,NONE:0>
+仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-Universite Universite Universite 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <体言>
+Universite Universite Universite 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-de de de 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <体言>
+de de de 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="大学" sid="wiki00200145-00-01" id="1"/><rel type="デ" target="仏" sid="wiki00200145-00-02" id="0"/><NE:ORGANIZATION:Universite　de　Paris>
-Paris Paris Paris 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="=" target="大学" sid="wiki00200145-00-01" id="1"/><rel type="デ" target="仏" sid="wiki00200145-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:Universite　de　Paris>
+Paris Paris Paris 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

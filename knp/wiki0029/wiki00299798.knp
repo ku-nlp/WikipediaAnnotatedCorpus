@@ -1,178 +1,178 @@
 # S-ID:wiki00299798-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:104.00000 MOD:2023/01/23 MEMO:
 * 10D
-+ 1D
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 13D <NE:DATE:鎌倉時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 1D <体言>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 13D <体言><NE:DATE:鎌倉時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 3D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 8D <rel type="ノ？" target="日本" sid="wiki00299798-00-01" id="2"/>
-史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8D <rel type="ノ？" target="日本" sid="wiki00299798-00-01" id="2"/><体言>
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D
-幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <NE:LOCATION:鎌倉>
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:鎌倉>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="幕府" sid="wiki00299798-00-01" id="4"/><rel type="ニ" target="鎌倉" sid="wiki00299798-00-01" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="外の関係" target="時代" sid="wiki00299798-00-01" id="7"/>
-置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
++ 7D <rel type="ガ" target="幕府" sid="wiki00299798-00-01" id="4"/><rel type="ニ" target="鎌倉" sid="wiki00299798-00-01" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="外の関係" target="時代" sid="wiki00299798-00-01" id="7"/><用言:動><時制:過去><節-主辞>
+置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 8D <rel type="トイウ" target="置かれていた" sid="wiki00299798-00-01" id="6"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 8D <rel type="トイウ" target="置かれていた" sid="wiki00299798-00-01" id="6"/><体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ヲ" target="時代" sid="wiki00299798-00-01" id="7"/><rel type="外の関係" target="一つ" sid="wiki00299798-00-01" id="13"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 13D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ヲ" target="時代" sid="wiki00299798-00-01" id="7"/><rel type="外の関係" target="一つ" sid="wiki00299798-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 10D <rel type="=" target="日本" sid="wiki00299798-00-01" id="2"/><NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="=" target="日本" sid="wiki00299798-00-01" id="2"/><体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ノ？" target="日本" sid="wiki00299798-00-01" id="9"/><rel type="=" target="史" sid="wiki00299798-00-01" id="3"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ？" target="日本" sid="wiki00299798-00-01" id="9"/><rel type="=" target="史" sid="wiki00299798-00-01" id="3"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="=≒" target="時代" sid="wiki00299798-00-01" id="7"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 13D <rel type="ノ？" target="時代" sid="wiki00299798-00-01" id="11"/><rel type="ノ？" mode="AND" target="歴史" sid="wiki00299798-00-01" id="10"/>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="=≒" target="時代" sid="wiki00299798-00-01" id="7"/><体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ？" target="時代" sid="wiki00299798-00-01" id="11"/><rel type="ノ？" mode="AND" target="歴史" sid="wiki00299798-00-01" id="10"/><体言><非用言格解析:動>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ノ" target="区分" sid="wiki00299798-00-01" id="12"/><rel type="=構" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00299798-00-01" id="12"/><rel type="トイウ" target="指す" sid="wiki00299798-00-01" id="8"/>
++ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ノ" target="区分" sid="wiki00299798-00-01" id="12"/><rel type="=構" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00299798-00-01" id="12"/><rel type="トイウ" target="指す" sid="wiki00299798-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00299798-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * 1D
-+ 1D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/>
-かまくら かまくら かまくら 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
++ 1D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/><体言>
+かまくら かまくら かまくら 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 * 3D
-+ 8D <rel type="=" target="時代" sid="wiki00299798-00-01" id="1"/><NE:DATE:かまくらじだい>
-じだい じだい じだい 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 8D <rel type="=" target="時代" sid="wiki00299798-00-01" id="1"/><体言><NE:DATE:かまくらじだい>
+じだい じだい じだい 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 8P <rel type="ノ" target="12世紀" sid="wiki00299798-00-02" id="2"/><NE:DATE:12世紀末>
++ 8P <rel type="ノ" target="12世紀" sid="wiki00299798-00-02" id="2"/><体言><NE:DATE:12世紀末>
 末 まつ/すえ 末 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-- から - 特殊 1 記号 5 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D
-元弘 げんこう 元弘 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 7P <rel type="=" target="末" sid="wiki00299798-00-02" id="3"/><NE:DATE:元弘3年>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <体言>
+元弘 げんこう 元弘 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 7P <rel type="=" target="末" sid="wiki00299798-00-02" id="3"/><体言><NE:DATE:元弘3年>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-正慶 しょうきょう 正慶 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 8D <NE:DATE:正慶2年>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言>
+正慶 しょうきょう 正慶 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 8D <体言><NE:DATE:正慶2年>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=" target="2年" sid="wiki00299798-00-02" id="9"/><rel type="カラ" target="末" sid="wiki00299798-00-02" id="3"/><rel type="マデ" target="1333年" sid="wiki00299798-00-02" id="8"/><NE:DATE:1333年>
++ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=" target="2年" sid="wiki00299798-00-02" id="9"/><rel type="カラ" target="末" sid="wiki00299798-00-02" id="3"/><rel type="マデ" target="1333年" sid="wiki00299798-00-02" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:1333年>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-1333 せんさんびゃくさんじゅうさん 1333 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+1333 せんさんびゃくさんじゅうさん 1333 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00299798-00-03 括弧始:（ 括弧終:） 括弧位置:49 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/23 MEMO:
 * -1D
-+ 2D
-現 げん 現 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+現 げん 現 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <体言>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ノ？" target="神奈川県" sid="wiki00299798-00-03" id="1"/><rel type="修飾" target="現" sid="wiki00299798-00-03" id="0"/><rel type="=≒" target="鎌倉" sid="wiki00299798-00-01" id="5"/><NE:LOCATION:神奈川県鎌倉市>
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="ノ？" target="神奈川県" sid="wiki00299798-00-03" id="1"/><rel type="修飾" target="現" sid="wiki00299798-00-03" id="0"/><rel type="=≒" target="鎌倉" sid="wiki00299798-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:神奈川県鎌倉市>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00299798-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/23 MEMO:
 * 1D
-+ 1D
-朝廷 ちょうてい 朝廷 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+朝廷 ちょうてい 朝廷 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ト" target="朝廷" sid="wiki00299798-01" id="0"/>
-並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14 NIL
++ 5D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ト" target="朝廷" sid="wiki00299798-01" id="0"/><用言:動><節-主辞><節-区切>
+並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14 NIL <基本句-主辞>
 * 3D
-+ 3D <rel type="ノ" target="日本" sid="wiki00299798-00-01" id="2"/>
-全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="全国" sid="wiki00299798-01" id="2"/>
-統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ノ" target="日本" sid="wiki00299798-00-01" id="2"/><体言>
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="全国" sid="wiki00299798-01" id="2"/><体言><非用言格解析:動>
+統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="統治" sid="wiki00299798-01" id="3"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="統治" sid="wiki00299798-01" id="3"/><体言>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ト" target="中心" sid="wiki00299798-01" id="4"/>
-なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 7D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ト" target="中心" sid="wiki00299798-01" id="4"/><用言:動><時制:過去><節-主辞>
+なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 7D
-+ 7D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/>
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 11D <rel type="=" target="幕府" sid="wiki00299798-00-01" id="4"/><NE:OPTIONAL:鎌倉幕府><NE-OPTIONAL:ORGANIZATION,NONE:0>
-幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 7D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="0"/><体言>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 11D <rel type="=" target="幕府" sid="wiki00299798-00-01" id="4"/><体言><NE:OPTIONAL:鎌倉幕府><NE-OPTIONAL:ORGANIZATION,NONE:0>
+幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D
-相模 さがみの 相模 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 10D <rel type="=≒" target="神奈川県" sid="wiki00299798-00-03" id="1"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 11D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="5"/><rel type="ノ？" target="国" sid="wiki00299798-01" id="9"/><NE:LOCATION:相模国鎌倉>
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9D <体言>
+相模 さがみの 相模 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 10D <rel type="=≒" target="神奈川県" sid="wiki00299798-00-03" id="1"/><体言>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 11D <rel type="=" target="鎌倉" sid="wiki00299798-00-01" id="5"/><rel type="ノ？" target="国" sid="wiki00299798-01" id="9"/><体言><NE:LOCATION:相模国鎌倉>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ニ" target="鎌倉" sid="wiki00299798-01" id="10"/><rel type="=" target="置かれていた" sid="wiki00299798-00-01" id="6"/>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="幕府" sid="wiki00299798-01" id="7"/><rel type="ニ" target="鎌倉" sid="wiki00299798-01" id="10"/><rel type="=" target="置かれていた" sid="wiki00299798-00-01" id="6"/><用言:動><時制:過去><節-主辞><節-区切>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 * 9D
 + 13D
-こう こう こう 指示詞 7 副詞形態指示詞 3 * 0 * 0 NIL
+こう こう こう 指示詞 7 副詞形態指示詞 3 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ヲ" target="時代" sid="wiki00299798-00-01" id="7"/>
-言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="ヲ" target="時代" sid="wiki00299798-00-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
+言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00299798-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/01/23 MEMO:
 * 3D
-+ 4D <rel type="ガ" target="統治" sid="wiki00299798-02" id="4"/>
-本格 ほんかく 本格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="統治" sid="wiki00299798-02" id="4"/><用言:形><時制:非過去>
+本格 ほんかく 本格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 2D
-+ 2D
-武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ニヨッテ" target="武家" sid="wiki00299798-02" id="1"/>
-政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ニヨッテ" target="武家" sid="wiki00299798-02" id="1"/><体言>
+政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 4D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ガ" target="政権" sid="wiki00299798-02" id="2"/><rel type="ニヨッテ" target="政権" sid="wiki00299798-02" id="2"/><rel type="=≒" target="統治" sid="wiki00299798-01" id="3"/><rel type="ヲ" target="不特定:人"/><rel type="ヲ" mode="？" target="全国" sid="wiki00299798-01" id="2"/>
-統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="政権" sid="wiki00299798-02" id="2"/><rel type="ニヨッテ" target="政権" sid="wiki00299798-02" id="2"/><rel type="=≒" target="統治" sid="wiki00299798-01" id="3"/><rel type="ヲ" target="不特定:人"/><rel type="ヲ" mode="？" target="全国" sid="wiki00299798-01" id="2"/><体言><非用言格解析:動>
+統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="統治" sid="wiki00299798-02" id="4"/><rel type="時間" target="時代" sid="wiki00299798-02" id="6"/>
-開始 かいし 開始 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="統治" sid="wiki00299798-02" id="4"/><rel type="時間" target="時代" sid="wiki00299798-02" id="6"/><用言:動><時制:過去><節-主辞>
+開始 かいし 開始 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=構" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="修飾" target="開始した" sid="wiki00299798-02" id="5"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
++ -1D <rel type="ガ" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="=構" target="時代" sid="wiki00299798-00-01" id="1"/><rel type="修飾" target="開始した" sid="wiki00299798-02" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

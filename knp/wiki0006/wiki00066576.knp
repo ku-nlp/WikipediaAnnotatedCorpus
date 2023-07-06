@@ -1,135 +1,135 @@
 # S-ID:wiki00066576-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:株式会社ニコン>
-ニコン にこん ニコン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:株式会社ニコン>
+ニコン にこん ニコン 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D
-光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="光学" sid="wiki00066576-00" id="4"/>
-機器 きき 機器 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="機器" sid="wiki00066576-00" id="5"/><rel type="=" target="ニコン" sid="wiki00066576-00" id="2"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="光学" sid="wiki00066576-00" id="4"/><体言>
+機器 きき 機器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="機器" sid="wiki00066576-00" id="5"/><rel type="=" target="ニコン" sid="wiki00066576-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066576-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 2P
-カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言>
+カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2D
-デジタル でじたる デジタル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P
-カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+デジタル でじたる デジタル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <体言>
+カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5P
-双眼鏡 そうがんきょう 双眼鏡 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <体言>
+双眼鏡 そうがんきょう 双眼鏡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 5D
-望遠 ぼうえん 望遠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P
-鏡 きょう 鏡 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+望遠 ぼうえん 望遠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7P <体言>
+鏡 きょう 鏡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 7D
-顕微 けんび 顕微 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P
-鏡 きょう 鏡 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+顕微 けんび 顕微 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <体言>
+鏡 きょう 鏡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 9P
-ステッパー ステッパー ステッパー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <体言>
+ステッパー ステッパー ステッパー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 11P
-メガネ めがね メガネ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <体言>
+メガネ めがね メガネ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
-+ 11D <rel type="ガ" target="不特定:人"/>
-測定 そくてい 測定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13P <rel type="ノ" target="測量" sid="wiki00066576-01" id="12"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+測定 そくてい 測定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13P <rel type="ノ" target="測量" sid="wiki00066576-01" id="12"/><体言>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9P
-+ 13D <rel type="ガ" target="不特定:人"/>
-測量 そくりょう 測量 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15P <rel type="ノ" target="測量" sid="wiki00066576-01" id="12"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+測量 そくりょう 測量 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15P <rel type="ノ" target="測量" sid="wiki00066576-01" id="12"/><体言>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10P
-+ 15D <rel type="=" target="光学" sid="wiki00066576-00" id="4"/>
-光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16P <rel type="ノ" target="光学" sid="wiki00066576-01" id="14"/>
-素材 そざい 素材 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=" target="光学" sid="wiki00066576-00" id="4"/><体言>
+光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16P <rel type="ノ" target="光学" sid="wiki00066576-01" id="14"/><体言>
+素材 そざい 素材 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11A
-+ 19A
-ソフトウェア そふとうぇあ ソフトウェア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19A <体言>
+ソフトウェア そふとうぇあ ソフトウェア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 18D <rel type="=" target="光学" sid="wiki00066576-00" id="4"/>
-光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D <rel type="ガ" target="装置" sid="wiki00066576-01" id="19"/><rel type="ニ" target="光学" sid="wiki00066576-01" id="17"/>
-関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 21D
-装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=" target="光学" sid="wiki00066576-00" id="4"/><体言>
+光学 こうがく 光学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <rel type="ガ" target="装置" sid="wiki00066576-01" id="19"/><rel type="ニ" target="光学" sid="wiki00066576-01" id="17"/><体言><非用言格解析:動>
+関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 21D <体言>
+装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14P
-+ 21D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 24P <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="グループ" sid="wiki00066576-01" id="23"/><rel type="=" target="ニコン" sid="wiki00066576-00" id="2"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <体言>
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 24P <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="グループ" sid="wiki00066576-01" id="23"/><rel type="=" target="ニコン" sid="wiki00066576-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
-+ 23D
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 24D <rel type="ノ" target="三菱" sid="wiki00066576-01" id="22"/><NE:ORGANIZATION:三菱グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 23D <体言>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 24D <rel type="ノ" target="三菱" sid="wiki00066576-01" id="22"/><体言><NE:ORGANIZATION:三菱グループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="グループ" sid="wiki00066576-01" id="23"/><rel type="=" target="メーカー" sid="wiki00066576-01" id="21"/>
-一員 いちいん 一員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="ノ" target="グループ" sid="wiki00066576-01" id="23"/><rel type="=" target="メーカー" sid="wiki00066576-01" id="21"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+一員 いちいん 一員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066576-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D <rel type="=" target="三菱" sid="wiki00066576-01" id="22"/>
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-金曜 きんよう 金曜 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5P <NE:ORGANIZATION:三菱金曜会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="三菱" sid="wiki00066576-01" id="22"/><体言>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+金曜 きんよう 金曜 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5P <体言><NE:ORGANIZATION:三菱金曜会>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="三菱" sid="wiki00066576-01" id="22"/>
-三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D
-広報 こうほう 広報 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D
-委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <NE:ORGANIZATION:三菱広報委員会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <rel type="=" target="三菱" sid="wiki00066576-01" id="22"/><体言>
+三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><非用言格解析:動>
+広報 こうほう 広報 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言>
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <体言><NE:ORGANIZATION:三菱広報委員会>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D <rel type="ノ" target="会" sid="wiki00066576-02" id="6"/>
-会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="=" target="メーカー" sid="wiki00066576-00" id="6"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="会" sid="wiki00066576-02" id="6"/><体言>
+会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ニコン" sid="wiki00066576-00" id="2"/><rel type="=" target="メーカー" sid="wiki00066576-00" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

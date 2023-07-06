@@ -1,82 +1,82 @@
 # S-ID:wiki00049907-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:91.00000
 * 6D
-+ 1D
-広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 19D <NE:ORGANIZATION:広島テレビ放送株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 19D <体言><NE:ORGANIZATION:広島テレビ放送株式会社>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 9D <rel type="=" target="テレビ" sid="wiki00049907-00-01" id="1"/><NE:LOCATION:広島県>
-広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <rel type="=" target="テレビ" sid="wiki00049907-00-01" id="1"/><体言><NE:LOCATION:広島県>
+広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00049907-00-01" id="2"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="6"/>
-対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="対象" sid="wiki00049907-00-01" id="7"/><rel type="=" target="広島県" sid="wiki00049907-00-01" id="5"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00049907-00-01" id="2"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="6"/><体言>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ノ" target="対象" sid="wiki00049907-00-01" id="7"/><rel type="=" target="広島県" sid="wiki00049907-00-01" id="5"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 12D <rel type="ガ" target="者" sid="wiki00049907-00-01" id="19"/><rel type="ヲ" target="広島県" sid="wiki00049907-00-01" id="5"/>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
++ 12D <rel type="ガ" target="者" sid="wiki00049907-00-01" id="19"/><rel type="ヲ" target="広島県" sid="wiki00049907-00-01" id="5"/><用言:動><時制:過去><節-主辞>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 5D
-+ 11D
-テレビジョン テレビジョン テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00049907-00-01" id="6"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="11"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+テレビジョン テレビジョン テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00049907-00-01" id="6"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="11"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 19D <rel type="ガ" target="者" sid="wiki00049907-00-01" id="19"/><rel type="ヲ" target="事業" sid="wiki00049907-00-01" id="12"/>
-行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
++ 19D <rel type="ガ" target="者" sid="wiki00049907-00-01" id="19"/><rel type="ヲ" target="事業" sid="wiki00049907-00-01" id="12"/><用言:動><時制:非過去><節-主辞>
+行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 15D
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 16D
-地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D
-基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 19D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="17"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00049907-00-01" id="4"/><rel type="ノ" target="事業" sid="wiki00049907-00-01" id="18"/><rel type="=" target="会社" sid="wiki00049907-00-01" id="4"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 15D <体言><非用言格解析:動>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 16D <体言>
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <体言>
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 19D <rel type="ノ" target="放送" sid="wiki00049907-00-01" id="17"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00049907-00-01" id="4"/><rel type="ノ" target="事業" sid="wiki00049907-00-01" id="18"/><rel type="=" target="会社" sid="wiki00049907-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00049907-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D
-ひろしま ひろしま ひろしま 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <NE:ORGANIZATION:ひろしまテレビ>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 3P <rel type="=" target="者" sid="wiki00049907-00-01" id="19"/>
-ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言>
+ひろしま ひろしま ひろしま 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><NE:ORGANIZATION:ひろしまテレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 3P <rel type="=" target="者" sid="wiki00049907-00-01" id="19"/><体言><非用言格解析:動>
+ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <rel type="=" target="ひろしま" sid="wiki00049907-00-02" id="0"/>
-Hiroshima Hiroshima Hiroshima 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D <rel type="=" target="ひろしま" sid="wiki00049907-00-02" id="0"/><体言>
+Hiroshima Hiroshima Hiroshima 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Television Television Television 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Corporation Corporation Corporation 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="ほうそう" sid="wiki00049907-00-02" id="2"/>
-HTV HTV HTV 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="ほうそう" sid="wiki00049907-00-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+HTV HTV HTV 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 EOS

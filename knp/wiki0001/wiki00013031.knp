@@ -1,91 +1,91 @@
 # S-ID:wiki00013031-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000
 * 4D
-+ 1D
-陸奥 みちのく 陸奥 名詞 6 人名 5 * 0 * 0 NIL
-+ 6D
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+陸奥 みちのく 陸奥 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL
+かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 5D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="5"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="5"/><用言:動><時制:過去>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
-+ 5D
-令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00013031-00-01" id="5"/><rel type="=" target="国" sid="wiki00013031-00-01" id="1"/>
++ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00013031-00-01" id="5"/><rel type="=" target="国" sid="wiki00013031-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013031-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 1D <rel type="=" target="陸奥" sid="wiki00013031-00-01" id="0"/><NE:LOCATION:むつ>
-むつ むつ むつ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="=" target="陸奥" sid="wiki00013031-00-01" id="0"/><体言><NE:LOCATION:むつ>
+むつ むつ むつ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00013031-00-01" id="6"/>
-くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="一つ" sid="wiki00013031-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013031-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 1D
-+ 1D
-東山 ひがしやま 東山 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <NE:LOCATION:東山道>
-道 みち 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+東山 ひがしやま 東山 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:東山道>
+道 みち 道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ニ" target="道" sid="wiki00013031-01" id="1"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ニ" target="道" sid="wiki00013031-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013031-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 4D
-+ 4D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 4D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:福島県>
-福島 ふくしま 福島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:福島県>
+福島 ふくしま 福島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:宮城県>
-宮城 みやぎ 宮城 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言><NE:LOCATION:宮城県>
+宮城 みやぎ 宮城 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <NE:LOCATION:岩手県>
-岩手 いわて 岩手 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:岩手県>
+岩手 いわて 岩手 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><NE:LOCATION:青森県>
-青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:青森県>
+青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013031-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 2D
-+ 1D
-等級 とうきゅう 等級 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言>
+等級 とうきゅう 等級 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><非用言格解析:動>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-大国 たいこく 大国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+大国 たいこく 大国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ノ" target="大国" sid="wiki00013031-03" id="2"/><rel type="=" target="一つ" sid="wiki00013031-00-01" id="6"/>
++ -1D <rel type="ガ" target="国" sid="wiki00013031-00-01" id="1"/><rel type="ノ" target="大国" sid="wiki00013031-03" id="2"/><rel type="=" target="一つ" sid="wiki00013031-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

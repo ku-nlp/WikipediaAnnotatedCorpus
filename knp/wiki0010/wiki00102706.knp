@@ -1,182 +1,182 @@
 # S-ID:wiki00102706-00 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:70.00000 MOD:2022/05/31 MEMO:
 * 1D
-+ 2D <NE:LOCATION:ナイロビ>
-ナイロビ ないろび ナイロビ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言><NE:LOCATION:ナイロビ>
+ナイロビ ないろび ナイロビ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 * 5D
-+ 2D <NE:OPTIONAL:英>
++ 2D <体言><NE:OPTIONAL:英>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <memo text="抽出失敗？"/>
-／） ／） ／） 特殊 1 記号 5 * 0 * 0 NIL
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <memo text="抽出失敗？"/><体言>
+／） ／） ／） 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D
-ケニア けにあ ケニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <NE:LOCATION:ケニア共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+ケニア けにあ ケニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 6D <体言><NE:LOCATION:ケニア共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 8P <rel type="ノ" target="国" sid="wiki00102706-00" id="5"/><rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="=構" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
++ 8P <rel type="ノ" target="国" sid="wiki00102706-00" id="5"/><rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="=構" target="ナイロビ" sid="wiki00102706-00" id="0"/><用言:判><体言><時制:非過去>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 * 5D
-+ 8D <rel type="ガ" target="都市" sid="wiki00102706-00" id="8"/><rel type="デ" target="国" sid="wiki00102706-00" id="5"/>
-最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 8D <rel type="ガ" target="都市" sid="wiki00102706-00" id="8"/><rel type="デ" target="国" sid="wiki00102706-00" id="5"/><用言:形><時制:非過去>
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="=構" target="ナイロビ" sid="wiki00102706-00" id="0"/><memo text="CO"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="=構" target="ナイロビ" sid="wiki00102706-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00102706-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:48.00000 MOD:2022/05/31 MEMO:
 * 1D
-+ 1D <rel type="=≒" target="国" sid="wiki00102706-00" id="5"/><NE:LOCATION:アフリカ>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="デ" target="アフリカ" sid="wiki00102706-01" id="0"/>
-有数 ゆうすう 有数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=≒" target="国" sid="wiki00102706-00" id="5"/><体言><NE:LOCATION:アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="デ" target="アフリカ" sid="wiki00102706-01" id="0"/><体言>
+有数 ゆうすう 有数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 3D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="修飾" target="有数" sid="wiki00102706-01" id="1"/><rel type="修飾" mode="AND" target="世界" sid="wiki00102706-01" id="2"/><rel type="=≒" target="都市" sid="wiki00102706-00" id="8"/><rel type="=構" mode="AND" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="修飾" target="有数" sid="wiki00102706-01" id="1"/><rel type="修飾" mode="AND" target="世界" sid="wiki00102706-01" id="2"/><rel type="=≒" target="都市" sid="wiki00102706-00" id="8"/><rel type="=構" mode="AND" target="ナイロビ" sid="wiki00102706-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <NE:DATE:2019年>
-2019 にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 7D <体言><NE:DATE:2019年>
+2019 にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="地域" sid="wiki00102706-01" id="6"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ガ" target="地域" sid="wiki00102706-01" id="6"/><体言>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 7D <rel type="修飾" target="都市的" sid="wiki00102706-01" id="5"/><rel type="ノ" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="修飾" target="都市的" sid="wiki00102706-01" id="5"/><rel type="ノ" target="ナイロビ" sid="wiki00102706-00" id="0"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ノ" target="地域" sid="wiki00102706-01" id="6"/><rel type="時間" target="2019年" sid="wiki00102706-01" id="4"/>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="地域" sid="wiki00102706-01" id="6"/><rel type="時間" target="2019年" sid="wiki00102706-01" id="4"/><体言>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00102706-01" id="7"/><rel type="=構" target="人口" sid="wiki00102706-01" id="7"/><memo text="TY　「である」の誤り？"/>
-439万 よんひゃくさんじゅうきゅう万 439万 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="人口" sid="wiki00102706-01" id="7"/><rel type="=構" target="人口" sid="wiki00102706-01" id="7"/><memo text="TY　「である」の誤り？"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+439万 よんひゃくさんじゅうきゅう万 439万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00102706-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:70.00000 MOD:2022/05/31 MEMO:
 * 1D
-+ 1D
-赤道 せきどう 赤道 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+赤道 せきどう 赤道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 4P <rel type="ニ" target="赤道" sid="wiki00102706-02" id="0"/><rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 4P <rel type="ニ" target="赤道" sid="wiki00102706-02" id="0"/><rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><用言:形><時制:非過去><節-主辞><節-区切>
+近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-標高 ひょうこう 標高 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="標高" sid="wiki00102706-02" id="2"/><rel type="=構" target="標高" sid="wiki00102706-02" id="2"/>
++ 3D <体言>
+標高 ひょうこう 標高 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="標高" sid="wiki00102706-02" id="2"/><rel type="=構" target="標高" sid="wiki00102706-02" id="2"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-1600 せんろっぴゃく 1600 名詞 6 数詞 7 * 0 * 0 NIL
+1600 せんろっぴゃく 1600 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 m めーとる m 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="ニ" target="約1600m" sid="wiki00102706-02" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="ナイロビ" sid="wiki00102706-00" id="0"/><rel type="ニ" target="約1600m" sid="wiki00102706-02" id="3"/><用言:動><節-主辞><節-区切>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 6D
-+ 7D <rel type="ノ？" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ？" target="ナイロビ" sid="wiki00102706-00" id="0"/><体言>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
 + 7D
-比較的 ひかくてき 比較的 副詞 8 * 0 * 0 * 0 NIL
+比較的 ひかくてき 比較的 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="気候" sid="wiki00102706-02" id="6"/>
-冷涼 れいりょう 冷涼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="気候" sid="wiki00102706-02" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+冷涼 れいりょう 冷涼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00102706-03 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:70.00000 MOD:2022/05/31 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/>
-主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/><用言:形><時制:非過去>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞><NE:OPTIONAL:tail>
 * 3D
-+ 4D <rel type="ノ？" target="ナイロビ" sid="wiki00102706-00" id="0"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ？" target="ナイロビ" sid="wiki00102706-00" id="0"/><体言>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3D
-スワヒリ すわひり スワヒリ 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 4P <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/><rel type="=構" target="言語" sid="wiki00102706-03" id="1"/><rel type="ノ？" target="スワヒリ" sid="wiki00102706-03" id="2"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+スワヒリ すわひり スワヒリ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/><rel type="=構" target="言語" sid="wiki00102706-03" id="1"/><rel type="ノ？" target="スワヒリ" sid="wiki00102706-03" id="2"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/><rel type="=構" target="言語" sid="wiki00102706-03" id="1"/><memo text="CO"/><NE:OPTIONAL:英>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="言語" sid="wiki00102706-03" id="1"/><rel type="=構" target="言語" sid="wiki00102706-03" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:英>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00102706-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:109.00000 MOD:2022/05/31 MEMO:
 * 1D
-+ 1D <rel type="=" target="ナイロビ" sid="wiki00102706-00" id="0"/><NE:LOCATION:ナイロビ>
-ナイロビ ないろび ナイロビ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="=" target="ナイロビ" sid="wiki00102706-00" id="0"/><体言><NE:LOCATION:ナイロビ>
+ナイロビ ないろび ナイロビ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 2D <用言:動><時制:非過去>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 11D <rel type="トイウ" target="ナイロビ" sid="wiki00102706-04-01" id="0"/><rel type="ノ" target="都市" sid="wiki00102706-00" id="8"/>
-名前 なまえ 名前 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="トイウ" target="ナイロビ" sid="wiki00102706-04-01" id="0"/><rel type="ノ" target="都市" sid="wiki00102706-00" id="8"/><体言>
+名前 なまえ 名前 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 4D
-マサイ まさい マサイ 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 8D <rel type="ノ？" target="マサイ" sid="wiki00102706-04-01" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+マサイ まさい マサイ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ？" target="マサイ" sid="wiki00102706-04-01" id="3"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="水" sid="wiki00102706-04-01" id="6"/>
++ 6D <rel type="ガ" target="水" sid="wiki00102706-04-01" id="6"/><用言:形><時制:非過去>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-冷たい つめたい 冷たい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+冷たい つめたい 冷たい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 7D
-水 みず 水 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+水 みず 水 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="修飾" target="水" sid="wiki00102706-04-01" id="6"/>
-場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="修飾" target="水" sid="wiki00102706-04-01" id="6"/><体言>
+場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ヲ" target="場所" sid="wiki00102706-04-01" id="7"/><rel type="ガ" target="Nairobi" sid="wiki00102706-04-01" id="10"/><rel type="デ" target="語" sid="wiki00102706-04-01" id="4"/>
-意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ヲ" target="場所" sid="wiki00102706-04-01" id="7"/><rel type="ガ" target="Nairobi" sid="wiki00102706-04-01" id="10"/><rel type="デ" target="語" sid="wiki00102706-04-01" id="4"/><用言:動><時制:非過去><節-主辞>
+意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 10D
-Enkare Enkare Enkare 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=≒" target="ナイロビ" sid="wiki00102706-04-01" id="0"/><rel type="=≒" mode="AND" target="語" sid="wiki00102706-04-01" id="4"/>
-Nairobi Nairobi Nairobi 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+Enkare Enkare Enkare 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="=≒" target="ナイロビ" sid="wiki00102706-04-01" id="0"/><rel type="=≒" mode="AND" target="語" sid="wiki00102706-04-01" id="4"/><体言>
+Nairobi Nairobi Nairobi 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="名前" sid="wiki00102706-04-01" id="2"/><rel type="ニ" target="Nairobi" sid="wiki00102706-04-01" id="10"/>
-由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="名前" sid="wiki00102706-04-01" id="2"/><rel type="ニ" target="Nairobi" sid="wiki00102706-04-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00102706-04-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/04/29 MEMO:
 * -1D
-+ 1D <rel type="=" target="場所" sid="wiki00102706-04-01" id="7"/>
-place place place 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-of of of 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="=" target="冷たい" sid="wiki00102706-04-01" id="5"/>
-cool cool cool 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="水" sid="wiki00102706-04-01" id="6"/>
-waters waters waters 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="場所" sid="wiki00102706-04-01" id="7"/><体言>
+place place place 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="冷たい" sid="wiki00102706-04-01" id="5"/><体言>
+cool cool cool 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="水" sid="wiki00102706-04-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+waters waters waters 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

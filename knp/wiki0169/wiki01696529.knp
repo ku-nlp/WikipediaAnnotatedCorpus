@@ -1,53 +1,53 @@
 # S-ID:wiki01696529-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
 * 5D
-+ 1D
-トムソン トムソン トムソン 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+トムソン トムソン トムソン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <NE:ORGANIZATION:トムソン・ロイター>
-ロイター ろいたー ロイター 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 10D <体言><NE:ORGANIZATION:トムソン・ロイター>
+ロイター ろいたー ロイター 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <体言>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <体言>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <NE:LOCATION:アメリカ合衆国ニューヨーク州ニューヨーク>
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言><NE:LOCATION:アメリカ合衆国ニューヨーク州ニューヨーク>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ" target="企業" sid="wiki01696529-00" id="10"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="企業" sid="wiki01696529-00" id="10"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ガ" target="企業" sid="wiki01696529-00" id="10"/><rel type="ヲ" target="本社" sid="wiki01696529-00" id="5"/><rel type="ニ" target="ニューヨーク" sid="wiki01696529-00" id="4"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 10D <rel type="ガ" target="企業" sid="wiki01696529-00" id="10"/><rel type="ヲ" target="本社" sid="wiki01696529-00" id="5"/><rel type="ニ" target="ニューヨーク" sid="wiki01696529-00" id="4"/><用言:動><時制:非過去><節-主辞>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 10D <rel type="ガ" target="企業" sid="wiki01696529-00" id="10"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="企業" sid="wiki01696529-00" id="10"/><用言:形><時制:非過去>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * -1D
-+ 9D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ロイター" sid="wiki01696529-00" id="1"/><rel type="=" target="ロイター" sid="wiki01696529-00" id="1"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <体言>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ロイター" sid="wiki01696529-00" id="1"/><rel type="=" target="ロイター" sid="wiki01696529-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01696529-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 3D <NE:LOCATION:カナダ>
-カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:カナダ>
+カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 2D
-ウッドブリッジ ウッドブリッジ ウッドブリッジ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <NE:ORGANIZATION:ウッドブリッジカンパニー>
-カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ -1D <rel type="ガ" target="ロイター" sid="wiki01696529-00" id="1"/><rel type="ノ" target="カンパニー" sid="wiki01696529-01" id="2"/>
-傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+ウッドブリッジ ウッドブリッジ ウッドブリッジ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><NE:ORGANIZATION:ウッドブリッジカンパニー>
+カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ -1D <rel type="ガ" target="ロイター" sid="wiki01696529-00" id="1"/><rel type="ノ" target="カンパニー" sid="wiki01696529-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

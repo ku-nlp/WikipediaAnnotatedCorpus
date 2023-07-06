@@ -1,69 +1,69 @@
 # S-ID:wiki00097672-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/09 MEMO:
 * 7D
-+ 11D <NE:ORGANIZATION:BMW>
-BMW びーえむだぶりゅー BMW 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 11D <体言><NE:ORGANIZATION:BMW>
+BMW びーえむだぶりゅー BMW 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 3D <rel type="ノ？" target="ドイツ" sid="wiki00097672-00-01" id="1"/>
-バイエルン ばいえるん バイエルン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="ノ？" target="ドイツ" sid="wiki00097672-00-01" id="1"/><体言>
+バイエルン ばいえるん バイエルン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="バイエルン州" sid="wiki00097672-00-01" id="2"/><NE:LOCATION:バイエルン州ミュンヘン>
-ミュンヘン みゅんへん ミュンヘン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <rel type="ノ？" target="バイエルン州" sid="wiki00097672-00-01" id="2"/><体言><NE:LOCATION:バイエルン州ミュンヘン>
+ミュンヘン みゅんへん ミュンヘン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="メーカー" sid="wiki00097672-00-01" id="11"/><rel type="=構" target="ミュンヘン" sid="wiki00097672-00-01" id="3"/>
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="メーカー" sid="wiki00097672-00-01" id="11"/><rel type="=構" target="ミュンヘン" sid="wiki00097672-00-01" id="3"/><体言>
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="メーカー" sid="wiki00097672-00-01" id="11"/><rel type="ヲ" target="ミュンヘン" sid="wiki00097672-00-01" id="3"/><rel type="ト" target="拠点" sid="wiki00097672-00-01" id="4"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 11D <rel type="ガ" target="メーカー" sid="wiki00097672-00-01" id="11"/><rel type="ヲ" target="ミュンヘン" sid="wiki00097672-00-01" id="3"/><rel type="ト" target="拠点" sid="wiki00097672-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 6P
-+ 9P
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <体言>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 9D
-自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D
-二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P <rel type="修飾" target="自動" sid="wiki00097672-00-01" id="7"/><rel type="修飾" mode="AND" target="二輪" sid="wiki00097672-00-01" id="8"/>
-車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言>
+二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="修飾" target="自動" sid="wiki00097672-00-01" id="7"/><rel type="修飾" mode="AND" target="二輪" sid="wiki00097672-00-01" id="8"/><体言>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 11D
-エンジン えんじん エンジン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="BMW" sid="wiki00097672-00-01" id="0"/><rel type="ノ？" target="エンジン" sid="wiki00097672-00-01" id="10"/><rel type="ノ？" mode="AND" target="車" sid="wiki00097672-00-01" id="9"/><rel type="ノ？" mode="AND" target="自動車" sid="wiki00097672-00-01" id="6"/><rel type="=構" target="BMW" sid="wiki00097672-00-01" id="0"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+エンジン えんじん エンジン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="BMW" sid="wiki00097672-00-01" id="0"/><rel type="ノ？" target="エンジン" sid="wiki00097672-00-01" id="10"/><rel type="ノ？" mode="AND" target="車" sid="wiki00097672-00-01" id="9"/><rel type="ノ？" mode="AND" target="自動車" sid="wiki00097672-00-01" id="6"/><rel type="=構" target="BMW" sid="wiki00097672-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00097672-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/09 MEMO:
 * 1P
-+ 1D
-ビー びー ビー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+ビー びー ビー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D
-エム えむ エム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D <体言>
+エム えむ エム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8P <rel type="=" target="BMW" sid="wiki00097672-00-01" id="0"/><NE:ORGANIZATION:ビー・エム・ダブリュー>
-ダブリュー だぶりゅー ダブリュー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 8P <rel type="=" target="BMW" sid="wiki00097672-00-01" id="0"/><体言><NE:ORGANIZATION:ビー・エム・ダブリュー>
+ダブリュー だぶりゅー ダブリュー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="=" target="バイエルン州" sid="wiki00097672-00-01" id="2"/>
-バイエルン ばいえるん バイエルン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D
-発動 はつどう 発動 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="=" target="エンジン" sid="wiki00097672-00-01" id="10"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <rel type="ガ" target="会社" sid="wiki00097672-00-02" id="8"/><rel type="ヲ" target="機" sid="wiki00097672-00-02" id="5"/>
-製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="BMW" sid="wiki00097672-00-01" id="0"/><NE:ORGANIZATION:バイエルン発動機製造株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <rel type="=" target="バイエルン州" sid="wiki00097672-00-01" id="2"/><体言>
+バイエルン ばいえるん バイエルン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><非用言格解析:動>
+発動 はつどう 発動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="エンジン" sid="wiki00097672-00-01" id="10"/><体言>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <rel type="ガ" target="会社" sid="wiki00097672-00-02" id="8"/><rel type="ヲ" target="機" sid="wiki00097672-00-02" id="5"/><体言><非用言格解析:動>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="BMW" sid="wiki00097672-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:バイエルン発動機製造株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

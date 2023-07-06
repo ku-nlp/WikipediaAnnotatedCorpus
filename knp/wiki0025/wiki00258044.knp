@@ -1,37 +1,37 @@
 # S-ID:wiki00258044-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/15 MEMO:
 * 1D
-+ 1D
-チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 5D
-+ 5D <rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="0"/><NE:OPTIONAL:チャドの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 5D <rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="0"/><体言><NE:OPTIONAL:チャドの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="チャド" sid="wiki00258044-00-01" id="0"/><NE:LOCATION:チャド>
-チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="=" target="チャド" sid="wiki00258044-00-01" id="0"/><体言><NE:LOCATION:チャド>
+チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="2"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><rel type="ノ？" target="チャド" sid="wiki00258044-00-01" id="2"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 5D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="読者"/><rel type="ニツイテ" target="歴史" sid="wiki00258044-00-01" id="3"/><rel type="デ" target="歴史" sid="wiki00258044-00-01" id="1"/>
-解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ニ" target="読者"/><rel type="ニツイテ" target="歴史" sid="wiki00258044-00-01" id="3"/><rel type="デ" target="歴史" sid="wiki00258044-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00258044-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/15 MEMO:
 * 1D
-+ 1D <rel type="=" target="チャド" sid="wiki00258044-00-01" id="0"/>
-チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <rel type="=" target="チャド" sid="wiki00258044-00-01" id="0"/><体言>
+チャド ちゃど チャド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><rel type="ノ？" target="チャド" sid="wiki00258044-00-02" id="0"/><NE:OPTIONAL:チャドのれきし><NE-OPTIONAL:ARTIFACT,NONE:0>
-れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="歴史" sid="wiki00258044-00-01" id="1"/><rel type="ノ？" target="チャド" sid="wiki00258044-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:チャドのれきし><NE-OPTIONAL:ARTIFACT,NONE:0>
+れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

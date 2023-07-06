@@ -1,20 +1,20 @@
 # S-ID:wiki00183823-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/29 MEMO:
 * 2D
-+ 1D <memo text="cross-country "/>
-クロスカントリー くろすかんとりー クロスカントリー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="修飾" target="クロスカントリー" sid="wiki00183823-00" id="0"/>
-スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <memo text="cross-country "/><体言>
+クロスカントリー くろすかんとりー クロスカントリー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="修飾" target="クロスカントリー" sid="wiki00183823-00" id="0"/><体言>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=≒" target="スキー" sid="wiki00183823-00" id="1"/>
-スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ？" target="スキー" sid="wiki00183823-00" id="2"/><rel type="=≒" target="スキー" sid="wiki00183823-00" id="1"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="=≒" target="スキー" sid="wiki00183823-00" id="1"/><体言>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ？" target="スキー" sid="wiki00183823-00" id="2"/><rel type="=≒" target="スキー" sid="wiki00183823-00" id="1"/><体言><非用言格解析:動>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="スキー" sid="wiki00183823-00" id="1"/><rel type="ノ" target="競技" sid="wiki00183823-00" id="3"/><rel type="=構" target="スキー" sid="wiki00183823-00" id="1"/><memo text="副詞→名詞に"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="スキー" sid="wiki00183823-00" id="1"/><rel type="ノ" target="競技" sid="wiki00183823-00" id="3"/><rel type="=構" target="スキー" sid="wiki00183823-00" id="1"/><memo text="副詞→名詞に"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

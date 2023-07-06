@@ -1,43 +1,43 @@
 # S-ID:wiki00235273-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/11/24 MEMO:
 * 6D
-+ 1D
-地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="ノ" target="地球" sid="wiki00235273-00-01" id="0"/>
-史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ？" target="史" sid="wiki00235273-00-01" id="1"/><NE:OPTIONAL:地球史年表><NE-OPTIONAL:ARTIFACT,NONE:0>
-年表 ねんぴょう 年表 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="ノ" target="地球" sid="wiki00235273-00-01" id="0"/><体言>
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <rel type="ノ？" target="史" sid="wiki00235273-00-01" id="1"/><体言><NE:OPTIONAL:地球史年表><NE-OPTIONAL:ARTIFACT,NONE:0>
+年表 ねんぴょう 年表 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="地球" sid="wiki00235273-00-01" id="0"/>
-地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="地球" sid="wiki00235273-00-01" id="0"/><体言>
+地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ" target="地球" sid="wiki00235273-00-01" id="3"/><rel type="=" target="史" sid="wiki00235273-00-01" id="1"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="地球" sid="wiki00235273-00-01" id="3"/><rel type="=" target="史" sid="wiki00235273-00-01" id="1"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="年表" sid="wiki00235273-00-01" id="7"/><rel type="ニ" target="歴史" sid="wiki00235273-00-01" id="4"/>
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 7D <rel type="ガ" target="年表" sid="wiki00235273-00-01" id="7"/><rel type="ニ" target="歴史" sid="wiki00235273-00-01" id="4"/><用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 7D <rel type="ガ" target="年表" sid="wiki00235273-00-01" id="7"/>
-簡潔な かんけつな 簡潔だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 7D <rel type="ガ" target="年表" sid="wiki00235273-00-01" id="7"/><用言:形><時制:非過去>
+簡潔な かんけつな 簡潔だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 6D
-+ 8D <rel type="ニカンシテ" target="歴史" sid="wiki00235273-00-01" id="4"/><rel type="=≒" target="年表" sid="wiki00235273-00-01" id="2"/><rel type="修飾" target="簡潔な" sid="wiki00235273-00-01" id="6"/>
-年表 ねんぴょう 年表 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ニカンシテ" target="歴史" sid="wiki00235273-00-01" id="4"/><rel type="=≒" target="年表" sid="wiki00235273-00-01" id="2"/><rel type="修飾" target="簡潔な" sid="wiki00235273-00-01" id="6"/><体言>
+年表 ねんぴょう 年表 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="年表" sid="wiki00235273-00-01" id="7"/><rel type="ガ" target="著者"/><rel type="デ" target="年表" sid="wiki00235273-00-01" id="2"/>
-掲げる かかげる 掲げる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ -1D <rel type="ヲ" target="年表" sid="wiki00235273-00-01" id="7"/><rel type="ガ" target="著者"/><rel type="デ" target="年表" sid="wiki00235273-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+掲げる かかげる 掲げる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00235273-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/24 MEMO:
 * -1D
-+ 1D <rel type="=" target="地球" sid="wiki00235273-00-01" id="0"/>
-ちきゅう ちきゅう ちきゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="=" target="史" sid="wiki00235273-00-01" id="1"/>
-し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="年表" sid="wiki00235273-00-01" id="2"/><NE:OPTIONAL:ちきゅうしねんぴょう><NE-OPTIONAL:ARTIFACT,NONE:0>
-ねんぴょう ねんぴょう ねんぴょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="地球" sid="wiki00235273-00-01" id="0"/><体言>
+ちきゅう ちきゅう ちきゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="=" target="史" sid="wiki00235273-00-01" id="1"/><体言>
+し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ -1D <rel type="=" target="年表" sid="wiki00235273-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:ちきゅうしねんぴょう><NE-OPTIONAL:ARTIFACT,NONE:0>
+ねんぴょう ねんぴょう ねんぴょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

@@ -1,96 +1,96 @@
 # S-ID:wiki00140138-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/26 MEMO:
 * 3D
-+ 5D <rel type="ノ？" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/><NE:LOCATION:貴州省>
-貴州 きしゅう 貴州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="ノ？" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/><体言><NE:LOCATION:貴州省>
+貴州 きしゅう 貴州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:中華人民共和国>
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/><rel type="ノ？" target="南西" sid="wiki00140138-00-01" id="2"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:LOCATION:中華人民共和国>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="ノ" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/><体言>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="中華人民共和国" sid="wiki00140138-00-01" id="1"/><rel type="ノ？" target="南西" sid="wiki00140138-00-01" id="2"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="省" sid="wiki00140138-00-01" id="5"/><rel type="ニ" target="部" sid="wiki00140138-00-01" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="省" sid="wiki00140138-00-01" id="5"/><rel type="ニ" target="部" sid="wiki00140138-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/><memo text="CO"/>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140138-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/26 MEMO:
 * 1P
-+ 3P <rel type="=" target="貴州" sid="wiki00140138-00-01" id="0"/>
-きしゅう きしゅう きしゅう 名詞 6 地名 4 * 0 * 0 NIL
++ 3P <rel type="=" target="貴州" sid="wiki00140138-00-01" id="0"/><体言>
+きしゅう きしゅう きしゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 しょう しょう しょう 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2D <NE:OPTIONAL:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3D <rel type="ノ？" target="中国" sid="wiki00140138-00-02" id="2"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:OPTIONAL:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="中国" sid="wiki00140138-00-02" id="2"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 6P <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="デ" target="語" sid="wiki00140138-00-02" id="2"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/>
-贵州 きしゅう 贵州 名詞 6 地名 4 * 0 * 0 NIL
++ 6P <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="デ" target="語" sid="wiki00140138-00-02" id="2"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/><体言>
+贵州 きしゅう 贵州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 6D
-拼音 ぴんいん 拼音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+拼音 ぴんいん 拼音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-Guizhōu Guizhōu Guizhōu 名詞 6 地名 4 * 0 * 0 NIL
++ 6D <体言>
+Guizhōu Guizhōu Guizhōu 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 9P <rel type="ガ" target="拼音" sid="wiki00140138-00-02" id="4"/><rel type="=構" target="拼音" sid="wiki00140138-00-02" id="4"/>
-Shěng Shěng Shěng 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="ガ" target="拼音" sid="wiki00140138-00-02" id="4"/><rel type="=構" target="拼音" sid="wiki00140138-00-02" id="4"/><体言>
+Shěng Shěng Shěng 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 8D <NE:OPTIONAL:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 9D <rel type="ノ？" target="英" sid="wiki00140138-00-02" id="10"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 9D <rel type="ノ？" target="英" sid="wiki00140138-00-02" id="10"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="デ" target="語" sid="wiki00140138-00-02" id="8"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/><NE:LOCATION:Guizhou>
-Guizhou Guizhou Guizhou 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="貴州" sid="wiki00140138-00-01" id="0"/><rel type="デ" target="語" sid="wiki00140138-00-02" id="8"/><rel type="=構" target="貴州" sid="wiki00140138-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:Guizhou>
+Guizhou Guizhou Guizhou 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00140138-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/26 MEMO:
 * 1D
-+ 1D <rel type="=" target="貴州" sid="wiki00140138-00-01" id="0"/>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="省" sid="wiki00140138-01" id="0"/>
-都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="貴州" sid="wiki00140138-00-01" id="0"/><体言>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="省" sid="wiki00140138-01" id="0"/><体言>
+都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="都" sid="wiki00140138-01" id="1"/><rel type="=構" target="都" sid="wiki00140138-01" id="1"/><rel type="ノ？" target="貴州" sid="wiki00140138-00-01" id="0"/><memo text="CO"/><NE:LOCATION:貴陽市>
-貴陽 きよう 貴陽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="ガ" target="都" sid="wiki00140138-01" id="1"/><rel type="=構" target="都" sid="wiki00140138-01" id="1"/><rel type="ノ？" target="貴州" sid="wiki00140138-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:貴陽市>
+貴陽 きよう 貴陽 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140138-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/07/26 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="貴州" sid="wiki00140138-00-01" id="0"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="ノ" target="貴州" sid="wiki00140138-00-01" id="0"/><体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=構" target="略称" sid="wiki00140138-02-01" id="0"/><rel type="修飾" target="略称" sid="wiki00140138-02-01" id="0"/><NE:LOCATION:黔>
-黔 けん 黔 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="=構" target="略称" sid="wiki00140138-02-01" id="0"/><rel type="修飾" target="略称" sid="wiki00140138-02-01" id="0"/><体言><NE:LOCATION:黔>
+黔 けん 黔 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=構" target="黔" sid="wiki00140138-02-01" id="1"/>
-黒 くろ 黒 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=構" target="黔" sid="wiki00140138-02-01" id="1"/><体言>
+黒 くろ 黒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="黔" sid="wiki00140138-02-01" id="1"/><rel type="ヲ" target="黒" sid="wiki00140138-02-01" id="2"/>
-意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="黔" sid="wiki00140138-02-01" id="1"/><rel type="ヲ" target="黒" sid="wiki00140138-02-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140138-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/26 MEMO:
 * -1D
-+ -1D <rel type="=" target="黔" sid="wiki00140138-02-01" id="1"/><NE:LOCATION:けん>
-けん けん けん 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="黔" sid="wiki00140138-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:けん>
+けん けん けん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS

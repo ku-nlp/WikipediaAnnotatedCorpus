@@ -1,98 +1,98 @@
 # S-ID:wiki00240378-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/08 MEMO:
 * 3D
-+ 3D <memo text="kickboxer"/>
-キックボクサー きっくぼくさー キックボクサー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <memo text="kickboxer"/><体言>
+キックボクサー きっくぼくさー キックボクサー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <memo text="Kickboxing"/>
-キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <memo text="Kickboxing"/><体言><非用言格解析:動><節-主辞>
+キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="選手" sid="wiki00240378-00-01" id="3"/><rel type="ヲ" target="キックボクシング" sid="wiki00240378-00-01" id="1"/>
-行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 3D <rel type="ガ" target="選手" sid="wiki00240378-00-01" id="3"/><rel type="ヲ" target="キックボクシング" sid="wiki00240378-00-01" id="1"/><用言:動><時制:非過去>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="キックボクサー" sid="wiki00240378-00-01" id="0"/><rel type="=構" target="キックボクサー" sid="wiki00240378-00-01" id="0"/><rel type="修飾" target="行う" sid="wiki00240378-00-01" id="2"/><memo text="CO"/>
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="キックボクサー" sid="wiki00240378-00-01" id="0"/><rel type="=構" target="キックボクサー" sid="wiki00240378-00-01" id="0"/><rel type="修飾" target="行う" sid="wiki00240378-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00240378-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/11 MEMO:
 * -1D
-+ -1D <rel type="=" target="キックボクサー" sid="wiki00240378-00-01" id="0"/>
-Kickboxer Kickboxer Kickboxer 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="キックボクサー" sid="wiki00240378-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+Kickboxer Kickboxer Kickboxer 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00240378-00-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
 * -1D
-+ 1D <rel type="ガ" target="者" sid="wiki00240378-00-03" id="1"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="選手" sid="wiki00240378-00-01" id="5"/><rel type="ノ？" target="競技" sid="wiki00240378-00-03" id="0"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="ガ" target="者" sid="wiki00240378-00-03" id="1"/><体言><非用言格解析:動>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="選手" sid="wiki00240378-00-01" id="5"/><rel type="ノ？" target="競技" sid="wiki00240378-00-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00240378-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:143.00000 MOD:2022/12/08 MEMO:
 * 1D
-+ 1D <rel type="=" target="キックボクシング" sid="wiki00240378-00-01" id="1"/>
-キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="キックボクシング" sid="wiki00240378-00-01" id="1"/><体言>
+キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="キックボクシング" sid="wiki00240378-01" id="0"/>
-元 もと 元 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="キックボクシング" sid="wiki00240378-01" id="0"/><体言>
+元 もと 元 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="格闘技" sid="wiki00240378-01" id="4"/><rel type="ト" target="元" sid="wiki00240378-01" id="1"/>
-なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 3D <rel type="ガ" target="格闘技" sid="wiki00240378-01" id="4"/><rel type="ト" target="元" sid="wiki00240378-01" id="1"/><用言:動><時制:過去><節-主辞>
+なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ガ" target="ムエタイ" sid="wiki00240378-01" id="7"/><rel type="=構" target="元" sid="wiki00240378-01" id="1"/><rel type="=構" mode="AND" target="ムエタイ" sid="wiki00240378-01" id="6"/>
-格闘技 かくとうぎ 格闘技 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ガ" target="ムエタイ" sid="wiki00240378-01" id="7"/><rel type="=構" target="元" sid="wiki00240378-01" id="1"/><rel type="=構" mode="AND" target="ムエタイ" sid="wiki00240378-01" id="6"/><用言:判><体言><時制:非過去>
+格闘技 かくとうぎ 格闘技 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D <NE:LOCATION:タイ>
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:タイ>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ノ" target="タイ" sid="wiki00240378-01" id="5"/>
-国技 こくぎ 国技 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="タイ" sid="wiki00240378-01" id="5"/><体言>
+国技 こくぎ 国技 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D <rel type="=構" target="国技" sid="wiki00240378-01" id="5"/><rel type="=構" mode="AND" target="格闘技" sid="wiki00240378-01" id="3"/><rel type="修飾" target="国技" sid="wiki00240378-01" id="5"/>
-ムエタイ むえたい ムエタイ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=構" target="国技" sid="wiki00240378-01" id="5"/><rel type="=構" mode="AND" target="格闘技" sid="wiki00240378-01" id="3"/><rel type="修飾" target="国技" sid="wiki00240378-01" id="5"/><体言>
+ムエタイ むえたい ムエタイ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ノ" target="ムエタイ" sid="wiki00240378-01" id="7"/><rel type="=≒" target="選手" sid="wiki00240378-00-01" id="3"/>
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="ムエタイ" sid="wiki00240378-01" id="7"/><rel type="=≒" target="選手" sid="wiki00240378-00-01" id="3"/><体言>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="=構" target="選手" sid="wiki00240378-01" id="7"/>
-ナックモエ なっくもえ ナックモエ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=構" target="選手" sid="wiki00240378-01" id="7"/><体言>
+ナックモエ なっくもえ ナックモエ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 17P <rel type="ヲ" target="選手" sid="wiki00240378-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="ナックモエ" sid="wiki00240378-01" id="8"/>
-いい いい いう 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
++ 17P <rel type="ヲ" target="選手" sid="wiki00240378-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="ナックモエ" sid="wiki00240378-01" id="8"/><用言:動><節-主辞><節-区切>
+いい いい いう 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="=" target="キックボクシング" sid="wiki00240378-01" id="0"/>
-キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=" target="キックボクシング" sid="wiki00240378-01" id="0"/><体言>
+キックボクシング きっくぼくしんぐ キックボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="カラ" target="キックボクシング" sid="wiki00240378-01" id="10"/><rel type="ガ" target="ボクシング" sid="wiki00240378-01" id="13"/>
-派生 はせい 派生 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="カラ" target="キックボクシング" sid="wiki00240378-01" id="10"/><rel type="ガ" target="ボクシング" sid="wiki00240378-01" id="13"/><体言><非用言格解析:動>
+派生 はせい 派生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 13D
-シュート しゅーと シュート 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="派生" sid="wiki00240378-01" id="11"/><rel type="修飾" mode="AND" target="シュート" sid="wiki00240378-01" id="12"/><rel type="=構" target="派生" sid="wiki00240378-01" id="11"/><memo text="Shoot Boxing,日本発生の競技  shoot　真剣勝負の意、射的に由来"/>
-ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言><非用言格解析:動>
+シュート しゅーと シュート 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="派生" sid="wiki00240378-01" id="11"/><rel type="修飾" mode="AND" target="シュート" sid="wiki00240378-01" id="12"/><rel type="=構" target="派生" sid="wiki00240378-01" id="11"/><memo text="Shoot Boxing,日本発生の競技  shoot　真剣勝負の意、射的に由来"/><体言>
+ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ノ" target="ボクシング" sid="wiki00240378-01" id="13"/>
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ノ" target="ボクシング" sid="wiki00240378-01" id="13"/><体言>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="=" target="シュート" sid="wiki00240378-01" id="12"/>
-シュート しゅーと シュート 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D <rel type="=構" target="選手" sid="wiki00240378-01" id="14"/><rel type="修飾" target="シュート" sid="wiki00240378-01" id="15"/>
-ボクサー ぼくさー ボクサー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="=" target="シュート" sid="wiki00240378-01" id="12"/><体言><非用言格解析:動>
+シュート しゅーと シュート 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="=構" target="選手" sid="wiki00240378-01" id="14"/><rel type="修飾" target="シュート" sid="wiki00240378-01" id="15"/><用言:判><体言><時制:非過去><節-主辞>
+ボクサー ぼくさー ボクサー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="ボクサー" sid="wiki00240378-01" id="16"/><rel type="ヲ" target="選手" sid="wiki00240378-01" id="14"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="ボクサー" sid="wiki00240378-01" id="16"/><rel type="ヲ" target="選手" sid="wiki00240378-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

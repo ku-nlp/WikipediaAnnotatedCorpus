@@ -1,93 +1,93 @@
 # S-ID:wiki00023852-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:77.00000
 * 2P
-+ 1D <NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D
-民主 みんしゅ 民主 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <体言>
+民主 みんしゅ 民主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 6D <rel type="ノ" target="国" sid="wiki00023852-00-01" id="3"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="=" target="国" sid="wiki00023852-00-01" id="3"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ" target="国" sid="wiki00023852-00-01" id="3"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="=" target="国" sid="wiki00023852-00-01" id="3"/><体言><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 8D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 19D <rel type="=" target="国" sid="wiki00023852-00-01" id="3"/><NE:LOCATION:東独>
-独 どく 独 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 8D <体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 19D <rel type="=" target="国" sid="wiki00023852-00-01" id="3"/><体言><NE:LOCATION:東独>
+独 どく 独 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 10D
++ 10D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:DATE:head>
-二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 次 じ 次 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 11D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
-+ 12D
-大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
-+ 13D <rel type="ノ" target="大戦" sid="wiki00023852-00-01" id="11"/><NE:DATE:第二次世界大戦後>
-後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
++ 11D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 12D <体言>
+大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 13D <rel type="ノ" target="大戦" sid="wiki00023852-00-01" id="11"/><体言><NE:DATE:第二次世界大戦後>
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 18D <rel type="=" target="後" sid="wiki00023852-00-01" id="12"/>
-1949 1949 1949 名詞 6 数詞 7 * 0 * 0 NIL
++ 18D <rel type="=" target="後" sid="wiki00023852-00-01" id="12"/><体言>
+1949 1949 1949 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 17D <rel type="=" target="ドイツ" sid="wiki00023852-00-01" id="0"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 17D <rel type="=" target="ドイツ" sid="wiki00023852-00-01" id="0"/><体言><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 16D <NE:LOCATION:ソ連>
-ソ連 それん ソ連 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 17D <rel type="ガ" target="ソ連" sid="wiki00023852-00-01" id="15"/><rel type="ヲ" target="地域" sid="wiki00023852-00-01" id="17"/>
-占領 せんりょう 占領 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 18D
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言><NE:LOCATION:ソ連>
+ソ連 それん ソ連 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 17D <rel type="ガ" target="ソ連" sid="wiki00023852-00-01" id="15"/><rel type="ヲ" target="地域" sid="wiki00023852-00-01" id="17"/><体言><非用言格解析:動>
+占領 せんりょう 占領 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 18D <体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 19D <rel type="ガ" target="国家" sid="wiki00023852-00-01" id="19"/><rel type="ニ" target="ドイツ" sid="wiki00023852-00-01" id="14"/>
-建国 けんこく 建国 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 19D <rel type="ガ" target="国家" sid="wiki00023852-00-01" id="19"/><rel type="ニ" target="ドイツ" sid="wiki00023852-00-01" id="14"/><用言:動><時制:過去><節-主辞>
+建国 けんこく 建国 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="独" sid="wiki00023852-00-01" id="8"/><rel type="=" target="国" sid="wiki00023852-00-01" id="3"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="独" sid="wiki00023852-00-01" id="8"/><rel type="=" target="国" sid="wiki00023852-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023852-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000
 * 1D
-+ 1D <rel type="=" target="ドイツ" sid="wiki00023852-00-01" id="0"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D
-みんしゅ みんしゅ みんしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-きょうわ きょうわ きょうわ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="ドイツ" sid="wiki00023852-00-01" id="0"/><体言><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <体言>
+みんしゅ みんしゅ みんしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><非用言格解析:動>
+きょうわ きょうわ きょうわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 4D
-こく こく こい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 4D <用言:形><時制:非過去><節-主辞><節-区切>
+こく こく こい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D
-; ; ; 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+; ; ; 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00023852-00-03 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-ひがし ひがし ひがし 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="ドイツ" sid="wiki00023852-00-02" id="0"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <体言>
+ひがし ひがし ひがし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="ドイツ" sid="wiki00023852-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00023852-00-04 括弧始:（ 括弧終:） 括弧位置:45 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="通称" sid="wiki00023852-00-01" id="4"/>
-とうどく とうどく とうどく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="通称" sid="wiki00023852-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+とうどく とうどく とうどく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

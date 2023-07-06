@@ -1,63 +1,63 @@
 # S-ID:wiki00095261-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 3D
 + 3D
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-元号 げんごう 元号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+元号 げんごう 元号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="ノ" target="元号" sid="wiki00095261-00" id="2"/><rel type="=" target="は、" sid="wiki00095261-00" id="0"/>
++ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="ノ" target="元号" sid="wiki00095261-00" id="2"/><rel type="=" target="は、" sid="wiki00095261-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00095261-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000
 * 1D
-+ 1D <NE:PERSON:天平>
-天平 てんへい 天平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 1D <体言><NE:PERSON:天平>
+天平 てんへい 天平 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="天平" sid="wiki00095261-01" id="0"/>
-後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 4D <rel type="ノ" target="天平" sid="wiki00095261-01" id="0"/><体言>
+後 あと 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="天平" sid="wiki00095261-01" id="0"/>
-天平 てんへい 天平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 4D <NE:PERSON:天平勝宝>
-勝宝 勝宝 勝宝 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 3D <rel type="=" target="天平" sid="wiki00095261-01" id="0"/><体言>
+天平 てんへい 天平 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 4D <用言:判><体言><時制:非過去><節-主辞><NE:PERSON:天平勝宝>
+勝宝 勝宝 勝宝 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 の の だ 判定詞 4 * 0 判定詞 25 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="ノ" target="元号" sid="wiki00095261-00" id="2"/>
-前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="ノ" target="元号" sid="wiki00095261-00" id="2"/><用言:判><体言><時制:非過去><節-区切>
+前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00095261-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 2D
-+ 2D <rel type="=" target="日本" sid="wiki00095261-00" id="1"/><NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="=" target="日本" sid="wiki00095261-00" id="1"/><体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D
-初めて はじめて 初めて 副詞 8 * 0 * 0 * 0 NIL
+初めて はじめて 初めて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 4D <rel type="ガ" target="年号でもある" sid="wiki00095261-02" id="5"/><rel type="ニ" target="不特定:人"/>
-使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ 4D <rel type="ガ" target="年号でもある" sid="wiki00095261-02" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 4D
-四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D
-文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="=" target="一つ" sid="wiki00095261-00" id="3"/>
-年号 ねんごう 年号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="は、" sid="wiki00095261-00" id="0"/><rel type="=" target="一つ" sid="wiki00095261-00" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+年号 ねんごう 年号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
@@ -66,17 +66,17 @@ EOS
 # S-ID:wiki00095261-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
 + 1D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="=" target="後" sid="wiki00095261-01" id="1"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 2D <rel type="=" target="後" sid="wiki00095261-01" id="1"/><体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="天皇" sid="wiki00095261-03" id="2"/><rel type="=" target="天皇" sid="wiki00095261-03" id="2"/><NE:PERSON:聖武天皇>
-聖武天皇 しょうむてんのう 聖武天皇 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ -1D <rel type="ガ" target="天皇" sid="wiki00095261-03" id="2"/><rel type="=" target="天皇" sid="wiki00095261-03" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:聖武天皇>
+聖武天皇 しょうむてんのう 聖武天皇 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

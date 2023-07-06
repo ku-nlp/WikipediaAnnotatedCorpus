@@ -1,60 +1,60 @@
 # S-ID:wiki00049681-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
 * 5D
-+ 1D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <NE:ORGANIZATION:日本テレビ>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 13D <rel type="ノ" target="テレビ" sid="wiki00049681-00-01" id="1"/>
-系列 けいれつ 系列 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><NE:ORGANIZATION:日本テレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 13D <rel type="ノ" target="テレビ" sid="wiki00049681-00-01" id="1"/><体言>
+系列 けいれつ 系列 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="1"/><NE:ORGANIZATION:日本テレビ>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 6D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D
-網 もう 網 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="1"/><体言><NE:ORGANIZATION:日本テレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 6D <体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言>
+網 もう 網 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D
-キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="網" sid="wiki00049681-00-01" id="6"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="網" sid="wiki00049681-00-01" id="6"/><体言>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 12D <rel type="ガ" target="者" sid="wiki00049681-00-01" id="12"/><rel type="ヲ" target="網" sid="wiki00049681-00-01" id="6"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 12D <rel type="ガ" target="者" sid="wiki00049681-00-01" id="12"/><rel type="ヲ" target="網" sid="wiki00049681-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 11D <rel type="=" target="放送" sid="wiki00049681-00-01" id="5"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="事業" sid="wiki00049681-00-01" id="11"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 11D <rel type="=" target="放送" sid="wiki00049681-00-01" id="5"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="事業" sid="wiki00049681-00-01" id="11"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="系列" sid="wiki00049681-00-01" id="2"/><rel type="ノ" target="者" sid="wiki00049681-00-01" id="12"/><rel type="=" target="系列" sid="wiki00049681-00-01" id="2"/>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="系列" sid="wiki00049681-00-01" id="2"/><rel type="ノ" target="者" sid="wiki00049681-00-01" id="12"/><rel type="=" target="系列" sid="wiki00049681-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00049681-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-にほん にほん にほん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="1"/>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="ネットワーク" sid="wiki00049681-00-01" id="13"/>
-けいれつ けいれつ けいれつ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+にほん にほん にほん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="1"/><体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="ネットワーク" sid="wiki00049681-00-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+けいれつ けいれつ けいれつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00049681-00-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="4"/><NE:ORGANIZATION:日本テレビ>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ -1D <rel type="=" target="テレビ" sid="wiki00049681-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:日本テレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

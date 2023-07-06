@@ -1,123 +1,123 @@
 # S-ID:wiki00134812-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/13 MEMO:
 * 4D
-+ 7D <NE:LOCATION:フェニキア>
-フェニキア ふぇにきあ フェニキア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <体言><NE:LOCATION:フェニキア>
+フェニキア ふぇにきあ フェニキア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <memo text="かかり先"/><NE:OPTIONAL:古代>
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <memo text="かかり先"/><体言><NE:OPTIONAL:古代>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:地中海>
-地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D <rel type="ノ" target="地中海" sid="wiki00134812-00-01" id="2"/>
-東岸 とうがん 東岸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:LOCATION:地中海>
+地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <rel type="ノ" target="地中海" sid="wiki00134812-00-01" id="2"/><体言>
+東岸 とうがん 東岸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ニ" target="東岸" sid="wiki00134812-00-01" id="3"/><rel type="ガ" target="地域" sid="wiki00134812-00-01" id="6"/><rel type="時間" target="古代" sid="wiki00134812-00-01" id="1"/><memo text="係り受け　「地域」にかける？"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ニ" target="東岸" sid="wiki00134812-00-01" id="3"/><rel type="ガ" target="地域" sid="wiki00134812-00-01" id="6"/><rel type="時間" target="古代" sid="wiki00134812-00-01" id="1"/><memo text="係り受け　「地域」にかける？"/><用言:動><時制:過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 7D <rel type="ガ" target="名" sid="wiki00134812-00-01" id="7"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="名" sid="wiki00134812-00-01" id="7"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 7D <rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ノ" target="地域" sid="wiki00134812-00-01" id="6"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="修飾" target="歴史的" sid="wiki00134812-00-01" id="5"/><rel type="時間" target="古代" sid="wiki00134812-00-01" id="1"/><memo text="CO"/>
-名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ノ" target="地域" sid="wiki00134812-00-01" id="6"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="修飾" target="歴史的" sid="wiki00134812-00-01" id="5"/><rel type="時間" target="古代" sid="wiki00134812-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00134812-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/13 MEMO:
 * 1P
-+ 1P <rel type="=" target="フェニキア" sid="wiki00134812-00-01" id="0"/><memo text="古代ギリシャ語"/><NE:LOCATION:ポイニーケー>
-ポイニーケー ぽいにーけー ポイニーケー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <rel type="=" target="フェニキア" sid="wiki00134812-00-01" id="0"/><memo text="古代ギリシャ語"/><体言><NE:LOCATION:ポイニーケー>
+ポイニーケー ぽいにーけー ポイニーケー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="フェニキア" sid="wiki00134812-00-01" id="0"/><memo text="ラテン語"/><NE:LOCATION:ポエニ>
-ポエニ ぽえに ポエニ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="フェニキア" sid="wiki00134812-00-01" id="0"/><memo text="ラテン語"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ポエニ>
+ポエニ ぽえに ポエニ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00134812-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2022/07/13 MEMO:
 * 1D
-+ 1D <NE:LOCATION:シリア>
-シリア しりあ シリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <体言><NE:LOCATION:シリア>
+シリア しりあ シリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13P
-+ 16P <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ノ" target="シリア" sid="wiki00134812-01" id="0"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/>
-一角 いっかく 一角 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16P <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ノ" target="シリア" sid="wiki00134812-01" id="0"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+一角 いっかく 一角 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ノ" target="フェニキア" sid="wiki00134812-00-01" id="0"/>
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 4D
-現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 5D <rel type="時間" target="現" sid="wiki00134812-01" id="3"/><rel type="=≒" target="シリア" sid="wiki00134812-01" id="0"/><NE:LOCATION:シリア>
-シリア しりあ シリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="時間" target="現" sid="wiki00134812-01" id="3"/><rel type="=≒" target="シリア" sid="wiki00134812-01" id="0"/><体言><NE:LOCATION:シリア>
+シリア しりあ シリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ノ？" target="シリア" sid="wiki00134812-01" id="4"/><NE:LOCATION:タルトゥース>
-タルトゥース たるとぅーす タルトゥース 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ？" target="シリア" sid="wiki00134812-01" id="4"/><体言><NE:LOCATION:タルトゥース>
+タルトゥース たるとぅーす タルトゥース 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 11P <rel type="ノ" target="タルトゥース" sid="wiki00134812-01" id="5"/>
-あたり あたり あたり 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <rel type="ノ" target="タルトゥース" sid="wiki00134812-01" id="5"/><体言>
+あたり あたり あたり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ノ" target="フェニキア" sid="wiki00134812-00-01" id="0"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 10D <NE:LOCATION:パレスチナ>
-パレスチナ ぱれすちな パレスチナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:パレスチナ>
+パレスチナ ぱれすちな パレスチナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D
-カルメル かるめる カルメル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <rel type="ノ？" target="パレスチナ" sid="wiki00134812-01" id="8"/><NE:LOCATION:カルメル山>
-山 さん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <体言>
+カルメル かるめる カルメル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <rel type="ノ？" target="パレスチナ" sid="wiki00134812-01" id="8"/><体言><NE:LOCATION:カルメル山>
+山 さん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 15P <rel type="ニ" target="山" sid="wiki00134812-01" id="10"/><rel type="カラ" target="あたり" sid="wiki00134812-01" id="6"/><rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 15P <rel type="ニ" target="山" sid="wiki00134812-01" id="10"/><rel type="カラ" target="あたり" sid="wiki00134812-01" id="6"/><rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/><用言:動><時制:非過去><節-主辞>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 12D
-+ 13D <rel type="=≒" target="東岸" sid="wiki00134812-00-01" id="3"/>
-海岸 かいがん 海岸 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/>
-沿い ぞい 沿い 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="=≒" target="東岸" sid="wiki00134812-00-01" id="3"/><体言>
+海岸 かいがん 海岸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/><体言>
+沿い ぞい 沿い 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 15D <rel type="=≒" target="北" sid="wiki00134812-01" id="2"/><rel type="=≒" mode="AND" target="南" sid="wiki00134812-01" id="7"/>
-南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=≒" target="北" sid="wiki00134812-01" id="2"/><rel type="=≒" mode="AND" target="南" sid="wiki00134812-01" id="7"/><体言>
+南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="ニ" target="南北" sid="wiki00134812-01" id="14"/><rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/>
-細長い ほそながい 細長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 16D <rel type="ニ" target="南北" sid="wiki00134812-01" id="14"/><rel type="ガ" target="地域" sid="wiki00134812-01" id="16"/><用言:形><時制:非過去><節-主辞>
+細長い ほそながい 細長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 18P
-+ 21P <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21P <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="=構" target="フェニキア" sid="wiki00134812-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であって であって だ 判定詞 4 * 0 判定詞 25 デアル列タ系連用テ形 25 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18D
 + 21D
-およそ およそ およそ 副詞 8 * 0 * 0 * 0 NIL
+およそ およそ およそ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 16D
-+ 19D <rel type="=" target="現" sid="wiki00134812-01" id="3"/>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 19D <rel type="=" target="現" sid="wiki00134812-01" id="3"/><体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
-+ 20D <rel type="時間" target="現在" sid="wiki00134812-01" id="18"/><NE:LOCATION:レバノン>
-レバノン ればのん レバノン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 20D <rel type="時間" target="現在" sid="wiki00134812-01" id="18"/><体言><NE:LOCATION:レバノン>
+レバノン ればのん レバノン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 18D
-+ 21D <rel type="ノ" target="レバノン" sid="wiki00134812-01" id="19"/>
-領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <rel type="ノ" target="レバノン" sid="wiki00134812-01" id="19"/><体言>
+領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ニ" target="領域" sid="wiki00134812-01" id="20"/>
-あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="フェニキア" sid="wiki00134812-00-01" id="0"/><rel type="ニ" target="領域" sid="wiki00134812-01" id="20"/><用言:動><時制:非過去><節-主辞><節-区切>
+あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

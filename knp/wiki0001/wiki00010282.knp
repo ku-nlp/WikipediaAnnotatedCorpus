@@ -1,28 +1,28 @@
 # S-ID:wiki00010282-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
-+ 6D <NE:LOCATION:ダブリン>
-ダブリン だぶりん ダブリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:ダブリン>
+ダブリン だぶりん ダブリン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <NE:LOCATION:アイルランド島>
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 4D <rel type="ノ" target="島" sid="wiki00010282-00" id="2"/>
-東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <体言><NE:LOCATION:アイルランド島>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 4D <rel type="ノ" target="島" sid="wiki00010282-00" id="2"/><体言>
+東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="首都" sid="wiki00010282-00" id="6"/><rel type="ニ" target="東部" sid="wiki00010282-00" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="首都" sid="wiki00010282-00" id="6"/><rel type="ニ" target="東部" sid="wiki00010282-00" id="3"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=" target="アイルランド" sid="wiki00010282-00" id="1"/><NE:LOCATION:アイルランド>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="=" target="アイルランド" sid="wiki00010282-00" id="1"/><体言><NE:LOCATION:アイルランド>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ダブリン" sid="wiki00010282-00" id="0"/><rel type="ノ" target="アイルランド" sid="wiki00010282-00" id="5"/><rel type="=" target="ダブリン" sid="wiki00010282-00" id="0"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ダブリン" sid="wiki00010282-00" id="0"/><rel type="ノ" target="アイルランド" sid="wiki00010282-00" id="5"/><rel type="=" target="ダブリン" sid="wiki00010282-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

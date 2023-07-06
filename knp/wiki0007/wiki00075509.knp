@@ -1,98 +1,98 @@
 # S-ID:wiki00075509-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/05/23 MEMO:
 * 6D
-+ 1D
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="ノ" target="アメリカ" sid="wiki00075509-00-01" id="0"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 12D <rel type="修飾" target="領" sid="wiki00075509-00-01" id="1"/><rel type="=構" target="領" sid="wiki00075509-00-01" id="1"/><NE:LOCATION:アメリカ領サモア>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="ノ" target="アメリカ" sid="wiki00075509-00-01" id="0"/><体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 12D <rel type="修飾" target="領" sid="wiki00075509-00-01" id="1"/><rel type="=構" target="領" sid="wiki00075509-00-01" id="1"/><体言><NE:LOCATION:アメリカ領サモア>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <NE:LOCATION:南太平洋>
-太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言><NE:LOCATION:南太平洋>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <NE:LOCATION:ポリネシア>
-ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ？" target="太平洋" sid="wiki00075509-00-01" id="4"/><rel type="ノ？" mode="AND" target="ポリネシア" sid="wiki00075509-00-01" id="5"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><NE:LOCATION:ポリネシア>
+ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ノ？" target="太平洋" sid="wiki00075509-00-01" id="4"/><rel type="ノ？" mode="AND" target="ポリネシア" sid="wiki00075509-00-01" id="5"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ガ" target="領" sid="wiki00075509-00-01" id="10"/><rel type="ニ" target="地方" sid="wiki00075509-00-01" id="6"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 10D <rel type="ガ" target="領" sid="wiki00075509-00-01" id="10"/><rel type="ニ" target="地方" sid="wiki00075509-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 10D <rel type="=" target="アメリカ" sid="wiki00075509-00-01" id="0"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="=" target="アメリカ" sid="wiki00075509-00-01" id="0"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 10D
-自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ノ" target="アメリカ合衆国" sid="wiki00075509-00-01" id="8"/><rel type="修飾" target="自治" sid="wiki00075509-00-01" id="9"/><rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ノ" target="アメリカ合衆国" sid="wiki00075509-00-01" id="8"/><rel type="修飾" target="自治" sid="wiki00075509-00-01" id="9"/><rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 12D
-準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="修飾" target="準" sid="wiki00075509-00-01" id="11"/><memo text="CO"/>
-州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="修飾" target="準" sid="wiki00075509-00-01" id="11"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00075509-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/23 MEMO:
 * -1D
-+ 1D <rel type="=" target="アメリカ" sid="wiki00075509-00-01" id="0"/>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="領" sid="wiki00075509-00-01" id="1"/>
-りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="サモア" sid="wiki00075509-00-01" id="2"/><NE:LOCATION:アメリカりょうサモア>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="アメリカ" sid="wiki00075509-00-01" id="0"/><体言>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="=" target="領" sid="wiki00075509-00-01" id="1"/><体言>
+りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ -1D <rel type="=" target="サモア" sid="wiki00075509-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:アメリカりょうサモア>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00075509-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/23 MEMO:
 * 1D
-+ 2D <rel type="=≒" target="サモア" sid="wiki00075509-00-01" id="2"/>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D
-独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <NE:LOCATION:サモア独立国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <rel type="=≒" target="サモア" sid="wiki00075509-00-01" id="2"/><体言>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><非用言格解析:動>
+独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 3D <体言><NE:LOCATION:サモア独立国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="国" sid="wiki00075509-01" id="2"/>
-南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="国" sid="wiki00075509-01" id="2"/><体言>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ニ" target="南東" sid="wiki00075509-01" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ニ" target="南東" sid="wiki00075509-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00075509-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/23 MEMO:
 * 1P
-+ 1D
-アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><NE:LOCATION:アメリカンサモア>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><体言><NE:LOCATION:アメリカンサモア>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=≒" target="南東" sid="wiki00075509-01" id="3"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><NE:LOCATION:東サモア>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <rel type="=≒" target="南東" sid="wiki00075509-01" id="3"/><体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="=構" target="サモア" sid="wiki00075509-00-01" id="2"/><体言><NE:LOCATION:東サモア>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="サモア" sid="wiki00075509-02-01" id="1"/><rel type="ト" mode="AND" target="サモア" sid="wiki00075509-02-01" id="3"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="サモア" sid="wiki00075509-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="サモア" sid="wiki00075509-02-01" id="1"/><rel type="ト" mode="AND" target="サモア" sid="wiki00075509-02-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00075509-02-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/23 MEMO:
 * -1D
-+ 1D <rel type="=" target="東" sid="wiki00075509-02-01" id="2"/>
-ひがし ひがし ひがし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="サモア" sid="wiki00075509-02-01" id="3"/><NE:LOCATION:ひがしサモア>
-サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="東" sid="wiki00075509-02-01" id="2"/><体言>
+ひがし ひがし ひがし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=" target="サモア" sid="wiki00075509-02-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ひがしサモア>
+サモア さもあ サモア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS

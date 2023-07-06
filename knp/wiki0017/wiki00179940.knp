@@ -1,223 +1,223 @@
 # S-ID:wiki00179940-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/27 MEMO:
 * 6D
-+ 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 13D <memo text="SKYTREE"/><NE:OPTIONAL:東京スカイツリー>
-スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 13D <memo text="SKYTREE"/><体言><NE:OPTIONAL:東京スカイツリー>
+スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="東京" sid="wiki00179940-00-01" id="0"/>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="東京" sid="wiki00179940-00-01" id="0"/><体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D
-墨田 すみだ 墨田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <体言>
+墨田 すみだ 墨田 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D
-押上 おしあげ 押上 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D
++ 5D <体言>
+押上 おしあげ 押上 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 6D <体言>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
+- の - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 7D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 - の - 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
-- の - 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <NE:LOCATION:東京都墨田区押上1-1-2>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:tail>
++ 8D <体言><NE:LOCATION:東京都墨田区押上1-1-2>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 10D <rel type="ニ" target="2" sid="wiki00179940-00-01" id="7"/><rel type="ガ" target="塔" sid="wiki00179940-00-01" id="10"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 10D <rel type="ニ" target="2" sid="wiki00179940-00-01" id="7"/><rel type="ガ" target="塔" sid="wiki00179940-00-01" id="10"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6P
-+ 10D
-電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13P <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="修飾" target="電波" sid="wiki00179940-00-01" id="9"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13P <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="修飾" target="電波" sid="wiki00179940-00-01" id="9"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="=" target="東京都" sid="wiki00179940-00-01" id="2"/><NE:LOCATION:東京>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 12D <rel type="=" target="東京都" sid="wiki00179940-00-01" id="2"/><体言><NE:LOCATION:東京>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 13D <rel type="ノ？" target="東京" sid="wiki00179940-00-01" id="11"/><rel type="=≒" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><memo text="landmark"/>
-ランドマーク らんどまーく ランドマーク 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ？" target="東京" sid="wiki00179940-00-01" id="11"/><rel type="=≒" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><memo text="landmark"/><体言>
+ランドマーク らんどまーく ランドマーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="ランドマーク" sid="wiki00179940-00-01" id="12"/><rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=構" mode="AND" target="ランドマーク" sid="wiki00179940-00-01" id="12"/>
++ -1D <rel type="ノ" target="ランドマーク" sid="wiki00179940-00-01" id="12"/><rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=構" mode="AND" target="ランドマーク" sid="wiki00179940-00-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00179940-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/27 MEMO:
 * -1D
-+ 1D <rel type="=" target="東京" sid="wiki00179940-00-01" id="0"/>
-とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><NE:OPTIONAL:とうきょうスカイツリー>
-スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="東京" sid="wiki00179940-00-01" id="0"/><体言>
+とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:とうきょうスカイツリー>
+スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00179940-00-03 括弧始:（ 括弧終:） 括弧位置:42 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/25 MEMO:
 * -1D
-+ 1D <rel type="ガ" target="所" sid="wiki00179940-00-03" id="1"/><rel type="ヲ" target="電波" sid="wiki00179940-00-01" id="9"/>
-送信 そうしん 送信 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="塔" sid="wiki00179940-00-01" id="10"/>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="所" sid="wiki00179940-00-03" id="1"/><rel type="ヲ" target="電波" sid="wiki00179940-00-01" id="9"/><体言><非用言格解析:動>
+送信 そうしん 送信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="塔" sid="wiki00179940-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00179940-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/09/27 MEMO:
 * 1D
-+ 1D
-2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 1D <体言>
+2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 2D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 2D <体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 3D <NE:DATE:2012年2月29日>
-29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 3D <体言><NE:DATE:2012年2月29日>
+29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 13P <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="時間" target="29日" sid="wiki00179940-01" id="2"/>
-完成 かんせい 完成 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13P <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="時間" target="29日" sid="wiki00179940-01" id="2"/><用言:動><節-主辞><節-区切>
+完成 かんせい 完成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 5D
-同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="2012年" sid="wiki00179940-01" id="0"/>
-年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="2012年" sid="wiki00179940-01" id="0"/>
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=" target="2012年" sid="wiki00179940-01" id="0"/><体言>
+年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="2012年" sid="wiki00179940-01" id="0"/><体言>
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 13D <NE:DATE:5月22日>
-22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <体言><NE:DATE:5月22日>
+22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D
-電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11P <rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=" mode="AND" target="塔" sid="wiki00179940-00-01" id="10"/>
-塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11P <rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="=" mode="AND" target="塔" sid="wiki00179940-00-01" id="10"/><体言>
+塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00179940-01" id="11"/>
-観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="観光" sid="wiki00179940-01" id="10"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00179940-01" id="11"/><体言><非用言格解析:動>
+観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="観光" sid="wiki00179940-01" id="10"/><rel type="=構" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><体言><非用言格解析:動>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 13D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 13D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="時間" target="22日" sid="wiki00179940-01" id="7"/><rel type="トシテ" target="塔" sid="wiki00179940-01" id="9"/><rel type="トシテ" mode="AND" target="施設" sid="wiki00179940-01" id="11"/>
-開業 かいぎょう 開業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="時間" target="22日" sid="wiki00179940-01" id="7"/><rel type="トシテ" target="塔" sid="wiki00179940-01" id="9"/><rel type="トシテ" mode="AND" target="施設" sid="wiki00179940-01" id="11"/><用言:動><時制:過去><節-主辞><節-区切>
+開業 かいぎょう 開業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00179940-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2022/09/27 MEMO:
 * 1P
-+ 1P <rel type="=" target="観光" sid="wiki00179940-01" id="10"/>
-観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1P <rel type="=" target="観光" sid="wiki00179940-01" id="10"/><体言><非用言格解析:動>
+観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D
-商業 しょうぎょう 商業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4P <rel type="修飾" target="観光" sid="wiki00179940-02" id="0"/><rel type="修飾" mode="AND" target="商業" sid="wiki00179940-02" id="1"/>
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言>
+商業 しょうぎょう 商業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="修飾" target="観光" sid="wiki00179940-02" id="0"/><rel type="修飾" mode="AND" target="商業" sid="wiki00179940-02" id="1"/><体言><非用言格解析:動>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D
-オフィス おふぃす オフィス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="オフィス" sid="wiki00179940-02" id="3"/>
-ビル びる ビル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+オフィス おふぃす オフィス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="修飾" target="オフィス" sid="wiki00179940-02" id="3"/><体言>
+ビル びる ビル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 14P <rel type="ガ" target="施設" sid="wiki00179940-02" id="2"/><rel type="ガ" mode="AND" target="ビル" sid="wiki00179940-02" id="4"/><rel type="ニ" target="スカイツリー" sid="wiki00179940-02" id="12"/>
-併設 へいせつ 併設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14P <rel type="ガ" target="施設" sid="wiki00179940-02" id="2"/><rel type="ガ" mode="AND" target="ビル" sid="wiki00179940-02" id="4"/><rel type="ニ" target="スカイツリー" sid="wiki00179940-02" id="12"/><用言:動><節-主辞><節-区切>
+併設 へいせつ 併設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D
-電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="=" target="塔" sid="wiki00179940-01" id="9"/>
-塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="=" target="塔" sid="wiki00179940-01" id="9"/><体言>
+塔 とう 塔 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 14D
-含め ふくめ 含める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 14D <用言:動>
+含め ふくめ 含める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 * 7D
-+ 10D <rel type="ノ" target="スカイツリー" sid="wiki00179940-02" id="12"/>
-周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="周辺" sid="wiki00179940-02" id="9"/><rel type="=≒" target="施設" sid="wiki00179940-02" id="2"/><rel type="=≒" mode="AND" target="ビル" sid="wiki00179940-02" id="4"/>
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ノ" target="スカイツリー" sid="wiki00179940-02" id="12"/><体言>
+周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="周辺" sid="wiki00179940-02" id="9"/><rel type="=≒" target="施設" sid="wiki00179940-02" id="2"/><rel type="=≒" mode="AND" target="ビル" sid="wiki00179940-02" id="4"/><体言><非用言格解析:動>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 12D
++ 12D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 13D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 14D <rel type="=構≒" target="塔" sid="wiki00179940-02" id="7"/><rel type="=構≒" mode="AND" target="施設" sid="wiki00179940-02" id="10"/><rel type="修飾" target="スカイツリー" sid="wiki00179940-02" id="12"/><memo text="SE"/><NE:LOCATION:東京スカイツリータウン>
-タウン たうん タウン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 13D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><体言>
+スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 14D <rel type="=構≒" target="塔" sid="wiki00179940-02" id="7"/><rel type="=構≒" mode="AND" target="施設" sid="wiki00179940-02" id="10"/><rel type="修飾" target="スカイツリー" sid="wiki00179940-02" id="12"/><memo text="SE"/><体言><NE:LOCATION:東京スカイツリータウン>
+タウン たうん タウン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲフクメテ" target="塔" sid="wiki00179940-02" id="7"/><rel type="ガ" target="施設" sid="wiki00179940-02" id="10"/><rel type="ト" target="タウン" sid="wiki00179940-02" id="13"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ヲフクメテ" target="塔" sid="wiki00179940-02" id="7"/><rel type="ガ" target="施設" sid="wiki00179940-02" id="10"/><rel type="ト" target="タウン" sid="wiki00179940-02" id="13"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00179940-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/27 MEMO:
 * 1P
-+ 1D
-東武 とうぶ 東武 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3P <NE:ORGANIZATION:東武鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+東武 とうぶ 東武 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3P <体言><NE:ORGANIZATION:東武鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="東武" sid="wiki00179940-03" id="0"/>
-東武 とうぶ 東武 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=≒" target="鉄道" sid="wiki00179940-03" id="1"/><NE:ORGANIZATION:東武グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <rel type="=" target="東武" sid="wiki00179940-03" id="0"/><体言>
+東武 とうぶ 東武 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=≒" target="鉄道" sid="wiki00179940-03" id="1"/><体言><NE:ORGANIZATION:東武グループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ノ" target="グループ" sid="wiki00179940-03" id="3"/><rel type="ノ" mode="AND" target="鉄道" sid="wiki00179940-03" id="1"/><rel type="ガ" target="存在" sid="wiki00179940-03" id="5"/>
-シンボル しんぼる シンボル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="グループ" sid="wiki00179940-03" id="3"/><rel type="ノ" mode="AND" target="鉄道" sid="wiki00179940-03" id="1"/><rel type="ガ" target="存在" sid="wiki00179940-03" id="5"/><体言>
+シンボル しんぼる シンボル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ -1D <rel type="ノ？" target="グループ" sid="wiki00179940-03" id="3"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00179940-03" id="1"/><rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="修飾" target="シンボル的" sid="wiki00179940-03" id="4"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ノ？" target="グループ" sid="wiki00179940-03" id="3"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00179940-03" id="1"/><rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="修飾" target="シンボル的" sid="wiki00179940-03" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00179940-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/27 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-最寄 もより 最寄 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="最寄" sid="wiki00179940-04" id="0"/><rel type="ノ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><体言>
+最寄 もより 最寄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="最寄" sid="wiki00179940-04" id="0"/><rel type="ノ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><体言>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3D
-とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/>
-スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6P <rel type="=構" target="駅" sid="wiki00179940-04" id="1"/><rel type="ガ" target="駅" sid="wiki00179940-04" id="1"/><NE:LOCATION:とうきょうスカイツリー駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言>
+とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="=" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><体言>
+スカイツリー すかいつりー スカイツリー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 6P <rel type="=構" target="駅" sid="wiki00179940-04" id="1"/><rel type="ガ" target="駅" sid="wiki00179940-04" id="1"/><体言><NE:LOCATION:とうきょうスカイツリー駅>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <rel type="=" target="押上" sid="wiki00179940-00-01" id="4"/>
-押上 おしあげ 押上 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9P <rel type="ガ" target="駅" sid="wiki00179940-04" id="1"/><rel type="=構" target="駅" sid="wiki00179940-04" id="1"/><NE:LOCATION:押上駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
++ 6D <rel type="=" target="押上" sid="wiki00179940-00-01" id="4"/><体言>
+押上 おしあげ 押上 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9P <rel type="ガ" target="駅" sid="wiki00179940-04" id="1"/><rel type="=構" target="駅" sid="wiki00179940-04" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:押上駅>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 * 3D
 + 8D
-両 りょう 両 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 9D <rel type="=≒" target="駅" sid="wiki00179940-04" id="4"/><rel type="=≒" mode="AND" target="駅" sid="wiki00179940-04" id="6"/><rel type="修飾" target="両" sid="wiki00179940-04" id="7"/><memo text="SE"/>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
+両 りょう 両 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=≒" target="駅" sid="wiki00179940-04" id="4"/><rel type="=≒" mode="AND" target="駅" sid="wiki00179940-04" id="6"/><rel type="修飾" target="両" sid="wiki00179940-04" id="7"/><memo text="SE"/><体言>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="ト" target="駅" sid="wiki00179940-04" id="8"/>
-直結 ちょっけつ 直結 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="スカイツリー" sid="wiki00179940-00-01" id="1"/><rel type="ト" target="駅" sid="wiki00179940-04" id="8"/><用言:動><時制:非過去><節-主辞><節-区切>
+直結 ちょっけつ 直結 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

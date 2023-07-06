@@ -1,24 +1,24 @@
 # S-ID:wiki00000446-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 4D
 + 5D
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D <rel type="ノ" target="中国" sid="wiki00000446-00" id="2"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <rel type="ノ" target="中国" sid="wiki00000446-00" id="2"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="県" sid="wiki00000446-00" id="5"/><rel type="ニ" target="地方" sid="wiki00000446-00" id="3"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="県" sid="wiki00000446-00" id="5"/><rel type="ニ" target="地方" sid="wiki00000446-00" id="3"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00000446-00" id="0"/><rel type="=" target="は、" sid="wiki00000446-00" id="0"/>
-県 けん 県 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="は、" sid="wiki00000446-00" id="0"/><rel type="=" target="は、" sid="wiki00000446-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+県 けん 県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

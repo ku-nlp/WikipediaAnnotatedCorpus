@@ -1,51 +1,51 @@
 # S-ID:wiki00067666-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1P
-+ 2P <NE:LOCATION:バンコク都>
-バンコク ばんこく バンコク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2P <体言><NE:LOCATION:バンコク都>
+バンコク ばんこく バンコク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 2D
-クルンテープ クルンテープ クルンテープ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <NE:ORGANIZATION:クルンテープマハーナコーン>
-マハーナコーン マハーナコーン マハーナコーン 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+クルンテープ クルンテープ クルンテープ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><非用言格解析:動><NE:ORGANIZATION:クルンテープマハーナコーン>
+マハーナコーン マハーナコーン マハーナコーン 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:LOCATION:タイ>
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:LOCATION:タイ>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <体言>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/><rel type="ノ" target="王国" sid="wiki00067666-00-01" id="4"/><rel type="=" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/><rel type="ノ" target="王国" sid="wiki00067666-00-01" id="4"/><rel type="=" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00067666-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="バンコク都" sid="wiki00067666-00-01" id="0"/><NE:LOCATION:バンコク>
-バンコク ばんこく バンコク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="バンコク都" sid="wiki00067666-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:バンコク>
+バンコク ばんこく バンコク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00067666-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000
 * 3D
-+ 3D <rel type="=" target="タイ" sid="wiki00067666-00-01" id="3"/><NE:LOCATION:タイ>
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="=" target="タイ" sid="wiki00067666-00-01" id="3"/><体言><NE:LOCATION:タイ>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="クルンテープ" sid="wiki00067666-00-01" id="1"/><NE:LOCATION:クルンテープ>
-クルンテープ クルンテープ クルンテープ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="=" target="クルンテープ" sid="wiki00067666-00-01" id="1"/><体言><NE:LOCATION:クルンテープ>
+クルンテープ クルンテープ クルンテープ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="クルンテープ" sid="wiki00067666-01" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="クルンテープ" sid="wiki00067666-01" id="1"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="マハーナコーン" sid="wiki00067666-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

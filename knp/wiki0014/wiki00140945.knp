@@ -1,78 +1,78 @@
 # S-ID:wiki00140945-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/28 MEMO:
 * 2D
-+ 1D
-サンディエゴ さんでぃえご サンディエゴ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+サンディエゴ さんでぃえご サンディエゴ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:サンディエゴ・パドレス>
-パドレス ぱどれす パドレス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言><NE:ORGANIZATION:サンディエゴ・パドレス>
+パドレス ぱどれす パドレス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ" target="ベースボール" sid="wiki00140945-00-01" id="4"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 9D <rel type="ノ" target="リーグ" sid="wiki00140945-00-01" id="6"/><rel type="修飾" target="西" sid="wiki00140945-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ西地区>
-地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 12D <rel type="ガ" target="チーム" sid="wiki00140945-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00140945-00-01" id="8"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言>
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4D <体言>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <rel type="ノ" target="ベースボール" sid="wiki00140945-00-01" id="4"/><体言>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00140945-00-01" id="6"/><rel type="修飾" target="西" sid="wiki00140945-00-01" id="7"/><体言><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ西地区>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 12D <rel type="ガ" target="チーム" sid="wiki00140945-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00140945-00-01" id="8"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="プロ" sid="wiki00140945-00-01" id="10"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="パドレス" sid="wiki00140945-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00140945-00-01" id="11"/><rel type="=構" target="パドレス" sid="wiki00140945-00-01" id="1"/><rel type="ノ？" target="所属" sid="wiki00140945-00-01" id="9"/><memo text="CO"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="プロ" sid="wiki00140945-00-01" id="10"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="パドレス" sid="wiki00140945-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00140945-00-01" id="11"/><rel type="=構" target="パドレス" sid="wiki00140945-00-01" id="1"/><rel type="ノ？" target="所属" sid="wiki00140945-00-01" id="9"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140945-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/28 MEMO:
 * -1D
-+ 1D <rel type="ノ" target="パドレス" sid="wiki00140945-00-01" id="1"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="ノ" target="パドレス" sid="wiki00140945-00-01" id="1"/><体言>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00140945-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00140945-00-02" id="0"/><rel type="=" mode="AND" target="パドレス" sid="wiki00140945-00-01" id="1"/><NE:ORGANIZATION:SD>
-SD SD SD 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00140945-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00140945-00-02" id="0"/><rel type="=" mode="AND" target="パドレス" sid="wiki00140945-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:SD>
+SD SD SD 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00140945-00-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/28 MEMO:
 * 1D
 + 1D
-以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ベースボール" sid="wiki00140945-00-01" id="4"/><NE:OPTIONAL:MLB>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ベースボール" sid="wiki00140945-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:MLB>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00140945-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/28 MEMO:
 * 3D
-+ 1D <rel type="ノ" target="パドレス" sid="wiki00140945-00-01" id="1"/>
-本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="本拠" sid="wiki00140945-01" id="0"/><rel type="ノ？" target="パドレス" sid="wiki00140945-00-01" id="1"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="パドレス" sid="wiki00140945-00-01" id="1"/><体言>
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="本拠" sid="wiki00140945-01" id="0"/><rel type="ノ？" target="パドレス" sid="wiki00140945-00-01" id="1"/><体言>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
-カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言>
+カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="=" target="サンディエゴ" sid="wiki00140945-00-01" id="0"/><rel type="ノ？" target="カリフォルニア州" sid="wiki00140945-01" id="2"/><NE:LOCATION:カリフォルニア州サンディエゴ>
-サンディエゴ さんでぃえご サンディエゴ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <rel type="=" target="サンディエゴ" sid="wiki00140945-00-01" id="0"/><rel type="ノ？" target="カリフォルニア州" sid="wiki00140945-01" id="2"/><体言><NE:LOCATION:カリフォルニア州サンディエゴ>
+サンディエゴ さんでぃえご サンディエゴ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="パーク" sid="wiki00140945-01" id="6"/><rel type="ニ" target="サンディエゴ" sid="wiki00140945-01" id="3"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 6D <rel type="ガ" target="パーク" sid="wiki00140945-01" id="6"/><rel type="ニ" target="サンディエゴ" sid="wiki00140945-01" id="3"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 6D <memo text="組織名がいいか"/>
-ペトコ ぺとこ ペトコ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <memo text="組織名がいいか"/><体言>
+ペトコ ぺとこ ペトコ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="地" sid="wiki00140945-01" id="1"/><rel type="=構" target="地" sid="wiki00140945-01" id="1"/><memo text="CO"/><NE:LOCATION:ペトコ・パーク>
-パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="地" sid="wiki00140945-01" id="1"/><rel type="=構" target="地" sid="wiki00140945-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ペトコ・パーク>
+パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

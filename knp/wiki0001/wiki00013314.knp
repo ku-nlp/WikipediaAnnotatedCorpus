@@ -1,145 +1,145 @@
 # S-ID:wiki00013314-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 6D
-+ 11D <NE:PERSON:三島>
-三島 みしま 三島 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 11D <体言><NE:PERSON:三島>
+三島 みしま 三島 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 11D <NE:PERSON:由紀夫>
-由紀夫 ゆきお 由紀夫 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 11D <体言><NE:PERSON:由紀夫>
+由紀夫 ゆきお 由紀夫 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 4D
-小説 しょうせつ 小説 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6P <rel type="ノ" target="随筆" sid="wiki00013314-00-01" id="6"/><rel type="=" target="由紀夫" sid="wiki00013314-00-01" id="1"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <体言>
+小説 しょうせつ 小説 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6P <rel type="ノ" target="随筆" sid="wiki00013314-00-01" id="6"/><rel type="=" target="由紀夫" sid="wiki00013314-00-01" id="1"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="=" target="家" sid="wiki00013314-00-01" id="4"/>
-劇作家 げきさくか 劇作家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=" target="家" sid="wiki00013314-00-01" id="4"/><体言>
+劇作家 げきさくか 劇作家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 8D
-随筆 ずいひつ 随筆 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="ノ" target="随筆" sid="wiki00013314-00-01" id="6"/><rel type="=" target="劇作家" sid="wiki00013314-00-01" id="5"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 8D <体言>
+随筆 ずいひつ 随筆 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ノ" target="随筆" sid="wiki00013314-00-01" id="6"/><rel type="=" target="劇作家" sid="wiki00013314-00-01" id="5"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 11D
-評論 ひょうろん 評論 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 10P <rel type="ノ" target="評論" sid="wiki00013314-00-01" id="8"/><rel type="=" target="家" sid="wiki00013314-00-01" id="7"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 11D <体言><非用言格解析:動>
+評論 ひょうろん 評論 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ノ" target="評論" sid="wiki00013314-00-01" id="8"/><rel type="=" target="家" sid="wiki00013314-00-01" id="7"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 11D
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="家" sid="wiki00013314-00-01" id="12"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="由紀夫" sid="wiki00013314-00-01" id="1"/><rel type="=" target="家" sid="wiki00013314-00-01" id="9"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 11D <体言>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="家" sid="wiki00013314-00-01" id="12"/><体言><非用言格解析:動>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="由紀夫" sid="wiki00013314-00-01" id="1"/><rel type="=" target="家" sid="wiki00013314-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013314-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D <rel type="=" target="三島" sid="wiki00013314-00-01" id="0"/>
-みしま みしま みしま 名詞 6 組織名 6 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="三島" sid="wiki00013314-00-01" id="0"/><体言>
+みしま みしま みしま 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2P <rel type="=" target="家" sid="wiki00013314-00-01" id="12"/><NE:PERSON:みしま　ゆきお>
-ゆきお ゆきお ゆきお 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 2P <rel type="=" target="家" sid="wiki00013314-00-01" id="12"/><体言><NE:PERSON:みしま　ゆきお>
+ゆきお ゆきお ゆきお 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:DATE:1925年>
-1925 1925 1925 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言><NE:DATE:1925年>
+1925 1925 1925 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 3D
-+ 4D
++ 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 5D <NE:DATE:大正14年>
-14 14 14 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 5D <体言><NE:DATE:大正14年>
+14 14 14 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4D
-+ 6D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 8D
-+ 11D <NE:DATE:1月14日>
-14 14 14 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 11D <体言><NE:DATE:1月14日>
+14 14 14 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 8D
-+ 11D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 7D
-+ 9D
-1970 1970 1970 名詞 6 数詞 7 * 0 * 0 NIL
++ 9D <体言>
+1970 1970 1970 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 8D
-+ 10D
++ 10D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 11D <NE:DATE:昭和45年>
-45 45 45 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 11D <体言><NE:DATE:昭和45年>
+45 45 45 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 * 9D
-+ 12D
-11 11 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 12D <体言>
+11 11 11 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * -1D
-+ -1D <NE:DATE:11月25日>
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:11月25日>
+25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00013314-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D <rel type="ノ" target="由紀夫" sid="wiki00013314-00-01" id="1"/>
-本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="由紀夫" sid="wiki00013314-00-01" id="1"/><体言>
+本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-平岡 ひらおか 平岡 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 2D <体言>
+平岡 ひらおか 平岡 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <rel type="ガ" target="本名" sid="wiki00013314-01-01" id="0"/><rel type="=" target="本名" sid="wiki00013314-01-01" id="0"/><NE:PERSON:平岡　公威>
-公威 公威 公威 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ -1D <rel type="ガ" target="本名" sid="wiki00013314-01-01" id="0"/><rel type="=" target="本名" sid="wiki00013314-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:平岡　公威>
+公威 公威 公威 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013314-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-ひらおか ひらおか ひらおか 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+ひらおか ひらおか ひらおか 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="本名" sid="wiki00013314-01-01" id="0"/>
-きみたけ きみたけ きみたけ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="本名" sid="wiki00013314-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+きみたけ きみたけ きみたけ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013314-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 2D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <NE:LOCATION:東京府東京市四谷区>
-四谷 よつや 四谷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <体言><NE:LOCATION:東京府東京市四谷区>
+四谷 よつや 四谷 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ガ" target="きみたけ" sid="wiki00013314-01-02" id="1"/><rel type="ノ" target="四谷区" sid="wiki00013314-02-01" id="2"/>
-出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="きみたけ" sid="wiki00013314-01-02" id="1"/><rel type="ノ" target="四谷区" sid="wiki00013314-02-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013314-02-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 2D
-現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="東京府" sid="wiki00013314-02-01" id="0"/>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="東京府" sid="wiki00013314-02-01" id="0"/><体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <NE:LOCATION:東京都新宿区>
-新宿 しんじゅく 新宿 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:東京都新宿区>
+新宿 しんじゅく 新宿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

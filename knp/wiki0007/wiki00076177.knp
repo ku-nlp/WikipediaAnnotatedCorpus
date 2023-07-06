@@ -1,124 +1,124 @@
 # S-ID:wiki00076177-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/24 MEMO:
 * 2D
-+ 3D
-全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:全国人民代表大会>
-大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言>
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><非用言格解析:動>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:全国人民代表大会>
+大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:中華人民共和国>
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:中華人民共和国>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ノ？" target="立法" sid="wiki00076177-00-01" id="5"/><rel type="ノ？" mode="AND" target="中華人民共和国" sid="wiki00076177-00-01" id="4"/><memo text="CO"/>
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動>
+立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ノ？" target="立法" sid="wiki00076177-00-01" id="5"/><rel type="ノ？" mode="AND" target="中華人民共和国" sid="wiki00076177-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00076177-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/24 MEMO:
 * -1D
-+ 3D <rel type="=" target="全国" sid="wiki00076177-00-01" id="0"/>
-ぜんこく ぜんこく ぜんこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/>
-じんみん じんみん じんみん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="代表" sid="wiki00076177-00-01" id="2"/>
-だいひょう だいひょう だいひょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="大会" sid="wiki00076177-00-01" id="3"/><NE:ORGANIZATION:ぜんこくじんみんだいひょうたいかい>
-たいかい たいかい たいかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <rel type="=" target="全国" sid="wiki00076177-00-01" id="0"/><体言>
+ぜんこく ぜんこく ぜんこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/><体言>
+じんみん じんみん じんみん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="代表" sid="wiki00076177-00-01" id="2"/><体言><非用言格解析:動>
+だいひょう だいひょう だいひょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="大会" sid="wiki00076177-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ぜんこくじんみんだいひょうたいかい>
+たいかい たいかい たいかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00076177-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/05/24 MEMO:
 * 2D
-+ 5D <rel type="トイウ" target="中華人民共和国" sid="wiki00076177-00-01" id="4"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="トイウ" target="中華人民共和国" sid="wiki00076177-00-01" id="4"/><体言>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 2D <rel type="ガ" target="権力" sid="wiki00076177-01" id="2"/><rel type="デ" target="国家" sid="wiki00076177-01" id="0"/>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 3D
-権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5P <rel type="ノ" target="国家" sid="wiki00076177-01" id="0"/><rel type="修飾" target="権力" sid="wiki00076177-01" id="2"/><rel type="=構" target="議会" sid="wiki00076177-01" id="11"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ガ" target="権力" sid="wiki00076177-01" id="2"/><rel type="デ" target="国家" sid="wiki00076177-01" id="0"/><体言><非用言格解析:形>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 3D <体言>
+権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="ノ" target="国家" sid="wiki00076177-01" id="0"/><rel type="修飾" target="権力" sid="wiki00076177-01" id="2"/><rel type="=構" target="議会" sid="wiki00076177-01" id="11"/><体言>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="立法" sid="wiki00076177-00-01" id="5"/>
-立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="国家" sid="wiki00076177-01" id="0"/><rel type="ノ？" target="立法" sid="wiki00076177-01" id="4"/><rel type="=構" target="議会" sid="wiki00076177-01" id="11"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="立法" sid="wiki00076177-00-01" id="5"/><体言><非用言格解析:動>
+立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="国家" sid="wiki00076177-01" id="0"/><rel type="ノ？" target="立法" sid="wiki00076177-01" id="4"/><rel type="=構" target="議会" sid="wiki00076177-01" id="11"/><体言>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 7D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 11D <rel type="ガ" target="議会" sid="wiki00076177-01" id="11"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="機関" sid="wiki00076177-01" id="5"/><rel type="トシテ" mode="AND" target="機関" sid="wiki00076177-01" id="3"/>
-位置付け いちづけ 位置付ける 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 11D <rel type="ガ" target="議会" sid="wiki00076177-01" id="11"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="機関" sid="wiki00076177-01" id="5"/><rel type="トシテ" mode="AND" target="機関" sid="wiki00076177-01" id="3"/><用言:動><時制:非過去>
+位置付け いちづけ 位置付ける 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 9D
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="一" sid="wiki00076177-01" id="8"/>
-院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="院" sid="wiki00076177-01" id="9"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="修飾" target="制" sid="wiki00076177-01" id="10"/>
-議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="修飾" target="一" sid="wiki00076177-01" id="8"/><体言>
+院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="院" sid="wiki00076177-01" id="9"/><体言>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="修飾" target="制" sid="wiki00076177-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00076177-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/05/24 MEMO:
 * 1P
-+ 2D <rel type="=" target="全国" sid="wiki00076177-00-01" id="0"/>
-全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4P <rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><NE:ORGANIZATION:全国人大>
-大 だい 大 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <rel type="=" target="全国" sid="wiki00076177-00-01" id="0"/><体言>
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4P <rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><体言><NE:ORGANIZATION:全国人大>
+大 だい 大 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><NE:ORGANIZATION:人大>
-大 だい 大 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <rel type="=" target="人民" sid="wiki00076177-00-01" id="1"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=構" target="大会" sid="wiki00076177-00-01" id="3"/><体言><NE:ORGANIZATION:人大>
+大 だい 大 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="大" sid="wiki00076177-02" id="2"/><rel type="ト" mode="AND" target="大" sid="wiki00076177-02" id="4"/>
-略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ガ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="大" sid="wiki00076177-02" id="2"/><rel type="ト" mode="AND" target="大" sid="wiki00076177-02" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00076177-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/05/24 MEMO:
 * 6D
 + 6D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="大会" sid="wiki00076177-00-01" id="3"/><NE:ORGANIZATION:全人代>
-全人代 ぜんじんだい 全人代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3D <rel type="=" target="大会" sid="wiki00076177-00-01" id="3"/><体言><NE:ORGANIZATION:全人代>
+全人代 ぜんじんだい 全人代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ト" target="全人代" sid="wiki00076177-03" id="2"/>
-省略 しょうりゃく 省略 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ト" target="全人代" sid="wiki00076177-03" id="2"/><用言:動><節-主辞><節-区切>
+省略 しょうりゃく 省略 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 5D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ト" target="全人代" sid="wiki00076177-03" id="2"/><rel type="外の関係" target="場合" sid="wiki00076177-03" id="5"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大会" sid="wiki00076177-00-01" id="3"/><rel type="ト" target="全人代" sid="wiki00076177-03" id="2"/><rel type="外の関係" target="場合" sid="wiki00076177-03" id="5"/><用言:動><時制:非過去><節-主辞>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 6D <rel type="トイウ" target="表記する" sid="wiki00076177-03" id="4"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 6D <rel type="トイウ" target="表記する" sid="wiki00076177-03" id="4"/><体言>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="場合" sid="wiki00076177-03" id="5"/><rel type="デ" target="日本" sid="wiki00076177-03" id="1"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="場合" sid="wiki00076177-03" id="5"/><rel type="デ" target="日本" sid="wiki00076177-03" id="1"/><用言:形><時制:非過去><節-区切>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

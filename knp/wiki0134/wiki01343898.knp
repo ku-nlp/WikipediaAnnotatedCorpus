@@ -1,58 +1,58 @@
 # S-ID:wiki01343898-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <NE:ORGANIZATION:韓国国立中央図書館>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言>
+図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <体言><NE:ORGANIZATION:韓国国立中央図書館>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 8D <rel type="=" target="韓国" sid="wiki01343898-00-01" id="0"/><NE:LOCATION:大韓民国>
-大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <rel type="=" target="韓国" sid="wiki01343898-00-01" id="0"/><体言><NE:LOCATION:大韓民国>
+大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
-図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="館" sid="wiki01343898-00-01" id="4"/><rel type="=" target="館" sid="wiki01343898-00-01" id="4"/>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言>
+図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="館" sid="wiki01343898-00-01" id="4"/><rel type="=" target="館" sid="wiki01343898-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01343898-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 1P
-+ 1D <rel type="=" target="大韓民国" sid="wiki01343898-00-01" id="5"/>
-かんこく かんこく かんこく 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="=" target="国立" sid="wiki01343898-00-01" id="1"/>
-こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P
-ちゅうおう ちゅうおう ちゅうおう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="大韓民国" sid="wiki01343898-00-01" id="5"/><体言><非用言格解析:動>
+かんこく かんこく かんこく 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="国立" sid="wiki01343898-00-01" id="1"/><体言>
+こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <体言>
+ちゅうおう ちゅうおう ちゅうおう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="館" sid="wiki01343898-00-01" id="4"/>
-しょかん しょかん しょかん 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="館" sid="wiki01343898-00-01" id="4"/><用言:動><体言><節-主辞><節-区切>
+しょかん しょかん しょかん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki01343898-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 1D
-+ 1D
-ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言>
+ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 2D
-瑞草 瑞草 瑞草 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <体言>
+瑞草 瑞草 瑞草 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <NE:LOCATION:ソウル市瑞草区盤浦洞>
-盤浦洞 盤浦洞 盤浦洞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言><NE:LOCATION:ソウル市瑞草区盤浦洞>
+盤浦洞 盤浦洞 盤浦洞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="館" sid="wiki01343898-00-01" id="4"/><rel type="ニ" target="盤浦洞" sid="wiki01343898-01" id="2"/>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="館" sid="wiki01343898-00-01" id="4"/><rel type="ニ" target="盤浦洞" sid="wiki01343898-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

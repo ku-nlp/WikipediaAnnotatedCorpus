@@ -1,131 +1,131 @@
 # S-ID:wiki00166318-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/26 MEMO:
 * 2D
-+ 4D <memo text="3.1.3.Aにより分離（悩ましいが）"/><NE:LOCATION:アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3P
-食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <rel type="ノ？" target="医薬" sid="wiki00166318-00-01" id="2"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <rel type="ニカンシテ" target="食品" sid="wiki00166318-00-01" id="1"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-00-01" id="3"/><NE:ORGANIZATION:食品医薬品局>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <memo text="3.1.3.Aにより分離（悩ましいが）"/><体言><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3P <体言>
+食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <rel type="ノ？" target="医薬" sid="wiki00166318-00-01" id="2"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <rel type="ニカンシテ" target="食品" sid="wiki00166318-00-01" id="1"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-00-01" id="3"/><体言><NE:ORGANIZATION:食品医薬品局>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 8D <rel type="=" target="アメリカ" sid="wiki00166318-00-01" id="0"/><memo text="3.1.3.Aにより分離（悩ましいが）"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7P
-保健 ほけん 保健 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D
-福祉 ふくし 福祉 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D <NE:ORGANIZATION:保健福祉省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 11D <rel type="ノ" target="省" sid="wiki00166318-00-01" id="8"/>
-配下 はいか 配下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="アメリカ" sid="wiki00166318-00-01" id="0"/><memo text="3.1.3.Aにより分離（悩ましいが）"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7P <体言>
+保健 ほけん 保健 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <体言>
+福祉 ふくし 福祉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9D <体言><NE:ORGANIZATION:保健福祉省>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 11D <rel type="ノ" target="省" sid="wiki00166318-00-01" id="8"/><体言>
+配下 はいか 配下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D <rel type="ノ" target="アメリカ合衆国" sid="wiki00166318-00-01" id="5"/>
-政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ノ？" target="政府" sid="wiki00166318-00-01" id="10"/><rel type="修飾" target="配下" sid="wiki00166318-00-01" id="9"/><rel type="=構" target="局" sid="wiki00166318-00-01" id="4"/><memo text="CO"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="アメリカ合衆国" sid="wiki00166318-00-01" id="5"/><体言>
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ノ？" target="政府" sid="wiki00166318-00-01" id="10"/><rel type="修飾" target="配下" sid="wiki00166318-00-01" id="9"/><rel type="=構" target="局" sid="wiki00166318-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00166318-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/26 MEMO:
 * 1P
-+ 4D <rel type="=" target="アメリカ" sid="wiki00166318-00-01" id="0"/><NE:LOCATION:アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3P <rel type="=" target="食品" sid="wiki00166318-00-01" id="1"/>
-しょくひん しょくひん しょくひん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <rel type="=" target="医薬" sid="wiki00166318-00-01" id="2"/>
-いやく いやく いやく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <rel type="=" target="品" sid="wiki00166318-00-01" id="3"/>
-ひん ひん ひん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="局" sid="wiki00166318-00-01" id="4"/><NE:ORGANIZATION:しょくひんいやくひんきょく>
-きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <rel type="=" target="アメリカ" sid="wiki00166318-00-01" id="0"/><体言><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3P <rel type="=" target="食品" sid="wiki00166318-00-01" id="1"/><体言>
+しょくひん しょくひん しょくひん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <rel type="=" target="医薬" sid="wiki00166318-00-01" id="2"/><体言>
+いやく いやく いやく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="品" sid="wiki00166318-00-01" id="3"/><体言>
+ひん ひん ひん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="局" sid="wiki00166318-00-01" id="4"/><体言><NE:ORGANIZATION:しょくひんいやくひんきょく>
+きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/><体言>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00166318-00-02" id="5"/><rel type="=" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" mode="AND" target="略称" sid="wiki00166318-00-02" id="5"/><NE:ORGANIZATION:FDA>
-FDA FDA FDA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00166318-00-02" id="5"/><rel type="=" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" mode="AND" target="略称" sid="wiki00166318-00-02" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:FDA>
+FDA FDA FDA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00166318-00-03 括弧始:（ 括弧終:） 括弧位置:51 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/26 MEMO:
 * 1P
-+ 1D
-Department Department Department 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+Department Department Department 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <体言>
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-Health Health Health 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <体言>
+Health Health Health 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <体言>
+and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-Human Human Human 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <体言>
+Human Human Human 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="省" sid="wiki00166318-00-01" id="8"/><NE:ORGANIZATION:Department　of　Health　and　Human　Services>
-Services Services Services 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6P <rel type="=" target="省" sid="wiki00166318-00-01" id="8"/><体言><NE:ORGANIZATION:Department　of　Health　and　Human　Services>
+Services Services Services 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="省" sid="wiki00166318-00-01" id="8"/><NE:ORGANIZATION:HHS>
-HHS HHS HHS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="省" sid="wiki00166318-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:HHS>
+HHS HHS HHS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00166318-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/09/26 MEMO:
 * 2D
-+ 6D <rel type="=≒" target="アメリカ合衆国" sid="wiki00166318-00-01" id="5"/>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 3P <rel type="=" target="食品" sid="wiki00166318-00-01" id="1"/>
-食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D <rel type="=≒" target="アメリカ合衆国" sid="wiki00166318-00-01" id="5"/><体言>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 3P <rel type="=" target="食品" sid="wiki00166318-00-01" id="1"/><体言>
+食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 3D
-医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 5P <rel type="=" target="品" sid="wiki00166318-00-01" id="3"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3D <体言>
+医薬 いやく 医薬 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 5P <rel type="=" target="品" sid="wiki00166318-00-01" id="3"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 5D
-化粧 けしょう 化粧 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 6D <rel type="ノ？" target="化粧" sid="wiki00166318-01" id="4"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <rel type="ニカンシテ" target="食品" sid="wiki00166318-01" id="1"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-01" id="3"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-01" id="5"/><NE:ARTIFACT:連邦食品・医薬品・化粧品法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 5D <体言><非用言格解析:動>
+化粧 けしょう 化粧 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 6D <rel type="ノ？" target="化粧" sid="wiki00166318-01" id="4"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 8D <rel type="ニカンシテ" target="食品" sid="wiki00166318-01" id="1"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-01" id="3"/><rel type="ニカンシテ" mode="AND" target="品" sid="wiki00166318-01" id="5"/><体言><NE:ARTIFACT:連邦食品・医薬品・化粧品法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 8D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" target="法" sid="wiki00166318-01" id="6"/>
-根拠 こんきょ 根拠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" target="法" sid="wiki00166318-01" id="6"/><体言>
+根拠 こんきょ 根拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 15P <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="法" sid="wiki00166318-01" id="6"/><rel type="ト" target="根拠" sid="wiki00166318-01" id="7"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 15P <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="法" sid="wiki00166318-01" id="6"/><rel type="ト" target="根拠" sid="wiki00166318-01" id="7"/><用言:動><節-主辞><節-区切>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 10D
-医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="医療" sid="wiki00166318-01" id="9"/><rel type="=≒" target="品" sid="wiki00166318-01" id="3"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13P <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="品" sid="wiki00166318-01" id="10"/>
-規制 きせい 規制 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <体言>
+医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ？" target="医療" sid="wiki00166318-01" id="9"/><rel type="=≒" target="品" sid="wiki00166318-01" id="3"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13P <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="品" sid="wiki00166318-01" id="10"/><体言><非用言格解析:動>
+規制 きせい 規制 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 13D
-食 しょく 食 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+食 しょく 食 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 15D <rel type="ガ" target="食" sid="wiki00166318-01" id="12"/>
-安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 15D <rel type="ガ" target="食" sid="wiki00166318-01" id="12"/><体言><非用言格解析:形>
+安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 15D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" target="規制" sid="wiki00166318-01" id="11"/><rel type="=構" mode="AND" target="安全" sid="wiki00166318-01" id="13"/>
-責務 せきむ 責務 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="=構" target="規制" sid="wiki00166318-01" id="11"/><rel type="=構" mode="AND" target="安全" sid="wiki00166318-01" id="13"/><体言>
+責務 せきむ 責務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="安全" sid="wiki00166318-01" id="13"/><rel type="ヲ" mode="AND" target="規制" sid="wiki00166318-01" id="11"/><rel type="ト" target="責務" sid="wiki00166318-01" id="14"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="局" sid="wiki00166318-00-01" id="4"/><rel type="ヲ" target="安全" sid="wiki00166318-01" id="13"/><rel type="ヲ" mode="AND" target="規制" sid="wiki00166318-01" id="11"/><rel type="ト" target="責務" sid="wiki00166318-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,31 +1,31 @@
 # S-ID:wiki00494554-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-草思 草思 草思 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:株式会社草思社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+草思 草思 草思 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:株式会社草思社>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="社" sid="wiki00494554-00-01" id="3"/><rel type="ノ" target="出版" sid="wiki00494554-00-01" id="5"/><rel type="=" target="社" sid="wiki00494554-00-01" id="3"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="社" sid="wiki00494554-00-01" id="3"/><rel type="ノ" target="出版" sid="wiki00494554-00-01" id="5"/><rel type="=" target="社" sid="wiki00494554-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00494554-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
 + 1D
-そう そう そう 指示詞 7 副詞形態指示詞 3 * 0 * 0 NIL
+そう そう そう 指示詞 7 副詞形態指示詞 3 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="=" target="社" sid="wiki00494554-00-01" id="6"/>
-ししゃ ししゃ ししゃ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="社" sid="wiki00494554-00-01" id="6"/><用言:動><体言><節-主辞><節-区切>
+ししゃ ししゃ ししゃ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

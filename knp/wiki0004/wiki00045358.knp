@@ -1,203 +1,203 @@
 # S-ID:wiki00045358-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:77.00000
 * 5D
-+ 1D
-弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 9D <rel type="ノ" target="弘前" sid="wiki00045358-00-01" id="0"/><NE:ORGANIZATION:弘前藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 9D <rel type="ノ" target="弘前" sid="wiki00045358-00-01" id="0"/><体言><NE:ORGANIZATION:弘前藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 3D
-江戸 えど 江戸 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 8D <NE:DATE:江戸時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 3D <体言>
+江戸 えど 江戸 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 8D <体言><NE:DATE:江戸時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <NE:LOCATION:陸奥>
-陸奥 みちのく 陸奥 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ" target="陸奥" sid="wiki00045358-00-01" id="4"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><NE:LOCATION:陸奥>
+陸奥 みちのく 陸奥 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ノ" target="陸奥" sid="wiki00045358-00-01" id="4"/><体言>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D
-津軽 つがる 津軽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+津軽 つがる 津軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="9"/><rel type="ニ" target="地方" sid="wiki00045358-00-01" id="7"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 9D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="9"/><rel type="ニ" target="地方" sid="wiki00045358-00-01" id="7"/><用言:動><時制:過去><節-主辞>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="=" target="藩" sid="wiki00045358-00-01" id="1"/>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="=" target="藩" sid="wiki00045358-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00045358-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 1D <rel type="=" target="津軽" sid="wiki00045358-00-01" id="6"/>
-ひろ ひろ ひろい 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
++ 1D <rel type="=" target="津軽" sid="wiki00045358-00-01" id="6"/><体言>
+ひろ ひろ ひろい 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL <基本句-主辞>
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="藩" sid="wiki00045358-00-01" id="9"/>
-きはん きはん きはん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="藩" sid="wiki00045358-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+きはん きはん きはん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00045358-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D <rel type="ノ" target="藩" sid="wiki00045358-00-01" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="藩" sid="wiki00045358-00-01" id="1"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="ガ" target="通称" sid="wiki00045358-01-01" id="0"/><rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/><NE:ORGANIZATION:津軽藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ -1D <rel type="ガ" target="通称" sid="wiki00045358-01-01" id="0"/><rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:津軽藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00045358-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="=" target="津軽" sid="wiki00045358-00-01" id="6"/>
-つがる つがる つがる 名詞 6 地名 4 * 0 * 0 NIL
-+ -1D <rel type="=" target="藩" sid="wiki00045358-00-01" id="9"/>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="津軽" sid="wiki00045358-00-01" id="6"/><体言>
+つがる つがる つがる 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="藩" sid="wiki00045358-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00045358-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
 * 1D
-+ 2D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 2D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:青森県>
-青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:青森県>
+青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 3D <rel type="ノ" target="青森県" sid="wiki00045358-02" id="1"/>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="青森県" sid="wiki00045358-02" id="1"/><体言>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 8P <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="ヲ" target="西部" sid="wiki00045358-02" id="2"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="ヲ" target="西部" sid="wiki00045358-02" id="2"/><用言:動><節-主辞><節-区切>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="藩" sid="wiki00045358-00-01" id="1"/><NE:ORGANIZATION:支藩>
-支藩 しはん 支藩 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 5D <rel type="ノ" target="藩" sid="wiki00045358-00-01" id="1"/><体言><NE:ORGANIZATION:支藩>
+支藩 しはん 支藩 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 8D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 7D
-黒石 くろいし 黒石 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D <rel type="=" target="支藩" sid="wiki00045358-02" id="4"/><NE:ORGANIZATION:黒石藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <体言>
+黒石 くろいし 黒石 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <rel type="=" target="支藩" sid="wiki00045358-02" id="4"/><体言><NE:ORGANIZATION:黒石藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00045358-02" id="7"/><rel type="ニ" target="藩" sid="wiki00045358-00-01" id="1"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <rel type="ガ" target="藩" sid="wiki00045358-02" id="7"/><rel type="ニ" target="藩" sid="wiki00045358-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00045358-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
 * 2D
-+ 1D <rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D <rel type="ノ" target="藩" sid="wiki00045358-03-01" id="0"/><NE:ORGANIZATION:藩庁>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/><体言>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <rel type="ノ" target="藩" sid="wiki00045358-03-01" id="0"/><体言><NE:ORGANIZATION:藩庁>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/>
-弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="=" target="庁" sid="wiki00045358-03-01" id="1"/><NE:LOCATION:弘前城>
-城 しろ 城 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/><体言>
+弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="=" target="庁" sid="wiki00045358-03-01" id="1"/><体言><NE:LOCATION:弘前城>
+城 しろ 城 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki00045358-03-01" id="1"/><rel type="ニ" target="城" sid="wiki00045358-03-01" id="3"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <rel type="ガ" target="庁" sid="wiki00045358-03-01" id="1"/><rel type="ニ" target="城" sid="wiki00045358-03-01" id="3"/><用言:動><時制:過去><節-主辞><節-区切>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00045358-03-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="=" target="陸奥" sid="wiki00045358-00-01" id="4"/>
-青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <rel type="=" target="陸奥" sid="wiki00045358-00-01" id="4"/><体言>
+青森 あおもり 青森 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/><NE:LOCATION:青森県弘前市>
-弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:青森県弘前市>
+弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00045358-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 1D
-+ 1D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/><NE:LOCATION:弘前>
-弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="=" target="津軽" sid="wiki00045358-01-01" id="1"/><体言><NE:LOCATION:弘前>
+弘前 ひろさき 弘前 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2I
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="藩" sid="wiki00045358-00-01" id="1"/>
-改称 かいしょう 改称 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4I <rel type="ノ" target="改称" sid="wiki00045358-04-01" id="1"/>
-以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="藩" sid="wiki00045358-00-01" id="1"/><体言><非用言格解析:動>
+改称 かいしょう 改称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4I <rel type="ノ" target="改称" sid="wiki00045358-04-01" id="1"/><用言:動><体言>
+以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 4D
-高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 9P <rel type="=" target="きはん" sid="wiki00045358-00-02" id="1"/><NE:ORGANIZATION:高岡藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言>
+高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 9P <rel type="=" target="きはん" sid="wiki00045358-00-02" id="1"/><体言><NE:ORGANIZATION:高岡藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4I
-+ 6D <rel type="=" target="高岡" sid="wiki00045358-04-01" id="3"/><NE:LOCATION:高岡>
-高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ガ" target="藩" sid="wiki00045358-02" id="7"/><rel type="ニ" target="高岡" sid="wiki00045358-04-01" id="5"/>
-移転 いてん 移転 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9I <rel type="ノ" target="移転" sid="wiki00045358-04-01" id="6"/>
-以前 いぜん 以前 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
++ 6D <rel type="=" target="高岡" sid="wiki00045358-04-01" id="3"/><体言><NE:LOCATION:高岡>
+高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ガ" target="藩" sid="wiki00045358-02" id="7"/><rel type="ニ" target="高岡" sid="wiki00045358-04-01" id="5"/><体言><非用言格解析:動>
+移転 いてん 移転 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9I <rel type="ノ" target="移転" sid="wiki00045358-04-01" id="6"/><用言:動><体言>
+以前 いぜん 以前 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D
-堀越 ほりこし 堀越 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D <rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/><NE:ORGANIZATION:堀越藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <体言>
+堀越 ほりこし 堀越 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <rel type="=" target="通称" sid="wiki00045358-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><NE:ORGANIZATION:堀越藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="以前" sid="wiki00045358-04-01" id="7"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="以前" sid="wiki00045358-04-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00045358-04-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="=" target="陸奥" sid="wiki00045358-00-01" id="4"/>
-陸奥 みちのく 陸奥 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="高岡" sid="wiki00045358-04-01" id="3"/>
-高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="はん" sid="wiki00045358-01-02" id="1"/><NE:ORGANIZATION:陸奥高岡藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="陸奥" sid="wiki00045358-00-01" id="4"/><体言>
+陸奥 みちのく 陸奥 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="=" target="高岡" sid="wiki00045358-04-01" id="3"/><体言>
+高岡 たかおか 高岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="はん" sid="wiki00045358-01-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:陸奥高岡藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00045358-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000
 * 1P
-+ 3P <rel type="ノ" target="藩" sid="wiki00045358-04-02" id="2"/>
-領地 りょうち 領地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="ノ" target="藩" sid="wiki00045358-04-02" id="2"/><体言>
+領地 りょうち 領地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 3D <rel type="ノ" target="藩" sid="wiki00045358-04-02" id="2"/>
-藩主 はんしゅ 藩主 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <NE:LOCATION:津軽>
-津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ" target="津軽" sid="wiki00045358-05" id="2"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 3D <rel type="ノ" target="藩" sid="wiki00045358-04-02" id="2"/><体言>
+藩主 はんしゅ 藩主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><NE:LOCATION:津軽>
+津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ノ" target="津軽" sid="wiki00045358-05" id="2"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D
-現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D
-津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 7D <rel type="=" target="藩" sid="wiki00045358-04-01" id="9"/><NE:ORGANIZATION:津軽藩>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <体言>
+津軽 つがる 津軽 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 7D <rel type="=" target="藩" sid="wiki00045358-04-01" id="9"/><体言><NE:ORGANIZATION:津軽藩>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="藩" sid="wiki00045358-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><モダリティ-評価:弱><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

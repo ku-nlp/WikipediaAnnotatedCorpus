@@ -1,165 +1,165 @@
 # S-ID:wiki00057795-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 5D
 + 6D
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <NE:LOCATION:メキシコ湾>
-湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <体言><NE:LOCATION:メキシコ湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 4P <rel type="ノ" target="湾" sid="wiki00057795-00" id="2"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="ノ" target="湾" sid="wiki00057795-00" id="2"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <NE:LOCATION:大西洋>
-大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:大西洋>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="水域" sid="wiki00057795-00" id="6"/><rel type="ニ" target="大西洋" sid="wiki00057795-00" id="4"/>
-隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="水域" sid="wiki00057795-00" id="6"/><rel type="ニ" target="大西洋" sid="wiki00057795-00" id="4"/><用言:動><時制:非過去><節-主辞>
+隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00057795-00" id="0"/><rel type="=" target="南" sid="wiki00057795-00" id="3"/>
-水域 すいいき 水域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="は、" sid="wiki00057795-00" id="0"/><rel type="=" target="南" sid="wiki00057795-00" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+水域 すいいき 水域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00057795-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:184.00000
 * 5D
-+ 7D <rel type="ノ" target="は、" sid="wiki00057795-00" id="0"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="は、" sid="wiki00057795-00" id="0"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <NE:LOCATION:ベネズエラ>
-ベネズエラ べねずえら ベネズエラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2P <体言><NE:LOCATION:ベネズエラ>
+ベネズエラ べねずえら ベネズエラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:LOCATION:コロンビア>
-コロンビア ころんびあ コロンビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:コロンビア>
+コロンビア ころんびあ コロンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D
-いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
++ 7D <用言:動><時制:過去>
+いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 5P
-+ 5D
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <NE:LOCATION:南アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 7P <rel type="ノ" target="アメリカ" sid="wiki00057795-01" id="5"/>
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言><NE:LOCATION:南アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 7P <rel type="ノ" target="アメリカ" sid="wiki00057795-01" id="5"/><体言>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 20D <NE:LOCATION:パナマ>
-パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 20D <体言><NE:LOCATION:パナマ>
+パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
-+ 20D <rel type="ノ" target="は、" sid="wiki00057795-00" id="0"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ノ" target="は、" sid="wiki00057795-00" id="0"/><体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 10D
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <NE:LOCATION:北アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 12D
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <体言><NE:LOCATION:北アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 12D <体言>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 17D <rel type="ガ" target="コスタリカ" sid="wiki00057795-01" id="13"/><rel type="ニ" target="大陸" sid="wiki00057795-01" id="11"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 17D <rel type="ガ" target="コスタリカ" sid="wiki00057795-01" id="13"/><rel type="ニ" target="大陸" sid="wiki00057795-01" id="11"/><用言:動><時制:非過去><節-主辞>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 10P
-+ 14P <NE:LOCATION:コスタリカ>
-コスタリカ こすたりか コスタリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14P <体言><NE:LOCATION:コスタリカ>
+コスタリカ こすたりか コスタリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
-+ 15P <NE:LOCATION:ニカラグア>
-ニカラグア にからぐあ ニカラグア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 15P <体言><NE:LOCATION:ニカラグア>
+ニカラグア にからぐあ ニカラグア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12P
-+ 16P <NE:LOCATION:ホンジュラス>
-ホンジュラス ほんじゅらす ホンジュラス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 16P <体言><NE:LOCATION:ホンジュラス>
+ホンジュラス ほんじゅらす ホンジュラス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13P
-+ 17P <NE:LOCATION:グアテマラ>
-グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 17P <体言><NE:LOCATION:グアテマラ>
+グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15P
-+ 20P <NE:LOCATION:ベリーズ>
-ベリーズ べりーず ベリーズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 20P <体言><NE:LOCATION:ベリーズ>
+ベリーズ べりーず ベリーズ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 そして そして そして 接続詞 10 * 0 * 0 * 0 NIL
 * 15D
-+ 20D <rel type="=" target="メキシコ" sid="wiki00057795-00" id="1"/><NE:LOCATION:メキシコ>
-メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 20D <rel type="=" target="メキシコ" sid="wiki00057795-00" id="1"/><体言><NE:LOCATION:メキシコ>
+メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 24D
-+ 20D
-ユカタン ユカタン ユカタン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 32D <NE:LOCATION:ユカタン半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 20D <体言>
+ユカタン ユカタン ユカタン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 32D <体言><NE:LOCATION:ユカタン半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 24D
-+ 32D
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 32D <体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 18P
-+ 24P <NE:LOCATION:キューバ>
-キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 24P <体言><NE:LOCATION:キューバ>
+キューバ きゅーば キューバ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 22D
-+ 24D
-イスパニョーラ イスパニョーラ イスパニョーラ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:head>
-+ 28D <NE:LOCATION:イスパニョーラ島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 24D <体言><非用言格解析:動>
+イスパニョーラ イスパニョーラ イスパニョーラ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 28D <体言><NE:LOCATION:イスパニョーラ島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 20P
-+ 26P <NE:LOCATION:ハイチ>
-ハイチ はいち ハイチ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 26P <体言><NE:LOCATION:ハイチ>
+ハイチ はいち ハイチ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21P
-+ 27P <NE:LOCATION:ドミニカ共和国>
-ドミニカ共和国 どみにかきょうわこく ドミニカ共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 27P <体言><NE:LOCATION:ドミニカ共和国>
+ドミニカ共和国 どみにかきょうわこく ドミニカ共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 22P
-+ 28P <NE:LOCATION:ジャマイカ>
-ジャマイカ じゃまいか ジャマイカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 28P <体言><NE:LOCATION:ジャマイカ>
+ジャマイカ じゃまいか ジャマイカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23D
-+ 29D
-プエルトリコ プエルトリコ プエルトリコ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 29D <体言>
+プエルトリコ プエルトリコ プエルトリコ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 24D
-+ 32D
-いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
++ 32D <用言:動><時制:過去>
+いった いった いう 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 26D
 + 31D
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 32D
-アンティル アンティル アンティル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 36D
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 32D <体言>
+アンティル アンティル アンティル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 36D <体言>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 26D
-+ 36D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 36D <体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 27D
 + 35D
-小 しょう 小 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 36D
-アンティル アンティル アンティル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 37D <NE:LOCATION:小アンティル諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+小 しょう 小 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 36D <体言>
+アンティル アンティル アンティル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 37D <体言><NE:LOCATION:小アンティル諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="東" sid="wiki00057795-01" id="33"/><rel type="ニ" target="諸島" sid="wiki00057795-01" id="36"/>
-接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ -1D <rel type="ガ" target="東" sid="wiki00057795-01" id="33"/><rel type="ニ" target="諸島" sid="wiki00057795-01" id="36"/><用言:動><時制:非過去><節-主辞><節-区切>
+接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

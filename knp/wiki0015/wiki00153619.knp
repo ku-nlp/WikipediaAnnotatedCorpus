@@ -1,248 +1,248 @@
 # S-ID:wiki00153619-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/08/17 MEMO:
 * 5D
-+ 1D <NE:LOCATION:大和>
-大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ？" target="大和" sid="wiki00153619-00-01" id="0"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:大和>
+大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ノ？" target="大和" sid="wiki00153619-00-01" id="0"/><体言>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=≒" target="大和" sid="wiki00153619-00-01" id="0"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <NE:LOCATION:日本列島>
-列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <rel type="=≒" target="大和" sid="wiki00153619-00-01" id="0"/><体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:日本列島>
+列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ" target="列島" sid="wiki00153619-00-01" id="3"/>
-住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="列島" sid="wiki00153619-00-01" id="3"/><体言>
+住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="住民" sid="wiki00153619-00-01" id="4"/>
-大半 たいはん 大半 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="住民" sid="wiki00153619-00-01" id="4"/><体言>
+大半 たいはん 大半 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="7"/><rel type="ヲ" target="大半" sid="wiki00153619-00-01" id="5"/>
-占める しめる 占める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 7D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="7"/><rel type="ヲ" target="大半" sid="wiki00153619-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
+占める しめる 占める 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00153619-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/04 MEMO:
 * -1D
-+ 1D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><NE:LOCATION:やまと>
-やまと やまと やまと 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="=" target="民族" sid="wiki00153619-00-01" id="1"/>
-みんぞく みんぞく みんぞく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><体言><NE:LOCATION:やまと>
+やまと やまと やまと 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <rel type="=" target="民族" sid="wiki00153619-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+みんぞく みんぞく みんぞく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00153619-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/17 MEMO:
 * 5D
-+ 7D <rel type="ノ" target="民族" sid="wiki00153619-00-01" id="1"/>
-ほとんど ほとんど ほとんど 副詞 8 * 0 * 0 * 0 NIL
++ 7D <rel type="ノ" target="民族" sid="wiki00153619-00-01" id="1"/><体言>
+ほとんど ほとんど ほとんど 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 2D <rel type="=" target="日本" sid="wiki00153619-00-01" id="2"/><NE:OPTIONAL:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 4D <rel type="ノ？" target="日本" sid="wiki00153619-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="日本" sid="wiki00153619-00-01" id="2"/><体言><NE:OPTIONAL:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 4D <rel type="ノ？" target="日本" sid="wiki00153619-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=構" target="語" sid="wiki00153619-01" id="2"/><rel type="ノ" target="民族" sid="wiki00153619-00-01" id="1"/>
-母語 ぼご 母語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=構" target="語" sid="wiki00153619-01" id="2"/><rel type="ノ" target="民族" sid="wiki00153619-00-01" id="1"/><体言>
+母語 ぼご 母語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 7P <rel type="ガ" target="ほとんど" sid="wiki00153619-01" id="0"/><rel type="ヲ" target="語" sid="wiki00153619-01" id="2"/><rel type="ト" target="母語" sid="wiki00153619-01" id="3"/><rel type="ガ２" target="民族" sid="wiki00153619-01" id="8"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 7P <rel type="ガ" target="ほとんど" sid="wiki00153619-01" id="0"/><rel type="ヲ" target="語" sid="wiki00153619-01" id="2"/><rel type="ト" target="母語" sid="wiki00153619-01" id="3"/><rel type="ガ２" target="民族" sid="wiki00153619-01" id="8"/><用言:動><節-主辞><節-区切>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <rel type="=" target="列島" sid="wiki00153619-00-01" id="3"/><NE:LOCATION:日本列島>
-列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7D <rel type="=" target="列島" sid="wiki00153619-00-01" id="3"/><体言><NE:LOCATION:日本列島>
+列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="ほとんど" sid="wiki00153619-01" id="0"/><rel type="ニ" target="列島" sid="wiki00153619-01" id="6"/><rel type="ガ２" target="民族" sid="wiki00153619-01" id="8"/>
-居住 きょじゅう 居住 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="ほとんど" sid="wiki00153619-01" id="0"/><rel type="ニ" target="列島" sid="wiki00153619-01" id="6"/><rel type="ガ２" target="民族" sid="wiki00153619-01" id="8"/><用言:動><時制:非過去><節-主辞>
+居住 きょじゅう 居住 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00153619-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/07/04 MEMO:
 * 1D
-+ 1D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><NE:OPTIONAL:和>
-和 わ 和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2D <rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ノ？" target="和" sid="wiki00153619-02-01" id="0"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><体言><NE:OPTIONAL:和>
+和 わ 和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2D <rel type="=構" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ノ？" target="和" sid="wiki00153619-02-01" id="0"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="人" sid="wiki00153619-02-01" id="1"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="人" sid="wiki00153619-02-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00153619-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/04 MEMO:
 * -1D
-+ 1D <rel type="=" target="和" sid="wiki00153619-02-01" id="0"/><NE:OPTIONAL:わ>
-わ わ わ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="=" target="人" sid="wiki00153619-02-01" id="1"/>
-じん じん じん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="和" sid="wiki00153619-02-01" id="0"/><体言><NE:OPTIONAL:わ>
+わ わ わ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="=" target="人" sid="wiki00153619-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+じん じん じん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00153619-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:178.00000 MOD:2022/08/17 MEMO:
 * 1D
-+ 1D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="列島" sid="wiki00153619-01" id="6"/><NE:LOCATION:日本列島>
-列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="=" target="列島" sid="wiki00153619-01" id="6"/><体言><NE:LOCATION:日本列島>
+列島 れっとう 列島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="住民" sid="wiki00153619-00-01" id="4"/>
-住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="住民" sid="wiki00153619-00-01" id="4"/><体言>
+住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ" target="住民" sid="wiki00153619-03" id="2"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 15D <rel type="ノ" target="住民" sid="wiki00153619-03" id="2"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <NE:DATE:古代>
-古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 6D <体言><NE:DATE:古代>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 6D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><NE:LOCATION:大和>
-大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 9P <rel type="時間" target="古代" sid="wiki00153619-03" id="4"/><rel type="ノ？" target="大和" sid="wiki00153619-03" id="5"/>
-朝廷 ちょうてい 朝廷 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><体言><NE:LOCATION:大和>
+大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 9P <rel type="時間" target="古代" sid="wiki00153619-03" id="4"/><rel type="ノ？" target="大和" sid="wiki00153619-03" id="5"/><体言>
+朝廷 ちょうてい 朝廷 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <NE:DATE:中世>
-中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 9D <体言><NE:DATE:中世>
+中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D
-武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="時間" target="中世" sid="wiki00153619-03" id="7"/><rel type="ニヨッテ" target="武家" sid="wiki00153619-03" id="8"/>
-政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="時間" target="中世" sid="wiki00153619-03" id="7"/><rel type="ニヨッテ" target="武家" sid="wiki00153619-03" id="8"/><体言>
+政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="朝廷" sid="wiki00153619-03" id="6"/><rel type="ガ" mode="AND" target="政権" sid="wiki00153619-03" id="9"/>
-施政 しせい 施政 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="朝廷" sid="wiki00153619-03" id="6"/><rel type="ガ" mode="AND" target="政権" sid="wiki00153619-03" id="9"/><体言><非用言格解析:動>
+施政 しせい 施政 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 下 か 下 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="人" sid="wiki00153619-03" id="12"/><rel type="ニ" target="施政下" sid="wiki00153619-03" id="10"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 12D <rel type="ガ" target="人" sid="wiki00153619-03" id="12"/><rel type="ニ" target="施政下" sid="wiki00153619-03" id="10"/><用言:動><時制:過去><節-主辞>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 11D
-+ 15D <rel type="=≒" target="住民" sid="wiki00153619-03" id="2"/>
-人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=≒" target="住民" sid="wiki00153619-03" id="2"/><体言>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><NE:LOCATION:大和>
-大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 15D <rel type="=≒" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" mode="AND" target="人" sid="wiki00153619-03" id="12"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="=" target="大和" sid="wiki00153619-00-01" id="0"/><体言><NE:LOCATION:大和>
+大和 やまと 大和 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 15D <rel type="=≒" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="=構" mode="AND" target="人" sid="wiki00153619-03" id="12"/><体言>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19P
-+ 27P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00153619-03" id="12"/><rel type="ト" target="民族" sid="wiki00153619-03" id="14"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 27P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00153619-03" id="12"/><rel type="ト" target="民族" sid="wiki00153619-03" id="14"/><用言:動><節-主辞><節-区切>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
-+ 20D <NE:DATE:近世>
-近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
++ 20D <体言><NE:DATE:近世>
+近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 18P
-幕 ばく 幕 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 20D <rel type="トイウ" target="幕" sid="wiki00153619-03" id="17"/><rel type="トイウ" mode="AND" target="藩" sid="wiki00153619-03" id="18"/>
-体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18P <体言>
+幕 ばく 幕 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <体言>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D <rel type="トイウ" target="幕" sid="wiki00153619-03" id="17"/><rel type="トイウ" mode="AND" target="藩" sid="wiki00153619-03" id="18"/><体言>
+体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 下 か 下 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 23D <rel type="ガ" target="奄美群島" sid="wiki00153619-03" id="21"/><rel type="ガ" mode="AND" target="諸島" sid="wiki00153619-03" id="23"/><rel type="ニ" target="体制下" sid="wiki00153619-03" id="19"/><rel type="時間" target="近世" sid="wiki00153619-03" id="16"/>
-組み くみ 組む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL
++ 23D <rel type="ガ" target="奄美群島" sid="wiki00153619-03" id="21"/><rel type="ガ" mode="AND" target="諸島" sid="wiki00153619-03" id="23"/><rel type="ニ" target="体制下" sid="wiki00153619-03" id="19"/><rel type="時間" target="近世" sid="wiki00153619-03" id="16"/><用言:動><時制:過去><節-主辞>
+組み くみ 組む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
 込ま こま 込む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 16P
-+ 23P <NE:LOCATION:奄美群島>
-奄美群島 あまみぐんとう 奄美群島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 23P <体言><NE:LOCATION:奄美群島>
+奄美群島 あまみぐんとう 奄美群島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
-+ 23D
-琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 24D <NE:LOCATION:琉球諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 23D <体言>
+琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 24D <体言><NE:LOCATION:琉球諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 19D
-+ 27D <rel type="ノ" target="奄美群島" sid="wiki00153619-03" id="21"/><rel type="ノ" mode="AND" target="諸島" sid="wiki00153619-03" id="23"/><rel type="=≒" target="住民" sid="wiki00153619-03" id="2"/>
-住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 27D <rel type="ノ" target="奄美群島" sid="wiki00153619-03" id="21"/><rel type="ノ" mode="AND" target="諸島" sid="wiki00153619-03" id="23"/><rel type="=≒" target="住民" sid="wiki00153619-03" id="2"/><体言>
+住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 26D <rel type="=" target="琉球" sid="wiki00153619-03" id="22"/><NE:LOCATION:琉球>
-琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 27D <rel type="ノ？" target="琉球" sid="wiki00153619-03" id="25"/><rel type="=構" target="住民" sid="wiki00153619-03" id="24"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 26D <rel type="=" target="琉球" sid="wiki00153619-03" id="22"/><体言><NE:LOCATION:琉球>
+琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 27D <rel type="ノ？" target="琉球" sid="wiki00153619-03" id="25"/><rel type="=構" target="住民" sid="wiki00153619-03" id="24"/><体言>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
-+ 29D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="住民" sid="wiki00153619-03" id="24"/><rel type="ト" target="民族" sid="wiki00153619-03" id="26"/>
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 29D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="住民" sid="wiki00153619-03" id="24"/><rel type="ト" target="民族" sid="wiki00153619-03" id="26"/><用言:動><時制:非過去><節-主辞>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 21D
-+ 29D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="方" sid="wiki00153619-03" id="29"/>
-考え かんがえ 考え 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 30D <rel type="トイウ" target="し" sid="wiki00153619-03" id="15"/><rel type="トイウ" mode="AND" target="分類する" sid="wiki00153619-03" id="27"/><rel type="ノ" target="考え" sid="wiki00153619-03" id="28"/>
-方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
++ 29D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="方" sid="wiki00153619-03" id="29"/><体言>
+考え かんがえ 考え 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 30D <rel type="トイウ" target="し" sid="wiki00153619-03" id="15"/><rel type="トイウ" mode="AND" target="分類する" sid="wiki00153619-03" id="27"/><rel type="ノ" target="考え" sid="wiki00153619-03" id="28"/><体言>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 30P
-+ 42P <rel type="ガ" target="方" sid="wiki00153619-03" id="29"/>
-あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 42P <rel type="ガ" target="方" sid="wiki00153619-03" id="29"/><用言:動><節-主辞><節-区切>
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23D
-+ 32D <rel type="=" target="民族" sid="wiki00153619-03" id="14"/><rel type="=" mode="AND" target="民族" sid="wiki00153619-03" id="26"/>
-これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 32D <rel type="=" target="民族" sid="wiki00153619-03" id="14"/><rel type="=" mode="AND" target="民族" sid="wiki00153619-03" id="26"/><体言>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 25D
-+ 36D <rel type="ヲ" target="これら" sid="wiki00153619-03" id="31"/><rel type="ガ" target="不特定:人"/>
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 36D <rel type="ヲ" target="これら" sid="wiki00153619-03" id="31"/><rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切>
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 25D
-+ 35D
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 35D <体言>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 35D <rel type="=" target="日本" sid="wiki00153619-03" id="0"/><NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 36D <rel type="修飾" target="民族的" sid="wiki00153619-03" id="33"/><rel type="ノ？" target="日本" sid="wiki00153619-03" id="34"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 35D <rel type="=" target="日本" sid="wiki00153619-03" id="0"/><体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 36D <rel type="修飾" target="民族的" sid="wiki00153619-03" id="33"/><rel type="ノ？" target="日本" sid="wiki00153619-03" id="34"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 26D
-+ 37D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00153619-03" id="35"/><rel type="外の関係" target="場合" sid="wiki00153619-03" id="37"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 37D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00153619-03" id="35"/><rel type="外の関係" target="場合" sid="wiki00153619-03" id="37"/><用言:動><時制:非過去><節-主辞>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 28D
-+ 40D <rel type="ノ" target="指す" sid="wiki00153619-03" id="36"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 40D <rel type="ノ" target="指す" sid="wiki00153619-03" id="36"/><体言><節-区切>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 28D
-+ 39D <rel type="=" target="日本" sid="wiki00153619-03" id="34"/><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 40D <rel type="ノ？" target="日本" sid="wiki00153619-03" id="38"/>
-民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 39D <rel type="=" target="日本" sid="wiki00153619-03" id="34"/><体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 40D <rel type="ノ？" target="日本" sid="wiki00153619-03" id="38"/><体言>
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 29D
-+ 41D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ト" target="民族" sid="wiki00153619-03" id="39"/><rel type="外の関係" target="場合" sid="wiki00153619-03" id="41"/>
-呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 41D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="民族" sid="wiki00153619-00-01" id="1"/><rel type="ト" target="民族" sid="wiki00153619-03" id="39"/><rel type="外の関係" target="場合" sid="wiki00153619-03" id="41"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 30D
-+ 42D <rel type="トイウ" target="呼称する" sid="wiki00153619-03" id="40"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 42D <rel type="トイウ" target="呼称する" sid="wiki00153619-03" id="40"/><体言><節-区切>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="場合" sid="wiki00153619-03" id="41"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="場合" sid="wiki00153619-03" id="41"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

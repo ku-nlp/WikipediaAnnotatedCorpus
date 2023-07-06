@@ -1,66 +1,66 @@
 # S-ID:wiki00618048-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 4D <NE:PERSON:星野>
-星野 ほしの 星野 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <体言><NE:PERSON:星野>
+星野 ほしの 星野 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 4D
-源 みなもと 源 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+源 みなもと 源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 4D
-シンガーソング シンガーソング シンガーソング 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5P <rel type="=" target="源" sid="wiki00618048-00-01" id="1"/>
-ライター らいたー ライター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+シンガーソング シンガーソング シンガーソング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="=" target="源" sid="wiki00618048-00-01" id="1"/><体言>
+ライター らいたー ライター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="源" sid="wiki00618048-00-01" id="1"/><rel type="=" target="ライター" sid="wiki00618048-00-01" id="4"/>
-俳優 はいゆう 俳優 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="源" sid="wiki00618048-00-01" id="1"/><rel type="=" target="ライター" sid="wiki00618048-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+俳優 はいゆう 俳優 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00618048-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 4P
-+ 6D
-ほしの ほしの ほしの 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 6D <体言>
+ほしの ほしの ほしの 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2P <rel type="=" target="源" sid="wiki00618048-00-01" id="1"/><NE:PERSON:ほしの　げん>
-げん げん げん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
++ 2P <rel type="=" target="源" sid="wiki00618048-00-01" id="1"/><体言><NE:PERSON:ほしの　げん>
+げん げん げん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-1981 1981 1981 名詞 6 数詞 7 * 0 * 0 NIL
++ 3D <体言>
+1981 1981 1981 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 3D
-+ 4D
++ 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 5D <NE:DATE:昭和56年>
-56 56 56 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 5D <体言><NE:DATE:昭和56年>
+56 56 56 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4D
-+ 6D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 5D
-+ 7D <NE:DATE:1月28日>
-28 28 28 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言><NE:DATE:1月28日>
+28 28 28 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00618048-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <NE:LOCATION:埼玉県>
-埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言><NE:LOCATION:埼玉県>
+埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ガ" target="げん" sid="wiki00618048-00-02" id="1"/><rel type="ノ" target="埼玉県" sid="wiki00618048-01" id="0"/>
-出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="げん" sid="wiki00618048-00-02" id="1"/><rel type="ノ" target="埼玉県" sid="wiki00618048-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,48 +1,48 @@
 # S-ID:wiki00092493-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/05 MEMO:
 * 5D
-+ 1D
-軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="修飾" target="軍事" sid="wiki00092493-00-01" id="0"/>
-政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="修飾" target="軍事" sid="wiki00092493-00-01" id="0"/><体言>
+政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D
-軍隊 ぐんたい 軍隊 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+軍隊 ぐんたい 軍隊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
-直接 ちょくせつ 直接だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 5D <用言:形><時制:非過去>
+直接 ちょくせつ 直接だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 4D
-+ 5D
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="軍隊" sid="wiki00092493-00-01" id="2"/><rel type="ヲ" target="政治" sid="wiki00092493-00-01" id="4"/><rel type="外の関係" target="形態" sid="wiki00092493-00-01" id="7"/>
-執行 しっこう 執行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="軍隊" sid="wiki00092493-00-01" id="2"/><rel type="ヲ" target="政治" sid="wiki00092493-00-01" id="4"/><rel type="外の関係" target="形態" sid="wiki00092493-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+執行 しっこう 執行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="形態" sid="wiki00092493-00-01" id="7"/><rel type="ヲ" target="不特定:人"/>
-統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="ノ" target="統治" sid="wiki00092493-00-01" id="6"/><rel type="=構" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="トイウ" target="執行する" sid="wiki00092493-00-01" id="5"/><memo text="CO"/>
-形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="形態" sid="wiki00092493-00-01" id="7"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
+統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="ノ" target="統治" sid="wiki00092493-00-01" id="6"/><rel type="=構" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="トイウ" target="執行する" sid="wiki00092493-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00092493-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * 1P
-+ 1D <rel type="=" target="軍事" sid="wiki00092493-00-01" id="0"/>
-ぐんじ ぐんじ ぐんじ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 4P <rel type="=" target="政権" sid="wiki00092493-00-01" id="1"/>
-せいけん せいけん せいけん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="軍事" sid="wiki00092493-00-01" id="0"/><体言>
+ぐんじ ぐんじ ぐんじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 4P <rel type="=" target="政権" sid="wiki00092493-00-01" id="1"/><体言>
+せいけん せいけん せいけん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <rel type="=" target="軍事" sid="wiki00092493-00-01" id="0"/>
-military military military 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="軍事" sid="wiki00092493-00-01" id="0"/><体言>
+military military military 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="デ" target="英語" sid="wiki00092493-00-02" id="2"/>
-dictatorship dictatorship dictatorship 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="政権" sid="wiki00092493-00-01" id="1"/><rel type="デ" target="英語" sid="wiki00092493-00-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+dictatorship dictatorship dictatorship 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

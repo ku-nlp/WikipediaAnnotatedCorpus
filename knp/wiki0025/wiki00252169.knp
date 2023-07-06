@@ -1,76 +1,76 @@
 # S-ID:wiki00252169-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/12 MEMO:
 * 2D
-+ 1D
-田中 たなか 田中 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+田中 たなか 田中 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8D <NE:PERSON:田中　角栄>
-角栄 かくえい 角栄 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言><NE:PERSON:田中　角栄>
+角栄 かくえい 角栄 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 8D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 4D
-実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8P <rel type="ノ？" target="日本" sid="wiki00252169-00-01" id="2"/><rel type="ノ？" mode="AND" target="実業" sid="wiki00252169-00-01" id="3"/><rel type="=構" target="角栄" sid="wiki00252169-00-01" id="1"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8P <rel type="ノ？" target="日本" sid="wiki00252169-00-01" id="2"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00252169-00-01" id="5"/><rel type="=構" target="角栄" sid="wiki00252169-00-01" id="1"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="角栄" sid="wiki00252169-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00252169-00-01" id="2"/><rel type="ノ？" mode="AND" target="建築" sid="wiki00252169-00-01" id="7"/><rel type="=構" target="角栄" sid="wiki00252169-00-01" id="1"/><memo text="CO"/>
-士 し 士 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="角栄" sid="wiki00252169-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00252169-00-01" id="2"/><rel type="ノ？" mode="AND" target="建築" sid="wiki00252169-00-01" id="7"/><rel type="=構" target="角栄" sid="wiki00252169-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+士 し 士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00252169-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/12 MEMO:
 * 2D
-+ 1D <rel type="=" target="田中" sid="wiki00252169-00-01" id="0"/>
-たなか たなか たなか 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="田中" sid="wiki00252169-00-01" id="0"/><体言>
+たなか たなか たなか 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 11D <rel type="=" target="角栄" sid="wiki00252169-00-01" id="1"/><NE:PERSON:たなか　かくえい>
-かくえい かくえい かくえい 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 11D <rel type="=" target="角栄" sid="wiki00252169-00-01" id="1"/><体言><NE:PERSON:たなか　かくえい>
+かくえい かくえい かくえい 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 4P
-1918 せんきゅうひゃくじゅうはち 1918 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 4P <体言>
+1918 せんきゅうひゃくじゅうはち 1918 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 4D
++ 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 5D
-7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 5D <体言>
+7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 6D
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <体言>
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 11P <NE:DATE:1918年〈大正7年〉5月4日>
-4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 11P <体言><NE:DATE:1918年〈大正7年〉5月4日>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1P
-+ 9P
-1993 せんきゅうひゃくきゅうじゅうさん 1993 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 9P <体言>
+1993 せんきゅうひゃくきゅうじゅうさん 1993 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 9D
++ 9D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
-平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 10D
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 10D <体言>
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 11D
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 11D <体言>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="カラ" target="4日" sid="wiki00252169-00-02" id="6"/><NE:DATE:1993年〈平成5年〉12月16日>
-16 じゅうろく 16 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="4日" sid="wiki00252169-00-02" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:1993年〈平成5年〉12月16日>
+16 じゅうろく 16 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

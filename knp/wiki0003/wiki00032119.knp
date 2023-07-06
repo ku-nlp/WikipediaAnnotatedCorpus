@@ -1,45 +1,45 @@
 # S-ID:wiki00032119-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 5D
-+ 7D <NE:LOCATION:黄海>
-黄海 黄海 黄海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <体言><NE:LOCATION:黄海>
+黄海 黄海 黄海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2D
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4P <rel type="ノ" target="中国" sid="wiki00032119-00-01" id="1"/><NE:LOCATION:中国大陸>
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4P <rel type="ノ" target="中国" sid="wiki00032119-00-01" id="1"/><体言><NE:LOCATION:中国大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <NE:LOCATION:朝鮮半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <体言>
+朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:朝鮮半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="半島" sid="wiki00032119-00-01" id="4"/>
-間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 6D <rel type="ノ" target="半島" sid="wiki00032119-00-01" id="4"/><体言><節-主辞><節-区切>
+間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="海" sid="wiki00032119-00-01" id="7"/><rel type="ニ" target="間" sid="wiki00032119-00-01" id="5"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="海" sid="wiki00032119-00-01" id="7"/><rel type="ニ" target="間" sid="wiki00032119-00-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="黄海" sid="wiki00032119-00-01" id="0"/><rel type="=" target="黄海" sid="wiki00032119-00-01" id="0"/>
-海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="黄海" sid="wiki00032119-00-01" id="0"/><rel type="=" target="黄海" sid="wiki00032119-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00032119-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 3P <rel type="=" target="海" sid="wiki00032119-00-01" id="7"/>
-こうかい こうかい こうかい 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3P <rel type="=" target="海" sid="wiki00032119-00-01" id="7"/><体言><非用言格解析:動>
+こうかい こうかい こうかい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D
-Yellow Yellow Yellow 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <体言>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+Yellow Yellow Yellow 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Sea Sea Sea 名詞 6 組織名 6 * 0 * 0 NIL
 EOS

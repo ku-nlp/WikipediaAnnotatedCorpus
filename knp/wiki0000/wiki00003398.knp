@@ -1,111 +1,111 @@
 # S-ID:wiki00003398-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D
-ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:ベル研究所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><非用言格解析:動>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:ベル研究所>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="不特定:人"/>
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="所" sid="wiki00003398-00-01" id="2"/><rel type="ノ" target="研究" sid="wiki00003398-00-01" id="5"/><rel type="=" target="所" sid="wiki00003398-00-01" id="2"/>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="所" sid="wiki00003398-00-01" id="2"/><rel type="ノ" target="研究" sid="wiki00003398-00-01" id="5"/><rel type="=" target="所" sid="wiki00003398-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00003398-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D <rel type="=" target="ベル" sid="wiki00003398-00-01" id="0"/>
-ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="研究" sid="wiki00003398-00-01" id="1"/>
-けんきゅう けんきゅう けんきゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3P <rel type="=" target="所" sid="wiki00003398-00-01" id="2"/>
-じょ じょ じょ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ベル" sid="wiki00003398-00-01" id="0"/><体言>
+ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="研究" sid="wiki00003398-00-01" id="1"/><体言><非用言格解析:動>
+けんきゅう けんきゅう けんきゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3P <rel type="=" target="所" sid="wiki00003398-00-01" id="2"/><体言>
+じょ じょ じょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D
-Bell Bell Bell 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+Bell Bell Bell 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Laboratories Laboratories Laboratories 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00003398-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000
 * 4D
 + 7D
-もともと もともと もともと 副詞 8 * 0 * 0 * 0 NIL
+もともと もともと もともと 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="=" target="ベル" sid="wiki00003398-00-02" id="0"/>
-ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
-システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="ベル" sid="wiki00003398-00-02" id="0"/><体言>
+ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/>
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="ガ" target="部門" sid="wiki00003398-01" id="5"/><rel type="ヲ" target="研究" sid="wiki00003398-01" id="3"/>
-開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="開発" sid="wiki00003398-01" id="4"/>
-部門 ぶもん 部門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ガ" target="部門" sid="wiki00003398-01" id="5"/><rel type="ヲ" target="研究" sid="wiki00003398-01" id="3"/><体言><非用言格解析:動>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="開発" sid="wiki00003398-01" id="4"/><体言>
+部門 ぶもん 部門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 7D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 9D <rel type="ガ" target="所" sid="wiki00003398-01" id="9"/><rel type="ニ" target="不特定:人"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="所" sid="wiki00003398-01" id="9"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 8D
-+ 9D
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="所" sid="wiki00003398-00-01" id="2"/><rel type="=" target="所" sid="wiki00003398-00-01" id="2"/>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><非用言格解析:動>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="所" sid="wiki00003398-00-01" id="2"/><rel type="=" target="所" sid="wiki00003398-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 12D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 12D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 12D <NE:ORGANIZATION:ノキア>
-ノキア ノキア ノキア 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 12D <体言><NE:ORGANIZATION:ノキア>
+ノキア ノキア ノキア 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="所" sid="wiki00003398-01" id="9"/><rel type="ノ" target="ノキア" sid="wiki00003398-01" id="11"/><rel type="=" target="所" sid="wiki00003398-01" id="9"/>
-子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="所" sid="wiki00003398-01" id="9"/><rel type="ノ" target="ノキア" sid="wiki00003398-01" id="11"/><rel type="=" target="所" sid="wiki00003398-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00003398-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000
 * 2D
-+ 1D <rel type="=" target="ベル" sid="wiki00003398-01" id="1"/>
++ 1D <rel type="=" target="ベル" sid="wiki00003398-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="=" target="じょ" sid="wiki00003398-00-02" id="2"/><NE:ORGANIZATION:ベル電話研究所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><非用言格解析:動>
+電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><非用言格解析:動>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="じょ" sid="wiki00003398-00-02" id="2"/><体言><NE:ORGANIZATION:ベル電話研究所>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="所" sid="wiki00003398-02-01" id="3"/>
-略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="所" sid="wiki00003398-02-01" id="3"/><用言:動>
+略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ 6D <rel type="=" target="ベル" sid="wiki00003398-01" id="1"/>
++ 6D <rel type="=" target="ベル" sid="wiki00003398-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="所" sid="wiki00003398-02-01" id="3"/>
-研 けん 研 名詞 6 普通名詞 1 * 0 * 0 NIL
+ベル べる ベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="所" sid="wiki00003398-02-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+研 けん 研 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -113,8 +113,8 @@ EOS
 EOS
 # S-ID:wiki00003398-02-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D
-Bell Bell Bell 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+Bell Bell Bell 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Labs Labs Labs 名詞 6 組織名 6 * 0 * 0 NIL
 EOS

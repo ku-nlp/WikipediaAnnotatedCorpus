@@ -1,142 +1,142 @@
 # S-ID:wiki02048206-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 3D
-+ 1D
-警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <NE:ORGANIZATION:警察庁>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><NE:ORGANIZATION:警察庁>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="行政" sid="wiki02048206-00-01" id="3"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="行政" sid="wiki02048206-00-01" id="3"/><体言>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki02048206-00-01" id="4"/><rel type="=" target="庁" sid="wiki02048206-00-01" id="1"/>
++ -1D <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki02048206-00-01" id="4"/><rel type="=" target="庁" sid="wiki02048206-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02048206-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D <rel type="=" target="警察" sid="wiki02048206-00-01" id="0"/>
-けいさつ けいさつ けいさつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4P <rel type="=" target="ひとつ" sid="wiki02048206-00-01" id="5"/><NE:ORGANIZATION:けいさつちょう>
-ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="警察" sid="wiki02048206-00-01" id="0"/><体言>
+けいさつ けいさつ けいさつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4P <rel type="=" target="ひとつ" sid="wiki02048206-00-01" id="5"/><体言><NE:ORGANIZATION:けいさつちょう>
+ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D
-NPA NPA NPA 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+NPA NPA NPA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki02048206-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000
 * 1D
-+ 1D <rel type="=" target="警察" sid="wiki02048206-00-01" id="0"/>
-警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="警察" sid="wiki02048206-01" id="0"/>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="警察" sid="wiki02048206-00-01" id="0"/><体言>
+警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ" target="警察" sid="wiki02048206-01" id="0"/><体言>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 3D <rel type="ガ" target="国" sid="wiki02048206-01" id="4"/><rel type="ヲ" target="制度" sid="wiki02048206-01" id="1"/>
-企画 きかく 企画 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 10P <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ヲ" target="制度" sid="wiki02048206-01" id="1"/>
-立案 りつあん 立案 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="国" sid="wiki02048206-01" id="4"/><rel type="ヲ" target="制度" sid="wiki02048206-01" id="1"/><体言><非用言格解析:動>
+企画 きかく 企画 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ヲ" target="制度" sid="wiki02048206-01" id="1"/><体言><非用言格解析:動>
+立案 りつあん 立案 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="日本" sid="wiki02048206-00-01" id="2"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="日本" sid="wiki02048206-00-01" id="2"/><体言>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="国" sid="wiki02048206-01" id="4"/>
-公安 こうあん 公安 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="国" sid="wiki02048206-01" id="4"/><体言>
+公安 こうあん 公安 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="事案" sid="wiki02048206-01" id="7"/><rel type="ニ" target="公安" sid="wiki02048206-01" id="5"/>
-係る かかる 係る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="事案" sid="wiki02048206-01" id="7"/><rel type="ニ" target="公安" sid="wiki02048206-01" id="5"/><用言:動><時制:非過去><節-主辞>
+係る かかる 係る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 8D
-事案 じあん 事案 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+事案 じあん 事案 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 10D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12P
-+ 10D <rel type="=" target="警察" sid="wiki02048206-01" id="0"/>
-警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18P <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ヲ" target="警察" sid="wiki02048206-01" id="9"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="=" target="警察" sid="wiki02048206-01" id="0"/><体言>
+警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18P <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="ヲ" target="警察" sid="wiki02048206-01" id="9"/><体言><非用言格解析:動>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="=" target="警察" sid="wiki02048206-01" id="9"/>
-警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="警察" sid="wiki02048206-01" id="11"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="=" target="警察" sid="wiki02048206-01" id="9"/><体言>
+警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="警察" sid="wiki02048206-01" id="11"/><体言><非用言格解析:動>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 16D <rel type="ガ" target="鑑識等" sid="wiki02048206-01" id="16"/><rel type="ノ" target="活動" sid="wiki02048206-01" id="12"/>
-基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ガ" target="鑑識等" sid="wiki02048206-01" id="16"/><rel type="ノ" target="活動" sid="wiki02048206-01" id="12"/><用言:判><体言><時制:非過去>
+基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 11D
-+ 15D
-教養 きょうよう 教養 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <体言>
+教養 きょうよう 教養 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <体言><非用言格解析:動>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 17D
-鑑識 かんしき 鑑識 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言>
+鑑識 かんしき 鑑識 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 18D
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 18D <用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 15P
-+ 22P
-事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22P <体言>
+事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
-+ 20D <rel type="=" target="警察" sid="wiki02048206-01" id="9"/>
-警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 21D
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="=" target="警察" sid="wiki02048206-01" id="9"/><体言>
+警察 けいさつ 警察 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 21D <体言>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 22D
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 22D <用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 16D
-+ 23D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/>
-調整 ちょうせい 調整 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 23D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/><体言><非用言格解析:動>
+調整 ちょうせい 調整 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 27D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/><rel type="ヲ" target="調整等" sid="wiki02048206-01" id="22"/>
-行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 27D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/><rel type="ヲ" target="調整等" sid="wiki02048206-01" id="22"/><用言:動><時制:非過去><節-主辞>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 19D
-+ 25D <rel type="=" target="国" sid="wiki02048206-01" id="4"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 26D <rel type="=" target="公安" sid="wiki02048206-01" id="5"/>
-公安 こうあん 公安 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 27D
-委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 29D <rel type="ノ" target="委員" sid="wiki02048206-01" id="26"/><NE:ORGANIZATION:国家公安委員会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 25D <rel type="=" target="国" sid="wiki02048206-01" id="4"/><体言>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 26D <rel type="=" target="公安" sid="wiki02048206-01" id="5"/><体言>
+公安 こうあん 公安 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 27D <体言>
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 29D <rel type="ノ" target="委員" sid="wiki02048206-01" id="26"/><体言><NE:ORGANIZATION:国家公安委員会>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 29D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/>
-特別の とくべつの 特別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 29D <rel type="ガ" target="機関" sid="wiki02048206-01" id="29"/><用言:形><時制:非過去>
+特別の とくべつの 特別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="=" target="ちょう" sid="wiki02048206-00-02" id="1"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="庁" sid="wiki02048206-00-01" id="1"/><rel type="=" target="ちょう" sid="wiki02048206-00-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

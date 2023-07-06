@@ -1,69 +1,69 @@
 # S-ID:wiki00481092-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D <NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <体言>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="0"/>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D <NE:ORGANIZATION:イギリス連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 5D
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="0"/><体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <体言><非用言格解析:動><NE:ORGANIZATION:イギリス連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 5D <体言>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="陸軍" sid="wiki00481092-00-01" id="1"/><rel type="ノ" target="王国" sid="wiki00481092-00-01" id="4"/><rel type="=" target="陸軍" sid="wiki00481092-00-01" id="1"/>
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="陸軍" sid="wiki00481092-00-01" id="1"/><rel type="ノ" target="王国" sid="wiki00481092-00-01" id="4"/><rel type="=" target="陸軍" sid="wiki00481092-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00481092-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1A
-+ 1D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="0"/>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2A <rel type="=" target="陸軍" sid="wiki00481092-00-01" id="5"/><NE:ORGANIZATION:イギリスりくぐん>
-りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="0"/><体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2A <rel type="=" target="陸軍" sid="wiki00481092-00-01" id="5"/><体言><NE:ORGANIZATION:イギリスりくぐん>
+りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="2"/>
-British British British 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="イギリス" sid="wiki00481092-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+British British British 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Army Army Army 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00481092-00-03 括弧始:（ 括弧終:） 括弧位置:39 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D
-United United United 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+United United United 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Kingdom Kingdom Kingdom 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00481092-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
 * 4D
-+ 5D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 5D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P
-海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言>
+海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D
-空軍 くうぐん 空軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+空軍 くうぐん 空軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="イギリス" sid="wiki00481092-00-02" id="0"/>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <NE:ORGANIZATION:イギリス軍>
-軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <rel type="=" target="イギリス" sid="wiki00481092-00-02" id="0"/><体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><NE:ORGANIZATION:イギリス軍>
+軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="空軍と共に" sid="wiki00481092-01" id="2"/><rel type="ヲ" target="軍" sid="wiki00481092-01" id="4"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="空軍と共に" sid="wiki00481092-01" id="2"/><rel type="ヲ" target="軍" sid="wiki00481092-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,81 +1,81 @@
 # S-ID:wiki00164996-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/09/05 MEMO:
 * 2D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-テイチク ていちく テイチク 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:株式会社テイチクエンタテインメント>
-エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+テイチク ていちく テイチク 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:株式会社テイチクエンタテインメント>
+エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00164996-00-01" id="4"/><rel type="ノ？" mode="AND" target="レコード" sid="wiki00164996-00-01" id="5"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+レコード れこーど レコード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00164996-00-01" id="4"/><rel type="ノ？" mode="AND" target="レコード" sid="wiki00164996-00-01" id="5"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00164996-00-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/24 MEMO:
 * -1D
-+ 3D <rel type="ノ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><NE:OPTIONAL:英>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="ノ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><体言><NE:OPTIONAL:英>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <rel type="=" target="テイチク" sid="wiki00164996-00-01" id="2"/>
-TEICHIKU TEICHIKU TEICHIKU 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="テイチク" sid="wiki00164996-00-01" id="2"/><体言>
+TEICHIKU TEICHIKU TEICHIKU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/>
-ENTERTAINMENT ENTERTAINMENT ENTERTAINMENT 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><体言>
+ENTERTAINMENT ENTERTAINMENT ENTERTAINMENT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 , , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="デ" target="英語" sid="wiki00164996-00-02" id="0"/><NE:ORGANIZATION:TEICHIKU　ENTERTAINMENT,　INC.>
-INC INC INC 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="デ" target="英語" sid="wiki00164996-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:TEICHIKU　ENTERTAINMENT,　INC.>
+INC INC INC 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00164996-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/09/24 MEMO:
 * 1D
-+ 1D
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="通信" sid="wiki00164996-01" id="0"/>
-カラオケ からおけ カラオケ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="カラオケ" sid="wiki00164996-01" id="1"/>
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=構" target="大手" sid="wiki00164996-01" id="2"/><rel type="修飾" target="大手" sid="wiki00164996-01" id="2"/><NE:ARTIFACT:JOYSOUND>
-JOYSOUND じょいさうんど JOYSOUND 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 1D <体言><非用言格解析:動>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="修飾" target="通信" sid="wiki00164996-01" id="0"/><体言>
+カラオケ からおけ カラオケ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ" target="カラオケ" sid="wiki00164996-01" id="1"/><体言>
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=構" target="大手" sid="wiki00164996-01" id="2"/><rel type="修飾" target="大手" sid="wiki00164996-01" id="2"/><体言><NE:ARTIFACT:JOYSOUND>
+JOYSOUND じょいさうんど JOYSOUND 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ガ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ヲ" target="JOYSOUND" sid="wiki00164996-01" id="3"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ヲ" target="JOYSOUND" sid="wiki00164996-01" id="3"/><用言:動><時制:非過去><節-主辞>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
-+ 7D <NE:ORGANIZATION:エクシング>
-エクシング えくしんぐ エクシング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 7D <体言><NE:ORGANIZATION:エクシング>
+エクシング えくしんぐ エクシング 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 7D
-連結 れんけつ 連結 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P <rel type="ノ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="修飾" target="連結" sid="wiki00164996-01" id="6"/>
-子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><非用言格解析:動>
+連結 れんけつ 連結 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11P <rel type="ノ" target="エクシング" sid="wiki00164996-01" id="5"/><rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="=構" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="修飾" target="連結" sid="wiki00164996-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 9D
-ブラザー ぶらざー ブラザー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <rel type="ノ" target="工業" sid="wiki00164996-01" id="9"/><rel type="=≒" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><NE:ORGANIZATION:ブラザー工業グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <体言>
+ブラザー ぶらざー ブラザー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <体言>
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <rel type="ノ" target="工業" sid="wiki00164996-01" id="9"/><rel type="=≒" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><体言><NE:ORGANIZATION:ブラザー工業グループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="ニ" target="グループ" sid="wiki00164996-01" id="10"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="エンタテインメント" sid="wiki00164996-00-01" id="3"/><rel type="ニ" target="グループ" sid="wiki00164996-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

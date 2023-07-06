@@ -1,98 +1,98 @@
 # S-ID:wiki03611976-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 1D
-+ 7D
-Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL
++ 7D <体言>
+Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Music Music Music 名詞 6 組織名 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="Amazon　Music" sid="wiki03611976-00-01" id="0"/>
-Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL
++ 7D <rel type="=" target="Amazon　Music" sid="wiki03611976-00-01" id="0"/><体言>
+Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ヲ" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ヲ" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/><用言:動><時制:非過去>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4P
-+ 4D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ヲ" target="音楽" sid="wiki03611976-00-01" id="3"/><rel type="ニ" target="不特定:人"/>
-配信 はいしん 配信 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6P
-プラットフォーム プラットフォーム プラットフォーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ヲ" target="音楽" sid="wiki03611976-00-01" id="3"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
+配信 はいしん 配信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6P <体言>
+プラットフォーム プラットフォーム プラットフォーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D
-オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
-ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ノ" target="ミュージック" sid="wiki03611976-00-01" id="7"/><rel type="=" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/>
-ストア すとあ ストア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言>
+ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="Amazon" sid="wiki03611976-00-01" id="1"/><rel type="ノ" target="ミュージック" sid="wiki03611976-00-01" id="7"/><rel type="=" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ストア すとあ ストア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki03611976-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-アマゾン あまぞん アマゾン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+アマゾン あまぞん アマゾン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/><NE:ORGANIZATION:アマゾン　ミュージック>
-ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="=" target="プラットフォーム" sid="wiki03611976-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:アマゾン　ミュージック>
+ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki03611976-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000
 * 1D
-+ 1D
-以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 1D <体言>
+以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="アマゾン" sid="wiki03611976-00-02" id="0"/>
-Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL
++ 2D <rel type="=" target="アマゾン" sid="wiki03611976-00-02" id="0"/><体言>
+Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 MP MP MP 名詞 6 組織名 6 * 0 * 0 NIL
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ミュージック" sid="wiki03611976-00-02" id="1"/>
-称して しょうして 称する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ミュージック" sid="wiki03611976-00-02" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
+称して しょうして 称する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki03611976-01-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="=" target="アマゾン" sid="wiki03611976-00-02" id="0"/>
-アマゾン あまぞん アマゾン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <rel type="=" target="アマゾン" sid="wiki03611976-00-02" id="0"/><体言>
+アマゾン あまぞん アマゾン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:アマゾン　エムピースリー>
-エムピースリー エムピースリー エムピースリー 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:アマゾン　エムピースリー>
+エムピースリー エムピースリー エムピースリー 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki03611976-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 3D
-+ 3D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="プラン" sid="wiki03611976-02" id="2"/>
++ 2D <rel type="ノ" target="プラン" sid="wiki03611976-02" id="2"/><体言>
 8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-プラン ぷらん プラン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+プラン ぷらん プラン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14D <rel type="ガ" target="エムピースリー" sid="wiki03611976-01-02" id="1"/><rel type="ヲ" target="プラン" sid="wiki03611976-02" id="2"/>
-展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="エムピースリー" sid="wiki03611976-01-02" id="1"/><rel type="ヲ" target="プラン" sid="wiki03611976-02" id="2"/><用言:動><節-主辞><節-区切>
+展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 14D
-そのうち そのうち そのうち 副詞 8 * 0 * 0 * 0 NIL
+そのうち そのうち そのうち 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 14D
-Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL
++ 14D <体言>
+Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Music Music Music 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -100,35 +100,35 @@ Prime Prime Prime 名詞 6 組織名 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 7D <rel type="=" target="Amazon　Music　Prime" sid="wiki03611976-02" id="5"/>
-Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL
-+ 14D
-プライム ぷらいむ プライム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="Amazon　Music　Prime" sid="wiki03611976-02" id="5"/><体言>
+Amazon Amazon Amazon 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言>
+プライム ぷらいむ プライム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 9D <rel type="ノ" target="プライム" sid="wiki03611976-02" id="7"/>
-会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ガ" target="料金" sid="wiki03611976-02" id="13"/><rel type="ノ" target="会員" sid="wiki03611976-02" id="8"/>
-特典 とくてん 特典 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="プライム" sid="wiki03611976-02" id="7"/><体言>
+会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ガ" target="料金" sid="wiki03611976-02" id="13"/><rel type="ノ" target="会員" sid="wiki03611976-02" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+特典 とくてん 特典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="=" target="プライム" sid="wiki03611976-02" id="7"/>
-プライム ぷらいむ プライム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="プライム" sid="wiki03611976-02" id="10"/><rel type="=" target="会員" sid="wiki03611976-02" id="8"/>
-会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=" target="プライム" sid="wiki03611976-02" id="7"/><体言>
+プライム ぷらいむ プライム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ノ" target="プライム" sid="wiki03611976-02" id="10"/><rel type="=" target="会員" sid="wiki03611976-02" id="8"/><用言:判><体言><時制:非過去>
+会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であれば であれば だ 判定詞 4 * 0 判定詞 25 デアル列基本条件形 19 NIL
 * 10D
-+ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="料金" sid="wiki03611976-02" id="13"/>
-追加 ついか 追加 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D
-料金 りょうきん 料金 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D
-なし なし なし 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="料金" sid="wiki03611976-02" id="13"/><体言><非用言格解析:動>
+追加 ついか 追加 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言>
+料金 りょうきん 料金 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言>
+なし なし なし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会員" sid="wiki03611976-02" id="11"/><rel type="ヲ" target="プラン" sid="wiki03611976-02" id="2"/>
-利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="会員" sid="wiki03611976-02" id="11"/><rel type="ヲ" target="プラン" sid="wiki03611976-02" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

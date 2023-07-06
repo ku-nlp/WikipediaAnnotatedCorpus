@@ -1,52 +1,52 @@
 # S-ID:wiki00033234-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 3D
-+ 4D <NE:LOCATION:モンタナ州>
-モンタナ もんたな モンタナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:モンタナ州>
+モンタナ もんたな モンタナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00033234-00" id="1"/>
-北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="北西" sid="wiki00033234-00" id="2"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00033234-00" id="1"/><体言>
+北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="北西" sid="wiki00033234-00" id="2"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="モンタナ州" sid="wiki00033234-00" id="0"/><rel type="=" target="モンタナ州" sid="wiki00033234-00" id="0"/>
-州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="モンタナ州" sid="wiki00033234-00" id="0"/><rel type="=" target="モンタナ州" sid="wiki00033234-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033234-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000
 * 2D
-+ 2D <rel type="=" target="アメリカ合衆国" sid="wiki00033234-00" id="1"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="=" target="アメリカ合衆国" sid="wiki00033234-00" id="1"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D
-41 41 41 名詞 6 数詞 7 * 0 * 0 NIL
++ 2D <体言>
+41 41 41 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="モンタナ州" sid="wiki00033234-00" id="0"/><rel type="ニ" target="アメリカ合衆国" sid="wiki00033234-01" id="0"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="モンタナ州" sid="wiki00033234-00" id="0"/><rel type="ニ" target="アメリカ合衆国" sid="wiki00033234-01" id="0"/><用言:動><時制:過去><節-主辞><節-区切>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033234-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D <rel type="ノ" target="モンタナ州" sid="wiki00033234-00" id="0"/>
-州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="モンタナ州" sid="wiki00033234-00" id="0"/><体言>
+州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="州都" sid="wiki00033234-02" id="0"/><rel type="=" target="州都" sid="wiki00033234-02" id="0"/><NE:LOCATION:ヘレナ市>
-ヘレナ ヘレナ ヘレナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="ガ" target="州都" sid="wiki00033234-02" id="0"/><rel type="=" target="州都" sid="wiki00033234-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ヘレナ市>
+ヘレナ ヘレナ ヘレナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

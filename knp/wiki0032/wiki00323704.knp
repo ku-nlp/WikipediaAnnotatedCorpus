@@ -1,40 +1,40 @@
 # S-ID:wiki00323704-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 1D
-+ 1D
-Impress Impress Impress 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <体言>
+Impress Impress Impress 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Watch Watch Watch 名詞 6 組織名 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="=" target="会社" sid="wiki00323704-00-01" id="2"/><NE:ORGANIZATION:インプレス>
-インプレス インプレス インプレス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=" target="会社" sid="wiki00323704-00-01" id="2"/><体言><NE:ORGANIZATION:インプレス>
+インプレス インプレス インプレス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="インプレス" sid="wiki00323704-00-01" id="3"/><rel type="ヲ" target="サイト" sid="wiki00323704-00-01" id="6"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="インプレス" sid="wiki00323704-00-01" id="3"/><rel type="ヲ" target="サイト" sid="wiki00323704-00-01" id="6"/><用言:動><時制:非過去>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 6D
-ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="ニュース" sid="wiki00323704-00-01" id="5"/>
-サイト さいと サイト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="ニュース" sid="wiki00323704-00-01" id="5"/><体言>
+サイト さいと サイト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="インプレス" sid="wiki00323704-00-01" id="3"/><rel type="ノ" target="サイト" sid="wiki00323704-00-01" id="6"/><rel type="=" target="サイト" sid="wiki00323704-00-01" id="6"/>
-総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="インプレス" sid="wiki00323704-00-01" id="3"/><rel type="ノ" target="サイト" sid="wiki00323704-00-01" id="6"/><rel type="=" target="サイト" sid="wiki00323704-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00323704-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D <rel type="=" target="インプレス" sid="wiki00323704-00-01" id="3"/><NE:ORGANIZATION:インプレス>
-インプレス インプレス インプレス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 1D <rel type="=" target="インプレス" sid="wiki00323704-00-01" id="3"/><体言><NE:ORGANIZATION:インプレス>
+インプレス インプレス インプレス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="総称" sid="wiki00323704-00-01" id="7"/>
-ウォッチ ウォッチ ウォッチ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="総称" sid="wiki00323704-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ウォッチ ウォッチ ウォッチ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

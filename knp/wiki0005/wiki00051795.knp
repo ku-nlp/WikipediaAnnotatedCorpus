@@ -1,44 +1,44 @@
 # S-ID:wiki00051795-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 4D
 + 6D
-は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D <NE:ORGANIZATION:国際連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <体言><非用言格解析:動><NE:ORGANIZATION:国際連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="連合" sid="wiki00051795-00" id="2"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="設立" sid="wiki00051795-00" id="3"/>
-根拠 こんきょ 根拠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="連合" sid="wiki00051795-00" id="2"/><体言><非用言格解析:動>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="設立" sid="wiki00051795-00" id="3"/><体言>
+根拠 こんきょ 根拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="条約" sid="wiki00051795-00" id="6"/>
-なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 6D <rel type="ガ" target="条約" sid="wiki00051795-00" id="6"/><用言:動><時制:非過去><節-主辞>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="は、" sid="wiki00051795-00" id="0"/><rel type="=" target="は、" sid="wiki00051795-00" id="0"/>
-条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="は、" sid="wiki00051795-00" id="0"/><rel type="=" target="は、" sid="wiki00051795-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00051795-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="連合" sid="wiki00051795-00" id="2"/><NE:ORGANIZATION:国連>
-国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ -1D <rel type="ガ" target="略称" sid="wiki00051795-01-01" id="0"/><rel type="=" target="略称" sid="wiki00051795-01-01" id="0"/>
-憲章 けんしょう 憲章 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="連合" sid="wiki00051795-00" id="2"/><体言><NE:ORGANIZATION:国連>
+国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00051795-01-01" id="0"/><rel type="=" target="略称" sid="wiki00051795-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+憲章 けんしょう 憲章 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00051795-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="国連" sid="wiki00051795-01-01" id="1"/>
-UN UN UN 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="国連" sid="wiki00051795-01-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+UN UN UN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 Charter Charter Charter 名詞 6 組織名 6 * 0 * 0 NIL
 EOS

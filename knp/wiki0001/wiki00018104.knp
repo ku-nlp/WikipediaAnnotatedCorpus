@@ -1,49 +1,49 @@
 # S-ID:wiki00018104-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 4D
-+ 1D
-国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <体言>
+国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3D
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7P <NE:LOCATION:大阪府大阪市>
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7P <体言><NE:LOCATION:大阪府大阪市>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D
-北九州 きたきゅうしゅう 北九州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <体言>
+北九州 きたきゅうしゅう 北九州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <NE:LOCATION:福岡県北九州市門司区>
-門司 もじ 門司 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <体言><NE:LOCATION:福岡県北九州市門司区>
+門司 もじ 門司 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="国道" sid="wiki00018104-00-01" id="9"/><rel type="ニ" target="門司区" sid="wiki00018104-00-01" id="6"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 9D <rel type="ガ" target="国道" sid="wiki00018104-00-01" id="9"/><rel type="ニ" target="門司区" sid="wiki00018104-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 9D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="2号" sid="wiki00018104-00-01" id="1"/><rel type="=" target="2号" sid="wiki00018104-00-01" id="1"/>
-国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="2号" sid="wiki00018104-00-01" id="1"/><rel type="=" target="2号" sid="wiki00018104-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00018104-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 2D
-こくどう こくどう こくどう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+こくどう こくどう こくどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ 2D <rel type="=" target="2号" sid="wiki00018104-00-01" id="1"/>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D <rel type="=" target="国道" sid="wiki00018104-00-01" id="9"/>
-ごう ごう ごう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="2号" sid="wiki00018104-00-01" id="1"/><体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="国道" sid="wiki00018104-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ごう ごう ごう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

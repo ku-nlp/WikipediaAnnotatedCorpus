@@ -1,189 +1,189 @@
 # S-ID:wiki02273382-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 4D
-NMB NMB NMB 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D <体言>
+NMB NMB NMB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 48 48 48 名詞 6 数詞 7 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D
-女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-アイドル あいどる アイドル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ノ" target="アイドル" sid="wiki02273382-00-01" id="3"/><rel type="=" target="不特定:人"/>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+アイドル あいどる アイドル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ノ" target="アイドル" sid="wiki02273382-00-01" id="3"/><rel type="=" target="不特定:人"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02273382-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-エヌエムビー エヌエムビー エヌエムビー 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動>
+エヌエムビー エヌエムビー エヌエムビー 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="グループ" sid="wiki02273382-00-01" id="4"/>
-フォーティーエイト フォーティーエイト フォーティーエイト 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="グループ" sid="wiki02273382-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+フォーティーエイト フォーティーエイト フォーティーエイト 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki02273382-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
 * 1D
-+ 1D
-秋元 あきもと 秋元 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 2D <NE:PERSON:秋元康>
-康 やす 康 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 1D <体言>
+秋元 あきもと 秋元 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 2D <体言><NE:PERSON:秋元康>
+康 やす 康 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="康" sid="wiki02273382-01" id="1"/><rel type="ヲ" target="グループ" sid="wiki02273382-00-01" id="4"/>
-プロデュース ぷろでゅーす プロデュース 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="康" sid="wiki02273382-01" id="1"/><rel type="ヲ" target="グループ" sid="wiki02273382-00-01" id="4"/><体言><非用言格解析:動>
+プロデュース ぷろでゅーす プロデュース 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 6D <用言:動>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 4D
-+ 5D
-2010 2010 2010 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 5D <体言>
+2010 2010 2010 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 5D
-+ 6D <NE:DATE:2010年10月>
-10 10 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <体言><NE:DATE:2010年10月>
+10 10 10 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フォーティーエイト" sid="wiki02273382-00-02" id="1"/>
-誕生 たんじょう 誕生 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="フォーティーエイト" sid="wiki02273382-00-02" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
+誕生 たんじょう 誕生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02273382-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
 * 1D
-+ 1D <NE:LOCATION:大阪市>
-大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言><NE:LOCATION:大阪市>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <NE:LOCATION:難波>
-難波 なんば 難波 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:難波>
+難波 なんば 難波 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="劇場" sid="wiki02273382-02" id="4"/><rel type="ニ" target="難波" sid="wiki02273382-02" id="1"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 4D <rel type="ガ" target="劇場" sid="wiki02273382-02" id="4"/><rel type="ニ" target="難波" sid="wiki02273382-02" id="1"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 3A
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="劇場" sid="wiki02273382-02" id="4"/>
-専用 せんよう 専用 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6A
-劇場 げきじょう 劇場 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="劇場" sid="wiki02273382-02" id="4"/><体言><非用言格解析:動>
+専用 せんよう 専用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6A <体言>
+劇場 げきじょう 劇場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 6D
++ 6D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-NMB NMB NMB 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+NMB NMB NMB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 48 48 48 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <rel type="=" target="劇場" sid="wiki02273382-02" id="4"/><NE:ARTIFACT:NMB48劇場>
-劇場 げきじょう 劇場 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 8D <rel type="=" target="劇場" sid="wiki02273382-02" id="4"/><体言><NE:ARTIFACT:NMB48劇場>
+劇場 げきじょう 劇場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/>
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/><体言>
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 12P <rel type="ガ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="ヲ" target="劇場" sid="wiki02273382-02" id="6"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 12P <rel type="ガ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="ヲ" target="劇場" sid="wiki02273382-02" id="6"/><用言:動><節-主辞><節-区切>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 * 7D
-+ 10D <NE:LOCATION:近畿>
-近畿 きんき 近畿 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 11D <rel type="ノ" target="近畿" sid="wiki02273382-02" id="9"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><NE:LOCATION:近畿>
+近畿 きんき 近畿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 11D <rel type="ノ" target="近畿" sid="wiki02273382-02" id="9"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ヲ" target="地方" sid="wiki02273382-02" id="10"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ヲ" target="地方" sid="wiki02273382-02" id="10"/><用言:動><体言>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14D <rel type="ガ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="ニ" target="中心" sid="wiki02273382-02" id="11"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="ニ" target="中心" sid="wiki02273382-02" id="11"/><用言:動><時制:非過去>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 14D
-AKB AKB AKB 名詞 6 組織名 6 * 0 * 0 NIL
++ 14D <体言>
+AKB AKB AKB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 48 48 48 名詞 6 数詞 7 * 0 * 0 NIL
-+ 15D
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <体言>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フォーティーエイト" sid="wiki02273382-00-02" id="1"/><rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="=" target="グループ" sid="wiki02273382-00-01" id="4"/>
++ -1D <rel type="ガ" target="フォーティーエイト" sid="wiki02273382-00-02" id="1"/><rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/><rel type="=" target="グループ" sid="wiki02273382-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02273382-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:103.00000
 * 2D
-+ 1D <rel type="ガ" target="会社" sid="wiki02273382-03-01" id="1"/><rel type="ヲ" target="グループ" sid="wiki02273382-02" id="14"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D <rel type="=" target="不特定:人"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="会社" sid="wiki02273382-03-01" id="1"/><rel type="ヲ" target="グループ" sid="wiki02273382-02" id="14"/><体言><非用言格解析:動>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="不特定:人"/><体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
-KYORAKU KYORAKU KYORAKU 名詞 6 組織名 6 * 0 * 0 NIL
-+ 4D
-吉本 よしもと 吉本 名詞 6 人名 5 * 0 * 0 NIL
++ 3D <体言>
+KYORAKU KYORAKU KYORAKU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 4D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+吉本 よしもと 吉本 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞>
 . . . 特殊 1 句点 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="会社" sid="wiki02273382-03-01" id="1"/><rel type="=" target="会社" sid="wiki02273382-03-01" id="1"/>
-ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="会社" sid="wiki02273382-03-01" id="1"/><rel type="=" target="会社" sid="wiki02273382-03-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ホールディングス ホールディングス ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/>
-マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="グループ" sid="wiki02273382-02" id="14"/><体言>
+マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 7D
-Showtitle Showtitle Showtitle 名詞 6 組織名 6 * 0 * 0 NIL
++ 7D <体言>
+Showtitle Showtitle Showtitle 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="Showtitle" sid="wiki02273382-03-01" id="6"/><rel type="ヲ" target="マネジメント" sid="wiki02273382-03-01" id="5"/>
-担う になう 担う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="Showtitle" sid="wiki02273382-03-01" id="6"/><rel type="ヲ" target="マネジメント" sid="wiki02273382-03-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+担う になう 担う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02273382-03-02 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 2D <rel type="ガ" target="所" sid="wiki02273382-03-02" id="2"/><rel type="ニ" target="所" sid="wiki02273382-03-02" id="2"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ガ" target="所" sid="wiki02273382-03-02" id="2"/><rel type="ニ" target="所" sid="wiki02273382-03-02" id="2"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki02273382-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 1D <rel type="ガ" target="レーベル" sid="wiki02273382-04" id="1"/><rel type="ニ" target="所" sid="wiki02273382-03-02" id="2"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D
-レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="レーベル" sid="wiki02273382-04" id="1"/><rel type="ニ" target="所" sid="wiki02273382-03-02" id="2"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+レーベル レーベル レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 3D
-laugh laugh laugh 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <体言>
+laugh laugh laugh 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 out out out 名詞 6 組織名 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 loud loud loud 名詞 6 組織名 6 * 0 * 0 NIL
-+ -1D
-! ! ! 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+! ! ! 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki02273382-05-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="ガ" target="レーベル" sid="wiki02273382-04" id="1"/><rel type="=" target="レーベル" sid="wiki02273382-04" id="1"/>
-records records records 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="レーベル" sid="wiki02273382-04" id="1"/><rel type="=" target="レーベル" sid="wiki02273382-04" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+records records records 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki02273382-05-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 1D
-よしもと よしもと よしもと 名詞 6 人名 5 * 0 * 0 NIL
-+ -1D
-ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+よしもと よしもと よしもと 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

@@ -1,126 +1,126 @@
 # S-ID:wiki00137258-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/07/20 MEMO:
 * 3D
-+ 4D
-廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="駅" sid="wiki00137258-00-01" id="4"/><rel type="ヲ" mode="？" target="鉄道" sid="wiki00137258-00-01" id="3"/>
-営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="駅" sid="wiki00137258-00-01" id="4"/><rel type="ヲ" mode="？" target="鉄道" sid="wiki00137258-00-01" id="3"/><体言><非用言格解析:動>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="駅" sid="wiki00137258-00-01" id="4"/>
-廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="駅" sid="wiki00137258-00-01" id="4"/><用言:動><時制:過去><節-主辞>
+廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 4D
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="修飾" target="鉄道" sid="wiki00137258-00-01" id="3"/><rel type="=構" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="トイウ" target="廃止した" sid="wiki00137258-00-01" id="2"/>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="修飾" target="鉄道" sid="wiki00137258-00-01" id="3"/><rel type="=構" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="トイウ" target="廃止した" sid="wiki00137258-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00137258-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/06/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="廃駅" sid="wiki00137258-00-01" id="0"/>
-はいえき はいえき はいえき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="廃駅" sid="wiki00137258-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+はいえき はいえき はいえき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00137258-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/20 MEMO:
 * 1D
-+ 1D
-手続 てつづき 手続 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動>
+手続 てつづき 手続 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="もの" sid="wiki00137258-01" id="2"/><rel type="=" target="廃止した" sid="wiki00137258-00-01" id="2"/>
-廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="もの" sid="wiki00137258-01" id="2"/><rel type="=" target="廃止した" sid="wiki00137258-00-01" id="2"/><用言:動><時制:過去><節-主辞>
+廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9P
-+ 11P <rel type="ガ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="=" target="駅" sid="wiki00137258-00-01" id="4"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 11P <rel type="ガ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="=" target="駅" sid="wiki00137258-00-01" id="4"/><用言:判><体言><時制:非過去>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="1"/><rel type="ヲ" mode="？" target="駅" sid="wiki00137258-01" id="8"/>
-再開 さいかい 再開 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="1"/><rel type="ヲ" mode="？" target="駅" sid="wiki00137258-01" id="8"/><体言><非用言格解析:動>
+再開 さいかい 再開 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ノ" target="再開" sid="wiki00137258-01" id="3"/>
-見込み みこみ 見込み 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="再開" sid="wiki00137258-01" id="3"/><体言>
+見込み みこみ 見込み 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="見込み" sid="wiki00137258-01" id="4"/><rel type="ニ" target="駅" sid="wiki00137258-01" id="8"/>
-ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 8D <rel type="ガ" target="見込み" sid="wiki00137258-01" id="4"/><rel type="ニ" target="駅" sid="wiki00137258-01" id="8"/><用言:形><時制:非過去>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 7D
-長期 ちょうき 長期 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="駅" sid="wiki00137258-01" id="8"/><rel type="時間" target="長期" sid="wiki00137258-01" id="6"/><rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="1"/>
-休止 きゅうし 休止 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="休止" sid="wiki00137258-01" id="7"/><rel type="=≒" target="駅" sid="wiki00137258-00-01" id="4"/>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+長期 ちょうき 長期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="駅" sid="wiki00137258-01" id="8"/><rel type="時間" target="長期" sid="wiki00137258-01" id="6"/><rel type="ヲ" target="営業" sid="wiki00137258-00-01" id="1"/><体言><非用言格解析:動>
+休止 きゅうし 休止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="休止" sid="wiki00137258-01" id="7"/><rel type="=≒" target="駅" sid="wiki00137258-00-01" id="4"/><体言>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 10D
-事実 じじつ 事実 副詞 8 * 0 * 0 * 0 NIL
++ 10D <体言>
+事実 じじつ 事実 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="修飾" target="事実上" sid="wiki00137258-01" id="9"/><rel type="=≒" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="=構" mode="AND" target="駅" sid="wiki00137258-01" id="8"/>
-廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="修飾" target="事実上" sid="wiki00137258-01" id="9"/><rel type="=≒" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="=構" mode="AND" target="駅" sid="wiki00137258-01" id="8"/><体言>
+廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="駅" sid="wiki00137258-01" id="8"/><rel type="ト" target="廃駅" sid="wiki00137258-01" id="10"/>
-言える いえる 言える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="駅" sid="wiki00137258-01" id="8"/><rel type="ト" target="廃駅" sid="wiki00137258-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+言える いえる 言える 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00137258-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2022/07/20 MEMO:
 * 1D
-+ 1D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D <rel type="ノ" target="日本" sid="wiki00137258-02" id="0"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="国" sid="wiki00137258-02" id="1"/>
-外 がい 外 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <rel type="ノ" target="日本" sid="wiki00137258-02" id="0"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ" target="国" sid="wiki00137258-02" id="1"/><体言>
+外 がい 外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ？" target="外" sid="wiki00137258-02" id="2"/><rel type="=≒" target="廃駅" sid="wiki00137258-00-01" id="0"/>
-廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="外" sid="wiki00137258-02" id="2"/><rel type="=≒" target="廃駅" sid="wiki00137258-00-01" id="0"/><体言>
+廃駅 はいえき 廃駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="数" sid="wiki00137258-02" id="6"/>
-莫大な ばくだいな 莫大だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 5D <rel type="ガ" target="数" sid="wiki00137258-02" id="6"/><用言:形><時制:非過去>
+莫大な ばくだいな 莫大だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 4D
-+ 6D <rel type="ノ" target="廃駅" sid="wiki00137258-02" id="3"/>
-数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="廃駅" sid="wiki00137258-02" id="3"/><体言>
+数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="駅" sid="wiki00137258-02" id="4"/><rel type="ニ" target="数" sid="wiki00137258-02" id="6"/><rel type="外の関係" target="ため" sid="wiki00137258-02" id="7"/>
-及ぶ およぶ 及ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
++ 7D <rel type="ガ" target="駅" sid="wiki00137258-02" id="4"/><rel type="ニ" target="数" sid="wiki00137258-02" id="6"/><rel type="外の関係" target="ため" sid="wiki00137258-02" id="7"/><用言:動><時制:非過去><節-主辞>
+及ぶ およぶ 及ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 12D <rel type="ノ" target="及ぶ" sid="wiki00137258-02" id="7"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 12D <rel type="ノ" target="及ぶ" sid="wiki00137258-02" id="7"/><体言><節-区切>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="=" target="後文"/>
-以下 いか 以下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=" target="後文"/><体言>
+以下 いか 以下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 12D
-主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 12D <用言:形><時制:非過去>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 9D
-+ 11D <rel type="=" target="日本" sid="wiki00137258-02" id="0"/><NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 11D <rel type="=" target="日本" sid="wiki00137258-02" id="0"/><体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ノ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="デ" target="日本" sid="wiki00137258-02" id="10"/>
-例 れい 例 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="廃駅" sid="wiki00137258-00-01" id="0"/><rel type="デ" target="日本" sid="wiki00137258-02" id="10"/><体言>
+例 れい 例 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="例" sid="wiki00137258-02" id="12"/><rel type="デ" target="以下" sid="wiki00137258-02" id="8"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="例" sid="wiki00137258-02" id="12"/><rel type="デ" target="以下" sid="wiki00137258-02" id="8"/><用言:動><時制:非過去><節-主辞><節-区切>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

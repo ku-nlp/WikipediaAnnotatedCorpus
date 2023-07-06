@@ -1,106 +1,106 @@
 # S-ID:wiki00305206-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/04/19 MEMO:
 * 1D
-+ 1D
-トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 7D
-+ 8D <rel type="ノ" target="トンガ" sid="wiki00305206-00" id="0"/><NE:OPTIONAL:トンガの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 8D <rel type="ノ" target="トンガ" sid="wiki00305206-00" id="0"/><体言><NE:OPTIONAL:トンガの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3D
-先史 せんし 先史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4P <rel type="ノ" target="先史" sid="wiki00305206-00" id="2"/><NE:OPTIONAL:先史時代><NE-OPTIONAL:DATE:0>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <体言>
+先史 せんし 先史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4P <rel type="ノ" target="先史" sid="wiki00305206-00" id="2"/><体言><NE:OPTIONAL:先史時代><NE-OPTIONAL:DATE:0>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
-現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="カラ" target="時代" sid="wiki00305206-00" id="3"/><rel type="ニ" target="現代" sid="wiki00305206-00" id="4"/><rel type="ガ" target="歴史" sid="wiki00305206-00" id="7"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="カラ" target="時代" sid="wiki00305206-00" id="3"/><rel type="ニ" target="現代" sid="wiki00305206-00" id="4"/><rel type="ガ" target="歴史" sid="wiki00305206-00" id="7"/><用言:動><時制:非過去><節-主辞>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 7D <rel type="=" target="トンガ" sid="wiki00305206-00" id="0"/><NE:LOCATION:トンガ>
-トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="=" target="トンガ" sid="wiki00305206-00" id="0"/><体言><NE:LOCATION:トンガ>
+トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ノ" target="トンガ" sid="wiki00305206-00" id="6"/><rel type="=≒" target="歴史" sid="wiki00305206-00" id="1"/><rel type="修飾" target="至る" sid="wiki00305206-00" id="5"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="トンガ" sid="wiki00305206-00" id="6"/><rel type="=≒" target="歴史" sid="wiki00305206-00" id="1"/><rel type="修飾" target="至る" sid="wiki00305206-00" id="5"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="歴史" sid="wiki00305206-00" id="7"/><rel type="ガ" target="著者"/><rel type="デ" target="歴史" sid="wiki00305206-00" id="1"/>
-扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ヲ" target="歴史" sid="wiki00305206-00" id="7"/><rel type="ガ" target="著者"/><rel type="デ" target="歴史" sid="wiki00305206-00" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305206-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/04/19 MEMO:
 * 7D
-+ 11D <rel type="=" target="トンガ" sid="wiki00305206-00" id="6"/><NE:LOCATION:トンガ>
-トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 11D <rel type="=" target="トンガ" sid="wiki00305206-00" id="6"/><体言><NE:LOCATION:トンガ>
+トンガ とんが トンガ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="諸島" sid="wiki00305206-01" id="2"/>
++ 2D <rel type="ノ" target="諸島" sid="wiki00305206-01" id="2"/><体言>
 4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="修飾" target="4つ" sid="wiki00305206-01" id="1"/><rel type="=構" target="4つ" sid="wiki00305206-01" id="1"/><rel type="=≒" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="修飾" target="4つ" sid="wiki00305206-01" id="1"/><rel type="=構" target="4つ" sid="wiki00305206-01" id="1"/><rel type="=≒" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/><体言>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ" target="島" sid="wiki00305206-01" id="4"/>
-172 ひゃくななじゅうに/ひゃくしちじゅうに 172 名詞 6 数詞 7 * 0 * 0 NIL
++ 4D <rel type="ノ" target="島" sid="wiki00305206-01" id="4"/><体言>
+172 ひゃくななじゅうに/ひゃくしちじゅうに 172 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="修飾" target="172" sid="wiki00305206-01" id="3"/><rel type="=構" target="172" sid="wiki00305206-01" id="3"/><rel type="=≒" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/>
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="172" sid="wiki00305206-01" id="3"/><rel type="=構" target="172" sid="wiki00305206-01" id="3"/><rel type="=≒" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/><体言>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="カラ" target="諸島" sid="wiki00305206-01" id="2"/><rel type="カラ" mode="AND" target="島" sid="wiki00305206-01" id="4"/><rel type="ガ" target="島国" sid="wiki00305206-01" id="11"/>
-なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 11D <rel type="カラ" target="諸島" sid="wiki00305206-01" id="2"/><rel type="カラ" mode="AND" target="島" sid="wiki00305206-01" id="4"/><rel type="ガ" target="島国" sid="wiki00305206-01" id="11"/><用言:動><時制:非過去><節-主辞>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 7D
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8D
-太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10D <rel type="ノ？" target="太平洋" sid="wiki00305206-01" id="7"/><memo text="NE分割する？"/><NE:LOCATION:南太平洋ポリネシア>
-ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 10D <rel type="ノ" target="ポリネシア" sid="wiki00305206-01" id="8"/>
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="ポリネシア" sid="wiki00305206-01" id="8"/><rel type="ノ？" target="中央" sid="wiki00305206-01" id="9"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 8D <体言>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 10D <rel type="ノ？" target="太平洋" sid="wiki00305206-01" id="7"/><memo text="NE分割する？"/><体言><NE:LOCATION:南太平洋ポリネシア>
+ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 10D <rel type="ノ" target="ポリネシア" sid="wiki00305206-01" id="8"/><体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="ポリネシア" sid="wiki00305206-01" id="8"/><rel type="ノ？" target="中央" sid="wiki00305206-01" id="9"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="修飾" target="部" sid="wiki00305206-01" id="10"/><rel type="=構" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="=≒" mode="AND" target="諸島" sid="wiki00305206-01" id="2"/><rel type="=≒" mode="AND" target="島" sid="wiki00305206-01" id="4"/><memo text="SE ←このつけ方でいいか"/>
-島国 しまぐに 島国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="修飾" target="部" sid="wiki00305206-01" id="10"/><rel type="=構" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="=≒" mode="AND" target="諸島" sid="wiki00305206-01" id="2"/><rel type="=≒" mode="AND" target="島" sid="wiki00305206-01" id="4"/><memo text="SE ←このつけ方でいいか"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+島国 しまぐに 島国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305206-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/04/19 MEMO:
 * 1D
-+ 1D <rel type="=≒" target="現代" sid="wiki00305206-00" id="4"/>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 1D <rel type="=≒" target="現代" sid="wiki00305206-00" id="4"/><体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ニ" target="現在" sid="wiki00305206-02" id="0"/><rel type="ガ" target="不特定:状況"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 3D <rel type="ニ" target="現在" sid="wiki00305206-02" id="0"/><rel type="ガ" target="不特定:状況"/><用言:動><時制:非過去><節-主辞><節-区切>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 まで まで まで 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-王制 おうせい 王制 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+王制 おうせい 王制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="王制" sid="wiki00305206-02" id="2"/><rel type="ニ" target="島" sid="wiki00305206-02" id="5"/><rel type="マデ" target="至る" sid="wiki00305206-02" id="1"/>
-残る のこる 残る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 5D <rel type="ガ" target="王制" sid="wiki00305206-02" id="2"/><rel type="ニ" target="島" sid="wiki00305206-02" id="5"/><rel type="マデ" target="至る" sid="wiki00305206-02" id="1"/><用言:動><時制:非過去><節-主辞>
+残る のこる 残る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 5D
-唯一 ゆいいつ 唯一 副詞 8 * 0 * 0 * 0 NIL
++ 5D <体言>
+唯一 ゆいいつ 唯一 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="=" target="島国" sid="wiki00305206-01" id="11"/><rel type="=構" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="修飾" target="唯一" sid="wiki00305206-02" id="4"/>
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="=" target="島国" sid="wiki00305206-01" id="11"/><rel type="=構" mode="AND" target="トンガ" sid="wiki00305206-01" id="0"/><rel type="修飾" target="唯一" sid="wiki00305206-02" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
@@ -109,137 +109,137 @@ EOS
 # S-ID:wiki00305206-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/04/19 MEMO:
 * 1D
 + 1D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ノ" target="島国" sid="wiki00305206-01" id="11"/><rel type="ノ" mode="AND" target="島" sid="wiki00305206-02" id="5"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 6D <rel type="ノ" target="島国" sid="wiki00305206-01" id="11"/><rel type="ノ" mode="AND" target="島" sid="wiki00305206-02" id="5"/><体言>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-外国 がいこく 外国 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="外国" sid="wiki00305206-03" id="2"/>
-系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+外国 がいこく 外国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="外国" sid="wiki00305206-03" id="2"/><体言>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="修飾" target="系" sid="wiki00305206-03" id="3"/><rel type="ノ" target="トンガ" sid="wiki00305206-01" id="0"/>
-住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="系" sid="wiki00305206-03" id="3"/><rel type="ノ" target="トンガ" sid="wiki00305206-01" id="0"/><体言>
+住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="住民" sid="wiki00305206-03" id="4"/><NE:PERCENT:2%>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
++ 6D <rel type="ガ" target="住民" sid="wiki00305206-03" id="4"/><体言><NE:PERCENT:2%>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
 % ぱーせんと % 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERCENT:tail>
 以下 いか 以下 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="住民" sid="wiki00305206-03" id="4"/><rel type="ト" target="2%以下" sid="wiki00305206-03" id="5"/><memo text="間接ト格"/>
-少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="住民" sid="wiki00305206-03" id="4"/><rel type="ト" target="2%以下" sid="wiki00305206-03" id="5"/><memo text="間接ト格"/><用言:形><時制:非過去><節-主辞><節-区切>
+少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305206-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000 MOD:2023/04/19 MEMO:
 * 21D
-+ 28D <rel type="=" target="少ない" sid="wiki00305206-03" id="6"/>
-これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 28D <rel type="=" target="少ない" sid="wiki00305206-03" id="6"/><体言>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="トンガ" sid="wiki00305206-01" id="0"/>
-隣国 りんごく/りんこく 隣国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="トンガ" sid="wiki00305206-01" id="0"/><体言>
+隣国 りんごく/りんこく 隣国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="修飾" target="隣国" sid="wiki00305206-04" id="1"/><rel type="=構" target="隣国" sid="wiki00305206-04" id="1"/><NE:LOCATION:フィジー>
-フィジー ふぃじー フィジー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="修飾" target="隣国" sid="wiki00305206-04" id="1"/><rel type="=構" target="隣国" sid="wiki00305206-04" id="1"/><体言><NE:LOCATION:フィジー>
+フィジー ふぃじー フィジー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D
-プランテーション ぷらんてーしょん プランテーション 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=構" target="フィジー" sid="wiki00305206-04" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00305206-04" id="3"/><rel type="修飾" target="プランテーション" sid="wiki00305206-04" id="4"/>
-農園 のうえん 農園 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+プランテーション ぷらんてーしょん プランテーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=構" target="フィジー" sid="wiki00305206-04" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00305206-04" id="3"/><rel type="修飾" target="プランテーション" sid="wiki00305206-04" id="4"/><体言>
+農園 のうえん 農園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 7D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 13P
-+ 18P <rel type="ガ" target="フィジー" sid="wiki00305206-04" id="2"/><rel type="トシテ" target="農園" sid="wiki00305206-04" id="5"/>
-固定 こてい 固定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18P <rel type="ガ" target="フィジー" sid="wiki00305206-04" id="2"/><rel type="トシテ" target="農園" sid="wiki00305206-04" id="5"/><用言:動><節-主辞><節-区切>
+固定 こてい 固定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 10D
-移民 いみん 移民 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 10D <rel type="ガ" target="者" sid="wiki00305206-04" id="10"/><rel type="デ" target="農園" sid="wiki00305206-04" id="5"/><rel type="デ" mode="？" target="なし"/>
-労働 ろうどう 労働 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="移民" sid="wiki00305206-04" id="8"/><rel type="ノ？" target="労働" sid="wiki00305206-04" id="9"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 10D <体言><非用言格解析:動>
+移民 いみん 移民 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ガ" target="者" sid="wiki00305206-04" id="10"/><rel type="デ" target="農園" sid="wiki00305206-04" id="5"/><rel type="デ" mode="？" target="なし"/><体言><非用言格解析:動>
+労働 ろうどう 労働 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="移民" sid="wiki00305206-04" id="8"/><rel type="ノ？" target="労働" sid="wiki00305206-04" id="9"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 12D <NE:LOCATION:インド>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 14P <rel type="=構" target="者" sid="wiki00305206-04" id="10"/><rel type="修飾" target="者" sid="wiki00305206-04" id="10"/><rel type="ノ？" target="インド" sid="wiki00305206-04" id="11"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><NE:LOCATION:インド>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 14P <rel type="=構" target="者" sid="wiki00305206-04" id="10"/><rel type="修飾" target="者" sid="wiki00305206-04" id="10"/><rel type="ノ？" target="インド" sid="wiki00305206-04" id="11"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <NE:LOCATION:フィジー>
-フィジー ふぃじー フィジー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 15D <rel type="=構" target="者" sid="wiki00305206-04" id="10"/><rel type="修飾" target="者" sid="wiki00305206-04" id="10"/><rel type="ノ？" target="フィジー" sid="wiki00305206-04" id="13"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言><NE:LOCATION:フィジー>
+フィジー ふぃじー フィジー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 15D <rel type="=構" target="者" sid="wiki00305206-04" id="10"/><rel type="修飾" target="者" sid="wiki00305206-04" id="10"/><rel type="ノ？" target="フィジー" sid="wiki00305206-04" id="13"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 18D <rel type="ガ" target="人" sid="wiki00305206-04" id="14"/><rel type="ト" target="人" sid="wiki00305206-04" id="12"/><memo text="ガト交替可"/>
-対立 たいりつ 対立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18D <rel type="ガ" target="人" sid="wiki00305206-04" id="14"/><rel type="ト" target="人" sid="wiki00305206-04" id="12"/><memo text="ガト交替可"/><体言><非用言格解析:動>
+対立 たいりつ 対立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 17D <rel type="ニ" target="現代" sid="wiki00305206-00" id="4"/>
-現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ニ" target="現代" sid="wiki00305206-00" id="4"/><体言>
+現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 18D <rel type="ニ" target="現代" sid="wiki00305206-04" id="16"/><rel type="ガ" target="不特定:状況"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 18D <rel type="ニ" target="現代" sid="wiki00305206-04" id="16"/><rel type="ガ" target="不特定:状況"/><用言:動><時制:非過去><節-主辞><節-区切>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 まで まで まで 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 19D <rel type="ガ" target="対立" sid="wiki00305206-04" id="15"/><rel type="マデ" target="至る" sid="wiki00305206-04" id="17"/><rel type="外の関係" target="こと" sid="wiki00305206-04" id="19"/>
-残った のこった 残る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 19D <rel type="ガ" target="対立" sid="wiki00305206-04" id="15"/><rel type="マデ" target="至る" sid="wiki00305206-04" id="17"/><rel type="外の関係" target="こと" sid="wiki00305206-04" id="19"/><用言:動><時制:過去>
+残った のこった 残る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 20P
-+ 27P <rel type="トイウ" target="残った" sid="wiki00305206-04" id="18"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 27P <rel type="トイウ" target="残った" sid="wiki00305206-04" id="18"/><体言>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 19D
-+ 21D
-東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D <rel type="修飾" target="東部" sid="wiki00305206-04" id="20"/><rel type="=≒" target="ポリネシア" sid="wiki00305206-01" id="8"/><NE:LOCATION:ポリネシア>
-ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 26D <rel type="ノ" target="ポリネシア" sid="wiki00305206-04" id="21"/>
-全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <体言>
+東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="修飾" target="東部" sid="wiki00305206-04" id="20"/><rel type="=≒" target="ポリネシア" sid="wiki00305206-01" id="8"/><体言><NE:LOCATION:ポリネシア>
+ポリネシア ぽりねしあ ポリネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 26D <rel type="ノ" target="ポリネシア" sid="wiki00305206-04" id="21"/><体言>
+全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 24D <rel type="=" target="現在" sid="wiki00305206-02" id="0"/>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 24D <rel type="=" target="現在" sid="wiki00305206-02" id="0"/><体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 26D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="現在" sid="wiki00305206-04" id="23"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 26D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="現在" sid="wiki00305206-04" id="23"/><用言:動><時制:非過去><節-主辞><節-区切>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 まで まで まで 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 19D
-+ 26D <rel type="ガ" target="全域" sid="wiki00305206-04" id="22"/>
-独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 26D <rel type="ガ" target="全域" sid="wiki00305206-04" id="22"/><体言><非用言格解析:動>
+独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
-+ 27D <rel type="ガ" target="全域" sid="wiki00305206-04" id="22"/><rel type="マデ" target="至る" sid="wiki00305206-04" id="24"/><rel type="ヲ" target="独立" sid="wiki00305206-04" id="25"/><rel type="外の関係" target="こと" sid="wiki00305206-04" id="27"/>
-果たして はたして 果たす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ 27D <rel type="ガ" target="全域" sid="wiki00305206-04" id="22"/><rel type="マデ" target="至る" sid="wiki00305206-04" id="24"/><rel type="ヲ" target="独立" sid="wiki00305206-04" id="25"/><rel type="外の関係" target="こと" sid="wiki00305206-04" id="27"/><用言:動><時制:非過去><否定表現><節-主辞>
+果たして はたして 果たす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 21D
-+ 28D <rel type="トイウ" target="果たしていない" sid="wiki00305206-04" id="26"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 28D <rel type="トイウ" target="果たしていない" sid="wiki00305206-04" id="26"/><体言>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="これ" sid="wiki00305206-04" id="0"/><rel type="ト" target="こと" sid="wiki00305206-04" id="19"/><rel type="ト" mode="AND" target="こと" sid="wiki00305206-04" id="27"/>
-対照 たいしょう 対照 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="これ" sid="wiki00305206-04" id="0"/><rel type="ト" target="こと" sid="wiki00305206-04" id="19"/><rel type="ト" mode="AND" target="こと" sid="wiki00305206-04" id="27"/><用言:形><時制:非過去><節-主辞><節-区切>
+対照 たいしょう 対照 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的である てきである 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 デアル列基本形 17 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

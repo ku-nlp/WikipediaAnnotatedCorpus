@@ -1,230 +1,230 @@
 # S-ID:wiki00291357-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/20 MEMO:
 * 5P
-+ 1D
-グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3P
-ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 1D <体言>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3P <体言>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 14D <rel type="ノ" target="王国" sid="wiki00291357-00-01" id="5"/><NE:ORGANIZATION:グレートブリテンおよび北アイルランド連合王国議会>
-議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言><非用言格解析:動>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 14D <rel type="ノ" target="王国" sid="wiki00291357-00-01" id="5"/><体言><NE:ORGANIZATION:グレートブリテンおよび北アイルランド連合王国議会>
+議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 9D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/><NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/><体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 9D
-立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14P <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="=構" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ノ" target="立法" sid="wiki00291357-00-01" id="8"/><rel type="ノ" mode="AND" target="イギリス" sid="wiki00291357-00-01" id="7"/>
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><非用言格解析:動>
+立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14P <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="=構" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ノ" target="立法" sid="wiki00291357-00-01" id="8"/><rel type="ノ" mode="AND" target="イギリス" sid="wiki00291357-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 12P <rel type="=" target="イギリス" sid="wiki00291357-00-01" id="7"/><rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/>
-本国 ほんごく 本国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12P <rel type="=" target="イギリス" sid="wiki00291357-00-01" id="7"/><rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/><体言>
+本国 ほんごく 本国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ノ" target="本国" sid="wiki00291357-00-01" id="10"/>
-海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/><rel type="修飾" target="海外" sid="wiki00291357-00-01" id="11"/>
-領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="本国" sid="wiki00291357-00-01" id="10"/><体言>
+海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="イギリス" sid="wiki00291357-00-01" id="7"/><rel type="修飾" target="海外" sid="wiki00291357-00-01" id="11"/><体言>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 14D <rel type="ガ" target="機関" sid="wiki00291357-00-01" id="14"/>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ -1D <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="=構" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ノ" target="領土" sid="wiki00291357-00-01" id="12"/><rel type="ノ" mode="AND" target="本国" sid="wiki00291357-00-01" id="10"/><rel type="修飾" target="最高" sid="wiki00291357-00-01" id="13"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ガ" target="機関" sid="wiki00291357-00-01" id="14"/><体言><非用言格解析:形>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="=構" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ノ" target="領土" sid="wiki00291357-00-01" id="12"/><rel type="ノ" mode="AND" target="本国" sid="wiki00291357-00-01" id="10"/><rel type="修飾" target="最高" sid="wiki00291357-00-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00291357-00-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/21 MEMO:
 * -1P
-+ 1D <rel type="=" target="グレート" sid="wiki00291357-00-01" id="0"/>
-グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3P <rel type="=" target="ブリテン" sid="wiki00291357-00-01" id="1"/>
-ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 1D <rel type="=" target="グレート" sid="wiki00291357-00-01" id="0"/><体言>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3P <rel type="=" target="ブリテン" sid="wiki00291357-00-01" id="1"/><体言>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="北" sid="wiki00291357-00-01" id="2"/>
-きた きた きた 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="アイルランド" sid="wiki00291357-00-01" id="3"/>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="連合" sid="wiki00291357-00-01" id="4"/>
-れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/>
-おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/><NE:ORGANIZATION:グレートブリテンおよびきたアイルランドれんごうおうこくぎかい>
-ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <rel type="=" target="北" sid="wiki00291357-00-01" id="2"/><体言>
+きた きた きた 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="アイルランド" sid="wiki00291357-00-01" id="3"/><体言>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="連合" sid="wiki00291357-00-01" id="4"/><体言><非用言格解析:動>
+れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="王国" sid="wiki00291357-00-01" id="5"/><体言>
+おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:グレートブリテンおよびきたアイルランドれんごうおうこくぎかい>
+ぎかい ぎかい ぎかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00291357-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/01/20 MEMO:
 * 2D
-+ 4D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/>
-それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="議会" sid="wiki00291357-00-01" id="6"/><体言>
+それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 自体 じたい 自体 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
-立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="=" target="府" sid="wiki00291357-00-01" id="9"/>
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="府" sid="wiki00291357-01" id="2"/>
-優位 ゆうい 優位だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 2D <体言><非用言格解析:動>
+立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="府" sid="wiki00291357-00-01" id="9"/><体言>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="府" sid="wiki00291357-01" id="2"/><体言><非用言格解析:形>
+優位 ゆうい 優位だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 18D <rel type="ガ" target="それ自体" sid="wiki00291357-01" id="0"/><rel type="ヲ" target="優位" sid="wiki00291357-01" id="3"/>
-有して ゆうして 有す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ 18D <rel type="ガ" target="それ自体" sid="wiki00291357-01" id="0"/><rel type="ヲ" target="優位" sid="wiki00291357-01" id="3"/><用言:動><節-主辞><節-区切>
+有して ゆうして 有す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 6D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 14D
-+ 18D <rel type="ノ" target="有しており" sid="wiki00291357-01" id="4"/>
-結果 けっか 結果 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 18D <rel type="ノ" target="有しており" sid="wiki00291357-01" id="4"/><体言>
+結果 けっか 結果 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="=" target="本国" sid="wiki00291357-00-01" id="10"/>
-本国 ほんごく 本国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="=" target="本国" sid="wiki00291357-00-01" id="10"/><体言>
+本国 ほんごく 本国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 9D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 10D <rel type="=" target="領土" sid="wiki00291357-00-01" id="12"/><rel type="ノ" target="本国" sid="wiki00291357-01" id="7"/>
-領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="領土" sid="wiki00291357-00-01" id="12"/><rel type="ノ" target="本国" sid="wiki00291357-01" id="7"/><体言>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 14D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 11D
-+ 14D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/>
-他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 14D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/><体言>
+他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D
-全て すべて 全て 副詞 8 * 0 * 0 * 0 NIL
++ 14D <体言>
+全て すべて 全て 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 14D
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 15D <rel type="ニオイテ" target="本国" sid="wiki00291357-01" id="7"/><rel type="ニオイテ" mode="AND" target="領土" sid="wiki00291357-01" id="9"/><rel type="修飾" target="政治的" sid="wiki00291357-01" id="13"/><rel type="修飾" mode="AND" target="全て" sid="wiki00291357-01" id="12"/><rel type="修飾" mode="AND" target="他" sid="wiki00291357-01" id="11"/><rel type="=≒" target="機関" sid="wiki00291357-00-01" id="14"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ニオイテ" target="本国" sid="wiki00291357-01" id="7"/><rel type="ニオイテ" mode="AND" target="領土" sid="wiki00291357-01" id="9"/><rel type="修飾" target="政治的" sid="wiki00291357-01" id="13"/><rel type="修飾" mode="AND" target="全て" sid="wiki00291357-01" id="12"/><rel type="修飾" mode="AND" target="他" sid="wiki00291357-01" id="11"/><rel type="=≒" target="機関" sid="wiki00291357-00-01" id="14"/><体言>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 17D <rel type="ガ" target="権力" sid="wiki00291357-01" id="17"/><rel type="ヲ" target="機関" sid="wiki00291357-01" id="14"/>
-上回る うわまわる 上回る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 17D <rel type="ガ" target="権力" sid="wiki00291357-01" id="17"/><rel type="ヲ" target="機関" sid="wiki00291357-01" id="14"/><用言:動><時制:非過去><節-主辞>
+上回る うわまわる 上回る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 17D <rel type="ガ" target="権力" sid="wiki00291357-01" id="17"/><rel type="=" target="最高" sid="wiki00291357-00-01" id="13"/>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 18D <rel type="修飾" target="最高" sid="wiki00291357-01" id="16"/><rel type="修飾" mode="AND" target="上回る" sid="wiki00291357-01" id="15"/>
-権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ガ" target="権力" sid="wiki00291357-01" id="17"/><rel type="=" target="最高" sid="wiki00291357-00-01" id="13"/><体言><非用言格解析:形>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 18D <rel type="修飾" target="最高" sid="wiki00291357-01" id="16"/><rel type="修飾" mode="AND" target="上回る" sid="wiki00291357-01" id="15"/><体言>
+権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ヲ" target="権力" sid="wiki00291357-01" id="17"/><rel type="=≒" target="有しており" sid="wiki00291357-01" id="4"/>
-有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="議会" sid="wiki00291357-00-01" id="6"/><rel type="ヲ" target="権力" sid="wiki00291357-01" id="17"/><rel type="=≒" target="有しており" sid="wiki00291357-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00291357-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2023/01/20 MEMO:
 * 1D
 + 1D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 3D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/>
-長 ちょう/おさ 長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/><体言>
+長 ちょう/おさ 長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="イギリス" sid="wiki00291357-00-01" id="7"/><NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="=" target="イギリス" sid="wiki00291357-00-01" id="7"/><体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10P
-+ 14P <rel type="ガ" target="長" sid="wiki00291357-02-01" id="1"/><rel type="ノ" target="イギリス" sid="wiki00291357-02-01" id="2"/><rel type="=構" target="長" sid="wiki00291357-02-01" id="1"/>
-君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14P <rel type="ガ" target="長" sid="wiki00291357-02-01" id="1"/><rel type="ノ" target="イギリス" sid="wiki00291357-02-01" id="2"/><rel type="=構" target="長" sid="wiki00291357-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 5D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 10D
-+ 14D <rel type="ノ？" target="長" sid="wiki00291357-02-01" id="1"/>
-座所 ざしょ 座所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ノ？" target="長" sid="wiki00291357-02-01" id="1"/><体言>
+座所 ざしょ 座所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 7D
-グレーター ぐれーたー グレーター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <体言>
+グレーター ぐれーたー グレーター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="イギリス" sid="wiki00291357-00-01" id="7"/><NE:LOCATION:グレーター・ロンドン>
-ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 8D <rel type="ノ？" target="イギリス" sid="wiki00291357-00-01" id="7"/><体言><NE:LOCATION:グレーター・ロンドン>
+ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ニ" target="ロンドン" sid="wiki00291357-02-01" id="8"/><rel type="ガ" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ニ" target="ロンドン" sid="wiki00291357-02-01" id="8"/><rel type="ガ" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 10D
-シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 10D <体言>
+シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 11D
-オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 11D <体言>
+オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13D <rel type="ノ？" target="ロンドン" sid="wiki00291357-02-01" id="7"/><NE:LOCATION:シティ・オブ・ウェストミンスター>
-ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 13D <rel type="ノ？" target="ロンドン" sid="wiki00291357-02-01" id="7"/><体言><NE:LOCATION:シティ・オブ・ウェストミンスター>
+ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="=" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/>
-ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 14D <rel type="ノ？" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/><NE:LOCATION:ウェストミンスター宮殿>
-宮殿 きゅうでん 宮殿 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 13D <rel type="=" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/><体言>
+ウェストミンスター うぇすとみんすたー ウェストミンスター 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 14D <rel type="ノ？" target="ウェストミンスター" sid="wiki00291357-02-01" id="11"/><体言><NE:LOCATION:ウェストミンスター宮殿>
+宮殿 きゅうでん 宮殿 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="宮殿" sid="wiki00291357-02-01" id="14"/><rel type="ガ" target="座所" sid="wiki00291357-02-01" id="5"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ニ" target="宮殿" sid="wiki00291357-02-01" id="14"/><rel type="ガ" target="座所" sid="wiki00291357-02-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00291357-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/20 MEMO:
 * 1D
-+ 2D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 2D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-エリザベス えりざべす エリザベス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="時間" target="現在" sid="wiki00291357-02-02" id="0"/><rel type="ガ" target="君主" sid="wiki00291357-02-01" id="3"/><rel type="=構" target="君主" sid="wiki00291357-02-01" id="3"/><memo text="CO"/><NE:PERSON:エリザベス2世>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <体言>
+エリザベス えりざべす エリザベス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <rel type="時間" target="現在" sid="wiki00291357-02-02" id="0"/><rel type="ガ" target="君主" sid="wiki00291357-02-01" id="3"/><rel type="=構" target="君主" sid="wiki00291357-02-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:エリザベス2世>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 世 せい 世 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERSON:tail>
 EOS
 # S-ID:wiki00291357-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/01/20 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="イギリス" sid="wiki00291357-02-01" id="2"/>
-王室 おうしつ 王室 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="王室" sid="wiki00291357-03" id="0"/>
-属領 ぞくりょう 属領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="イギリス" sid="wiki00291357-02-01" id="2"/><体言>
+王室 おうしつ 王室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="王室" sid="wiki00291357-03" id="0"/><体言>
+属領 ぞくりょう 属領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 6D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 4D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/>
-権限 けんげん 権限 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="議会" sid="wiki00291357-00-01" id="6"/><体言>
+権限 けんげん 権限 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
 + 6D
-原則として げんそくとして 原則として 副詞 8 * 0 * 0 * 0 NIL
+原則として げんそくとして 原則として 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="権限" sid="wiki00291357-03" id="5"/><rel type="ニツイテ" target="属領" sid="wiki00291357-03" id="1"/><rel type="ニ" target="属領" sid="wiki00291357-03" id="1"/>
-及ば およば 及ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="権限" sid="wiki00291357-03" id="5"/><rel type="ニツイテ" target="属領" sid="wiki00291357-03" id="1"/><rel type="ニ" target="属領" sid="wiki00291357-03" id="1"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
+及ば およば 及ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

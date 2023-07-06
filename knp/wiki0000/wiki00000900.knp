@@ -1,81 +1,81 @@
 # S-ID:wiki00000900-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 1D
-井上 いのうえ 井上 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+井上 いのうえ 井上 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 3D <NE:PERSON:井上　陽水>
-陽水 陽水 陽水 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 3D <体言><NE:PERSON:井上　陽水>
+陽水 陽水 陽水 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 4D
-シンガーソング シンガーソング シンガーソング 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/><rel type="=" target="陽水" sid="wiki00000900-00-01" id="1"/>
-ライター らいたー ライター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+シンガーソング シンガーソング シンガーソング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/><rel type="=" target="陽水" sid="wiki00000900-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ライター らいたー ライター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00000900-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1P
-+ 1D <rel type="=" target="井上" sid="wiki00000900-00-01" id="0"/>
-いのうえ いのうえ いのうえ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="井上" sid="wiki00000900-00-01" id="0"/><体言>
+いのうえ いのうえ いのうえ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2P <rel type="=" target="ライター" sid="wiki00000900-00-01" id="4"/><NE:PERSON:いのうえ　ようすい>
-ようすい ようすい ようすい 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:PERSON:tail>
++ 2P <rel type="=" target="ライター" sid="wiki00000900-00-01" id="4"/><体言><非用言格解析:動><NE:PERSON:いのうえ　ようすい>
+ようすい ようすい ようすい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:DATE:1948年>
-1948 1948 1948 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言><NE:DATE:1948年>
+1948 1948 1948 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * 3D
-+ 4D
++ 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 5D <NE:DATE:昭和23年>
-23 23 23 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 5D <体言><NE:DATE:昭和23年>
+23 23 23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4D
-+ 6D
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 5D
-+ 7D <NE:DATE:8月30日>
-30 30 30 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言><NE:DATE:8月30日>
+30 30 30 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00000900-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
 * 5D
-+ 5D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/>
-本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/><体言>
+本名 ほんみょう 本名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言><非用言格解析:動>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="表記" sid="wiki00000900-01" id="1"/><rel type="ガ２" target="本名" sid="wiki00000900-01" id="0"/>
-同じで おなじで 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列タ系連用テ形 14 NIL
++ 5D <rel type="ガ" target="表記" sid="wiki00000900-01" id="1"/><rel type="ガ２" target="本名" sid="wiki00000900-01" id="0"/><用言:形><時制:非過去><節-主辞><節-区切>
+同じで おなじで 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 5D <rel type="ノ" target="本名" sid="wiki00000900-01" id="0"/>
-読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="本名" sid="wiki00000900-01" id="0"/><体言>
+読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <NE:PERSON:いのうえ>
++ 5D <体言><NE:PERSON:いのうえ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-いのうえ いのうえ いのうえ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+いのうえ いのうえ いのうえ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="読み" sid="wiki00000900-01" id="3"/>
-あき あき あき 名詞 6 時相名詞 10 * 0 * 0 NIL
++ -1D <rel type="=" target="読み" sid="wiki00000900-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+あき あき あき 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 み み み 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -83,70 +83,70 @@ EOS
 # S-ID:wiki00000900-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
 + 1D
-旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/><rel type="=" target="あきみ" sid="wiki00000900-01" id="5"/>
-芸名 げいめい 芸名 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-アンドレ アンドレ アンドレ 名詞 6 普通名詞 1 * 0 * 0 NIL
+旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/><rel type="=" target="あきみ" sid="wiki00000900-01" id="5"/><体言>
+芸名 げいめい 芸名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+アンドレ アンドレ アンドレ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="芸名" sid="wiki00000900-02" id="1"/><rel type="=" target="芸名" sid="wiki00000900-02" id="1"/>
-カンドレ カンドレ カンドレ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="芸名" sid="wiki00000900-02" id="1"/><rel type="=" target="芸名" sid="wiki00000900-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+カンドレ カンドレ カンドレ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00000900-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 1D
-+ 1D
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 2D
-嘉穂 かほ 嘉穂 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <体言>
+嘉穂 かほ 嘉穂 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 郡 ぐん 郡 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <NE:LOCATION:福岡県嘉穂郡幸袋町>
-幸袋 幸袋 幸袋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <体言><NE:LOCATION:福岡県嘉穂郡幸袋町>
+幸袋 幸袋 幸袋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 町 ちょう 町 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 * -1D
-+ 7D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/>
-生まれ うまれ 生まれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 7D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/><用言:動>
+生まれ うまれ 生まれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D
-田川 たがわ 田川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <体言>
+田川 たがわ 田川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 郡 ぐん 郡 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <NE:LOCATION:福岡県田川郡糸田町>
-糸田 いとだ 糸田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <体言><NE:LOCATION:福岡県田川郡糸田町>
+糸田 いとだ 糸田 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 町 ちょう 町 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/>
-育ち そだち 育ち 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="陽水" sid="wiki00000900-00-01" id="1"/><用言:動><節-主辞><節-区切>
+育ち そだち 育ち 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00000900-03-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ 4D
-現 うつつ 現 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="=" target="福岡県" sid="wiki00000900-03-01" id="4"/>
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言>
+現 うつつ 現 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="福岡県" sid="wiki00000900-03-01" id="4"/><体言>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D
-飯塚 いいづか 飯塚 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <体言>
+飯塚 いいづか 飯塚 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="幸袋町" sid="wiki00000900-03-01" id="2"/><NE:LOCATION:福岡県飯塚市幸袋>
-幸袋 幸袋 幸袋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="=" target="幸袋町" sid="wiki00000900-03-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:福岡県飯塚市幸袋>
+幸袋 幸袋 幸袋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00000900-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 1D
-+ 2D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/>
-血液型 けつえきがた 血液型 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="陽水" sid="wiki00000900-00-01" id="1"/><体言>
+血液型 けつえきがた 血液型 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-AB AB AB 名詞 6 組織名 6 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="血液型" sid="wiki00000900-04" id="0"/><rel type="=" target="血液型" sid="wiki00000900-04" id="0"/>
-型 かた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 2D <体言>
+AB AB AB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="血液型" sid="wiki00000900-04" id="0"/><rel type="=" target="血液型" sid="wiki00000900-04" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+型 かた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

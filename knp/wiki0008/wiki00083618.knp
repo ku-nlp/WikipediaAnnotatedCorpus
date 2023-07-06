@@ -1,87 +1,87 @@
 # S-ID:wiki00083618-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/13 MEMO:
 * 4D
-+ 3D
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D
-博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 14D <NE:OPTIONAL:国立科学博物館><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <体言>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 3D <体言>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <体言>
+博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 14D <体言><NE:OPTIONAL:国立科学博物館><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D
-独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="=" target="国立" sid="wiki00083618-00-01" id="0"/>
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="=" target="科学" sid="wiki00083618-00-01" id="1"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="=" target="博物" sid="wiki00083618-00-01" id="2"/>
-博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><NE:ORGANIZATION:独立行政法人国立科学博物館>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言><非用言格解析:動>
+独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <体言>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <rel type="=" target="国立" sid="wiki00083618-00-01" id="0"/><体言>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <rel type="=" target="科学" sid="wiki00083618-00-01" id="1"/><体言>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <rel type="=" target="博物" sid="wiki00083618-00-01" id="2"/><体言>
+博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><体言><NE:ORGANIZATION:独立行政法人国立科学博物館>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 14D <rel type="ガ" target="館" sid="wiki00083618-00-01" id="10"/><rel type="ヲ" target="館" sid="wiki00083618-00-01" id="14"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="館" sid="wiki00083618-00-01" id="10"/><rel type="ヲ" target="館" sid="wiki00083618-00-01" id="14"/><用言:動><時制:非過去><節-主辞>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 14D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 14D
-博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" target="館" sid="wiki00083618-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00083618-00-01" id="12"/><rel type="ノ？" mode="AND" target="博物" sid="wiki00083618-00-01" id="13"/><memo text="CO"/>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言>
+博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" target="館" sid="wiki00083618-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00083618-00-01" id="12"/><rel type="ノ？" mode="AND" target="博物" sid="wiki00083618-00-01" id="13"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00083618-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:52.00000 MOD:2023/06/13 MEMO:
 * 1D
-+ 3D <rel type="=" target="国立" sid="wiki00083618-00-01" id="0"/>
-こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 3D <rel type="=" target="科学" sid="wiki00083618-00-01" id="1"/>
-かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="=" target="博物" sid="wiki00083618-00-01" id="2"/>
-はくぶつ はくぶつ はくぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 10P <rel type="=" target="館" sid="wiki00083618-00-01" id="14"/><NE:OPTIONAL:こくりつかがくはくぶつかん><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="=" target="国立" sid="wiki00083618-00-01" id="0"/><体言>
+こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 3D <rel type="=" target="科学" sid="wiki00083618-00-01" id="1"/><体言>
+かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <rel type="=" target="博物" sid="wiki00083618-00-01" id="2"/><体言>
+はくぶつ はくぶつ はくぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 10P <rel type="=" target="館" sid="wiki00083618-00-01" id="14"/><体言><NE:OPTIONAL:こくりつかがくはくぶつかん><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 10D <rel type="ノ" target="館" sid="wiki00083618-00-01" id="3"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="館" sid="wiki00083618-00-01" id="3"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-National National National 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <体言>
+National National National 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D
-Museum Museum Museum 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 7D <体言>
+Museum Museum Museum 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 10D
-of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 10D <体言>
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 9D
-Nature Nature Nature 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9D <体言>
+Nature Nature Nature 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 10P
-and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 10P <体言>
+and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 13P <rel type="ガ" target="英称" sid="wiki00083618-00-02" id="4"/><rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" mode="AND" target="英称" sid="wiki00083618-00-02" id="4"/><NE:OPTIONAL:National　Museum　of　Nature　and　Science><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-Science Science Science 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 13P <rel type="ガ" target="英称" sid="wiki00083618-00-02" id="4"/><rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" mode="AND" target="英称" sid="wiki00083618-00-02" id="4"/><体言><NE:OPTIONAL:National　Museum　of　Nature　and　Science><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+Science Science Science 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 13D <rel type="ノ" target="館" sid="wiki00083618-00-01" id="14"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ノ" target="館" sid="wiki00083618-00-01" id="14"/><体言>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 13P <rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00083618-00-02" id="11"/><NE:OPTIONAL:かはく><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-かはく かはく かはく 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 13P <rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00083618-00-02" id="11"/><体言><NE:OPTIONAL:かはく><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+かはく かはく かはく 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00083618-00-02" id="11"/><rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=" mode="AND" target="かはく" sid="wiki00083618-00-02" id="12"/><rel type="=構" mode="AND" target="略称" sid="wiki00083618-00-02" id="11"/><NE:OPTIONAL:科博><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
-科博 かはく 科博 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00083618-00-02" id="11"/><rel type="=" target="館" sid="wiki00083618-00-01" id="3"/><rel type="=" mode="AND" target="かはく" sid="wiki00083618-00-02" id="12"/><rel type="=構" mode="AND" target="略称" sid="wiki00083618-00-02" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:科博><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
+科博 かはく 科博 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS

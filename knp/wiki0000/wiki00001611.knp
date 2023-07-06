@@ -1,83 +1,83 @@
 # S-ID:wiki00001611-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
 * 3D
-+ 1D
-セガ せが セガ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D <NE:ORGANIZATION:セガサターン>
-サターン サターン サターン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+セガ せが セガ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <体言><NE:ORGANIZATION:セガサターン>
+サターン サターン サターン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="セガ" sid="wiki00001611-00-01" id="0"/>
-セガ せが セガ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <rel type="=" target="セガ" sid="wiki00001611-00-01" id="0"/><体言>
+セガ せが セガ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <NE:ORGANIZATION:セガ・エンタープライゼス>
-エンタープライゼス エンタープライゼス エンタープライゼス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言><NE:ORGANIZATION:セガ・エンタープライゼス>
+エンタープライゼス エンタープライゼス エンタープライゼス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ガ" target="機" sid="wiki00001611-00-01" id="8"/><rel type="ニ" target="不特定:人"/>
-発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="機" sid="wiki00001611-00-01" id="8"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞>
+発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ 6D
-家庭 かてい 家庭 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+家庭 かてい 家庭 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D
-用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 8D
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="サターン" sid="wiki00001611-00-01" id="1"/><rel type="ノ" target="ゲーム" sid="wiki00001611-00-01" id="7"/><rel type="=" target="サターン" sid="wiki00001611-00-01" id="1"/>
-機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="サターン" sid="wiki00001611-00-01" id="1"/><rel type="ノ" target="ゲーム" sid="wiki00001611-00-01" id="7"/><rel type="=" target="サターン" sid="wiki00001611-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00001611-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * -1D
-+ -1D <rel type="=" target="セガ" sid="wiki00001611-00-01" id="0"/>
-SEGA SEGA SEGA 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="セガ" sid="wiki00001611-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+SEGA SEGA SEGA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 SATURN SATURN SATURN 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
 # S-ID:wiki00001611-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
 * 4D
-+ 4D
-一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
++ 4D <体言>
+一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P
-サターン サターン サターン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言>
+サターン サターン サターン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D
-SS SS SS 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <体言>
+SS SS SS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="SS" sid="wiki00001611-01" id="2"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="=" target="SS" sid="wiki00001611-01" id="2"/><体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="サターン" sid="wiki00001611-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="サターン" sid="wiki00001611-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00001611-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="サターン" sid="wiki00001611-00-01" id="1"/>
-発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="サターン" sid="wiki00001611-00-01" id="1"/><体言><非用言格解析:動>
+発売 はつばい 発売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 時 じ 時 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="サターン" sid="wiki00001611-00-01" id="1"/>
-価格 かかく 価格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="サターン" sid="wiki00001611-00-01" id="1"/><体言>
+価格 かかく 価格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="価格" sid="wiki00001611-02" id="2"/><rel type="=" target="価格" sid="wiki00001611-02" id="2"/><NE:MONEY:44,800円>
-44,800 44,800 44,800 名詞 6 数詞 7 * 0 * 0 NIL <NE:MONEY:head>
++ -1D <rel type="ガ" target="価格" sid="wiki00001611-02" id="2"/><rel type="=" target="価格" sid="wiki00001611-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:MONEY:44,800円>
+44,800 44,800 44,800 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:MONEY:head>
 円 えん 円 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:MONEY:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

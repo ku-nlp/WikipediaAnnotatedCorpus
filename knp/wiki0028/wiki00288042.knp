@@ -1,148 +1,148 @@
 # S-ID:wiki00288042-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/01/26 MEMO:
 * 6D
-+ 3D <NE:ORGANIZATION:UEFA>
-UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 3D <NE:LOCATION:欧州>
-欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="修飾" target="欧州" sid="wiki00288042-00-01" id="1"/><rel type="ノ？" target="UEFA" sid="wiki00288042-00-01" id="0"/><rel type="ノ？" mode="AND" target="選手" sid="wiki00288042-00-01" id="2"/>
-権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:ORGANIZATION:UEFA>
+UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 3D <体言><NE:LOCATION:欧州>
+欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <体言>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="修飾" target="欧州" sid="wiki00288042-00-01" id="1"/><rel type="ノ？" target="UEFA" sid="wiki00288042-00-01" id="0"/><rel type="ノ？" mode="AND" target="選手" sid="wiki00288042-00-01" id="2"/><体言>
+権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <rel type="=" target="欧州" sid="wiki00288042-00-01" id="1"/>
-欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="=" target="UEFA" sid="wiki00288042-00-01" id="0"/><NE:ORGANIZATION:欧州サッカー連盟>
-連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <rel type="=" target="欧州" sid="wiki00288042-00-01" id="1"/><体言>
+欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <rel type="=" target="UEFA" sid="wiki00288042-00-01" id="0"/><体言><NE:ORGANIZATION:欧州サッカー連盟>
+連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 15D <rel type="ガ" target="連盟" sid="wiki00288042-00-01" id="6"/><rel type="ヲ" target="大会" sid="wiki00288042-00-01" id="15"/>
-主催 しゅさい 主催 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ガ" target="連盟" sid="wiki00288042-00-01" id="6"/><rel type="ヲ" target="大会" sid="wiki00288042-00-01" id="15"/><用言:動><時制:非過去><節-主辞>
+主催 しゅさい 主催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 9D
-ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="ナショナル" sid="wiki00288042-00-01" id="8"/><rel type="ノ？" target="サッカー" sid="wiki00288042-00-01" id="5"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="修飾" target="ナショナル" sid="wiki00288042-00-01" id="8"/><rel type="ノ？" target="サッカー" sid="wiki00288042-00-01" id="5"/><体言>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 15D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 15D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 15D <rel type="=" target="サッカー" sid="wiki00288042-00-01" id="5"/>
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=" target="サッカー" sid="wiki00288042-00-01" id="5"/><体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 15D <rel type="=≒" target="欧州" sid="wiki00288042-00-01" id="4"/>
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="選手" sid="wiki00288042-00-01" id="13"/>
-権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="=構" target="権" sid="wiki00288042-00-01" id="3"/><rel type="修飾" target="大陸" sid="wiki00288042-00-01" id="12"/><rel type="ニヨッテ" target="チーム" sid="wiki00288042-00-01" id="9"/><rel type="ノ？" target="権" sid="wiki00288042-00-01" id="14"/><rel type="ノ？" mode="AND" target="サッカー" sid="wiki00288042-00-01" id="11"/>
-大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=≒" target="欧州" sid="wiki00288042-00-01" id="4"/><体言>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ノ" target="選手" sid="wiki00288042-00-01" id="13"/><体言>
+権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="=構" target="権" sid="wiki00288042-00-01" id="3"/><rel type="修飾" target="大陸" sid="wiki00288042-00-01" id="12"/><rel type="ニヨッテ" target="チーム" sid="wiki00288042-00-01" id="9"/><rel type="ノ？" target="権" sid="wiki00288042-00-01" id="14"/><rel type="ノ？" mode="AND" target="サッカー" sid="wiki00288042-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00288042-00-02 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/26 MEMO:
 * -1D
-+ -1D <rel type="=" target="連盟" sid="wiki00288042-00-01" id="6"/><NE:ORGANIZATION:UEFA>
-UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="連盟" sid="wiki00288042-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:UEFA>
+UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00288042-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/01/26 MEMO:
 * 1D
-+ 1D <rel type="=" target="UEFA" sid="wiki00288042-00-02" id="0"/><NE:ORGANIZATION:UEFA>
-UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 1D <rel type="=" target="UEFA" sid="wiki00288042-00-02" id="0"/><体言><NE:ORGANIZATION:UEFA>
+UEFA うえふぁ UEFA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 2D <rel type="=≒" target="欧州" sid="wiki00288042-00-01" id="1"/><rel type="=構" mode="AND" target="権" sid="wiki00288042-00-01" id="3"/><memo text="品詞"/>
-Euro ゆーろ Euro 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=≒" target="欧州" sid="wiki00288042-00-01" id="1"/><rel type="=構" mode="AND" target="権" sid="wiki00288042-00-01" id="3"/><memo text="品詞"/><体言>
+Euro ゆーろ Euro 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="Euro" sid="wiki00288042-01-01" id="1"/>
-呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="Euro" sid="wiki00288042-01-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00288042-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/26 MEMO:
 * -1D
-+ -1D <rel type="=" target="Euro" sid="wiki00288042-01-01" id="1"/><memo text="品詞"/>
-ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="Euro" sid="wiki00288042-01-01" id="1"/><memo text="品詞"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00288042-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/01/26 MEMO:
 * 1D
-+ 1D
-4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <体言>
+4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="時間" target="4年" sid="wiki00288042-02-01" id="0"/>
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <rel type="時間" target="4年" sid="wiki00288042-02-01" id="0"/><体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:ORGANIZATION:FIFA>
-FIFA ふぃふぁ FIFA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 5D <rel type="ノ？" target="FIFA" sid="wiki00288042-02-01" id="2"/>
-ワールドカップ わーるどかっぷ ワールドカップ 名詞 6 固有名詞 3 * 0 * 0 NIL
++ 3D <体言><NE:ORGANIZATION:FIFA>
+FIFA ふぃふぁ FIFA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 5D <rel type="ノ？" target="FIFA" sid="wiki00288042-02-01" id="2"/><体言>
+ワールドカップ わーるどかっぷ ワールドカップ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/><rel type="ト" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/>
-中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="中間" sid="wiki00288042-02-01" id="4"/><rel type="ノ" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/>
-年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 5D <rel type="ノ" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/><rel type="ト" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/><体言>
+中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="中間" sid="wiki00288042-02-01" id="4"/><rel type="ノ" target="ワールドカップ" sid="wiki00288042-02-01" id="3"/><体言>
+年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="ニ" target="連盟" sid="wiki00288042-00-01" id="6"/><rel type="時間" target="1度" sid="wiki00288042-02-01" id="1"/><rel type="時間" mode="AND" target="年" sid="wiki00288042-02-01" id="5"/>
-開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="権" sid="wiki00288042-00-01" id="3"/><rel type="ニ" target="連盟" sid="wiki00288042-00-01" id="6"/><rel type="時間" target="1度" sid="wiki00288042-02-01" id="1"/><rel type="時間" mode="AND" target="年" sid="wiki00288042-02-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00288042-02-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/01/26 MEMO:
 * 1D
-+ 1D
-夏季 かき 夏季 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 3D <rel type="時間" target="夏季" sid="wiki00288042-02-02" id="0"/>
-五輪 ごりん 五輪 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+夏季 かき 夏季 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="時間" target="夏季" sid="wiki00288042-02-02" id="0"/><体言>
+五輪 ごりん 五輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="ヲ" target="五輪" sid="wiki00288042-02-02" id="1"/><rel type="ガ" target="不特定:人"/><rel type="時間" target="年" sid="wiki00288042-02-02" id="3"/>
-開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="年" sid="wiki00288042-02-01" id="5"/><rel type="=構" target="年" sid="wiki00288042-02-01" id="5"/><rel type="修飾" target="開催" sid="wiki00288042-02-02" id="2"/><rel type="ノ" target="五輪" sid="wiki00288042-02-02" id="1"/><memo text="CO"/>
-年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3D <rel type="ヲ" target="五輪" sid="wiki00288042-02-02" id="1"/><rel type="ガ" target="不特定:人"/><rel type="時間" target="年" sid="wiki00288042-02-02" id="3"/><体言><非用言格解析:動>
+開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="年" sid="wiki00288042-02-01" id="5"/><rel type="=構" target="年" sid="wiki00288042-02-01" id="5"/><rel type="修飾" target="開催" sid="wiki00288042-02-02" id="2"/><rel type="ノ" target="五輪" sid="wiki00288042-02-02" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00288042-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/01/26 MEMO:
 * 3D
-+ 1D <rel type="ガ" target="国" sid="wiki00288042-03" id="1"/><rel type="デ" target="権" sid="wiki00288042-00-01" id="3"/>
-優勝 ゆうしょう 優勝 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="=≒" target="チーム" sid="wiki00288042-00-01" id="9"/><rel type="修飾" target="優勝" sid="wiki00288042-03" id="0"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="国" sid="wiki00288042-03" id="1"/><rel type="デ" target="権" sid="wiki00288042-00-01" id="3"/><体言><非用言格解析:動>
+優勝 ゆうしょう 優勝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="=≒" target="チーム" sid="wiki00288042-00-01" id="9"/><rel type="修飾" target="優勝" sid="wiki00288042-03" id="0"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="FIFA" sid="wiki00288042-02-01" id="2"/><NE:ORGANIZATION:FIFA>
-FIFA ふぃふぁ FIFA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 4D
-コンフェデレーションズ こんふぇでれーしょんず コンフェデレーションズ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ？" target="FIFA" sid="wiki00288042-03" id="2"/><rel type="修飾" target="コンフェデレーションズ" sid="wiki00288042-03" id="3"/>
-カップ かっぷ カップ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="FIFA" sid="wiki00288042-02-01" id="2"/><体言><NE:ORGANIZATION:FIFA>
+FIFA ふぃふぁ FIFA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 4D <体言>
+コンフェデレーションズ こんふぇでれーしょんず コンフェデレーションズ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ？" target="FIFA" sid="wiki00288042-03" id="2"/><rel type="修飾" target="コンフェデレーションズ" sid="wiki00288042-03" id="3"/><体言>
+カップ かっぷ カップ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="国" sid="wiki00288042-03" id="1"/><rel type="ヘ" target="カップ" sid="wiki00288042-03" id="4"/><rel type="外の関係" target="権" sid="wiki00288042-03" id="6"/>
-出場 しゅつじょう 出場 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="出場" sid="wiki00288042-03" id="5"/>
-権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ガ" target="国" sid="wiki00288042-03" id="1"/><rel type="ヘ" target="カップ" sid="wiki00288042-03" id="4"/><rel type="外の関係" target="権" sid="wiki00288042-03" id="6"/><体言><非用言格解析:動>
+出場 しゅつじょう 出場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="出場" sid="wiki00288042-03" id="5"/><体言>
+権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="権" sid="wiki00288042-03" id="6"/><rel type="ニ" target="国" sid="wiki00288042-03" id="1"/><rel type="ニ" mode="AND" target="連盟" sid="wiki00288042-00-01" id="6"/><memo text="二格:AG:連盟"/>
-与え あたえ 与える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ -1D <rel type="ガ" target="権" sid="wiki00288042-03" id="6"/><rel type="ニ" target="国" sid="wiki00288042-03" id="1"/><rel type="ニ" mode="AND" target="連盟" sid="wiki00288042-00-01" id="6"/><memo text="二格:AG:連盟"/><用言:動><時制:過去><節-主辞><節-区切>
+与え あたえ 与える 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

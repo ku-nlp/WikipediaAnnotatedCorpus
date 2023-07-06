@@ -1,144 +1,144 @@
 # S-ID:wiki01023690-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
 * 6D
-+ 2D
-東京ガス とうきょうがす 東京ガス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 13D <NE:ORGANIZATION:東京ガス株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+東京ガス とうきょうがす 東京ガス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 13D <体言><NE:ORGANIZATION:東京ガス株式会社>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 5D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8P <rel type="ノ" target="都市" sid="wiki01023690-00-01" id="4"/><NE:ORGANIZATION:東京都都市部>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8P <rel type="ノ" target="都市" sid="wiki01023690-00-01" id="4"/><体言><NE:ORGANIZATION:東京都都市部>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 8D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 8D <rel type="ガ" target="区域" sid="wiki01023690-00-01" id="8"/><rel type="ニ" target="部" sid="wiki01023690-00-01" id="5"/>
-隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D
-区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ガ" target="区域" sid="wiki01023690-00-01" id="8"/><rel type="ニ" target="部" sid="wiki01023690-00-01" id="5"/><体言><非用言格解析:動>
+隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言>
+区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="13"/>
-営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="営業" sid="wiki01023690-00-01" id="9"/><rel type="=" target="区域" sid="wiki01023690-00-01" id="8"/>
-区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="13"/><体言><非用言格解析:動>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="営業" sid="wiki01023690-00-01" id="9"/><rel type="=" target="区域" sid="wiki01023690-00-01" id="8"/><体言>
+区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="13"/><rel type="ヲ" target="区域" sid="wiki01023690-00-01" id="8"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 13D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="13"/><rel type="ヲ" target="区域" sid="wiki01023690-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 13D
-ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="ノ" target="ガス" sid="wiki01023690-00-01" id="12"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="2"/>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="ノ" target="ガス" sid="wiki01023690-00-01" id="12"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki01023690-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 2P
-+ 1D <rel type="=" target="東京都" sid="wiki01023690-00-01" id="3"/>
-とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8P <rel type="=" target="ガス" sid="wiki01023690-00-01" id="12"/><NE:ORGANIZATION:とうきょうガス>
-ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="東京都" sid="wiki01023690-00-01" id="3"/><体言>
+とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8P <rel type="=" target="ガス" sid="wiki01023690-00-01" id="12"/><体言><NE:ORGANIZATION:とうきょうガス>
+ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 8D
-登記 とうき 登記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <体言><非用言格解析:動>
+登記 とうき 登記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D <rel type="ノ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="13"/>
-商号 しょうごう 商号 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D
-瓦斯 がす 瓦斯 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="商号" sid="wiki01023690-00-02" id="3"/><NE:ORGANIZATION:東京瓦斯株式会社>
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 8D <rel type="ノ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="13"/><体言>
+商号 しょうごう 商号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <体言>
+瓦斯 がす 瓦斯 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="商号" sid="wiki01023690-00-02" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:東京瓦斯株式会社>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki01023690-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
 * 2D
-+ 1D <NE:LOCATION:関東>
-関東 かんとう 関東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ" target="関東" sid="wiki01023690-00-03" id="0"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:関東>
+関東 かんとう 関東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="ノ" target="関東" sid="wiki01023690-00-03" id="0"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 3D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
++ 3D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 * 3D
-+ 5D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
++ 5D <体言>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ガ" target="都市" sid="wiki01023690-00-03" id="5"/>
-主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ -1D
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="都市" sid="wiki01023690-00-03" id="5"/><体言><非用言格解析:形>
+主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki01023690-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
 * 1D
 + 1D
-総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 3D
-延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL
+総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><非用言格解析:動>
+延長 えんちょう 延長 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 3D <rel type="ノ" target="延長" sid="wiki01023690-01" id="1"/><rel type="=" target="延長" sid="wiki01023690-01" id="1"/>
++ 3D <rel type="ノ" target="延長" sid="wiki01023690-01" id="1"/><rel type="=" target="延長" sid="wiki01023690-01" id="1"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-6万 6万 6万 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D
-km km km 名詞 6 組織名 6 * 0 * 0 NIL
+6万 6万 6万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+km km km 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="ガス" sid="wiki01023690-00-01" id="12"/>
-ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-導管 どうかん 導管 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="ガス" sid="wiki01023690-00-01" id="12"/><体言>
+ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+導管 どうかん 導管 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 16P <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="ヲ" target="導管" sid="wiki01023690-01" id="5"/>
-持ち もち 持つ 動詞 2 * 0 子音動詞タ行 6 基本連用形 8 NIL
++ 16P <rel type="ガ" target="会社" sid="wiki01023690-00-01" id="2"/><rel type="ヲ" target="導管" sid="wiki01023690-01" id="5"/><用言:動><節-主辞><節-区切>
+持ち もち 持つ 動詞 2 * 0 子音動詞タ行 6 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="ガス" sid="wiki01023690-01" id="4"/>
-ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="ガス" sid="wiki01023690-01" id="8"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="ガス" sid="wiki01023690-01" id="8"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 8D <体言>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="ガス" sid="wiki01023690-01" id="4"/><体言>
+ガス がす ガス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="ガス" sid="wiki01023690-01" id="8"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="ガス" sid="wiki01023690-01" id="8"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 16D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 16D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 7D
-+ 13D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 16D <rel type="ガ" target="大手" sid="wiki01023690-01" id="16"/>
-最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 16D <rel type="ガ" target="大手" sid="wiki01023690-01" id="16"/><用言:形><時制:非過去>
+最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 15D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 15D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 16D
-最 さい 最 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ガス" sid="wiki01023690-00-02" id="1"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="2"/>
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
+最 さい 最 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ガス" sid="wiki01023690-00-02" id="1"/><rel type="=" target="会社" sid="wiki01023690-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,161 +1,161 @@
 # S-ID:wiki00265144-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/12/14 MEMO:
 * 5D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D
-会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-ディー でぃー ディー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <体言>
+会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+ディー でぃー ディー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-エヌ えぬ エヌ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <体言>
+エヌ えぬ エヌ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:株式会社ディー・エヌ・エー>
-エー えー エー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言><NE:ORGANIZATION:株式会社ディー・エヌ・エー>
+エー えー エー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/><体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="東京都" sid="wiki00265144-00-01" id="5"/><NE:LOCATION:東京都渋谷区>
-渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <rel type="ノ？" target="東京都" sid="wiki00265144-00-01" id="5"/><体言><NE:LOCATION:東京都渋谷区>
+渋谷 しぶや 渋谷 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ノ" target="企業" sid="wiki00265144-00-01" id="12"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="企業" sid="wiki00265144-00-01" id="12"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ガ" target="企業" sid="wiki00265144-00-01" id="12"/><rel type="ヲ" target="本社" sid="wiki00265144-00-01" id="7"/><rel type="ニ" target="渋谷区" sid="wiki00265144-00-01" id="6"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 12D <rel type="ガ" target="企業" sid="wiki00265144-00-01" id="12"/><rel type="ヲ" target="本社" sid="wiki00265144-00-01" id="7"/><rel type="ニ" target="渋谷区" sid="wiki00265144-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 12D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 12D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D
-インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="企業" sid="wiki00265144-00-01" id="12"/><rel type="ニ" target="インターネット" sid="wiki00265144-00-01" id="10"/>
-関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/><rel type="=構" target="エー" sid="wiki00265144-00-01" id="4"/><memo text="CO"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="企業" sid="wiki00265144-00-01" id="12"/><rel type="ニ" target="インターネット" sid="wiki00265144-00-01" id="10"/><体言><非用言格解析:動>
+関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/><rel type="=構" target="エー" sid="wiki00265144-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00265144-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/02 MEMO:
 * 1D
 + 1D
-以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="=" target="エー" sid="wiki00265144-00-01" id="4"/><NE:ORGANIZATION:DeNA>
-DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="エー" sid="wiki00265144-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:DeNA>
+DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00265144-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/12/14 MEMO:
 * 2D
-+ 1D
-モバイル もばいる モバイル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="修飾" target="モバイル" sid="wiki00265144-01" id="0"/>
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="ゲーム" sid="wiki00265144-01" id="1"/>
-開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言>
+モバイル もばいる モバイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="修飾" target="モバイル" sid="wiki00265144-01" id="0"/><体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="ゲーム" sid="wiki00265144-01" id="1"/><体言><非用言格解析:動>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="ゲーム" sid="wiki00265144-01" id="1"/><rel type="ニ" target="不特定:人"/>
-配信 はいしん 配信 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="ゲーム" sid="wiki00265144-01" id="1"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
+配信 はいしん 配信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 5D
-主 しゅ 主 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="主" sid="wiki00265144-01" id="4"/><rel type="ノ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="=構" target="開発" sid="wiki00265144-01" id="2"/><rel type="=構" mode="AND" target="配信" sid="wiki00265144-01" id="3"/>
-業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL
+主 しゅ 主 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="主" sid="wiki00265144-01" id="4"/><rel type="ノ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="=構" target="開発" sid="wiki00265144-01" id="2"/><rel type="=構" mode="AND" target="配信" sid="wiki00265144-01" id="3"/><体言>
+業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 13D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="開発" sid="wiki00265144-01" id="2"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00265144-01" id="3"/><rel type="ト" target="業" sid="wiki00265144-01" id="5"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 13D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="開発" sid="wiki00265144-01" id="2"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00265144-01" id="3"/><rel type="ト" target="業" sid="wiki00265144-01" id="5"/><用言:動><節-主辞><節-区切>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 つつ つつ つつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 8D
-SNS えすえぬえす SNS 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="SNS" sid="wiki00265144-01" id="7"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <体言>
+SNS えすえぬえす SNS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="SNS" sid="wiki00265144-01" id="7"/><体言><非用言格解析:動>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 11D
-電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
-商 しょう 商 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="電子" sid="wiki00265144-01" id="9"/><rel type="ニツイテ" target="商" sid="wiki00265144-01" id="10"/><rel type="ト" target="不特定:人"/>
-取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ニツイテ" target="取引" sid="wiki00265144-01" id="11"/><rel type="ニ" target="不特定:人"/>
-サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <体言>
+電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言>
+商 しょう 商 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="電子" sid="wiki00265144-01" id="9"/><rel type="ニツイテ" target="商" sid="wiki00265144-01" id="10"/><rel type="ト" target="不特定:人"/><体言><非用言格解析:動>
+取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ニツイテ" target="取引" sid="wiki00265144-01" id="11"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
+サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="運営" sid="wiki00265144-01" id="8"/><rel type="ヲ" mode="AND" target="サービスなど" sid="wiki00265144-01" id="12"/>
-行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ヲ" target="運営" sid="wiki00265144-01" id="8"/><rel type="ヲ" mode="AND" target="サービスなど" sid="wiki00265144-01" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00265144-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/14 MEMO:
 * 6D
 + 12D
-また また また 副詞 8 * 0 * 0 * 0 NIL
+また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ノ" target="エー" sid="wiki00265144-00-01" id="4"/>
-傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="エー" sid="wiki00265144-00-01" id="4"/><体言>
+傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="プロ" sid="wiki00265144-02" id="2"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="プロ" sid="wiki00265144-02" id="2"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 6D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/>
-横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="DeNA" sid="wiki00265144-00-02" id="1"/>
-DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11P <rel type="修飾" target="野球" sid="wiki00265144-02" id="3"/><NE:ORGANIZATION:横浜DeNAベイスターズ>
-ベイスターズ べいすたーず ベイスターズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/><体言>
+横浜 よこはま 横浜 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <rel type="=" target="DeNA" sid="wiki00265144-00-02" id="1"/><体言>
+DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11P <rel type="修飾" target="野球" sid="wiki00265144-02" id="3"/><体言><NE:ORGANIZATION:横浜DeNAベイスターズ>
+ベイスターズ べいすたーず ベイスターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="プロ" sid="wiki00265144-02" id="7"/>
-バスケットボール ばすけっとぼーる バスケットボール 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="プロ" sid="wiki00265144-02" id="7"/><体言>
+バスケットボール ばすけっとぼーる バスケットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/>
-川崎 かわさき 川崎 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D
-ブレイブ ぶれいぶ ブレイブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <rel type="修飾" target="バスケットボール" sid="wiki00265144-02" id="8"/><NE:ORGANIZATION:川崎ブレイブサンダース>
-サンダース さんだーす サンダース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 11D <rel type="ノ？" target="日本" sid="wiki00265144-00-01" id="9"/><体言>
+川崎 かわさき 川崎 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11D <体言>
+ブレイブ ぶれいぶ ブレイブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12D <rel type="修飾" target="バスケットボール" sid="wiki00265144-02" id="8"/><体言><NE:ORGANIZATION:川崎ブレイブサンダース>
+サンダース さんだーす サンダース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ニ" target="傘下" sid="wiki00265144-02" id="1"/><rel type="ヲ" target="サンダース" sid="wiki00265144-02" id="11"/><rel type="ヲ" mode="AND" target="ベイスターズ" sid="wiki00265144-02" id="6"/>
-保有 ほゆう 保有 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ニ" target="傘下" sid="wiki00265144-02" id="1"/><rel type="ヲ" target="サンダース" sid="wiki00265144-02" id="11"/><rel type="ヲ" mode="AND" target="ベイスターズ" sid="wiki00265144-02" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
+保有 ほゆう 保有 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00265144-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 2D
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="ガ" target="日経" sid="wiki00265144-03" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00265144-03" id="2"/>
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <rel type="修飾" target="平均" sid="wiki00265144-03" id="1"/><rel type="ノ？" target="日経" sid="wiki00265144-03" id="0"/><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="ガ" target="日経" sid="wiki00265144-03" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00265144-03" id="2"/><体言><非用言格解析:動>
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 4D <rel type="修飾" target="平均" sid="wiki00265144-03" id="1"/><rel type="ノ？" target="日経" sid="wiki00265144-03" id="0"/><体言><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="銘柄" sid="wiki00265144-03" id="4"/><rel type="ヲ" target="株価" sid="wiki00265144-03" id="2"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="=≒" target="エー" sid="wiki00265144-00-01" id="4"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="銘柄" sid="wiki00265144-03" id="4"/><rel type="ヲ" target="株価" sid="wiki00265144-03" id="2"/><体言><非用言格解析:動>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=≒" target="エー" sid="wiki00265144-00-01" id="4"/><体言>
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ノ" target="銘柄" sid="wiki00265144-03" id="4"/><rel type="=構" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00265144-03" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="ノ" target="銘柄" sid="wiki00265144-03" id="4"/><rel type="=構" target="エー" sid="wiki00265144-00-01" id="4"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00265144-03" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

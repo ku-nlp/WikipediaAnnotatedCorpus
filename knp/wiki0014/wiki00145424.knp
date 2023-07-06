@@ -1,71 +1,71 @@
 # S-ID:wiki00145424-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/09 MEMO:
 * 3D
-+ 3D
-はがき はがき はがき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+はがき はがき はがき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-手紙 てがみ 手紙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+手紙 てがみ 手紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="手紙" sid="wiki00145424-00-01" id="1"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/>
-形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="手紙" sid="wiki00145424-00-01" id="1"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/><体言>
+形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="ノ" target="形態" sid="wiki00145424-00-01" id="2"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="=構" mode="AND" target="形態" sid="wiki00145424-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="ノ" target="形態" sid="wiki00145424-00-01" id="2"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="=構" mode="AND" target="形態" sid="wiki00145424-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00145424-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/09 MEMO:
 * 1P
-+ 1P <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/>
-葉書 はがき 葉書 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><体言>
+葉書 はがき 葉書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/>
-端書 はがき 端書 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><体言>
+端書 はがき 端書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <NE:OPTIONAL:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <体言><NE:OPTIONAL:英>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="デ" target="英" sid="wiki00145424-00-02" id="2"/>
-Postcard Postcard Postcard 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="デ" target="英" sid="wiki00145424-00-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+Postcard Postcard Postcard 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00145424-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/09 MEMO:
 * 1D
-+ 1D
-郵便 ゆうびん 郵便 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="修飾" target="郵便" sid="wiki00145424-01" id="0"/>
-葉書 はがき 葉書 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+郵便 ゆうびん 郵便 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="修飾" target="郵便" sid="wiki00145424-01" id="0"/><体言>
+葉書 はがき 葉書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="ノ" target="葉書" sid="wiki00145424-01" id="1"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/><memo text="CO"/>
-略 りゃく 略 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="ノ" target="葉書" sid="wiki00145424-01" id="1"/><rel type="=構" target="はがき" sid="wiki00145424-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+略 りゃく 略 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00145424-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/08/09 MEMO:
 * 2D
-+ 2D
-片仮名 かたかな 片仮名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+片仮名 かたかな 片仮名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/>
++ 2D <rel type="=" target="はがき" sid="wiki00145424-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ハガキ はがき ハガキ 名詞 6 普通名詞 1 * 0 * 0 NIL
+ハガキ はがき ハガキ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ト" target="ハガキ" sid="wiki00145424-02" id="1"/><rel type="ヲ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="外の関係" target="場合" sid="wiki00145424-02" id="3"/><rel type="デ" target="片仮名" sid="wiki00145424-02" id="0"/>
-書く かく 書く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ト" target="ハガキ" sid="wiki00145424-02" id="1"/><rel type="ヲ" target="はがき" sid="wiki00145424-00-01" id="0"/><rel type="外の関係" target="場合" sid="wiki00145424-02" id="3"/><rel type="デ" target="片仮名" sid="wiki00145424-02" id="0"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞>
+書く かく 書く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 4D <rel type="トイウ" target="書く" sid="wiki00145424-02" id="2"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 4D <rel type="トイウ" target="書く" sid="wiki00145424-02" id="2"/><体言><節-区切>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="場合" sid="wiki00145424-02" id="3"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="場合" sid="wiki00145424-02" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

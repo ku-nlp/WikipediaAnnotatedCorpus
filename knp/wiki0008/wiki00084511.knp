@@ -1,210 +1,206 @@
-# S-ID:wiki00084511-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00084511-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/14 MEMO:
 * 1P
-+ 1D
-スロバキア すろばきあ スロバキア 名詞 6 地名 4 * 0 * 0 NIL
-+ 2P
++ 1D <NE:OPTIONAL:スロバキア><NE-OPTIONAL:LOCATION,NONE:0>
+スロバキア すろばきあ スロバキア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3P <rel type="ノ？" target="スロバキア" sid="wiki00084511-00" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 2D
-+ 11D
-スロヴァキア スロヴァキア スロヴァキア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="語" sid="wiki00084511-00" id="1"/>
+* 5D
++ 3D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="0"/><NE:OPTIONAL:スロヴァキア><NE-OPTIONAL:LOCATION,NONE:0>
+スロヴァキア すろゔぁきあ スロヴァキア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 12D <rel type="=" target="語" sid="wiki00084511-00" id="1"/><rel type="ノ？" target="スロヴァキア" sid="wiki00084511-00" id="2"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="0"/><NE:LOCATION:スロバキア>
++ 5D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="0"/><NE:LOCATION:スロバキア>
 スロバキア すろばきあ スロバキア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 6D
-人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ？" target="スロバキア" sid="wiki00084511-00" id="4"/>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4P
-+ 11D
+* 5P
++ 7D
 典型 てんけい 典型 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 8P <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="ノ" target="人" sid="wiki00084511-00" id="5"/><rel type="=" target="語" sid="wiki00084511-00" id="3"/>
++ 12P <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="ノ" target="人" sid="wiki00084511-00" id="5"/><rel type="=構" target="語" sid="wiki00084511-00" id="3"/><rel type="修飾" target="典型的" sid="wiki00084511-00" id="6"/>
 母語 ぼご 母語 名詞 6 普通名詞 1 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 9D <NE:LOCATION:スロバキア>
-スロバキア すろばきあ スロバキア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 11D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="0"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="4"/>
+スロバキア すろばきあ スロバキア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 12D <rel type="=" target="スロバキア" sid="wiki00084511-00" id="4"/><NE:LOCATION:スロバキア共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 12D
 公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="=" target="母語" sid="wiki00084511-00" id="7"/>
++ -1D <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="修飾" target="公用" sid="wiki00084511-00" id="11"/><rel type="=構" target="語" sid="wiki00084511-00" id="3"/><rel type="ノ" target="国" sid="wiki00084511-00" id="10"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084511-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00084511-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/14 MEMO:
 * 1P
-+ 1D <NE:LOCATION:インド>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5P <rel type="ノ" target="ヨーロッパ" sid="wiki00084511-01" id="1"/>
++ 2D <NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5P <rel type="=≒" target="語" sid="wiki00084511-00" id="1"/><rel type="ノ？" target="インド" sid="wiki00084511-01" id="0"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00084511-01" id="1"/>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-スラヴ スラヴ スラヴ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
++ 4D <NE:OPTIONAL:スラヴ><NE-OPTIONAL:NONE:0>
+スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="スラヴ" sid="wiki00084511-01" id="3"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="語" sid="wiki00084511-01" id="4"/>
++ 6D <rel type="ノ" target="語" sid="wiki00084511-01" id="4"/><rel type="ノ" mode="AND" target="語族" sid="wiki00084511-01" id="2"/><rel type="=≒" target="語" sid="wiki00084511-00" id="1"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="ニ" target="派" sid="wiki00084511-01" id="5"/>
++ -1D <rel type="ニ" target="派" sid="wiki00084511-01" id="5"/><rel type="ニ" mode="AND" target="語族" sid="wiki00084511-01" id="2"/><rel type="ガ" target="語" sid="wiki00084511-00" id="1"/>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084511-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:74.00000
-* 4D
-+ 1D
-スラヴ スラヴ スラヴ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
+# S-ID:wiki00084511-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:74.00000 MOD:2023/06/14 MEMO:
+* 5D
++ 1D <NE:OPTIONAL:スラヴ><NE-OPTIONAL:NONE:0>
+スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="スラヴ" sid="wiki00084511-02" id="0"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="語" sid="wiki00084511-02" id="1"/><rel type="=" target="派" sid="wiki00084511-01" id="5"/>
++ 12D <rel type="ノ" target="語" sid="wiki00084511-02" id="1"/><rel type="=" target="派" sid="wiki00084511-01" id="5"/>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 4D
-チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL
-+ 6P
++ 4D <NE:OPTIONAL:チェコ><NE-OPTIONAL:LOCATION,NONE:0>
+チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6P <rel type="ノ？" target="チェコ" sid="wiki00084511-02" id="3"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D
-ポーランド ぽーらんど ポーランド 名詞 6 地名 4 * 0 * 0 NIL
-+ 7D
++ 6D <NE:OPTIONAL:ポーランド><NE-OPTIONAL:LOCATION,NONE:0>
+ポーランド ぽーらんど ポーランド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <rel type="ノ？" target="ポーランド" sid="wiki00084511-02" id="5"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 4D
-+ 11D <rel type="ガ" target="語" sid="wiki00084511-00" id="1"/>
+* 5D
++ 12D <rel type="ト" target="語" sid="wiki00084511-02" id="4"/><rel type="ト" mode="AND" target="語など" sid="wiki00084511-02" id="6"/><rel type="ガ" target="語" sid="wiki00084511-02" id="21"/>
 同様 どうよう 同様だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+* 5D
 + 9D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D
-スラヴ スラヴ スラヴ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="スラヴ" sid="wiki00084511-02" id="9"/>
-語群 ごぐん 語群 名詞 6 普通名詞 1 * 0 * 0 NIL
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 10D <rel type="修飾" target="西" sid="wiki00084511-02" id="8"/><rel type="=≒" target="スラヴ" sid="wiki00084511-02" id="0"/><NE:OPTIONAL:西スラヴ><NE-OPTIONAL:NONE:0>
+スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 11D <rel type="ノ？" target="スラヴ" sid="wiki00084511-02" id="9"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="派" sid="wiki00084511-02" id="2"/><rel type="ノ" mode="AND" target="語" sid="wiki00084511-02" id="10"/><rel type="=≒" target="語" sid="wiki00084511-00" id="1"/>
+群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 7P
-+ 15P <rel type="ガ" target="語" sid="wiki00084511-00" id="3"/><rel type="ニ" target="語群" sid="wiki00084511-02" id="10"/>
+* 17D
++ 27P <rel type="ニ" target="群" sid="wiki00084511-02" id="11"/><rel type="ガ" target="語" sid="wiki00084511-02" id="21"/>
 属し ぞくし 属す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 7D
-+ 15D
+* 8D
++ 16D
 とりわけ とりわけ とりわけ 副詞 8 * 0 * 0 * 0 NIL
-* 7D
-+ 14D
-チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL
-+ 15D
+* 8D
++ 15D <NE:OPTIONAL:チェコ><NE-OPTIONAL:LOCATION,NONE:0>
+チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 16D <rel type="=" target="語" sid="wiki00084511-02" id="4"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 16P
-+ 28P <rel type="ガ" target="語" sid="wiki00084511-02" id="21"/><rel type="ニ" target="語" sid="wiki00084511-02" id="14"/>
+* 17D
++ 27P <rel type="ガ" target="語" sid="wiki00084511-02" id="21"/><rel type="ニ" target="語" sid="wiki00084511-02" id="15"/>
 近く ちかく 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 9D
-+ 17D
-チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL
-+ 19D <rel type="=" target="語" sid="wiki00084511-02" id="14"/>
+* 10D
++ 18D <NE:OPTIONAL:チェコ><NE-OPTIONAL:LOCATION,NONE:0>
+チェコ ちぇこ チェコ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 19D <rel type="=" target="語" sid="wiki00084511-02" id="15"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 11P
-+ 19D <rel type="ガ" target="者" sid="wiki00084511-02" id="19"/><rel type="ヲ" target="語" sid="wiki00084511-02" id="17"/>
-話 はなし 話 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 23P
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+* 12P
++ 22P <rel type="修飾" target="語" sid="wiki00084511-02" id="18"/>
+話者 わしゃ 話者 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
-+ 21D
-スロヴァキア スロヴァキア スロヴァキア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D <rel type="=" target="語" sid="wiki00084511-00" id="12"/>
+* 12D
++ 21D <NE:OPTIONAL:スロヴァキア><NE-OPTIONAL:LOCATION,NONE:0>
+スロヴァキア すろゔぁきあ スロヴァキア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 22D <rel type="=" target="語" sid="wiki00084511-00" id="3"/><rel type="ノ？" target="スロヴァキア" sid="wiki00084511-02" id="20"/>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 15D
-+ 23D <rel type="ガ" target="者" sid="wiki00084511-02" id="23"/><rel type="ヲ" target="語" sid="wiki00084511-02" id="21"/>
-話 はなし 話 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 27D
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+* 16D
++ 26D <rel type="修飾" target="語" sid="wiki00084511-02" id="21"/>
+話者 わしゃ 話者 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 13D
-+ 25D
+* 14D
++ 24D
 互い たがい 互い 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 15D
-+ 27D <rel type="=" target="語" sid="wiki00084511-00" id="12"/>
+* 16D
++ 26D <rel type="ノ？" target="互い" sid="wiki00084511-02" id="23"/><rel type="=" target="語" sid="wiki00084511-02" id="18"/><rel type="=" mode="AND" target="語" sid="wiki00084511-02" id="21"/><memo text="＝格の入れ方？"/>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 15D
-+ 27D <rel type="ガ" target="者" sid="wiki00084511-02" id="19"/>
+* 16D
++ 26D <rel type="ガ" target="話者" sid="wiki00084511-02" id="22"/><rel type="ト" target="話者" sid="wiki00084511-02" id="19"/><rel type="デ" target="言語" sid="wiki00084511-02" id="24"/><memo text="ガト交替可"/>
 会話 かいわ 会話 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 16D
-+ 28D <rel type="ガ" target="会話" sid="wiki00084511-02" id="26"/><rel type="ガ２" target="者" sid="wiki00084511-02" id="23"/>
+* 17D
++ 27D <rel type="ガ" target="会話" sid="wiki00084511-02" id="25"/><rel type="外の関係" target="程" sid="wiki00084511-02" id="27"/><rel type="デ" target="言語" sid="wiki00084511-02" id="24"/>
 成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00084511-02" id="21"/>
++ -1D <rel type="ガ" target="不特定:状況"/><rel type="トイウ" target="成立する" sid="wiki00084511-02" id="26"/>
 程 ほど 程 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084511-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000
-* 6D
+# S-ID:wiki00084511-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2023/06/14 MEMO:
+* 4D
 + 1D
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="言語" sid="wiki00084511-03" id="0"/>
++ 10D <rel type="ノ？" target="言語" sid="wiki00084511-03" id="0"/><rel type="ノ" target="語" sid="wiki00084511-00" id="1"/>
 コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 3D
+ISO あいえすおー/いそ/あいそ ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 4D
-639 639 639 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
+639 ろっぴゃくさんじゅうきゅう/ろっぴゃくさんじゅうく/ろくさんきゅう 639 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+- の - 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D <NE:ARTIFACT:ISO　639-1>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 4D
-+ 6D <rel type="=" target="コード" sid="wiki00084511-03" id="1"/>
-sk sk sk 名詞 6 組織名 6 * 0 * 0 NIL
+* 4P
++ 10P <rel type="デ" target="1" sid="wiki00084511-03" id="4"/><rel type="ガ" target="コード" sid="wiki00084511-03" id="1"/><rel type="=構" target="コード" sid="wiki00084511-03" id="0"/><rel type="=" mode="AND" target="語" sid="wiki00084511-00" id="1"/><memo text="CO　skの品詞:普通名詞？記号？"/>
+sk sk sk 名詞 6 普通名詞 1 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 5D
-+ 7D
-ISO ISO ISO 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 6D
-+ 8D
-639 639 639 名詞 6 数詞 7 * 0 * 0 NIL
-+ 9D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+* 4D
++ 7D <rel type="=" target="ISO" sid="wiki00084511-03" id="2"/>
+ISO あいえすおー/いそ/あいそ ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D <rel type="=" target="639" sid="wiki00084511-03" id="3"/>
+639 ろっぴゃくさんじゅうきゅう/ろっぴゃくさんじゅうく/ろくさんきゅう 639 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+- の - 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 10D <NE:ARTIFACT:ISO　639-2>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 10D
-SLO SLO SLO 名詞 6 組織名 6 * 0 * 0 NIL
-+ 11D
++ 10P <rel type="=構" target="コード" sid="wiki00084511-03" id="1"/><rel type="=" mode="AND" target="語" sid="wiki00084511-00" id="1"/><memo text="品詞:普通名詞？記号？"/>
+SLO SLO SLO 名詞 6 普通名詞 1 * 0 * 0 NIL
 / / / 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="639" sid="wiki00084511-03" id="7"/>
-SLK SLK SLK 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="2" sid="wiki00084511-03" id="8"/><rel type="ガ" target="コード" sid="wiki00084511-03" id="1"/><rel type="=構" target="コード" sid="wiki00084511-03" id="1"/><rel type="=" mode="AND" target="語" sid="wiki00084511-00" id="1"/><memo text="CO　品詞:普通名詞？記号？"/>
+SLK SLK SLK 名詞 6 普通名詞 1 * 0 * 0 NIL
 . . . 特殊 1 句点 1 * 0 * 0 NIL
 EOS

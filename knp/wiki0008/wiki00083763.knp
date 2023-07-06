@@ -1,12 +1,12 @@
-# S-ID:wiki00083763-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000
+# S-ID:wiki00083763-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/06/13 MEMO:
 * 13D
 + 15D
 家畜 かちく 家畜 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 4D
-+ 4D
+* 11D
++ 13D
 ヒト ひと ヒト 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -17,32 +17,31 @@
 生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="ヒト" sid="wiki00083763-00-01" id="1"/><rel type="ニ" target="生活" sid="wiki00083763-00-01" id="3"/>
++ 5D <rel type="ニ" target="生活" sid="wiki00083763-00-01" id="3"/><rel type="ガ" target="もの" sid="wiki00083763-00-01" id="8"/><rel type="外の関係" target="よう" sid="wiki00083763-00-01" id="5"/>
 役立つ やくだつ 役立つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 11D
-+ 13D
++ 13D <rel type="ノ" target="役立つ" sid="wiki00083763-00-01" id="4"/>
 よう よう よう 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
 + 7D
 野生 やせい 野生 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="もの" sid="wiki00083763-00-01" id="8"/>
++ 8D <rel type="ガ" target="もの" sid="wiki00083763-00-01" id="8"/><rel type="修飾" target="野生" sid="wiki00083763-00-01" id="6"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 * 8D
-+ 9D <rel type="=" target="動物" sid="wiki00083763-00-01" id="7"/>
++ 9D <rel type="=構" target="動物" sid="wiki00083763-00-01" id="7"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
 + 10P <rel type="ガ" target="ヒト" sid="wiki00083763-00-01" id="1"/><rel type="ヲ" target="もの" sid="wiki00083763-00-01" id="8"/>
-馴 なれ 馴 名詞 6 普通名詞 1 * 0 * 0 NIL
-化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+馴化 じゅんか 馴化 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10P
 + 11P <rel type="ガ" target="ヒト" sid="wiki00083763-00-01" id="1"/><rel type="ヲ" target="もの" sid="wiki00083763-00-01" id="8"/>
-飼養 飼養 飼養 名詞 6 普通名詞 1 * 0 * 0 NIL
+飼養 しよう 飼養 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
@@ -52,30 +51,30 @@
 せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 13D
++ 13D <rel type="ノ" target="もの" sid="wiki00083763-00-01" id="8"/>
 品種 ひんしゅ 品種 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ガ" target="ヒト" sid="wiki00083763-00-01" id="1"/><rel type="ヲ" target="品種" sid="wiki00083763-00-01" id="12"/>
++ 14D <rel type="ガ" target="ヒト" sid="wiki00083763-00-01" id="1"/><rel type="ヲ" target="品種" sid="wiki00083763-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00083763-00-01" id="14"/>
 改良 かいりょう 改良 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 13D
-+ 15D <rel type="=" target="家畜" sid="wiki00083763-00-01" id="0"/>
++ 15D <rel type="=構" target="家畜" sid="wiki00083763-00-01" id="0"/><rel type="トイウ" target="改良した" sid="wiki00083763-00-01" id="13"/><rel type="トイウ" mode="AND" target="繁殖させ" sid="wiki00083763-00-01" id="11"/><rel type="トイウ" mode="AND" target="飼養し" sid="wiki00083763-00-01" id="10"/><rel type="トイウ" mode="AND" target="馴化させ" sid="wiki00083763-00-01" id="9"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00083763-00-01" id="14"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00083763-00-01" id="14"/><rel type="ト" target="家畜" sid="wiki00083763-00-01" id="0"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083763-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D <rel type="=" target="動物" sid="wiki00083763-00-01" id="7"/>
+# S-ID:wiki00083763-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/10 MEMO:
+* 1P
++ 1P <rel type="=" target="家畜" sid="wiki00083763-00-01" id="0"/>
 かちく かちく かちく 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D
-livestock livestock livestock 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="家畜" sid="wiki00083763-00-01" id="0"/>
+livestock livestock livestock 名詞 6 普通名詞 1 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00083763-00-03 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
@@ -83,34 +82,34 @@ EOS
 + -1D <rel type="=" target="ヒト" sid="wiki00083763-00-01" id="1"/>
 人間 にんげん 人間 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083763-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
-* 1D
+# S-ID:wiki00083763-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/06/13 MEMO:
+* 1P
 + 1D
 哺乳 ほにゅう 哺乳 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="哺乳" sid="wiki00083763-01" id="0"/>
++ 2P <rel type="ノ" target="哺乳" sid="wiki00083763-01" id="0"/><rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/><memo text="=格の入れ方これでいい？"/>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D
++ 3P <rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/>
 鳥類 ちょうるい 鳥類 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
++ 4P <rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/>
 爬虫類 はちゅうるい 爬虫類 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
++ 5P <rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/>
 両生類 りょうせいるい 両生類 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/>
 魚類 ぎょるい 魚類 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="ノ" target="魚類" sid="wiki00083763-01" id="5"/>
++ 11D <rel type="ノ" target="魚類" sid="wiki00083763-01" id="5"/><rel type="ノ" mode="AND" target="両生類" sid="wiki00083763-01" id="4"/><rel type="ノ" mode="AND" target="爬虫類" sid="wiki00083763-01" id="3"/><rel type="ノ" mode="AND" target="鳥類" sid="wiki00083763-01" id="2"/><rel type="ノ" mode="AND" target="類" sid="wiki00083763-01" id="1"/>
 ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 8D
 無 む 無 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
 脊椎 せきつい 脊椎 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="修飾" target="無脊椎" sid="wiki00083763-01" id="7"/><rel type="=構≒" target="家畜" sid="wiki00083763-00-01" id="0"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
@@ -121,7 +120,7 @@ EOS
 範疇 はんちゅう 範疇 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="動物" sid="wiki00083763-01" id="8"/><rel type="ニ" target="範疇" sid="wiki00083763-01" id="10"/>
++ -1D <rel type="ニ" target="範疇" sid="wiki00083763-01" id="10"/><rel type="ガ" target="動物" sid="wiki00083763-01" id="8"/><rel type="ガ" mode="AND" target="類" sid="wiki00083763-01" id="1"/><rel type="ガ" mode="AND" target="鳥類" sid="wiki00083763-01" id="2"/><rel type="ガ" mode="AND" target="爬虫類" sid="wiki00083763-01" id="3"/><rel type="ガ" mode="AND" target="両生類" sid="wiki00083763-01" id="4"/><rel type="ガ" mode="AND" target="魚類" sid="wiki00083763-01" id="5"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

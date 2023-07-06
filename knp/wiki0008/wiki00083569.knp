@@ -1,19 +1,19 @@
-# S-ID:wiki00083569-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
-* 3D
-+ 4D <NE:LOCATION:バーミンガム>
-バーミンガム バーミンガム バーミンガム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+# S-ID:wiki00083569-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/12 MEMO:
+* 4D
++ 6D <rel type="ノ？" target="ミッドランズ" sid="wiki00083569-00-01" id="3"/><NE:LOCATION:バーミンガム>
+バーミンガム ばーみんがむ バーミンガム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2P
-+ 3P <NE:LOCATION:イングランド>
-イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL <NE:LOCATION:middle>
 * 3D
-+ 3D <NE:LOCATION:ウェスト>
-ウェスト ウェスト ウェスト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-ミッドランズ ミッドランズ ミッドランズ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D
+ウェスト うぇすと ウェスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="ノ？" target="イングランド" sid="wiki00083569-00-01" id="1"/><memo text="品詞、C？"/><NE:LOCATION:イングランド、ウェスト・ミッドランズ>
+ミッドランズ みっどらんず ミッドランズ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -23,30 +23,31 @@
 * -1D
 + 6D
 工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="=" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
++ -1D <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="=構" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="修飾" target="工業" sid="wiki00083569-00-01" id="5"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083569-00-02 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00083569-00-02 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="ミッドランズ" sid="wiki00083569-00-01" id="3"/>
-West West West 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Midlands Midlands Midlands 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D <rel type="=" target="ウェスト" sid="wiki00083569-00-01" id="2"/>
+West West West 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="ミッドランズ" sid="wiki00083569-00-01" id="3"/><NE:LOCATION:West　Midlands>
+Midlands Midlands Midlands 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
-# S-ID:wiki00083569-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00083569-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/05/08 MEMO:
 * 1D
 + 1D <rel type="ノ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00083569-01" id="0"/><rel type="=" target="人口" sid="wiki00083569-01" id="0"/>
-114万 114万 114万 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="人口" sid="wiki00083569-01" id="0"/><rel type="=構" target="人口" sid="wiki00083569-01" id="0"/><memo text="CO"/>
+114万 ひゃくじゅうよんまん 114万 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083569-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000
+# S-ID:wiki00083569-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/06/12 MEMO:
 * 1D
 + 1D <rel type="ノ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
 近郊 きんこう 近郊 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -55,132 +56,130 @@ EOS
 + 3D <rel type="ガ" target="地域" sid="wiki00083569-02" id="3"/><rel type="ヲ" target="近郊" sid="wiki00083569-02" id="0"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 3D
-+ 3D
++ 3D <rel type="=≒" target="都市" sid="wiki00083569-00-01" id="6"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 4D
++ 4D <rel type="ヲフクメテ" target="近郊" sid="wiki00083569-02" id="0"/><rel type="修飾" target="都市的" sid="wiki00083569-02" id="2"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="地域" sid="wiki00083569-02" id="3"/>
++ 5D <rel type="ノ" target="地域" sid="wiki00083569-02" id="3"/><rel type="=≒" target="人口" sid="wiki00083569-01" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 6P
-+ 8P <rel type="ガ" target="人口" sid="wiki00083569-02" id="4"/><rel type="=" target="人口" sid="wiki00083569-02" id="4"/>
-229万 229万 229万 名詞 6 数詞 7 * 0 * 0 NIL
+* 5P
++ 8P <rel type="ガ" target="人口" sid="wiki00083569-02" id="4"/><rel type="=構" target="人口" sid="wiki00083569-02" id="4"/>
+229万 にひゃくにじゅうきゅうまん 229万 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
+* -1D
 + 7D
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 + 8D <rel type="=" target="イングランド" sid="wiki00083569-00-01" id="1"/>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
++ -1D <rel type="ガ" target="人口" sid="wiki00083569-02" id="4"/><rel type="ガ" mode="？" target="229万人" sid="wiki00083569-02" id="5"/><rel type="デ" target="国" sid="wiki00083569-02" id="7"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083569-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:126.00000
-* 6D
-+ 7D <rel type="=" target="都市" sid="wiki00083569-00-01" id="6"/>
+# S-ID:wiki00083569-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:126.00000 MOD:2023/06/13 MEMO:
+* 5D
++ 7D <rel type="ノ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
 地元 じもと 地元 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 2A
-+ 2A <rel type="ノ" target="イギリス" sid="wiki00083569-03" id="18"/>
+* 2D
++ 2D <rel type="ノ" target="イギリス" sid="wiki00083569-03" id="18"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 3D
-+ 3D <rel type="=" target="首都" sid="wiki00083569-03" id="1"/><NE:LOCATION:ロンドン>
++ 3D <rel type="修飾" target="首都" sid="wiki00083569-03" id="1"/><rel type="=構" target="首都" sid="wiki00083569-03" id="1"/><NE:LOCATION:ロンドン>
 ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
+* 4D
 + 6D <rel type="ガ" target="都市" sid="wiki00083569-03" id="6"/><rel type="ニ" target="ロンドン" sid="wiki00083569-03" id="2"/>
 次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
-* 5D
+* 4D
 + 6D
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 6D
+* 5D
 + 6D
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 7D <rel type="=" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
++ 7D <rel type="=構" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="ニツヅイテ" target="ロンドン" sid="wiki00083569-03" id="2"/><rel type="修飾" target="大" sid="wiki00083569-03" id="5"/><rel type="修飾" mode="AND" target="第2" sid="wiki00083569-03" id="4"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
-+ 17D <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="ニ" target="不特定:人"/>
+* 10D
++ 17D <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="都市" sid="wiki00083569-03" id="6"/><rel type="デ" target="地元" sid="wiki00083569-03" id="0"/>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 11D
+* 10D
 + 17D
 実際 じっさい 実際 副詞 8 * 0 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
+* 8D
 + 10D <rel type="=" target="首都" sid="wiki00083569-03" id="1"/><NE:LOCATION:ロンドン>
 ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 10D
-+ 16D <rel type="ガ" target="人口" sid="wiki00083569-03" id="13"/><rel type="ニ" target="ロンドン" sid="wiki00083569-03" id="9"/>
+* 9D
++ 16D <rel type="ニ" target="ロンドン" sid="wiki00083569-03" id="9"/><rel type="ガ" target="人口" sid="wiki00083569-03" id="13"/><rel type="ガ" mode="AND" target="人口" sid="wiki00083569-03" id="16"/>
 次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
-* 11D
-+ 12D
+* 10D
++ 12D <rel type="=" target="バーミンガム" sid="wiki00083569-00-01" id="0"/>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D <rel type="ノ" target="市" sid="wiki00083569-03" id="11"/>
 域 いき 域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="域" sid="wiki00083569-03" id="12"/>
++ 16P <rel type="ノ" target="域" sid="wiki00083569-03" id="12"/><rel type="=" target="人口" sid="wiki00083569-01" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 15D
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 16D <rel type="ノ" target="都市" sid="wiki00083569-03" id="14"/>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ノ" target="圏" sid="wiki00083569-03" id="15"/>
++ 17D <rel type="ノ" target="圏" sid="wiki00083569-03" id="15"/><rel type="=" target="人口" sid="wiki00083569-02" id="4"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 20P
-+ 27P <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="ヲ" target="人口" sid="wiki00083569-03" id="13"/>
+* 19P
++ 27P <rel type="ガ" target="バーミンガム" sid="wiki00083569-00-01" id="0"/><rel type="ヲ" target="人口" sid="wiki00083569-03" id="13"/><rel type="ヲ" mode="AND" target="人口" sid="wiki00083569-03" id="16"/><rel type="ニツヅイテ" target="ロンドン" sid="wiki00083569-03" id="9"/>
 有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 13D
-+ 20D <NE:LOCATION:イギリス>
+* 12D
++ 20D <rel type="=≒" target="イングランド" sid="wiki00083569-00-01" id="1"/><NE:LOCATION:イギリス>
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 20D
+* 19D
 + 20D
-世論 せろん 世論 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 27D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世論" sid="wiki00083569-03" id="19"/>
+世論 せろん/よろん 世論 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 27D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世論" sid="wiki00083569-03" id="19"/><rel type="デ" target="イギリス" sid="wiki00083569-03" id="18"/>
 調査 ちょうさ 調査 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 17D
-+ 24D <NE:LOCATION:マンチェスター>
-マンチェスター マンチェスター マンチェスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
++ 24D <rel type="ノ？" target="イギリス" sid="wiki00083569-03" id="18"/><NE:LOCATION:マンチェスター>
+マンチェスター まんちぇすたー マンチェスター 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
 + 23D <rel type="=" target="第2" sid="wiki00083569-03" id="4"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 17D
-+ 24D <rel type="=" target="都市" sid="wiki00083569-03" id="6"/>
+* 16D
++ 24D <rel type="=" target="都市" sid="wiki00083569-03" id="6"/><rel type="=構" mode="AND" target="マンチェスター" sid="wiki00083569-03" id="21"/><rel type="修飾" target="第2" sid="wiki00083569-03" id="22"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 18D
-+ 25D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="マンチェスター" sid="wiki00083569-03" id="21"/>
+* 17D
++ 25D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="マンチェスター" sid="wiki00083569-03" id="21"/><rel type="ト" target="都市" sid="wiki00083569-03" id="23"/><rel type="外の関係" target="意見" sid="wiki00083569-03" id="25"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* 19D
-+ 26D
+* 18D
++ 26D <rel type="ニツイテ" target="都市" sid="wiki00083569-03" id="23"/><rel type="トイウ" target="する" sid="wiki00083569-03" id="24"/>
 意見 いけん 意見 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 20D
+* 19D
 + 27D <rel type="ノ" target="意見" sid="wiki00083569-03" id="25"/>
 ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL

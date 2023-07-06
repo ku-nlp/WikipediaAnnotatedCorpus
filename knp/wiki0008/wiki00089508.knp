@@ -1,7 +1,7 @@
-# S-ID:wiki00089508-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000
+# S-ID:wiki00089508-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2023/06/22 MEMO:
 * 8D
-+ 11D
-蘭学 らんがく 蘭学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <NE:OPTIONAL:蘭><NE-OPTIONAL:LOCATION,NONE:0>
+蘭学 らんがく 蘭学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
@@ -11,7 +11,7 @@
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <NE:LOCATION:オランダ>
++ 4D <rel type="ノ？" target="ヨーロッパ" sid="wiki00089508-00-01" id="7"/><rel type="=" target="蘭" sid="wiki00089508-00-01" id="0"/><NE:LOCATION:オランダ>
 オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -19,159 +19,157 @@
 通じて つうじて 通ずる 動詞 2 * 0 ザ変動詞 17 タ系連用テ形 14 NIL
 * 5D
 + 6D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="学問" sid="wiki00089508-00-01" id="8"/><rel type="ニ" target="日本" sid="wiki00089508-00-01" id="5"/>
++ 10D <rel type="ニ" target="日本" sid="wiki00089508-00-01" id="5"/><rel type="ガ" target="学問" sid="wiki00089508-00-01" id="8"/><rel type="ガ" mode="AND" target="文化" sid="wiki00089508-00-01" id="9"/><rel type="ガ" mode="AND" target="技術" sid="wiki00089508-00-01" id="10"/><rel type="ヲツウジテ" target="オランダ" sid="wiki00089508-00-01" id="3"/><rel type="時間" target="時代" sid="wiki00089508-00-01" id="2"/>
 入って はいって 入る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10 NIL
 * 7D
-+ 10D <NE:LOCATION:ヨーロッパ>
++ 10D <rel type="=≒" target="オランダ" sid="wiki00089508-00-01" id="3"/><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D
++ 9P <rel type="ノ？" target="ヨーロッパ" sid="wiki00089508-00-01" id="7"/><rel type="=≒" target="蘭学" sid="wiki00089508-00-01" id="0"/>
 学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D
++ 10P <rel type="ノ？" target="ヨーロッパ" sid="wiki00089508-00-01" id="7"/><rel type="=≒" target="蘭学" sid="wiki00089508-00-01" id="0"/>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="ノ？" target="ヨーロッパ" sid="wiki00089508-00-01" id="7"/><rel type="=≒" target="蘭学" sid="wiki00089508-00-01" id="0"/>
 技術 ぎじゅつ 技術 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="蘭学" sid="wiki00089508-00-01" id="0"/><rel type="ノ" target="学問" sid="wiki00089508-00-01" id="8"/><rel type="=" target="蘭学" sid="wiki00089508-00-01" id="0"/>
++ -1D <rel type="ガ" target="蘭学" sid="wiki00089508-00-01" id="0"/><rel type="ノ" target="学問" sid="wiki00089508-00-01" id="8"/><rel type="=構" target="蘭学" sid="wiki00089508-00-01" id="0"/><memo text="CO"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089508-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089508-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="総称" sid="wiki00089508-00-01" id="11"/>
-らんがく らんがく らんがく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="蘭学" sid="wiki00089508-00-01" id="0"/><NE:OPTIONAL:らん><NE-OPTIONAL:LOCATION,NONE:0>
+らんがく らんがく らんがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
-# S-ID:wiki00089508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000
+# S-ID:wiki00089508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 1D
-幕末 ばくまつ 幕末 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="時代" sid="wiki00089508-00-01" id="2"/><NE:DATE:幕末>
+幕末 ばくまつ 幕末 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 2D <rel type="ガ" target="日本" sid="wiki00089508-00-01" id="5"/>
++ 2D <rel type="ガ" target="日本" sid="wiki00089508-00-01" id="5"/><rel type="時間" target="幕末" sid="wiki00089508-01-01" id="0"/>
 開国 かいこく 開国 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 7D <rel type="ノ" target="開国" sid="wiki00089508-01-01" id="1"/>
 以後 いご 以後 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 4P
+* 4D
 + 4D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P <rel type="ノ" target="世界" sid="wiki00089508-01-01" id="3"/>
++ 7D <rel type="ノ" target="世界" sid="wiki00089508-01-01" id="3"/>
 各国 かっこく 各国 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D
++ 6D <rel type="ガ" target="日本" sid="wiki00089508-00-01" id="5"/><rel type="ト" target="各国" sid="wiki00089508-01-01" id="4"/><memo text="ガト交替可"/>
 外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ガ" target="日本" sid="wiki00089508-00-01" id="5"/><rel type="ト" target="各国" sid="wiki00089508-01-01" id="4"/><rel type="修飾" target="外交" sid="wiki00089508-01-01" id="5"/>
 関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 7P
-+ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="関係" sid="wiki00089508-01-01" id="6"/>
+* 6D
++ 10D <rel type="ヲ" target="関係" sid="wiki00089508-01-01" id="6"/><rel type="ガ" target="日本" sid="wiki00089508-00-01" id="5"/><rel type="ト" target="各国" sid="wiki00089508-01-01" id="4"/><rel type="カラ" target="開国" sid="wiki00089508-01-01" id="1"/>
 築き きずき 築く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 9D <rel type="=" target="オランダ" sid="wiki00089508-00-01" id="3"/><NE:LOCATION:オランダ>
 オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-* 7D
-+ 10D <rel type="ノ" target="オランダ" sid="wiki00089508-01-01" id="8"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="オランダ" sid="wiki00089508-01-01" id="8"/><rel type="=" target="一" sid="wiki00089508-01-01" id="9"/>
++ 10D <rel type="ノ" target="オランダ" sid="wiki00089508-01-01" id="8"/><rel type="=構" target="オランダ" sid="wiki00089508-01-01" id="8"/>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="国" sid="wiki00089508-01-01" id="10"/>
+* 7D
++ 11D <rel type="ガ" target="関係" sid="wiki00089508-01-01" id="6"/><rel type="ニ" target="一国" sid="wiki00089508-01-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00089508-01-01" id="11"/>
 留まら とどまら 留まる 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
 なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
-* 11D
-+ 15D <rel type="ノ" target="留まらなくなった" sid="wiki00089508-01-01" id="11"/>
+* 10D
++ 14D <rel type="ノ" target="留まらなくなった" sid="wiki00089508-01-01" id="10"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 10D
-+ 14D <rel type="=" target="総称" sid="wiki00089508-00-01" id="11"/>
+* 9D
++ 13D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 洋学 ようがく 洋学 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 11D
-+ 15D <rel type="=" target="総称" sid="wiki00089508-00-01" id="11"/>
+* 10D
++ 14D <rel type="トイウ" target="洋学" sid="wiki00089508-01-01" id="12"/><rel type="=構" target="洋学" sid="wiki00089508-01-01" id="12"/><rel type="=" mode="AND" target="総称" sid="wiki00089508-00-01" id="11"/>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="名称" sid="wiki00089508-01-01" id="14"/>
++ -1D <rel type="ガ" target="名称" sid="wiki00089508-01-01" id="13"/>
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089508-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089508-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="らんがく" sid="wiki00089508-00-02" id="0"/>
++ -1D <rel type="=" target="洋学" sid="wiki00089508-01-01" id="12"/>
 ようがく ようがく ようがく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089508-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000
+# S-ID:wiki00089508-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="ようがく" sid="wiki00089508-01-02" id="0"/>
++ 1D <rel type="ノ" target="時代" sid="wiki00089508-00-01" id="2"/><rel type="ノ" mode="？" target="関係" sid="wiki00089508-01-01" id="6"/>
 初期 しょき 初期 名詞 6 時相名詞 10 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3P
-蛮学 蛮学 蛮学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="時間" target="初期" sid="wiki00089508-02-01" id="0"/>
+蛮学 ばんがく 蛮学 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3I
-+ 3I
++ 3I <rel type="ノ" target="時代" sid="wiki00089508-00-01" id="2"/><rel type="ノ" mode="？" target="関係" sid="wiki00089508-01-01" id="6"/>
 中期 ちゅうき 中期 名詞 6 時相名詞 10 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 5P
++ 5P <rel type="時間" target="中期" sid="wiki00089508-02-01" id="2"/><rel type="=" target="蘭学" sid="wiki00089508-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 蘭学 らんがく 蘭学 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5I
-+ 5I
++ 5I <rel type="ノ" target="時代" sid="wiki00089508-00-01" id="2"/><rel type="ノ" mode="？" target="関係" sid="wiki00089508-01-01" id="6"/>
 後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="=" target="名称" sid="wiki00089508-01-01" id="14"/>
++ 7D <rel type="時間" target="後期" sid="wiki00089508-02-01" id="4"/><rel type="=" target="洋学" sid="wiki00089508-01-01" id="12"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 洋学 ようがく 洋学 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="=" target="洋学" sid="wiki00089508-02-01" id="5"/>
++ 7D <rel type="=" target="総称" sid="wiki00089508-00-01" id="11"/>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="ガ" target="名称" sid="wiki00089508-02-01" id="6"/>
++ 8D <rel type="ガ" target="名称" sid="wiki00089508-02-01" id="6"/><rel type="ト" target="蛮学" sid="wiki00089508-02-01" id="1"/><rel type="ト" mode="AND" target="蘭学" sid="wiki00089508-02-01" id="3"/><rel type="ト" mode="AND" target="洋学" sid="wiki00089508-02-01" id="5"/><rel type="外の関係" target="経緯" sid="wiki00089508-02-01" id="8"/>
 変わって かわって 変わる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 いった いった いく 接尾辞 14 動詞性接尾辞 7 子音動詞カ行促音便形 3 タ形 10 NIL
 * 9D
-+ 9D
++ 9D <rel type="トイウ" target="変わっていった" sid="wiki00089508-02-01" id="7"/>
 経緯 けいい 経緯 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="経緯" sid="wiki00089508-02-01" id="8"/>
++ -1D <rel type="ガ" target="経緯" sid="wiki00089508-02-01" id="8"/><rel type="ニ" target="蘭学" sid="wiki00089508-00-01" id="0"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089508-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089508-02-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="=≒" target="学問" sid="wiki00089508-00-01" id="8"/><rel type="=≒" mode="AND" target="文化" sid="wiki00089508-00-01" id="9"/><rel type="=≒" mode="AND" target="技術" sid="wiki00089508-00-01" id="10"/><NE:OPTIONAL:南蛮><NE-OPTIONAL:LOCATION,NONE:0>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-南蛮 なんばん 南蛮 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
+南蛮 なんばん 南蛮 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ニカンシテ" target="南蛮" sid="wiki00089508-02-02" id="0"/><rel type="=構" target="蛮学" sid="wiki00089508-02-01" id="1"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="学" sid="wiki00089508-02-02" id="1"/>
++ -1D <rel type="ガ" target="蛮学" sid="wiki00089508-02-01" id="1"/><rel type="トイウ" target="学" sid="wiki00089508-02-02" id="1"/><memo text="CO"/>
 意 い 意 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

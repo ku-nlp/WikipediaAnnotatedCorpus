@@ -1,17 +1,17 @@
-# S-ID:wiki00089492-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00089492-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/05/31 MEMO:
 * 6D
-+ 8D <NE:LOCATION:ブルックリン区>
-ブルックリン ブルックリン ブルックリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D <rel type="ノ？" target="ニューヨーク市" sid="wiki00089492-00-01" id="3"/><NE:LOCATION:ブルックリン区>
+ブルックリン ぶるっくりん ブルックリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D
++ 3D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00089492-00-01" id="1"/>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <NE:LOCATION:アメリカ合衆国ニューヨーク州ニューヨーク市>
++ 4D <rel type="ノ？" target="ニューヨーク州" sid="wiki00089492-00-01" id="2"/><NE:LOCATION:アメリカ合衆国ニューヨーク州ニューヨーク市>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -26,60 +26,60 @@
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 7D <rel type="ノ" target="区" sid="wiki00089492-00-01" id="7"/>
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL
+5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="=" target="5つ" sid="wiki00089492-00-01" id="6"/>
++ 8D <rel type="=構" target="5つ" sid="wiki00089492-00-01" id="6"/><rel type="=≒" mode="AND" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><rel type="修飾" target="5つ" sid="wiki00089492-00-01" id="6"/><rel type="修飾" mode="AND" target="行政上" sid="wiki00089492-00-01" id="5"/><rel type="ノ？" target="ニューヨーク市" sid="wiki00089492-00-01" id="3"/>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><rel type="ノ" target="区" sid="wiki00089492-00-01" id="7"/><rel type="=" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><rel type="ノ" target="区" sid="wiki00089492-00-01" id="7"/><rel type="=構" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089492-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089492-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * -1D
-+ -1D
-Borough Borough Borough 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-of of of 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Brooklyn Brooklyn Brooklyn 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D
+Borough Borough Borough 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><NE:LOCATION:Borough　of　Brooklyn>
+Brooklyn Brooklyn Brooklyn 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
-# S-ID:wiki00089492-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00089492-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 2D <rel type="=" target="ニューヨーク州" sid="wiki00089492-00-01" id="2"/><NE:LOCATION:ニューヨーク州>
++ 1D <rel type="=" target="ニューヨーク州" sid="wiki00089492-00-01" id="2"/><NE:LOCATION:ニューヨーク州>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D
-キングス キングス キングス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-郡 ぐん 郡 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ？" target="ニューヨーク州" sid="wiki00089492-01-01" id="0"/><NE:LOCATION:キングス郡>
+キングス きんぐす キングス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+郡 ぐん 郡 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
-+ 4D
-郡 ぐん 郡 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="郡" sid="wiki00089492-01-01" id="2"/>
-域 いき 域 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ノ" target="キングス郡" sid="wiki00089492-01-01" id="1"/>
+郡域 ぐんいき 郡域 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D <NE:LOCATION:ブルックリン区>
-ブルックリン ブルックリン ブルックリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="=" target="ブルックリン区" sid="wiki00089492-00-01" id="0"/><rel type="=構" mode="AND" target="郡域" sid="wiki00089492-01-01" id="2"/><NE:LOCATION:ブルックリン区>
+ブルックリン ぶるっくりん ブルックリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="域" sid="wiki00089492-01-01" id="4"/>
++ -1D <rel type="ガ" target="郡域" sid="wiki00089492-01-01" id="2"/><rel type="ト" target="ブルックリン区" sid="wiki00089492-01-01" id="3"/>
 同じである おなじである 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 デアル列基本形 19 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089492-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089492-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * -1D
-+ -1D
-Kings Kings Kings 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-County County County 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D
+Kings Kings Kings 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="キングス郡" sid="wiki00089492-01-01" id="1"/><NE:LOCATION:Kings　County>
+County County County 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

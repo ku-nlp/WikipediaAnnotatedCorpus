@@ -1,4 +1,4 @@
-# S-ID:wiki00084852-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000
+# S-ID:wiki00084852-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2023/06/15 MEMO:
 * 9D
 + 10D
 武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -6,73 +6,73 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
-+ 5D
+* 8D
++ 9D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 5D
 + 5D
 軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D
++ 5D <rel type="=構" target="軍事" sid="wiki00084852-00-01" id="3"/><rel type="ノ" target="官職" sid="wiki00084852-00-01" id="6"/>
 主務 しゅむ 主務 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="官職" sid="wiki00084852-00-01" id="6"/><rel type="ヲ" target="軍事" sid="wiki00084852-00-01" id="3"/>
++ 6D <rel type="ガ" target="官職" sid="wiki00084852-00-01" id="6"/><rel type="ヲ" target="軍事" sid="wiki00084852-00-01" id="3"/><rel type="ト" target="主務" sid="wiki00084852-00-01" id="4"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
 + 7D
 官職 かんしょく 官職 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ガ" target="家系" sid="wiki00084852-00-01" id="8"/><rel type="ヲ" target="官職" sid="wiki00084852-00-01" id="6"/>
++ 9D <rel type="ヲ" target="官職" sid="wiki00084852-00-01" id="6"/><rel type="ガ" target="家系" sid="wiki00084852-00-01" id="8"/><rel type="ガ" mode="AND" target="家柄" sid="wiki00084852-00-01" id="9"/>
 持った もった 持つ 動詞 2 * 0 子音動詞タ行 6 タ形 10 NIL
 * 9D
-+ 9D
++ 9P <rel type="ニオイテ" target="日本" sid="wiki00084852-00-01" id="1"/><rel type="=" target="武家" sid="wiki00084852-00-01" id="0"/>
 家系 かけい 家系 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D
++ 10D <rel type="ニオイテ" target="日本" sid="wiki00084852-00-01" id="1"/><rel type="=" target="武家" sid="wiki00084852-00-01" id="0"/>
 家柄 いえがら 家柄 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="ノ" target="家系" sid="wiki00084852-00-01" id="8"/><rel type="=" target="武家" sid="wiki00084852-00-01" id="0"/>
++ -1D <rel type="ガ" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="=構" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="ノ" target="家系" sid="wiki00084852-00-01" id="8"/><rel type="ノ" mode="AND" target="家柄" sid="wiki00084852-00-01" id="9"/><memo text="CO"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084852-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00084852-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/17 MEMO:
 * -1D
-+ -1D
-ぶけ ぶけ ぶく 動詞 2 * 0 子音動詞カ行 2 命令形 6 NIL
++ -1D <rel type="=" target="武家" sid="wiki00084852-00-01" id="0"/>
+ぶけ ぶけ ぶけ 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084852-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
-* 2D
+# S-ID:wiki00084852-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/15 MEMO:
+* 4D
 + 1D
 江戸 えど 江戸 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 4D <rel type="ノ" target="江戸" sid="wiki00084852-01" id="0"/><NE:DATE:江戸時代>
++ 6D <rel type="ノ" target="江戸" sid="wiki00084852-01" id="0"/><NE:DATE:江戸時代>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="武家" sid="wiki00084852-00-01" id="0"/>
 武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="官職" sid="wiki00084852-00-01" id="6"/>
++ 4D <rel type="=" target="官職" sid="wiki00084852-00-01" id="6"/><rel type="修飾" target="武家" sid="wiki00084852-01" id="2"/>
 官位 かんい 官位 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D <rel type="ガ" target="家系" sid="wiki00084852-01" id="5"/><rel type="ヲ" target="官位" sid="wiki00084852-01" id="3"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 4D
-+ 6D <rel type="=" target="家系" sid="wiki00084852-00-01" id="8"/>
++ 6D <rel type="=≒" target="家系" sid="wiki00084852-00-01" id="8"/><rel type="=構" mode="AND" target="武家" sid="wiki00084852-00-01" id="0"/>
 家系 かけい 家系 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="家系" sid="wiki00084852-01" id="5"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="家系" sid="wiki00084852-01" id="5"/><rel type="ト" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="時間" target="時代" sid="wiki00084852-01" id="1"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084852-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00084852-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/06/15 MEMO:
 * 3D
 + 4D
 広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -85,11 +85,11 @@ EOS
 * 3D
 + 3D
 武士 ぶし 武士 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="武士" sid="wiki00084852-02" id="2"/>
++ 4D <rel type="ノ" target="武士" sid="wiki00084852-02" id="2"/><rel type="=構" target="武家" sid="wiki00084852-00-01" id="0"/>
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="ヲ" target="一般" sid="wiki00084852-02" id="3"/>
++ -1D <rel type="ヲ" target="一般" sid="wiki00084852-02" id="3"/><rel type="時間" target="現代" sid="wiki00084852-02" id="1"/><rel type="外の関係" target="武家" sid="wiki00084852-00-01" id="0"/><rel type="ガ" target="武家" sid="wiki00084852-00-01" id="0"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

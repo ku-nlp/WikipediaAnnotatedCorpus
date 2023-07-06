@@ -1,7 +1,7 @@
-# S-ID:wiki00081420-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00081420-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/04/18 MEMO:
 * 4D
 + 7D
-OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
+OPAC おぱっく/おーぱっく OPAC 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
@@ -11,7 +11,7 @@ OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="目録" sid="wiki00081420-00-01" id="6"/><rel type="ニ" target="者" sid="wiki00081420-00-01" id="2"/>
++ 6D <rel type="ガ" target="目録" sid="wiki00081420-00-01" id="6"/><rel type="ニ" target="者" sid="wiki00081420-00-01" id="2"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="二格:AG:不特定人"/>
 供さ きょうさ 供する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
@@ -19,112 +19,112 @@ OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
 オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D
 蔵書 ぞうしょ 蔵書 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="蔵書" sid="wiki00081420-00-01" id="5"/>
++ 7D <rel type="ノ" target="蔵書" sid="wiki00081420-00-01" id="5"/><rel type="修飾" target="オンライン" sid="wiki00081420-00-01" id="4"/><rel type="=構" target="OPAC" sid="wiki00081420-00-01" id="0"/>
 目録 もくろく 目録 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="OPAC" sid="wiki00081420-00-01" id="0"/><rel type="ノ" target="目録" sid="wiki00081420-00-01" id="6"/>
++ -1D <rel type="ガ" target="OPAC" sid="wiki00081420-00-01" id="0"/><rel type="ノ" target="目録" sid="wiki00081420-00-01" id="6"/><rel type="=構" target="OPAC" sid="wiki00081420-00-01" id="0"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081420-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00081420-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/18 MEMO:
 * 1P
-+ 1P <rel type="=" target="供される" sid="wiki00081420-00-01" id="3"/><NE:PERSON:オパック>
-オパック オパック オパック 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:PERSON:single>
++ 1P <rel type="=" target="OPAC" sid="wiki00081420-00-01" id="0"/>
+オパック おぱっく オパック 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D
-オーパック オーパック オーパック 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="OPAC" sid="wiki00081420-00-01" id="0"/>
+オーパック おーぱっく オーパック 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081420-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00081420-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/07 MEMO:
 * 1D
-+ 2D <rel type="=" target="オンライン" sid="wiki00081420-00-01" id="4"/>
++ 2D
 インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="目録" sid="wiki00081420-00-01" id="6"/>
++ 2P <rel type="ニ" target="OPAC" sid="wiki00081420-01" id="3"/><rel type="ガ" target="者" sid="wiki00081420-00-01" id="2"/><rel type="カラ" target="インターネット" sid="wiki00081420-01" id="0"/>
 アクセス あくせす アクセス 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="者" sid="wiki00081420-00-01" id="2"/><rel type="ヲ" target="目録" sid="wiki00081420-00-01" id="6"/>
++ 3D <rel type="ガ" target="者" sid="wiki00081420-00-01" id="2"/><rel type="ヲ" target="OPAC" sid="wiki00081420-01" id="3"/><rel type="カラ" target="インターネット" sid="wiki00081420-01" id="0"/>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 6D
-+ 9D <rel type="=" target="OPAC" sid="wiki00081420-00-01" id="0"/>
-OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
++ 9D <rel type="=≒" target="OPAC" sid="wiki00081420-00-01" id="0"/>
+OPAC おぱっく/おーぱっく OPAC 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 9D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
 * 5P
-+ 6D <rel type="=" target="インターネット" sid="wiki00081420-01" id="0"/><NE:ORGANIZATION:ウェブ>
-ウェブ ウェブ ウェブ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 8P <rel type="=" target="OPAC" sid="wiki00081420-01" id="3"/>
-OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
++ 6D
+ウェブ うぇぶ ウェブ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="=構" target="OPAC" sid="wiki00081420-01" id="3"/><rel type="修飾" target="ウェブ" sid="wiki00081420-01" id="5"/>
+OPAC おぱっく/おーぱっく OPAC 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 8D <rel type="=" target="インターネット" sid="wiki00081420-01" id="0"/>
 インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="OPAC" sid="wiki00081420-01" id="6"/>
-OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
++ 9D <rel type="=構" target="OPAC" sid="wiki00081420-01" id="6"/><rel type="修飾" target="インターネット" sid="wiki00081420-01" id="7"/>
+OPAC おぱっく/おーぱっく OPAC 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="OPAC" sid="wiki00081420-01" id="3"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="OPAC" sid="wiki00081420-01" id="3"/><rel type="ト" target="OPAC" sid="wiki00081420-01" id="6"/><rel type="ト" mode="AND" target="OPACなど" sid="wiki00081420-01" id="8"/>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081420-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:184.00000
-* 23D
-+ 27D
+# S-ID:wiki00081420-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:184.00000 MOD:2023/06/07 MEMO:
+* 24D
++ 28D
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
++ 2D <rel type="ガ" target="者" sid="wiki00081420-02" id="2"/><rel type="ヲ" target="目録" sid="wiki00081420-00-01" id="6"/>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="=" target="者" sid="wiki00081420-00-01" id="2"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/>
++ 4D <rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ガ" target="者" sid="wiki00081420-02" id="2"/>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ニ" target="利用" sid="wiki00081420-02" id="3"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ニ" target="利用" sid="wiki00081420-02" id="3"/><rel type="=" target="供される" sid="wiki00081420-00-01" id="3"/>
 供さ きょうさ 供す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 5D
 + 6D <rel type="=" target="オンライン" sid="wiki00081420-00-01" id="4"/>
 オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 7D
-+ 9D
+* 10D
++ 12D <rel type="修飾" target="オンライン" sid="wiki00081420-02" id="5"/><rel type="=≒" target="目録" sid="wiki00081420-00-01" id="6"/>
 目録 もくろく 目録 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 9D
 ただ ただ ただ 副詞 8 * 0 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 9D
-+ 9D <rel type="=" target="インターネット" sid="wiki00081420-01" id="0"/>
+* 8D
++ 9D <rel type="=" target="オンライン" sid="wiki00081420-02" id="5"/>
 オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 10D <rel type="=構" target="目録" sid="wiki00081420-02" id="6"/><rel type="修飾" target="オンライン" sid="wiki00081420-02" id="8"/><rel type="修飾" mode="AND" target="ただ" sid="wiki00081420-02" id="7"/>
 目録 もくろく 目録 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9P
-+ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/>
+* 10P
++ 12P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ト" target="目録" sid="wiki00081420-02" id="6"/>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 23D
-+ 27D <rel type="=" target="OPAC" sid="wiki00081420-00-01" id="0"/>
-OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
+* 10D
++ 12D <rel type="=" target="OPAC" sid="wiki00081420-00-01" id="0"/>
+OPAC おぱっく/おーぱっく OPAC 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 11D
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/>
+* 24D
++ 28D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ト" target="OPAC" sid="wiki00081420-02" id="11"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -136,24 +136,24 @@ OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
 + 15D
 現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 16D
-+ 15D <rel type="=" target="オンライン" sid="wiki00081420-02" id="8"/>
+* 13D
++ 15D
 オンライン おんらいん オンライン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 20D
++ 16D <rel type="時間" target="現代" sid="wiki00081420-02" id="13"/><rel type="=" target="目録" sid="wiki00081420-02" id="9"/>
 目録 もくろく 目録 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 14D
-+ 18D <rel type="ノ" target="目録" sid="wiki00081420-02" id="15"/>
-ほとんど ほとんど ほとんど 副詞 8 * 0 * 0 * 0 NIL
+* 17D
++ 21D <rel type="ノ" target="目録" sid="wiki00081420-02" id="15"/><memo text="副詞→名詞に"/>
+ほとんど ほとんど ほとんど 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 16D
-+ 18D <rel type="ガ" target="者" sid="wiki00081420-02" id="18"/>
+* 15D
++ 18D <rel type="ガ" target="者" sid="wiki00081420-02" id="18"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="15"/>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 20D <rel type="=" target="者" sid="wiki00081420-00-01" id="2"/>
++ 19D <rel type="=" target="者" sid="wiki00081420-00-01" id="2"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 20D <rel type="ガ" target="者" sid="wiki00081420-02" id="18"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="15"/>
++ 20D <rel type="ガ" target="者" sid="wiki00081420-02" id="18"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="15"/><rel type="ニヨッテ" target="インターネット" sid="wiki00081420-01" id="0"/>
 操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
@@ -161,18 +161,18 @@ OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
 前提 ぜんてい 前提 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 22D <rel type="ガ" target="ほとんど" sid="wiki00081420-02" id="16"/><rel type="ヲ" target="操作" sid="wiki00081420-02" id="19"/>
++ 22D <rel type="ガ" target="ほとんど" sid="wiki00081420-02" id="16"/><rel type="ト" target="前提" sid="wiki00081420-02" id="20"/><rel type="外の関係" target="ため" sid="wiki00081420-02" id="22"/>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
-* 23D
-+ 27D <rel type="ノ" target="している" sid="wiki00081420-02" id="21"/>
+* 20D
++ 24D <rel type="ノ" target="している" sid="wiki00081420-02" id="21"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 24D
-+ 28D
+* 20D
++ 24D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
-* 21D
-+ 25D <rel type="ガ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ニ" target="不特定:人"/>
+* 24P
++ 28P <rel type="ニ" target="不特定:人"/><rel type="ガ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ガ" mode="AND" target="OPAC" sid="wiki00081420-02" id="11"/>
 区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -180,20 +180,20 @@ OPAC OPAC OPAC 名詞 6 組織名 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 なく なく ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 23D
-+ 27D
-本稿 本稿 本稿 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 22D
++ 26D
+本稿 ほんこう 本稿 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 23D
-+ 27D
+* 24D
++ 28D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 24D
-+ 28D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="15"/>
++ 28D <rel type="ガ" target="著者"/><rel type="ヲ" target="目録" sid="wiki00081420-02" id="6"/><rel type="ヲ" mode="AND" target="OPAC" sid="wiki00081420-02" id="11"/><rel type="=" target="区別される" sid="wiki00081420-02" id="24"/>
 区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="区別" sid="wiki00081420-02" id="27"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="区別" sid="wiki00081420-02" id="27"/><rel type="ニオイテ" target="本稿" sid="wiki00081420-02" id="25"/>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,75 +1,72 @@
-# S-ID:wiki00089550-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
+# S-ID:wiki00089550-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/22 MEMO:
 * 6D
-+ 10D
-古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <NE:OPTIONAL:古生代><NE-OPTIONAL:DATE,NONE:0>
+古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2P
-+ 2D
-古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 2D
++ 2P <rel type="=" target="古生代" sid="wiki00089550-00-01" id="0"/><NE:OPTIONAL:古生代><NE-OPTIONAL:DATE,NONE:0>
+古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-中生代 ちゅうせいだい 中生代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <NE:OPTIONAL:中生代><NE-OPTIONAL:DATE,NONE:0>
+中生代 ちゅうせいだい 中生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-新生 しんせい 新生 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5P <rel type="ノ" target="地質" sid="wiki00089550-00-01" id="6"/>
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <NE:OPTIONAL:新生代><NE-OPTIONAL:DATE,NONE:0>
+新生代 しんせいだい 新生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
-+ 9D <rel type="ガ" target="時代" sid="wiki00089550-00-01" id="7"/>
+* 3D
++ 6D <rel type="ガ" target="時代" sid="wiki00089550-00-01" id="6"/><rel type="ト" target="古生代" sid="wiki00089550-00-01" id="1"/><rel type="ト" mode="AND" target="中生代" sid="wiki00089550-00-01" id="2"/><rel type="ト" mode="AND" target="新生代" sid="wiki00089550-00-01" id="3"/>
 分かれる わかれる 分かれる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
-* 5D
-+ 7D
+* 4D
++ 6D
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="地質" sid="wiki00089550-00-01" id="6"/>
++ 8D <rel type="ニヨッテ" target="地質" sid="wiki00089550-00-01" id="5"/>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D
++ 8D
 大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0 NIL
 * 6D
-+ 10D
++ 9D <rel type="ノ" target="時代" sid="wiki00089550-00-01" id="6"/><rel type="=≒" target="古生代" sid="wiki00089550-00-01" id="0"/>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="古生代" sid="wiki00089550-00-01" id="0"/><rel type="ノ" target="区分" sid="wiki00089550-00-01" id="9"/><rel type="=" target="古生代" sid="wiki00089550-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ノ" target="区分" sid="wiki00089550-00-01" id="8"/><rel type="ガ" target="古生代" sid="wiki00089550-00-01" id="0"/><rel type="=構" target="古生代" sid="wiki00089550-00-01" id="0"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089550-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089550-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00089550-00-01" id="10"/>
-こせいだい こせいだい こせいだい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="古生代" sid="wiki00089550-00-01" id="0"/><NE:OPTIONAL:こせいだい><NE-OPTIONAL:DATE,NONE:0>
+こせいだい こせいだい こせいだい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00089550-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089550-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/01 MEMO:
 * 1D
 + 1D
-約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-5億4100万 5億4100万 5億4100万 名詞 6 数詞 7 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 2D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* -1D
-+ 3D
-約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-2億5190万 2億5190万 2億5190万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:DATE:head>
+5億4100万 ごおくよんせんひゃくまん 5億4100万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:DATE:middle>
+- から - 特殊 1 記号 5 * 0 * 0 NIL <NE:DATE:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:DATE:middle>
+* 1D
++ 2D <rel type="カラ" target="約5億4100万" sid="wiki00089550-01" id="0"/>
+約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:DATE:middle>
+2億5190万 におくごせんひゃくきゅうじゅうまん 2億5190万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="ガ" target="古生代" sid="wiki00089550-00-01" id="0"/><NE:DATE:2億5190万年前>
++ -1D <rel type="ガ" target="古生代" sid="wiki00089550-00-01" id="0"/><rel type="ノ" target="約2億5190万年" sid="wiki00089550-01" id="1"/><memo text="CO"/><NE:DATE:約5億4100万　-　約2億5190万年前>
 前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089550-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00089550-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/22 MEMO:
 * 1D
 + 1D
-先 さき 先 名詞 6 普通名詞 1 * 0 * 0 NIL
+先 せん 先 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 2D
-カンブリア カンブリア カンブリア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="カンブリア" sid="wiki00089550-02-01" id="1"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
+カンブリア かんぶりあ カンブリア 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="ノ" target="カンブリア" sid="wiki00089550-02-01" id="1"/><NE:OPTIONAL:先カンブリア時代><NE-OPTIONAL:DATE,NONE:0>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ノ" target="時代" sid="wiki00089550-02-01" id="2"/>
@@ -81,30 +78,30 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089550-02-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089550-02-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="一つ" sid="wiki00089550-00-01" id="10"/>
-隠生代 隠生代 隠生代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="時代" sid="wiki00089550-02-01" id="2"/><NE:OPTIONAL:隠生代><NE-OPTIONAL:DATE,NONE:0>
+隠生代 いんせいだい 隠生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00089550-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000
+# S-ID:wiki00089550-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/06/22 MEMO:
 * 4D
-+ 1D
++ 1D <rel type="=" target="地質" sid="wiki00089550-00-01" id="5"/>
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D
++ 7D <rel type="ニカンシテ" target="地質" sid="wiki00089550-03" id="0"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="隠生代" sid="wiki00089550-02-02" id="0"/>
-古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="古生代" sid="wiki00089550-00-01" id="1"/><NE:OPTIONAL:古生代><NE-OPTIONAL:DATE,NONE:0>
+古生代 こせいだい 古生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 5D <rel type="ノ" target="古生代" sid="wiki00089550-03" id="2"/>
 以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D
++ 5D <rel type="=" target="地質" sid="wiki00089550-03" id="0"/>
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="地質" sid="wiki00089550-03" id="4"/>
++ 7D <rel type="ノ" target="地質" sid="wiki00089550-03" id="4"/><rel type="マデ" target="古生代" sid="wiki00089550-03" id="2"/>
 年代 ねんだい 年代 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -121,12 +118,12 @@ EOS
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089550-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00089550-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/22 MEMO:
 * 1D
 + 1D
 無 む 無 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
 脊椎 せきつい 脊椎 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
++ 2D <rel type="修飾" target="無脊椎" sid="wiki00089550-04" id="0"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -139,13 +136,13 @@ EOS
 恐竜 きょうりゅう 恐竜 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="恐竜" sid="wiki00089550-04" id="3"/>
++ 5D <rel type="ガ" target="恐竜" sid="wiki00089550-04" id="3"/><rel type="時間" target="中生代" sid="wiki00089550-04" id="5"/>
 繁栄 はんえい 繁栄 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 はじめる はじめる はじめる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 5D
-+ 6D <rel type="=" target="中生代" sid="wiki00089550-00-01" id="2"/>
-中生代 ちゅうせいだい 中生代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="中生代" sid="wiki00089550-00-01" id="2"/><NE:OPTIONAL:中生代><NE-OPTIONAL:DATE,NONE:0>
+中生代 ちゅうせいだい 中生代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ノ" target="中生代" sid="wiki00089550-04" id="5"/>
@@ -153,7 +150,7 @@ EOS
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D
++ 8D <rel type="マデ" target="手前" sid="wiki00089550-04" id="6"/><rel type="カラ" target="繁栄" sid="wiki00089550-04" id="2"/>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

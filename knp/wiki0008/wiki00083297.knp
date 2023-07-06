@@ -1,102 +1,99 @@
-# S-ID:wiki00083297-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00083297-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/09 MEMO:
 * 7D
-+ 11D <NE:LOCATION:オデッサ>
-オデッサ オデッサ オデッサ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <NE:LOCATION:オデッサ>
+オデッサ おでっさ オデッサ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2P
+* 7P
 + 2D <NE:LOCATION:ウクライナ>
 ウクライナ うくらいな ウクライナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4P <rel type="ノ" target="ウクライナ" sid="wiki00083297-00" id="1"/>
++ 10P <rel type="ノ" target="ウクライナ" sid="wiki00083297-00" id="1"/><rel type="ガ" target="都市" sid="wiki00083297-00" id="10"/><memo text="CO or PO:ある、位置する等"/>
 南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D
-ドニエストル ドニエストル ドニエストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <rel type="ノ" target="ドニエストル" sid="wiki00083297-00" id="3"/><NE:LOCATION:ドニエストル河口>
-河口 かこう 河口 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <NE:LOCATION:ドニエストル>
+ドニエストル どにえすとる ドニエストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ" target="ドニエストル" sid="wiki00083297-00" id="3"/>
+河口 かこう 河口 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
++ 6D
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6P
-+ 7D
+* 7P
++ 10P <rel type="ガ" target="都市" sid="wiki00083297-00" id="10"/><rel type="カラ" target="河口" sid="wiki00083297-00" id="4"/><rel type="ニ" target="北" sid="wiki00083297-00" id="5"/><memo text="CO or PO:ある、位置する等"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-30 30 30 名詞 6 数詞 7 * 0 * 0 NIL
-+ 9P
-km km km 名詞 6 組織名 6 * 0 * 0 NIL
+30 さんじゅっ/さんじっ 30 名詞 6 数詞 7 * 0 * 0 NIL
+km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
-+ 9D <NE:PERSON:黒海>
-黒海 こっかい 黒海 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+* 7P
++ 8D <NE:LOCATION:黒海>
+黒海 こっかい 黒海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="都市" sid="wiki00083297-00" id="11"/><rel type="ニ" target="黒海" sid="wiki00083297-00" id="8"/>
++ 10D <rel type="ガ" target="都市" sid="wiki00083297-00" id="10"/><rel type="ニ" target="黒海" sid="wiki00083297-00" id="7"/>
 面した めんした 面する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 11D
++ 10D
 港湾 こうわん 港湾 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="=" target="オデッサ" sid="wiki00083297-00" id="0"/>
++ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="=構" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="修飾" target="港湾" sid="wiki00083297-00" id="9"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083297-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00083297-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/09 MEMO:
 * 1D
-+ 4D <rel type="=" target="オデッサ" sid="wiki00083297-00" id="0"/><NE:LOCATION:オデッサ州>
-オデッサ オデッサ オデッサ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="ノ？" target="ウクライナ" sid="wiki00083297-00" id="1"/><rel type="=≒" target="オデッサ" sid="wiki00083297-00" id="0"/><NE:LOCATION:オデッサ州>
+オデッサ おでっさ オデッサ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5P
-+ 2D
+* 4P
++ 2D <rel type="=≒" target="オデッサ州" sid="wiki00083297-01" id="0"/>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 3D <rel type="ノ" target="州" sid="wiki00083297-01" id="1"/>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
++ 4D <rel type="ガ" target="庁" sid="wiki00083297-01" id="2"/><rel type="ニ" target="地" sid="wiki00083297-01" id="4"/>
 所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P <rel type="ガ" target="オデッサ州" sid="wiki00083297-01" id="0"/><rel type="=" target="オデッサ州" sid="wiki00083297-01" id="0"/>
++ 9P <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="=構" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="修飾" target="所在" sid="wiki00083297-01" id="3"/><rel type="ノ？" target="オデッサ州" sid="wiki00083297-01" id="0"/>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3A
-+ 6A <rel type="ノ" target="ウクライナ" sid="wiki00083297-00" id="1"/>
+* 3D
++ 6D <rel type="ノ" target="ウクライナ" sid="wiki00083297-00" id="1"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 4D
-+ 9D <rel type="=" target="首都" sid="wiki00083297-01" id="5"/><NE:LOCATION:キエフ>
++ 8D <rel type="修飾" target="首都" sid="wiki00083297-01" id="5"/><rel type="=構" target="首都" sid="wiki00083297-01" id="4"/><NE:LOCATION:キエフ>
 キエフ きえふ キエフ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
-* 5D
+* -1D
 + 8D
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-443 443 443 名詞 6 数詞 7 * 0 * 0 NIL
-+ 9D
-km km km 名詞 6 組織名 6 * 0 * 0 NIL
-+ 10D
+443 よんひゃくよんじゅうさん 443 名詞 6 数詞 7 * 0 * 0 NIL
+km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 9D <rel type="カラ" target="キエフ" sid="wiki00083297-01" id="6"/>
 南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="ニ" target="南" sid="wiki00083297-01" id="9"/>
++ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="ニ" target="南" sid="wiki00083297-01" id="8"/>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083297-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00083297-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/06/09 MEMO:
 * 1D
 + 1D <NE:DATE:2015年>
-2015 2015 2015 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+2015 にせんじゅうご 2015 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 + 2D
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ノ" target="オデッサ州" sid="wiki00083297-01" id="0"/>
++ 3D <rel type="時間" target="現在" sid="wiki00083297-02" id="1"/><rel type="ノ" target="オデッサ" sid="wiki00083297-00" id="0"/>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 7D
-+ 8D <rel type="=" target="人口" sid="wiki00083297-02" id="2"/>
+* 7P
++ 8P <rel type="ガ" target="人口" sid="wiki00083297-02" id="2"/><rel type="=構" target="人口" sid="wiki00083297-02" id="2"/><memo text="CO"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-101万 101万 101万 名詞 6 数詞 7 * 0 * 0 NIL
+101万 ひゃくいちまん 101万 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
@@ -104,7 +101,7 @@ EOS
 ウクライナ うくらいな ウクライナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D
++ 6D <rel type="デ" target="ウクライナ" sid="wiki00083297-02" id="4"/>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -113,26 +110,24 @@ EOS
 + 7D
 大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="=" target="地" sid="wiki00083297-01" id="4"/>
++ 8D <rel type="=構" target="オデッサ" sid="wiki00083297-00" id="0"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/>
++ -1D <rel type="ガ" target="オデッサ" sid="wiki00083297-00" id="0"/><rel type="ト" target="都市" sid="wiki00083297-02" id="7"/>
 なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00083297-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00083297-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/09 MEMO:
 * 1D
-+ 2D <rel type="ノ" target="オデッサ" sid="wiki00083297-00" id="0"/>
++ 1D <rel type="ノ" target="オデッサ" sid="wiki00083297-00" id="0"/>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
++ -1D <rel type="ガ" target="面積" sid="wiki00083297-03" id="0"/><rel type="=構" target="面積" sid="wiki00083297-03" id="0"/><memo text="CO"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-160 160 160 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="面積" sid="wiki00083297-03" id="0"/>
-km km km 名詞 6 組織名 6 * 0 * 0 NIL
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+160 ひゃくろくじゅっ/ひゃくろくじっ 160 名詞 6 数詞 7 * 0 * 0 NIL
+km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

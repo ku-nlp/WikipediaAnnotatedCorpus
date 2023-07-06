@@ -1,50 +1,50 @@
-# S-ID:wiki00089554-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00089554-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/22 MEMO:
 * 2D
 + 1D
-軍令 ぐんれい 軍令 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="軍令" sid="wiki00089554-00-01" id="0"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+軍令 ぐんれい 軍令 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <rel type="ノ" target="軍令" sid="wiki00089554-00-01" id="0"/><NE:ORGANIZATION:軍令部>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="ノ" target="日本" sid="wiki00089554-00-01" id="2"/><NE:ORGANIZATION:日本海軍>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <rel type="ノ？" target="日本" sid="wiki00089554-00-01" id="2"/><NE:ORGANIZATION:日本海軍>
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 5D
 中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="機関" sid="wiki00089554-00-01" id="6"/>
++ 6D <rel type="ガ" target="機関" sid="wiki00089554-00-01" id="6"/><rel type="ヲ" target="海軍" sid="wiki00089554-00-01" id="3"/><rel type="デ" target="中央" sid="wiki00089554-00-01" id="4"/>
 統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="部" sid="wiki00089554-00-01" id="1"/><rel type="=" target="部" sid="wiki00089554-00-01" id="1"/>
++ -1D <rel type="ガ" target="部" sid="wiki00089554-00-01" id="1"/><rel type="=構" target="部" sid="wiki00089554-00-01" id="1"/><rel type="ノ" target="海軍" sid="wiki00089554-00-01" id="3"/><rel type="ノ？" target="統括" sid="wiki00089554-00-01" id="5"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089554-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089554-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * -1D
-+ 1D <rel type="=" target="海軍" sid="wiki00089554-00-01" id="3"/>
-ぐんれい ぐんれい ぐんれい 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="機関" sid="wiki00089554-00-01" id="6"/>
-ぶ ぶ ぶ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="軍令" sid="wiki00089554-00-01" id="0"/>
+ぐんれい ぐんれい ぐんれい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="部" sid="wiki00089554-00-01" id="1"/><NE:ORGANIZATION:ぐんれいぶ>
+ぶ ぶ ぶ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00089554-00-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
-* 1P
+# S-ID:wiki00089554-00-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/22 MEMO:
+* 1D
 + 1D
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2P <rel type="ノ" target="海軍" sid="wiki00089554-00-03" id="0"/><NE:ORGANIZATION:海軍省>
++ 2D <rel type="ノ" target="海軍" sid="wiki00089554-00-03" id="0"/><NE:ORGANIZATION:海軍省>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <rel type="ト" target="省" sid="wiki00089554-00-03" id="1"/><rel type="ガ" target="部" sid="wiki00089554-00-01" id="1"/>
 共同 きょうどう 共同 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="省" sid="wiki00089554-00-03" id="1"/>
++ -1D <rel type="ガ" target="部" sid="wiki00089554-00-01" id="1"/><rel type="ガ" mode="AND" target="省" sid="wiki00089554-00-03" id="1"/><rel type="デ" target="共同" sid="wiki00089554-00-03" id="2"/><rel type="デ" mode="？" target="なし"/><rel type="ヲ" target="統括" sid="wiki00089554-00-01" id="5"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 EOS
-# S-ID:wiki00089554-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000
+# S-ID:wiki00089554-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000 MOD:2023/06/22 MEMO:
 * 2D
 + 1D
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -60,30 +60,30 @@ EOS
 従属 じゅうぞく 従属 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 4D
-+ 5D
++ 5P
 軍政 ぐんせい 軍政 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 6D
 人事 じんじ 人事 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 7D <rel type="ガ" target="省" sid="wiki00089554-01-01" id="1"/><rel type="ヲ" target="人事" sid="wiki00089554-01-01" id="5"/>
++ 7D <rel type="ガ" target="省" sid="wiki00089554-01-01" id="1"/><rel type="ヲ" target="人事" sid="wiki00089554-01-01" id="5"/><rel type="ヲ" mode="AND" target="軍政" sid="wiki00089554-01-01" id="4"/><rel type="外の関係" target="の" sid="wiki00089554-01-01" id="7"/>
 担当 たんとう 担当 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-+ 19P
++ 19P <rel type="トイウ" target="担当する" sid="wiki00089554-01-01" id="6"/><rel type="トイウ" mode="AND" target="従属し" sid="wiki00089554-01-01" id="3"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 対し たいし 対する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
 + 9D
-軍令 ぐんれい 軍令 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=" target="機関" sid="wiki00089554-00-01" id="6"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+軍令 ぐんれい 軍令 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 11D <rel type="=" target="部" sid="wiki00089554-00-01" id="1"/><NE:ORGANIZATION:軍令部>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 11D
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <NE:OPTIONAL:天皇><NE-OPTIONAL:PERSON,NONE:0>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
 + 19P <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ニ" target="天皇" sid="wiki00089554-01-01" id="10"/>
@@ -94,15 +94,15 @@ EOS
 + 13D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 10D
-+ 14D
++ 14D <rel type="ガ" target="天皇" sid="wiki00089554-01-01" id="10"/><rel type="ヲ" target="海軍" sid="wiki00089554-00-01" id="3"/>
 統帥 とうすい 統帥 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ヲ" target="統帥" sid="wiki00089554-01-01" id="13"/>
-輔翼 輔翼 輔翼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ヲ" target="統帥" sid="wiki00089554-01-01" id="13"/><rel type="外の関係" target="立場" sid="wiki00089554-01-01" id="15"/>
+輔翼 ほよく 輔翼 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 14D
-+ 19D
++ 19D <rel type="トイウ" target="輔翼する" sid="wiki00089554-01-01" id="14"/><rel type="ノ" target="部" sid="wiki00089554-01-01" id="9"/>
 立場 たちば 立場 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -112,20 +112,20 @@ EOS
 全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 18D <rel type="ノ" target="海軍全体" sid="wiki00089554-01-01" id="16"/>
++ 18P <rel type="ノ" target="海軍全体" sid="wiki00089554-01-01" id="16"/>
 作戦 さくせん 作戦 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 19D <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ヲ" target="海軍全体" sid="wiki00089554-01-01" id="16"/>
 指揮 しき 指揮 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ヲ" target="指揮" sid="wiki00089554-01-01" id="18"/>
++ -1D <rel type="ガ" target="部" sid="wiki00089554-01-01" id="9"/><rel type="ヲ" target="指揮" sid="wiki00089554-01-01" id="18"/><rel type="ヲ" mode="AND" target="作戦" sid="wiki00089554-01-01" id="17"/><rel type="=" target="統括" sid="wiki00089554-00-01" id="5"/><rel type="ニタイシテ" target="の" sid="wiki00089554-01-01" id="7"/><rel type="カラ" target="立場" sid="wiki00089554-01-01" id="15"/>
 統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089554-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089554-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * -1D
-+ -1D <rel type="=" target="省" sid="wiki00089554-00-03" id="1"/>
-ほよく ほよく ほよく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="輔翼" sid="wiki00089554-01-01" id="14"/>
+ほよく ほよく ほよく 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS

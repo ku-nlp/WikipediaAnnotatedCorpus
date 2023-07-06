@@ -1,10 +1,10 @@
-# S-ID:wiki00081466-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:127.00000
+# S-ID:wiki00081466-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:127.00000 MOD:2023/06/07 MEMO:
 * 13D
-+ 1D
++ 2D
 特別 とくべつ 特別 副詞 8 * 0 * 0 * 0 NIL
 + 2D
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D <rel type="ノ" target="行政" sid="wiki00081466-00-01" id="1"/>
++ 19D <rel type="ノ" target="行政" sid="wiki00081466-00-01" id="1"/><rel type="修飾" target="特別" sid="wiki00081466-00-01" id="0"/>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -15,19 +15,19 @@
 * 3D
 + 5D
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ニオイテ" target="地方" sid="wiki00081466-00-01" id="4"/>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="行政" sid="wiki00081466-00-01" id="5"/>
++ 7D <rel type="ノ" target="行政" sid="wiki00081466-00-01" id="5"/><rel type="修飾" target="通常" sid="wiki00081466-00-01" id="3"/>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="機関" sid="wiki00081466-00-01" id="9"/>
++ 9D <rel type="ガ" target="機関" sid="wiki00081466-00-01" id="9"/><rel type="ト" target="制度" sid="wiki00081466-00-01" id="6"/>
 異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 5D
-+ 9D
++ 9D <rel type="=" target="行政" sid="wiki00081466-00-01" id="1"/>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="行政" sid="wiki00081466-00-01" id="8"/>
++ 10D <rel type="ノ？" target="行政" sid="wiki00081466-00-01" id="8"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
@@ -40,11 +40,11 @@
 + 12D <rel type="ガ" target="法律" sid="wiki00081466-00-01" id="12"/>
 独自の どくじの 独自だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 8D
-+ 13D
++ 13D <rel type="修飾" target="独自の" sid="wiki00081466-00-01" id="11"/>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11A
-+ 17A <rel type="ガ" target="法律" sid="wiki00081466-00-01" id="12"/><rel type="ニ" target="地域" sid="wiki00081466-00-01" id="18"/>
+* 11D
++ 17D <rel type="ガ" target="法律" sid="wiki00081466-00-01" id="12"/><rel type="ニ" target="地域" sid="wiki00081466-00-01" id="18"/>
 適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -60,29 +60,27 @@
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 18D <rel type="ガ" target="地域" sid="wiki00081466-00-01" id="18"/><rel type="ヲ" target="権" sid="wiki00081466-00-01" id="16"/>
++ 18D <rel type="ガ" target="地域" sid="wiki00081466-00-01" id="18"/><rel type="ヲ" target="権" sid="wiki00081466-00-01" id="16"/><rel type="=≒" target="設置され" sid="wiki00081466-00-01" id="10"/><rel type="=≒" mode="AND" target="適用される" sid="wiki00081466-00-01" id="13"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 13D
-+ 19D <rel type="=" target="区" sid="wiki00081466-00-01" id="2"/>
++ 19D <rel type="=構" target="区" sid="wiki00081466-00-01" id="2"/>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="区" sid="wiki00081466-00-01" id="2"/><rel type="ノ" target="地域" sid="wiki00081466-00-01" id="18"/><rel type="=" target="区" sid="wiki00081466-00-01" id="2"/>
++ -1D <rel type="ガ" target="区" sid="wiki00081466-00-01" id="2"/><rel type="ノ" target="地域" sid="wiki00081466-00-01" id="18"/><rel type="=構" target="区" sid="wiki00081466-00-01" id="2"/><memo text="CO"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081466-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
-+ 1D
-とくべつ とくべつ とくべつ 副詞 8 * 0 * 0 * 0 NIL
-* 2P
-+ 2P
-ぎょうせ ぎょうせ ぎょうせる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
+# S-ID:wiki00081466-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/07 MEMO:
 * -1D
-+ -1D
-いく いく いく 動詞 2 * 0 子音動詞カ行促音便形 3 基本形 2 NIL
++ 2D <rel type="=" target="特別" sid="wiki00081466-00-01" id="0"/>
+とくべつ とくべつ とくべつ 副詞 8 * 0 * 0 * 0 NIL
++ 2D <rel type="=" target="行政" sid="wiki00081466-00-01" id="1"/>
+ぎょうせい ぎょうせい ぎょうせい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="区" sid="wiki00081466-00-01" id="2"/>
+く く く 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081466-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00081466-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/07 MEMO:
 * 4D
 + 4D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
@@ -94,7 +92,7 @@ EOS
 + 3D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 4D
-+ 4D <rel type="=" target="ぎょうせ" sid="wiki00081466-00-02" id="1"/>
++ 4D <rel type="ニオイテ" target="中華人民共和国" sid="wiki00081466-01" id="1"/><rel type="=構" target="区" sid="wiki00081466-00-01" id="2"/>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -102,13 +100,13 @@ EOS
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081466-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00081466-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/07 MEMO:
 * 1D
-+ 1D
-特区 特区 特区 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=構" target="区" sid="wiki00081466-00-01" id="2"/>
+特区 とっく 特区 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="区" sid="wiki00081466-00-01" id="2"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="区" sid="wiki00081466-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="特区" sid="wiki00081466-02-01" id="0"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -117,8 +115,8 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081466-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00081466-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/07 MEMO:
 * -1D
-+ -1D <rel type="=" target="制度" sid="wiki00081466-00-01" id="6"/>
++ -1D <rel type="=" target="特区" sid="wiki00081466-02-01" id="0"/>
 とっく とっく とっく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

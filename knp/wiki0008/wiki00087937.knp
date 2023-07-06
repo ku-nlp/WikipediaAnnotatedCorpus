@@ -1,9 +1,9 @@
-# S-ID:wiki00087937-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:136.00000
+# S-ID:wiki00087937-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:136.00000 MOD:2023/06/20 MEMO:
 * 15D
 + 1D
-電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL
+電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 16D <NE:ARTIFACT:電波法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
@@ -19,15 +19,15 @@
 能率 のうりつ 能率 名詞 6 普通名詞 1 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="電波" sid="wiki00087937-00-01" id="2"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="電波" sid="wiki00087937-00-01" id="2"/><rel type="修飾" target="公平" sid="wiki00087937-00-01" id="3"/><rel type="修飾" mode="AND" target="能率的な" sid="wiki00087937-00-01" id="4"/>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="利用" sid="wiki00087937-00-01" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="利用" sid="wiki00087937-00-01" id="5"/><rel type="外の関係" target="こと" sid="wiki00087937-00-01" id="7"/>
 確保 かくほ 確保 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 8D
++ 8D <rel type="トイウ" target="確保する" sid="wiki00087937-00-01" id="6"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -39,64 +39,59 @@
 公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="ノ" target="公共" sid="wiki00087937-00-01" id="9"/>
++ 11D <rel type="修飾" target="公共" sid="wiki00087937-00-01" id="9"/>
 福祉 ふくし 福祉 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="福祉" sid="wiki00087937-00-01" id="10"/>
++ 12D <rel type="ヲ" target="福祉" sid="wiki00087937-00-01" id="10"/><rel type="ニヨッテ" target="こと" sid="wiki00087937-00-01" id="7"/><rel type="ガ" target="不特定:人"/>
 増進 ぞうしん 増進 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13D
-+ 14D
++ 14D <rel type="トイウ" target="増進する" sid="wiki00087937-00-01" id="11"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 14D
++ 14D <rel type="ノ" target="法律" sid="wiki00087937-00-01" id="16"/><rel type="=構" target="こと" sid="wiki00087937-00-01" id="12"/>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 16D <rel type="ガ" target="法律" sid="wiki00087937-00-01" id="16"/><rel type="ヲ" target="こと" sid="wiki00087937-00-01" id="12"/>
++ 16D <rel type="ガ" target="法律" sid="wiki00087937-00-01" id="16"/><rel type="ヲ" target="こと" sid="wiki00087937-00-01" id="12"/><rel type="ト" target="目的" sid="wiki00087937-00-01" id="13"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
 + 16D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00087937-00-01" id="1"/><rel type="=" target="法" sid="wiki00087937-00-01" id="1"/>
++ -1D <rel type="ガ" target="法" sid="wiki00087937-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00087937-00-01" id="15"/><rel type="=構" target="法" sid="wiki00087937-00-01" id="1"/>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087937-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000
+# S-ID:wiki00087937-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2023/06/20 MEMO:
 * 1D
-+ 1D
-でんぱ でんぱ でんぱ 名詞 6 サ変名詞 2 * 0 * 0 NIL
-* 5D
-+ 5D
-ほう ほう ほう 感動詞 12 * 0 * 0 * 0 NIL
++ 1D <rel type="=" target="電波" sid="wiki00087937-00-01" id="0"/>
+でんぱ でんぱ でんぱ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 5D <rel type="=" target="法" sid="wiki00087937-00-01" id="1"/><NE:ARTIFACT:でんぱほう>
+ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
+* -1D
 + 3D
-昭和 しょうわ 昭和 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-* 4D
-+ 4D <NE:DATE:昭和25年>
-25 25 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-* 5D
-+ 5D
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-131 131 131 名詞 6 数詞 7 * 0 * 0 NIL
-号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 4D
+25 にじゅうご 25 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D <rel type="時間" target="25年" sid="wiki00087937-00-02" id="3"/>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="ノ" target="法律" sid="wiki00087937-00-02" id="4"/><rel type="=" target="法" sid="wiki00087937-00-01" id="1"/><NE:ARTIFACT:昭和25年法律第131号>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+131 ひゃくさんじゅういち 131 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00087937-00-03 括弧始:（ 括弧終:） 括弧位置:68 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00087937-00-03 括弧始:（ 括弧終:） 括弧位置:68 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/20 MEMO:
 * -1D
-+ 1D
++ -1D <rel type="ノ" target="法" sid="wiki00087937-00-01" id="1"/><rel type="=" target="する" sid="wiki00087937-00-01" id="14"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D
 条 じょう 条 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS

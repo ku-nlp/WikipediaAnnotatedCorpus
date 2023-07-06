@@ -1,12 +1,12 @@
-# S-ID:wiki00086270-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000
+# S-ID:wiki00086270-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/06/19 MEMO:
 * 5D
 + 8D
-太政官 だいじょうかん 太政官 名詞 6 普通名詞 1 * 0 * 0 NIL
+太政官 だいじょうかん/おおいまつりごとのつかさ/だじょうかん 太政官 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 3D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 5D
++ 8D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D
@@ -18,18 +18,18 @@
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="機関" sid="wiki00086270-00" id="8"/>
++ 8D <rel type="ガ" target="機関" sid="wiki00086270-00" id="8"/><rel type="カラ" target="時代" sid="wiki00086270-00" id="4"/>
 始まる はじまる 始まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ 7D <rel type="ガ" target="機関" sid="wiki00086270-00" id="8"/>
++ 8D <rel type="ガ" target="機関" sid="wiki00086270-00" id="8"/>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
 + 8D
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="ノ" target="行政" sid="wiki00086270-00" id="7"/><rel type="=" target="太政官" sid="wiki00086270-00" id="0"/>
++ -1D <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="ノ？" target="行政" sid="wiki00086270-00" id="7"/><rel type="ノ" target="日本" sid="wiki00086270-00" id="1"/><rel type="=構" target="太政官" sid="wiki00086270-00" id="0"/><rel type="修飾" target="最高" sid="wiki00086270-00" id="6"/><memo text="CO"/>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00086270-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00086270-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/19 MEMO:
 * 1D
 + 1D
 律令 りつりょう 律令 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -40,21 +40,21 @@ EOS
 + 6D
 基づき もとづき 基づく 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
 * 3D
-+ 4D
++ 4P <rel type="ノ？" target="日本" sid="wiki00086270-00" id="1"/>
 司法 しほう 司法 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D
++ 5P <rel type="ノ？" target="日本" sid="wiki00086270-00" id="1"/>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
++ 6D <rel type="ノ？" target="日本" sid="wiki00086270-00" id="1"/>
 立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="ヲ" target="司法" sid="wiki00086270-01" id="3"/>
++ -1D <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="ニモトヅイテ" target="制" sid="wiki00086270-01" id="1"/><rel type="ヲ" target="司法" sid="wiki00086270-01" id="3"/><rel type="ヲ" mode="AND" target="行政" sid="wiki00086270-01" id="4"/><rel type="ヲ" mode="AND" target="立法" sid="wiki00086270-01" id="5"/>
 司った つかさどった 司る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00086270-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000
+# S-ID:wiki00086270-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/06/19 MEMO:
 * 1D
 + 1D
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
@@ -62,12 +62,12 @@ EOS
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="政権" sid="wiki00086270-02" id="4"/>
++ 4D <rel type="ガ" target="政権" sid="wiki00086270-02" id="4"/><rel type="カラ" target="時代" sid="wiki00086270-02" id="1"/>
 始まる はじまる 始まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 3D
 + 4D
 武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="武家" sid="wiki00086270-02" id="3"/>
++ 5D <rel type="ニヨッテ" target="武家" sid="wiki00086270-02" id="3"/>
 政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -80,30 +80,28 @@ EOS
 実質 じっしつ 実質 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 10P
-+ 13P <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/>
+* 9P
++ 12P <rel type="ガ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="時間" target="時代" sid="wiki00086270-02" id="5"/>
 機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0 NIL
 せ せ する 動詞 2 * 0 サ変動詞 16 文語未然形 19 NIL
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="政権" sid="wiki00086270-02" id="4"/>
++ 9D <rel type="=" target="機能せず" sid="wiki00086270-02" id="7"/>
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="種類" sid="wiki00086270-02" id="12"/><rel type="ヲ" target="それ" sid="wiki00086270-02" id="8"/>
++ 11D <rel type="ヲ" target="それ" sid="wiki00086270-02" id="8"/><rel type="ガ" target="二種類" sid="wiki00086270-02" id="11"/>
 挟んだ はさんだ 挟む 動詞 2 * 0 子音動詞マ行 9 タ形 10 NIL
 * 9D
-+ 12D
++ 11D <rel type="ノ" target="時代" sid="wiki00086270-02" id="5"/>
 前後 ぜんご 前後 名詞 6 サ変名詞 2 * 0 * 0 NIL
-* 10D
-+ 12D
++ 12D <rel type="修飾" target="前後" sid="wiki00086270-02" id="10"/><rel type="ノ" target="太政官" sid="wiki00086270-00" id="0"/>
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
-+ 13D
 種類 しゅるい 種類 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="種類" sid="wiki00086270-02" id="12"/><rel type="ニ" target="太政官" sid="wiki00086270-00" id="0"/>
++ -1D <rel type="ニ" target="太政官" sid="wiki00086270-00" id="0"/><rel type="ガ" target="二種類" sid="wiki00086270-02" id="11"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

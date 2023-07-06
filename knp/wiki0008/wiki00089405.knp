@@ -1,7 +1,7 @@
-# S-ID:wiki00089405-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000
-* 6D
-+ 7D <NE:ORGANIZATION:タイムズ>
-タイムズ タイムズ タイムズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+# S-ID:wiki00089405-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2023/06/21 MEMO:
+* 5D
++ 7D <NE:ARTIFACT:タイムズ>
+タイムズ たいむず タイムズ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
@@ -9,170 +9,157 @@
 英国 えいこく 英国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-1785 1785 1785 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 3D <NE:DATE:1785年>
+1785 せんななひゃくはちじゅうご 1785 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
-+ 7D <rel type="ガ" target="新聞" sid="wiki00089405-00-01" id="7"/>
+* 5D
++ 7D <rel type="ガ" target="新聞" sid="wiki00089405-00-01" id="7"/><rel type="デ" target="英国" sid="wiki00089405-00-01" id="1"/><rel type="時間" target="1785年" sid="wiki00089405-00-01" id="2"/>
 創刊 そうかん 創刊 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
 + 5D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-* 6D
-+ 7D <rel type="ガ" target="新聞" sid="wiki00089405-00-01" id="7"/>
++ 7D <rel type="ガ" target="新聞" sid="wiki00089405-00-01" id="7"/><rel type="デ" target="世界" sid="wiki00089405-00-01" id="4"/>
 最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
 + 7D
 日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="=" target="タイムズ" sid="wiki00089405-00-01" id="0"/>
++ -1D <rel type="ガ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="修飾" target="最古の" sid="wiki00089405-00-01" id="5"/><rel type="修飾" mode="AND" target="日刊" sid="wiki00089405-00-01" id="6"/><rel type="=構" target="タイムズ" sid="wiki00089405-00-01" id="0"/>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089405-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089405-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
 * -1D
-+ -1D
-The The The 名詞 6 組織名 6 * 0 * 0 NIL
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Times Times Times 名詞 6 組織名 6 * 0 * 0 NIL
++ 1D
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="タイムズ" sid="wiki00089405-00-01" id="0"/><NE:ARTIFACT:The　Times>
+Times Times Times 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00089405-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000
-* 6D
-+ 1D <rel type="ガ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="ヲ" target="部数" sid="wiki00089405-01-01" id="1"/>
+# S-ID:wiki00089405-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/06/21 MEMO:
+* 4D
++ 1D <rel type="ガ" target="不特定:人1"/><rel type="ヲ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="外の関係" target="部数" sid="wiki00089405-01-01" id="1"/>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="タイムズ" sid="wiki00089405-00-01" id="0"/>
++ 7D <rel type="ノ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="ノ？" target="発行" sid="wiki00089405-01-01" id="0"/>
 部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D
-2011 2011 2011 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+2011 にせんじゅういち 2011 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 3D
-+ 5D <NE:DATE:2011年4月>
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 4I <NE:DATE:2011年4月>
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6P
-+ 5D
-44万9,809 44万9,809 44万9,809 名詞 6 数詞 7 * 0 * 0 NIL
-+ 9P <rel type="ノ" target="部数" sid="wiki00089405-01-01" id="1"/><rel type="=" target="部数" sid="wiki00089405-01-01" id="1"/>
+* 4P
++ 7P <rel type="ガ" target="部数" sid="wiki00089405-01-01" id="1"/><rel type="時間" target="4月" sid="wiki00089405-01-01" id="3"/><rel type="=構" target="部数" sid="wiki00089405-01-01" id="1"/>
+44万9,809 よんじゅうよんまんきゅうせんはっぴゃくきゅう 44万9,809 名詞 6 数詞 7 * 0 * 0 NIL
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 5D
-+ 7D
-2020 2020 2020 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+* 4P
++ 6D
+2020 にせんにじゅう 2020 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 6D
-+ 9D <NE:DATE:2020年3月>
++ 7I <NE:DATE:2020年3月>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 9D
-36万5880 36万5880 36万5880 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="部数" sid="wiki00089405-01-01" id="1"/><rel type="ノ" target="部数" sid="wiki00089405-01-01" id="1"/><rel type="=" target="部" sid="wiki00089405-01-01" id="5"/>
++ -1D <rel type="ガ" target="部数" sid="wiki00089405-01-01" id="1"/><rel type="時間" target="3月" sid="wiki00089405-01-01" id="6"/><rel type="=構" target="部数" sid="wiki00089405-01-01" id="1"/>
+36万5880 さんじゅうろくまんごせんはっぴゃくはちじゅう 36万5880 名詞 6 数詞 7 * 0 * 0 NIL
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089405-01-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00089405-01-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/21 MEMO:
 * 1D
 + 1D <rel type="=" target="2011年" sid="wiki00089405-01-01" id="2"/>
-2011 2011 2011 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+2011 にせんじゅういち 2011 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 2D
 + 2D <rel type="=" target="4月" sid="wiki00089405-01-01" id="3"/>
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 3D
-+ 3D <NE:DATE:2011年4月4日>
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ 4P <NE:DATE:2011年4月4日>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 4D
-+ 4D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-* 5D
-+ 5D
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ -1D
++ 4D <rel type="ノ" target="2011年" sid="wiki00089405-01-02" id="0"/>
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <NE:DATE:5月1日>
+1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ -1D <rel type="マデ" target="1日" sid="wiki00089405-01-02" id="4"/><rel type="カラ" target="4日" sid="wiki00089405-01-02" id="2"/><rel type="ノ" target="部数" sid="wiki00089405-01-01" id="1"/>
 平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089405-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00089405-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/21 MEMO:
 * 4D
 + 5D
 また また また 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
-+ 3D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 3D
++ 4D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
 + 3D
 読売 よみうり 読売 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4P <NE:ORGANIZATION:読売新聞>
++ 4P <rel type="ノ？" target="日本" sid="wiki00089405-02-01" id="1"/><NE:ORGANIZATION:読売新聞>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <NE:ORGANIZATION:朝日新聞>
++ 5D <rel type="ノ？" target="日本" sid="wiki00089405-02-01" id="1"/><NE:ORGANIZATION:朝日新聞>
 朝日新聞 あさひしんぶん 朝日新聞 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="タイムズ" sid="wiki00089405-00-01" id="0"/>
++ -1D <rel type="ガ" target="タイムズ" sid="wiki00089405-00-01" id="0"/><rel type="ト" target="新聞" sid="wiki00089405-02-01" id="3"/><rel type="ト" mode="AND" target="朝日新聞" sid="wiki00089405-02-01" id="4"/>
 提携 ていけい 提携 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089405-02-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
-* 3D
-+ 1D
+# S-ID:wiki00089405-02-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/21 MEMO:
+* 2D
++ 1D <rel type="ガ" target="読売" sid="wiki00089405-02-01" id="2"/><rel type="ヲ" target="新聞" sid="wiki00089405-02-01" id="3"/><rel type="外の関係" target="部数" sid="wiki00089405-02-02" id="1"/>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="=" target="部数" sid="wiki00089405-01-01" id="1"/>
++ 4D <rel type="ノ" target="新聞" sid="wiki00089405-02-01" id="3"/><rel type="ノ？" target="発行" sid="wiki00089405-02-02" id="0"/>
 部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 3D
-+ 3D <rel type="=" target="部" sid="wiki00089405-01-01" id="5"/>
+* 2P
++ 4P <rel type="ガ" target="部数" sid="wiki00089405-02-02" id="1"/><rel type="=構" target="部数" sid="wiki00089405-02-02" id="1"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-800万 800万 800万 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D <rel type="=" target="部数" sid="wiki00089405-01-01" id="1"/>
+800万 はっぴゃくまん 800万 名詞 6 数詞 7 * 0 * 0 NIL
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 3D
-+ 5D
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* -1P
++ 4D <rel type="=" target="世界" sid="wiki00089405-00-01" id="4"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D <rel type="ガ" target="部数" sid="wiki00089405-02-02" id="1"/>
++ -1D <rel type="ガ" target="部数" sid="wiki00089405-02-02" id="1"/><rel type="デ" target="世界" sid="wiki00089405-02-02" id="3"/><rel type="ノ≒" target="部数" sid="wiki00089405-02-02" id="1"/><memo text="CO"/>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS
-# S-ID:wiki00089405-02-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000
-* 3D
-+ 1D
+# S-ID:wiki00089405-02-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/21 MEMO:
+* 2D
++ 1D <rel type="ガ" target="朝日新聞" sid="wiki00089405-02-01" id="4"/><rel type="ヲ" target="朝日新聞" sid="wiki00089405-02-01" id="4"/><rel type="外の関係" target="部数" sid="wiki00089405-02-03" id="1"/>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D
++ 4D <rel type="ノ" target="朝日新聞" sid="wiki00089405-02-01" id="4"/><rel type="ノ？" target="発行" sid="wiki00089405-02-03" id="0"/>
 部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
-* 3D
-+ 3D <rel type="=" target="部数" sid="wiki00089405-02-03" id="1"/>
+* 2P
++ 4P <rel type="ガ" target="部数" sid="wiki00089405-02-03" id="1"/><rel type="=構" target="部数" sid="wiki00089405-02-03" id="0"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-550万 550万 550万 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="部数" sid="wiki00089405-02-03" id="1"/><rel type="=" target="部数" sid="wiki00089405-02-03" id="1"/>
+550万 ごひゃくごじゅうまん 550万 名詞 6 数詞 7 * 0 * 0 NIL
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
-で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 3D
-+ 5D <rel type="=" target="世界" sid="wiki00089405-02-02" id="4"/>
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* -1P
++ 4D <rel type="=" target="世界" sid="wiki00089405-02-02" id="3"/>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D <rel type="ガ" target="部数" sid="wiki00089405-02-03" id="1"/>
++ -1D <rel type="ガ" target="部数" sid="wiki00089405-02-03" id="1"/><rel type="デ" target="世界" sid="wiki00089405-02-03" id="3"/><memo text="CO"/>
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS

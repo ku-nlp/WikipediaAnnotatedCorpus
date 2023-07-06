@@ -1,97 +1,96 @@
-# S-ID:wiki00080391-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00080391-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/03/14 MEMO:
 * 2D
-+ 4D <NE:LOCATION:マニラ市>
++ 4D <rel type="ノ？" target="国" sid="wiki00080391-00-01" id="3"/><NE:LOCATION:マニラ市>
 マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:フィリピン>
-フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 + 3D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <NE:LOCATION:フィリピン共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="ノ" target="国" sid="wiki00080391-00-01" id="3"/><rel type="=" target="マニラ市" sid="wiki00080391-00-01" id="0"/>
++ -1D <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="ノ" target="国" sid="wiki00080391-00-01" id="3"/><rel type="=構" target="マニラ市" sid="wiki00080391-00-01" id="0"/><memo text="CO"/>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00080391-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* -1D
-+ 4D
-; ; ; 名詞 6 普通名詞 1 * 0 * 0 NIL
+# S-ID:wiki00080391-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
+* 2D
++ 3D <memo text="脱落"/>
+; ; ; 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 4D
+* 2D
++ 2D
 漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="不特定:人"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="デ" target="漢字" sid="wiki00080391-00-02" id="1"/><rel type="ヲ" target="マニラ市" sid="wiki00080391-00-01" id="0"/>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="首都" sid="wiki00080391-00-01" id="4"/>
-馬尼剌 馬尼剌 馬尼剌 名詞 6 普通名詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="デ" target="表記" sid="wiki00080391-00-02" id="2"/><NE:LOCATION:馬尼剌>
+馬尼剌 まにら 馬尼剌 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
-# S-ID:wiki00080391-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000
+# S-ID:wiki00080391-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/05 MEMO:
 * 1D
-+ 1D
-メトロ めとろ メトロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <rel type="=" target="首都" sid="wiki00080391-00-01" id="4"/><NE:LOCATION:マニラ>
-マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="=≒" target="首都" sid="wiki00080391-00-01" id="4"/>
+メトロ めとろ メトロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <rel type="修飾" target="メトロ" sid="wiki00080391-01" id="0"/><rel type="=≒" target="マニラ市" sid="wiki00080391-00-01" id="0"/><NE:LOCATION:メトロ・マニラ>
+マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ガ" target="圏" sid="wiki00080391-01" id="5"/><rel type="ニ" target="不特定:人"/>
++ 5D <rel type="ガ" target="圏" sid="wiki00080391-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="マニラ" sid="wiki00080391-01" id="1"/>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 3D
-+ 4D <rel type="=" target="首都" sid="wiki00080391-00-01" id="4"/><NE:LOCATION:マニラ>
-マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="=" target="マニラ" sid="wiki00080391-01" id="3"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="首都" sid="wiki00080391-01" id="4"/>
-圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="マニラ" sid="wiki00080391-01" id="1"/>
+マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="=" target="首都" sid="wiki00080391-00-01" id="4"/>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="ノ" target="首都" sid="wiki00080391-01" id="4"/><rel type="=構" target="マニラ" sid="wiki00080391-01" id="1"/><rel type="=≒" mode="AND" target="マニラ市" sid="wiki00080391-00-01" id="0"/><NE:LOCATION:マニラ首都圏>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 7D <rel type="ガ" target="都市" sid="wiki00080391-01" id="7"/><rel type="ニ" target="圏" sid="wiki00080391-01" id="5"/>
 所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="=" target="首都" sid="wiki00080391-00-01" id="4"/>
++ -1D <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="=構" target="マニラ市" sid="wiki00080391-00-01" id="0"/><memo text="CO"/>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00080391-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00080391-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/05 MEMO:
 * 1D
 + 2D <rel type="=" target="フィリピン" sid="wiki00080391-00-01" id="1"/><NE:LOCATION:フィリピン>
 フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 2D
-ルソン ルソン ルソン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <NE:LOCATION:ルソン島>
+ルソン るそん ルソン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="ノ？" target="フィリピン" sid="wiki00080391-02" id="0"/><NE:LOCATION:ルソン島>
 島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 4D
-中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="島" sid="wiki00080391-02" id="2"/>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="島" sid="wiki00080391-02" id="2"/>
+中西部 ちゅうせいぶ 中西部 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 9P <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="ニ" target="西部" sid="wiki00080391-02" id="4"/>
++ 8P <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="ニ" target="中西部" sid="wiki00080391-02" id="3"/>
 あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="マニラ" sid="wiki00080391-01" id="3"/>
++ 6D
 マニラ まにら マニラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8D <NE:LOCATION:マニラ湾>
++ 7D <rel type="ノ？" target="フィリピン" sid="wiki00080391-02" id="0"/><NE:LOCATION:マニラ湾>
 湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 9D <rel type="ノ" target="湾" sid="wiki00080391-02" id="7"/>
++ 8D <rel type="ノ" target="湾" sid="wiki00080391-02" id="6"/>
 東岸 とうがん 東岸 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/><rel type="ニ" target="東岸" sid="wiki00080391-02" id="8"/>
++ -1D <rel type="ニ" target="東岸" sid="wiki00080391-02" id="7"/><rel type="ガ" target="マニラ市" sid="wiki00080391-00-01" id="0"/>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

@@ -1,63 +1,70 @@
-# S-ID:wiki00088612-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00088612-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/21 MEMO:
 * 3D
-+ 1D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4D
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D <rel type="ガ" target="士" sid="wiki00088612-00-01" id="2"/><rel type="ヲ" target="不特定:人"/>
 弁護 べんご 弁護 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
++ 3D <rel type="ノ？" target="弁護" sid="wiki00088612-00-01" id="1"/>
 士 し 士 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
++ 4D <rel type="ガ" target="士" sid="wiki00088612-00-01" id="2"/><rel type="デ" target="会" sid="wiki00088612-00-01" id="4"/>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 10D <NE:ORGANIZATION:日本弁護士連合会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 2D
-+ 8D <rel type="=" target="日本" sid="wiki00088612-00-01" id="0"/><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 3D
++ 10D <rel type="=" target="日本" sid="wiki00088612-00-01" id="0"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D
++ 7D <rel type="ガ" target="士" sid="wiki00088612-00-01" id="7"/><rel type="ヲ" target="不特定:人"/>
 弁護 べんご 弁護 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="=" target="士" sid="wiki00088612-00-01" id="2"/>
++ 8D <rel type="=" target="士" sid="wiki00088612-00-01" id="2"/><rel type="ノ？" target="弁護" sid="wiki00088612-00-01" id="6"/>
 士 し 士 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="士" sid="wiki00088612-00-01" id="7"/>
++ 10D <rel type="ノ？" target="日本" sid="wiki00088612-00-01" id="5"/><rel type="ノ？" mode="AND" target="士" sid="wiki00088612-00-01" id="7"/>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 10D
++ 10D <rel type="=" target="連合" sid="wiki00088612-00-01" id="3"/><rel type="ガ" target="会" sid="wiki00088612-00-01" id="8"/>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会" sid="wiki00088612-00-01" id="4"/><rel type="ノ" target="会" sid="wiki00088612-00-01" id="8"/><rel type="=" target="会" sid="wiki00088612-00-01" id="4"/>
++ -1D <rel type="ガ" target="会" sid="wiki00088612-00-01" id="4"/><rel type="=構" target="会" sid="wiki00088612-00-01" id="4"/><rel type="修飾" target="連合" sid="wiki00088612-00-01" id="9"/><rel type="ノ？" target="会" sid="wiki00088612-00-01" id="8"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00088612-00-01" id="5"/>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00088612-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00088612-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/21 MEMO:
 * 1P
-+ 3P <rel type="=" target="日本" sid="wiki00088612-00-01" id="0"/>
-にほんべんごしれんごうかい にほんべんごしれんごうかい にほんべんごしれんごうかい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="日本" sid="wiki00088612-00-01" id="0"/>
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="弁護" sid="wiki00088612-00-01" id="1"/>
+べんご べんご べんご 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="士" sid="wiki00088612-00-01" id="2"/>
+し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="連合" sid="wiki00088612-00-01" id="3"/>
+れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="会" sid="wiki00088612-00-01" id="4"/><NE:ORGANIZATION:にほんべんごしれんごうかい>
+かい かい かい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
++ 6D <rel type="ノ" target="会" sid="wiki00088612-00-01" id="4"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="略称" sid="wiki00088612-00-02" id="1"/>
-JFBA JFBA JFBA 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="ガ" target="略称" sid="wiki00088612-00-02" id="5"/><rel type="=構" target="略称" sid="wiki00088612-00-02" id="5"/><rel type="=" mode="AND" target="会" sid="wiki00088612-00-01" id="4"/><NE:ORGANIZATION:JFBA>
+JFBA じぇーえふびーえー JFBA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00088612-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00088612-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/21 MEMO:
 * 1D
-+ 1D
++ 1D <rel type="ノ" target="会" sid="wiki00088612-00-01" id="4"/><rel type="=" target="略称" sid="wiki00088612-00-02" id="5"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00088612-01-01" id="0"/><rel type="=" target="略称" sid="wiki00088612-01-01" id="0"/><NE:ORGANIZATION:日弁連>
++ -1D <rel type="ガ" target="略称" sid="wiki00088612-01-01" id="0"/><rel type="=" target="会" sid="wiki00088612-00-01" id="4"/><rel type="=構" mode="AND" target="略称" sid="wiki00088612-01-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:日弁連>
 日弁連 にちべんれん 日弁連 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00088612-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00088612-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="JFBA" sid="wiki00088612-00-02" id="3"/>
-にちべんれん にちべんれん にちべんれん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="日弁連" sid="wiki00088612-01-01" id="1"/><NE:ORGANIZATION:にちべんれん>
+にちべんれん にちべんれん にちべんれん 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

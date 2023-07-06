@@ -1,8 +1,8 @@
-# S-ID:wiki00087774-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00087774-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/20 MEMO:
 * 10D
 + 1D
-獣 けもの 獣 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D
+獣 じゅう 獣 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ニカンシテ" target="獣" sid="wiki00087774-00-01" id="0"/>
 医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,9 +11,9 @@
 医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:人"/><rel type="ヲ" mode="？" target="不特定:状況"/>
 診断 しんだん 診断 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6P
++ 6P <rel type="ニカンシテ" target="診断" sid="wiki00087774-00-01" id="3"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -25,64 +25,64 @@
 * 5P
 + 8D
 伴侶 はんりょ 伴侶 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P
++ 10P <rel type="修飾" target="伴侶" sid="wiki00087774-00-01" id="7"/><rel type="=≒" target="獣" sid="wiki00087774-00-01" id="0"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
 + 10D
 産業 さんぎょう 産業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P
++ 12P <rel type="修飾" target="産業" sid="wiki00087774-00-01" id="9"/><rel type="=≒" target="獣" sid="wiki00087774-00-01" id="0"/><rel type="=≒" mode="AND" target="動物" sid="wiki00087774-00-01" id="8"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
 + 12D
 野生 やせい 野生 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14P
++ 14P <rel type="修飾" target="野生" sid="wiki00087774-00-01" id="11"/><rel type="=≒" target="獣" sid="wiki00087774-00-01" id="0"/><rel type="=≒" mode="AND" target="動物" sid="wiki00087774-00-01" id="10"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 14D
 エキゾチック えきぞちっく エキゾチックだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 15D
-アニマル アニマル アニマル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="エキゾチック" sid="wiki00087774-00-01" id="13"/><rel type="=≒" target="獣" sid="wiki00087774-00-01" id="0"/><rel type="=≒" mode="AND" target="動物" sid="wiki00087774-00-01" id="12"/>
+アニマル あにまる アニマル 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="原理" sid="wiki00087774-00-01" id="6"/><rel type="ニ" target="アニマル" sid="wiki00087774-00-01" id="14"/>
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="原理" sid="wiki00087774-00-01" id="6"/><rel type="ヲ" mode="AND" target="学" sid="wiki00087774-00-01" id="4"/><rel type="ヲ" mode="AND" target="医学" sid="wiki00087774-00-01" id="2"/><rel type="外の関係" target="ため" sid="wiki00087774-00-01" id="16"/><rel type="ニ" target="アニマル" sid="wiki00087774-00-01" id="14"/><rel type="ニ" mode="AND" target="動物" sid="wiki00087774-00-01" id="12"/><rel type="ニ" mode="AND" target="動物" sid="wiki00087774-00-01" id="10"/><rel type="ニ" mode="AND" target="動物" sid="wiki00087774-00-01" id="8"/>
 応用 おうよう 応用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 17D
++ 17D <rel type="ノ" target="応用する" sid="wiki00087774-00-01" id="15"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="医学" sid="wiki00087774-00-01" id="1"/><rel type="=" target="医学" sid="wiki00087774-00-01" id="1"/>
++ -1D <rel type="ガ" target="医学" sid="wiki00087774-00-01" id="1"/><rel type="修飾" target="ため" sid="wiki00087774-00-01" id="16"/><rel type="=構" target="医学" sid="wiki00087774-00-01" id="1"/>
 学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087774-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00087774-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/29 MEMO:
 * -1D
-+ 1D <rel type="=" target="動物" sid="wiki00087774-00-01" id="12"/>
-じゅうい じゅうい じゅうい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="動物" sid="wiki00087774-00-01" id="12"/>
-がく がく がく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="獣" sid="wiki00087774-00-01" id="0"/>
+じゅう じゅう じゅう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="医学" sid="wiki00087774-00-01" id="1"/>
+いがく いがく いがく 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087774-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00087774-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/29 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="動物" sid="wiki00087774-00-01" id="8"/>
 ペット ぺっと ペット 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087774-00-04 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00087774-00-04 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/29 MEMO:
 * -1D
-+ -1D
++ -1D <rel type="=" target="動物" sid="wiki00087774-00-01" id="10"/>
 家畜 かちく 家畜 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087774-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000
+# S-ID:wiki00087774-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/20 MEMO:
 * 11D
-+ 1D
-獣医 じゅうい 獣医 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="獣医" sid="wiki00087774-01" id="0"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="獣" sid="wiki00087774-00-01" id="0"/>
+獣 じゅう 獣医 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=" target="医学" sid="wiki00087774-00-01" id="1"/>
+医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="家畜" sid="wiki00087774-00-04" id="0"/>
@@ -95,14 +95,14 @@ EOS
 実践 じっせん 実践 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="家畜" sid="wiki00087774-01" id="2"/>
++ 6D <rel type="ノ" target="獣" sid="wiki00087774-01" id="0"/>
 群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D
++ 8D <rel type="トイウ" target="群" sid="wiki00087774-01" id="5"/>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 8D
++ 8D <rel type="ガ" target="獣" sid="wiki00087774-01" id="0"/>
 健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + 10P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="健康" sid="wiki00087774-01" id="7"/>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -112,53 +112,53 @@ EOS
 疾患 しっかん 疾患 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D
-モニタリング モニタリング モニタリング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="疾患" sid="wiki00087774-01" id="9"/>
+モニタリング もにたりんぐ モニタリング 名詞 6 サ変名詞 2 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 12P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="管理" sid="wiki00087774-01" id="8"/>
++ 12P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="実践" sid="wiki00087774-01" id="4"/><rel type="ヲ" mode="AND" target="管理" sid="wiki00087774-01" id="8"/><rel type="ヲ" mode="AND" target="モニタリングなど" sid="wiki00087774-01" id="10"/><rel type="外の関係" target="ため" sid="wiki00087774-01" id="13"/>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="管理" sid="wiki00087774-01" id="8"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="ため" sid="wiki00087774-01" id="13"/><rel type="ヲ" target="獣" sid="wiki00087774-01" id="0"/>
 保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 14D <rel type="ノ" target="研究し" sid="wiki00087774-01" id="11"/>
++ 14D <rel type="ノ" target="研究し" sid="wiki00087774-01" id="11"/><rel type="ノ" mode="AND" target="保護する" sid="wiki00087774-01" id="12"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="分野" sid="wiki00087774-01" id="15"/><rel type="ニ" target="ため" sid="wiki00087774-01" id="13"/>
++ 15D <rel type="ガ" target="分野" sid="wiki00087774-01" id="15"/><rel type="ニ" target="ため" sid="wiki00087774-01" id="13"/><rel type="ニ" mode="？" target="なし"/>
 不可欠の ふかけつの 不可欠だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D <rel type="ガ" target="学" sid="wiki00087774-01" id="1"/><rel type="=" target="学" sid="wiki00087774-01" id="1"/>
++ -1D <rel type="ガ" target="学" sid="wiki00087774-01" id="1"/><rel type="=構" target="学" sid="wiki00087774-01" id="1"/>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00087774-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000
+# S-ID:wiki00087774-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/06/20 MEMO:
 * 1D
 + 1D
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 3D <rel type="ノ" target="学" sid="wiki00087774-01" id="1"/>
++ 3D <rel type="修飾" target="科学的" sid="wiki00087774-02" id="0"/>
 知識 ちしき 知識 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="知識" sid="wiki00087774-02" id="1"/>
++ 3P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="知識" sid="wiki00087774-02" id="1"/>
 取得 しゅとく 取得 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="知識" sid="wiki00087774-02" id="1"/>
 応用 おうよう 応用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="応用" sid="wiki00087774-02" id="3"/>
++ 5D <rel type="ガ" target="応用" sid="wiki00087774-02" id="3"/><rel type="ガ" mode="AND" target="取得" sid="wiki00087774-02" id="2"/><rel type="デ" target="医学" sid="wiki00087774-01" id="1"/>
 必要 ひつよう 必要だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16P
-+ 24P <rel type="ガ" target="取得" sid="wiki00087774-02" id="2"/>
++ 24P <rel type="ガ" target="不特定:状況"/><rel type="ト" target="必要" sid="wiki00087774-02" id="4"/>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
@@ -170,11 +170,11 @@ EOS
 野生 やせい 野生 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 9D <rel type="=" target="動物" sid="wiki00087774-00-01" id="12"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D
++ 10D <rel type="=≒" target="家畜" sid="wiki00087774-02" id="6"/><rel type="=≒" mode="AND" target="動物" sid="wiki00087774-02" id="8"/><rel type="ノ" target="家畜" sid="wiki00087774-02" id="6"/><rel type="ノ" mode="AND" target="動物" sid="wiki00087774-02" id="8"/><memo text="SE"/>
 両方 りょうほう 両方 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 11D <rel type="=" target="疾患" sid="wiki00087774-01" id="9"/>
++ 11D <rel type="=" target="疾患" sid="wiki00087774-01" id="9"/><rel type="ノ？" target="両方" sid="wiki00087774-02" id="9"/>
 疾患 しっかん 疾患 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 15P <rel type="ガ" target="人間" sid="wiki00087774-02" id="17"/><rel type="ヲ" target="疾患" sid="wiki00087774-02" id="10"/>
 防御 ぼうぎょ 防御 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -183,17 +183,17 @@ EOS
 * 8P
 + 13D
 食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15P
++ 15P <rel type="ニカンシテ" target="食品" sid="wiki00087774-02" id="12"/>
 衛生 えいせい 衛生 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 15D
 環境 かんきょう 環境 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D
++ 16D <rel type="ニカンシテ" target="環境" sid="wiki00087774-02" id="14"/><rel type="=≒" target="衛生" sid="wiki00087774-02" id="13"/>
 衛生 えいせい 衛生 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 11D
-+ 18D
+* 12D
++ 20D
 通じた つうじた 通ずる 動詞 2 * 0 ザ変動詞 17 タ形 10 NIL
 * 11D
 + 18D
@@ -204,25 +204,25 @@ EOS
 健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 20D <rel type="ガ" target="人間" sid="wiki00087774-02" id="17"/><rel type="ヲ" target="健康" sid="wiki00087774-02" id="18"/>
++ 20P <rel type="ガ" target="人間" sid="wiki00087774-02" id="17"/><rel type="ヲ" target="健康" sid="wiki00087774-02" id="18"/><rel type="ヲツウジテ" target="防御" sid="wiki00087774-02" id="11"/><rel type="ヲツウジテ" mode="AND" target="衛生" sid="wiki00087774-02" id="13"/><rel type="ヲツウジテ" mode="AND" target="衛生" sid="wiki00087774-02" id="15"/>
 維持 いじ 維持 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 22D <rel type="ガ" target="人間" sid="wiki00087774-02" id="17"/><rel type="ヲ" target="健康" sid="wiki00087774-02" id="18"/>
++ 22D <rel type="ガ" target="人間" sid="wiki00087774-02" id="17"/><rel type="ヲ" target="健康" sid="wiki00087774-02" id="18"/><rel type="ヲツウジテ" target="防御" sid="wiki00087774-02" id="11"/><rel type="ヲツウジテ" mode="AND" target="衛生" sid="wiki00087774-02" id="13"/><rel type="ヲツウジテ" mode="AND" target="衛生" sid="wiki00087774-02" id="15"/>
 増進 ぞうしん 増進 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 22D
++ 22D <rel type="=構" target="維持" sid="wiki00087774-02" id="19"/><rel type="=構" mode="AND" target="増進" sid="wiki00087774-02" id="20"/>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 23D <rel type="ガ" target="技術" sid="wiki00087774-02" id="23"/><rel type="ヲ" target="増進" sid="wiki00087774-02" id="20"/>
++ 23D <rel type="ガ" target="技術" sid="wiki00087774-02" id="23"/><rel type="ヲ" target="増進" sid="wiki00087774-02" id="20"/><rel type="ヲ" mode="AND" target="維持" sid="wiki00087774-02" id="19"/><rel type="ト" target="目的" sid="wiki00087774-02" id="21"/>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 16D
 + 24D
 技術 ぎじゅつ 技術 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="技術" sid="wiki00087774-02" id="23"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="技術" sid="wiki00087774-02" id="23"/><rel type="デ" target="医学" sid="wiki00087774-01" id="1"/>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

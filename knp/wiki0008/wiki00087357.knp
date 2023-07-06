@@ -1,4 +1,4 @@
-# S-ID:wiki00087357-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000
+# S-ID:wiki00087357-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:56.00000 MOD:2023/06/19 MEMO:
 * 1P
 + 1D
 オイル おいる オイル 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -16,26 +16,26 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D
-1970 1970 1970 名詞 6 数詞 7 * 0 * 0 NIL
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 7D
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+1970 せんきゅうひゃくななじゅう 1970 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <rel type="ノ" target="1970年" sid="wiki00087357-00" id="4"/><NE:DATE:1970年代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 7D
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 13D
-+ 19D <rel type="ガ" target="混乱" sid="wiki00087357-00" id="19"/>
++ 19D <rel type="ガ" target="混乱" sid="wiki00087357-00" id="19"/><rel type="時間" target="代" sid="wiki00087357-00" id="5"/>
 発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 10D
++ 10D <rel type="=" target="オイル" sid="wiki00087357-00" id="2"/>
 原油 げんゆ 原油 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="原油" sid="wiki00087357-00" id="8"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="原油" sid="wiki00087357-00" id="8"/><rel type="ニ" target="不特定:人"/>
 供給 きょうきゅう 供給 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 13P <rel type="ガ" target="供給" sid="wiki00087357-00" id="9"/>
 逼迫 ひっぱく 逼迫 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -57,22 +57,22 @@
 * 11D
 + 16D
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D
++ 17D <rel type="ノ？" target="世界" sid="wiki00087357-00" id="15"/>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 19D <rel type="ガ" target="経済全体" sid="wiki00087357-00" id="16"/><rel type="ヲ" target="混乱" sid="wiki00087357-00" id="19"/>
++ 19D <rel type="ガ" target="経済全体" sid="wiki00087357-00" id="16"/><rel type="ヲ" target="混乱" sid="wiki00087357-00" id="19"/><rel type="ニトモナッテ" target="逼迫" sid="wiki00087357-00" id="10"/><rel type="ニトモナッテ" mode="AND" target="高騰" sid="wiki00087357-00" id="13"/>
 きたした きたした きたす 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL
 * 13D
 + 19D
 大きな おおきな 大きな 連体詞 11 * 0 * 0 * 0 NIL
 * 14D
-+ 20D <rel type="ガ" target="経済全体" sid="wiki00087357-00" id="16"/>
++ 20D <rel type="ガ" target="経済全体" sid="wiki00087357-00" id="16"/><rel type="=≒" target="ショック" sid="wiki00087357-00" id="3"/>
 混乱 こんらん 混乱 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ショック" sid="wiki00087357-00" id="3"/><rel type="ノ" target="混乱" sid="wiki00087357-00" id="19"/><rel type="=" target="ショック" sid="wiki00087357-00" id="1"/>
++ -1D <rel type="ガ" target="ショック" sid="wiki00087357-00" id="3"/><rel type="ノ" target="混乱" sid="wiki00087357-00" id="19"/><rel type="=構" target="ショック" sid="wiki00087357-00" id="1"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

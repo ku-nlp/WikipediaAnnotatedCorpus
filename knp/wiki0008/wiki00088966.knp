@@ -1,13 +1,13 @@
-# S-ID:wiki00088966-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000
+# S-ID:wiki00088966-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000 MOD:2023/06/21 MEMO:
 * 18D
 + 1D
-計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 19D <rel type="ノ" target="計量" sid="wiki00088966-00-01" id="0"/>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL
+計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 19D <rel type="ニカンシテ" target="計量" sid="wiki00088966-00-01" id="0"/><NE:ARTIFACT:計量法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="計量" sid="wiki00088966-00-01" id="0"/>
++ 3D <rel type="=" target="計量" sid="wiki00088966-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
 計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
@@ -15,7 +15,7 @@
 基準 きじゅん 基準 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 8P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="基準" sid="wiki00088966-00-01" id="3"/>
++ 8P <rel type="ヲ" target="基準" sid="wiki00088966-00-01" id="3"/><rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/>
 定め さだめ 定める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
@@ -30,13 +30,13 @@
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 14P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="実施" sid="wiki00088966-00-01" id="7"/>
++ 14P <rel type="ヲ" target="実施" sid="wiki00088966-00-01" id="7"/><rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/>
 確保 かくほ 確保 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 14D
-もって もって もる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 14D <rel type="ヲ" target="定め" sid="wiki00088966-00-01" id="4"/><rel type="ヲ" mode="AND" target="確保し" sid="wiki00088966-00-01" id="8"/>
+もって もって もって 副詞 8 * 0 * 0 * 0 NIL
 * 10D
 + 11D
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -54,77 +54,70 @@
 向上 こうじょう 向上 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 15D <rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/><rel type="ニ" target="向上" sid="wiki00088966-00-01" id="13"/>
++ 15D <rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/><rel type="ニ" target="発展" sid="wiki00088966-00-01" id="11"/><rel type="ニ" mode="AND" target="向上" sid="wiki00088966-00-01" id="13"/><rel type="外の関係" target="こと" sid="wiki00088966-00-01" id="15"/>
 寄与 きよ 寄与 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 16D
-+ 17D
++ 17D <rel type="トイウ" target="定め" sid="wiki00088966-00-01" id="4"/><rel type="トイウ" mode="AND" target="確保し" sid="wiki00088966-00-01" id="8"/><rel type="トイウ" mode="AND" target="寄与する" sid="wiki00088966-00-01" id="14"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 17D <rel type="ノ" target="法" sid="wiki00088966-00-01" id="1"/>
++ 17D <rel type="=構" target="こと" sid="wiki00088966-00-01" id="15"/><rel type="ノ" target="法律" sid="wiki00088966-00-01" id="19"/>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 19D <rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/><rel type="ヲ" target="こと" sid="wiki00088966-00-01" id="15"/>
++ 19D <rel type="ガ" target="法律" sid="wiki00088966-00-01" id="19"/><rel type="ヲ" target="こと" sid="wiki00088966-00-01" id="15"/><rel type="ト" target="目的" sid="wiki00088966-00-01" id="16"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 18D
 + 19D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00088966-00-01" id="1"/><rel type="=" target="法" sid="wiki00088966-00-01" id="1"/>
++ -1D <rel type="ガ" target="法" sid="wiki00088966-00-01" id="1"/><rel type="=構" target="法" sid="wiki00088966-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00088966-00-01" id="18"/>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00088966-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000
-* 7D
-+ 7D <rel type="=" target="経済" sid="wiki00088966-00-01" id="10"/>
-けいりょう けいりょう けいりょう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-* 7D
-+ 7D
-ほう ほう ほう 感動詞 12 * 0 * 0 * 0 NIL
+# S-ID:wiki00088966-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2023/06/21 MEMO:
+* 1P
++ 1D <rel type="=" target="計量" sid="wiki00088966-00-01" id="0"/>
+けいりょう けいりょう けいりょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 7P <rel type="=" target="法" sid="wiki00088966-00-01" id="1"/><NE:ARTIFACT:けいりょうほう>
+ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
+* -1D
 + 3D
-平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-* 4D
+平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
 + 4D
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 5D
+4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 5D
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-* 7D
-+ 7D <NE:DATE:平成4年5月20日>
-20 20 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-* 7D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D
+20 はつ 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 7D
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
-* -1D
-+ -1D
-第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-51 51 51 名詞 6 数詞 7 * 0 * 0 NIL
-号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="法" sid="wiki00088966-00-01" id="1"/><NE:ARTIFACT:平成4年5月20日法律第51号>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+51 ごじゅういち 51 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
-# S-ID:wiki00088966-00-03 括弧始:（ 括弧終:） 括弧位置:80 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00088966-00-03 括弧始:（ 括弧終:） 括弧位置:80 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/21 MEMO:
 * -1D
-+ 1D
++ -1D <rel type="ノ" target="法" sid="wiki00088966-00-01" id="1"/><rel type="=" target="する" sid="wiki00088966-00-01" id="17"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
-+ -1D
 条 じょう 条 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS
-# S-ID:wiki00088966-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00088966-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/21 MEMO:
 * 1D
-+ 1D <rel type="=" target="経済" sid="wiki00088966-00-01" id="10"/>
++ 1P <rel type="=" target="経済" sid="wiki00088966-00-01" id="10"/>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 + 2D
 産業 さんぎょう 産業 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="ノ" target="産業" sid="wiki00088966-01" id="1"/><NE:ORGANIZATION:経済産業省>
++ 3D <rel type="ノ" target="産業" sid="wiki00088966-01" id="1"/><rel type="ノ" mode="AND" target="経済" sid="wiki00088966-01" id="0"/><rel type="ノ？" target="日本" sid="wiki00088966-00-01" id="18"/><NE:ORGANIZATION:経済産業省>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

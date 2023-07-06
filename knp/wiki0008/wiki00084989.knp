@@ -1,4 +1,4 @@
-# S-ID:wiki00084989-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00084989-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/15 MEMO:
 * 3D
 + 6D
 ネズミ ねずみ ネズミ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -7,74 +7,79 @@
 * 2D
 + 2D
 哺乳 ほにゅう 哺乳 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="哺乳" sid="wiki00084989-00-01" id="1"/>
++ 4D <rel type="ノ" target="哺乳" sid="wiki00084989-00-01" id="1"/>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D
++ 4D <rel type="=" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
 ネズミ ねずみ ネズミ 名詞 6 普通名詞 1 * 0 * 0 NIL
-目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 5D <rel type="ノ" target="類" sid="wiki00084989-00-01" id="2"/><rel type="ノ" mode="AND" target="ネズミ" sid="wiki00084989-00-01" id="3"/>
+目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D
-数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="数" sid="wiki00084989-00-01" id="4"/>
++ 6D <rel type="ノ" target="目" sid="wiki00084989-00-01" id="4"/><memo text="「いくつかの科」と理解"/>
+数 すう 数 名詞 6 数詞 7 * 0 * 0 NIL
 科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="ノ" target="科" sid="wiki00084989-00-01" id="5"/><rel type="=" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
++ -1D <rel type="ガ" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="=構" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="ノ" target="数科" sid="wiki00084989-00-01" id="5"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084989-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00084989-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/18 MEMO:
 * 1P
-+ 1P
++ 1P <rel type="=" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
 鼠 ねずみ 鼠 名詞 6 普通名詞 1 * 0 * 0 NIL
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D
-鼡 鼡 鼡 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+鼡 ねずみ 鼡 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084989-00-03 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00084989-00-03 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/15 MEMO:
 * -1D
-+ -1D
-齧歯目 齧歯目 齧歯目 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D
+齧歯 げっし 齧歯 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="齧歯" sid="wiki00084989-00-03" id="0"/><rel type="=" target="目" sid="wiki00084989-00-01" id="4"/>
+目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084989-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000
+# S-ID:wiki00084989-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/15 MEMO:
 * 1P
-+ 1P
-ハツカネズミ ハツカネズミ ハツカネズミ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D
+ハツカ はつか ハツカ 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3P <rel type="修飾" target="ハツカ" sid="wiki00084989-01-01" id="0"/><rel type="=≒" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+ネズミ ねずみ ネズミ 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3D
-+ 6D <NE:LOCATION:ドブネズミ>
-ドブネズミ ドブネズミ ドブネズミ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:single>
+* 4D
++ 3D
+ドブ どぶ ドブ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="ドブ" sid="wiki00084989-01-01" id="2"/><rel type="=≒" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+ネズミ ねずみ ネズミ 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3P
-+ 3D
-1300 1300 1300 名詞 6 数詞 7 * 0 * 0 NIL
-+ 6P <rel type="ノ" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+* 4D
++ 6D <rel type="ノ" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="=≒" target="ネズミ" sid="wiki00084989-01-01" id="1"/><rel type="=≒" mode="AND" target="ネズミ" sid="wiki00084989-01-01" id="3"/><rel type="=構" mode="AND" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+1300 せんさんびゃく 1300 名詞 6 数詞 7 * 0 * 0 NIL
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 4D
-+ 5D
-1065 1065 1065 名詞 6 数詞 7 * 0 * 0 NIL
-+ 6D
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL
-1800 1800 1800 名詞 6 数詞 7 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="科" sid="wiki00084989-00-01" id="5"/>
+* 4P
++ 6P
+1065 せんろくじゅうご 1065 名詞 6 数詞 7 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+* 5P
++ 7D <rel type="カラ" target="1065" sid="wiki00084989-01-01" id="5"/><rel type="ノ" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="=≒" target="ネズミ" sid="wiki00084989-01-01" id="1"/><rel type="=≒" mode="AND" target="ネズミ" sid="wiki00084989-01-01" id="3"/><rel type="=構" mode="AND" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+1800 せんはっぴゃく 1800 名詞 6 数詞 7 * 0 * 0 NIL
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6P
-+ 11P <rel type="ガ" target="種" sid="wiki00084989-01-01" id="6"/><rel type="ニ" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
+* 7D
++ 11P <rel type="ニ" target="ネズミ" sid="wiki00084989-00-01" id="0"/><rel type="ガ" target="1300種" sid="wiki00084989-01-01" id="4"/><rel type="ガ" mode="OR" target="1800種" sid="wiki00084989-01-01" id="6"/>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 6D
-+ 9D
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+* 7D
 + 10D
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ 10D <rel type="ガ" target="グループ" sid="wiki00084989-01-01" id="10"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 11D
++ 11D <rel type="修飾" target="一" sid="wiki00084989-01-01" id="8"/><rel type="修飾" mode="AND" target="大" sid="wiki00084989-01-01" id="9"/>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -84,7 +89,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084989-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000
+# S-ID:wiki00084989-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/15 MEMO:
 * 1D
 + 1D
 ペット ぺっと ペット 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -95,44 +100,44 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 3D
-ファンシー ファンシー ファンシー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="総称" sid="wiki00084989-00-01" id="6"/>
-ラット ラット ラット 名詞 6 普通名詞 1 * 0 * 0 NIL
+ファンシー ふぁんしー ファンシー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="ファンシー" sid="wiki00084989-01-02" id="2"/><rel type="トシテ" target="ペット" sid="wiki00084989-01-02" id="0"/><rel type="ガ" target="ネズミ" sid="wiki00084989-01-01" id="3"/><rel type="=構" target="ペット" sid="wiki00084989-01-02" id="0"/><rel type="=構" mode="AND" target="ネズミ" sid="wiki00084989-01-01" id="3"/><memo text="CO"/>
+ラット らっと ラット 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00084989-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000
+# S-ID:wiki00084989-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/06/15 MEMO:
 * 7D
-+ 7D
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="もの" sid="wiki00084989-02" id="2"/>
 大型の おおがたの 大型だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 3I
-+ 3I
++ 3I <rel type="修飾" target="大型の" sid="wiki00084989-02" id="1"/><rel type="=≒" target="ネズミ" sid="wiki00084989-00-01" id="0"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 6P <rel type="=" target="もの" sid="wiki00084989-02" id="2"/>
++ 6P <rel type="=構" target="もの" sid="wiki00084989-02" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00084989-02" id="2"/><rel type="ト" target="Rat" sid="wiki00084989-02" id="3"/><rel type="デ" target="英語" sid="wiki00084989-02" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-Rat Rat Rat 名詞 6 組織名 6 * 0 * 0 NIL
+Rat Rat Rat 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 5D <rel type="ガ" target="もの" sid="wiki00084989-02" id="5"/>
 小型の こがたの 小型だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 6I
-+ 6I
++ 6I <rel type="=≒" target="もの" sid="wiki00084989-02" id="2"/><rel type="修飾" target="小型の" sid="wiki00084989-02" id="4"/>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="=" target="もの" sid="wiki00084989-02" id="5"/>
++ 7D <rel type="=構" target="もの" sid="wiki00084989-02" id="5"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-Mouse Mouse Mouse 名詞 6 組織名 6 * 0 * 0 NIL
+Mouse Mouse Mouse 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00084989-02" id="5"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00084989-02" id="5"/><rel type="デ" target="英語" sid="wiki00084989-02" id="0"/><rel type="ト" target="Mouse" sid="wiki00084989-02" id="6"/>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

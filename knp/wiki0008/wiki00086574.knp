@@ -1,4 +1,4 @@
-# S-ID:wiki00086574-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00086574-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/19 MEMO:
 * 1P
 + 1P
 リポーター りぽーたー リポーター 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -13,7 +13,7 @@
 現場 げんば 現場 名詞 6 普通名詞 1 * 0 * 0 NIL
 にて にて にて 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="人" sid="wiki00086574-00" id="6"/><rel type="ヲ" target="情報" sid="wiki00086574-00" id="4"/>
++ 4D <rel type="ガ" target="人" sid="wiki00086574-00" id="6"/><rel type="ヲ" target="情報" sid="wiki00086574-00" id="4"/><rel type="デ" target="現場" sid="wiki00086574-00" id="2"/>
 取得 しゅとく 取得 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
@@ -25,7 +25,7 @@
 報告 ほうこく 報告 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="レポーター" sid="wiki00086574-00" id="1"/><rel type="=" target="リポーター" sid="wiki00086574-00" id="0"/>
++ -1D <rel type="=構" target="レポーター" sid="wiki00086574-00" id="1"/><rel type="=構" mode="AND" target="リポーター" sid="wiki00086574-00" id="0"/><rel type="ガ" target="レポーター" sid="wiki00086574-00" id="1"/><rel type="ガ" mode="AND" target="リポーター" sid="wiki00086574-00" id="0"/><memo text="CO"/>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

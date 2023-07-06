@@ -1,4 +1,4 @@
-# S-ID:wiki00081031-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000
+# S-ID:wiki00081031-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000 MOD:2023/06/06 MEMO:
 * 15D
 + 15D
 ライセンス らいせんす ライセンス 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -18,25 +18,25 @@
 違法 いほう 違法だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="行為" sid="wiki00081031-00" id="5"/>
++ 5D <rel type="ガ" target="行為" sid="wiki00081031-00" id="5"/><rel type="ト" target="違法" sid="wiki00081031-00" id="3"/>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 6D
 + 6D
 行為 こうい 行為 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行為" sid="wiki00081031-00" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行為" sid="wiki00081031-00" id="5"/><rel type="外の関係" target="こと" sid="wiki00081031-00" id="7"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 8D
-+ 8D
++ 8D <rel type="トイウ" target="する" sid="wiki00081031-00" id="6"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00081031-00" id="7"/><rel type="ニ" target="不特定:人"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00081031-00" id="7"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00081031-00" id="9"/>
 許可 きょか 許可 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 14P
-+ 14P
++ 14P <rel type="トイウ" target="許可する" sid="wiki00081031-00" id="8"/><rel type="=構" target="ライセンス" sid="wiki00081031-00" id="0"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
@@ -48,40 +48,40 @@
 許可 きょか 許可 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 13D <rel type="ガ" target="書面" sid="wiki00081031-00" id="13"/><rel type="ヲ" target="許可" sid="wiki00081031-00" id="11"/>
++ 13D <rel type="ヲ" target="許可" sid="wiki00081031-00" id="11"/><rel type="ガ" target="書面" sid="wiki00081031-00" id="13"/>
 証する しょうする 証する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 14D
-+ 14D
++ 14D <rel type="=構" target="ライセンス" sid="wiki00081031-00" id="0"/>
 書面 しょめん 書面 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 15D <rel type="ノ" target="書面" sid="wiki00081031-00" id="13"/>
++ 15D <rel type="ノ" target="書面" sid="wiki00081031-00" id="13"/><rel type="=構" target="ライセンス" sid="wiki00081031-00" id="0"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00081031-00" id="14"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="ライセンス" sid="wiki00081031-00" id="0"/><rel type="ヲ" target="こと" sid="wiki00081031-00" id="14"/><rel type="ヲ" mode="AND" target="こと" sid="wiki00081031-00" id="9"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00081031-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00081031-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/06 MEMO:
 * 4D
 + 4D <rel type="ノ" target="ライセンス" sid="wiki00081031-00" id="0"/>
 訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="ガ" target="訳語" sid="wiki00081031-01" id="0"/><rel type="=" target="訳語" sid="wiki00081031-01" id="0"/>
++ 2P <rel type="=構" target="訳語" sid="wiki00081031-01" id="0"/>
 免許 めんきょ 免許 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="ガ" target="訳語" sid="wiki00081031-01" id="0"/><rel type="=" target="免許" sid="wiki00081031-01" id="1"/>
++ 3P <rel type="=構" target="訳語" sid="wiki00081031-01" id="0"/>
 認可 にんか 認可 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="=" target="免許" sid="wiki00081031-01" id="1"/>
++ 4P <rel type="=構" target="訳語" sid="wiki00081031-01" id="0"/><rel type="=≒" mode="AND" target="許可" sid="wiki00081031-00" id="11"/>
 許可 きょか 許可 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="訳語" sid="wiki00081031-01" id="0"/><rel type="=" target="免許" sid="wiki00081031-01" id="1"/>
++ -1D <rel type="ガ" target="訳語" sid="wiki00081031-01" id="0"/><rel type="=構" target="訳語" sid="wiki00081031-01" id="0"/><memo text="CO"/>
 鑑札 かんさつ 鑑札 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -17,6 +17,14 @@ The guidelines for named entities are available at the IREX web site (<http://nl
 - `org/` : the raw corpus
 - `id/` : document id files providing train/test split
 
+## Statistics
+
+| | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| train | 1,000 | 20,000 | 1,000,000 | 20,000 | 20,000 | 20,000 |
+| test | 1,000 | 20,000 | 1,000,000 | 20,000 | 20,000 | 20,000 |
+| total | 2,000 | 40,000 | 2,000,000 | 40,000 | 40,000 | 40,000 |
+
 ## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
 
 Annotations of this corpus are given in the following format.

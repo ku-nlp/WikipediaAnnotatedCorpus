@@ -51,10 +51,8 @@ If you have any questions or problems about this corpus, please send an email to
 
 ## License
 
-TBW
-<!-- The license for this corpus is subject to CC BY-NC-SA 4.0.
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-The purpose of using this corpus is limited to academic research. -->
+The license for this corpus is subject to CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Procedures to add new documents
 

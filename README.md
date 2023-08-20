@@ -20,9 +20,10 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 |       | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
 |-------|---------------:|---------------:|---------------:|--------------------:|----------------:|--------------------------:|
-| train |          1,000 |         20,000 |      1,000,000 |              20,000 |          20,000 |                    20,000 |
-| test  |          1,000 |         20,000 |      1,000,000 |              20,000 |          20,000 |                    20,000 |
-| total |          2,000 |         40,000 |      2,000,000 |              40,000 |          40,000 |                    40,000 |
+| train |          1,144 |          4,532 |         65,300 |               4,231 |          17,474 |                    14,479 |
+| dev   |            100 |            443 |          6,353 |                 423 |           1,701 |                     1,437 |
+| test  |            200 |            775 |         11,123 |                 800 |           2,872 |                     2,534 |
+| total |          1,444 |          5,750 |         82,776 |               5,454 |          22,047 |                    18,450 |
 
 ## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
 

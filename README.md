@@ -14,7 +14,7 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 - `knp/`: the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and
   coreferences
 - `org/`: the raw corpus
-- `id/`: document id files providing train/test split
+- `id/`: document id files providing train/dev/test split
 
 ## Statistics
 
@@ -25,9 +25,9 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 | test  |            200 |            775 |         11,123 |                 800 |           2,872 |                     2,534 |
 | total |          1,444 |          5,750 |         82,776 |               5,454 |          22,047 |                    18,450 |
 
-## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
+## Format of the annotation
 
-Annotations of this corpus are given in the following format.
+Annotations of this corpus are given in the following format (a.k.a. the KNP format).
 
 ```text
 # S-ID:wiki000010000-1
@@ -47,8 +47,9 @@ Annotations of this corpus are given in the following format.
 EOS
 ```
 
-A description of this format can be found
-in [the documentation of KWDLC](https://github.com/ku-nlp/KWDLC#format-of-the-corpus-annotated-with-annotations-of-morphology-named-entities-dependencies-predicate-argument-structures-and-coreferences).
+A description of this format can be found in [the documentation of KWDLC](https://github.com/ku-nlp/KWDLC#format-of-the-corpus-annotated-with-annotations-of-morphology-named-entities-dependencies-predicate-argument-structures-and-coreferences).
+
+Note: You can use [rhoknp](https://github.com/ku-nlp/rhoknp) to intuitively access annotations from Python without understanding the syntax of this format.
 
 ## References
 

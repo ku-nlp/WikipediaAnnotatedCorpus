@@ -1,6 +1,6 @@
-from pathlib import Path
 import sys
 import textwrap
+from pathlib import Path
 
 from rhoknp import Document
 

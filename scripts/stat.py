@@ -6,7 +6,15 @@ from tabulate import tabulate
 
 KNP_DIR = Path("knp")
 ID_DIR = Path("id")
-HEADERS = ("split", "documents", "sentences", "morphemes", "named_entities", "predicates", "coreferring_mentions")
+HEADERS = (
+    "split",
+    "documents",
+    "sentences",
+    "morphemes",
+    "named_entities",
+    "predicates",
+    "coreferring_mentions",
+)
 
 
 def calc_stats(documents: list[Document]) -> dict[str, int]:

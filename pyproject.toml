@@ -1,0 +1,16 @@
+[tool.black]
+line-length = 120
+target-version = ["py39", "py310", "py311"]
+
+[tool.isort]
+line_length = 120
+py_version = 39
+profile = "black"
+src_paths = ["scripts"]
+
+[tool.flake8]
+ignore = ["E203", "E501", "W503"]
+max-line-length = 120
+
+[tool.mypy]
+python_version = 3.9

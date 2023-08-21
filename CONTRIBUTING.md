@@ -1,6 +1,20 @@
 # Developer Guide
 
-## Procedures to add new documents
+## Requirements
+
+- Python: 3.9+
+- Dependencies: See [requirements.txt](./requirements.txt).
+
+## Setting up the development environment
+
+- Create a virtual environment and install dependencies.
+    ```shell
+    $ virtualenv -p /path/to/python .venv
+    $ source .venv/bin/activate
+    $ pip install -r requirements.txt
+    ```
+
+## Adding new documents
 
 - Copy and filter newly annotated files
 

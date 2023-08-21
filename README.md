@@ -51,6 +51,15 @@ A description of this format can be found in [the documentation of KWDLC](https:
 
 Note: You can use [rhoknp](https://github.com/ku-nlp/rhoknp) to intuitively access annotations from Python without understanding the syntax of this format.
 
+```python
+from rhoknp import Document
+
+with open("knp/wiki0010/wiki00100176.knp") as f:
+    document = Document.from_knp(f.read())
+for morpheme in document.morphemes:
+    ...
+```
+
 ## References
 
 - 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理,

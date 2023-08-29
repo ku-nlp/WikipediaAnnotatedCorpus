@@ -20,8 +20,6 @@
 
 ```shell
 make -f scripts/Makefile pull CORPUS=WAC
-fd -t f knp --exec sed -i "s/undefined<NE/<NE/g" {}
-fd -t f knp --exec sed -i "s/NIL undefined/NIL/g" {}
 p scripts/filter.py knp
 ```
 

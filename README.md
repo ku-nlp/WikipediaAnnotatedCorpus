@@ -11,10 +11,10 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 ## Distributed files
 
-- `knp/`: the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and
+- [`knp/`](./knp): the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and
   coreferences
-- `org/`: the raw corpus
-- `id/`: document id files providing train/dev/test split
+- [`org/`](./org): the raw corpus
+- [`id/`](./id): document id files providing train/dev/test split
 
 ## Statistics
 

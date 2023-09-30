@@ -1,15 +1,15 @@
-import sys
 from pathlib import Path
 
 from rhoknp import Document
 
+KNP_DIR = Path("knp")
+ORG_DIR = Path("org")
+
 
 def main():
-    input_dir = Path(sys.argv[1])
-    output_dir = Path(sys.argv[2])
-    for path in input_dir.glob("**/*.knp"):
+    for path in KNP_DIR.glob("**/*.knp"):
         document = Document.from_knp(path.read_text())
-        output_path: Path = output_dir.joinpath(path.relative_to(input_dir)).with_suffix(".org")
+        output_path: Path = ORG_DIR.joinpath(path.relative_to(KNP_DIR)).with_suffix(".org")
         output_path.parent.mkdir(parents=True, exist_ok=True)
         org_text = ""
         for sentence in document.sentences:

@@ -3,15 +3,14 @@
 ## Requirements
 
 - Python: 3.9+
-- Dependencies: See [requirements.txt](./requirements.txt).
+- Dependencies: See [pyproject.toml](./pyproject.toml) or [requirements.txt](./requirements.txt).
 
 ## Setting up the development environment
 
 - Create a virtual environment and install dependencies.
     ```shell
-    $ virtualenv -p /path/to/python .venv
-    $ source .venv/bin/activate
-    $ pip install -r requirements.txt
+    $ poetry env use /path/to/python
+    $ poetry install
     ```
 
 ## Adding new documents

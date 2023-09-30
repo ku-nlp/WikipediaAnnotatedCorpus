@@ -1,5 +1,10 @@
 name: Generate requirements.txt
-on: push
+
+on:
+  push:
+    paths:
+      - "pyproject.toml"
+      - "poetry.lock"
 
 jobs:
   generate-requirements:

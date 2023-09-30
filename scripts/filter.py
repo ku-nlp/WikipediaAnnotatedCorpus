@@ -22,7 +22,7 @@ def filter_tags(document: Document) -> Document:
         if ne_feature is not None:
             morpheme.features["NE"] = ne_feature
         morpheme.semantics.clear()
-        morpheme.semantics.is_nil = True
+        morpheme.semantics.nil = True
     return document
 
 

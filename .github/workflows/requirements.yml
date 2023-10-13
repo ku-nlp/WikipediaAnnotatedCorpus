@@ -21,7 +21,7 @@ jobs:
       - name: Export requirements.txt
         run: poetry export --without-hashes --without-urls -o requirements.txt
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: update requirements.txt
           # Optional glob pattern of files which should be added to the commit

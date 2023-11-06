@@ -1,0 +1,85 @@
+# S-ID:wiki00065118-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/10/17 MEMO:
+* 10D
++ 1P <NE:LOCATION:普>
+普 ふ 普 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <NE:LOCATION:仏>
+仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 21D <rel type="ガ" target="普" sid="wiki00065118-00-01" id="0"/><rel type="ト" target="仏" sid="wiki00065118-00-01" id="1"/><memo text="ガト交替可"/>
+戦争 せんそう 戦争 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 5D <rel type="=" target="仏" sid="wiki00065118-00-01" id="1"/><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="フランス" sid="wiki00065118-00-01" id="3"/><rel type="修飾" target="第二" sid="wiki00065118-00-01" id="4"/>
+帝政 ていせい 帝政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="帝政" sid="wiki00065118-00-01" id="3"/>
+期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 8D
+1870 せんはっぴゃくななじゅう 1870 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 9D
+7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <rel type="修飾" target="期" sid="wiki00065118-00-01" id="6"/><rel type="=構" target="期" sid="wiki00065118-00-01" id="6"/><NE:DATE:1870年7月19日>
+19 じゅうく 19 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 14P <rel type="時間" target="19日" sid="wiki00065118-00-01" id="9"/><rel type="ガ" target="戦争" sid="wiki00065118-00-01" id="21"/>
+起こり おこり 起こる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 12D
+1871 せんはっぴゃくななじゅういち 1871 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 14D <NE:DATE:1871年5月10日>
+10 とお 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 21D <rel type="ガ" target="戦争" sid="wiki00065118-00-01" id="19"/><rel type="マデ" target="10日" sid="wiki00065118-00-01" id="13"/>
+続いた つづいた 続く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
+* 7P
++ 16D <rel type="=" target="フランス" sid="wiki00065118-00-01" id="1"/>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 18P <rel type="=" target="仏" sid="wiki00065118-00-01" id="1"/><NE:LOCATION:フランス帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 18D <rel type="=" target="普" sid="wiki00065118-00-01" id="0"/>
+プロイセン ぷろいせん プロイセン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 19D <rel type="=" target="普" sid="wiki00065118-00-01" id="0"/><NE:LOCATION:プロイセン王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 20D <rel type="ノ" target="王国" sid="wiki00065118-00-01" id="16"/><rel type="ト" target="帝国" sid="wiki00065118-00-01" id="16"/>
+間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 21D <rel type="ガ" target="戦争" sid="wiki00065118-00-01" id="19"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="間" sid="wiki00065118-00-01" id="19"/>
+行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="戦争" sid="wiki00065118-00-01" id="2"/><rel type="=構" target="戦争" sid="wiki00065118-00-01" id="2"/><rel type="修飾" target="行われた" sid="wiki00065118-00-01" id="20"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00065118-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/17 MEMO:
+* -1D
++ 1P <rel type="=" target="普" sid="wiki00065118-00-01" id="0"/><NE:LOCATION:ふ>
+ふ ふ ふ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="=" target="仏" sid="wiki00065118-00-01" id="1"/><NE:LOCATION:ふつ>
+ふつ ふつ ふつ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="戦争" sid="wiki00065118-00-01" id="2"/><rel type="ガ" target="ふ" sid="wiki00065118-00-02" id="0"/><rel type="ト" target="ふつ" sid="wiki00065118-00-02" id="1"/><memo text="ガト交替可"/>
+せんそう せんそう せんそう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS

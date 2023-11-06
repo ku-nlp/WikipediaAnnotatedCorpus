@@ -1,0 +1,48 @@
+# S-ID:wiki00072364-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/20 MEMO:
+* 3D
++ 6D <NE:LOCATION:会津若松市>
+会津若松 あいづわかまつ 会津若松 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+福島 ふくしま 福島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <rel type="ノ？" target="福島県" sid="wiki00072364-00-01" id="1"/><NE:LOCATION:福島県会津>
+会津 あいづ 会津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <rel type="ノ？" target="福島県" sid="wiki00072364-00-01" id="1"/><memo text="「3.1.3.C 概略的表現」により、NEに含めず"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="地方" sid="wiki00072364-00-01" id="3"/>
+東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ガ" target="市" sid="wiki00072364-00-01" id="6"/><rel type="ニ" target="東部" sid="wiki00072364-00-01" id="4"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="会津若松市" sid="wiki00072364-00-01" id="0"/><rel type="=構" target="会津若松市" sid="wiki00072364-00-01" id="0"/><memo text="CO"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00072364-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/12 MEMO:
+* -1D
++ -1D <rel type="=" target="会津若松市" sid="wiki00072364-00-01" id="0"/><NE:LOCATION:あいづわかまつし>
+あいづわかまつ あいづわかまつ あいづわかまつ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00072364-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/20 MEMO:
+* 1D
++ 1D <rel type="=" target="会津" sid="wiki00072364-00-01" id="2"/><NE:LOCATION:会津>
+会津 あいづ 会津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="=" target="地方" sid="wiki00072364-00-01" id="3"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 3D <rel type="ノ" target="地方" sid="wiki00072364-01" id="1"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="会津若松市" sid="wiki00072364-00-01" id="0"/><rel type="ノ？" target="地方" sid="wiki00072364-01" id="1"/><rel type="=構" target="会津若松市" sid="wiki00072364-00-01" id="0"/><rel type="修飾" target="中心" sid="wiki00072364-01" id="2"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

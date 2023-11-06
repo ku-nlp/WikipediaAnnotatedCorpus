@@ -1,0 +1,108 @@
+# S-ID:wiki00065660-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/10/19 MEMO:
+* 10D
++ 15D
+ギルド ぎるど ギルド 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 3D <NE:DATE:中世>
+中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <NE:DATE:近世>
+近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ニ" target="近世" sid="wiki00065660-00" id="2"/><rel type="ヨリ" target="中世" sid="wiki00065660-00" id="1"/><rel type="ガ" target="不特定:状況"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 5D
++ 5D
+西 せい 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="修飾" target="西" sid="wiki00065660-00" id="4"/><NE:LOCATION:西欧>
+欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 7D
+諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 8D <rel type="修飾" target="諸" sid="wiki00065660-00" id="6"/><rel type="ノ？" target="欧" sid="wiki00065660-00" id="5"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 7D
++ 10D
+商工 しょうこう 商工 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="修飾" target="商工" sid="wiki00065660-00" id="9"/>
+業者 ぎょうしゃ 業者 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ノ" target="業者" sid="wiki00065660-00" id="10"/>
+間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 15D <rel type="ガ" target="組合" sid="wiki00065660-00" id="15"/><rel type="ニオイテ" target="都市" sid="wiki00065660-00" id="7"/><rel type="デ" target="間" sid="wiki00065660-00" id="11"/>
+結成 けっせい 結成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 10D
++ 15D
+各種の かくしゅの 各種の 連体詞 11 * 0 * 0 * 0 NIL
+* -1D
++ 15D
+職業 しょくぎょう 職業 名詞 6 普通名詞 1 * 0 * 0 NIL
+別 べつ 別 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ギルド" sid="wiki00065660-00" id="0"/><rel type="修飾" target="職業別" sid="wiki00065660-00" id="14"/><rel type="=構" target="ギルド" sid="wiki00065660-00" id="0"/><memo text="CO"/>
+組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00065660-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/19 MEMO:
+* 1D
++ 1D <rel type="=≒" target="業者" sid="wiki00065660-00" id="10"/>
+商人 しょうにん 商人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="修飾" target="商人" sid="wiki00065660-01-01" id="0"/><rel type="=≒" target="ギルド" sid="wiki00065660-00" id="0"/>
+ギルド ぎるど ギルド 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 3D <rel type="=≒" target="商工" sid="wiki00065660-00" id="9"/>
+手工業 しゅこうぎょう 手工業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="手工業" sid="wiki00065660-01-01" id="2"/><rel type="=≒" target="ギルド" sid="wiki00065660-00" id="0"/>
+ギルド ぎるど ギルド 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ギルド" sid="wiki00065660-00" id="0"/><rel type="ニ" target="ギルド" sid="wiki00065660-01-01" id="1"/><rel type="ニ" mode="AND" target="ギルドなど" sid="wiki00065660-01-01" id="3"/><rel type="ニ" mode="AND" target="不特定:人"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00065660-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/29 MEMO:
+* -1D
++ 1D <rel type="ガ" target="職" sid="wiki00065660-01-02" id="1"/>
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 2D
+職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ギルド" sid="wiki00065660-01-01" id="3"/><rel type="修飾" target="職" sid="wiki00065660-01-02" id="1"/>
+ギルド ぎるど ギルド 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00065660-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/10/19 MEMO:
+* 4D
++ 5D
+一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
+* 2D
++ 2D
+封建 ほうけん 封建 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ノ" target="封建" sid="wiki00065660-02" id="1"/>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 5D <rel type="=構" target="ギルド" sid="wiki00065660-00" id="0"/><rel type="ニオイテ" target="制" sid="wiki00065660-02" id="2"/>
+産物 さんぶつ 産物 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="ギルド" sid="wiki00065660-00" id="0"/><rel type="ト" target="産物" sid="wiki00065660-02" id="4"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

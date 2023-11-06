@@ -1,0 +1,48 @@
+# S-ID:wiki00069168-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/10/29 MEMO:
+* 4D
++ 2D
+信濃 しなの 信濃 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 2D
+毎日 まいにち 毎日 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 11D <NE:ARTIFACT:信濃毎日新聞>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 8D <rel type="=≒" target="信濃" sid="wiki00069168-00-01" id="0"/><NE:LOCATION:長野県>
+長野 ながの 長野 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 6D <rel type="=" target="信濃" sid="wiki00069168-00-01" id="0"/>
+信濃 しなの 信濃 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <rel type="=" target="毎日" sid="wiki00069168-00-01" id="1"/>
+毎日 まいにち 毎日 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <rel type="=" target="新聞" sid="wiki00069168-00-01" id="2"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="ノ？" target="長野県" sid="wiki00069168-00-01" id="3"/><NE:ORGANIZATION:信濃毎日新聞株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 11D <rel type="ガ" target="会社" sid="wiki00069168-00-01" id="4"/><rel type="ヲ" target="新聞" sid="wiki00069168-00-01" id="11"/>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ 11D
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="地方" sid="wiki00069168-00-01" id="10"/><rel type="ガ" target="新聞" sid="wiki00069168-00-01" id="2"/><rel type="=構" target="新聞" sid="wiki00069168-00-01" id="2"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00069168-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/29 MEMO:
+* -1D
++ 2D <rel type="=" target="信濃" sid="wiki00069168-00-01" id="0"/>
+しなの しなの しなの 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 2D <rel type="=" target="毎日" sid="wiki00069168-00-01" id="1"/>
+まいにち まいにち まいにち 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="新聞" sid="wiki00069168-00-01" id="2"/><NE:ARTIFACT:しなのまいにちしんぶん>
+しんぶん しんぶん しんぶん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+EOS

@@ -1,0 +1,134 @@
+# S-ID:wiki00067309-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:127.00000 MOD:2023/10/23 MEMO:
+* 14D
++ 22D <NE:OPTIONAL:サントリー><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+サントリー さんとりー サントリー 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 2D
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="ノ？" target="大阪市" sid="wiki00067309-00" id="1"/><NE:LOCATION:大阪市北区>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ノ" target="会社" sid="wiki00067309-00" id="8"/>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 8D <rel type="ガ" target="会社" sid="wiki00067309-00" id="8"/><rel type="ヲ" target="本社" sid="wiki00067309-00" id="3"/><rel type="ニ" target="北区" sid="wiki00067309-00" id="2"/>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+* 5D
++ 6D <rel type="=" target="サントリー" sid="wiki00067309-00" id="0"/>
+サントリー さんとりー サントリー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 8D
+ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="=≒" target="サントリー" sid="wiki00067309-00" id="0"/><NE:ORGANIZATION:サントリーホールディングス株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ノ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="=構" target="会社" sid="wiki00067309-00" id="8"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 20D <rel type="ガ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="ヲ" target="会社" sid="wiki00067309-00" id="8"/><rel type="ト" target="中心" sid="wiki00067309-00" id="9"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 12P
+洋酒 ようしゅ 洋酒 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9P
++ 15P
+ビール びーる ビール 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 15D
+清涼 せいりょう 清涼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D
+飲料 いんりょう 飲料 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D
+水 すい 水 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 17P <rel type="ガ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="ヲ" target="ビール" sid="wiki00067309-00" id="12"/><rel type="ヲ" mode="AND" target="洋酒" sid="wiki00067309-00" id="11"/><rel type="ヲ" mode="AND" target="水" sid="wiki00067309-00" id="15"/>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 18D <rel type="ガ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="ヲ" target="ビール" sid="wiki00067309-00" id="12"/><rel type="ヲ" mode="AND" target="洋酒" sid="wiki00067309-00" id="11"/><rel type="ヲ" mode="AND" target="水" sid="wiki00067309-00" id="15"/>
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 20D <rel type="ガ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="ヲ" target="製造" sid="wiki00067309-00" id="16"/><rel type="ヲ" mode="AND" target="販売等" sid="wiki00067309-00" id="17"/>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 14D
++ 20D
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <rel type="修飾" target="企業" sid="wiki00067309-00" id="19"/>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 14P
++ 22P <rel type="=構" target="サントリー" sid="wiki00067309-00" id="0"/><rel type="ノ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="判ガ" target="サントリー" sid="wiki00067309-00" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="グループ" sid="wiki00067309-00" id="20"/><rel type="ト" target="サントリー" sid="wiki00067309-00" id="0"/>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="サントリー" sid="wiki00067309-00" id="0"/><rel type="=構" target="サントリー" sid="wiki00067309-00" id="0"/><rel type="ノ" target="グループ" sid="wiki00067309-00" id="20"/><memo text="CO"/>
+ブランド ぶらんど ブランド 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00067309-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2023/10/23 MEMO:
+* 2D
++ 2D <rel type="ノ？" target="サントリー" sid="wiki00067309-00" id="0"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ガ" target="部分" sid="wiki00067309-01" id="2"/>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 3D
++ 4D <rel type="ノ" target="事業" sid="wiki00067309-01" id="0"/>
+部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9D
++ 4D
+アルコール あるこーる アルコール 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="部分" sid="wiki00067309-01" id="2"/><rel type="修飾" target="アルコール" sid="wiki00067309-01" id="3"/><rel type="=構" target="部分" sid="wiki00067309-01" id="2"/>
+飲料 いんりょう 飲料 名詞 6 普通名詞 1 * 0 * 0 NIL
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 6D
+1980 せんきゅうひゃくはちじゅう 1980 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <NE:DATE:1980年代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
++ 13D <rel type="ノ" target="代" sid="wiki00067309-01" id="6"/>
+以降 いこう 以降 名詞 6 時相名詞 10 * 0 * 0 NIL
+* 6D
++ 9D <rel type="=" target="清涼" sid="wiki00067309-00" id="13"/>
+清涼 せいりょう 清涼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="飲料" sid="wiki00067309-00" id="14"/>
+飲料 いんりょう 飲料 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ガ" target="地位" sid="wiki00067309-01" id="12"/>
+一定 いってい 一定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ニオイテ" target="飲料" sid="wiki00067309-01" id="9"/><rel type="修飾" target="一定" sid="wiki00067309-01" id="11"/>
+地位 ちい 地位 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ヲ" target="地位" sid="wiki00067309-01" id="12"/><rel type="カラ" target="代" sid="wiki00067309-01" id="6"/><rel type="ニオイテ" target="飲料" sid="wiki00067309-01" id="9"/><rel type="ガ" target="サントリー" sid="wiki00067309-00" id="0"/>
+築いた きずいた 築く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

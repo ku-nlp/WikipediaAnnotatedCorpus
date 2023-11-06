@@ -1,0 +1,89 @@
+# S-ID:wiki00063657-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/10/16 MEMO:
+* 4D
++ 6D
+ヤード やーど ヤード 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2P <rel type="=" target="ヤード" sid="wiki00063657-00-01" id="0"/>
+ヤード やーど ヤード 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D
+ポンド ぽんど ポンド 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 4D <NE:OPTIONAL:ヤード・ポンド法><NE-OPTIONAL:ARTIFACT,NONE:0>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 6D
+長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
+さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="長さ" sid="wiki00063657-00-01" id="5"/><rel type="ニオイテ" target="法" sid="wiki00063657-00-01" id="3"/><rel type="ガ" target="ヤード" sid="wiki00063657-00-01" id="0"/><rel type="=構" target="ヤード" sid="wiki00063657-00-01" id="0"/><memo text="CO"/>
+単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00063657-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/24 MEMO:
+* -1D
++ -1D <rel type="=" target="ヤード" sid="wiki00063657-00-01" id="0"/>
+yard yard yard 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00063657-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2023/10/16 MEMO:
+* 2D
++ 1D <rel type="ガ" target="国" sid="wiki00063657-01" id="1"/>
+主要 しゅよう 主要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 3D <rel type="修飾" target="主要" sid="wiki00063657-01" id="0"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2P
++ 3P <rel type="=≒" target="国" sid="wiki00063657-01" id="1"/><rel type="修飾" target="国" sid="wiki00063657-01" id="1"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=≒" target="国" sid="wiki00063657-01" id="1"/><rel type="修飾" target="国" sid="wiki00063657-01" id="1"/><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="デ" target="イギリス" sid="wiki00063657-01" id="2"/><rel type="デ" mode="AND" target="アメリカ合衆国" sid="wiki00063657-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="ほか" sid="wiki00063657-01" id="5"/><rel type="ガ" target="単位" sid="wiki00063657-01" id="12"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 9D
++ 11D <rel type="ノ" target="用いられている" sid="wiki00063657-01" id="4"/>
+ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 8P
+ゴルフ ごるふ ゴルフ 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 8D
+アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="アメリカン" sid="wiki00063657-01" id="7"/>
+フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+* 8D
++ 10D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 11D <rel type="修飾" target="特定" sid="wiki00063657-01" id="9"/><rel type="=≒" target="ゴルフ" sid="wiki00063657-01" id="6"/><rel type="=≒" mode="AND" target="フットボール" sid="wiki00063657-01" id="8"/>
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 12D <rel type="ガ" target="単位" sid="wiki00063657-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="スポーツ" sid="wiki00063657-01" id="10"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="ヤード" sid="wiki00063657-00-01" id="0"/><rel type="=" target="単位" sid="wiki00063657-00-01" id="6"/><rel type="=構" mode="AND" target="ヤード" sid="wiki00063657-00-01" id="0"/>
+単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

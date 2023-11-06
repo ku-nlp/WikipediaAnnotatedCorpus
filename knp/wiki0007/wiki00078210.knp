@@ -1,0 +1,115 @@
+# S-ID:wiki00078210-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/08/29 MEMO:
+* 5D
++ 1D
+理化学 りかがく 理化学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ニツイテ" target="理化学" sid="wiki00078210-00-01" id="0"/><rel type="デ" target="所" sid="wiki00078210-00-01" id="2"/>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 11D <NE:ORGANIZATION:理化学研究所>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 5D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ノ？" target="日本" sid="wiki00078210-00-01" id="3"/>
+埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <rel type="ノ？" target="埼玉県" sid="wiki00078210-00-01" id="4"/><NE:LOCATION:埼玉県和光市>
+和光 わこう 和光 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 7D <rel type="ノ" target="法人" sid="wiki00078210-00-01" id="11"/>
+本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 11D <rel type="ガ" target="法人" sid="wiki00078210-00-01" id="11"/><rel type="ヲ" target="本部" sid="wiki00078210-00-01" id="6"/><rel type="ニ" target="和光市" sid="wiki00078210-00-01" id="5"/>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+* -1D
++ 11D
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="研究" sid="wiki00078210-00-01" id="1"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="？" target="不特定:物"/>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="不特定:人"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="所" sid="wiki00078210-00-01" id="2"/><rel type="=構" target="所" sid="wiki00078210-00-01" id="2"/><rel type="修飾" target="国立" sid="wiki00078210-00-01" id="8"/><rel type="修飾" mode="AND" target="研究" sid="wiki00078210-00-01" id="9"/><rel type="修飾" mode="AND" target="開発" sid="wiki00078210-00-01" id="10"/><memo text="CO"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00078210-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/29 MEMO:
+* 2P
++ 2D <rel type="=" target="理化学" sid="wiki00078210-00-01" id="0"/>
+りかがく りかがく りかがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="研究" sid="wiki00078210-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
+けんきゅう けんきゅう けんきゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5P <rel type="=" target="所" sid="wiki00078210-00-01" id="2"/><NE:ORGANIZATION:りかがくけんきゅうしょ>
+しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 4D <rel type="ノ" target="所" sid="wiki00078210-00-01" id="2"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 5P <rel type="=構" target="略称" sid="wiki00078210-00-02" id="3"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><rel type="ガ" target="略称" sid="wiki00078210-00-02" id="3"/><NE:ORGANIZATION:理研>
+理研 りけん 理研 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+* 3P
++ 8P <rel type="=" target="理研" sid="wiki00078210-00-02" id="4"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><NE:ORGANIZATION:りけん>
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
+りけん りけん りけん 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 7D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="修飾" target="英" sid="wiki00078210-00-02" id="6"/><rel type="ノ" target="所" sid="wiki00078210-00-01" id="2"/><rel type="=≒" target="略称" sid="wiki00078210-00-02" id="3"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="=構" target="略称" sid="wiki00078210-00-02" id="7"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><rel type="ガ" target="略称" sid="wiki00078210-00-02" id="7"/><NE:ORGANIZATION:RIKEN>
+RIKEN りけん RIKEN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS
+# S-ID:wiki00078210-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/08/29 MEMO:
+* 1D
++ 1D <rel type="=≒" target="日本" sid="wiki00078210-00-01" id="3"/><NE:LOCATION:アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+* 2D
++ 6D <rel type="ガ" target="所" sid="wiki00078210-01-01" id="6"/><rel type="デ" target="アジア" sid="wiki00078210-01-01" id="0"/>
+最初の さいしょの 最初だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 3D
++ 3D
+基礎 きそ 基礎 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="不特定:人"/><rel type="デ" target="所" sid="wiki00078210-01-01" id="6"/><rel type="ニツイテ" target="科学" sid="wiki00078210-01-01" id="3"/><rel type="修飾" target="総合" sid="wiki00078210-01-01" id="4"/>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="修飾" target="最初の" sid="wiki00078210-01-01" id="1"/><rel type="ノ？" target="研究" sid="wiki00078210-01-01" id="5"/><rel type="=構" target="所" sid="wiki00078210-00-01" id="2"/>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 9D <NE:DATE:1917年>
+1917 せんきゅうひゃくじゅうなな/せんきゅうひゃくじゅうしち 1917 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="所" sid="wiki00078210-00-01" id="2"/><rel type="トシテ" target="所" sid="wiki00078210-01-01" id="6"/><rel type="時間" target="1917年" sid="wiki00078210-01-01" id="8"/><rel type="ニ" target="日本" sid="wiki00078210-00-01" id="3"/>
+創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00078210-01-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/29 MEMO:
+* -1D
++ 1D
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1917年" sid="wiki00078210-01-01" id="8"/><NE:DATE:大正6年>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS

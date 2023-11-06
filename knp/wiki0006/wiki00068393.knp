@@ -1,0 +1,65 @@
+# S-ID:wiki00068393-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/10/24 MEMO:
+* 9D
++ 9D
+権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 9D
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+ある ある ある 連体詞 11 * 0 * 0 * 0 NIL
+* 8D
++ 8D
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ノ" target="主体" sid="wiki00068393-00-01" id="3"/>
+相手 あいて 相手 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 7D
+とって とって とる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 7D
++ 7D <rel type="ヲ" target="行動" sid="wiki00068393-00-01" id="7"/><rel type="ガ" target="相手" sid="wiki00068393-00-01" id="4"/>
+望ま のぞま 望む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 8D
++ 8D <rel type="ニトッテ" target="相手" sid="wiki00068393-00-01" id="4"/>
+行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 9D <rel type="ガ" target="主体" sid="wiki00068393-00-01" id="3"/><rel type="ヲ" target="行動" sid="wiki00068393-00-01" id="7"/><rel type="ニ" target="相手" sid="wiki00068393-00-01" id="4"/><rel type="外の関係" target="能力" sid="wiki00068393-00-01" id="9"/>
+強制 きょうせい 強制 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="権力" sid="wiki00068393-00-01" id="0"/><rel type="=構" target="権力" sid="wiki00068393-00-01" id="0"/><rel type="トイウ" target="強制する" sid="wiki00068393-00-01" id="8"/>
+能力 のうりょく 能力 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00068393-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
+* 1P
++ 2P <rel type="=" target="権力" sid="wiki00068393-00-01" id="0"/>
+けんりょく けんりょく けんりょく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2D <rel type="ノ" target="権力" sid="wiki00068393-00-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 5P <rel type="=" target="権力" sid="wiki00068393-00-01" id="0"/><rel type="デ" target="英語" sid="wiki00068393-00-02" id="1"/>
+Power Power Power 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 4D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="ドイツ" sid="wiki00068393-00-02" id="3"/><rel type="ノ" target="権力" sid="wiki00068393-00-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="=" target="権力" sid="wiki00068393-00-01" id="0"/><rel type="デ" target="語" sid="wiki00068393-00-02" id="4"/>
+Macht Macht Macht 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

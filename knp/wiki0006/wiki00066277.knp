@@ -1,0 +1,88 @@
+# S-ID:wiki00066277-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/10/20 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 2D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 5D <rel type="ニオイテ" target="放送" sid="wiki00066277-00" id="0"/>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="=" target="放送" sid="wiki00066277-00" id="0"/><rel type="ガ" target="不特定:人"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="=構" target="番組" sid="wiki00066277-00" id="2"/><rel type="修飾" target="放送" sid="wiki00066277-00" id="3"/>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="番組" sid="wiki00066277-00" id="2"/><rel type="ト" target="番組" sid="wiki00066277-00" id="4"/>
+呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00066277-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/10/20 MEMO:
+* 1D
++ 2D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=" target="放送" sid="wiki00066277-00" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 3D <rel type="ニカンシテ" target="放送" sid="wiki00066277-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00066277-01" id="0"/><NE:ARTIFACT:放送法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 4D <rel type="ノ" target="法" sid="wiki00066277-01" id="2"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+条 じょう 条 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 5D <rel type="ノ" target="条" sid="wiki00066277-01" id="4"/>
+28 にじゅうはち 28 名詞 6 数詞 7 * 0 * 0 NIL
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 8D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 7D <rel type="=" target="放送" sid="wiki00066277-00" id="3"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="=" target="番組" sid="wiki00066277-00" id="4"/>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12D
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="番組" sid="wiki00066277-01" id="8"/><rel type="ニオイテ" target="28号" sid="wiki00066277-01" id="4"/><rel type="ト" target="こと" sid="wiki00066277-01" id="16"/>
+定義 ていぎ 定義 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 10D <rel type="=" target="放送" sid="wiki00066277-01" id="7"/><rel type="ガ" target="不特定:人"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="放送" sid="wiki00066277-01" id="10"/><rel type="ヲ" mode="AND" target="事項" sid="wiki00066277-01" id="11"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 11D
++ 15D <rel type="修飾" target="する" sid="wiki00066277-01" id="10"/>
+事項 じこう 事項 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9P
++ 13P <rel type="ノ" target="事項" sid="wiki00066277-01" id="12"/><rel type="=構" target="定義" sid="wiki00066277-01" id="8"/>
+種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10P
++ 14P <rel type="ノ" target="事項" sid="wiki00066277-01" id="12"/><rel type="=構" target="定義" sid="wiki00066277-01" id="8"/>
+内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 11P
++ 15P <rel type="ノ" target="事項" sid="wiki00066277-01" id="12"/><rel type="=構" target="定義" sid="wiki00066277-01" id="8"/>
+分量 ぶんりょう 分量 名詞 6 普通名詞 1 * 0 * 0 NIL
+及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12D
++ 16D <rel type="=構" target="定義" sid="wiki00066277-01" id="8"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="事項" sid="wiki00066277-01" id="11"/>
+配列 はいれつ 配列 名詞 6 サ変名詞 2 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="定義" sid="wiki00066277-01" id="9"/><rel type="=構" target="定義" sid="wiki00066277-01" id="8"/><rel type="ノ" target="内容" sid="wiki00066277-01" id="13"/><rel type="ノ" mode="AND" target="種類" sid="wiki00066277-01" id="12"/><rel type="ノ" mode="AND" target="分量" sid="wiki00066277-01" id="14"/><rel type="ノ" mode="AND" target="配列" sid="wiki00066277-01" id="15"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

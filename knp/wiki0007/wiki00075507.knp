@@ -1,0 +1,165 @@
+# S-ID:wiki00075507-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/08/22 MEMO:
+* 6D
++ 10D <NE:ORGANIZATION:ミシュラン>
+ミシュラン みしゅらん ミシュラン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D <NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="企業" sid="wiki00075507-00" id="10"/>
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="企業" sid="wiki00075507-00" id="10"/><rel type="修飾" target="本拠" sid="wiki00075507-00" id="2"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ガ" target="企業" sid="wiki00075507-00" id="10"/><rel type="ヲ" target="地" sid="wiki00075507-00" id="3"/><rel type="ニ" target="フランス" sid="wiki00075507-00" id="1"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+* 5D
++ 6D
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="トイウ" target="世界" sid="wiki00075507-00" id="5"/>
+規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6P
++ 8D
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <rel type="ノ" target="タイヤ" sid="wiki00075507-00" id="7"/><rel type="トイウ" target="持つ" sid="wiki00075507-00" id="4"/><rel type="修飾" target="規模" sid="wiki00075507-00" id="6"/><rel type="=構" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 10D <rel type="=" target="世界" sid="wiki00075507-00" id="5"/>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="トイウ" target="持つ" sid="wiki00075507-00" id="4"/><rel type="修飾" target="世界" sid="wiki00075507-00" id="9"/><rel type="=構" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00075507-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2023/08/22 MEMO:
+* 1D
++ 1D <rel type="=" target="世界" sid="wiki00075507-00" id="9"/>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="デ" target="世界" sid="wiki00075507-01" id="0"/>
+初めて はじめて 初めて 副詞 8 * 0 * 0 * 0 NIL
+* 3D
++ 3D
+ラジアル らじある ラジアル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ラジアル" sid="wiki00075507-01" id="2"/><rel type="=≒" target="タイヤ" sid="wiki00075507-00" id="7"/>
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="ヲ" target="タイヤ" sid="wiki00075507-01" id="3"/><rel type="外の関係" target="実績" sid="wiki00075507-01" id="5"/>
+製品 せいひん 製品 名詞 6 普通名詞 1 * 0 * 0 NIL
+化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 5D
++ 6D <rel type="トイウ" target="製品化した" sid="wiki00075507-01" id="4"/>
+実績 じっせき 実績 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11P
++ 14P <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="ヲ" target="実績" sid="wiki00075507-01" id="5"/>
+持ち もち 持つ 動詞 2 * 0 子音動詞タ行 6 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 8D
+長年 ながねん 長年 名詞 6 時相名詞 10 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ニ" target="長年" sid="wiki00075507-01" id="7"/>
+わたり わたり わたる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* 9D
++ 10D <rel type="=" target="世界" sid="wiki00075507-01" id="0"/>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="メーカー" sid="wiki00075507-01" id="12"/><rel type="デ" target="世界" sid="wiki00075507-01" id="9"/>
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 10D
++ 12D <rel type="=" target="タイヤ" sid="wiki00075507-00" id="7"/>
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="時間" target="長年" sid="wiki00075507-01" id="7"/><rel type="修飾" target="最大の" sid="wiki00075507-01" id="10"/><rel type="=≒" target="メーカー" sid="wiki00075507-00" id="8"/><rel type="=構" mode="AND" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+* 11D
++ 14D <rel type="トイウ" target="メーカー" sid="wiki00075507-01" id="12"/><rel type="ノ？" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17P
++ 21P <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="ヲ" target="歴史" sid="wiki00075507-01" id="13"/>
+持ち もち 持つ 動詞 2 * 0 子音動詞タ行 6 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 14D
++ 17D <NE:DATE:2019年>
+2019 にせんじゅうく/にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 17D <rel type="=≒" target="メーカー" sid="wiki00075507-00" id="8"/><NE:ORGANIZATION:ブリヂストン>
+ブリヂストン ぶりぢすとん ブリヂストン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 21D <rel type="ヲ" target="ブリヂストン" sid="wiki00075507-01" id="16"/><rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="時間" target="2019年" sid="wiki00075507-01" id="15"/>
+抜いて ぬいて 抜く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 16D
++ 19D <rel type="=" target="世界" sid="wiki00075507-01" id="0"/>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="デ" target="世界" sid="wiki00075507-01" id="18"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 17P
++ 21D <rel type="修飾" target="第1位" sid="wiki00075507-01" id="19"/><rel type="ノ" target="タイヤ" sid="wiki00075507-01" id="11"/>
+売上 うりあげ 売上 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 21D
++ 27P <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="ヲ" target="売上" sid="wiki00075507-01" id="20"/>
+保って たもって 保つ 動詞 2 * 0 子音動詞タ行 6 タ系連用テ形 14 NIL
+おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 19D
++ 23D <rel type="=" target="タイヤ" sid="wiki00075507-01" id="11"/>
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24D <rel type="ノ" target="タイヤ" sid="wiki00075507-01" id="22"/>
+業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 20D
++ 26D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 21D
++ 26D
+ビッグ びっぐ ビッグだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 27D <rel type="ニオイテ" target="業界" sid="wiki00075507-01" id="23"/><rel type="修飾" target="ビッグ" sid="wiki00075507-01" id="25"/><rel type="=≒" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+3 すりー 3 名詞 6 数詞 7 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="修飾" target="3" sid="wiki00075507-01" id="26"/><rel type="=構" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="=構" mode="AND" target="3" sid="wiki00075507-01" id="26"/><rel type="ノ" target="3" sid="wiki00075507-01" id="26"/>
+1 いっ 1 名詞 6 数詞 7 * 0 * 0 NIL
+社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00075507-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/08/22 MEMO:
+* 1D
++ 1D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ" target="ミシュラン" sid="wiki00075507-00" id="0"/><rel type="ノ？" target="日本" sid="wiki00075507-02" id="0"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 4D <rel type="=" target="日本" sid="wiki00075507-02" id="0"/>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4D <rel type="=" target="ミシュラン" sid="wiki00075507-00" id="0"/>
+ミシュラン みしゅらん ミシュラン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <rel type="=≒" target="タイヤ" sid="wiki00075507-00" id="7"/>
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="ガ" target="法人" sid="wiki00075507-02" id="1"/><rel type="=構" target="法人" sid="wiki00075507-02" id="1"/><NE:ORGANIZATION:日本ミシュランタイヤ株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

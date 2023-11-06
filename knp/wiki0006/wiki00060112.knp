@@ -1,0 +1,234 @@
+# S-ID:wiki00060112-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/09/30 MEMO:
+* 6D
++ 1D
+Visual Visual Visual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 10D <NE:ARTIFACT:Visual　Basic>
+Basic Basic Basic 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 5D <NE:ORGANIZATION:マイクロソフト>
+マイクロソフト まいくろそふと マイクロソフト 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+1990 せんきゅうひゃくきゅうじゅう 1990 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <NE:DATE:1990年代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6P
++ 7D <rel type="ガ" target="マイクロソフト" sid="wiki00060112-00-01" id="2"/><rel type="時間" target="代" sid="wiki00060112-00-01" id="4"/><rel type="ヲ" target="言語" sid="wiki00060112-00-01" id="7"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 6P
++ 7D <rel type="ガ" target="不特定:人"/><rel type="デ" target="言語" sid="wiki00060112-00-01" id="7"/>
+プログラミング ぷろぐらみんぐ プログラミング 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10P <rel type="ガ" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="=構" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="修飾" target="プログラミング" sid="wiki00060112-00-01" id="6"/>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 10D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* -1D
++ 10D
+処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="=構" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="ノ" target="処理" sid="wiki00060112-00-01" id="9"/><rel type="ノ" mode="AND" target="言語" sid="wiki00060112-00-01" id="7"/><memo text="CO"/>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00060112-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
+* -1D
++ 1D <rel type="=" target="Visual" sid="wiki00060112-00-01" id="0"/>
+ヴィジュアル ヴィジュアル ヴィジュアル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ -1D <rel type="=" target="Basic" sid="wiki00060112-00-01" id="1"/><NE:ARTIFACT:ヴィジュアル　ベーシック>
+ベーシック べーしっく ベーシック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+EOS
+# S-ID:wiki00060112-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/09/30 MEMO:
+* 3D
++ 4D
+通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2P
++ 2D <rel type="=" target="Visual" sid="wiki00060112-00-01" id="0"/>
+Visual Visual Visual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3P <rel type="=" target="Basic" sid="wiki00060112-00-01" id="1"/><NE:ARTIFACT:Visual　Basic>
+Basic Basic Basic 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=" target="Basic" sid="wiki00060112-00-01" id="1"/><NE:ARTIFACT:VB>
+VB VB VB 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="ト" target="Basic" sid="wiki00060112-01" id="2"/><rel type="ト" mode="AND" target="VB" sid="wiki00060112-01" id="3"/>
+呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00060112-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/09/30 MEMO:
+* 1D
++ 1D <rel type="=" target="Visual" sid="wiki00060112-00-01" id="0"/>
+Visual Visual Visual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 2D <NE:ARTIFACT:Visual　Studio>
+Studio Studio Studio 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ガ" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="ニ" target="Studio" sid="wiki00060112-02" id="1"/><rel type="ニ" mode="AND" target="マイクロソフト" sid="wiki00060112-00-01" id="2"/>
+組み くみ 組む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL
+込ま こま 込む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="種類" sid="wiki00060112-02" id="4"/>
+さまざまな さまざまな さまざまだ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
+* 4D
++ 5D <rel type="ノ" target="アプリケーション" sid="wiki00060112-02" id="5"/><rel type="修飾" target="さまざまな" sid="wiki00060112-02" id="3"/>
+種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 6D <rel type="修飾" target="種類" sid="wiki00060112-02" id="4"/>
+アプリケーション あぷりけーしょん アプリケーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アプリケーション" sid="wiki00060112-02" id="5"/><rel type="=≒" target="開発していた" sid="wiki00060112-00-01" id="5"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="Basic" sid="wiki00060112-00-01" id="1"/><rel type="ニ" target="開発" sid="wiki00060112-02" id="6"/><rel type="ニ" mode="AND" target="不特定:人"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00060112-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/10/30 MEMO:
+* 1D
++ 1D <rel type="ノ" target="Basic" sid="wiki00060112-00-01" id="1"/>
+後継 こうけい 後継 名詞 6 サ変名詞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 4D <rel type="ガ" target="NET" sid="wiki00060112-03-01" id="4"/><rel type="ト" target="後継" sid="wiki00060112-03-01" id="0"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 3D
++ 3D <rel type="=" target="Visual" sid="wiki00060112-00-01" id="0"/>
+Visual Visual Visual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 4D <rel type="=≒" target="Basic" sid="wiki00060112-00-01" id="1"/>
+Basic Basic Basic 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D <rel type="=構" target="後継" sid="wiki00060112-03-01" id="0"/><NE:ARTIFACT:Visual　Basic　.NET>
+. どっと . 特殊 1 句点 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+NET ねっと NET 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 8D
+関して かんして 関する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5D
++ 7D
+当該 とうがい 当該 連体詞 11 * 0 * 0 * 0 NIL
++ 8D <rel type="ノ" target="NET" sid="wiki00060112-03-01" id="4"/>
+項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニカンシテ" target="NET" sid="wiki00060112-03-01" id="4"/><rel type="ヲ" target="項目" sid="wiki00060112-03-01" id="7"/><rel type="ガ" target="読者"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味　素性にモダリティ-依頼A入る？"/>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00060112-03-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
+* -1D
++ 1D <rel type="=" target="Basic" sid="wiki00060112-03-01" id="3"/>
+VB VB VB 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
++ -1D <rel type="=" target="NET" sid="wiki00060112-03-01" id="4"/><NE:ARTIFACT:VB.NET>
+. どっと . 特殊 1 句点 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+NET ねっと NET 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+EOS
+# S-ID:wiki00060112-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/09/30 MEMO:
+* 1P
++ 1D
+1970 せんきゅうひゃくななじゅう 1970 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 3P <NE:DATE:1970年代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
+〜 から 〜 特殊 1 記号 5 * 0 * 0 NIL
+* 2D
++ 3D
+1980 せんきゅうひゃくはちじゅう 1980 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <NE:DATE:1980年代>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 7D <rel type="ガ" target="BASIC" sid="wiki00060112-04" id="7"/><rel type="カラ" target="代" sid="wiki00060112-04" id="1"/><rel type="ニ" target="マイクロソフト" sid="wiki00060112-00-01" id="2"/><rel type="時間" target="代" sid="wiki00060112-04" id="3"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 4D
++ 7D <rel type="ノ" target="Basic" sid="wiki00060112-00-01" id="1"/>
+前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 7D <rel type="=" target="マイクロソフト" sid="wiki00060112-00-01" id="2"/>
+Microsoft Microsoft Microsoft 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D <rel type="修飾" target="前身" sid="wiki00060112-04" id="5"/><rel type="=構" target="前身" sid="wiki00060112-04" id="5"/><NE:ARTIFACT:Microsoft　BASIC>
+BASIC BASIC BASIC 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 10D
+当該 とうがい 当該 連体詞 11 * 0 * 0 * 0 NIL
++ 11D <rel type="ノ" target="BASIC" sid="wiki00060112-04" id="7"/>
+項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニツイテ" target="BASIC" sid="wiki00060112-04" id="7"/><rel type="ガ" target="読者"/><rel type="ヲ" target="項目" sid="wiki00060112-04" id="10"/><rel type="=" target="参照" sid="wiki00060112-03-01" id="8"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00060112-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/09/30 MEMO:
+* 1D
++ 1D
+アプリケーション あぷりけーしょん アプリケーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ニ" target="アプリケーション" sid="wiki00060112-05" id="0"/>
+組み くみ 組み 名詞 6 普通名詞 1 * 0 * 0 NIL
+込み こみ 込み 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="組み込み" sid="wiki00060112-05" id="1"/>
+用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 7D <rel type="修飾" target="用" sid="wiki00060112-05" id="2"/>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="Visual" sid="wiki00060112-00-01" id="0"/>
+Visual Visual Visual 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D <rel type="=≒" target="Basic" sid="wiki00060112-00-01" id="1"/>
+Basic Basic Basic 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7D
+for for for 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D <rel type="修飾" target="言語" sid="wiki00060112-05" id="3"/><rel type="=構" target="言語" sid="wiki00060112-05" id="3"/><rel type="=" mode="AND" target="アプリケーション" sid="wiki00060112-05" id="0"/><NE:ARTIFACT:Visual　Basic　for　Applications>
+Applications Applications Applications 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 11D
+関して かんして 関する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 10D
+当該 とうがい 当該 連体詞 11 * 0 * 0 * 0 NIL
++ 11D <rel type="ノ" target="Applications" sid="wiki00060112-05" id="7"/>
+項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="読者"/><rel type="ニカンシテ" target="Applications" sid="wiki00060112-05" id="7"/><rel type="ヲ" target="項目" sid="wiki00060112-05" id="10"/><rel type="=" target="参照" sid="wiki00060112-04" id="11"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

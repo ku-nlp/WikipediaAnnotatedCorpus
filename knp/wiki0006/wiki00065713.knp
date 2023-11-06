@@ -1,0 +1,88 @@
+# S-ID:wiki00065713-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/10/19 MEMO:
+* 13D
++ 19D
+クーペ くーぺ クーペ 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2D <rel type="ノ" target="自動車" sid="wiki00065713-00-01" id="7"/>
+車体 しゃたい 車体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="ノ" target="車体" sid="wiki00065713-00-01" id="1"/>
+形状 けいじょう 形状 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="自動車" sid="wiki00065713-00-01" id="7"/>
+使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="使用" sid="wiki00065713-00-01" id="3"/>
+形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* 6D
++ 8D <rel type="ガ" target="形態" sid="wiki00065713-00-01" id="8"/><rel type="ニ" target="不特定:人"/><rel type="ニヨッテ" target="形態" sid="wiki00065713-00-01" id="4"/><rel type="ニヨッテ" mode="AND" target="形状" sid="wiki00065713-00-01" id="2"/>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 6D
++ 8D
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 9D <rel type="ノ" target="自動車" sid="wiki00065713-00-01" id="7"/><rel type="=≒" target="クーペ" sid="wiki00065713-00-01" id="0"/><rel type="=≒" mode="AND" target="形態" sid="wiki00065713-00-01" id="4"/>
+形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13P
++ 19P <rel type="ガ" target="クーペ" sid="wiki00065713-00-01" id="0"/><rel type="ノ" target="形態" sid="wiki00065713-00-01" id="8"/><rel type="=構" target="クーペ" sid="wiki00065713-00-01" id="0"/><rel type="=構" mode="AND" target="形態" sid="wiki00065713-00-01" id="8"/>
+ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9P
++ 11P <rel type="ノ" target="シート" sid="wiki00065713-00-01" id="12"/>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
+列 れつ 列 名詞 6 普通名詞 1 * 0 * 0 NIL
+もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 12D <rel type="ノ" target="シート" sid="wiki00065713-00-01" id="12"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+列 れつ 列 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="2列" sid="wiki00065713-00-01" id="11"/><rel type="修飾" mode="OR" target="1列" sid="wiki00065713-00-01" id="10"/><rel type="ノ" target="乗用車" sid="wiki00065713-00-01" id="18"/>
+シート しーと シート 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11P
++ 15P <rel type="ガ" target="乗用車" sid="wiki00065713-00-01" id="20"/><rel type="ヲ" target="シート" sid="wiki00065713-00-01" id="14"/>
+有し ゆうし 有する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 12D
++ 15D <rel type="ノ" target="ドア" sid="wiki00065713-00-01" id="15"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+枚 まい 枚 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 18D <rel type="修飾" target="2枚" sid="wiki00065713-00-01" id="14"/><rel type="ノ" target="乗用車" sid="wiki00065713-00-01" id="18"/>
+ドア どあ ドア 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13D
++ 17D
+箱 はこ 箱 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ノ" target="箱" sid="wiki00065713-00-01" id="16"/>
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 19D <rel type="=構" target="クーペ" sid="wiki00065713-00-01" id="0"/><rel type="修飾" target="ドア" sid="wiki00065713-00-01" id="15"/><rel type="修飾" mode="AND" target="有し" sid="wiki00065713-00-01" id="13"/><rel type="修飾" mode="AND" target="型" sid="wiki00065713-00-01" id="17"/>
+乗用車 じょうようしゃ 乗用車 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="クーペ" sid="wiki00065713-00-01" id="0"/><rel type="ノ" target="乗用車" sid="wiki00065713-00-01" id="20"/><rel type="=構" target="クーペ" sid="wiki00065713-00-01" id="0"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00065713-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/19 MEMO:
+* 1P
++ 1P <rel type="=" target="クーペ" sid="wiki00065713-00-01" id="0"/>
+クペ くぺ クペ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="クーペ" sid="wiki00065713-00-01" id="0"/>
+クッペ くっぺ クッペ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

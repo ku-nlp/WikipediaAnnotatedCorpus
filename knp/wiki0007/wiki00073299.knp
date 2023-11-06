@@ -1,0 +1,49 @@
+# S-ID:wiki00073299-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/22 MEMO:
+* 5D
++ 9D <memo text="もともとは人名"/><NE:ORGANIZATION:フェラーリ>
+フェラーリ ふぇらーり フェラーリ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:イタリア>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 3D <rel type="ノ？" target="イタリア" sid="wiki00073299-00-01" id="1"/>
+モデナ もでな モデナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="モデナ県" sid="wiki00073299-00-01" id="2"/><NE:LOCATION:モデナ県マラネッロ>
+マラネッロ まらねっろ マラネッロ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ノ" target="メーカー" sid="wiki00073299-00-01" id="9"/>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <rel type="ガ" target="メーカー" sid="wiki00073299-00-01" id="9"/><rel type="ヲ" target="本社" sid="wiki00073299-00-01" id="4"/><rel type="ニ" target="マラネッロ" sid="wiki00073299-00-01" id="3"/>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+* -1D
++ 8D
+高級 こうきゅう 高級だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 8D
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="高級" sid="wiki00073299-00-01" id="6"/><rel type="修飾" mode="AND" target="スポーツ" sid="wiki00073299-00-01" id="7"/>
+カー かー カー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="フェラーリ" sid="wiki00073299-00-01" id="0"/><rel type="ノ" target="カー" sid="wiki00073299-00-01" id="8"/><rel type="=構" target="フェラーリ" sid="wiki00073299-00-01" id="0"/><memo text="CO"/>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00073299-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
+* -1D
++ 2D <rel type="=" target="フェラーリ" sid="wiki00073299-00-01" id="0"/>
+Ferrari Ferrari Ferrari 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D
+N N N 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="フェラーリ" sid="wiki00073299-00-01" id="0"/><NE:ORGANIZATION:Ferrari　N.V.>
+V V V 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS

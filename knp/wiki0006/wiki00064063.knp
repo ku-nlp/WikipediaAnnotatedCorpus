@@ -1,0 +1,107 @@
+# S-ID:wiki00064063-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:101.00000 MOD:2023/10/16 MEMO:
+* 14D
++ 15D
+繊維 せんい 繊維 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3P
++ 3P <rel type="ノ" target="動物" sid="wiki00064063-00-01" id="1"/>
+毛 け 毛 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 4P <rel type="ノ" target="動物" sid="wiki00064063-00-01" id="1"/>
+皮革 ひかく 皮革 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 5D
+植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 15D <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/><rel type="カラ" target="毛" sid="wiki00064063-00-01" id="2"/><rel type="カラ" mode="AND" target="皮革" sid="wiki00064063-00-01" id="3"/><rel type="カラ" mode="AND" target="植物など" sid="wiki00064063-00-01" id="4"/>
+得 え 得る 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 6D
++ 7D
+自然に しぜんに 自然だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
+* 8P
++ 9P <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/>
+伸びた のびた 伸びる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+または または または 接続詞 10 * 0 * 0 * 0 NIL
+* 8D
++ 9D
+人工 じんこう 人工 名詞 6 普通名詞 1 * 0 * 0 NIL
+的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 14D
++ 15D <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/><rel type="ニ" target="不特定:人"/>
+伸ばさ のばさ 伸ばす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 10P
++ 11P <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/>
+細く ほそく 細い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+* 12P
++ 13P <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/>
+しなやかで しなやかで しなやかだ 形容詞 3 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
+* 12D
++ 13D
+凝集 ぎょうしゅう 凝集 名詞 6 サ変名詞 2 * 0 * 0 NIL
+性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 15D <rel type="ガ" target="凝集性" sid="wiki00064063-00-01" id="12"/><rel type="ニ" target="素材" sid="wiki00064063-00-01" id="15"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 14D
++ 15D <rel type="ガ" target="素材" sid="wiki00064063-00-01" id="15"/>
+細長い ほそながい 細長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="繊維" sid="wiki00064063-00-01" id="0"/><rel type="=構" target="繊維" sid="wiki00064063-00-01" id="0"/><rel type="修飾" target="得られる" sid="wiki00064063-00-01" id="5"/><rel type="修飾" mode="AND" target="伸びた" sid="wiki00064063-00-01" id="7"/><rel type="修飾" mode="AND" target="伸ばされた" sid="wiki00064063-00-01" id="9"/><rel type="修飾" mode="AND" target="細く" sid="wiki00064063-00-01" id="10"/><rel type="修飾" mode="AND" target="しなやかで" sid="wiki00064063-00-01" id="11"/><rel type="修飾" mode="AND" target="ある" sid="wiki00064063-00-01" id="13"/><rel type="修飾" mode="AND" target="細長い" sid="wiki00064063-00-01" id="14"/><memo text="CO"/>
+素材 そざい 素材 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00064063-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/24 MEMO:
+* -1D
++ -1D <rel type="=" target="繊維" sid="wiki00064063-00-01" id="0"/>
+せんい せんい せんい 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00064063-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:63.00000 MOD:2023/10/16 MEMO:
+* 1D
++ 1D <memo text="American Society for Testing and Materials"/>
+ASTM ASTM ASTM 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <memo text="世界最大・民間・非営利の国際標準化・規格設定機関。"/><NE:ORGANIZATION:ASTMインターナショナル>
+インターナショナル いんたーなしょなる インターナショナルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ヲ" target="繊維" sid="wiki00064063-01" id="3"/><rel type="ガ" target="インターナショナル" sid="wiki00064063-01" id="1"/>
+定義 ていぎ 定義 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 7D <rel type="=" target="繊維" sid="wiki00064063-00-01" id="0"/>
+繊維 せんい 繊維 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 5D
+物体 ぶったい 物体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6P
++ 7P <rel type="ガ" target="繊維" sid="wiki00064063-01" id="3"/><rel type="ノ" target="物体" sid="wiki00064063-01" id="4"/><rel type="=構" target="繊維" sid="wiki00064063-01" id="3"/><rel type="デ" target="定義" sid="wiki00064063-01" id="2"/>
+形状 けいじょう 形状 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+* 6D
++ 7D <rel type="ノ" target="繊維" sid="wiki00064063-01" id="3"/>
+材質 ざいしつ 材質 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="材質" sid="wiki00064063-01" id="6"/><rel type="ニ" target="繊維" sid="wiki00064063-01" id="3"/><rel type="デ" target="定義" sid="wiki00064063-01" id="2"/>
+問わ とわ 問う 動詞 2 * 0 子音動詞ワ行文語音便形 13 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

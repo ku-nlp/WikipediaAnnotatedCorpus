@@ -1,0 +1,145 @@
+# S-ID:wiki00076153-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/08/24 MEMO:
+* 1P
++ 1D
+X えくす/えっくす X 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5P <NE:OPTIONAL:X-SAMPA><NE-OPTIONAL:ARTIFACT,NONE:0>
+SAMPA さんぱ/さむぱ SAMPA 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=" target="X" sid="wiki00076153-00-01" id="0"/><rel type="ヲ" target="SAM" sid="wiki00076153-00-01" id="3"/><rel type="ガ" target="不特定:人"/>
+拡張 かくちょう 拡張 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 5D <rel type="修飾" target="拡張" sid="wiki00076153-00-01" id="2"/>
+SAM SAM SAM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D
+音声 おんせい 音声 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 8D <rel type="=" target="SAMPA" sid="wiki00076153-00-01" id="2"/><rel type="修飾" target="SAM" sid="wiki00076153-00-01" id="3"/><rel type="ノ" target="音声" sid="wiki00076153-00-01" id="4"/><NE:OPTIONAL:拡張SAM音声記号><NE-OPTIONAL:ARTIFACT,NONE:0>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 7D
+発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ノ" target="発音" sid="wiki00076153-00-01" id="7"/><rel type="=≒" target="SAMPA" sid="wiki00076153-00-01" id="1"/>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="記号" sid="wiki00076153-00-01" id="8"/><rel type="ガ" target="SAMPA" sid="wiki00076153-00-01" id="1"/><rel type="=構" target="SAMPA" sid="wiki00076153-00-01" id="1"/><rel type="=構" mode="AND" target="記号" sid="wiki00076153-00-01" id="7"/>
+ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00076153-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/24 MEMO:
+* -1D
++ 1D <rel type="=" target="X-" sid="wiki00076153-00-01" id="0"/>
+Extended Extended Extended 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D
+SAM SAM SAM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D
+Phonetic Phonetic Phonetic 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="=" target="SAMPA" sid="wiki00076153-00-01" id="1"/><NE:OPTIONAL:Extended　SAM　Phonetic　Alphabet><NE-OPTIONAL:ARTIFACT,NONE:0>
+Alphabet Alphabet Alphabet 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+EOS
+# S-ID:wiki00076153-00-03 括弧始:（ 括弧終:） 括弧位置:49 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/24 MEMO:
+* -1D
++ 1D <rel type="=" target="拡張" sid="wiki00076153-00-01" id="2"/>
+かくちょう かくちょう かくちょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 3D <rel type="=" target="SAM" sid="wiki00076153-00-01" id="3"/>
+エスエイエム えすえいえむ エスエイエム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="=" target="音声" sid="wiki00076153-00-01" id="4"/>
+おんせい おんせい おんせい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="=" target="記号" sid="wiki00076153-00-01" id="5"/><NE:OPTIONAL:かくちょうエスエイエムおんせいきごう><NE-OPTIONAL:ARTIFACT,NONE:0>
+きごう きごう きごう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+EOS
+# S-ID:wiki00076153-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/08/24 MEMO:
+* 1D
++ 1D <rel type="=≒" target="SAMPA" sid="wiki00076153-00-01" id="1"/><NE:OPTIONAL:SAMPA><NE-OPTIONAL:ARTIFACT,NONE:0>
+SAMPA さんぱ/さむぱ SAMPA 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7P
++ 14P <rel type="ノ" target="SAMPA" sid="wiki00076153-01" id="0"/><rel type="ガ" target="記号" sid="wiki00076153-00-01" id="5"/><rel type="=構" target="記号" sid="wiki00076153-00-01" id="5"/>
+変種 へんしゅ 変種 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 14D <NE:DATE:1995年>
+1995 せんきゅうひゃくきゅうじゅうご 1995 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 9D <rel type="=" target="1995年" sid="wiki00076153-01" id="2"/>
+当時 とうじ 当時 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D
+ユニヴァーシティ ゆにゔぁーしてぃ ユニヴァーシティ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D
+カレッジ かれっじ カレッジ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D
+ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D
+音声 おんせい 音声 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="ノ" target="ロンドン" sid="wiki00076153-01" id="6"/><rel type="ノ？" target="音声" sid="wiki00076153-01" id="7"/><NE:ORGANIZATION:ユニヴァーシティ・カレッジ・ロンドン音声学科>
+学科 がっか 学科 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <rel type="ノ" target="学科" sid="wiki00076153-01" id="9"/><rel type="時間" target="当時" sid="wiki00076153-01" id="3"/><rel type="ガ" target="Wells" sid="wiki00076153-01" id="13"/>
+長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+* 6D
++ 11D
+John John John 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 12D
+Christopher Christopher Christopher 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 13D <rel type="=構" target="長" sid="wiki00076153-01" id="10"/><NE:PERSON:John　Christopher　Wells>
+Wells Wells Wells 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 14D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* -1D
++ -1D <rel type="時間" target="1995年" sid="wiki00076153-01" id="2"/><rel type="ニヨッテ" target="Wells" sid="wiki00076153-01" id="13"/><rel type="ガ" target="記号" sid="wiki00076153-00-01" id="5"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00076153-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/08/24 MEMO:
+* 2D
++ 5D
+すべて すべて すべて 副詞 8 * 0 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 3D
+音声 おんせい 音声 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D <NE:ARTIFACT:国際音声記号>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 5D
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="記号" sid="wiki00076153-02" id="3"/><rel type="修飾" target="文字" sid="wiki00076153-02" id="4"/><rel type="修飾" mode="AND" target="すべて" sid="wiki00076153-02" id="0"/>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 7D <NE:ARTIFACT:ASCII>
+ASCII あすきー ASCII 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 8D <rel type="ノ？" target="ASCII" sid="wiki00076153-02" id="6"/><rel type="=≒" target="文字" sid="wiki00076153-02" id="4"/>
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
+のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ヲ" target="記号" sid="wiki00076153-02" id="5"/><rel type="ガ" target="記号" sid="wiki00076153-00-01" id="5"/><rel type="デ" target="文字のみ" sid="wiki00076153-02" id="7"/>
+表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

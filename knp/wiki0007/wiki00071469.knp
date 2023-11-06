@@ -1,0 +1,118 @@
+# S-ID:wiki00071469-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/15 MEMO:
+* 3D
++ 1D <NE:OPTIONAL:ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
+ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="ゲルマン" sid="wiki00071469-00-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="語" sid="wiki00071469-00-01" id="1"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4P <NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 5D <NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6D <rel type="ノ？" target="インド" sid="wiki00071469-00-01" id="3"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00071469-00-01" id="4"/>
+語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 9D <rel type="ノ" target="語族" sid="wiki00071469-00-01" id="5"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 9D
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ 9D
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="派" sid="wiki00071469-00-01" id="2"/><rel type="ノ？" target="語族" sid="wiki00071469-00-01" id="5"/><rel type="=構" target="派" sid="wiki00071469-00-01" id="2"/><rel type="修飾" target="うち" sid="wiki00071469-00-01" id="6"/><rel type="修飾" mode="AND" target="一" sid="wiki00071469-00-01" id="7"/><memo text="CO"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00071469-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/16 MEMO:
+* 1P
++ 1D <rel type="=" target="ゲルマン" sid="wiki00071469-00-01" id="0"/>
+ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL
++ 2D <rel type="=" target="語" sid="wiki00071469-00-01" id="1"/>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=" target="派" sid="wiki00071469-00-01" id="2"/>
+は は は 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 5D <rel type="ノ" target="は" sid="wiki00071469-00-02" id="2"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 5D <rel type="=" target="ゲルマン" sid="wiki00071469-00-01" id="0"/>
+Germanic Germanic Germanic 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 8P <rel type="デ" target="英" sid="wiki00071469-00-02" id="3"/><rel type="=" target="派" sid="wiki00071469-00-01" id="2"/>
+languages languages languages 名詞 6 普通名詞 1 * 0 * 0 NIL
+, , , 特殊 1 読点 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* 3P
++ 8D <rel type="ノ" target="は" sid="wiki00071469-00-02" id="2"/><NE:OPTIONAL:独><NE-OPTIONAL:LOCATION,NONE:0>
+独 どく 独 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 8D <rel type="=" target="ゲルマン" sid="wiki00071469-00-01" id="0"/>
+Germanische Germanische Germanische 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 11P <rel type="デ" target="独" sid="wiki00071469-00-02" id="6"/><rel type="=" target="派" sid="wiki00071469-00-01" id="2"/>
+Sprachen Sprachen Sprachen 名詞 6 普通名詞 1 * 0 * 0 NIL
+, , , 特殊 1 読点 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 11D <rel type="ノ" target="は" sid="wiki00071469-00-02" id="2"/><memo text="スウェーデン語"/><NE:OPTIONAL:瑞><NE-OPTIONAL:LOCATION,NONE:0>
+瑞 ずい 瑞 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 11D <rel type="=" target="ゲルマン" sid="wiki00071469-00-02" id="0"/>
+Germanska Germanska Germanska 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="=" target="派" sid="wiki00071469-00-01" id="2"/><rel type="デ" target="瑞" sid="wiki00071469-00-02" id="9"/>
+språk språk språk 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00071469-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/16 MEMO:
+* 1P
++ 1D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3P <rel type="ノ？" target="ドイツ" sid="wiki00071469-01" id="0"/><rel type="=" target="独" sid="wiki00071469-00-02" id="6"/><rel type="=≒" mode="AND" target="派" sid="wiki00071469-00-01" id="2"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3D <NE:OPTIONAL:オランダ><NE-OPTIONAL:LOCATION,NONE:0>
+オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4P <rel type="ノ？" target="オランダ" sid="wiki00071469-01" id="2"/><rel type="=≒" target="派" sid="wiki00071469-00-01" id="2"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 5D <rel type="=" target="英" sid="wiki00071469-00-02" id="3"/><rel type="=≒" mode="AND" target="派" sid="wiki00071469-00-01" id="2"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="英語など" sid="wiki00071469-01" id="4"/><rel type="ガ" mode="AND" target="語" sid="wiki00071469-01" id="3"/><rel type="ガ" mode="AND" target="語" sid="wiki00071469-01" id="1"/><rel type="ニ" target="派" sid="wiki00071469-00-01" id="2"/>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00071469-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/16 MEMO:
+* 1D
++ 2D <rel type="ガ" target="祖語" sid="wiki00071469-02" id="2"/>
+共通の きょうつうの 共通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 2D
++ 2D <rel type="=" target="ゲルマン" sid="wiki00071469-00-01" id="0"/><NE:OPTIONAL:ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
+ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="ゲルマン" sid="wiki00071469-02" id="1"/><rel type="修飾" target="共通の" sid="wiki00071469-02" id="0"/><rel type="=≒" target="語" sid="wiki00071469-00-01" id="1"/>
+祖語 そご 祖語 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="派" sid="wiki00071469-00-01" id="2"/><rel type="カラ" target="祖語" sid="wiki00071469-02" id="2"/><rel type="ニ" target="不特定:人"/>
+分化 ぶんか 分化 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

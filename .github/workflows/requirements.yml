@@ -14,8 +14,10 @@ jobs:
       - uses: actions/setup-python@v4
         with:
           python-version: "3.9"
-      - name: Install Poetry
-        run: pipx install poetry
+      - name: Install Poetry and poetry-plugin-export
+        run: |
+          pipx install poetry
+          pipx inject poetry poetry-plugin-export
       - name: Add path for Python packages
         run: echo "$HOME/.local/bin" >> $GITHUB_PATH
       - name: Export requirements.txt

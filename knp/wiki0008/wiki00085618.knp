@@ -1,4 +1,4 @@
-# S-ID:wiki00085618-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/06/16 MEMO:
+# S-ID:wiki00085618-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/11/06 MEMO:
 * 13D
 + 1D
 フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -13,7 +13,7 @@
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="修飾" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=構" target="局" sid="wiki00085618-00-01" id="2"/><rel type="=" mode="AND" target="フジ" sid="wiki00085618-00-01" id="0"/><NE:ORGANIZATION:フジテレビ>
++ 8D <rel type="修飾" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=構" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=" mode="AND" target="フジ" sid="wiki00085618-00-01" id="0"/><NE:ORGANIZATION:フジテレビ>
 フジテレビ ふじてれび フジテレビ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
@@ -21,7 +21,7 @@
 FNN えふえぬえぬ FNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="局" sid="wiki00085618-00-01" id="7"/><rel type="ニ" target="FNN" sid="wiki00085618-00-01" id="4"/>
++ 8D <rel type="ニ" target="FNN" sid="wiki00085618-00-01" id="4"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -32,13 +32,13 @@ FNN えふえぬえぬ FNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:sin
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="局" sid="wiki00085618-00-01" id="7"/><rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="9"/>
++ 10D <rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="9"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 11D <rel type="修飾" target="放送" sid="wiki00085618-00-01" id="9"/><rel type="ノ？" target="局" sid="wiki00085618-00-01" id="8"/>
 番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ノ" target="番組" sid="wiki00085618-00-01" id="9"/>
++ 13D <rel type="ノ" target="番組" sid="wiki00085618-00-01" id="10"/>
 内 うち 内 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
@@ -69,9 +69,9 @@ FNN えふえぬえぬ FNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:sin
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 21D <rel type="=" target="番組" sid="wiki00085618-00-01" id="12"/>
++ 21D <rel type="=" target="番組" sid="wiki00085618-00-01" id="13"/>
 番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="21"/><rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="19"/><rel type="ニ" target="不特定:人"/><rel type="=" target="融通する" sid="wiki00085618-00-01" id="14"/>
++ 22D <rel type="ニ" target="不特定:人"/><rel type="=" target="融通する" sid="wiki00085618-00-01" id="14"/><rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="22"/><rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="20"/>
 供給 きょうきゅう 供給 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="=構" target="ネットワーク" sid="wiki00085618-00-01" id="1"/>
 ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL

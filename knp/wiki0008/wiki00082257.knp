@@ -1,4 +1,4 @@
-# S-ID:wiki00082257-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2023/06/08 MEMO:
+# S-ID:wiki00082257-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2023/11/06 MEMO:
 * 16D
 + 1P
 北中米 ほくちゅうべい 北中米 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -46,11 +46,11 @@
 * 8D
 + 15D <rel type="ノ？" target="アメリカ" sid="wiki00082257-00-01" id="13"/><NE:LOCATION:ギアナ>
 ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 16D <rel type="ノ" target="ギアナ" sid="wiki00082257-00-01" id="15"/><rel type="ノ？" target="アメリカ" sid="wiki00082257-00-01" id="13"/>
++ 16D <rel type="ノ？" target="アメリカ" sid="wiki00082257-00-01" id="13"/><rel type="ノ" target="ギアナ" sid="wiki00082257-00-01" id="14"/>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 18D <rel type="ヲ" target="地方" sid="wiki00082257-00-01" id="16"/><rel type="ガ" target="地域" sid="wiki00082257-00-01" id="18"/><rel type="ガ" mode="AND" target="国" sid="wiki00082257-00-01" id="17"/>
++ 18D <rel type="ガ" target="地域" sid="wiki00082257-00-01" id="18"/><rel type="ガ" mode="AND" target="国" sid="wiki00082257-00-01" id="17"/><rel type="ヲ" target="地方" sid="wiki00082257-00-01" id="15"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 10D
 + 18P <rel type="ノ？" target="アメリカ" sid="wiki00082257-00-01" id="5"/><rel type="ノ？" mode="AND" target="アメリカ" sid="wiki00082257-00-01" id="7"/><rel type="ノ？" mode="AND" target="諸国" sid="wiki00082257-00-01" id="9"/><rel type="ヲフクメテ" target="地方" sid="wiki00082257-00-01" id="15"/><rel type="ヲフクメテ" mode="AND" target="アメリカ" sid="wiki00082257-00-01" id="5"/><rel type="ヲフクメテ" mode="AND" target="アメリカ" sid="wiki00082257-00-01" id="7"/><rel type="ヲフクメテ" mode="AND" target="諸国" sid="wiki00082257-00-01" id="9"/>
@@ -61,17 +61,17 @@
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 21D <rel type="ノ" target="協会" sid="wiki00082257-00-01" id="22"/><memo text="北米3協会、中米 7協会。カリブ海31協会"/>
++ 21D <rel type="ノ" target="協会" sid="wiki00082257-00-01" id="21"/><memo text="北米3協会、中米 7協会。カリブ海31協会"/>
 41 よんじゅういち 41 名詞 6 数詞 7 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 21D <rel type="=" target="サッカー" sid="wiki00082257-00-01" id="3"/>
++ 21D <rel type="=" target="サッカー" sid="wiki00082257-00-01" id="2"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 22D <rel type="修飾" target="41" sid="wiki00082257-00-01" id="19"/><rel type="=構" target="41" sid="wiki00082257-00-01" id="19"/><rel type="ノ？" target="サッカー" sid="wiki00082257-00-01" id="20"/><rel type="ノ？" mode="AND" target="国" sid="wiki00082257-00-01" id="17"/><rel type="ノ？" mode="AND" target="地域" sid="wiki00082257-00-01" id="18"/>
 協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 29D <rel type="ガ" target="団体" sid="wiki00082257-00-01" id="30"/><rel type="ヲ" target="協会" sid="wiki00082257-00-01" id="22"/>
++ 29D <rel type="ヲ" target="協会" sid="wiki00082257-00-01" id="21"/><rel type="ガ" target="団体" sid="wiki00082257-00-01" id="29"/>
 統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -82,17 +82,17 @@
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 26D <rel type="修飾" target="国際" sid="wiki00082257-00-01" id="23"/><NE:ORGANIZATION:国際サッカー連盟>
 連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 29D <rel type="ノ" target="連盟" sid="wiki00082257-00-01" id="26"/>
++ 29D <rel type="ノ" target="連盟" sid="wiki00082257-00-01" id="25"/>
 傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 29D <rel type="=" target="サッカー" sid="wiki00082257-00-01" id="3"/>
++ 29D <rel type="=" target="サッカー" sid="wiki00082257-00-01" id="2"/>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 29D <rel type="=≒" target="サッカー" sid="wiki00082257-00-01" id="27"/>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="連盟" sid="wiki00082257-00-01" id="4"/><rel type="修飾" target="傘下" sid="wiki00082257-00-01" id="26"/><rel type="修飾" mode="AND" target="競技" sid="wiki00082257-00-01" id="28"/><rel type="ノ？" target="サッカー" sid="wiki00082257-00-01" id="27"/><rel type="=構" target="連盟" sid="wiki00082257-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="修飾" target="傘下" sid="wiki00082257-00-01" id="26"/><rel type="修飾" mode="AND" target="競技" sid="wiki00082257-00-01" id="28"/><rel type="ノ？" target="サッカー" sid="wiki00082257-00-01" id="27"/><rel type="=構" target="連盟" sid="wiki00082257-00-01" id="3"/><rel type="ガ" target="連盟" sid="wiki00082257-00-01" id="3"/><memo text="CO"/>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

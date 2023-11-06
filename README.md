@@ -11,8 +11,8 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 ## Distributed files
 
-- [`knp/`](./knp): the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and
-  coreferences
+- [`knp/`](./knp): the corpus annotated with morphology, named entities, dependencies, predicate-argument structures,
+  and coreferences
 - [`org/`](./org): the raw corpus
 - [`id/`](./id): document id files providing train/dev/test split
 
@@ -20,10 +20,10 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 |       | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
 |-------|---------------:|---------------:|---------------:|--------------------:|----------------:|--------------------------:|
-| train |          1,144 |          4,532 |         65,300 |               4,231 |          17,474 |                    14,479 |
+| train |          1,517 |          5,950 |         86,214 |               5,681 |          23,203 |                    19,329 |
 | dev   |            100 |            443 |          6,353 |                 423 |           1,701 |                     1,437 |
 | test  |            200 |            775 |         11,123 |                 800 |           2,872 |                     2,534 |
-| total |          1,444 |          5,750 |         82,776 |               5,454 |          22,047 |                    18,450 |
+| total |          1,817 |          7,168 |        103,690 |               6,904 |          27,776 |                    23,300 |
 
 ## Format of the annotation
 
@@ -65,9 +65,14 @@ for morpheme in document.morphemes:
 - 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理,
   Vol.21, No.2, pp.213-248, 2014. <https://doi.org/10.5715/jnlp.21.213>
 
+## Author
+
+京都大学 言語メディア研究室 (contact **at** nlp.ist.i.kyoto-u.ac.jp)
+- Nobuhiro Ueda <ueda **at** nlp.ist.i.kyoto-u.ac.jp>
+
 ## Contact
 
-If you have any questions or problems with this corpus, please send an email to nl-resource at nlp.ist.i.kyoto-u.ac.jp.
+If you have any questions or problems with this corpus, please email to <nl-resource **at** nlp.ist.i.kyoto-u.ac.jp>.
 
 ## License
 

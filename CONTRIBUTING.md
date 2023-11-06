@@ -8,9 +8,10 @@
 ## Setting up the development environment
 
 - Create a virtual environment and install dependencies.
+
     ```shell
-    $ poetry env use /path/to/python
-    $ poetry install
+    poetry env use /path/to/python
+    poetry install
     ```
 
 ## Adding new documents

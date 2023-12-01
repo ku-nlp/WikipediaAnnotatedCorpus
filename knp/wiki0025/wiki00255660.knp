@@ -1,159 +1,159 @@
 # S-ID:wiki00255660-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 2D
-+ 4D <NE:ORGANIZATION:中日ドラゴンズ>
-中日ドラゴンズ ちゅうにちどらごんず 中日ドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 4D <体言><NE:ORGANIZATION:中日ドラゴンズ>
+中日ドラゴンズ ちゅうにちどらごんず 中日ドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ？" target="日本" sid="wiki00255660-00-01" id="1"/><rel type="修飾" target="プロ" sid="wiki00255660-00-01" id="2"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="修飾" target="野球" sid="wiki00255660-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00255660-00-01" id="1"/><rel type="=構" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/>
-球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ？" target="日本" sid="wiki00255660-00-01" id="1"/><rel type="修飾" target="プロ" sid="wiki00255660-00-01" id="2"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="修飾" target="野球" sid="wiki00255660-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00255660-00-01" id="1"/><rel type="=構" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255660-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><NE:ORGANIZATION:ちゅうにちドラゴンズ>
-ちゅうにちドラゴンズ ちゅうにちどらごんず ちゅうにちドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ちゅうにちドラゴンズ>
+ちゅうにちドラゴンズ ちゅうにちどらごんず ちゅうにちドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00255660-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D
-セントラル せんとらる セントラル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+セントラル せんとらる セントラル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 2D <rel type="修飾" target="セントラル" sid="wiki00255660-01" id="0"/><rel type="ノ？" target="野球" sid="wiki00255660-00-01" id="3"/><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,NONE:0>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="修飾" target="セントラル" sid="wiki00255660-01" id="0"/><rel type="ノ？" target="野球" sid="wiki00255660-00-01" id="3"/><体言><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,NONE:0>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="リーグ" sid="wiki00255660-01" id="1"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="リーグ" sid="wiki00255660-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255660-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 2D <rel type="=" target="日本" sid="wiki00255660-00-01" id="1"/><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D <rel type="=" target="プロ" sid="wiki00255660-00-01" id="2"/>
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="野球" sid="wiki00255660-00-01" id="3"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="日本" sid="wiki00255660-00-01" id="1"/><体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <rel type="=" target="プロ" sid="wiki00255660-00-01" id="2"/><体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="野球" sid="wiki00255660-00-01" id="3"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="野球" sid="wiki00255660-02" id="2"/>
-黎明 れいめい 黎明 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="野球" sid="wiki00255660-02" id="2"/><rel type="ノ？" target="黎明" sid="wiki00255660-02" id="3"/>
-期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 4D <rel type="ノ" target="野球" sid="wiki00255660-02" id="2"/><体言>
+黎明 れいめい 黎明 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="野球" sid="wiki00255660-02" id="2"/><rel type="ノ？" target="黎明" sid="wiki00255660-02" id="3"/><体言>
+期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15P
-+ 21P <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="期" sid="wiki00255660-02" id="4"/>
-創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 21P <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="期" sid="wiki00255660-02" id="4"/><用言:動><節-主辞><節-区切>
+創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="日本" sid="wiki00255660-02" id="0"/><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="=" target="日本" sid="wiki00255660-02" id="0"/><体言><NE:LOCATION:日本>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ニ" target="日本" sid="wiki00255660-02" id="6"/><rel type="ガ" target="12球団" sid="wiki00255660-02" id="10"/>
-現存 げんそん 現存 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ニ" target="日本" sid="wiki00255660-02" id="6"/><rel type="ガ" target="12球団" sid="wiki00255660-02" id="10"/><用言:動><時制:非過去><節-主辞>
+現存 げんそん 現存 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 9D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="=" target="野球" sid="wiki00255660-00-01" id="3"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="=" target="野球" sid="wiki00255660-00-01" id="3"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 11D <rel type="ノ？" target="野球" sid="wiki00255660-02" id="9"/>
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL
++ 11D <rel type="ノ？" target="野球" sid="wiki00255660-02" id="9"/><体言>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 19D <rel type="ノ" target="球団" sid="wiki00255660-02" id="21"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 19D <rel type="ノ" target="球団" sid="wiki00255660-02" id="21"/><体言>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9P
-+ 14P <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><NE:ORGANIZATION:読売ジャイアンツ>
-読売ジャイアンツ よみうりじゃいあんつ 読売ジャイアンツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 14P <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><体言><NE:ORGANIZATION:読売ジャイアンツ>
+読売ジャイアンツ よみうりじゃいあんつ 読売ジャイアンツ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 14D
-阪神 はんしん 阪神 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 15D <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><NE:ORGANIZATION:阪神タイガース>
-タイガース タイガース タイガース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 14D <体言>
+阪神 はんしん 阪神 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 15D <rel type="=≒" target="12球団" sid="wiki00255660-02" id="10"/><体言><NE:ORGANIZATION:阪神タイガース>
+タイガース タイガース タイガース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 19D <rel type="ニ" target="タイガース" sid="wiki00255660-02" id="14"/><rel type="ニ" mode="AND" target="読売ジャイアンツ" sid="wiki00255660-02" id="12"/>
-次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL
++ 19D <rel type="ニ" target="タイガース" sid="wiki00255660-02" id="14"/><rel type="ニ" mode="AND" target="読売ジャイアンツ" sid="wiki00255660-02" id="12"/><用言:動><節-主辞><節-区切>
+次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL <基本句-主辞>
 * 12D
-+ 17D
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 17D <体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 18D <rel type="ガ" target="歴史" sid="wiki00255660-02" id="18"/>
-長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 18D <rel type="ガ" target="歴史" sid="wiki00255660-02" id="18"/><用言:形><時制:非過去><節-主辞>
+長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 19D <rel type="修飾" target="長い" sid="wiki00255660-02" id="17"/><rel type="ノ" target="球団" sid="wiki00255660-02" id="21"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="修飾" target="長い" sid="wiki00255660-02" id="17"/><rel type="ノ" target="球団" sid="wiki00255660-02" id="21"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 21D <rel type="ガ" target="球団" sid="wiki00255660-02" id="21"/><rel type="ヲ" target="歴史" sid="wiki00255660-02" id="18"/><rel type="デ" target="中" sid="wiki00255660-02" id="11"/>
-持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
++ 21D <rel type="ガ" target="球団" sid="wiki00255660-02" id="21"/><rel type="ヲ" target="歴史" sid="wiki00255660-02" id="18"/><rel type="デ" target="中" sid="wiki00255660-02" id="11"/><用言:動><時制:非過去><節-主辞>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 21D
-老舗 しにせ 老舗 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="修飾" target="老舗" sid="wiki00255660-02" id="20"/><rel type="=構" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/>
-球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <体言>
+老舗 しにせ 老舗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="修飾" target="老舗" sid="wiki00255660-02" id="20"/><rel type="=構" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255660-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 2D
-+ 2D <rel type="ノ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/>
-愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><体言>
+愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><NE:ORGANIZATION:ドラゴンズ>
++ 2P <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><体言><NE:ORGANIZATION:ドラゴンズ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ドラゴンズ どらごんず ドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+ドラゴンズ どらごんず ドラゴンズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:中日>
++ -1D <rel type="ガ" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=構" target="愛称" sid="wiki00255660-03" id="0"/><rel type="=" mode="AND" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:中日>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-中日 ちゅうにち 中日 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+中日 ちゅうにち 中日 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00255660-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2022/12/14 MEMO:
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/>
-報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><NE:ORGANIZATION:ドラ>
++ 2P <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><体言><NE:ORGANIZATION:ドラ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ドラ どら ドラ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+ドラ どら ドラ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><NE:ORGANIZATION:竜>
++ 3D <rel type="=構≒" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><memo text="事もある　なので≒つけた"/><体言><NE:ORGANIZATION:竜>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-竜 りゅう 竜 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+竜 りゅう 竜 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ドラ" sid="wiki00255660-04" id="1"/><rel type="ト" mode="AND" target="竜" sid="wiki00255660-04" id="2"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="中日ドラゴンズ" sid="wiki00255660-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ドラ" sid="wiki00255660-04" id="1"/><rel type="ト" mode="AND" target="竜" sid="wiki00255660-04" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 事 こと 事 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

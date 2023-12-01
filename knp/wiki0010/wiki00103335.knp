@@ -1,84 +1,84 @@
 # S-ID:wiki00103335-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:69.00000 MOD:2022/06/01 MEMO:
 * 5D
-+ 8D <NE:LOCATION:築地>
-築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <体言><NE:LOCATION:築地>
+築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <rel type="ノ？" target="東京都" sid="wiki00103335-00-01" id="1"/><NE:LOCATION:東京都中央区>
-中央 ちゅうおう 中央 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <rel type="ノ？" target="東京都" sid="wiki00103335-00-01" id="1"/><体言><NE:LOCATION:東京都中央区>
+中央 ちゅうおう 中央 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 8P <rel type="ガ" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="=構" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="ノ？" target="中央区" sid="wiki00103335-00-01" id="2"/>
-地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="ガ" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="=構" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="ノ？" target="中央区" sid="wiki00103335-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D
-旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="ノ？" target="東京都" sid="wiki00103335-00-01" id="1"/><rel type="修飾" target="旧" sid="wiki00103335-00-01" id="4"/><NE:LOCATION:旧京橋区>
-京橋 きょうばし 京橋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <rel type="ノ？" target="東京都" sid="wiki00103335-00-01" id="1"/><rel type="修飾" target="旧" sid="wiki00103335-00-01" id="4"/><体言><NE:LOCATION:旧京橋区>
+京橋 きょうばし 京橋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ニ" target="京橋区" sid="wiki00103335-00-01" id="5"/><rel type="ガ" target="地域" sid="wiki00103335-00-01" id="8"/>
-当たる あたる 当たる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 8D <rel type="ニ" target="京橋区" sid="wiki00103335-00-01" id="5"/><rel type="ガ" target="地域" sid="wiki00103335-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+当たる あたる 当たる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 8D <rel type="=" target="京橋" sid="wiki00103335-00-01" id="5"/><NE:LOCATION:京橋>
-京橋 きょうばし 京橋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="ノ？" target="京橋" sid="wiki00103335-00-01" id="7"/><rel type="ガ" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="=構" target="京橋区" sid="wiki00103335-00-01" id="5"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="京橋" sid="wiki00103335-00-01" id="5"/><体言><NE:LOCATION:京橋>
+京橋 きょうばし 京橋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <rel type="ノ？" target="京橋" sid="wiki00103335-00-01" id="7"/><rel type="ガ" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="=構" target="京橋区" sid="wiki00103335-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00103335-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/01 MEMO:
 * -1D
-+ -1D <rel type="=" target="築地" sid="wiki00103335-00-01" id="0"/><NE:LOCATION:つきじ>
-つきじ つきじ つきじ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="築地" sid="wiki00103335-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:つきじ>
+つきじ つきじ つきじ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00103335-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:60.00000 MOD:2022/06/01 MEMO:
 * 1D
-+ 2D
-現行 げんこう 現行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言><非用言格解析:動>
+現行 げんこう 現行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 2D
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="現行" sid="wiki00103335-01" id="0"/><rel type="修飾" mode="AND" target="行政" sid="wiki00103335-01" id="1"/><rel type="=≒" target="地名" sid="wiki00103335-00-01" id="3"/>
-地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="現行" sid="wiki00103335-01" id="0"/><rel type="修飾" mode="AND" target="行政" sid="wiki00103335-01" id="1"/><rel type="=≒" target="地名" sid="wiki00103335-00-01" id="3"/><体言>
+地名 ちめい 地名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 4D <rel type="=" target="築地" sid="wiki00103335-00-01" id="0"/>
-築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6P <rel type="ガ" target="地名" sid="wiki00103335-01" id="2"/><rel type="=構" target="地名" sid="wiki00103335-01" id="2"/><rel type="ノ？" target="築地" sid="wiki00103335-01" id="3"/><NE:LOCATION:築地一丁目>
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="=" target="築地" sid="wiki00103335-00-01" id="0"/><体言>
+築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6P <rel type="ガ" target="地名" sid="wiki00103335-01" id="2"/><rel type="=構" target="地名" sid="wiki00103335-01" id="2"/><rel type="ノ？" target="築地" sid="wiki00103335-01" id="3"/><体言><NE:LOCATION:築地一丁目>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 丁目 ちょうめ 丁目 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:LOCATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="=" target="築地" sid="wiki00103335-01" id="3"/>
-築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="ガ" target="地名" sid="wiki00103335-01" id="2"/><rel type="=構" target="地名" sid="wiki00103335-01" id="2"/><rel type="ノ？" target="築地" sid="wiki00103335-01" id="5"/><memo text="CO"/><NE:LOCATION:築地七丁目>
-七 なな 七 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="=" target="築地" sid="wiki00103335-01" id="3"/><体言>
+築地 つきじ 築地 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="ガ" target="地名" sid="wiki00103335-01" id="2"/><rel type="=構" target="地名" sid="wiki00103335-01" id="2"/><rel type="ノ？" target="築地" sid="wiki00103335-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:築地七丁目>
+七 なな 七 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 丁目 ちょうめ 丁目 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00103335-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2022/06/01 MEMO:
 * 1D
-+ 1D
-郵便 ゆうびん 郵便 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ？" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="ノ" target="郵便" sid="wiki00103335-02" id="0"/>
-番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+郵便 ゆうびん 郵便 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ？" target="築地" sid="wiki00103335-00-01" id="0"/><rel type="ノ" target="郵便" sid="wiki00103335-02" id="0"/><体言>
+番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 3D
-104 いちぜろよん 104 名詞 6 数詞 7 * 0 * 0 NIL
++ 3D <体言>
+104 いちぜろよん 104 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 - の - 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="番号" sid="wiki00103335-02" id="1"/><rel type="=構" target="番号" sid="wiki00103335-02" id="1"/><memo text="CO"/>
-0045 ぜろぜろよんご 0045 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="番号" sid="wiki00103335-02" id="1"/><rel type="=構" target="番号" sid="wiki00103335-02" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+0045 ぜろぜろよんご 0045 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

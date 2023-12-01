@@ -1,211 +1,211 @@
 # S-ID:wiki00066989-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000 MOD:2023/10/23 MEMO:
 * 15D
-+ 1D
-軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D <rel type="修飾" target="軽" sid="wiki00066989-00-01" id="0"/>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 23D <rel type="修飾" target="軽" sid="wiki00066989-00-01" id="0"/><体言>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D
-現行 げんこう 現行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <体言>
+現行 げんこう 現行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 5D <rel type="ガ" target="車両" sid="wiki00066989-00-01" id="5"/><rel type="ヲ" target="不特定:物"/>
-運送 うんそう 運送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 6D <rel type="=≒" target="自動車" sid="wiki00066989-00-01" id="9"/>
-車両 しゃりょう 車両 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 7D <rel type="ノ" target="車両" sid="wiki00066989-00-01" id="5"/><rel type="修飾" target="現行" sid="wiki00066989-00-01" id="2"/><NE:ARTIFACT:道路運送車両法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 4D <体言>
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 5D <rel type="ガ" target="車両" sid="wiki00066989-00-01" id="5"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+運送 うんそう 運送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 6D <rel type="=≒" target="自動車" sid="wiki00066989-00-01" id="9"/><体言>
+車両 しゃりょう 車両 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 7D <rel type="ノ" target="車両" sid="wiki00066989-00-01" id="5"/><rel type="修飾" target="現行" sid="wiki00066989-00-01" id="2"/><体言><NE:ARTIFACT:道路運送車両法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="カラ" target="法" sid="wiki00066989-00-01" id="6"/><rel type="ガ" target="不特定:状況"/>
-すれば すれば する 動詞 2 * 0 サ変動詞 16 基本条件形 7 NIL
++ 15D <rel type="カラ" target="法" sid="wiki00066989-00-01" id="6"/><rel type="ガ" target="不特定:状況"/><用言:動><節-主辞><節-区切>
+すれば すれば する 動詞 2 * 0 サ変動詞 16 基本条件形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 10D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="=≒" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="=≒" mode="AND" target="車両" sid="wiki00066989-00-01" id="5"/>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=≒" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="=≒" mode="AND" target="車両" sid="wiki00066989-00-01" id="5"/><体言>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="9"/><rel type="ノ？" target="日本" sid="wiki00066989-00-01" id="8"/>
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="9"/><rel type="ノ？" target="日本" sid="wiki00066989-00-01" id="8"/><体言>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ" target="分類" sid="wiki00066989-00-01" id="10"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 15D <rel type="ノ" target="分類" sid="wiki00066989-00-01" id="10"/><体言>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 13D
-最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 10D
-+ 14D <rel type="ガ" target="規格" sid="wiki00066989-00-01" id="14"/>
-小さい ちいさい 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 14D <rel type="ガ" target="規格" sid="wiki00066989-00-01" id="14"/><用言:形><時制:非過去><節-主辞>
+小さい ちいさい 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 11D
-+ 15D <rel type="修飾" target="小さい" sid="wiki00066989-00-01" id="13"/><rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="9"/>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="小さい" sid="wiki00066989-00-01" id="13"/><rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="9"/><体言>
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 22D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="23"/><rel type="ニ" target="規格" sid="wiki00066989-00-01" id="14"/><rel type="デ" target="中" sid="wiki00066989-00-01" id="11"/>
-当てはまる あてはまる 当てはまる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 22D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="23"/><rel type="ニ" target="規格" sid="wiki00066989-00-01" id="14"/><rel type="デ" target="中" sid="wiki00066989-00-01" id="11"/><用言:動><時制:非過去><節-主辞>
+当てはまる あてはまる 当てはまる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
-+ 17D
-排気 はいき 排気 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 18D <rel type="ノ" target="排気" sid="wiki00066989-00-01" id="16"/>
-量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言><非用言格解析:動>
+排気 はいき 排気 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="ノ" target="排気" sid="wiki00066989-00-01" id="16"/><体言>
+量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 19D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/>
 660 ろっぴゃくろくじゅう/ろっぴゃくろくじゅっ 660 名詞 6 数詞 7 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 22D <rel type="ノ" target="660　cc" sid="wiki00066989-00-01" id="18"/>
-以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="ノ" target="660　cc" sid="wiki00066989-00-01" id="18"/><体言>
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14P
-+ 21P
++ 21P <体言>
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL
-輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL
+輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
-+ 22D
++ 22D <体言>
 四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL
-輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D <rel type="修飾" target="以下" sid="wiki00066989-00-01" id="19"/><rel type="修飾" mode="AND" target="三輪" sid="wiki00066989-00-01" id="20"/><rel type="修飾" mode="AND" target="四輪" sid="wiki00066989-00-01" id="21"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="=≒" mode="AND" target="自動車" sid="wiki00066989-00-01" id="9"/>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
+輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 23D <rel type="修飾" target="以下" sid="wiki00066989-00-01" id="19"/><rel type="修飾" mode="AND" target="三輪" sid="wiki00066989-00-01" id="20"/><rel type="修飾" mode="AND" target="四輪" sid="wiki00066989-00-01" id="21"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="=≒" mode="AND" target="自動車" sid="wiki00066989-00-01" id="9"/><体言>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="23"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/><memo text="CO"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ノ" target="自動車" sid="wiki00066989-00-01" id="23"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066989-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/04 MEMO:
 * -1D
-+ 1D <rel type="=" target="軽" sid="wiki00066989-00-01" id="0"/>
-けい けい けい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="修飾" target="けい" sid="wiki00066989-00-02" id="0"/>
-じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="軽" sid="wiki00066989-00-01" id="0"/><体言>
+けい けい けい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="修飾" target="けい" sid="wiki00066989-00-02" id="0"/><体言>
+じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00066989-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/23 MEMO:
 * 1P
-+ 1D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/>
-125 ひゃくにじゅうご 125 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/><体言>
+125 ひゃくにじゅうご 125 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 + 3P <rel type="ヲ" target="125　cc" sid="wiki00066989-01-01" id="0"/>
-超 ちょう 超 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+超 ちょう 超 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 3D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/>
-250 にひゃくごじゅう/にひゃくごじゅっ 250 名詞 6 数詞 7 * 0 * 0 NIL
++ 3D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/><体言>
+250 にひゃくごじゅう/にひゃくごじゅっ 250 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="250　cc" sid="wiki00066989-01-01" id="2"/>
+cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="250　cc" sid="wiki00066989-01-01" id="2"/><体言>
 以下 いか 以下 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D
-二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ？" target="二輪" sid="wiki00066989-01-01" id="4"/><rel type="修飾" target="超" sid="wiki00066989-01-01" id="1"/><rel type="修飾" mode="AND" target="以下" sid="wiki00066989-01-01" id="3"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/>
-車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ？" target="二輪" sid="wiki00066989-01-01" id="4"/><rel type="修飾" target="超" sid="wiki00066989-01-01" id="1"/><rel type="修飾" mode="AND" target="以下" sid="wiki00066989-01-01" id="3"/><rel type="=構" target="自動車" sid="wiki00066989-00-01" id="1"/><体言>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ヲ" target="車" sid="wiki00066989-01-01" id="5"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ -1D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ヲ" target="車" sid="wiki00066989-01-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066989-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/10/23 MEMO:
 * 1D
-+ 1D
-側車 そくしゃ 側車 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ガ" target="側車" sid="wiki00066989-01-02" id="0"/><rel type="ニ" target="車" sid="wiki00066989-01-01" id="5"/>
-付き つき 付き 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+側車 そくしゃ 側車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ガ" target="側車" sid="wiki00066989-01-02" id="0"/><rel type="ニ" target="車" sid="wiki00066989-01-01" id="5"/><体言>
+付き つき 付き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="付き" sid="wiki00066989-01-02" id="1"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 6D <rel type="ノ" target="付き" sid="wiki00066989-01-02" id="1"/><体言>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/>
-50 ごじゅっ/ごじゅう 50 名詞 6 数詞 7 * 0 * 0 NIL
++ 4D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/><体言>
+50 ごじゅっ/ごじゅう 50 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="ヲ" target="50　cc" sid="wiki00066989-01-02" id="3"/>
-超え こえ 超える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 6P <rel type="ヲ" target="50　cc" sid="wiki00066989-01-02" id="3"/><用言:動>
+超え こえ 超える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 * -1D
-+ 6D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/>
-250 にひゃくごじゅう/にひゃくごじゅっ 250 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <rel type="ノ" target="量" sid="wiki00066989-00-01" id="17"/><rel type="=構" target="量" sid="wiki00066989-00-01" id="17"/><体言>
+250 にひゃくごじゅう/にひゃくごじゅっ 250 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ -1D <rel type="ノ" target="250　cc" sid="wiki00066989-01-02" id="5"/><rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="修飾" target="超え" sid="wiki00066989-01-02" id="4"/><rel type="修飾" mode="AND" target="以下" sid="wiki00066989-01-02" id="6"/><memo text="CO"/>
+cc cc cc 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ノ" target="250　cc" sid="wiki00066989-01-02" id="5"/><rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="修飾" target="超え" sid="wiki00066989-01-02" id="4"/><rel type="修飾" mode="AND" target="以下" sid="wiki00066989-01-02" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 以下 いか 以下 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066989-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/10/23 MEMO:
 * 2I
-+ 4I <rel type="=" target="自動車" sid="wiki00066989-00-01" id="22"/>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4I <rel type="=" target="自動車" sid="wiki00066989-00-01" id="22"/><体言>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2D <rel type="=" target="軽" sid="wiki00066989-00-01" id="0"/>
-軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4P <rel type="修飾" target="軽" sid="wiki00066989-02" id="1"/><rel type="=" target="三輪" sid="wiki00066989-00-01" id="20"/><rel type="=構≒" mode="AND" target="自動車" sid="wiki00066989-02" id="0"/>
-三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL
-輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="軽" sid="wiki00066989-00-01" id="0"/><体言>
+軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="修飾" target="軽" sid="wiki00066989-02" id="1"/><rel type="=" target="三輪" sid="wiki00066989-00-01" id="20"/><rel type="=構≒" mode="AND" target="自動車" sid="wiki00066989-02" id="0"/><体言>
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4D <rel type="=" target="軽" sid="wiki00066989-02" id="1"/>
-軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="自動車" sid="wiki00066989-02" id="0"/><rel type="ト" target="三輪" sid="wiki00066989-02" id="2"/><rel type="ト" mode="AND" target="四輪" sid="wiki00066989-02" id="4"/><rel type="修飾" target="軽" sid="wiki00066989-02" id="3"/><rel type="=" target="四輪" sid="wiki00066989-00-01" id="21"/><rel type="=構≒" mode="AND" target="自動車" sid="wiki00066989-02" id="0"/>
-四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL
-輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="軽" sid="wiki00066989-02" id="1"/><体言>
+軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="自動車" sid="wiki00066989-02" id="0"/><rel type="ト" target="三輪" sid="wiki00066989-02" id="2"/><rel type="ト" mode="AND" target="四輪" sid="wiki00066989-02" id="4"/><rel type="修飾" target="軽" sid="wiki00066989-02" id="3"/><rel type="=" target="四輪" sid="wiki00066989-00-01" id="21"/><rel type="=構≒" mode="AND" target="自動車" sid="wiki00066989-02" id="0"/><体言>
+四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+輪 りん 輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4I
-+ 6D <rel type="=" target="二輪" sid="wiki00066989-01-01" id="4"/>
-二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8I <rel type="=" target="車" sid="wiki00066989-01-01" id="5"/>
-車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="二輪" sid="wiki00066989-01-01" id="4"/><体言>
+二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8I <rel type="=" target="車" sid="wiki00066989-01-01" id="5"/><体言>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="=" target="軽" sid="wiki00066989-02" id="1"/>
-軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="修飾" target="軽" sid="wiki00066989-02" id="9"/><rel type="=構" target="車" sid="wiki00066989-02" id="6"/>
-二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="軽" sid="wiki00066989-02" id="1"/><体言>
+軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="修飾" target="軽" sid="wiki00066989-02" id="9"/><rel type="=構" target="車" sid="wiki00066989-02" id="6"/><体言>
+二輪 にりん 二輪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="車" sid="wiki00066989-02" id="6"/><rel type="ト" target="二輪" sid="wiki00066989-02" id="10"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="車" sid="wiki00066989-02" id="6"/><rel type="ト" target="二輪" sid="wiki00066989-02" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00066989-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/10/23 MEMO:
 * 5D
-+ 5D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <用言:形><時制:非過去>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D
-単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL
+単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 3D <rel type="=" target="軽" sid="wiki00066989-02" id="3"/><rel type="=構" mode="AND" target="自動車" sid="wiki00066989-00-01" id="1"/>
-軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="軽" sid="wiki00066989-02" id="3"/><rel type="=構" mode="AND" target="自動車" sid="wiki00066989-00-01" id="1"/><体言>
+軽 けい 軽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="軽" sid="wiki00066989-03" id="2"/><rel type="外の関係" target="事" sid="wiki00066989-03" id="4"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ 4D <rel type="ガ" target="自動車" sid="wiki00066989-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="軽" sid="wiki00066989-03" id="2"/><rel type="外の関係" target="事" sid="wiki00066989-03" id="4"/><用言:動><時制:非過去><節-主辞>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 5D <rel type="トイウ" target="呼ばれる" sid="wiki00066989-03" id="3"/>
-事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 5D <rel type="トイウ" target="呼ばれる" sid="wiki00066989-03" id="3"/><体言>
+事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="事" sid="wiki00066989-03" id="4"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="事" sid="wiki00066989-03" id="4"/><用言:形><時制:非過去><節-区切>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

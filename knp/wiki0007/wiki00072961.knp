@@ -1,114 +1,114 @@
 # S-ID:wiki00072961-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/22 MEMO:
 * 4D
-+ 3D
-NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="ガ" target="不特定:人"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 14D <NE:OPTIONAL:NHK名古屋放送局><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <体言>
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 3D <体言>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 14D <体言><NE:OPTIONAL:NHK名古屋放送局><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D
-愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <体言>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="ノ？" target="愛知県" sid="wiki00072961-00-01" id="4"/><rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="ノ？" target="愛知県" sid="wiki00072961-00-01" id="4"/><rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/><体言>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <rel type="ノ？" target="名古屋市" sid="wiki00072961-00-01" id="5"/>
-東 ひがし 東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <rel type="ノ？" target="名古屋市" sid="wiki00072961-00-01" id="5"/><体言>
+東 ひがし 東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="東区" sid="wiki00072961-00-01" id="6"/>
-東桜 ひがしさくら 東桜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 9D <rel type="ノ？" target="東桜" sid="wiki00072961-00-01" id="7"/><NE:LOCATION:愛知県名古屋市東区東桜一丁目>
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <rel type="ノ？" target="東区" sid="wiki00072961-00-01" id="6"/><体言>
+東桜 ひがしさくら 東桜 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 9D <rel type="ノ？" target="東桜" sid="wiki00072961-00-01" id="7"/><体言><NE:LOCATION:愛知県名古屋市東区東桜一丁目>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 丁目 ちょうめ 丁目 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 14D <rel type="ガ" target="局" sid="wiki00072961-00-01" id="14"/><rel type="ニ" target="一丁目" sid="wiki00072961-00-01" id="8"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 14D <rel type="ガ" target="局" sid="wiki00072961-00-01" id="14"/><rel type="ニ" target="一丁目" sid="wiki00072961-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 12D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 12D <rel type="ガ" target="不特定:人"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 14D <NE:ORGANIZATION:日本放送協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 12D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 14D <体言><NE:ORGANIZATION:日本放送協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 14D <rel type="ガ" target="不特定:人"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="ノ" target="協会" sid="wiki00072961-00-01" id="12"/><rel type="=構" target="局" sid="wiki00072961-00-01" id="3"/><rel type="ノ？" target="放送" sid="wiki00072961-00-01" id="13"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="ノ" target="協会" sid="wiki00072961-00-01" id="12"/><rel type="=構" target="局" sid="wiki00072961-00-01" id="3"/><rel type="ノ？" target="放送" sid="wiki00072961-00-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00072961-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/18 MEMO:
 * -1D
-+ 3D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/>
-エヌエイチケイ えぬえいちけい エヌエイチケイ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D <rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/>
-なごや なごや なごや 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="=" target="放送" sid="wiki00072961-00-01" id="2"/><rel type="ガ" target="不特定:人"/>
-ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="局" sid="wiki00072961-00-01" id="3"/><NE:OPTIONAL:エヌエイチケイなごやほうそうきょく><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/><体言>
+エヌエイチケイ えぬえいちけい エヌエイチケイ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 3D <rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/><体言>
+なごや なごや なごや 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <rel type="=" target="放送" sid="wiki00072961-00-01" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ -1D <rel type="=" target="局" sid="wiki00072961-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:エヌエイチケイなごやほうそうきょく><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+きょく きょく きょく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00072961-00-03 括弧始:（ 括弧終:） 括弧位置:53 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * -1D
-+ -1D <rel type="=" target="協会" sid="wiki00072961-00-01" id="12"/><NE:ORGANIZATION:NHK>
-NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="協会" sid="wiki00072961-00-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:NHK>
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00072961-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 2D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 2D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="名称" sid="wiki00072961-01" id="2"/>
-正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 7D <rel type="ノ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="時間" target="現在" sid="wiki00072961-01" id="0"/><rel type="修飾" target="正式" sid="wiki00072961-01" id="1"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ガ" target="名称" sid="wiki00072961-01" id="2"/><体言><非用言格解析:形>
+正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="時間" target="現在" sid="wiki00072961-01" id="0"/><rel type="修飾" target="正式" sid="wiki00072961-01" id="1"/><体言>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8P
-+ 7D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/>
-NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00072961-00-01" id="2"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 13P <rel type="ガ" target="名称" sid="wiki00072961-01" id="2"/><rel type="=構" target="名称" sid="wiki00072961-01" id="2"/><rel type="=" mode="AND" target="局" sid="wiki00072961-00-01" id="3"/><NE:OPTIONAL:NHK名古屋拠点放送局><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 7D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/><体言>
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7D <rel type="=" target="名古屋" sid="wiki00072961-00-01" id="1"/><体言>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 7D <体言>
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00072961-00-01" id="2"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 13P <rel type="ガ" target="名称" sid="wiki00072961-01" id="2"/><rel type="=構" target="名称" sid="wiki00072961-01" id="2"/><rel type="=" mode="AND" target="局" sid="wiki00072961-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:NHK名古屋拠点放送局><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 11D
-従来 じゅうらい 従来 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 11D <体言>
+従来 じゅうらい 従来 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="=" target="拠点" sid="wiki00072961-01" id="5"/>
++ 10D <rel type="=" target="拠点" sid="wiki00072961-01" id="5"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="拠点" sid="wiki00072961-01" id="9"/><rel type="カラ" target="名称" sid="wiki00072961-01" id="2"/>
-省いた はぶいた 省く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="拠点" sid="wiki00072961-01" id="9"/><rel type="カラ" target="名称" sid="wiki00072961-01" id="2"/><用言:動><時制:過去><節-主辞>
+省いた はぶいた 省く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL <基本句-主辞>
 * 8D
-+ 13D <rel type="ノ" target="局" sid="wiki00072961-01" id="7"/><rel type="修飾" target="省いた" sid="wiki00072961-01" id="10"/><rel type="修飾" mode="AND" target="従来" sid="wiki00072961-01" id="8"/><rel type="=≒" target="名称" sid="wiki00072961-01" id="2"/><rel type="トイウ" target="局" sid="wiki00072961-00-01" id="3"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="局" sid="wiki00072961-01" id="7"/><rel type="修飾" target="省いた" sid="wiki00072961-01" id="10"/><rel type="修飾" mode="AND" target="従来" sid="wiki00072961-01" id="8"/><rel type="=≒" target="名称" sid="wiki00072961-01" id="2"/><rel type="トイウ" target="局" sid="wiki00072961-00-01" id="3"/><体言>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 13D
-広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 13D <用言:形><時制:非過去>
+広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="名称" sid="wiki00072961-01" id="11"/><rel type="ニ" target="不特定:人"/>
-使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="名称" sid="wiki00072961-01" id="11"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -116,58 +116,58 @@ NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head
 EOS
 # S-ID:wiki00072961-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/06/22 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="日本" sid="wiki00072961-00-01" id="10"/><NE:LOCATION:中部>
-中部 ちゅうぶ 中部 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D <rel type="ノ？" target="中部" sid="wiki00072961-02-01" id="0"/>
-7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <rel type="ノ" target="日本" sid="wiki00072961-00-01" id="10"/><体言><NE:LOCATION:中部>
+中部 ちゅうぶ 中部 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <rel type="ノ？" target="中部" sid="wiki00072961-02-01" id="0"/><体言>
+7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ヲ" target="7県" sid="wiki00072961-02-01" id="1"/><rel type="ガ" target="局" sid="wiki00072961-02-01" id="7"/>
-管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ヲ" target="7県" sid="wiki00072961-02-01" id="1"/><rel type="ガ" target="局" sid="wiki00072961-02-01" id="7"/><用言:動><時制:非過去><節-主辞>
+管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
-+ 5D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/><NE:ORGANIZATION:NHK>
-NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 5D <rel type="=" target="中部" sid="wiki00072961-02-01" id="0"/>
-中部 ちゅうぶ 中部 名詞 6 地名 4 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="NHK" sid="wiki00072961-02-01" id="3"/><rel type="ノ？" target="中部" sid="wiki00072961-02-01" id="4"/>
-ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="=" target="NHK" sid="wiki00072961-00-01" id="0"/><体言><NE:ORGANIZATION:NHK>
+NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 5D <rel type="=" target="中部" sid="wiki00072961-02-01" id="0"/><体言>
+中部 ちゅうぶ 中部 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="NHK" sid="wiki00072961-02-01" id="3"/><rel type="ノ？" target="中部" sid="wiki00072961-02-01" id="4"/><体言><非用言格解析:動>
+ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <rel type="=" target="拠点" sid="wiki00072961-01" id="5"/>
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ノ" target="ブロック" sid="wiki00072961-02-01" id="5"/><rel type="修飾" target="拠点" sid="wiki00072961-02-01" id="6"/><rel type="ガ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="=構" target="局" sid="wiki00072961-00-01" id="3"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="拠点" sid="wiki00072961-01" id="5"/><体言>
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ノ" target="ブロック" sid="wiki00072961-02-01" id="5"/><rel type="修飾" target="拠点" sid="wiki00072961-02-01" id="6"/><rel type="ガ" target="局" sid="wiki00072961-00-01" id="3"/><rel type="=構" target="局" sid="wiki00072961-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00072961-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/22 MEMO:
 * 1P
-+ 1P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><rel type="=" mode="AND" target="愛知県" sid="wiki00072961-00-01" id="4"/><NE:LOCATION:愛知>
-愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><rel type="=" mode="AND" target="愛知県" sid="wiki00072961-00-01" id="4"/><体言><NE:LOCATION:愛知>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:石川>
-石川 いしかわ 石川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><体言><NE:LOCATION:石川>
+石川 いしかわ 石川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:静岡>
-静岡 しずおか 静岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><体言><NE:LOCATION:静岡>
+静岡 しずおか 静岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:福井>
-福井 ふくい 福井 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><体言><NE:LOCATION:福井>
+福井 ふくい 福井 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:富山>
-富山 とやま 富山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><体言><NE:LOCATION:富山>
+富山 とやま 富山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 6P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:三重>
-三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6P <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><体言><NE:LOCATION:三重>
+三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><NE:LOCATION:岐阜>
-岐阜 ぎふ 岐阜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=≒" target="7県" sid="wiki00072961-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:岐阜>
+岐阜 ぎふ 岐阜 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS

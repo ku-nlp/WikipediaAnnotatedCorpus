@@ -1,43 +1,43 @@
 # S-ID:wiki00064909-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/10/17 MEMO:
 * 1D
-+ 1D
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 6D
-+ 7D <rel type="ノ？" target="タイ" sid="wiki00064909-00-01" id="0"/><NE:OPTIONAL:タイの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 7D <rel type="ノ？" target="タイ" sid="wiki00064909-00-01" id="0"/><体言><NE:OPTIONAL:タイの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/>
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/><NE:LOCATION:タイ王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/><体言>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/><体言><NE:LOCATION:タイ王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 5D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 7D <rel type="ニオイテ" target="王国" sid="wiki00064909-00-01" id="3"/><rel type="=" target="歴史" sid="wiki00064909-00-01" id="1"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ニオイテ" target="王国" sid="wiki00064909-00-01" id="3"/><rel type="=" target="歴史" sid="wiki00064909-00-01" id="1"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 7D <体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="歴史" sid="wiki00064909-00-01" id="5"/><rel type="デ" target="歴史" sid="wiki00064909-00-01" id="1"/><rel type="ニ" target="時代ごと" sid="wiki00064909-00-01" id="6"/><rel type="ニ" mode="？" target="なし"/>
-概説 がいせつ 概説 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="歴史" sid="wiki00064909-00-01" id="5"/><rel type="デ" target="歴史" sid="wiki00064909-00-01" id="1"/><rel type="ニ" target="時代ごと" sid="wiki00064909-00-01" id="6"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞><節-区切>
+概説 がいせつ 概説 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00064909-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/17 MEMO:
 * 1D
-+ 1D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/>
-タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <rel type="=" target="タイ" sid="wiki00064909-00-01" id="0"/><体言>
+タイ たい タイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="歴史" sid="wiki00064909-00-01" id="1"/><NE:OPTIONAL:タイのれきし><NE-OPTIONAL:LOCATION,NONE:0>
-れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="歴史" sid="wiki00064909-00-01" id="1"/><NE:OPTIONAL:タイのれきし><NE-OPTIONAL:LOCATION,NONE:0><体言>
+れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

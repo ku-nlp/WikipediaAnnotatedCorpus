@@ -1,155 +1,155 @@
 # S-ID:wiki00281883-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/01/19 MEMO:
 * 2D
-+ 4D
-ギムナジウム ぎむなじうむ ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+ギムナジウム ぎむなじうむ ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D
-中等 ちゅうとう 中等 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="中等" sid="wiki00281883-00" id="2"/><rel type="デ" target="機関" sid="wiki00281883-00" id="4"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="=構" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="ノ？" target="教育" sid="wiki00281883-00" id="3"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><memo text="CO"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+中等 ちゅうとう 中等 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="中等" sid="wiki00281883-00" id="2"/><rel type="デ" target="機関" sid="wiki00281883-00" id="4"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="=構" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="ノ？" target="教育" sid="wiki00281883-00" id="3"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00281883-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/08/29 MEMO:
 * 4D
-+ 2D
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 7D <rel type="修飾" target="標準" sid="wiki00281883-01" id="0"/><rel type="ノ？" target="ドイツ" sid="wiki00281883-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 7D <rel type="修飾" target="標準" sid="wiki00281883-01" id="0"/><rel type="ノ？" target="ドイツ" sid="wiki00281883-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-ギュムナーズィウム ぎゅむなーずぃうむ ギュムナーズィウム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="=" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/><memo text="？形態素、タグ単位"/>
-[ [ [ 特殊 1 記号 5 * 0 * 0 NIL
++ 4D <rel type="=" target="ギムナジウム" sid="wiki00281883-00" id="0"/><体言>
+ギュムナーズィウム ぎゅむなーずぃうむ ギュムナーズィウム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/><memo text="？形態素、タグ単位"/><体言>
+[ [ [ 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 gʏmná gʏmná gʏmná 名詞 6 普通名詞 1 * 0 * 0 NIL
 ː ː ː 特殊 1 記号 5 * 0 * 0 NIL
 zium zium zium 名詞 6 普通名詞 1 * 0 * 0 NIL
 ] ] ] 特殊 1 記号 5 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="トイウ" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/>
-発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="トイウ" target="ギュムナーズィウム" sid="wiki00281883-01" id="3"/><体言><非用言格解析:動>
+発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 7D
-より より より 副詞 8 * 0 * 0 * 0 NIL
+より より より 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="発音" sid="wiki00281883-01" id="5"/><rel type="デ" target="語" sid="wiki00281883-01" id="2"/><rel type="ヨリ" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="発音" sid="wiki00281883-01" id="5"/><rel type="デ" target="語" sid="wiki00281883-01" id="2"/><rel type="ヨリ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><用言:形><時制:非過去><節-主辞><節-区切>
+近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00281883-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:34.00000 MOD:2023/01/19 MEMO:
 * 1D
-+ 1P <NE:LOCATION:日>
-日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <NE:LOCATION:米>
-米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <体言><NE:LOCATION:日>
+日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:米>
+米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D
++ 3D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-単線 たんせん 単線 名詞 6 普通名詞 1 * 0 * 0 NIL
+単線 たんせん 単線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <rel type="ノ" target="単線" sid="wiki00281883-02" id="2"/>
-型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
-+ 5D <rel type="=≒" target="教育" sid="wiki00281883-00" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="教育" sid="wiki00281883-02" id="4"/><rel type="ノ" mode="AND" target="日" sid="wiki00281883-02" id="0"/><rel type="ノ" mode="AND" target="米" sid="wiki00281883-02" id="1"/><rel type="修飾" target="型" sid="wiki00281883-02" id="3"/>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=≒" target="教育" sid="wiki00281883-00" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="教育" sid="wiki00281883-02" id="4"/><rel type="ノ" mode="AND" target="日" sid="wiki00281883-02" id="0"/><rel type="ノ" mode="AND" target="米" sid="wiki00281883-02" id="1"/><rel type="修飾" target="型" sid="wiki00281883-02" id="3"/><体言>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 13D
-対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 13D <用言:動><時制:非過去>
+対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 9D
-主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 9D <用言:形><時制:非過去>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 5D
-+ 9D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 13D <rel type="修飾" target="中央" sid="wiki00281883-02" id="8"/><rel type="=≒" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><NE:LOCATION:中央ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9D <体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 13D <rel type="修飾" target="中央" sid="wiki00281883-02" id="8"/><rel type="=≒" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><体言><NE:LOCATION:中央ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D
++ 11D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-複線 ふくせん 複線 名詞 6 普通名詞 1 * 0 * 0 NIL
+複線 ふくせん 複線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 13D <rel type="ノ" target="複線" sid="wiki00281883-02" id="10"/><rel type="=≒" target="型" sid="wiki00281883-02" id="3"/>
-型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="教育" sid="wiki00281883-02" id="4"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15D <rel type="ニタイシテ" target="制度" sid="wiki00281883-02" id="5"/><rel type="ノ" target="教育" sid="wiki00281883-02" id="12"/><rel type="ノ" mode="AND" target="ヨーロッパ" sid="wiki00281883-02" id="9"/><rel type="修飾" target="型" sid="wiki00281883-02" id="11"/>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="教育" sid="wiki00281883-02" id="4"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ニタイシテ" target="制度" sid="wiki00281883-02" id="5"/><rel type="ノ" target="教育" sid="wiki00281883-02" id="12"/><rel type="ノ" mode="AND" target="ヨーロッパ" sid="wiki00281883-02" id="9"/><rel type="修飾" target="型" sid="wiki00281883-02" id="11"/><体言>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 15D
-いわば いわば いわば 副詞 8 * 0 * 0 * 0 NIL
+いわば いわば いわば 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 16D <rel type="ノ" target="制度" sid="wiki00281883-02" id="13"/>
-根幹 こんかん 根幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ノ" target="制度" sid="wiki00281883-02" id="13"/><体言>
+根幹 こんかん 根幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 17D <rel type="ガ" target="存在" sid="wiki00281883-02" id="17"/><rel type="ヲ" target="根幹" sid="wiki00281883-02" id="15"/>
-成す なす 成す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 17D <rel type="ガ" target="存在" sid="wiki00281883-02" id="17"/><rel type="ヲ" target="根幹" sid="wiki00281883-02" id="15"/><用言:動><時制:非過去><節-主辞>
+成す なす 成す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 18D <rel type="=構" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18D <rel type="=構" target="ギムナジウム" sid="wiki00281883-00" id="0"/><体言><非用言格解析:動>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="存在" sid="wiki00281883-02" id="17"/>
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
++ -1D <rel type="ガ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="存在" sid="wiki00281883-02" id="17"/><用言:動><時制:非過去><節-主辞><節-区切>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00281883-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2023/01/19 MEMO:
 * 1D
-+ 1D <rel type="ノ？" target="ヨーロッパ" sid="wiki00281883-00" id="1"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ？" target="ヨーロッパ" sid="wiki00281883-00" id="1"/><体言>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 4D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 4D
-+ 4D
-微妙に びみょうに 微妙だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 4D <用言:形><時制:非過去>
+微妙に びみょうに 微妙だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 4D
-+ 4D <rel type="ノ" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><体言>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="ガ" target="名称" sid="wiki00281883-03" id="3"/><rel type="ニヨッテ" target="国" sid="wiki00281883-03" id="0"/>
-異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 8D <rel type="ガ" target="名称" sid="wiki00281883-03" id="3"/><rel type="ニヨッテ" target="国" sid="wiki00281883-03" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
+異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 8D
-本稿 ほんこう 本稿 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+本稿 ほんこう 本稿 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="名称" sid="wiki00281883-03" id="3"/>
-一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="名称" sid="wiki00281883-03" id="3"/><用言:動>
+一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 8D
-+ 8D <rel type="=" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-ギムナジウム ぎむなじうむ ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="ギムナジウム" sid="wiki00281883-00" id="0"/><体言>
+ギムナジウム ぎむなじうむ ギムナジウム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="デ" target="本稿" sid="wiki00281883-03" id="5"/><rel type="ト" target="ギムナジウム" sid="wiki00281883-03" id="7"/><rel type="ヲ" target="ギムナジウム" sid="wiki00281883-00" id="0"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="本稿" sid="wiki00281883-03" id="5"/><rel type="ト" target="ギムナジウム" sid="wiki00281883-03" id="7"/><rel type="ヲ" target="ギムナジウム" sid="wiki00281883-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

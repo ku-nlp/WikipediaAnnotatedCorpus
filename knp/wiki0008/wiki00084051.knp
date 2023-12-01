@@ -1,48 +1,48 @@
 # S-ID:wiki00084051-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/13 MEMO:
 * 3D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-プロダクション ぷろだくしょん プロダクション 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+プロダクション ぷろだくしょん プロダクション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <memo text="「I.G」社長と副社長のイニシャルから"/><NE:ORGANIZATION:株式会社プロダクション・アイジー>
-アイジー あいじー アイジー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 10D <memo text="「I.G」社長と副社長のイニシャルから"/><体言><NE:ORGANIZATION:株式会社プロダクション・アイジー>
+アイジー あいじー アイジー 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="アイジー" sid="wiki00084051-00" id="3"/>
-IG あいじー IG 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D
-ポート ぽーと ポート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="ノ" target="ポート" sid="wiki00084051-00" id="5"/><rel type="=≒" target="アイジー" sid="wiki00084051-00" id="3"/><NE:ORGANIZATION:IGポートグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <rel type="=" target="アイジー" sid="wiki00084051-00" id="3"/><体言>
+IG あいじー IG 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言>
+ポート ぽーと ポート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <rel type="ノ" target="ポート" sid="wiki00084051-00" id="5"/><rel type="=≒" target="アイジー" sid="wiki00084051-00" id="3"/><体言><NE:ORGANIZATION:IGポートグループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 10D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 9D
-アニメ あにめ アニメ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ガ" target="会社" sid="wiki00084051-00" id="10"/><rel type="ヲ" target="アニメ" sid="wiki00084051-00" id="8"/>
-制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="=構" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="ノ？" target="制作" sid="wiki00084051-00" id="9"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00084051-00" id="7"/><rel type="ノ？" mode="AND" target="グループ" sid="wiki00084051-00" id="6"/><memo text="CO"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+アニメ あにめ アニメ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ガ" target="会社" sid="wiki00084051-00" id="10"/><rel type="ヲ" target="アニメ" sid="wiki00084051-00" id="8"/><体言><非用言格解析:動>
+制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="=構" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="ノ？" target="制作" sid="wiki00084051-00" id="9"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00084051-00" id="7"/><rel type="ノ？" mode="AND" target="グループ" sid="wiki00084051-00" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00084051-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/13 MEMO:
 * -1D
-+ 2D <rel type="=" target="日本" sid="wiki00084051-00" id="7"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=≒" target="アニメ" sid="wiki00084051-00" id="8"/>
-動画 どうが 動画 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <NE:ORGANIZATION:日本動画協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 4D
-正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="ノ" target="協会" sid="wiki00084051-01" id="2"/><rel type="=構" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="修飾" target="正" sid="wiki00084051-01" id="3"/><memo text="CO"/>
-会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="日本" sid="wiki00084051-00" id="7"/><体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="=≒" target="アニメ" sid="wiki00084051-00" id="8"/><体言>
+動画 どうが 動画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言><NE:ORGANIZATION:日本動画協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 4D <体言>
+正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="ノ" target="協会" sid="wiki00084051-01" id="2"/><rel type="=構" target="アイジー" sid="wiki00084051-00" id="3"/><rel type="修飾" target="正" sid="wiki00084051-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

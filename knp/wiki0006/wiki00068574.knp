@@ -1,81 +1,81 @@
 # S-ID:wiki00068574-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:97.00000 MOD:2023/10/24 MEMO:
 * 10D
-+ 2D
-簡易 かんい 簡易だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 2D <rel type="ガ" target="不特定:人"/>
-裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 18D <rel type="修飾" target="簡易" sid="wiki00068574-00-01" id="0"/><rel type="ノ？" target="裁判" sid="wiki00068574-00-01" id="1"/>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><非用言格解析:形>
+簡易 かんい 簡易だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 2D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="修飾" target="簡易" sid="wiki00068574-00-01" id="0"/><rel type="ノ？" target="裁判" sid="wiki00068574-00-01" id="1"/><体言>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-日常 にちじょう 日常 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="日常" sid="wiki00068574-00-01" id="3"/><rel type="ガ" target="不特定:人"/>
-生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <体言>
+日常 にちじょう 日常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="修飾" target="日常" sid="wiki00068574-00-01" id="3"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 6D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 11D <rel type="ニオイテ" target="生活" sid="wiki00068574-00-01" id="4"/><rel type="ガ" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="ガ" mode="AND" target="事件" sid="wiki00068574-00-01" id="11"/>
-発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ニオイテ" target="生活" sid="wiki00068574-00-01" id="4"/><rel type="ガ" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="ガ" mode="AND" target="事件" sid="wiki00068574-00-01" id="11"/><用言:動><時制:非過去>
+発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 11D <rel type="ガ" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="ガ" mode="AND" target="事件" sid="wiki00068574-00-01" id="11"/>
-軽微な けいびな 軽微だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 11D <rel type="ガ" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="ガ" mode="AND" target="事件" sid="wiki00068574-00-01" id="11"/><用言:形><時制:非過去>
+軽微な けいびな 軽微だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 7D
-+ 9D
-民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11P <rel type="修飾" target="民事" sid="wiki00068574-00-01" id="8"/>
-事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11P <rel type="修飾" target="民事" sid="wiki00068574-00-01" id="8"/><体言>
+事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D <rel type="=≒" target="民事" sid="wiki00068574-00-01" id="8"/>
-刑事 けいじ 刑事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="刑事" sid="wiki00068574-00-01" id="10"/><rel type="=≒" target="事件" sid="wiki00068574-00-01" id="9"/>
-事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=≒" target="民事" sid="wiki00068574-00-01" id="8"/><体言>
+刑事 けいじ 刑事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="刑事" sid="wiki00068574-00-01" id="10"/><rel type="=≒" target="事件" sid="wiki00068574-00-01" id="9"/><体言>
+事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13P <rel type="ガ" target="処理する" sid="wiki00068574-00-01" id="14"/>
-迅速 じんそく 迅速だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 13P <rel type="ガ" target="処理する" sid="wiki00068574-00-01" id="14"/><用言:形><時制:非過去>
+迅速 じんそく 迅速だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 14D <rel type="=" target="簡易" sid="wiki00068574-00-01" id="0"/><rel type="ガ" target="処理する" sid="wiki00068574-00-01" id="14"/>
-簡易に かんいに 簡易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 14D <rel type="=" target="簡易" sid="wiki00068574-00-01" id="0"/><rel type="ガ" target="処理する" sid="wiki00068574-00-01" id="14"/><用言:形><時制:非過去>
+簡易に かんいに 簡易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 8D
-+ 15D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="迅速" sid="wiki00068574-00-01" id="12"/><rel type="修飾" mode="AND" target="簡易に" sid="wiki00068574-00-01" id="13"/><rel type="ヲ" target="事件" sid="wiki00068574-00-01" id="11"/><rel type="ヲ" mode="AND" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00068574-00-01" id="15"/>
-処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="迅速" sid="wiki00068574-00-01" id="12"/><rel type="修飾" mode="AND" target="簡易に" sid="wiki00068574-00-01" id="13"/><rel type="ヲ" target="事件" sid="wiki00068574-00-01" id="11"/><rel type="ヲ" mode="AND" target="事件" sid="wiki00068574-00-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00068574-00-01" id="15"/><用言:動><時制:非過去>
+処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 18D <rel type="ノ" target="処理する" sid="wiki00068574-00-01" id="14"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 18D <rel type="ノ" target="処理する" sid="wiki00068574-00-01" id="14"/><体言>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 18D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 18D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 18D
-裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="所" sid="wiki00068574-00-01" id="2"/><rel type="修飾" target="ため" sid="wiki00068574-00-01" id="15"/><rel type="=構" target="所" sid="wiki00068574-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00068574-00-01" id="16"/><rel type="ノ？" mode="AND" target="裁判" sid="wiki00068574-00-01" id="17"/><memo text="CO"/>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <体言><非用言格解析:動>
+裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="所" sid="wiki00068574-00-01" id="2"/><rel type="修飾" target="ため" sid="wiki00068574-00-01" id="15"/><rel type="=構" target="所" sid="wiki00068574-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00068574-00-01" id="16"/><rel type="ノ？" mode="AND" target="裁判" sid="wiki00068574-00-01" id="17"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068574-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/12 MEMO:
 * -1D
-+ 2D <rel type="=" target="簡易" sid="wiki00068574-00-01" id="0"/>
-かんい かんい かんいだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 2D <rel type="=" target="裁判" sid="wiki00068574-00-01" id="1"/>
-さいばん さいばん さいばん 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="所" sid="wiki00068574-00-01" id="2"/>
-しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="簡易" sid="wiki00068574-00-01" id="0"/><体言><非用言格解析:形>
+かんい かんい かんいだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 2D <rel type="=" target="裁判" sid="wiki00068574-00-01" id="1"/><体言><非用言格解析:動>
+さいばん さいばん さいばん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="所" sid="wiki00068574-00-01" id="2"/><体言>
+しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00068574-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/24 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="所" sid="wiki00068574-00-01" id="2"/><rel type="ト" target="簡裁" sid="wiki00068574-01" id="1"/><rel type="ノ" target="所" sid="wiki00068574-00-01" id="2"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="所" sid="wiki00068574-00-01" id="2"/><rel type="ト" target="簡裁" sid="wiki00068574-01" id="1"/><rel type="ノ" target="所" sid="wiki00068574-00-01" id="2"/><体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00068574-01" id="0"/><rel type="=構" target="略称" sid="wiki00068574-01" id="0"/><rel type="=" mode="AND" target="所" sid="wiki00068574-00-01" id="2"/><memo text="CO"/>
-簡裁 かんさい 簡裁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="略称" sid="wiki00068574-01" id="0"/><rel type="=構" target="略称" sid="wiki00068574-01" id="0"/><rel type="=" mode="AND" target="所" sid="wiki00068574-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+簡裁 かんさい 簡裁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,31 +1,31 @@
 # S-ID:wiki00098199-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/12 MEMO:
 * 1P
-+ 1D
-バンダイ ばんだい バンダイ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2P <NE:ARTIFACT:バンダイビジュアル>
-ビジュアル びじゅある ビジュアルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+バンダイ ばんだい バンダイ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2P <体言><非用言格解析:形><NE:ARTIFACT:バンダイビジュアル>
+ビジュアル びじゅある ビジュアルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 9D <NE:ARTIFACT:エモーション>
-エモーション えもーしょん エモーション 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 9D <体言><NE:ARTIFACT:エモーション>
+エモーション えもーしょん エモーション 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 7D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="バンダイ" sid="wiki00098199-00" id="0"/>
-バンダイ ばんだい バンダイ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D
-ナムコ なむこ ナムコ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D <NE:ORGANIZATION:株式会社バンダイナムコアーツ>
-アーツ あーつ アーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 7D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="バンダイ" sid="wiki00098199-00" id="0"/><体言>
+バンダイ ばんだい バンダイ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <体言>
+ナムコ なむこ ナムコ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9D <体言><NE:ORGANIZATION:株式会社バンダイナムコアーツ>
+アーツ あーつ アーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 9D
-映像 えいぞう 映像 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="エモーション" sid="wiki00098199-00" id="2"/><rel type="ガ" mode="AND" target="ビジュアル" sid="wiki00098199-00" id="1"/><rel type="=構" target="エモーション" sid="wiki00098199-00" id="2"/><rel type="=構" mode="AND" target="ビジュアル" sid="wiki00098199-00" id="1"/><rel type="修飾" target="映像" sid="wiki00098199-00" id="8"/><rel type="ノ？" target="アーツ" sid="wiki00098199-00" id="7"/><memo text="CO"/>
-レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+映像 えいぞう 映像 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="エモーション" sid="wiki00098199-00" id="2"/><rel type="ガ" mode="AND" target="ビジュアル" sid="wiki00098199-00" id="1"/><rel type="=構" target="エモーション" sid="wiki00098199-00" id="2"/><rel type="=構" mode="AND" target="ビジュアル" sid="wiki00098199-00" id="1"/><rel type="修飾" target="映像" sid="wiki00098199-00" id="8"/><rel type="ノ？" target="アーツ" sid="wiki00098199-00" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

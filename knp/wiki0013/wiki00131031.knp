@@ -1,115 +1,115 @@
 # S-ID:wiki00131031-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/06 MEMO:
 * 6D
-+ 3D
-ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D
-代官 だいかん 代官 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <rel type="ガ" target="代官" sid="wiki00131031-00" id="1"/><rel type="ヲ" target="区" sid="wiki00131031-00" id="3"/>
-管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13D <NE:LOCATION:ガーンジー代官管轄区>
-区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言>
+ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言>
+代官 だいかん 代官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 3D <rel type="ガ" target="代官" sid="wiki00131031-00" id="1"/><rel type="ヲ" target="区" sid="wiki00131031-00" id="3"/><体言><非用言格解析:動>
+管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 13D <体言><NE:LOCATION:ガーンジー代官管轄区>
+区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8D <rel type="ノ？" target="ヨーロッパ" sid="wiki00131031-00" id="4"/><NE:LOCATION:イギリス海峡>
-海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 8D <rel type="ノ？" target="ヨーロッパ" sid="wiki00131031-00" id="4"/><体言><NE:LOCATION:イギリス海峡>
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 8D
-チャンネル ちゃんねる チャンネル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D <rel type="ノ？" target="海峡" sid="wiki00131031-00" id="6"/><NE:LOCATION:チャンネル諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 8D <体言>
+チャンネル ちゃんねる チャンネル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9D <rel type="ノ？" target="海峡" sid="wiki00131031-00" id="6"/><体言><NE:LOCATION:チャンネル諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D <rel type="ガ" target="領" sid="wiki00131031-00" id="13"/><rel type="ニ" target="諸島" sid="wiki00131031-00" id="8"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="領" sid="wiki00131031-00" id="13"/><rel type="ニ" target="諸島" sid="wiki00131031-00" id="8"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 13D <rel type="=" target="イギリス" sid="wiki00131031-00" id="5"/><NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <rel type="=" target="イギリス" sid="wiki00131031-00" id="5"/><体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 12D <rel type="ノ" target="イギリス" sid="wiki00131031-00" id="10"/>
-王室 おうしつ 王室 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="領" sid="wiki00131031-00" id="13"/><rel type="ニ" target="王室" sid="wiki00131031-00" id="11"/>
-属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="区" sid="wiki00131031-00" id="3"/><rel type="=構" target="区" sid="wiki00131031-00" id="3"/><rel type="修飾" target="属" sid="wiki00131031-00" id="12"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="イギリス" sid="wiki00131031-00" id="10"/><体言>
+王室 おうしつ 王室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="領" sid="wiki00131031-00" id="13"/><rel type="ニ" target="王室" sid="wiki00131031-00" id="11"/><体言>
+属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="区" sid="wiki00131031-00" id="3"/><rel type="=構" target="区" sid="wiki00131031-00" id="3"/><rel type="修飾" target="属" sid="wiki00131031-00" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00131031-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/07/06 MEMO:
 * 1P
-+ 1D <rel type="=" target="ガーンジー" sid="wiki00131031-00" id="0"/>
-ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:ガーンジー島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="ガーンジー" sid="wiki00131031-00" id="0"/><体言>
+ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:ガーンジー島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D
-オルダニー おるだにー オルダニー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:オルダニー島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言>
+オルダニー おるだにー オルダニー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:オルダニー島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5D
-サーク さーく サーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:サーク島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+サーク さーく サーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:サーク島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 7D
-ハーム はーむ ハーム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:ハーム島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 7D <体言>
+ハーム はーむ ハーム 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:ハーム島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 9D
-ブレッシュ ぶれっしゅ ブレッシュ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:ブレッシュ島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9D <体言>
+ブレッシュ ぶれっしゅ ブレッシュ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11P <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:ブレッシュ島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 11D
-ジェソー じぇそー ジェソー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 12D <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><NE:LOCATION:ジェソー島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 11D <体言>
+ジェソー じぇそー ジェソー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 12D <rel type="ノ？" target="諸島" sid="wiki00131031-00" id="8"/><体言><NE:LOCATION:ジェソー島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 13D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 10P
-+ 19P <rel type="ガ" target="区" sid="wiki00131031-00" id="3"/><rel type="ニヨッテ" target="島" sid="wiki00131031-01" id="1"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="3"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="5"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="7"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="9"/><rel type="ニヨッテ" mode="AND" target="島など" sid="wiki00131031-01" id="11"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 19P <rel type="ガ" target="区" sid="wiki00131031-00" id="3"/><rel type="ニヨッテ" target="島" sid="wiki00131031-01" id="1"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="3"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="5"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="7"/><rel type="ニヨッテ" mode="AND" target="島" sid="wiki00131031-01" id="9"/><rel type="ニヨッテ" mode="AND" target="島など" sid="wiki00131031-01" id="11"/><用言:動><節-主辞><節-区切>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 19D <rel type="ノ" target="区" sid="wiki00131031-00" id="3"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ノ" target="区" sid="wiki00131031-00" id="3"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 16D
-ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 19D <rel type="=" target="島" sid="wiki00131031-01" id="1"/><NE:LOCATION:ガーンジー島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 16D <体言>
+ガーンジー がーんじー ガーンジー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 19D <rel type="=" target="島" sid="wiki00131031-01" id="1"/><体言><NE:LOCATION:ガーンジー島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 18D
-セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 18D <体言>
+セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 19D
-ピーター ぴーたー ピーター 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 19D <体言>
+ピーター ぴーたー ピーター 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="首都" sid="wiki00131031-01" id="14"/><rel type="=構" target="首都" sid="wiki00131031-01" id="14"/><rel type="ノ？" target="島" sid="wiki00131031-01" id="16"/><NE:LOCATION:セント・ピーター・ポート>
-ポート ぽーと ポート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="首都" sid="wiki00131031-01" id="14"/><rel type="=構" target="首都" sid="wiki00131031-01" id="14"/><rel type="ノ？" target="島" sid="wiki00131031-01" id="16"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:セント・ピーター・ポート>
+ポート ぽーと ポート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

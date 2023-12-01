@@ -1,72 +1,72 @@
 # S-ID:wiki00083521-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2023/06/09 MEMO:
 * 6D
-+ 1D <NE:LOCATION:アフリカ>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ" target="アフリカ" sid="wiki00083521-00-01" id="0"/>
-系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <NE:LOCATION:アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 11D <rel type="修飾" target="系" sid="wiki00083521-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00083521-00-01" id="2"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="ノ" target="アフリカ" sid="wiki00083521-00-01" id="0"/><体言>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 11D <rel type="修飾" target="系" sid="wiki00083521-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00083521-00-01" id="2"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="=" target="アメリカ" sid="wiki00083521-00-01" id="2"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 6D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00083521-00-01" id="4"/><rel type="=≒" target="人" sid="wiki00083521-00-01" id="3"/>
-民 みん 民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="アメリカ" sid="wiki00083521-00-01" id="2"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 6D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00083521-00-01" id="4"/><rel type="=≒" target="人" sid="wiki00083521-00-01" id="3"/><体言>
+民 みん 民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 11D <rel type="ノ" target="民" sid="wiki00083521-00-01" id="5"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 11D <rel type="ノ" target="民" sid="wiki00083521-00-01" id="5"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="=" target="アフリカ" sid="wiki00083521-00-01" id="0"/><NE:LOCATION:アフリカ>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 9D <rel type="ノ" target="アフリカ" sid="wiki00083521-00-01" id="8"/>
-出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="アフリカ" sid="wiki00083521-00-01" id="0"/><体言><NE:LOCATION:アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 9D <rel type="ノ" target="アフリカ" sid="wiki00083521-00-01" id="8"/><体言>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 11P <rel type="修飾" target="出身" sid="wiki00083521-00-01" id="8"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/>
-黒人 こくじん 黒人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <rel type="修飾" target="出身" sid="wiki00083521-00-01" id="8"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><体言>
+黒人 こくじん 黒人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
 + 11D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="人" sid="wiki00083521-00-01" id="3"/><rel type="ノ" target="黒人" sid="wiki00083521-00-01" id="9"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/>
-子孫 しそん 子孫 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="人" sid="wiki00083521-00-01" id="3"/><rel type="ノ" target="黒人" sid="wiki00083521-00-01" id="9"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+子孫 しそん 子孫 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00083521-00-02 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="黒人" sid="wiki00083521-00-01" id="9"/>
-ネグロイド ねぐろいど ネグロイド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="黒人" sid="wiki00083521-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ネグロイド ねぐろいど ネグロイド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00083521-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/09 MEMO:
 * 1P
-+ 1D
-アフリカン あふりかん アフリカン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+アフリカン あふりかん アフリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3P <rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="修飾" target="アフリカン" sid="wiki00083521-01" id="0"/>
-アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="修飾" target="アフリカン" sid="wiki00083521-01" id="0"/><体言>
+アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D <rel type="=≒" target="アフリカ" sid="wiki00083521-00-01" id="7"/>
-アフロ あふろ アフロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5P <rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="修飾" target="アフロ" sid="wiki00083521-01" id="2"/>
-アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=≒" target="アフリカ" sid="wiki00083521-00-01" id="7"/><体言>
+アフロ あふろ アフロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="修飾" target="アフロ" sid="wiki00083521-01" id="2"/><体言>
+アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="アメリカ" sid="wiki00083521-00-01" id="2"/><NE:LOCATION:アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 6D <rel type="修飾" target="アメリカ" sid="wiki00083521-01" id="4"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="=" mode="AND" target="黒人" sid="wiki00083521-00-01" id="9"/>
-黒人 こくじん 黒人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="アメリカ" sid="wiki00083521-00-01" id="2"/><体言><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 6D <rel type="修飾" target="アメリカ" sid="wiki00083521-01" id="4"/><rel type="=構" target="人" sid="wiki00083521-00-01" id="3"/><rel type="=" mode="AND" target="黒人" sid="wiki00083521-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞>
+黒人 こくじん 黒人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00083521-00-01" id="3"/><rel type="ト" target="アメリカン" sid="wiki00083521-01" id="1"/><rel type="ト" mode="AND" target="アメリカン" sid="wiki00083521-01" id="3"/><rel type="ト" mode="AND" target="黒人" sid="wiki00083521-01" id="5"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人" sid="wiki00083521-00-01" id="3"/><rel type="ト" target="アメリカン" sid="wiki00083521-01" id="1"/><rel type="ト" mode="AND" target="アメリカン" sid="wiki00083521-01" id="3"/><rel type="ト" mode="AND" target="黒人" sid="wiki00083521-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

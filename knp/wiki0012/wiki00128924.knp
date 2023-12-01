@@ -1,80 +1,80 @@
 # S-ID:wiki00128924-00 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:89.00000 MOD:2022/06/13 MEMO:
 * 9D
-+ 1D
-LG LG LG 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 14D <NE:ORGANIZATION:LGエレクトロニクス>
-エレクトロニクス エレクトロニクス エレクトロニクス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+LG LG LG 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 14D <体言><NE:ORGANIZATION:LGエレクトロニクス>
+エレクトロニクス エレクトロニクス エレクトロニクス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:韓国>
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:韓国>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ？" target="韓国" sid="wiki00128924-00" id="2"/><NE:LOCATION:ソウル市>
-ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="ノ？" target="韓国" sid="wiki00128924-00" id="2"/><体言><NE:LOCATION:ソウル市>
+ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="ヲ" target="本社" sid="wiki00128924-00" id="4"/><rel type="ニ" target="ソウル市" sid="wiki00128924-00" id="3"/><rel type="ガ" target="メーカー" sid="wiki00128924-00" id="14"/>
-置き おき 置く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL
++ 9P <rel type="ヲ" target="本社" sid="wiki00128924-00" id="4"/><rel type="ニ" target="ソウル市" sid="wiki00128924-00" id="3"/><rel type="ガ" target="メーカー" sid="wiki00128924-00" id="14"/><用言:動><節-主辞><節-区切>
+置き おき 置く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="=" target="LG" sid="wiki00128924-00" id="0"/>
-LG LG LG 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D <rel type="ノ" target="LG" sid="wiki00128924-00" id="6"/><NE:ORGANIZATION:LGグループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <rel type="=" target="LG" sid="wiki00128924-00" id="0"/><体言>
+LG LG LG 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <rel type="ノ" target="LG" sid="wiki00128924-00" id="6"/><体言><NE:ORGANIZATION:LGグループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ノ" target="グループ" sid="wiki00128924-00" id="7"/>
-中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="グループ" sid="wiki00128924-00" id="7"/><体言>
+中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14D <rel type="ガ" target="メーカー" sid="wiki00128924-00" id="14"/><rel type="ヲ" target="中核" sid="wiki00128924-00" id="8"/>
-なす なす なす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 14D <rel type="ガ" target="メーカー" sid="wiki00128924-00" id="14"/><rel type="ヲ" target="中核" sid="wiki00128924-00" id="8"/><用言:動><時制:非過去><節-主辞>
+なす なす なす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 9P
-+ 11D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 13P <rel type="修飾" target="総合" sid="wiki00128924-00" id="10"/>
-家電 かでん 家電 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言><非用言格解析:動>
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13P <rel type="修飾" target="総合" sid="wiki00128924-00" id="10"/><体言>
+家電 かでん 家電 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 13D
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="ノ" target="通信" sid="wiki00128924-00" id="13"/><rel type="ノ" mode="AND" target="家電" sid="wiki00128924-00" id="11"/><rel type="=構" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><memo text="CO"/>
-メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><非用言格解析:動>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="ノ" target="通信" sid="wiki00128924-00" id="13"/><rel type="ノ" mode="AND" target="家電" sid="wiki00128924-00" id="11"/><rel type="=構" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00128924-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:30.00000 MOD:2022/06/13 MEMO:
 * 3D
-+ 2D <rel type="=" target="韓国" sid="wiki00128924-00" id="2"/><NE:LOCATION:韓国>
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 2D
-電機 でんき 電機 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="電機" sid="wiki00128924-01" id="1"/><rel type="ノ？" target="韓国" sid="wiki00128924-01" id="0"/>
-業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="韓国" sid="wiki00128924-00" id="2"/><体言><NE:LOCATION:韓国>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <体言>
+電機 でんき 電機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="電機" sid="wiki00128924-01" id="1"/><rel type="ノ？" target="韓国" sid="wiki00128924-01" id="0"/><体言>
+業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 4D
-サムスン さむすん サムスン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <NE:ORGANIZATION:サムスン電子>
-電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言>
+サムスン さむすん サムスン 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><NE:ORGANIZATION:サムスン電子>
+電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="企業" sid="wiki00128924-01" id="7"/><rel type="ニ" target="電子" sid="wiki00128924-01" id="4"/>
-次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
++ 7D <rel type="ガ" target="企業" sid="wiki00128924-01" id="7"/><rel type="ニ" target="電子" sid="wiki00128924-01" id="4"/><用言:動><時制:非過去><節-主辞>
+次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL <基本句-主辞>
 * -1D
 + 7D <rel type="ガ" target="企業" sid="wiki00128924-01" id="7"/>
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="ニツヅイテ" target="電子" sid="wiki00128924-01" id="4"/><rel type="=構" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="デ" target="業界" sid="wiki00128924-01" id="2"/><rel type="修飾" target="大" sid="wiki00128924-01" id="6"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="ニツヅイテ" target="電子" sid="wiki00128924-01" id="4"/><rel type="=構" target="エレクトロニクス" sid="wiki00128924-00" id="1"/><rel type="デ" target="業界" sid="wiki00128924-01" id="2"/><rel type="修飾" target="大" sid="wiki00128924-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

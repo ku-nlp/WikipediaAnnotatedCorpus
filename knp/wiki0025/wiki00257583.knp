@@ -1,181 +1,181 @@
 # S-ID:wiki00257583-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/06 MEMO:
 * 1P
-+ 2D
-ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4P <NE:LOCATION:ナミビア共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 4P <体言><NE:LOCATION:ナミビア共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ" target="国" sid="wiki00257583-00-01" id="2"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="通称" sid="wiki00257583-00-01" id="3"/><rel type="=構" target="通称" sid="wiki00257583-00-01" id="3"/><rel type="=" mode="AND" target="国" sid="wiki00257583-00-01" id="2"/><NE:LOCATION:ナミビア>
-ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="ノ" target="国" sid="wiki00257583-00-01" id="2"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="通称" sid="wiki00257583-00-01" id="3"/><rel type="=構" target="通称" sid="wiki00257583-00-01" id="3"/><rel type="=" mode="AND" target="国" sid="wiki00257583-00-01" id="2"/><体言><NE:LOCATION:ナミビア>
+ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 7D <NE:LOCATION:アフリカ>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 7D <rel type="ノ" target="アフリカ" sid="wiki00257583-00-01" id="5"/>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="アフリカ" sid="wiki00257583-00-01" id="5"/><rel type="ノ？" target="南西" sid="wiki00257583-00-01" id="6"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><NE:LOCATION:アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <rel type="ノ" target="アフリカ" sid="wiki00257583-00-01" id="5"/><体言>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="アフリカ" sid="wiki00257583-00-01" id="5"/><rel type="ノ？" target="南西" sid="wiki00257583-00-01" id="6"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 11D <rel type="ガ" target="国家" sid="wiki00257583-00-01" id="11"/><rel type="ニ" target="部" sid="wiki00257583-00-01" id="7"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="国家" sid="wiki00257583-00-01" id="11"/><rel type="ニ" target="部" sid="wiki00257583-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 10D <rel type="=" target="共和" sid="wiki00257583-00-01" id="1"/>
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="共和" sid="wiki00257583-00-01" id="9"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="修飾" target="制" sid="wiki00257583-00-01" id="10"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="共和" sid="wiki00257583-00-01" id="1"/><体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="共和" sid="wiki00257583-00-01" id="9"/><体言>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="修飾" target="制" sid="wiki00257583-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00257583-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/06 MEMO:
 * -1D
-+ 2D <rel type="=" target="ナミビア" sid="wiki00257583-00-01" id="0"/>
-ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="共和" sid="wiki00257583-00-01" id="1"/>
-きょうわ きょうわ きょうわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="国" sid="wiki00257583-00-01" id="2"/><NE:LOCATION:ナミビアきょうわこく>
-こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <rel type="=" target="ナミビア" sid="wiki00257583-00-01" id="0"/><体言>
+ナミビア なみびあ ナミビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="=" target="共和" sid="wiki00257583-00-01" id="1"/><体言><非用言格解析:動>
+きょうわ きょうわ きょうわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ -1D <rel type="=" target="国" sid="wiki00257583-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ナミビアきょうわこく>
+こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00257583-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/12/15 MEMO:
 * 1I
-+ 1I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="北" sid="wiki00257583-01" id="0"/><rel type="ト" target="アンゴラ" sid="wiki00257583-01" id="1"/><NE:LOCATION:アンゴラ>
-アンゴラ あんごら アンゴラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="北" sid="wiki00257583-01" id="0"/><rel type="ト" target="アンゴラ" sid="wiki00257583-01" id="1"/><体言><NE:LOCATION:アンゴラ>
+アンゴラ あんごら アンゴラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3I
-+ 3I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="北東" sid="wiki00257583-01" id="2"/><rel type="ト" target="ザンビア" sid="wiki00257583-01" id="3"/><NE:LOCATION:ザンビア>
-ザンビア ざんびあ ザンビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="北東" sid="wiki00257583-01" id="2"/><rel type="ト" target="ザンビア" sid="wiki00257583-01" id="3"/><体言><NE:LOCATION:ザンビア>
+ザンビア ざんびあ ザンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5I
-+ 5I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="東" sid="wiki00257583-01" id="4"/><rel type="ト" target="ボツワナ" sid="wiki00257583-01" id="5"/><NE:LOCATION:ボツワナ>
-ボツワナ ぼつわな ボツワナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="東" sid="wiki00257583-01" id="4"/><rel type="ト" target="ボツワナ" sid="wiki00257583-01" id="5"/><体言><NE:LOCATION:ボツワナ>
+ボツワナ ぼつわな ボツワナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7I
-+ 9I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9I <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D
-南アフリカ みなみあふりか 南アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 11D <NE:LOCATION:南アフリカ共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9D <体言>
+南アフリカ みなみあふりか 南アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 11D <体言><NE:LOCATION:南アフリカ共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 14P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="南" sid="wiki00257583-01" id="6"/><rel type="ト" target="国" sid="wiki00257583-01" id="9"/>
-接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 14P <rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00257583-01" id="10"/><rel type="ニ" target="南" sid="wiki00257583-01" id="6"/><rel type="ト" target="国" sid="wiki00257583-01" id="9"/><用言:動><節-主辞><節-区切>
+接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 14D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 14D <NE:LOCATION:大西洋>
-大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14D <体言><NE:LOCATION:大西洋>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="大西洋" sid="wiki00257583-01" id="13"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="デ" target="西" sid="wiki00257583-01" id="12"/>
-面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ニ" target="大西洋" sid="wiki00257583-01" id="13"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="デ" target="西" sid="wiki00257583-01" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
+面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00257583-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/12/15 MEMO:
 * 10D
 + 10D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-地図 ちず 地図 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+地図 ちず 地図 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地図" sid="wiki00257583-02" id="1"/>
-一見 いっけん 一見 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地図" sid="wiki00257583-02" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+一見 いっけん 一見 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ト" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 4D <rel type="ガ" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ト" target="ナミビア" sid="wiki00257583-00-01" id="4"/><用言:動><時制:非過去>
+接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 5D
-+ 5D <rel type="ガ" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="接している" sid="wiki00257583-02" id="3"/>
-見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 5D <rel type="ガ" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="接している" sid="wiki00257583-02" id="3"/><用言:動><時制:非過去>
+見える みえる 見える 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 10D <NE:LOCATION:ジンバブエ>
-ジンバブエ じんばぶえ ジンバブエ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:ジンバブエ>
+ジンバブエ じんばぶえ ジンバブエ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7P
-+ 7P <rel type="=" target="ザンビア" sid="wiki00257583-01" id="3"/><NE:LOCATION:ザンビア>
-ザンビア ざんびあ ザンビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7P <rel type="=" target="ザンビア" sid="wiki00257583-01" id="3"/><体言><NE:LOCATION:ザンビア>
+ザンビア ざんびあ ザンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 8D <rel type="=" target="ボツワナ" sid="wiki00257583-01" id="5"/><NE:LOCATION:ボツワナ>
-ボツワナ ぼつわな ボツワナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <rel type="=" target="ボツワナ" sid="wiki00257583-01" id="5"/><体言><NE:LOCATION:ボツワナ>
+ボツワナ ぼつわな ボツワナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 10D <rel type="ヲ" target="ザンビア" sid="wiki00257583-02" id="6"/><rel type="ヲ" mode="AND" target="ボツワナ" sid="wiki00257583-02" id="7"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ト" target="ジンバブエ" sid="wiki00257583-02" id="5"/><memo text="ガト交替可"/>
-挟んで はさんで 挟む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
++ 10D <rel type="ヲ" target="ザンビア" sid="wiki00257583-02" id="6"/><rel type="ヲ" mode="AND" target="ボツワナ" sid="wiki00257583-02" id="7"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="ト" target="ジンバブエ" sid="wiki00257583-02" id="5"/><memo text="ガト交替可"/><用言:動><節-主辞><節-区切>
+挟んで はさんで 挟む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL <基本句-主辞>
 * 10D
-+ 10D
-150 ひゃくごじゅう 150 名詞 6 数詞 7 * 0 * 0 NIL
++ 10D <体言>
+150 ひゃくごじゅう 150 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ほど ほど ほど 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ト" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-離れて はなれて 離れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ -1D <rel type="ト" target="ジンバブエ" sid="wiki00257583-02" id="5"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+離れて はなれて 離れる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00257583-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:47.00000 MOD:2022/12/06 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="首都" sid="wiki00257583-03" id="0"/><rel type="=構" target="首都" sid="wiki00257583-03" id="0"/><rel type="ノ？" target="ナミビア" sid="wiki00257583-00-01" id="4"/><NE:LOCATION:ウィントフック>
-ウィントフック うぃんとふっく ウィントフック 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ガ" target="首都" sid="wiki00257583-03" id="0"/><rel type="=構" target="首都" sid="wiki00257583-03" id="0"/><rel type="ノ？" target="ナミビア" sid="wiki00257583-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ウィントフック>
+ウィントフック うぃんとふっく ウィントフック 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D <NE:OPTIONAL:イギリス連邦><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 5D <rel type="ガ" target="国" sid="wiki00257583-03" id="5"/><rel type="ニ" target="連邦" sid="wiki00257583-03" id="3"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="=≒" target="ナミビア" sid="wiki00257583-00-01" id="4"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4D <体言><NE:OPTIONAL:イギリス連邦><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 5D <rel type="ガ" target="国" sid="wiki00257583-03" id="5"/><rel type="ニ" target="連邦" sid="wiki00257583-03" id="3"/><体言><非用言格解析:動>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=≒" target="ナミビア" sid="wiki00257583-00-01" id="4"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="国" sid="wiki00257583-03" id="5"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" mode="AND" target="国" sid="wiki00257583-03" id="5"/>
++ -1D <rel type="ノ" target="国" sid="wiki00257583-03" id="5"/><rel type="ガ" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" target="ナミビア" sid="wiki00257583-00-01" id="4"/><rel type="=構" mode="AND" target="国" sid="wiki00257583-03" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

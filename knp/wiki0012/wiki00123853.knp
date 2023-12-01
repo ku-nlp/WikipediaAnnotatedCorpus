@@ -1,133 +1,133 @@
 # S-ID:wiki00123853-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:135.00000 MOD:2022/06/03 MEMO:
 * 21D
-+ 2D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 26D <NE:ORGANIZATION:日本芸術院>
-院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 26D <体言><NE:ORGANIZATION:日本芸術院>
+院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 4P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/>
-美術 びじゅつ 美術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/><体言>
+美術 びじゅつ 美術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 * 3P
-+ 5P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/>
-文芸 ぶんげい 文芸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/><体言>
+文芸 ぶんげい 文芸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/><体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/><memo text="かかり先はどこが最適？"/>
-演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=≒" target="芸術" sid="wiki00123853-00-01" id="1"/><memo text="かかり先はどこが最適？"/><体言>
+演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="芸術" sid="wiki00123853-00-01" id="1"/>
-芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="芸術" sid="wiki00123853-00-01" id="1"/><体言>
+芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="分野" sid="wiki00123853-00-01" id="9"/>
-さまざまな さまざまな さまざまだ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
++ 9D <rel type="ガ" target="分野" sid="wiki00123853-00-01" id="9"/><用言:形><時制:非過去>
+さまざまな さまざまな さまざまだ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL <基本句-主辞>
 * 8D
-+ 10D <rel type="ノ" target="芸術" sid="wiki00123853-00-01" id="7"/><rel type="=≒" target="美術" sid="wiki00123853-00-01" id="3"/><rel type="=≒" mode="AND" target="文芸" sid="wiki00123853-00-01" id="4"/><rel type="=≒" mode="AND" target="音楽" sid="wiki00123853-00-01" id="5"/><rel type="=≒" mode="AND" target="演劇" sid="wiki00123853-00-01" id="6"/>
-分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="芸術" sid="wiki00123853-00-01" id="7"/><rel type="=≒" target="美術" sid="wiki00123853-00-01" id="3"/><rel type="=≒" mode="AND" target="文芸" sid="wiki00123853-00-01" id="4"/><rel type="=≒" mode="AND" target="音楽" sid="wiki00123853-00-01" id="5"/><rel type="=≒" mode="AND" target="演劇" sid="wiki00123853-00-01" id="6"/><体言>
+分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 13D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 13D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 10D
-+ 12D <rel type="ガ" target="功績" sid="wiki00123853-00-01" id="12"/>
-優れた すぐれた 優れる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
++ 12D <rel type="ガ" target="功績" sid="wiki00123853-00-01" id="12"/><用言:動><時制:過去>
+優れた すぐれた 優れる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 11P
-+ 13D <rel type="修飾" target="優れた" sid="wiki00123853-00-01" id="11"/>
-功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="優れた" sid="wiki00123853-00-01" id="11"/><体言>
+功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 15D <rel type="ガ" target="功績" sid="wiki00123853-00-01" id="12"/><rel type="ガ２" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ニオイテ" target="分野" sid="wiki00123853-00-01" id="9"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 15D <rel type="ガ" target="功績" sid="wiki00123853-00-01" id="12"/><rel type="ガ２" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ニオイテ" target="分野" sid="wiki00123853-00-01" id="9"/><用言:動><時制:非過去>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 15D
-芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ノ？" target="芸術" sid="wiki00123853-00-01" id="14"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 15D <体言>
+芸術 げいじゅつ 芸術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="ノ？" target="芸術" sid="wiki00123853-00-01" id="14"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 17P <rel type="ヲ" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ガ" target="国" sid="wiki00123853-00-01" id="20"/><rel type="ガ" mode="？" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="外の関係" target="ため" sid="wiki00123853-00-01" id="18"/>
-優遇 ゆうぐう 優遇 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17P <rel type="ヲ" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ガ" target="国" sid="wiki00123853-00-01" id="20"/><rel type="ガ" mode="？" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="外の関係" target="ため" sid="wiki00123853-00-01" id="18"/><用言:動>
+優遇 ゆうぐう 優遇 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 15D
-+ 18D <rel type="ヲ" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ガ" target="国" sid="wiki00123853-00-01" id="20"/><rel type="ガ" mode="？" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="外の関係" target="ため" sid="wiki00123853-00-01" id="18"/>
-顕彰 けんしょう 顕彰 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18D <rel type="ヲ" target="家" sid="wiki00123853-00-01" id="15"/><rel type="ガ" target="国" sid="wiki00123853-00-01" id="20"/><rel type="ガ" mode="？" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="外の関係" target="ため" sid="wiki00123853-00-01" id="18"/><用言:動><時制:非過去><節-主辞>
+顕彰 けんしょう 顕彰 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 16D
-+ 19D <rel type="ノ" target="顕彰する" sid="wiki00123853-00-01" id="17"/><rel type="ノ" mode="AND" target="優遇し" sid="wiki00123853-00-01" id="16"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 19D <rel type="ノ" target="顕彰する" sid="wiki00123853-00-01" id="17"/><rel type="ノ" mode="AND" target="優遇し" sid="wiki00123853-00-01" id="16"/><体言><節-区切>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 22D <rel type="ガ" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="ニ" target="国" sid="wiki00123853-00-01" id="20"/>
-置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
++ 22D <rel type="ガ" target="機関" sid="wiki00123853-00-01" id="22"/><rel type="ニ" target="国" sid="wiki00123853-00-01" id="20"/><用言:動><時制:過去>
+置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 18D
-+ 22D <rel type="=" target="日本" sid="wiki00123853-00-01" id="0"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <rel type="=" target="日本" sid="wiki00123853-00-01" id="0"/><体言>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 21P
-+ 22D
-栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 26P <rel type="ガ" target="院" sid="wiki00123853-00-01" id="2"/><rel type="=構" target="院" sid="wiki00123853-00-01" id="2"/><rel type="修飾" target="栄誉" sid="wiki00123853-00-01" id="21"/><rel type="ノ？" target="国" sid="wiki00123853-00-01" id="20"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <体言>
+栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 26P <rel type="ガ" target="院" sid="wiki00123853-00-01" id="2"/><rel type="=構" target="院" sid="wiki00123853-00-01" id="2"/><rel type="修飾" target="栄誉" sid="wiki00123853-00-01" id="21"/><rel type="ノ？" target="国" sid="wiki00123853-00-01" id="20"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 21D
-+ 24D
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 26D <rel type="ノ" target="文化" sid="wiki00123853-00-01" id="23"/><NE:ORGANIZATION:文化庁>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 24D <体言>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 26D <rel type="ノ" target="文化" sid="wiki00123853-00-01" id="23"/><体言><NE:ORGANIZATION:文化庁>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 26D <rel type="ガ" target="機関" sid="wiki00123853-00-01" id="22"/>
-特別の とくべつの 特別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 26D <rel type="ガ" target="機関" sid="wiki00123853-00-01" id="22"/><用言:形><時制:非過去>
+特別の とくべつの 特別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="院" sid="wiki00123853-00-01" id="2"/><rel type="ノ" target="庁" sid="wiki00123853-00-01" id="24"/><rel type="=構" target="院" sid="wiki00123853-00-01" id="2"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="院" sid="wiki00123853-00-01" id="2"/><rel type="ノ" target="庁" sid="wiki00123853-00-01" id="24"/><rel type="=構" target="院" sid="wiki00123853-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00123853-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/06/03 MEMO:
 * 1P
-+ 2D <rel type="=" target="日本" sid="wiki00123853-00-01" id="0"/>
-にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 2D <rel type="=" target="芸術" sid="wiki00123853-00-01" id="1"/>
-げいじゅつ げいじゅつ げいじゅつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7P <rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><NE:ORGANIZATION:にほんげいじゅついん>
-いん いん いん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <rel type="=" target="日本" sid="wiki00123853-00-01" id="0"/><体言>
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="芸術" sid="wiki00123853-00-01" id="1"/><体言>
+げいじゅつ げいじゅつ げいじゅつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7P <rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><体言><NE:ORGANIZATION:にほんげいじゅついん>
+いん いん いん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 4D
-旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 7D <rel type="修飾" target="旧" sid="wiki00123853-00-02" id="3"/><rel type="ノ" target="院" sid="wiki00123853-00-01" id="2"/>
-字体 じたい 字体 名詞 6 普通名詞 1 * 0 * 0 NIL
+旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="修飾" target="旧" sid="wiki00123853-00-02" id="3"/><rel type="ノ" target="院" sid="wiki00123853-00-01" id="2"/><体言>
+字体 じたい 字体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D <rel type="=" target="にほん" sid="wiki00123853-00-02" id="0"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 7D
-藝術 げいじゅつ 藝術 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12P <rel type="ガ" target="字体" sid="wiki00123853-00-02" id="4"/><rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><NE:ORGANIZATION:日本藝術院>
-院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <rel type="=" target="にほん" sid="wiki00123853-00-02" id="0"/><体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 7D <体言>
+藝術 げいじゅつ 藝術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12P <rel type="ガ" target="字体" sid="wiki00123853-00-02" id="4"/><rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><体言><NE:ORGANIZATION:日本藝術院>
+院 いん 院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1P
-+ 12D <rel type="ノ" target="院" sid="wiki00123853-00-01" id="2"/><NE:OPTIONAL:英>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="院" sid="wiki00123853-00-01" id="2"/><体言><NE:OPTIONAL:英>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <rel type="=" target="日本" sid="wiki00123853-00-02" id="5"/>
-Japan Japan Japan 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D
-Art Art Art 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><rel type="ガ" target="英語" sid="wiki00123853-00-02" id="8"/><memo text="英語　デ格、ガ格どちらがいい？"/><NE:ORGANIZATION:TheJapanArtAcademy>
-Academy Academy Academy 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言>
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11D <rel type="=" target="日本" sid="wiki00123853-00-02" id="5"/><体言>
+Japan Japan Japan 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12D <体言>
+Art Art Art 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="院" sid="wiki00123853-00-01" id="2"/><rel type="ガ" target="英語" sid="wiki00123853-00-02" id="8"/><memo text="英語　デ格、ガ格どちらがいい？"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:TheJapanArtAcademy>
+Academy Academy Academy 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

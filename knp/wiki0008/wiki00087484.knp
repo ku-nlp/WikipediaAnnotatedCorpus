@@ -1,142 +1,142 @@
 # S-ID:wiki00087484-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/19 MEMO:
 * 4D
-+ 1D
-宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <NE:ORGANIZATION:宮内省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言><NE:ORGANIZATION:宮内省>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <NE:DATE:1947年>
-1947 せんきゅうひゃくよんじゅうしち/せんきゅうひゃくよんじゅうなな 1947 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 4D <体言><NE:DATE:1947年>
+1947 せんきゅうひゃくよんじゅうしち/せんきゅうひゃくよんじゅうなな 1947 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="官庁" sid="wiki00087484-00-01" id="5"/><rel type="ニ" target="日本" sid="wiki00087484-00-01" id="3"/><rel type="マデ" target="1947年" sid="wiki00087484-00-01" id="2"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="官庁" sid="wiki00087484-00-01" id="5"/><rel type="ニ" target="日本" sid="wiki00087484-00-01" id="3"/><rel type="マデ" target="1947年" sid="wiki00087484-00-01" id="2"/><用言:動><時制:過去><節-主辞>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 6D <rel type="=構" target="省" sid="wiki00087484-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00087484-00-01" id="3"/>
-官庁 かんちょう 官庁 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="省" sid="wiki00087484-00-01" id="1"/><rel type="ノ" target="官庁" sid="wiki00087484-00-01" id="5"/><rel type="=構" target="省" sid="wiki00087484-00-01" id="1"/><memo text="CO"/>
-名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=構" target="省" sid="wiki00087484-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00087484-00-01" id="3"/><体言>
+官庁 かんちょう 官庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="省" sid="wiki00087484-00-01" id="1"/><rel type="ノ" target="官庁" sid="wiki00087484-00-01" id="5"/><rel type="=構" target="省" sid="wiki00087484-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087484-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * -1D
-+ 1D <rel type="=" target="宮内" sid="wiki00087484-00-01" id="0"/>
-くない くない くない 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="=" target="省" sid="wiki00087484-00-01" id="1"/><NE:ORGANIZATION:くないしょう>
-しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="宮内" sid="wiki00087484-00-01" id="0"/><体言>
+くない くない くない 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ -1D <rel type="=" target="省" sid="wiki00087484-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:くないしょう>
+しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00087484-00-03 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * -1D
-+ 1D
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1947年" sid="wiki00087484-00-01" id="2"/><NE:DATE:昭和22年>
-22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 1D <体言>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ -1D <rel type="=" target="1947年" sid="wiki00087484-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:昭和22年>
+22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00087484-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/06/19 MEMO:
 * 1D
 + 2D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 2D
-宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="省" sid="wiki00087484-00-01" id="1"/><NE:ORGANIZATION:宮内省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <rel type="=" target="省" sid="wiki00087484-00-01" id="1"/><体言><NE:ORGANIZATION:宮内省>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 6D <NE:DATE:戦後>
-戦後 せんご 戦後 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 6D <体言><NE:DATE:戦後>
+戦後 せんご 戦後 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 * 4D
-+ 5D <NE:ORGANIZATION:GHQ>
-GHQ じーえいちきゅー/じーえっちきゅー GHQ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 5D <体言><NE:ORGANIZATION:GHQ>
+GHQ じーえいちきゅー/じーえっちきゅー GHQ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 6D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="省" sid="wiki00087484-01" id="2"/><rel type="時間" target="戦後" sid="wiki00087484-01" id="3"/><rel type="ニヨッテ" target="GHQ" sid="wiki00087484-01" id="4"/>
-取り とり 取る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ -1D <rel type="ガ" target="省" sid="wiki00087484-01" id="2"/><rel type="時間" target="戦後" sid="wiki00087484-01" id="3"/><rel type="ニヨッテ" target="GHQ" sid="wiki00087484-01" id="4"/><用言:動><時制:過去><節-主辞><節-区切>
+取り とり 取る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 潰さ つぶさ 潰す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087484-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/06/19 MEMO:
 * 7D
-+ 10D <rel type="ノ" target="取り潰された" sid="wiki00087484-01" id="6"/>
-その後 そのご その後 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 10D <rel type="ノ" target="取り潰された" sid="wiki00087484-01" id="6"/><体言>
+その後 そのご その後 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 2D <NE:DATE:1949年>
-1949 せんきゅうひゃくよんじゅうきゅう/せんきゅうひゃくよんじゅうく 1949 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 2D <体言><NE:DATE:1949年>
+1949 せんきゅうひゃくよんじゅうきゅう/せんきゅうひゃくよんじゅうく 1949 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 10D <rel type="ノ" target="1949年" sid="wiki00087484-02-01" id="1"/>
-以降 いこう 以降 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 10D <rel type="ノ" target="1949年" sid="wiki00087484-02-01" id="1"/><体言>
+以降 いこう 以降 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 5D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=" target="宮内" sid="wiki00087484-01" id="1"/>
-宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="時間" target="現在" sid="wiki00087484-02-01" id="3"/><NE:ORGANIZATION:宮内庁>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <rel type="=" target="宮内" sid="wiki00087484-01" id="1"/><体言>
+宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <rel type="時間" target="現在" sid="wiki00087484-02-01" id="3"/><体言><NE:ORGANIZATION:宮内庁>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ノ" target="庁" sid="wiki00087484-02-01" id="5"/>
-前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="庁" sid="wiki00087484-02-01" id="5"/><体言>
+前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/><rel type="ト" target="前身" sid="wiki00087484-02-01" id="6"/>
-なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 9D <rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/><rel type="ト" target="前身" sid="wiki00087484-02-01" id="6"/><用言:動><時制:非過去><節-主辞>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 9D <rel type="=" target="宮内" sid="wiki00087484-01" id="1"/>
-宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D <rel type="=構" target="前身" sid="wiki00087484-02-01" id="6"/><NE:ORGANIZATION:宮内府>
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <rel type="=" target="宮内" sid="wiki00087484-01" id="1"/><体言>
+宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <rel type="=構" target="前身" sid="wiki00087484-02-01" id="6"/><体言><NE:ORGANIZATION:宮内府>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ニ" target="不特定:人"/><rel type="カラ" target="1949年" sid="wiki00087484-02-01" id="1"/><rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <rel type="ニ" target="不特定:人"/><rel type="カラ" target="1949年" sid="wiki00087484-02-01" id="1"/><rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/><用言:動><時制:過去><節-主辞><節-区切>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/><rel type="=" target="設立された" sid="wiki00087484-02-01" id="10"/><rel type="外の関係" target="目的" sid="wiki00087484-02-01" id="12"/>
-作ら つくら 作る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
++ 12D <rel type="ガ" target="府" sid="wiki00087484-02-01" id="9"/><rel type="=" target="設立された" sid="wiki00087484-02-01" id="10"/><rel type="外の関係" target="目的" sid="wiki00087484-02-01" id="12"/><用言:動><時制:過去>
+作ら つくら 作る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 12D
-+ 16D <rel type="ノ" target="作られた" sid="wiki00087484-02-01" id="11"/>
-目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ノ" target="作られた" sid="wiki00087484-02-01" id="11"/><体言>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 14D
-宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 16D <rel type="=" target="省" sid="wiki00087484-01" id="2"/><NE:ORGANIZATION:宮内省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 14D <体言>
+宮内 くない 宮内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 16D <rel type="=" target="省" sid="wiki00087484-01" id="2"/><体言><NE:ORGANIZATION:宮内省>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 16D
-大きく おおきく 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本連用形 7 NIL
++ 16D <用言:形><時制:非過去>
+大きく おおきく 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本連用形 7 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="目的" sid="wiki00087484-02-01" id="12"/><rel type="ト" target="省" sid="wiki00087484-02-01" id="14"/><memo text="ト格：NO：目的"/>
-異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="目的" sid="wiki00087484-02-01" id="12"/><rel type="ト" target="省" sid="wiki00087484-02-01" id="14"/><memo text="ト格：NO：目的"/><用言:動><時制:非過去><節-主辞><節-区切>
+異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00087484-02-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * -1D
-+ 1D
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1949年" sid="wiki00087484-02-01" id="1"/><NE:DATE:昭和24年>
-24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 1D <体言>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ -1D <rel type="=" target="1949年" sid="wiki00087484-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:昭和24年>
+24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

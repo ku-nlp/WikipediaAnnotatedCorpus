@@ -1,59 +1,59 @@
 # S-ID:wiki00067824-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/23 MEMO:
 * 2D
-+ 1P
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-安田 やすだ 安田 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-相互 そうご 相互 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D <NE:ORGANIZATION:明治安田生命保険相互会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1P <体言>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+安田 やすだ 安田 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+相互 そうご 相互 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9D <体言><NE:ORGANIZATION:明治安田生命保険相互会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 9D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/>
-生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/><rel type="ニカンシテ" target="生命" sid="wiki00067824-00-01" id="7"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="ノ？" target="保険" sid="wiki00067824-00-01" id="8"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00067824-00-01" id="6"/><memo text="CO"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/><体言>
+生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/><rel type="ニカンシテ" target="生命" sid="wiki00067824-00-01" id="7"/><体言>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="ノ？" target="保険" sid="wiki00067824-00-01" id="8"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00067824-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00067824-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/23 MEMO:
 * 1P
-+ 1P <rel type="=" target="明治" sid="wiki00067824-00-01" id="0"/>
-めいじ めいじ めいじ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 3D <rel type="=" target="安田" sid="wiki00067824-00-01" id="1"/>
-やすだ やすだ やすだ 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/>
-せいめい せいめい せいめい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9P <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/><rel type="=" mode="AND" target="会社" sid="wiki00067824-00-01" id="5"/><NE:ORGANIZATION:めいじやすだせいめいほけん>
-ほけん ほけん ほけん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1P <rel type="=" target="明治" sid="wiki00067824-00-01" id="0"/><体言>
+めいじ めいじ めいじ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 3D <rel type="=" target="安田" sid="wiki00067824-00-01" id="1"/><体言>
+やすだ やすだ やすだ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/><体言>
+せいめい せいめい せいめい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9P <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/><rel type="=" mode="AND" target="会社" sid="wiki00067824-00-01" id="5"/><NE:ORGANIZATION:めいじやすだせいめいほけん><体言>
+ほけん ほけん ほけん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 9D <rel type="ノ" target="会社" sid="wiki00067824-00-01" id="5"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="会社" sid="wiki00067824-00-01" id="5"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 6P <rel type="=" target="明治" sid="wiki00067824-00-01" id="0"/>
-Meiji Meiji Meiji 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6P <rel type="=" target="明治" sid="wiki00067824-00-01" id="0"/><体言>
+Meiji Meiji Meiji 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <rel type="=" target="安田" sid="wiki00067824-00-01" id="1"/>
-Yasuda Yasuda Yasuda 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <rel type="=" target="安田" sid="wiki00067824-00-01" id="1"/><体言>
+Yasuda Yasuda Yasuda 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/>
-Life Life Life 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <rel type="=" target="生命" sid="wiki00067824-00-01" id="2"/><体言>
+Life Life Life 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 9D <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/>
-Insurance Insurance Insurance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="=" target="保険" sid="wiki00067824-00-01" id="3"/><体言>
+Insurance Insurance Insurance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="英称" sid="wiki00067824-00-02" id="4"/><rel type="=" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="=構" mode="AND" target="英称" sid="wiki00067824-00-02" id="4"/><NE:ORGANIZATION:Meiji　Yasuda　Life　Insurance　Company>
-Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="ガ" target="英称" sid="wiki00067824-00-02" id="4"/><rel type="=" target="会社" sid="wiki00067824-00-01" id="5"/><rel type="=構" mode="AND" target="英称" sid="wiki00067824-00-02" id="4"/><NE:ORGANIZATION:Meiji　Yasuda　Life　Insurance　Company><体言>
+Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail><基本句-主辞>
 EOS

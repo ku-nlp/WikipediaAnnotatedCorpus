@@ -1,143 +1,143 @@
 # S-ID:wiki00060086-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:65.00000 MOD:2023/09/29 MEMO:
 * 8D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 18D <NE:ORGANIZATION:株式会社ユニクロ>
-ユニクロ ゆにくろ ユニクロ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 18D <体言><NE:ORGANIZATION:株式会社ユニクロ>
+ユニクロ ゆにくろ ユニクロ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 8D <rel type="=" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><NE:OPTIONAL:UNIQLO><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
++ 8D <rel type="=" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><体言><NE:OPTIONAL:UNIQLO><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-UNIQLO ゆにくろ UNIQLO 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
+UNIQLO ゆにくろ UNIQLO 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 5D
-店舗 てんぽ 店舗 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="ノ" target="店舗" sid="wiki00060086-00-01" id="4"/><rel type="=構" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><rel type="トイウ" target="UNIQLO" sid="wiki00060086-00-01" id="3"/>
-名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+店舗 てんぽ 店舗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ノ" target="店舗" sid="wiki00060086-00-01" id="4"/><rel type="=構" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><rel type="トイウ" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><体言>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="修飾" target="商品" sid="wiki00060086-00-01" id="6"/>
-ブランド ぶらんど ブランド 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="ブランド" sid="wiki00060086-00-01" id="7"/><rel type="=構" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><rel type="トイウ" target="UNIQLO" sid="wiki00060086-00-01" id="3"/>
-名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="修飾" target="商品" sid="wiki00060086-00-01" id="6"/><体言>
+ブランド ぶらんど ブランド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ノ" target="ブランド" sid="wiki00060086-00-01" id="7"/><rel type="=構" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><rel type="トイウ" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><体言>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 10D
-実用 じつよう 実用 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="実用" sid="wiki00060086-00-01" id="9"/>
-衣料 いりょう 衣料 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="衣料" sid="wiki00060086-00-01" id="10"/>
-品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+実用 じつよう 実用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="実用" sid="wiki00060086-00-01" id="9"/><体言>
+衣料 いりょう 衣料 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="衣料" sid="wiki00060086-00-01" id="10"/><体言>
+品 ひん 品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 13P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00060086-00-01" id="11"/>
-製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00060086-00-01" id="11"/>
-小売 こうり 小売 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00060086-00-01" id="11"/><体言><非用言格解析:動>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="品" sid="wiki00060086-00-01" id="11"/><体言><非用言格解析:動>
+小売 こうり 小売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 15D <rel type="ガ" target="企業" sid="wiki00060086-00-01" id="18"/><rel type="ヲ" target="製造" sid="wiki00060086-00-01" id="12"/><rel type="ヲ" mode="AND" target="小売" sid="wiki00060086-00-01" id="13"/>
-一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ガ" target="企業" sid="wiki00060086-00-01" id="18"/><rel type="ヲ" target="製造" sid="wiki00060086-00-01" id="12"/><rel type="ヲ" mode="AND" target="小売" sid="wiki00060086-00-01" id="13"/><用言:動>
+一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 8D
-+ 18D <rel type="ガ" target="企業" sid="wiki00060086-00-01" id="18"/><rel type="ヲ" target="小売" sid="wiki00060086-00-01" id="13"/><rel type="デ" target="名" sid="wiki00060086-00-01" id="8"/>
-展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18D <rel type="ガ" target="企業" sid="wiki00060086-00-01" id="18"/><rel type="ヲ" target="小売" sid="wiki00060086-00-01" id="13"/><rel type="デ" target="名" sid="wiki00060086-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 8D
-+ 18D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 18D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 18D <rel type="=≒" target="衣料" sid="wiki00060086-00-01" id="10"/>
-アパレル あぱれる アパレル 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00060086-00-01" id="16"/><rel type="修飾" target="アパレル" sid="wiki00060086-00-01" id="17"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=≒" target="衣料" sid="wiki00060086-00-01" id="10"/><体言>
+アパレル あぱれる アパレル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00060086-00-01" id="16"/><rel type="修飾" target="アパレル" sid="wiki00060086-00-01" id="17"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060086-00-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
-+ -1D <rel type="=" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><NE:OPTIONAL:ユニクロ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-ユニクロ ゆにくろ ユニクロ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="UNIQLO" sid="wiki00060086-00-01" id="3"/><NE:OPTIONAL:ユニクロ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0><体言>
+ユニクロ ゆにくろ ユニクロ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00060086-00-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/29 MEMO:
 * -1D
-+ -1D <rel type="=" target="実用" sid="wiki00060086-00-01" id="9"/>
-カジュアル かじゅある カジュアルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ -1D <rel type="=" target="実用" sid="wiki00060086-00-01" id="9"/><体言><非用言格解析:形>
+カジュアル かじゅある カジュアルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00060086-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/09/29 MEMO:
 * 1D
-+ 1D <rel type="=" target="日本" sid="wiki00060086-00-01" id="16"/><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <rel type="=" target="日本" sid="wiki00060086-00-01" id="16"/><体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 3D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 3D
-+ 3D
-ファスト ふぁすと ファスト 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ニオイテ" target="日本" sid="wiki00060086-01-01" id="0"/><rel type="修飾" target="ファスト" sid="wiki00060086-01-01" id="2"/>
-ファッション ふぁっしょん ファッション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+ファスト ふぁすと ファスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ニオイテ" target="日本" sid="wiki00060086-01-01" id="0"/><rel type="修飾" target="ファスト" sid="wiki00060086-01-01" id="2"/><体言>
+ファッション ふぁっしょん ファッション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 5D <rel type="ガ" target="存在" sid="wiki00060086-01-01" id="5"/><rel type="ヲ" target="ファッション" sid="wiki00060086-01-01" id="3"/>
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="存在" sid="wiki00060086-01-01" id="5"/><rel type="ヲ" target="ファッション" sid="wiki00060086-01-01" id="3"/><体言><非用言格解析:形>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 11P <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="修飾" target="代表的" sid="wiki00060086-01-01" id="4"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ニカンシテ" target="ファッション" sid="wiki00060086-01-01" id="3"/><rel type="ニオイテ" target="日本" sid="wiki00060086-01-01" id="0"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11P <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="修飾" target="代表的" sid="wiki00060086-01-01" id="4"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ニカンシテ" target="ファッション" sid="wiki00060086-01-01" id="3"/><rel type="ニオイテ" target="日本" sid="wiki00060086-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="=" target="ユニクロ" sid="wiki00060086-00-01" id="2"/>
-自社 じしゃ 自社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><体言>
+自社 じしゃ 自社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="=≒" target="ファッション" sid="wiki00060086-01-01" id="3"/>
-ファッション ふぁっしょん ファッション 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="ファッション" sid="wiki00060086-01-01" id="7"/><rel type="ノ？" mode="AND" target="自社" sid="wiki00060086-01-01" id="6"/>
-製品 せいひん 製品 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=≒" target="ファッション" sid="wiki00060086-01-01" id="3"/><体言>
+ファッション ふぁっしょん ファッション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ？" target="ファッション" sid="wiki00060086-01-01" id="7"/><rel type="ノ？" mode="AND" target="自社" sid="wiki00060086-01-01" id="6"/><体言>
+製品 せいひん 製品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D
++ 10D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ライフ らいふ ライフ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="ライフ" sid="wiki00060086-01-01" id="9"/><rel type="=構" target="製品" sid="wiki00060086-01-01" id="8"/>
-ウェア うぇあ ウェア 名詞 6 普通名詞 1 * 0 * 0 NIL
+ライフ らいふ ライフ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="ライフ" sid="wiki00060086-01-01" id="9"/><rel type="=構" target="製品" sid="wiki00060086-01-01" id="8"/><体言>
+ウェア うぇあ ウェア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="製品" sid="wiki00060086-01-01" id="8"/><rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ト" target="ウェア" sid="wiki00060086-01-01" id="10"/>
-称して しょうして 称す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ -1D <rel type="ヲ" target="製品" sid="wiki00060086-01-01" id="8"/><rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ト" target="ウェア" sid="wiki00060086-01-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+称して しょうして 称す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060086-01-02 括弧始:（ 括弧終:） 括弧位置:46 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
-+ 1D <rel type="=" target="ライフ" sid="wiki00060086-01-01" id="9"/>
-life life life 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ライフ" sid="wiki00060086-01-01" id="9"/><体言>
+life life life 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="ウェア" sid="wiki00060086-01-01" id="10"/>
-ware ware ware 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ウェア" sid="wiki00060086-01-01" id="10"/><体言>
+ware ware ware 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00060086-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/30 MEMO:
 * 1D
-+ 1D
-ファースト ふぁーすと ファースト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <NE:ORGANIZATION:ファーストリテイリング>
-リテイリング りていりんぐ リテイリング 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+ファースト ふぁーすと ファースト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><NE:ORGANIZATION:ファーストリテイリング>
+リテイリング りていりんぐ リテイリング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D
-完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ -1D <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ノ" target="リテイリング" sid="wiki00060086-02" id="1"/><rel type="修飾" target="完全" sid="wiki00060086-02" id="2"/><memo text="CO"/>
-子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><非用言格解析:形>
+完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="=構" target="ユニクロ" sid="wiki00060086-00-01" id="2"/><rel type="ノ" target="リテイリング" sid="wiki00060086-02" id="1"/><rel type="修飾" target="完全" sid="wiki00060086-02" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,143 +1,143 @@
 # S-ID:wiki00093937-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2023/06/06 MEMO:
 * 15D
-+ 1D
-ファースト ふぁーすと ファースト 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="ファースト" sid="wiki00093937-00-01" id="0"/>
-パーソン ぱーそん パーソン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+ファースト ふぁーすと ファースト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="修飾" target="ファースト" sid="wiki00093937-00-01" id="0"/><体言>
+パーソン ぱーそん パーソン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="パーソン" sid="wiki00093937-00-01" id="1"/>
-シューティング しゅーてぃんぐ シューティング 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D <rel type="修飾" target="シューティング" sid="wiki00093937-00-01" id="2"/>
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ガ" target="パーソン" sid="wiki00093937-00-01" id="1"/><体言>
+シューティング しゅーてぃんぐ シューティング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 23D <rel type="修飾" target="シューティング" sid="wiki00093937-00-01" id="2"/><体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="=≒" target="シューティング" sid="wiki00093937-00-01" id="2"/>
-シューティング しゅーてぃんぐ シューティング 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=≒" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="修飾" target="シューティング" sid="wiki00093937-00-01" id="4"/>
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=≒" target="シューティング" sid="wiki00093937-00-01" id="2"/><体言>
+シューティング しゅーてぃんぐ シューティング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=≒" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="修飾" target="シューティング" sid="wiki00093937-00-01" id="4"/><体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15P
-+ 23P <rel type="ガ" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="5"/><rel type="=構" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="=構" mode="AND" target="ゲーム" sid="wiki00093937-00-01" id="5"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 23P <rel type="ガ" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="5"/><rel type="=構" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="=構" mode="AND" target="ゲーム" sid="wiki00093937-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="キャラクター" sid="wiki00093937-00-01" id="8"/>
-操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="キャラクター" sid="wiki00093937-00-01" id="8"/><用言:動><時制:非過去>
+操作 そうさ 操作 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 10D <rel type="ノ？" target="ゲーム" sid="wiki00093937-00-01" id="3"/>
-キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="ゲーム" sid="wiki00093937-00-01" id="3"/><体言>
+キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="=" target="キャラクター" sid="wiki00093937-00-01" id="8"/>
-本人 ほんにん 本人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="ノ" target="キャラクター" sid="wiki00093937-00-01" id="8"/><rel type="ノ" mode="AND" target="本人" sid="wiki00093937-00-01" id="9"/>
-視点 してん 視点 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="キャラクター" sid="wiki00093937-00-01" id="8"/><体言>
+本人 ほんにん 本人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="ノ" target="キャラクター" sid="wiki00093937-00-01" id="8"/><rel type="ノ" mode="AND" target="本人" sid="wiki00093937-00-01" id="9"/><体言>
+視点 してん 視点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="=" target="ゲーム" sid="wiki00093937-00-01" id="3"/>
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="11"/>
-中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 12D <rel type="=" target="ゲーム" sid="wiki00093937-00-01" id="3"/><体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="11"/><体言>
+中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14P <rel type="修飾" target="中" sid="wiki00093937-00-01" id="12"/>
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14P <rel type="修飾" target="中" sid="wiki00093937-00-01" id="12"/><体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <rel type="修飾" target="中" sid="wiki00093937-00-01" id="12"/>
-空間 くうかん 空間 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="中" sid="wiki00093937-00-01" id="12"/><体言>
+空間 くうかん 空間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <rel type="ガ" target="移動" sid="wiki00093937-00-01" id="16"/>
-任意で にんいで 任意だ 形容詞 3 * 0 ナノ形容詞 22 ダ列タ系連用テ形 13 NIL
++ 16D <rel type="ガ" target="移動" sid="wiki00093937-00-01" id="16"/><用言:形><時制:非過去>
+任意で にんいで 任意だ 形容詞 3 * 0 ナノ形容詞 22 ダ列タ系連用テ形 13 NIL <基本句-主辞>
 * 13P
-+ 20P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世界" sid="wiki00093937-00-01" id="13"/><rel type="ヲ" mode="AND" target="空間" sid="wiki00093937-00-01" id="14"/><rel type="デ" target="視点" sid="wiki00093937-00-01" id="10"/><rel type="デ" mode="？" target="なし"/><rel type="外の関係" target="ゲーム" sid="wiki00093937-00-01" id="22"/>
-移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 20P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世界" sid="wiki00093937-00-01" id="13"/><rel type="ヲ" mode="AND" target="空間" sid="wiki00093937-00-01" id="14"/><rel type="デ" target="視点" sid="wiki00093937-00-01" id="10"/><rel type="デ" mode="？" target="なし"/><rel type="外の関係" target="ゲーム" sid="wiki00093937-00-01" id="22"/><用言:動><時制:非過去><節-主辞><節-区切>
+移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 でき でき できる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
-+ 18P
-武器 ぶき 武器 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18P <体言>
+武器 ぶき 武器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 19D
-素手 すで 素手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <体言>
+素手 すで 素手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 20D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="武器" sid="wiki00093937-00-01" id="17"/><rel type="ヲ" mode="AND" target="素手など" sid="wiki00093937-00-01" id="18"/><rel type="デ" target="中" sid="wiki00093937-00-01" id="12"/>
-用いて もちいて 用いる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 20D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="武器" sid="wiki00093937-00-01" id="17"/><rel type="ヲ" mode="AND" target="素手など" sid="wiki00093937-00-01" id="18"/><rel type="デ" target="中" sid="wiki00093937-00-01" id="12"/><用言:動><節-主辞><節-区切>
+用いて もちいて 用いる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 14D
-+ 22D <rel type="ガ" target="不特定:人"/><rel type="デ" target="中" sid="wiki00093937-00-01" id="12"/><rel type="外の関係" target="ゲーム" sid="wiki00093937-00-01" id="22"/><rel type="=" target="シューティング" sid="wiki00093937-00-01" id="2"/>
-戦う たたかう 戦う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 22D <rel type="ガ" target="不特定:人"/><rel type="デ" target="中" sid="wiki00093937-00-01" id="12"/><rel type="外の関係" target="ゲーム" sid="wiki00093937-00-01" id="22"/><rel type="=" target="シューティング" sid="wiki00093937-00-01" id="2"/><用言:動><時制:非過去>
+戦う たたかう 戦う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 15D
-+ 22D
-コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 23D <rel type="=構" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="修飾" target="コンピュータ" sid="wiki00093937-00-01" id="21"/><rel type="トイウ" target="戦う" sid="wiki00093937-00-01" id="20"/><rel type="トイウ" mode="AND" target="移動でき" sid="wiki00093937-00-01" id="16"/>
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <体言>
+コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 23D <rel type="=構" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="修飾" target="コンピュータ" sid="wiki00093937-00-01" id="21"/><rel type="トイウ" target="戦う" sid="wiki00093937-00-01" id="20"/><rel type="トイウ" mode="AND" target="移動でき" sid="wiki00093937-00-01" id="16"/><体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="ヲ" target="ゲーム" sid="wiki00093937-00-01" id="22"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ -1D <rel type="ガ" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="ヲ" target="ゲーム" sid="wiki00093937-00-01" id="22"/><用言:動><時制:非過去><節-主辞><節-区切>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093937-00-02 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * -1D
-+ 1D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="3"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00093937-00-02" id="0"/><rel type="=" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00093937-00-02" id="0"/>
-FPS えふぴーえす FPS 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="3"/><体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="略称" sid="wiki00093937-00-02" id="0"/><rel type="=" target="ゲーム" sid="wiki00093937-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00093937-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+FPS えふぴーえす FPS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00093937-00-03 括弧始:（ 括弧終:） 括弧位置:59 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * -1D
-+ 1D <rel type="=" target="ファースト" sid="wiki00093937-00-01" id="0"/>
-First First First 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ファースト" sid="wiki00093937-00-01" id="0"/><体言>
+First First First 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 - - - 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="First" sid="wiki00093937-00-03" id="0"/><rel type="=" target="パーソン" sid="wiki00093937-00-01" id="1"/><rel type="=≒" mode="AND" target="視点" sid="wiki00093937-00-01" id="10"/><memo text="括弧の位置から「視点」と繋いだ"/>
-person person person 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="First" sid="wiki00093937-00-03" id="0"/><rel type="=" target="パーソン" sid="wiki00093937-00-01" id="1"/><rel type="=≒" mode="AND" target="視点" sid="wiki00093937-00-01" id="10"/><memo text="括弧の位置から「視点」と繋いだ"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+person person person 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00093937-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:33.00000 MOD:2023/06/06 MEMO:
 * 5D
-+ 8D
-基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <用言:形><時制:非過去>
+基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 2D
-+ 2D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="22"/>
-画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="22"/><体言>
+画面 がめん 画面 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 3D <rel type="ガ" target="の" sid="wiki00093937-01-01" id="3"/><rel type="ニ" target="画面" sid="wiki00093937-01-01" id="1"/>
-表示 ひょうじ 表示 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="の" sid="wiki00093937-01-01" id="3"/><rel type="ニ" target="画面" sid="wiki00093937-01-01" id="1"/><用言:動><時制:非過去><節-主辞>
+表示 ひょうじ 表示 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 + 8D
-の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="22"/>
-プレイヤー ぷれいやー プレイヤー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="プレイヤー" sid="wiki00093937-01-01" id="4"/><rel type="=" target="キャラクター" sid="wiki00093937-00-01" id="8"/><rel type="=構" mode="AND" target="プレイヤー" sid="wiki00093937-01-01" id="4"/>
-キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="ゲーム" sid="wiki00093937-00-01" id="22"/><体言>
+プレイヤー ぷれいやー プレイヤー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="プレイヤー" sid="wiki00093937-01-01" id="4"/><rel type="=" target="キャラクター" sid="wiki00093937-00-01" id="8"/><rel type="=構" mode="AND" target="プレイヤー" sid="wiki00093937-01-01" id="4"/><体言>
+キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 8P <rel type="ノ" target="キャラクター" sid="wiki00093937-01-01" id="5"/><rel type="=構" target="の" sid="wiki00093937-01-01" id="3"/>
-一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="ノ" target="キャラクター" sid="wiki00093937-01-01" id="5"/><rel type="=構" target="の" sid="wiki00093937-01-01" id="3"/><体言>
+一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 8P <rel type="=" target="武器" sid="wiki00093937-00-01" id="17"/><rel type="=構" mode="AND" target="の" sid="wiki00093937-01-01" id="3"/>
-武器 ぶき 武器 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="=" target="武器" sid="wiki00093937-00-01" id="17"/><rel type="=構" mode="AND" target="の" sid="wiki00093937-01-01" id="3"/><体言>
+武器 ぶき 武器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="の" sid="wiki00093937-01-01" id="3"/><rel type="=構" target="の" sid="wiki00093937-01-01" id="3"/>
-道具 どうぐ 道具 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="の" sid="wiki00093937-01-01" id="3"/><rel type="=構" target="の" sid="wiki00093937-01-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+道具 どうぐ 道具 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093937-01-02 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * -1D
-+ -1D <rel type="ノ" target="キャラクター" sid="wiki00093937-01-01" id="5"/><rel type="=≒" target="一部" sid="wiki00093937-01-01" id="6"/>
-腕 うで 腕 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="キャラクター" sid="wiki00093937-01-01" id="5"/><rel type="=≒" target="一部" sid="wiki00093937-01-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+腕 うで 腕 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 EOS

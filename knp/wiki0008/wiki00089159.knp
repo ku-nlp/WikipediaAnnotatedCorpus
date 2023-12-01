@@ -1,58 +1,58 @@
 # S-ID:wiki00089159-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/21 MEMO:
 * 7D
-+ 1D <rel type="ガ" target="不特定:人"/>
-学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="ニツイテ" target="学習" sid="wiki00089159-00-01" id="0"/>
-指導 しどう 指導 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="指導" sid="wiki00089159-00-01" id="1"/>
-要領 ようりょう 要領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+学習 がくしゅう 学習 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="ニツイテ" target="学習" sid="wiki00089159-00-01" id="0"/><体言><非用言格解析:動>
+指導 しどう 指導 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="指導" sid="wiki00089159-00-01" id="1"/><体言>
+要領 ようりょう 要領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <NE:ORGANIZATION:文部科学省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言>
+文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <体言><NE:ORGANIZATION:文部科学省>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 14D <rel type="ガ" target="省" sid="wiki00089159-00-01" id="5"/><rel type="ヲ" target="基準" sid="wiki00089159-00-01" id="14"/>
-告示 こくじ 告示 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="省" sid="wiki00089159-00-01" id="5"/><rel type="ヲ" target="基準" sid="wiki00089159-00-01" id="14"/><用言:動><時制:非過去><節-主辞>
+告示 こくじ 告示 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4P
-+ 8D
-初等 しょとう 初等 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="初等" sid="wiki00089159-00-01" id="7"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <体言>
+初等 しょとう 初等 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="初等" sid="wiki00089159-00-01" id="7"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D
-中等 ちゅうとう 中等 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="中等" sid="wiki00089159-00-01" id="9"/><rel type="=≒" target="教育" sid="wiki00089159-00-01" id="8"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <体言>
+中等 ちゅうとう 中等 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="中等" sid="wiki00089159-00-01" id="9"/><rel type="=≒" target="教育" sid="wiki00089159-00-01" id="8"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 13D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 13D <rel type="=≒" target="教育" sid="wiki00089159-00-01" id="10"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="教育" sid="wiki00089159-00-01" id="12"/><rel type="ニオイテ" target="教育" sid="wiki00089159-00-01" id="8"/><rel type="ニオイテ" mode="AND" target="教育" sid="wiki00089159-00-01" id="10"/>
-課程 かてい 課程 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="=≒" target="教育" sid="wiki00089159-00-01" id="10"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="教育" sid="wiki00089159-00-01" id="12"/><rel type="ニオイテ" target="教育" sid="wiki00089159-00-01" id="8"/><rel type="ニオイテ" mode="AND" target="教育" sid="wiki00089159-00-01" id="10"/><体言>
+課程 かてい 課程 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="要領" sid="wiki00089159-00-01" id="2"/><rel type="ノ" target="課程" sid="wiki00089159-00-01" id="13"/><rel type="=構" target="要領" sid="wiki00089159-00-01" id="2"/>
-基準 きじゅん 基準 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="要領" sid="wiki00089159-00-01" id="2"/><rel type="ノ" target="課程" sid="wiki00089159-00-01" id="13"/><rel type="=構" target="要領" sid="wiki00089159-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+基準 きじゅん 基準 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00089159-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
 * -1P
-+ 1D <rel type="=" target="学習" sid="wiki00089159-00-01" id="0"/><rel type="ガ" target="不特定:人"/>
-がくしゅう がくしゅう がくしゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="=" target="指導" sid="wiki00089159-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
-しどう しどう しどう 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="要領" sid="wiki00089159-00-01" id="2"/>
-ようりょう ようりょう ようりょう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="学習" sid="wiki00089159-00-01" id="0"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+がくしゅう がくしゅう がくしゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="指導" sid="wiki00089159-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
+しどう しどう しどう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="要領" sid="wiki00089159-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ようりょう ようりょう ようりょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

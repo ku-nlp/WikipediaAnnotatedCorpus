@@ -1,284 +1,284 @@
 # S-ID:wiki00060677-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/07/07 MEMO:
 * 4D
-+ 1D
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D
-ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10D <rel type="修飾" target="領" sid="wiki00060677-00-01" id="1"/><NE:LOCATION:アメリカ領ヴァージン諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 3D <体言>
+ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 10D <rel type="修飾" target="領" sid="wiki00060677-00-01" id="1"/><体言><NE:LOCATION:アメリカ領ヴァージン諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <NE:LOCATION:西インド諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 7D <体言><NE:LOCATION:西インド諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ガ" target="領" sid="wiki00060677-00-01" id="10"/><rel type="ニ" target="諸島" sid="wiki00060677-00-01" id="6"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 10D <rel type="ガ" target="領" sid="wiki00060677-00-01" id="10"/><rel type="ニ" target="諸島" sid="wiki00060677-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 10D <rel type="=" target="アメリカ" sid="wiki00060677-00-01" id="0"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="=" target="アメリカ" sid="wiki00060677-00-01" id="0"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 10D <rel type="ガ" target="アメリカ合衆国" sid="wiki00060677-00-01" id="8"/><rel type="ヲ" target="領" sid="wiki00060677-00-01" id="10"/>
-保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="修飾" target="保護" sid="wiki00060677-00-01" id="9"/><memo text="CO"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="アメリカ合衆国" sid="wiki00060677-00-01" id="8"/><rel type="ヲ" target="領" sid="wiki00060677-00-01" id="10"/><体言><非用言格解析:動>
+保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="修飾" target="保護" sid="wiki00060677-00-01" id="9"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/07/12 MEMO:
 * -1D
-+ 1D <rel type="=" target="アメリカ" sid="wiki00060677-00-01" id="0"/>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <rel type="=" target="領" sid="wiki00060677-00-01" id="1"/>
-りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <rel type="=" target="ヴァージン" sid="wiki00060677-00-01" id="2"/>
-ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="諸島" sid="wiki00060677-00-01" id="3"/><NE:LOCATION:アメリカりょうヴァージンしょとう>
-しょとう しょとう しょとう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="アメリカ" sid="wiki00060677-00-01" id="0"/><体言>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <rel type="=" target="領" sid="wiki00060677-00-01" id="1"/><体言>
+りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 3D <rel type="=" target="ヴァージン" sid="wiki00060677-00-01" id="2"/><体言>
+ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ -1D <rel type="=" target="諸島" sid="wiki00060677-00-01" id="3"/><NE:LOCATION:アメリカりょうヴァージンしょとう><体言>
+しょとう しょとう しょとう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00060677-00-03 括弧始:（ 括弧終:） 括弧位置:52 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/07/12 MEMO:
 * -1D
-+ 1D
-自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="自治" sid="wiki00060677-00-03" id="0"/><rel type="=" target="領" sid="wiki00060677-00-01" id="10"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="修飾" target="自治" sid="wiki00060677-00-03" id="0"/><rel type="=" target="領" sid="wiki00060677-00-01" id="10"/><体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00060677-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/10/03 MEMO:
 * 1D
-+ 1D
-ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <rel type="=≒" target="諸島" sid="wiki00060677-00-01" id="3"/><NE:LOCATION:ヴァージン諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <rel type="=≒" target="諸島" sid="wiki00060677-00-01" id="3"/><体言><NE:LOCATION:ヴァージン諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 3D <rel type="ノ" target="諸島" sid="wiki00060677-01" id="1"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="諸島" sid="wiki00060677-01" id="1"/><体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 13P <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="ノ" target="諸島" sid="wiki00060677-01" id="1"/><rel type="修飾" target="西" sid="wiki00060677-01" id="2"/>
-半分 はんぶん 半分 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13P <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="ノ" target="諸島" sid="wiki00060677-01" id="1"/><rel type="修飾" target="西" sid="wiki00060677-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+半分 はんぶん 半分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * 6D
-+ 13D
-かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL
++ 13D <体言>
+かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D
++ 6D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="=" target="西" sid="wiki00060677-00-01" id="4"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 9D <rel type="=" target="インド" sid="wiki00060677-00-01" id="5"/>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10D <rel type="修飾" target="領" sid="wiki00060677-01" id="6"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=" mode="AND" target="諸島" sid="wiki00060677-00-01" id="6"/><NE:LOCATION:デンマーク領西インド諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9D <体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 8D <rel type="=" target="西" sid="wiki00060677-00-01" id="4"/><体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 9D <rel type="=" target="インド" sid="wiki00060677-00-01" id="5"/><体言>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 10D <rel type="修飾" target="領" sid="wiki00060677-01" id="6"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=" mode="AND" target="諸島" sid="wiki00060677-00-01" id="6"/><体言><NE:LOCATION:デンマーク領西インド諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 13D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 13D <rel type="=" target="デンマーク" sid="wiki00060677-01" id="5"/><NE:LOCATION:デンマーク>
-デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <rel type="=" target="デンマーク" sid="wiki00060677-01" id="5"/><体言><NE:LOCATION:デンマーク>
+デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 13D <rel type="ガ" target="デンマーク" sid="wiki00060677-01" id="11"/><rel type="ニ" target="地" sid="wiki00060677-01" id="13"/>
-植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="ノ" target="デンマーク" sid="wiki00060677-01" id="11"/><rel type="ノ？" target="植民" sid="wiki00060677-01" id="12"/><rel type="時間" target="かつて" sid="wiki00060677-01" id="4"/><rel type="トシテ" target="諸島" sid="wiki00060677-01" id="9"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="デンマーク" sid="wiki00060677-01" id="11"/><rel type="ニ" target="地" sid="wiki00060677-01" id="13"/><体言><非用言格解析:動>
+植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="ノ" target="デンマーク" sid="wiki00060677-01" id="11"/><rel type="ノ？" target="植民" sid="wiki00060677-01" id="12"/><rel type="時間" target="かつて" sid="wiki00060677-01" id="4"/><rel type="トシテ" target="諸島" sid="wiki00060677-01" id="9"/><rel type="=構" target="諸島" sid="wiki00060677-00-01" id="3"/><用言:判><体言><節-主辞><節-区切><時制:過去>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/10/03 MEMO:
 * 4D
-+ 5D <rel type="=" target="デンマーク" sid="wiki00060677-01" id="11"/><NE:LOCATION:デンマーク>
-デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <rel type="=" target="デンマーク" sid="wiki00060677-01" id="11"/><体言><NE:LOCATION:デンマーク>
+デンマーク でんまーく デンマーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="植民" sid="wiki00060677-01" id="12"/>
-植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="=" target="地" sid="wiki00060677-01" id="13"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="植民" sid="wiki00060677-01" id="12"/><体言><非用言格解析:動>
+植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="地" sid="wiki00060677-01" id="13"/><体言>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 4D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="トシテ" target="地" sid="wiki00060677-02" id="2"/><rel type="ヘ" target="諸島" sid="wiki00060677-01" id="9"/>
-関心 かんしん 関心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="トシテ" target="地" sid="wiki00060677-02" id="2"/><rel type="ヘ" target="諸島" sid="wiki00060677-01" id="9"/><体言>
+関心 かんしん 関心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="デンマーク" sid="wiki00060677-02" id="0"/><rel type="ヲ" target="関心" sid="wiki00060677-02" id="4"/><rel type="時間" target="初頭" sid="wiki00060677-02" id="7"/>
-失った うしなった 失う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
++ 7D <rel type="ガ" target="デンマーク" sid="wiki00060677-02" id="0"/><rel type="ヲ" target="関心" sid="wiki00060677-02" id="4"/><rel type="時間" target="初頭" sid="wiki00060677-02" id="7"/><用言:動><時制:過去><節-主辞>
+失った うしなった 失う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 7D
-+ 7D
-20 にじゅっ 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 7D <体言>
+20 にじゅっ 20 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 9D <rel type="ノ" target="20世紀" sid="wiki00060677-02" id="6"/><NE:DATE:20世紀初頭>
-初頭 しょとう 初頭 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 9D <rel type="ノ" target="20世紀" sid="wiki00060677-02" id="6"/><体言><NE:DATE:20世紀初頭>
+初頭 しょとう 初頭 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="アメリカ合衆国" sid="wiki00060677-02" id="8"/><rel type="ヲ" target="諸島" sid="wiki00060677-01" id="9"/><rel type="カラ" target="デンマーク" sid="wiki00060677-02" id="0"/><rel type="時間" target="初頭" sid="wiki00060677-02" id="7"/>
-買収 ばいしゅう 買収 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="アメリカ合衆国" sid="wiki00060677-02" id="8"/><rel type="ヲ" target="諸島" sid="wiki00060677-01" id="9"/><rel type="カラ" target="デンマーク" sid="wiki00060677-02" id="0"/><rel type="時間" target="初頭" sid="wiki00060677-02" id="7"/><用言:動><節-主辞><節-区切><時制:過去>
+買収 ばいしゅう 買収 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 9D
-+ 11D
-今 いま 今 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 11D <体言>
+今 いま 今 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="今" sid="wiki00060677-02" id="10"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="今" sid="wiki00060677-02" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/03 MEMO:
 * 1D
-+ 4D <rel type="ノ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="西" sid="wiki00060677-01" id="2"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="西" sid="wiki00060677-01" id="2"/><体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="ノ" target="イギリス" sid="wiki00060677-03" id="1"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D
-ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="東" sid="wiki00060677-03" id="0"/><rel type="修飾" target="領" sid="wiki00060677-03" id="2"/><rel type="=構" target="東" sid="wiki00060677-03" id="0"/><NE:LOCATION:イギリス領ヴァージン諸島>
-諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="ノ" target="イギリス" sid="wiki00060677-03" id="1"/><体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 4D <体言>
+ヴァージン ゔぁーじん ヴァージン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ -1D <rel type="ガ" target="東" sid="wiki00060677-03" id="0"/><rel type="修飾" target="領" sid="wiki00060677-03" id="2"/><rel type="=構" target="東" sid="wiki00060677-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:イギリス領ヴァージン諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/10/03 MEMO:
 * 1D
-+ 1D
++ 1D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 2D <rel type="ガ" target="の" sid="wiki00060677-04" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="島" sid="wiki00060677-04" id="0"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ 2D <rel type="ガ" target="の" sid="wiki00060677-04" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="島" sid="wiki00060677-04" id="0"/><用言:動><時制:非過去><節-主辞>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 + 4D <rel type="=構" target="島" sid="wiki00060677-04" id="0"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="島" sid="wiki00060677-04" id="0"/>
-40 よんじゅう 40 名詞 6 数詞 7 * 0 * 0 NIL
++ 4D <rel type="ノ" target="島" sid="wiki00060677-04" id="0"/><体言>
+40 よんじゅう 40 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 程度 ていど 程度 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="の" sid="wiki00060677-04" id="2"/><rel type="ニ" target="諸島" sid="wiki00060677-00-01" id="3"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="の" sid="wiki00060677-04" id="2"/><rel type="ニ" target="諸島" sid="wiki00060677-00-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ノ" target="40" sid="wiki00060677-04" id="3"/>
-ほとんど ほとんど ほとんど 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="40" sid="wiki00060677-04" id="3"/><体言>
+ほとんど ほとんど ほとんど 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 7D
-無人 むじん 無人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ほとんど" sid="wiki00060677-04" id="5"/><rel type="ノ？" target="無人" sid="wiki00060677-04" id="6"/><rel type="=構" target="ほとんど" sid="wiki00060677-04" id="5"/>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+無人 むじん 無人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ほとんど" sid="wiki00060677-04" id="5"/><rel type="ノ？" target="無人" sid="wiki00060677-04" id="6"/><rel type="=構" target="ほとんど" sid="wiki00060677-04" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2023/10/03 MEMO:
 * 1D
-+ 1D
-人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="ガ" target="人" sid="wiki00060677-05" id="0"/><rel type="ニ" target="島" sid="wiki00060677-05" id="7"/>
-住み すみ 住む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL
++ 5P <rel type="ガ" target="人" sid="wiki00060677-05" id="0"/><rel type="ニ" target="島" sid="wiki00060677-05" id="7"/><用言:動><節-主辞><節-区切>
+住み すみ 住む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="客" sid="wiki00060677-05" id="4"/><rel type="ヲ" target="島" sid="wiki00060677-05" id="7"/>
-観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="一般" sid="wiki00060677-05" id="2"/><rel type="修飾" mode="AND" target="観光" sid="wiki00060677-05" id="3"/>
-客 きゃく 客 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="客" sid="wiki00060677-05" id="4"/><rel type="ヲ" target="島" sid="wiki00060677-05" id="7"/><体言><非用言格解析:動>
+観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="修飾" target="一般" sid="wiki00060677-05" id="2"/><rel type="修飾" mode="AND" target="観光" sid="wiki00060677-05" id="3"/><体言>
+客 きゃく 客 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="客" sid="wiki00060677-05" id="4"/><rel type="ヲ" target="島" sid="wiki00060677-05" id="7"/>
-訪れる おとずれる 訪れる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 7D <rel type="ガ" target="客" sid="wiki00060677-05" id="4"/><rel type="ヲ" target="島" sid="wiki00060677-05" id="7"/><用言:動><時制:非過去><節-主辞>
+訪れる おとずれる 訪れる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 ような ような ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 6D
-+ 7D <rel type="ガ" target="島" sid="wiki00060677-05" id="7"/>
-主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 7D <rel type="ガ" target="島" sid="wiki00060677-05" id="7"/><用言:形><時制:非過去>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 10D
-+ 17D <rel type="修飾" target="主要な" sid="wiki00060677-05" id="6"/><rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/>
-島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="修飾" target="主要な" sid="wiki00060677-05" id="6"/><rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><体言>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8P
-+ 9D
-セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <体言>
+セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10D
-トーマス とーます トーマス 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13P <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><NE:LOCATION:セント・トーマス島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <体言>
+トーマス とーます トーマス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 13P <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><体言><NE:LOCATION:セント・トーマス島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9P
-+ 12D
-セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 12D <体言>
+セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13D
-クロイ くろい クロイ 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 16P <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><NE:LOCATION:セント・クロイ島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 13D <体言>
+クロイ くろい クロイ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 16P <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><体言><NE:LOCATION:セント・クロイ島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 15D
-セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <体言>
+セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 16D
-ジョン じょん ジョン 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 17D <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><NE:LOCATION:セント・ジョン島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 16D <体言>
+ジョン じょん ジョン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 17D <rel type="ノ？" target="諸島" sid="wiki00060677-00-01" id="3"/><rel type="=≒" target="島" sid="wiki00060677-05" id="7"/><体言><NE:LOCATION:セント・ジョン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="島" sid="wiki00060677-05" id="7"/><rel type="=構" target="島" sid="wiki00060677-05" id="7"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="10"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="13"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="16"/><memo text="SE"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="島" sid="wiki00060677-05" id="7"/><rel type="=構" target="島" sid="wiki00060677-05" id="7"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="10"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="13"/><rel type="=≒" mode="AND" target="島" sid="wiki00060677-05" id="16"/><memo text="SE"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00060677-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/03 MEMO:
 * 2D
-+ 5D <rel type="ノ" target="諸島" sid="wiki00060677-00-01" id="3"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="諸島" sid="wiki00060677-00-01" id="3"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="セント" sid="wiki00060677-05" id="8"/>
-セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="セント" sid="wiki00060677-05" id="8"/><体言>
+セント せんと セント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <rel type="=" target="トーマス" sid="wiki00060677-05" id="9"/>
-トーマス とーます トーマス 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="=" target="島" sid="wiki00060677-05" id="10"/><NE:LOCATION:セント・トーマス島>
-島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <rel type="=" target="トーマス" sid="wiki00060677-05" id="9"/><体言>
+トーマス とーます トーマス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 5D <rel type="=" target="島" sid="wiki00060677-05" id="10"/><体言><NE:LOCATION:セント・トーマス島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D
-シャーロット しゃーろっと シャーロット 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <体言>
+シャーロット しゃーろっと シャーロット 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="首都" sid="wiki00060677-06" id="0"/><rel type="=構" target="首都" sid="wiki00060677-06" id="0"/><rel type="ノ？" target="島" sid="wiki00060677-06" id="3"/><memo text="CO"/><NE:LOCATION:シャーロット・アマリー>
-アマリー あまりー アマリー 名詞 6 人名 5 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="首都" sid="wiki00060677-06" id="0"/><rel type="=構" target="首都" sid="wiki00060677-06" id="0"/><rel type="ノ？" target="島" sid="wiki00060677-06" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:シャーロット・アマリー>
+アマリー あまりー アマリー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

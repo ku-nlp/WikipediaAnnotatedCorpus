@@ -1,112 +1,112 @@
 # S-ID:wiki00210377-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2022/11/02 MEMO:
 * 24D
-+ 25D
-障子 しょうじ 障子 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 25D <体言>
+障子 しょうじ 障子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 3D <NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
-和風 わふう 和風 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="時間" target="現在" sid="wiki00210377-00-01" id="1"/><rel type="修飾" target="和風" sid="wiki00210377-00-01" id="2"/>
-建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
+和風 わふう 和風 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="時間" target="現在" sid="wiki00210377-00-01" id="1"/><rel type="修飾" target="和風" sid="wiki00210377-00-01" id="2"/><体言><非用言格解析:動>
+建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 5D
-明かり あかり 明かり 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+明かり あかり 明かり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="もの" sid="wiki00210377-00-01" id="11"/><rel type="ヲ" target="明かり" sid="wiki00210377-00-01" id="4"/>
-通す とおす 通す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 10D <rel type="ガ" target="もの" sid="wiki00210377-00-01" id="11"/><rel type="ヲ" target="明かり" sid="wiki00210377-00-01" id="4"/><用言:動><時制:非過去>
+通す とおす 通す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 9D
-+ 10D <rel type="ノ" target="もの" sid="wiki00210377-00-01" id="11"/>
-木枠 きわく 木枠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="もの" sid="wiki00210377-00-01" id="11"/><体言>
+木枠 きわく 木枠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P
-紙 かみ 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <体言>
+紙 かみ 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 9D
-主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 9D <用言:形><時制:非過去>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 9D
-+ 10D <rel type="=≒" target="紙" sid="wiki00210377-00-01" id="7"/>
-和紙 わし 和紙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=≒" target="紙" sid="wiki00210377-00-01" id="7"/><体言>
+和紙 わし 和紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="木枠" sid="wiki00210377-00-01" id="6"/><rel type="ヲ" target="和紙" sid="wiki00210377-00-01" id="9"/><rel type="ヲ" mode="AND" target="紙" sid="wiki00210377-00-01" id="7"/><rel type="外の関係" target="もの" sid="wiki00210377-00-01" id="11"/>
-貼って はって 貼る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="木枠" sid="wiki00210377-00-01" id="6"/><rel type="ヲ" target="和紙" sid="wiki00210377-00-01" id="9"/><rel type="ヲ" mode="AND" target="紙" sid="wiki00210377-00-01" id="7"/><rel type="外の関係" target="もの" sid="wiki00210377-00-01" id="11"/><用言:動><時制:非過去><節-主辞>
+貼って はって 貼る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 11D
-+ 12D <rel type="=構" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="トイウ" target="貼っている" sid="wiki00210377-00-01" id="10"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 12D <rel type="=構" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="トイウ" target="貼っている" sid="wiki00210377-00-01" id="10"/><体言>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 24P
-+ 25P <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="ヲ" target="もの" sid="wiki00210377-00-01" id="11"/><rel type="デ" target="建築" sid="wiki00210377-00-01" id="3"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 25P <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="ヲ" target="もの" sid="wiki00210377-00-01" id="11"/><rel type="デ" target="建築" sid="wiki00210377-00-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 24D
-+ 25D
-元々 もともと 元々 副詞 8 * 0 * 0 * 0 NIL
++ 25D <体言>
+元々 もともと 元々 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 14D
-+ 15D <rel type="ガ" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
-さえぎる さえぎる さえぎる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 15D <rel type="ガ" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><用言:動><時制:非過去>
+さえぎる さえぎる さえぎる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 15D
-+ 16D <rel type="=構" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="修飾" target="さえぎる" sid="wiki00210377-00-01" id="14"/>
-道具 どうぐ 道具 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="=構" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="修飾" target="さえぎる" sid="wiki00210377-00-01" id="14"/><体言>
+道具 どうぐ 道具 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 24P
-+ 25P <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="トイウ" target="道具" sid="wiki00210377-00-01" id="15"/>
-意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 25P <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="トイウ" target="道具" sid="wiki00210377-00-01" id="15"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23D
-+ 24D <rel type="=" target="現在" sid="wiki00210377-00-01" id="1"/>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 24D <rel type="=" target="現在" sid="wiki00210377-00-01" id="1"/><体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 18P
-+ 19P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><memo text="ここから襖まで　障子≒構　でいい？"/>
-ドア どあ ドア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><memo text="ここから襖まで　障子≒構　でいい？"/><体言>
+ドア どあ ドア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 19P
-+ 20P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-戸 と 戸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+戸 と 戸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 20P
-+ 21P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-カーテン かーてん カーテン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+カーテン かーてん カーテン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 21P
-+ 22P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-ブラインド ぶらいんど ブラインド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+ブラインド ぶらいんど ブラインド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 22P
-+ 23P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-衝立 ついたて 衝立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 23P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+衝立 ついたて 衝立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23P
-+ 24P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-屏風 びょうぶ 屏風 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24P <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+屏風 びょうぶ 屏風 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 24D
-+ 25D <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/>
-襖 ふすま 襖 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 25D <rel type="時間" target="現在" sid="wiki00210377-00-01" id="17"/><rel type="=≒" target="道具" sid="wiki00210377-00-01" id="15"/><rel type="=構≒" mode="AND" target="障子" sid="wiki00210377-00-01" id="0"/><体言>
+襖 ふすま 襖 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="ヲ" target="ドア" sid="wiki00210377-00-01" id="18"/><rel type="ヲ" mode="AND" target="戸" sid="wiki00210377-00-01" id="19"/><rel type="ヲ" mode="AND" target="カーテン" sid="wiki00210377-00-01" id="20"/><rel type="ヲ" mode="AND" target="ブラインド" sid="wiki00210377-00-01" id="21"/><rel type="ヲ" mode="AND" target="衝立" sid="wiki00210377-00-01" id="22"/><rel type="ヲ" mode="AND" target="屏風" sid="wiki00210377-00-01" id="23"/><rel type="ヲ" mode="AND" target="襖" sid="wiki00210377-00-01" id="24"/>
-含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
++ -1D <rel type="ガ" target="障子" sid="wiki00210377-00-01" id="0"/><rel type="ヲ" target="ドア" sid="wiki00210377-00-01" id="18"/><rel type="ヲ" mode="AND" target="戸" sid="wiki00210377-00-01" id="19"/><rel type="ヲ" mode="AND" target="カーテン" sid="wiki00210377-00-01" id="20"/><rel type="ヲ" mode="AND" target="ブラインド" sid="wiki00210377-00-01" id="21"/><rel type="ヲ" mode="AND" target="衝立" sid="wiki00210377-00-01" id="22"/><rel type="ヲ" mode="AND" target="屏風" sid="wiki00210377-00-01" id="23"/><rel type="ヲ" mode="AND" target="襖" sid="wiki00210377-00-01" id="24"/><用言:動><時制:非過去><節-主辞><節-区切>
+含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00210377-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/02 MEMO:
 * -1D
-+ -1D <rel type="=" target="障子" sid="wiki00210377-00-01" id="0"/>
-しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="障子" sid="wiki00210377-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

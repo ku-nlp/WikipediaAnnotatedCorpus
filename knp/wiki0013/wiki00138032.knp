@@ -1,83 +1,83 @@
 # S-ID:wiki00138032-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/22 MEMO:
 * 6D
-+ 1D <memo text="品詞？「フラマン」もともとはフランドル伯領に住む住民をさした言葉らしい"/><NE:OPTIONAL:フラマン>
-フラマン ふらまん フラマン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 11D <rel type="ノ？" target="フラマン" sid="wiki00138032-00-01" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <memo text="品詞？「フラマン」もともとはフランドル伯領に住む住民をさした言葉らしい"/><体言><NE:OPTIONAL:フラマン>
+フラマン ふらまん フラマン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 11D <rel type="ノ？" target="フラマン" sid="wiki00138032-00-01" id="0"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 5P <NE:LOCATION:ベルギー>
-ベルギー べるぎー ベルギー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5P <体言><NE:LOCATION:ベルギー>
+ベルギー べるぎー ベルギー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="フランス" sid="wiki00138032-00-01" id="3"/>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="フランス" sid="wiki00138032-00-01" id="3"/><rel type="ノ？" target="北東" sid="wiki00138032-00-01" id="4"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <rel type="ノ" target="フランス" sid="wiki00138032-00-01" id="3"/><体言>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="フランス" sid="wiki00138032-00-01" id="3"/><rel type="ノ？" target="北東" sid="wiki00138032-00-01" id="4"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="系統" sid="wiki00138032-00-01" id="10"/><rel type="デ" target="ベルギー" sid="wiki00138032-00-01" id="2"/><rel type="デ" mode="AND" target="部" sid="wiki00138032-00-01" id="5"/>
-話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 10D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="系統" sid="wiki00138032-00-01" id="10"/><rel type="デ" target="ベルギー" sid="wiki00138032-00-01" id="2"/><rel type="デ" mode="AND" target="部" sid="wiki00138032-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
+話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 9D
-低地 ていち 低地 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <memo text="品詞？ドイツ北西部（デュッセルドルフ北側のラインラント北部）、オランダ、ベルギー、フランス北部の県、および旧オランダ植民地で話される言語の総称（wiki）。"/><NE:OPTIONAL:フランク>
-フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 10D <rel type="修飾" target="低地" sid="wiki00138032-00-01" id="7"/><rel type="ノ？" target="フランク" sid="wiki00138032-00-01" id="8"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+低地 ていち 低地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <memo text="品詞？ドイツ北西部（デュッセルドルフ北側のラインラント北部）、オランダ、ベルギー、フランス北部の県、および旧オランダ植民地で話される言語の総称（wiki）。"/><体言><NE:OPTIONAL:フランク>
+フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 10D <rel type="修飾" target="低地" sid="wiki00138032-00-01" id="7"/><rel type="ノ？" target="フランク" sid="wiki00138032-00-01" id="8"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ノ" target="語" sid="wiki00138032-00-01" id="9"/><rel type="=≒" target="語" sid="wiki00138032-00-01" id="1"/>
-系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="語" sid="wiki00138032-00-01" id="9"/><rel type="=≒" target="語" sid="wiki00138032-00-01" id="1"/><体言>
+系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00138032-00-01" id="1"/><rel type="ノ" target="系統" sid="wiki00138032-00-01" id="10"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/><memo text="CO"/>
-呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00138032-00-01" id="1"/><rel type="ノ" target="系統" sid="wiki00138032-00-01" id="10"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00138032-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/22 MEMO:
 * -1D
-+ 1D <NE:OPTIONAL:フラマン>
-フラマン ふらまん フラマン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="ノ？" target="フラマン" sid="wiki00138032-00-02" id="0"/><rel type="=" target="語" sid="wiki00138032-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:フラマン>
+フラマン ふらまん フラマン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="ノ？" target="フラマン" sid="wiki00138032-00-02" id="0"/><rel type="=" target="語" sid="wiki00138032-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00138032-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2022/07/22 MEMO:
 * 5D
-+ 7D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <用言:形><時制:非過去>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="ベルギー" sid="wiki00138032-00-01" id="2"/><NE:LOCATION:ベルギー>
-ベルギー べるぎー ベルギー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="=" target="ベルギー" sid="wiki00138032-00-01" id="2"/><体言><NE:LOCATION:ベルギー>
+ベルギー べるぎー ベルギー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="語" sid="wiki00138032-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="ベルギー" sid="wiki00138032-01" id="1"/>
-話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 4D <rel type="ガ" target="語" sid="wiki00138032-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="ベルギー" sid="wiki00138032-01" id="1"/><用言:動><時制:非過去><節-主辞>
+話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
-+ 4D <NE:OPTIONAL:オランダ>
-オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 5D <rel type="ノ？" target="オランダ" sid="wiki00138032-01" id="3"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:OPTIONAL:オランダ>
+オランダ おらんだ オランダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="オランダ" sid="wiki00138032-01" id="3"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="方" sid="wiki00138032-01" id="7"/><rel type="ヲ" target="語" sid="wiki00138032-01" id="4"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 7D <rel type="ガ" target="方" sid="wiki00138032-01" id="7"/><rel type="ヲ" target="語" sid="wiki00138032-01" id="4"/><用言:動><時制:非過去><節-主辞>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00138032-01" id="4"/><rel type="デ" target="方" sid="wiki00138032-01" id="7"/><rel type="ト" target="語" sid="wiki00138032-00-01" id="1"/>
-呼び よび 呼び 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="語" sid="wiki00138032-00-01" id="1"/><rel type="ノ" target="呼び" sid="wiki00138032-01" id="6"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/>
-方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00138032-01" id="4"/><rel type="デ" target="方" sid="wiki00138032-01" id="7"/><rel type="ト" target="語" sid="wiki00138032-00-01" id="1"/><体言>
+呼び よび 呼び 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="語" sid="wiki00138032-00-01" id="1"/><rel type="ノ" target="呼び" sid="wiki00138032-01" id="6"/><rel type="=構" target="語" sid="wiki00138032-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

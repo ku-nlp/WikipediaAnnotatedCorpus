@@ -1,121 +1,121 @@
 # S-ID:wiki00140910-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/27 MEMO:
 * 2D
-+ 1D
-アトランタ あとらんた アトランタ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+アトランタ あとらんた アトランタ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:アトランタ・ブレーブス>
-ブレーブス ぶれーぶす ブレーブス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言><NE:ORGANIZATION:アトランタ・ブレーブス>
+ブレーブス ぶれーぶす ブレーブス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ？" target="ベースボール" sid="wiki00140910-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00140910-00-01" id="5"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 9D <rel type="ノ" target="リーグ" sid="wiki00140910-00-01" id="6"/><rel type="修飾" target="東" sid="wiki00140910-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ東地区>
-地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 12D <rel type="ガ" target="チーム" sid="wiki00140910-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00140910-00-01" id="8"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言>
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4D <体言>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <rel type="ノ？" target="ベースボール" sid="wiki00140910-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00140910-00-01" id="5"/><体言>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00140910-00-01" id="6"/><rel type="修飾" target="東" sid="wiki00140910-00-01" id="7"/><体言><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ東地区>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 12D <rel type="ガ" target="チーム" sid="wiki00140910-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00140910-00-01" id="8"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="プロ" sid="wiki00140910-00-01" id="10"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00140910-00-01" id="11"/><rel type="=構" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><memo text="CO"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="プロ" sid="wiki00140910-00-01" id="10"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00140910-00-01" id="11"/><rel type="=構" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140910-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/27 MEMO:
 * -1D
-+ 1D <rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><体言>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00140910-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00140910-00-02" id="0"/><rel type="=" mode="AND" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><NE:ORGANIZATION:ATL>
-ATL ATL ATL 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00140910-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00140910-00-02" id="0"/><rel type="=" mode="AND" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ATL>
+ATL ATL ATL 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00140910-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/27 MEMO:
 * 1D
 + 1D
-以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ベースボール" sid="wiki00140910-00-01" id="4"/><NE:OPTIONAL:MLB>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ベースボール" sid="wiki00140910-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:MLB>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00140910-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/07/27 MEMO:
 * 4D
-+ 1D <rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/>
-本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="修飾" target="本拠" sid="wiki00140910-01" id="0"/><rel type="ノ？" target="ブレーブス" sid="wiki00140910-00-01" id="1"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><体言>
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="修飾" target="本拠" sid="wiki00140910-01" id="0"/><rel type="ノ？" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><体言>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
-ジョージア じょーじあ ジョージア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言>
+ジョージア じょーじあ ジョージア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="=" target="アトランタ" sid="wiki00140910-00-01" id="0"/><rel type="ノ？" target="ジョージア州" sid="wiki00140910-01" id="2"/><NE:LOCATION:ジョージア州アトランタ>
-アトランタ あとらんた アトランタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <rel type="=" target="アトランタ" sid="wiki00140910-00-01" id="0"/><rel type="ノ？" target="ジョージア州" sid="wiki00140910-01" id="2"/><体言><NE:LOCATION:ジョージア州アトランタ>
+アトランタ あとらんた アトランタ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ" target="アトランタ" sid="wiki00140910-01" id="3"/>
-郊外 こうがい 郊外 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="アトランタ" sid="wiki00140910-01" id="3"/><体言>
+郊外 こうがい 郊外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="パーク" sid="wiki00140910-01" id="7"/><rel type="ニ" target="郊外" sid="wiki00140910-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="パーク" sid="wiki00140910-01" id="7"/><rel type="ニ" target="郊外" sid="wiki00140910-01" id="4"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 7D <memo text="命名権を買った組織の名前なので、組織名にしておく"/>
-トゥルーイスト とぅるーいすと トゥルーイスト 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <memo text="命名権を買った組織の名前なので、組織名にしておく"/><体言>
+トゥルーイスト とぅるーいすと トゥルーイスト 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="地" sid="wiki00140910-01" id="1"/><rel type="=構" target="地" sid="wiki00140910-01" id="1"/><memo text="CO"/><NE:LOCATION:トゥルーイスト・パーク>
-パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="地" sid="wiki00140910-01" id="1"/><rel type="=構" target="地" sid="wiki00140910-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:トゥルーイスト・パーク>
+パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140910-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2022/07/27 MEMO:
 * 4D
-+ 5D <NE:DATE:1871年>
-1871 せんはっぴゃくななじゅういち 1871 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 5D <体言><NE:DATE:1871年>
+1871 せんはっぴゃくななじゅういち 1871 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
-ボストン ぼすとん ボストン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <体言>
+ボストン ぼすとん ボストン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=≒" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><NE:ORGANIZATION:ボストン・レッドストッキングス>
-レッドストッキングス れっどすとっきんぐす レッドストッキングス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <rel type="=≒" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><体言><NE:ORGANIZATION:ボストン・レッドストッキングス>
+レッドストッキングス れっどすとっきんぐす レッドストッキングス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 4D <用言:動><時制:非過去>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="トイウ" target="レッドストッキングス" sid="wiki00140910-02" id="2"/><rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/>
-名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="トイウ" target="レッドストッキングス" sid="wiki00140910-02" id="2"/><rel type="ノ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><体言>
+名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1871年" sid="wiki00140910-02" id="0"/><rel type="デ" target="名" sid="wiki00140910-02" id="4"/>
-創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1871年" sid="wiki00140910-02" id="0"/><rel type="デ" target="名" sid="wiki00140910-02" id="4"/><用言:動><時制:過去><節-主辞><節-区切>
+創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00140910-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/07/27 MEMO:
 * 1D
-+ 1D <rel type="=" target="MLB" sid="wiki00140910-00-03" id="1"/><NE:OPTIONAL:MLB>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 1D <rel type="=" target="MLB" sid="wiki00140910-00-03" id="1"/><体言><NE:OPTIONAL:MLB>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 * 2D
-+ 2D <rel type="ガ" target="球団" sid="wiki00140910-03" id="2"/><rel type="デ" target="MLB" sid="wiki00140910-03" id="0"/>
-最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 2D <rel type="ガ" target="球団" sid="wiki00140910-03" id="2"/><rel type="デ" target="MLB" sid="wiki00140910-03" id="0"/><用言:形><時制:非過去>
+最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="=構" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="修飾" target="最古の" sid="wiki00140910-03" id="1"/><memo text="CO"/>
-球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="=構" target="ブレーブス" sid="wiki00140910-00-01" id="1"/><rel type="修飾" target="最古の" sid="wiki00140910-03" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

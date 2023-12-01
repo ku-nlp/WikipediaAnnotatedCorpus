@@ -1,110 +1,110 @@
 # S-ID:wiki00071917-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/19 MEMO:
 * 6D
-+ 1D
-金田 かねだ 金田 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+金田 かねだ 金田 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 19D <NE:PERSON:金田　正一>
-正一 まさいち 正一 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 19D <体言><NE:PERSON:金田　正一>
+正一 まさいち 正一 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="ノ？" target="愛知県" sid="wiki00071917-00-01" id="2"/>
-中島 なかしま 中島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="ノ？" target="愛知県" sid="wiki00071917-00-01" id="2"/><体言>
+中島 なかしま 中島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 郡 ぐん 郡 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="中島郡" sid="wiki00071917-00-01" id="3"/><NE:LOCATION:愛知県中島郡平和村>
-平和 へいわ 平和 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="中島郡" sid="wiki00071917-00-01" id="3"/><体言><NE:LOCATION:愛知県中島郡平和村>
+平和 へいわ 平和 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 村 むら 村 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 * 3P
-+ 8P <rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="デ" target="平和村" sid="wiki00071917-00-01" id="4"/>
-生まれ うまれ 生まれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 8P <rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="デ" target="平和村" sid="wiki00071917-00-01" id="4"/><用言:動><節-主辞><節-区切>
+生まれ うまれ 生まれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <体言>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="名古屋市" sid="wiki00071917-00-01" id="6"/><memo text="「北C区s」にする？したいが、形態素情報の編集ができないので今はこのまま。「北区」でJUMAN登録あり。"/><NE:LOCATION:名古屋市北区>
-北区 きたく きたく 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 19D <rel type="ノ" target="北区" sid="wiki00071917-00-01" id="7"/><rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/>
-出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="名古屋市" sid="wiki00071917-00-01" id="6"/><memo text="「北C区s」にする？したいが、形態素情報の編集ができないので今はこのまま。「北区」でJUMAN登録あり。"/><体言><NE:LOCATION:名古屋市北区>
+北区 きたく きたく 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 19D <rel type="ノ" target="北区" sid="wiki00071917-00-01" id="7"/><rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/><体言>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 10D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="プロ" sid="wiki00071917-00-01" id="9"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ノ" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/>
-選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="プロ" sid="wiki00071917-00-01" id="9"/><体言>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="ノ" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/><体言>
+選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/>
-監督 かんとく 監督 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/><体言><非用言格解析:動>
+監督 かんとく 監督 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 14D <rel type="ガ" target="者" sid="wiki00071917-00-01" id="14"/><rel type="ニツイテ" target="野球" sid="wiki00071917-00-01" id="10"/>
-解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="者" sid="wiki00071917-00-01" id="14"/><rel type="ニツイテ" target="野球" sid="wiki00071917-00-01" id="10"/><体言><非用言格解析:動>
+解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 16P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="ノ？" mode="AND" target="解説" sid="wiki00071917-00-01" id="13"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <rel type="ニツイテ" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="ガ" target="家" sid="wiki00071917-00-01" id="16"/>
-評論 ひょうろん 評論 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 19P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="ノ？" mode="AND" target="評論" sid="wiki00071917-00-01" id="15"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 16D <rel type="ニツイテ" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="ガ" target="家" sid="wiki00071917-00-01" id="16"/><体言><非用言格解析:動>
+評論 ひょうろん 評論 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 19P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00071917-00-01" id="10"/><rel type="ノ？" mode="AND" target="評論" sid="wiki00071917-00-01" id="15"/><体言>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 18D
-実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <体言>
+実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 19P <rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="ノ？" target="実業" sid="wiki00071917-00-01" id="17"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="修飾" target="生まれ" sid="wiki00071917-00-01" id="5"/><rel type="修飾" mode="AND" target="出身" sid="wiki00071917-00-01" id="8"/><memo text="CO"/>
-タレント たれんと タレント 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="=構" target="正一" sid="wiki00071917-00-01" id="1"/><rel type="修飾" target="生まれ" sid="wiki00071917-00-01" id="5"/><rel type="修飾" mode="AND" target="出身" sid="wiki00071917-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+タレント たれんと タレント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00071917-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * 2P
-+ 1D <rel type="=" target="金田" sid="wiki00071917-00-01" id="0"/>
-かねだ かねだ かねだ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="金田" sid="wiki00071917-00-01" id="0"/><体言>
+かねだ かねだ かねだ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 7P <rel type="=" target="正一" sid="wiki00071917-00-01" id="1"/><NE:PERSON:かねだ　まさいち>
-まさいち まさいち まさいち 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 7P <rel type="=" target="正一" sid="wiki00071917-00-01" id="1"/><体言><NE:PERSON:かねだ　まさいち>
+まさいち まさいち まさいち 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-1933 せんきゅうひゃくさんじゅうさん 1933 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 3D <体言>
+1933 せんきゅうひゃくさんじゅうさん 1933 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 4D
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <体言>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7P <NE:DATE:1933年8月1日>
-1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7P <体言><NE:DATE:1933年8月1日>
+1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 6D
-2019 にせんじゅうく/にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 6D <体言>
+2019 にせんじゅうく/にせんじゅうきゅう 2019 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D
-10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言>
+10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="カラ" target="1日" sid="wiki00071917-00-02" id="4"/><NE:DATE:2019年10月6日>
-6 ろく/むい 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="1日" sid="wiki00071917-00-02" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:2019年10月6日>
+6 ろく/むい 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち/か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00071917-00-03 括弧始:（ 括弧終:） 括弧位置:49 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * -1D
-+ 1D
-現 げん 現 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+現 げん 現 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="時間" target="現" sid="wiki00071917-00-03" id="0"/><rel type="=≒" target="平和村" sid="wiki00071917-00-01" id="4"/><rel type="ノ？" target="愛知県" sid="wiki00071917-00-01" id="2"/><NE:LOCATION:稲沢市>
-稲沢 いなざわ 稲沢 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="時間" target="現" sid="wiki00071917-00-03" id="0"/><rel type="=≒" target="平和村" sid="wiki00071917-00-01" id="4"/><rel type="ノ？" target="愛知県" sid="wiki00071917-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:稲沢市>
+稲沢 いなざわ 稲沢 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00071917-00-04 括弧始:（ 括弧終:） 括弧位置:75 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * -1D
-+ -1D <rel type="=≒" target="選手" sid="wiki00071917-00-01" id="11"/>
-投手 とうしゅ 投手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=≒" target="選手" sid="wiki00071917-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+投手 とうしゅ 投手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

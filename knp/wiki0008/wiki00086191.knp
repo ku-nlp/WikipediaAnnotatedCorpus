@@ -1,114 +1,114 @@
 # S-ID:wiki00086191-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:106.00000 MOD:2023/05/22 MEMO:
 * 8D
-+ 1D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 14D <NE:ORGANIZATION:株式会社IHI>
-IHI あいえいちあい IHI 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 14D <体言><NE:ORGANIZATION:株式会社IHI>
+IHI あいえいちあい IHI 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="東京都" sid="wiki00086191-00-01" id="3"/>
-江東 こうとう 江東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="東京都" sid="wiki00086191-00-01" id="3"/><体言>
+江東 こうとう 江東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 7D <rel type="ノ？" target="江東区" sid="wiki00086191-00-01" id="4"/><NE:LOCATION:東京都江東区豊洲>
-豊洲 とよす 豊洲 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 7D <rel type="ノ？" target="江東区" sid="wiki00086191-00-01" id="4"/><体言><NE:LOCATION:東京都江東区豊洲>
+豊洲 とよす 豊洲 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ノ" target="会社" sid="wiki00086191-00-01" id="14"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="会社" sid="wiki00086191-00-01" id="14"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="本社" sid="wiki00086191-00-01" id="6"/><rel type="ニ" target="豊洲" sid="wiki00086191-00-01" id="5"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="本社" sid="wiki00086191-00-01" id="6"/><rel type="ニ" target="豊洲" sid="wiki00086191-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D
-重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="重" sid="wiki00086191-00-01" id="8"/>
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="重" sid="wiki00086191-00-01" id="8"/><体言>
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="=構" target="工業" sid="wiki00086191-00-01" id="9"/><rel type="ノ" target="会社" sid="wiki00086191-00-01" id="14"/>
-主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=構" target="工業" sid="wiki00086191-00-01" id="9"/><rel type="ノ" target="会社" sid="wiki00086191-00-01" id="14"/><体言>
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="工業" sid="wiki00086191-00-01" id="9"/><rel type="ト" target="主体" sid="wiki00086191-00-01" id="10"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="工業" sid="wiki00086191-00-01" id="9"/><rel type="ト" target="主体" sid="wiki00086191-00-01" id="10"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 14D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="不特定:物"/>
-製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00086191-00-01" id="12"/><rel type="ノ？" mode="AND" target="製造" sid="wiki00086191-00-01" id="13"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/><memo text="CO"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ガ" target="会社" sid="wiki00086191-00-01" id="14"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00086191-00-01" id="12"/><rel type="ノ？" mode="AND" target="製造" sid="wiki00086191-00-01" id="13"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00086191-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/22 MEMO:
 * -1D
-+ 1D
-アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D
-エイチ えいち エイチ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D <体言>
+エイチ えいち エイチ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="IHI" sid="wiki00086191-00-01" id="2"/><NE:ORGANIZATION:アイ・エイチ・アイ>
-アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="=" target="IHI" sid="wiki00086191-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:アイ・エイチ・アイ>
+アイ あい アイ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00086191-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/19 MEMO:
 * 1P
-+ 1P <NE:ORGANIZATION:三菱重工業>
-三菱重工業 みつびしじゅうこうぎょう 三菱重工業 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 1P <体言><NE:ORGANIZATION:三菱重工業>
+三菱重工業 みつびしじゅうこうぎょう 三菱重工業 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <NE:ORGANIZATION:川崎重工業>
-川崎重工業 かわさきじゅうこうぎょう 川崎重工業 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 7D <体言><NE:ORGANIZATION:川崎重工業>
+川崎重工業 かわさきじゅうこうぎょう 川崎重工業 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * 3D
-+ 3D
-三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <体言>
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 5D <rel type="修飾" target="三" sid="wiki00086191-01" id="2"/>
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="重" sid="wiki00086191-00-01" id="8"/>
-重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="=≒" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="=≒" mode="AND" target="三菱重工業" sid="wiki00086191-01" id="0"/><rel type="=≒" mode="AND" target="川崎重工業" sid="wiki00086191-01" id="1"/><rel type="修飾" target="大" sid="wiki00086191-01" id="3"/><rel type="修飾" mode="AND" target="重" sid="wiki00086191-01" id="4"/><memo text="SE"/><NE:ORGANIZATION:三大重工業>
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="重" sid="wiki00086191-00-01" id="8"/><体言>
+重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="=≒" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="=≒" mode="AND" target="三菱重工業" sid="wiki00086191-01" id="0"/><rel type="=≒" mode="AND" target="川崎重工業" sid="wiki00086191-01" id="1"/><rel type="修飾" target="大" sid="wiki00086191-01" id="3"/><rel type="修飾" mode="AND" target="重" sid="wiki00086191-01" id="4"/><memo text="SE"/><体言><NE:ORGANIZATION:三大重工業>
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ノ" target="工業" sid="wiki00086191-01" id="5"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/>
-一角 いっかく 一角 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="工業" sid="wiki00086191-01" id="5"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/><体言>
+一角 いっかく 一角 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="一角" sid="wiki00086191-01" id="6"/><rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ト" target="三菱重工業" sid="wiki00086191-01" id="0"/><rel type="ト" mode="AND" target="川崎重工業" sid="wiki00086191-01" id="1"/>
-成して なして 成す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ -1D <rel type="ヲ" target="一角" sid="wiki00086191-01" id="6"/><rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ト" target="三菱重工業" sid="wiki00086191-01" id="0"/><rel type="ト" mode="AND" target="川崎重工業" sid="wiki00086191-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+成して なして 成す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00086191-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/19 MEMO:
 * 1D
-+ 2D
-日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="ガ" target="日経" sid="wiki00086191-02" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00086191-02" id="2"/>
-平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <rel type="修飾" target="平均" sid="wiki00086191-02" id="1"/><rel type="ノ？" target="日経" sid="wiki00086191-02" id="0"/><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
-株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言>
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="ガ" target="日経" sid="wiki00086191-02" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00086191-02" id="2"/><体言><非用言格解析:動>
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 4D <rel type="修飾" target="平均" sid="wiki00086191-02" id="1"/><rel type="ノ？" target="日経" sid="wiki00086191-02" id="0"/><体言><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
+株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="銘柄" sid="wiki00086191-02" id="4"/><rel type="ヲ" target="株価" sid="wiki00086191-02" id="2"/>
-構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="=≒" target="IHI" sid="wiki00086191-00-01" id="2"/>
-銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="銘柄" sid="wiki00086191-02" id="4"/><rel type="ヲ" target="株価" sid="wiki00086191-02" id="2"/><体言><非用言格解析:動>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=≒" target="IHI" sid="wiki00086191-00-01" id="2"/><体言>
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ノ" target="銘柄" sid="wiki00086191-02" id="4"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00086191-02" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="ノ" target="銘柄" sid="wiki00086191-02" id="4"/><rel type="=構" target="IHI" sid="wiki00086191-00-01" id="2"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00086191-02" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

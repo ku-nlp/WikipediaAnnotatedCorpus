@@ -1,60 +1,60 @@
 # S-ID:wiki00093720-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/06/06 MEMO:
 * 1P
-+ 1D <NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
-フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3P <rel type="ノ？" target="フランク" sid="wiki00093720-00-01" id="0"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
+フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3P <rel type="ノ？" target="フランク" sid="wiki00093720-00-01" id="0"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 3D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="0"/><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
-フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 12D <rel type="=" target="人" sid="wiki00093720-00-01" id="1"/><rel type="ノ？" target="フランク" sid="wiki00093720-00-01" id="2"/>
-族 ぞく 族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="0"/><体言><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
+フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 12D <rel type="=" target="人" sid="wiki00093720-00-01" id="1"/><rel type="ノ？" target="フランク" sid="wiki00093720-00-01" id="2"/><体言>
+族 ぞく 族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 6D
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D <rel type="ノ？" target="帝国" sid="wiki00093720-00-01" id="5"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
-+ 9D <rel type="ノ" target="時代" sid="wiki00093720-00-01" id="6"/><NE:DATE:ローマ帝国時代後期>
-後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 5D <体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 6D <体言>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 7D <rel type="ノ？" target="帝国" sid="wiki00093720-00-01" id="5"/><体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 9D <rel type="ノ" target="時代" sid="wiki00093720-00-01" id="6"/><体言><NE:DATE:ローマ帝国時代後期>
+後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:人"/><rel type="ヲ" mode="AND" target="不特定:物"/>
-記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:人"/><rel type="ヲ" mode="AND" target="不特定:物"/><体言><非用言格解析:動>
+記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ガ" target="部族" sid="wiki00093720-00-01" id="12"/><rel type="ニ" target="記録" sid="wiki00093720-00-01" id="8"/><rel type="カラ" target="後期" sid="wiki00093720-00-01" id="7"/>
-登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="ガ" target="部族" sid="wiki00093720-00-01" id="12"/><rel type="ニ" target="記録" sid="wiki00093720-00-01" id="8"/><rel type="カラ" target="後期" sid="wiki00093720-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 11D <NE:OPTIONAL:ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
-ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 12D <rel type="ノ？" target="ゲルマン" sid="wiki00093720-00-01" id="10"/><rel type="=≒" target="人" sid="wiki00093720-00-01" id="1"/><rel type="=≒" mode="AND" target="族" sid="wiki00093720-00-01" id="3"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言><NE:OPTIONAL:ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
+ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 12D <rel type="ノ？" target="ゲルマン" sid="wiki00093720-00-01" id="10"/><rel type="=≒" target="人" sid="wiki00093720-00-01" id="1"/><rel type="=≒" mode="AND" target="族" sid="wiki00093720-00-01" id="3"/><体言>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="修飾" target="人" sid="wiki00093720-00-01" id="11"/><rel type="ガ" target="族" sid="wiki00093720-00-01" id="3"/><rel type="ガ" mode="AND" target="人" sid="wiki00093720-00-01" id="1"/><rel type="=構" target="族" sid="wiki00093720-00-01" id="3"/><rel type="=構" mode="AND" target="人" sid="wiki00093720-00-01" id="1"/>
-部族 ぶぞく 部族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="人" sid="wiki00093720-00-01" id="11"/><rel type="ガ" target="族" sid="wiki00093720-00-01" id="3"/><rel type="ガ" mode="AND" target="人" sid="wiki00093720-00-01" id="1"/><rel type="=構" target="族" sid="wiki00093720-00-01" id="3"/><rel type="=構" mode="AND" target="人" sid="wiki00093720-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+部族 ぶぞく 部族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093720-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/13 MEMO:
 * -1D
-+ 1D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="0"/><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
-フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="=" target="人" sid="wiki00093720-00-01" id="1"/>
-じん じん じん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="0"/><体言><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
+フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="=" target="人" sid="wiki00093720-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+じん じん じん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00093720-00-03 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/06 MEMO:
 * -1D
-+ 1D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="2"/><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
-フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="=" target="族" sid="wiki00093720-00-01" id="3"/>
-ぞく ぞく ぞく 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="フランク" sid="wiki00093720-00-01" id="2"/><体言><NE:OPTIONAL:フランク><NE-OPTIONAL:LOCATION,NONE:0>
+フランク ふらんく フランク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="=" target="族" sid="wiki00093720-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ぞく ぞく ぞく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS

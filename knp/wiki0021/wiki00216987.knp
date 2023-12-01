@@ -1,82 +1,82 @@
 # S-ID:wiki00216987-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/10/25 MEMO:
 * 2D
-+ 1D
-朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 4D <NE:ARTIFACT:朝鮮日報>
-日報 にっぽう 日報 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+朝鮮 ちょうせん 朝鮮 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 4D <体言><NE:ARTIFACT:朝鮮日報>
+日報 にっぽう 日報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=≒" target="朝鮮" sid="wiki00216987-00-01" id="0"/><NE:LOCATION:大韓民国>
-大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="=≒" target="朝鮮" sid="wiki00216987-00-01" id="0"/><体言><NE:LOCATION:大韓民国>
+大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 4D
-日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="=構" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="修飾" target="日刊" sid="wiki00216987-00-01" id="3"/><rel type="ノ？" target="大韓民国" sid="wiki00216987-00-01" id="2"/><memo text="CO"/>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="=構" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="修飾" target="日刊" sid="wiki00216987-00-01" id="3"/><rel type="ノ？" target="大韓民国" sid="wiki00216987-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00216987-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/04 MEMO:
 * 1P
-+ 1D <rel type="=" target="朝鮮" sid="wiki00216987-00-01" id="0"/>
-チョソン ちょそん チョソン 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 5P <rel type="=" target="日報" sid="wiki00216987-00-01" id="1"/><NE:ARTIFACT:チョソンイルボ>
-イルボ いるぼ イルボ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <rel type="=" target="朝鮮" sid="wiki00216987-00-01" id="0"/><体言>
+チョソン ちょそん チョソン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 5P <rel type="=" target="日報" sid="wiki00216987-00-01" id="1"/><体言><NE:ARTIFACT:チョソンイルボ>
+イルボ いるぼ イルボ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="=" target="大韓民国" sid="wiki00216987-00-01" id="2"/><NE:OPTIONAL:韓国><NE-OPTIONAL:LOCATION,NONE:0>
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 5D <rel type="ノ？" target="韓国" sid="wiki00216987-00-02" id="2"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="大韓民国" sid="wiki00216987-00-01" id="2"/><体言><NE:OPTIONAL:韓国><NE-OPTIONAL:LOCATION,NONE:0>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="韓国" sid="wiki00216987-00-02" id="2"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D <rel type="=" target="朝鮮" sid="wiki00216987-00-01" id="0"/>
-조선 조선 조선 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ -1D <rel type="デ" target="語" sid="wiki00216987-00-02" id="3"/><rel type="=" target="日報" sid="wiki00216987-00-01" id="1"/><NE:ARTIFACT:조선일보>
-일보 일보 일보 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 5D <rel type="=" target="朝鮮" sid="wiki00216987-00-01" id="0"/><体言>
+조선 조선 조선 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ -1D <rel type="デ" target="語" sid="wiki00216987-00-02" id="3"/><rel type="=" target="日報" sid="wiki00216987-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:조선일보>
+일보 일보 일보 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00216987-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2022/11/04 MEMO:
 * 1D
-+ 1D
-東亜 とうあ 東亜 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <NE:OPTIONAL:東亜日報><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-日報 にっぽう 日報 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+東亜 とうあ 東亜 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言><NE:OPTIONAL:東亜日報><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+日報 にっぽう 日報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="ト" target="日報" sid="wiki00216987-01" id="1"/>
-並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14 NIL
++ 6D <rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="ト" target="日報" sid="wiki00216987-01" id="1"/><用言:動><節-主辞><節-区切>
+並んで ならんで 並ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="=" target="韓国" sid="wiki00216987-00-02" id="2"/><NE:LOCATION:韓国>
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="=" target="韓国" sid="wiki00216987-00-02" id="2"/><体言><NE:LOCATION:韓国>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 6D
-最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ノ" target="社" sid="wiki00216987-01" id="8"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="社" sid="wiki00216987-01" id="8"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="歴史" sid="wiki00216987-01" id="5"/><rel type="ガ２" target="社" sid="wiki00216987-01" id="8"/><rel type="ニナランデ" target="日報" sid="wiki00216987-01" id="1"/>
-長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 8D <rel type="ガ" target="歴史" sid="wiki00216987-01" id="5"/><rel type="ガ２" target="社" sid="wiki00216987-01" id="8"/><rel type="ニナランデ" target="日報" sid="wiki00216987-01" id="1"/><用言:形><時制:非過去><節-主辞>
+長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 8P
-+ 8D
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="=構" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="ノ？" target="新聞" sid="wiki00216987-01" id="7"/><rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="=構" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="ノ？" target="新聞" sid="wiki00216987-01" id="7"/><rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ヲ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="外の関係" target="部数" sid="wiki00216987-01" id="10"/><rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/>
-発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="発行" sid="wiki00216987-01" id="9"/>
-部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ヲ" target="日報" sid="wiki00216987-00-01" id="1"/><rel type="外の関係" target="部数" sid="wiki00216987-01" id="10"/><rel type="ガ" target="日報" sid="wiki00216987-00-01" id="1"/><体言><非用言格解析:動>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ノ" target="発行" sid="wiki00216987-01" id="9"/><体言>
+部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 12D <rel type="=" target="韓国" sid="wiki00216987-00-02" id="2"/><NE:LOCATION:韓国>
-韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="ガ" target="部数" sid="wiki00216987-01" id="10"/><rel type="デ" target="韓国" sid="wiki00216987-01" id="11"/>
-最大である さいだいである 最大だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL
++ 12D <rel type="=" target="韓国" sid="wiki00216987-00-02" id="2"/><体言><NE:LOCATION:韓国>
+韓国 かんこく 韓国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <rel type="ガ" target="部数" sid="wiki00216987-01" id="10"/><rel type="デ" target="韓国" sid="wiki00216987-01" id="11"/><用言:形><時制:非過去><節-主辞><節-区切>
+最大である さいだいである 最大だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,265 +1,265 @@
 # S-ID:wiki00068837-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/09/12 MEMO:
 * 2D
-+ 4D <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 4D <体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ？" target="日本" sid="wiki00068837-00-01" id="1"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="漢字" sid="wiki00068837-00-01" id="2"/><rel type="=≒" target="漢音" sid="wiki00068837-00-01" id="0"/>
-音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00068837-00-01" id="1"/><体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="漢字" sid="wiki00068837-00-01" id="2"/><rel type="=≒" target="漢音" sid="wiki00068837-00-01" id="0"/><体言>
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="音" sid="wiki00068837-00-01" id="3"/><rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="=構" target="音" sid="wiki00068837-00-01" id="3"/><rel type="=構" mode="AND" target="漢音" sid="wiki00068837-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ノ" target="音" sid="wiki00068837-00-01" id="3"/><rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="=構" target="音" sid="wiki00068837-00-01" id="3"/><rel type="=構" mode="AND" target="漢音" sid="wiki00068837-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068837-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/12 MEMO:
 * -1D
-+ -1D <rel type="=" target="漢音" sid="wiki00068837-00-01" id="0"/><NE:OPTIONAL:かん><NE-OPTIONAL:LOCATION,NONE:0>
-かんおん かんおん かんおん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="漢音" sid="wiki00068837-00-01" id="0"/><体言><NE:OPTIONAL:かん><NE-OPTIONAL:LOCATION,NONE:0>
+かんおん かんおん かんおん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00068837-00-03 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/12 MEMO:
 * -1D
-+ -1D <rel type="=" target="音" sid="wiki00068837-00-01" id="3"/>
-音読み おんよみ 音読み 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="音" sid="wiki00068837-00-01" id="3"/><体言>
+音読み おんよみ 音読み 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00068837-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/25 MEMO:
 * 2D
-+ 3D
-古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 3D <用言:形>
+古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:から>
++ 2D <体言><NE:LOCATION:から>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-から から から 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="=構" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="修飾" target="から" sid="wiki00068837-01" id="1"/>
-ごえ ごえ ごえ 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="=構" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="修飾" target="から" sid="wiki00068837-01" id="1"/><体言>
+ごえ ごえ ごえ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="時間" target="古く" sid="wiki00068837-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ト" target="ごえ" sid="wiki00068837-01" id="2"/>
-呼んだ よんだ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 タ形 10 NIL
++ -1D <rel type="時間" target="古く" sid="wiki00068837-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ト" target="ごえ" sid="wiki00068837-01" id="2"/><用言:動><時制:過去><節-主辞><節-区切>
+呼んだ よんだ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068837-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2023/10/25 MEMO:
 * 3P
-+ 1P
-7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 1P <体言>
+7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 , , , 特殊 1 読点 2 * 0 * 0 NIL <NE:DATE:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:DATE:middle>
-+ 7P <NE:DATE:7,　8世紀>
-8 はっ 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7P <体言><NE:DATE:7,　8世紀>
+8 はっ 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-奈良 なら 奈良 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 4D
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D <rel type="ノ" target="時代" sid="wiki00068837-02" id="3"/><NE:DATE:奈良時代後期>
-後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 3D <体言>
+奈良 なら 奈良 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 4D <体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 7D <rel type="ノ" target="時代" sid="wiki00068837-02" id="3"/><体言><NE:DATE:奈良時代後期>
+後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D
-平安 へいあん 平安 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 7D <NE:DATE:平安時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 6D <体言><非用言格解析:形>
+平安 へいあん 平安 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 7D <体言><NE:DATE:平安時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 13D <rel type="ノ" target="時代" sid="wiki00068837-02" id="6"/>
-初め はじめ 初め 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 13D <rel type="ノ" target="時代" sid="wiki00068837-02" id="6"/><体言>
+初め はじめ 初め 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 ごろ ごろ ごろ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 9P <NE:OPTIONAL:遣隋使><NE-OPTIONAL:ORGANIZATION,NONE:0>
-遣隋使 けんずいし 遣隋使 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9P <体言><NE:OPTIONAL:遣隋使><NE-OPTIONAL:ORGANIZATION,NONE:0>
+遣隋使 けんずいし 遣隋使 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11P <NE:OPTIONAL:遣唐使><NE-OPTIONAL:ORGANIZATION,NONE:0>
-遣唐使 けんとうし 遣唐使 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 11P <体言><NE:OPTIONAL:遣唐使><NE-OPTIONAL:ORGANIZATION,NONE:0>
+遣唐使 けんとうし 遣唐使 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="僧" sid="wiki00068837-02" id="11"/>
-留学 りゅうがく 留学 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="留学" sid="wiki00068837-02" id="10"/>
-僧 そう 僧 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ガ" target="僧" sid="wiki00068837-02" id="11"/><体言><非用言格解析:動>
+留学 りゅうがく 留学 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="留学" sid="wiki00068837-02" id="10"/><体言>
+僧 そう 僧 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 13D <用言:動>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 8D
-+ 14D <rel type="ガ" target="音" sid="wiki00068837-02" id="14"/><rel type="カラ" target="後期" sid="wiki00068837-02" id="4"/><rel type="マデニ" target="初めごろ" sid="wiki00068837-02" id="7"/><rel type="ニヨッテ" target="遣隋使" sid="wiki00068837-02" id="8"/><rel type="ニヨッテ" mode="AND" target="遣唐使" sid="wiki00068837-02" id="9"/><rel type="ニヨッテ" mode="AND" target="僧など" sid="wiki00068837-02" id="11"/><rel type="ニ" target="日本" sid="wiki00068837-00-01" id="1"/><rel type="時間" target="8世紀" sid="wiki00068837-02" id="1"/>
-伝え つたえ 伝える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 14D <rel type="ガ" target="音" sid="wiki00068837-02" id="14"/><rel type="カラ" target="後期" sid="wiki00068837-02" id="4"/><rel type="マデニ" target="初めごろ" sid="wiki00068837-02" id="7"/><rel type="ニヨッテ" target="遣隋使" sid="wiki00068837-02" id="8"/><rel type="ニヨッテ" mode="AND" target="遣唐使" sid="wiki00068837-02" id="9"/><rel type="ニヨッテ" mode="AND" target="僧など" sid="wiki00068837-02" id="11"/><rel type="ニ" target="日本" sid="wiki00068837-00-01" id="1"/><rel type="時間" target="8世紀" sid="wiki00068837-02" id="1"/><用言:動><時制:過去><節-主辞>
+伝え つたえ 伝える 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9D
-+ 15D <rel type="=構" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ノ" target="漢字" sid="wiki00068837-00-01" id="2"/>
-音 おん/おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=構" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ノ" target="漢字" sid="wiki00068837-00-01" id="2"/><体言>
+音 おん/おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="音" sid="wiki00068837-02" id="14"/><rel type="ト" target="漢音" sid="wiki00068837-00-01" id="0"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="音" sid="wiki00068837-02" id="14"/><rel type="ト" target="漢音" sid="wiki00068837-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068837-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2023/10/25 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3D <rel type="ノ？" target="中国" sid="wiki00068837-03-01" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="中国" sid="wiki00068837-03-01" id="0"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D
-中古 ちゅうこ 中古 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="修飾" target="中古" sid="wiki00068837-03-01" id="2"/><rel type="ノ" target="語" sid="wiki00068837-03-01" id="1"/>
-音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+中古 ちゅうこ 中古 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="修飾" target="中古" sid="wiki00068837-03-01" id="2"/><rel type="ノ" target="語" sid="wiki00068837-03-01" id="1"/><体言>
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ノ" target="音" sid="wiki00068837-03-01" id="3"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 10D <rel type="ノ" target="音" sid="wiki00068837-03-01" id="3"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="=≒" target="中国" sid="wiki00068837-03-01" id="0"/><rel type="=≒" mode="AND" target="から" sid="wiki00068837-01" id="1"/>
-唐 とう 唐 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 10D <rel type="ノ" target="唐" sid="wiki00068837-03-01" id="5"/><NE:DATE:唐中葉>
-中葉 ちゅうよう 中葉 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 6D <rel type="=≒" target="中国" sid="wiki00068837-03-01" id="0"/><rel type="=≒" mode="AND" target="から" sid="wiki00068837-01" id="1"/><体言>
+唐 とう 唐 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 10D <rel type="ノ" target="唐" sid="wiki00068837-03-01" id="5"/><体言><NE:DATE:唐中葉>
+中葉 ちゅうよう 中葉 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 頃 ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <NE:LOCATION:長安>
-長安 ちょうあん 長安 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 10D <rel type="ノ？" target="中国" sid="wiki00068837-03-01" id="0"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:LOCATION:長安>
+長安 ちょうあん 長安 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 10D <rel type="ノ？" target="中国" sid="wiki00068837-03-01" id="0"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D
-音韻 おんいん 音韻 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="うち" sid="wiki00068837-03-01" id="4"/><rel type="時間" target="中葉頃" sid="wiki00068837-03-01" id="6"/><rel type="ノ" target="音" sid="wiki00068837-03-01" id="3"/><rel type="ノ" mode="AND" target="音韻" sid="wiki00068837-03-01" id="9"/><rel type="ノ？" target="地方" sid="wiki00068837-03-01" id="8"/>
-体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+音韻 おんいん 音韻 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="うち" sid="wiki00068837-03-01" id="4"/><rel type="時間" target="中葉頃" sid="wiki00068837-03-01" id="6"/><rel type="ノ" target="音" sid="wiki00068837-03-01" id="3"/><rel type="ノ" mode="AND" target="音韻" sid="wiki00068837-03-01" id="9"/><rel type="ノ？" target="地方" sid="wiki00068837-03-01" id="8"/><体言>
+体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D
-多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 12D <用言:形><時制:非過去>
+多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ヲ" target="体系" sid="wiki00068837-03-01" id="10"/>
-反映 はんえい 反映 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ヲ" target="体系" sid="wiki00068837-03-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+反映 はんえい 反映 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068837-03-02 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/25 MEMO:
 * -1D
-+ -1D <rel type="=" target="体系" sid="wiki00068837-03-01" id="10"/><NE:OPTIONAL:秦><NE-OPTIONAL:LOCATION,NONE:0>
-秦音 しんおん 秦音 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="体系" sid="wiki00068837-03-01" id="10"/><体言><NE:OPTIONAL:秦><NE-OPTIONAL:LOCATION,NONE:0>
+秦音 しんおん 秦音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00068837-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/10/26 MEMO:
 * 2D
-+ 2D <rel type="ノ" target="漢音" sid="wiki00068837-00-01" id="0"/>
-他 た 他 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="ノ" target="漢音" sid="wiki00068837-00-01" id="0"/><体言>
+他 た 他 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="修飾" target="他" sid="wiki00068837-04" id="0"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/><NE:OPTIONAL:呉><NE-OPTIONAL:LOCATION,NONE:0>
-呉音 ごおん 呉音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="修飾" target="他" sid="wiki00068837-04" id="0"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/><体言><NE:OPTIONAL:呉><NE-OPTIONAL:LOCATION,NONE:0>
+呉音 ごおん 呉音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="修飾" target="他" sid="wiki00068837-04" id="0"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/><NE:OPTIONAL:唐><NE-OPTIONAL:LOCATION,NONE:0>
-唐音 とうおん 唐音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="他" sid="wiki00068837-04" id="0"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/><体言><NE:OPTIONAL:唐><NE-OPTIONAL:LOCATION,NONE:0>
+唐音 とうおん 唐音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D
-比べて くらべて 比べる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 6D <用言:動>
+比べて くらべて 比べる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
 + 6D
-最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 6D
-体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニクラベテ" target="呉音" sid="wiki00068837-04" id="1"/><rel type="ニクラベテ" mode="AND" target="唐音" sid="wiki00068837-04" id="2"/><rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ヲ" target="体系性" sid="wiki00068837-04" id="5"/>
-備えて そなえて 備える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ -1D <rel type="ニクラベテ" target="呉音" sid="wiki00068837-04" id="1"/><rel type="ニクラベテ" mode="AND" target="唐音" sid="wiki00068837-04" id="2"/><rel type="ガ" target="漢音" sid="wiki00068837-00-01" id="0"/><rel type="ヲ" target="体系性" sid="wiki00068837-04" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
+備えて そなえて 備える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00068837-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:125.00000 MOD:2023/10/26 MEMO:
 * 15D
 + 19D
-また また また 副詞 8 * 0 * 0 * 0 NIL <NE:OPTIONAL:tail>
+また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 * 2D
-+ 2D <NE:DATE:唐末>
-唐末 とうまつ 唐末 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
++ 2D <体言><NE:DATE:唐末>
+唐末 とうまつ 唐末 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="時間" target="唐末" sid="wiki00068837-05" id="1"/><rel type="ガ" target="僧侶たち" sid="wiki00068837-05" id="3"/><rel type="ニ" target="中国" sid="wiki00068837-03-01" id="0"/>
-渡航 とこう 渡航 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="時間" target="唐末" sid="wiki00068837-05" id="1"/><rel type="ガ" target="僧侶たち" sid="wiki00068837-05" id="3"/><rel type="ニ" target="中国" sid="wiki00068837-03-01" id="0"/><用言:動><時制:過去><節-主辞>
+渡航 とこう 渡航 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
-+ 4D
-僧侶 そうりょ 僧侶 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+僧侶 そうりょ 僧侶 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 たち たち たち 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="僧侶たち" sid="wiki00068837-05" id="3"/><rel type="ヲ" target="音" sid="wiki00068837-05" id="6"/>
-持ち帰った もちかえった 持ち帰る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 6D <rel type="ガ" target="僧侶たち" sid="wiki00068837-05" id="3"/><rel type="ヲ" target="音" sid="wiki00068837-05" id="6"/><用言:動><時制:過去><節-主辞>
+持ち帰った もちかえった 持ち帰る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 10D
-+ 6D <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="漢字" sid="wiki00068837-05" id="5"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/>
-音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢字 かんじ 漢字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="漢字" sid="wiki00068837-05" id="5"/><rel type="=≒" target="音" sid="wiki00068837-00-01" id="3"/><体言>
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 8D <NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 10D <rel type="ノ？" target="中国" sid="wiki00068837-05" id="7"/><rel type="=" target="語" sid="wiki00068837-03-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 10D <rel type="ノ？" target="中国" sid="wiki00068837-05" id="7"/><rel type="=" target="語" sid="wiki00068837-03-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D
-近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="近世" sid="wiki00068837-05" id="9"/><rel type="ノ" target="語" sid="wiki00068837-05" id="8"/><rel type="ガ" target="特徴" sid="wiki00068837-05" id="11"/>
-音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="近世" sid="wiki00068837-05" id="9"/><rel type="ノ" target="語" sid="wiki00068837-05" id="8"/><rel type="ガ" target="特徴" sid="wiki00068837-05" id="11"/><用言:形><時制:非過去>
+音 おん 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 10D
-+ 13D <rel type="ノ" target="音" sid="wiki00068837-05" id="6"/><rel type="修飾" target="音的な" sid="wiki00068837-05" id="10"/>
-特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="音" sid="wiki00068837-05" id="6"/><rel type="修飾" target="音的な" sid="wiki00068837-05" id="10"/><体言>
+特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D
-多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 13D <用言:形><時制:非過去>
+多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * 15D
-+ 19D <rel type="ガ" target="音" sid="wiki00068837-05" id="6"/><rel type="ヲ" target="特徴" sid="wiki00068837-05" id="11"/>
-伝えて つたえて 伝える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 19D <rel type="ガ" target="音" sid="wiki00068837-05" id="6"/><rel type="ヲ" target="特徴" sid="wiki00068837-05" id="11"/><用言:動><節-主辞><節-区切>
+伝えて つたえて 伝える 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 15D
-通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 15D <体言>
+通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="修飾" target="通常" sid="wiki00068837-05" id="14"/><rel type="=" target="漢音" sid="wiki00068837-00-01" id="0"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="通常" sid="wiki00068837-05" id="14"/><rel type="=" target="漢音" sid="wiki00068837-00-01" id="0"/><体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 19D
-対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 19D <用言:動>
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 15D
 + 18D
-新 しん 新 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 19D <rel type="修飾" target="新" sid="wiki00068837-05" id="17"/><rel type="=構" target="音" sid="wiki00068837-05" id="6"/><rel type="=≒" mode="AND" target="漢音" sid="wiki00068837-05" id="15"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL
+新 しん 新 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <rel type="修飾" target="新" sid="wiki00068837-05" id="17"/><rel type="=構" target="音" sid="wiki00068837-05" id="6"/><rel type="=≒" mode="AND" target="漢音" sid="wiki00068837-05" id="15"/><体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢音 かんおん 漢音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニタイシテ" target="漢音" sid="wiki00068837-05" id="15"/><rel type="ガ" target="音" sid="wiki00068837-05" id="6"/><rel type="ト" target="漢音" sid="wiki00068837-05" id="18"/><rel type="ニ" target="不特定:人"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ニタイシテ" target="漢音" sid="wiki00068837-05" id="15"/><rel type="ガ" target="音" sid="wiki00068837-05" id="6"/><rel type="ト" target="漢音" sid="wiki00068837-05" id="18"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL

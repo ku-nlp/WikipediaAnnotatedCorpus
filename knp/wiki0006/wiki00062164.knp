@@ -1,159 +1,159 @@
 # S-ID:wiki00062164-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2023/10/12 MEMO:
 * 8D
-+ 2D
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 16D <NE:ORGANIZATION:神奈川中央交通株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言>
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 16D <体言><NE:ORGANIZATION:神奈川中央交通株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/>
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/><体言>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="神奈川県" sid="wiki00062164-00-01" id="5"/><NE:LOCATION:神奈川県平塚市>
-平塚 ひらつか 平塚 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <rel type="ノ？" target="神奈川県" sid="wiki00062164-00-01" id="5"/><体言><NE:LOCATION:神奈川県平塚市>
+平塚 ひらつか 平塚 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ノ" target="会社" sid="wiki00062164-00-01" id="4"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="会社" sid="wiki00062164-00-01" id="4"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 12P <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ヲ" target="本社" sid="wiki00062164-00-01" id="7"/><rel type="ニ" target="平塚市" sid="wiki00062164-00-01" id="6"/>
-設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12P <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ヲ" target="本社" sid="wiki00062164-00-01" id="7"/><rel type="ニ" target="平塚市" sid="wiki00062164-00-01" id="6"/><用言:動><節-主辞><節-区切><時制:非過去>
+設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 10P <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/><NE:LOCATION:神奈川県>
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10P <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/><体言><NE:LOCATION:神奈川県>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 11P <NE:LOCATION:東京都>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 11P <体言><NE:LOCATION:東京都>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 12D <NE:LOCATION:山梨県>
-山梨 やまなし 山梨 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 12D <体言><NE:LOCATION:山梨県>
+山梨 やまなし 山梨 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 16D <rel type="ガ" target="者" sid="wiki00062164-00-01" id="16"/><rel type="デ" target="神奈川県" sid="wiki00062164-00-01" id="9"/><rel type="デ" mode="AND" target="東京都" sid="wiki00062164-00-01" id="10"/><rel type="デ" mode="AND" target="山梨県" sid="wiki00062164-00-01" id="11"/>
-営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <rel type="ガ" target="者" sid="wiki00062164-00-01" id="16"/><rel type="デ" target="神奈川県" sid="wiki00062164-00-01" id="9"/><rel type="デ" mode="AND" target="東京都" sid="wiki00062164-00-01" id="10"/><rel type="デ" mode="AND" target="山梨県" sid="wiki00062164-00-01" id="11"/><用言:動><時制:非過去><節-主辞>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 16D
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="ノ？" target="バス" sid="wiki00062164-00-01" id="14"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="大手" sid="wiki00062164-00-01" id="13"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ？" target="事業" sid="wiki00062164-00-01" id="15"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 16D <体言>
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="ノ？" target="バス" sid="wiki00062164-00-01" id="14"/><体言>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="大手" sid="wiki00062164-00-01" id="13"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ？" target="事業" sid="wiki00062164-00-01" id="15"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00062164-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/07 MEMO:
 * -1D
-+ 2D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/>
-かながわ かながわ かながわ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="中央" sid="wiki00062164-00-01" id="1"/>
-ちゅうおう ちゅうおう ちゅうおう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="交通" sid="wiki00062164-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00062164-00-01" id="4"/><NE:ORGANIZATION:かながわちゅうおうこうつう>
-こうつう こうつう こうつう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/><体言>
+かながわ かながわ かながわ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="=" target="中央" sid="wiki00062164-00-01" id="1"/><体言>
+ちゅうおう ちゅうおう ちゅうおう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="交通" sid="wiki00062164-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00062164-00-01" id="4"/><NE:ORGANIZATION:かながわちゅうおうこうつう><体言>
+こうつう こうつう こうつう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00062164-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/12 MEMO:
 * 1D
-+ 3D <rel type="ノ" target="会社" sid="wiki00062164-00-01" id="4"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="会社" sid="wiki00062164-00-01" id="4"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/>
++ 2D <rel type="=" target="神奈川" sid="wiki00062164-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-神奈 かな 神奈 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <rel type="=" target="中央" sid="wiki00062164-00-01" id="1"/>
-中 ちゅう 中 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="通称" sid="wiki00062164-01-01" id="0"/><rel type="=構" target="通称" sid="wiki00062164-01-01" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="=≒" mode="AND" target="バス" sid="wiki00062164-00-01" id="14"/><memo text="CO"/><NE:ORGANIZATION:神奈中バス>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+神奈 かな 神奈 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <rel type="=" target="中央" sid="wiki00062164-00-01" id="1"/><体言>
+中 ちゅう 中 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="ガ" target="通称" sid="wiki00062164-01-01" id="0"/><rel type="=構" target="通称" sid="wiki00062164-01-01" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="=≒" mode="AND" target="バス" sid="wiki00062164-00-01" id="14"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:神奈中バス>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00062164-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/12 MEMO:
 * -1D
-+ 1D <rel type="=" target="神奈" sid="wiki00062164-01-01" id="1"/>
-かな かな かな 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="中" sid="wiki00062164-01-01" id="2"/><NE:OPTIONAL:かなちゅう><NE-OPTIONAL:ORGANIZATION,NONE:0>
-ちゅう ちゅう ちゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="神奈" sid="wiki00062164-01-01" id="1"/><体言>
+かな かな かな 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="=" target="中" sid="wiki00062164-01-01" id="2"/><体言><NE:OPTIONAL:かなちゅう><NE-OPTIONAL:ORGANIZATION,NONE:0>
+ちゅう ちゅう ちゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00062164-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/12 MEMO:
 * 1P
-+ 2D <rel type="=" target="神奈川県" sid="wiki00062164-00-01" id="9"/>
-神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="神奈川県" sid="wiki00062164-00-01" id="9"/><体言>
+神奈川 かながわ 神奈川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D <rel type="=" target="バス" sid="wiki00062164-00-01" id="14"/>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5P <rel type="ノ？" target="バス" sid="wiki00062164-02" id="1"/><NE:ORGANIZATION:神奈川県バス協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <rel type="=" target="バス" sid="wiki00062164-00-01" id="14"/><体言>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5P <rel type="ノ？" target="バス" sid="wiki00062164-02" id="1"/><体言><NE:ORGANIZATION:神奈川県バス協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="=" target="東京都" sid="wiki00062164-00-01" id="10"/>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=" target="バス" sid="wiki00062164-00-01" id="14"/>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <rel type="ノ？≒" target="協会" sid="wiki00062164-02" id="2"/><NE:ORGANIZATION:東京バス協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <rel type="=" target="東京都" sid="wiki00062164-00-01" id="10"/><体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=" target="バス" sid="wiki00062164-00-01" id="14"/><体言>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="ノ？≒" target="協会" sid="wiki00062164-02" id="2"/><体言><NE:ORGANIZATION:東京バス協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="=≒" target="協会" sid="wiki00062164-02" id="2"/><rel type="=≒" mode="AND" target="協会" sid="wiki00062164-02" id="5"/><memo text="SE"/>
-双方 そうほう 双方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=≒" target="協会" sid="wiki00062164-02" id="2"/><rel type="=≒" mode="AND" target="協会" sid="wiki00062164-02" id="5"/><memo text="SE"/><体言>
+双方 そうほう 双方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ニ" target="双方" sid="wiki00062164-02" id="6"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ニ" target="双方" sid="wiki00062164-02" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00062164-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/12 MEMO:
 * 1D
-+ 1D
-小田急 おだきゅう 小田急 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="ノ" target="小田急" sid="wiki00062164-03" id="0"/><NE:ORGANIZATION:小田急グループ>
-グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+小田急 おだきゅう 小田急 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <rel type="ノ" target="小田急" sid="wiki00062164-03" id="0"/><体言><NE:ORGANIZATION:小田急グループ>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="グループ" sid="wiki00062164-03" id="1"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 4D <rel type="ノ" target="グループ" sid="wiki00062164-03" id="1"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 4D
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 10P <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ" target="グループ" sid="wiki00062164-03" id="1"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="うち" sid="wiki00062164-03" id="2"/><rel type="修飾" mode="AND" target="一" sid="wiki00062164-03" id="3"/>
-社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 4D <体言>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ" target="グループ" sid="wiki00062164-03" id="1"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="うち" sid="wiki00062164-03" id="2"/><rel type="修飾" mode="AND" target="一" sid="wiki00062164-03" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=" target="小田急" sid="wiki00062164-03" id="0"/>
-小田急 おだきゅう 小田急 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D <NE:ORGANIZATION:小田急電鉄>
-電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <rel type="=" target="小田急" sid="wiki00062164-03" id="0"/><体言>
+小田急 おだきゅう 小田急 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <体言><NE:ORGANIZATION:小田急電鉄>
+電鉄 でんてつ 電鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D
-持分 もちぶん 持分 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="持分" sid="wiki00062164-03" id="7"/>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ヲ" target="法" sid="wiki00062164-03" id="8"/><rel type="ガ" target="電鉄" sid="wiki00062164-03" id="6"/><rel type="ニ" target="会社" sid="wiki00062164-03" id="10"/>
-適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ" target="電鉄" sid="wiki00062164-03" id="6"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="適用" sid="wiki00062164-03" id="9"/>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+持分 もちぶん 持分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ノ" target="持分" sid="wiki00062164-03" id="7"/><体言>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ヲ" target="法" sid="wiki00062164-03" id="8"/><rel type="ガ" target="電鉄" sid="wiki00062164-03" id="6"/><rel type="ニ" target="会社" sid="wiki00062164-03" id="10"/><体言><非用言格解析:動>
+適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="ノ" target="電鉄" sid="wiki00062164-03" id="6"/><rel type="=構" target="会社" sid="wiki00062164-00-01" id="4"/><rel type="修飾" target="適用" sid="wiki00062164-03" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,120 +1,120 @@
 # S-ID:wiki00193943-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2022/10/18 MEMO:
 * 1D
-+ 1D
-台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 7D
-+ 10D <rel type="ノ" target="台湾" sid="wiki00193943-00-01" id="0"/><NE:OPTIONAL:台湾の歴史>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 10D <rel type="ノ" target="台湾" sid="wiki00193943-00-01" id="0"/><体言><NE:OPTIONAL:台湾の歴史>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 3D <rel type="=" target="台湾" sid="wiki00193943-00-01" id="0"/><NE:LOCATION:台湾>
-台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 8D <rel type="ノ" target="台湾" sid="wiki00193943-00-01" id="2"/><memo text="トイウ格：台湾 とする？＝格:台湾（構）も付く？"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="台湾" sid="wiki00193943-00-01" id="0"/><体言><NE:LOCATION:台湾>
+台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8D <rel type="ノ" target="台湾" sid="wiki00193943-00-01" id="2"/><memo text="トイウ格：台湾 とする？＝格:台湾（構）も付く？"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 5D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="1"/><rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/><rel type="ノ？" mode="AND" target="歴史" sid="wiki00193943-00-01" id="4"/>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="1"/><rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/><rel type="ノ？" mode="AND" target="歴史" sid="wiki00193943-00-01" id="4"/><体言><非用言格解析:動>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="内容" sid="wiki00193943-00-01" id="8"/>
-主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 8D <rel type="ガ" target="内容" sid="wiki00193943-00-01" id="8"/><用言:形><時制:非過去>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 6D
-+ 8D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="4"/><rel type="ガ" target="内容" sid="wiki00193943-00-01" id="8"/>
-歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="4"/><rel type="ガ" target="内容" sid="wiki00193943-00-01" id="8"/><体言>
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 9D <rel type="修飾" target="歴史的" sid="wiki00193943-00-01" id="7"/><rel type="修飾" mode="AND" target="主要な" sid="wiki00193943-00-01" id="6"/><rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/>
-内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="歴史的" sid="wiki00193943-00-01" id="7"/><rel type="修飾" mode="AND" target="主要な" sid="wiki00193943-00-01" id="6"/><rel type="ノ？" target="地域" sid="wiki00193943-00-01" id="3"/><体言>
+内容 ないよう 内容 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ノ" target="内容" sid="wiki00193943-00-01" id="8"/><rel type="ノ" mode="AND" target="区分" sid="wiki00193943-00-01" id="5"/>
-概略 がいりゃく 概略 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="内容" sid="wiki00193943-00-01" id="8"/><rel type="ノ" mode="AND" target="区分" sid="wiki00193943-00-01" id="5"/><体言>
+概略 がいりゃく 概略 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="概略" sid="wiki00193943-00-01" id="9"/><rel type="デ" target="歴史" sid="wiki00193943-00-01" id="1"/>
-述べる のべる 述べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="概略" sid="wiki00193943-00-01" id="9"/><rel type="デ" target="歴史" sid="wiki00193943-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+述べる のべる 述べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00193943-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/10/18 MEMO:
 * 1D
-+ 1D <rel type="=" target="台湾" sid="wiki00193943-00-01" id="0"/>
-たいわん たいわん たいわん 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <rel type="=" target="台湾" sid="wiki00193943-00-01" id="0"/><体言>
+たいわん たいわん たいわん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="1"/><NE:OPTIONAL:たいわんのれきし>
-れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="歴史" sid="wiki00193943-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:たいわんのれきし>
+れきし れきし れきし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00193943-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/18 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="区分" sid="wiki00193943-00-01" id="5"/><rel type="ノ" mode="AND" target="内容" sid="wiki00193943-00-01" id="8"/>
-詳細 しょうさい 詳細だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 1D <rel type="ノ" target="区分" sid="wiki00193943-00-01" id="5"/><rel type="ノ" mode="AND" target="内容" sid="wiki00193943-00-01" id="8"/><体言><非用言格解析:形>
+詳細 しょうさい 詳細だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 5D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D
-各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 4D <rel type="=≒" target="区分" sid="wiki00193943-00-01" id="5"/>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
+各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=≒" target="区分" sid="wiki00193943-00-01" id="5"/><体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="修飾" target="時代ごと" sid="wiki00193943-01" id="3"/><rel type="ノ" target="内容" sid="wiki00193943-00-01" id="8"/><rel type="ノ" mode="？" target="なし"/>
-項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="時代ごと" sid="wiki00193943-01" id="3"/><rel type="ノ" target="内容" sid="wiki00193943-00-01" id="8"/><rel type="ノ" mode="？" target="なし"/><体言>
+項目 こうもく 項目 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="読者"/><rel type="ヲ" target="項目" sid="wiki00193943-01" id="4"/><rel type="ニツイテ" target="詳細" sid="wiki00193943-01" id="0"/>
-参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="読者"/><rel type="ヲ" target="項目" sid="wiki00193943-01" id="4"/><rel type="ニツイテ" target="詳細" sid="wiki00193943-01" id="0"/><体言><非用言格解析:動>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <memo text="ME"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <memo text="ME"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00193943-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/10/18 MEMO:
 * 6D
 + 9D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:台湾>
-台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D <rel type="=" target="地域" sid="wiki00193943-00-01" id="3"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:台湾>
+台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <rel type="=" target="地域" sid="wiki00193943-00-01" id="3"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="地域" sid="wiki00193943-02" id="3"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="地域" sid="wiki00193943-02" id="3"/>
-範囲 はんい 範囲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="地域" sid="wiki00193943-02" id="3"/><体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="地域" sid="wiki00193943-02" id="3"/><体言>
+範囲 はんい 範囲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 9D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="=" target="台湾" sid="wiki00193943-02" id="1"/><memo text="台湾というwikiページに地域範囲について記述がある"/><NE:OPTIONAL:台湾>
-台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="=" target="台湾" sid="wiki00193943-02" id="1"/><memo text="台湾というwikiページに地域範囲について記述がある"/><体言><NE:OPTIONAL:台湾>
+台湾 たいわん 台湾 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="範囲" sid="wiki00193943-02" id="4"/><rel type="ノ？" target="台湾" sid="wiki00193943-02" id="6"/><rel type="ノ" target="地域" sid="wiki00193943-02" id="7"/>
-範囲 はんい 範囲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="範囲" sid="wiki00193943-02" id="4"/><rel type="ノ？" target="台湾" sid="wiki00193943-02" id="6"/><rel type="ノ" target="地域" sid="wiki00193943-02" id="7"/><体言>
+範囲 はんい 範囲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="読者"/><rel type="ヲ" target="範囲" sid="wiki00193943-02" id="8"/><rel type="ニツイテ" target="範囲" sid="wiki00193943-02" id="4"/><rel type="=≒" target="参照" sid="wiki00193943-01" id="5"/>
-参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="読者"/><rel type="ヲ" target="範囲" sid="wiki00193943-02" id="8"/><rel type="ニツイテ" target="範囲" sid="wiki00193943-02" id="4"/><rel type="=≒" target="参照" sid="wiki00193943-01" id="5"/><体言><非用言格解析:動>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <memo text="ME"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <memo text="ME"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

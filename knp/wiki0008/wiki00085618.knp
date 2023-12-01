@@ -1,115 +1,115 @@
 # S-ID:wiki00085618-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2023/11/06 MEMO:
 * 13D
-+ 1D
-フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 22D <NE:ORGANIZATION:フジネットワーク>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 22D <体言><NE:ORGANIZATION:フジネットワーク>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="修飾" target="キー" sid="wiki00085618-00-01" id="2"/><rel type="ノ？" target="ネットワーク" sid="wiki00085618-00-01" id="1"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="修飾" target="キー" sid="wiki00085618-00-01" id="2"/><rel type="ノ？" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><体言>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="修飾" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=構" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=" mode="AND" target="フジ" sid="wiki00085618-00-01" id="0"/><NE:ORGANIZATION:フジテレビ>
-フジテレビ ふじてれび フジテレビ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 8D <rel type="修飾" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=構" target="局" sid="wiki00085618-00-01" id="3"/><rel type="=" mode="AND" target="フジ" sid="wiki00085618-00-01" id="0"/><体言><NE:ORGANIZATION:フジテレビ>
+フジテレビ ふじてれび フジテレビ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=≒" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><NE:ORGANIZATION:FNN>
-FNN えふえぬえぬ FNN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 6D <rel type="=≒" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><体言><NE:ORGANIZATION:FNN>
+FNN えふえぬえぬ FNN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ニ" target="FNN" sid="wiki00085618-00-01" id="5"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ニ" target="FNN" sid="wiki00085618-00-01" id="5"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 6D
-+ 8D
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="=≒" target="フジテレビ" sid="wiki00085618-00-01" id="4"/><rel type="ノ？" target="テレビ" sid="wiki00085618-00-01" id="7"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="=≒" target="フジテレビ" sid="wiki00085618-00-01" id="4"/><rel type="ノ？" target="テレビ" sid="wiki00085618-00-01" id="7"/><体言>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="9"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="放送" sid="wiki00085618-00-01" id="9"/><rel type="ノ？" target="局" sid="wiki00085618-00-01" id="8"/>
-番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="9"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/><体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="修飾" target="放送" sid="wiki00085618-00-01" id="9"/><rel type="ノ？" target="局" sid="wiki00085618-00-01" id="8"/><体言>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ノ" target="番組" sid="wiki00085618-00-01" id="10"/>
-内 うち 内 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="番組" sid="wiki00085618-00-01" id="10"/><体言>
+内 うち 内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 13D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="一般" sid="wiki00085618-00-01" id="12"/><rel type="修飾" mode="AND" target="内" sid="wiki00085618-00-01" id="11"/><rel type="ノ？" target="番組" sid="wiki00085618-00-01" id="10"/>
-番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="一般" sid="wiki00085618-00-01" id="12"/><rel type="修飾" mode="AND" target="内" sid="wiki00085618-00-01" id="11"/><rel type="ノ？" target="番組" sid="wiki00085618-00-01" id="10"/><体言>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 22D <rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="12"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/><rel type="デ" target="ネットワーク" sid="wiki00085618-00-01" id="22"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="局" sid="wiki00085618-00-01" id="8"/>
-融通 ゆうずう 融通 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 22D <rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="12"/><rel type="ガ" target="局" sid="wiki00085618-00-01" id="8"/><rel type="デ" target="ネットワーク" sid="wiki00085618-00-01" id="22"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="局" sid="wiki00085618-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+融通 ゆうずう 融通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 17D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 17D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 17D
-民放 みんぽう 民放 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D <rel type="ノ？" target="日本" sid="wiki00085618-00-01" id="15"/><rel type="修飾" target="民放" sid="wiki00085618-00-01" id="16"/><rel type="=" target="局" sid="wiki00085618-00-01" id="8"/>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言>
+民放 みんぽう 民放 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <rel type="ノ？" target="日本" sid="wiki00085618-00-01" id="15"/><rel type="修飾" target="民放" sid="wiki00085618-00-01" id="16"/><rel type="=" target="局" sid="wiki00085618-00-01" id="8"/><体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13P
-+ 19D <rel type="ノ" target="テレビ" sid="wiki00085618-00-01" id="17"/>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22P <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="=構" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="ノ？" target="テレビ" sid="wiki00085618-00-01" id="17"/><rel type="修飾" target="ネットワーク" sid="wiki00085618-00-01" id="18"/>
-組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 19D <rel type="ノ" target="テレビ" sid="wiki00085618-00-01" id="17"/><体言>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22P <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="=構" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="ノ？" target="テレビ" sid="wiki00085618-00-01" id="17"/><rel type="修飾" target="ネットワーク" sid="wiki00085618-00-01" id="18"/><体言><非用言格解析:動>
+組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 21D <rel type="=" target="番組" sid="wiki00085618-00-01" id="13"/>
-番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D <rel type="ニ" target="不特定:人"/><rel type="=" target="融通する" sid="wiki00085618-00-01" id="14"/><rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="22"/><rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="20"/>
-供給 きょうきゅう 供給 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="=構" target="ネットワーク" sid="wiki00085618-00-01" id="1"/>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <rel type="=" target="番組" sid="wiki00085618-00-01" id="13"/><体言>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="ニ" target="不特定:人"/><rel type="=" target="融通する" sid="wiki00085618-00-01" id="14"/><rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="22"/><rel type="ヲ" target="番組" sid="wiki00085618-00-01" id="20"/><体言><非用言格解析:動>
+供給 きょうきゅう 供給 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><rel type="=構" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00085618-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/19 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><体言>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00085618-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00085618-00-02" id="0"/><rel type="=" mode="AND" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><NE:ORGANIZATION:FNS>
-FNS えふえぬえす FNS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00085618-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00085618-00-02" id="0"/><rel type="=" mode="AND" target="ネットワーク" sid="wiki00085618-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:FNS>
+FNS えふえぬえす FNS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00085618-00-03 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/16 MEMO:
 * -1D
-+ -1D <rel type="=" target="フジテレビ" sid="wiki00085618-00-01" id="4"/><memo text="フジテレビのコールサインの略称　品詞は組織名でよい？固有名詞？"/><NE:OPTIONAL:CX><NE-OPTIONAL:ORGANIZATION:0>
-CX しーえっくす CX 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="フジテレビ" sid="wiki00085618-00-01" id="4"/><memo text="フジテレビのコールサインの略称　品詞は組織名でよい？固有名詞？"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:CX><NE-OPTIONAL:ORGANIZATION:0>
+CX しーえっくす CX 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00085618-00-04 括弧始:（ 括弧終:） 括弧位置:36 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/16 MEMO:
 * -1D
-+ 2D <rel type="=" target="フジ" sid="wiki00085618-00-01" id="0"/>
-フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="FNN" sid="wiki00085618-00-01" id="5"/><NE:ORGANIZATION:フジニュースネットワーク>
-ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <rel type="=" target="フジ" sid="wiki00085618-00-01" id="0"/><体言>
+フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="FNN" sid="wiki00085618-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:フジニュースネットワーク>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00085618-00-05 括弧始:（ 括弧終:） 括弧位置:73 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/16 MEMO:
 * 1D
-+ 1D <rel type="=" target="ニュース" sid="wiki00085618-00-04" id="1"/>
-ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="ニュース" sid="wiki00085618-00-05" id="0"/>
-番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ニュース" sid="wiki00085618-00-04" id="1"/><体言>
+ニュース にゅーす ニュース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="修飾" target="ニュース" sid="wiki00085618-00-05" id="0"/><体言>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="修飾" target="番組以外" sid="wiki00085618-00-05" id="1"/><rel type="ガ" target="番組" sid="wiki00085618-00-01" id="13"/><rel type="=構" target="番組" sid="wiki00085618-00-01" id="13"/><memo text="CO"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="修飾" target="番組以外" sid="wiki00085618-00-05" id="1"/><rel type="ガ" target="番組" sid="wiki00085618-00-01" id="13"/><rel type="=構" target="番組" sid="wiki00085618-00-01" id="13"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 EOS

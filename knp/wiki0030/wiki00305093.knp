@@ -1,176 +1,176 @@
 # S-ID:wiki00305093-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/04/19 MEMO:
 * 8D
-+ 1D <NE:ORGANIZATION:参議院>
-参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 3D <rel type="ノ？" target="参議院" sid="wiki00305093-00-01" id="0"/>
-議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-00-01" id="1"/><rel type="時間" target="通常" sid="wiki00305093-00-01" id="2"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><NE:ORGANIZATION:参議院>
+参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 3D <rel type="ノ？" target="参議院" sid="wiki00305093-00-01" id="0"/><体言>
+議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-00-01" id="1"/><rel type="時間" target="通常" sid="wiki00305093-00-01" id="2"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="=≒" target="参議院" sid="wiki00305093-00-01" id="0"/><NE:ORGANIZATION:国会>
-国会 こっかい 国会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 7D <rel type="ノ？" target="日本" sid="wiki00305093-00-01" id="4"/><rel type="ノ？" mode="AND" target="国会" sid="wiki00305093-00-01" id="5"/><rel type="=≒" target="議員" sid="wiki00305093-00-01" id="1"/>
-議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=≒" target="参議院" sid="wiki00305093-00-01" id="0"/><体言><NE:ORGANIZATION:国会>
+国会 こっかい 国会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 7D <rel type="ノ？" target="日本" sid="wiki00305093-00-01" id="4"/><rel type="ノ？" mode="AND" target="国会" sid="wiki00305093-00-01" id="5"/><rel type="=≒" target="議員" sid="wiki00305093-00-01" id="1"/><体言>
+議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ノ" target="議員" sid="wiki00305093-00-01" id="6"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 9D <rel type="ノ" target="議員" sid="wiki00305093-00-01" id="6"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 9D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><NE:ORGANIZATION:参議院>
-参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 10D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/>
-議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><体言><NE:ORGANIZATION:参議院>
+参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 10D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/><体言>
+議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-00-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00305093-00-01" id="11"/>
-選ぶ えらぶ 選ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-00-01" id="9"/><rel type="外の関係" target="ため" sid="wiki00305093-00-01" id="11"/><用言:動><時制:非過去>
+選ぶ えらぶ 選ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 13D <rel type="ノ" target="選ぶ" sid="wiki00305093-00-01" id="10"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 13D <rel type="ノ" target="選ぶ" sid="wiki00305093-00-01" id="10"/><体言>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/><体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="選挙" sid="wiki00305093-00-01" id="3"/><rel type="=構" target="選挙" sid="wiki00305093-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00305093-00-01" id="12"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="選挙" sid="wiki00305093-00-01" id="3"/><rel type="=構" target="選挙" sid="wiki00305093-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00305093-00-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305093-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/17 MEMO:
 * -1D
-+ 1D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><NE:ORGANIZATION:さんぎいん>
-さんぎいん さんぎいん さんぎいん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 3D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/>
-ぎいん ぎいん ぎいん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="=" target="通常" sid="wiki00305093-00-01" id="2"/>
-つうじょう つうじょう つうじょう 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ -1D <rel type="=" target="選挙" sid="wiki00305093-00-01" id="3"/>
-せんきょ せんきょ せんきょ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><体言><NE:ORGANIZATION:さんぎいん>
+さんぎいん さんぎいん さんぎいん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 3D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/><体言>
+ぎいん ぎいん ぎいん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="通常" sid="wiki00305093-00-01" id="2"/><体言>
+つうじょう つうじょう つうじょう 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="選挙" sid="wiki00305093-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+せんきょ せんきょ せんきょ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00305093-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:67.00000 MOD:2023/04/19 MEMO:
 * 1D
-+ 1D <NE:ORGANIZATION:参議院>
-参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 2D <rel type="=" target="議員" sid="wiki00305093-00-01" id="9"/><rel type="ノ？" target="参議院" sid="wiki00305093-01-01" id="0"/>
-議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:ORGANIZATION:参議院>
+参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 2D <rel type="=" target="議員" sid="wiki00305093-00-01" id="9"/><rel type="ノ？" target="参議院" sid="wiki00305093-01-01" id="0"/><体言>
+議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ノ" target="議員" sid="wiki00305093-01-01" id="1"/>
-任期 にんき 任期 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3D <rel type="ノ" target="議員" sid="wiki00305093-01-01" id="1"/><体言>
+任期 にんき 任期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5P
-+ 6P <rel type="ガ" target="任期" sid="wiki00305093-01-01" id="2"/><rel type="=構" target="任期" sid="wiki00305093-01-01" id="2"/>
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
++ 6P <rel type="ガ" target="任期" sid="wiki00305093-01-01" id="2"/><rel type="=構" target="任期" sid="wiki00305093-01-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ノ" target="議員" sid="wiki00305093-01-01" id="1"/>
-半数 はんすう 半数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="議員" sid="wiki00305093-01-01" id="1"/><体言>
+半数 はんすう 半数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="半数" sid="wiki00305093-01-01" id="5"/><rel type="時間" target="3年ごと" sid="wiki00305093-01-01" id="4"/><rel type="ガ" target="不特定:人"/>
-改選 かいせん 改選 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ヲ" target="半数" sid="wiki00305093-01-01" id="5"/><rel type="時間" target="3年ごと" sid="wiki00305093-01-01" id="4"/><rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+改選 かいせん 改選 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305093-01-02 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/19 MEMO:
 * -1D
-+ 1D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 3D <NE:ARTIFACT:日本国憲法>
-憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
-+ -1D <rel type="ノ" target="憲法" sid="wiki00305093-01-02" id="2"/><rel type="=" target="改選する" sid="wiki00305093-01-01" id="6"/>
++ 1D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/><体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <rel type="=" target="日本" sid="wiki00305093-00-01" id="4"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 3D <体言><NE:ARTIFACT:日本国憲法>
+憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
++ -1D <rel type="ノ" target="憲法" sid="wiki00305093-01-02" id="2"/><rel type="=" target="改選する" sid="wiki00305093-01-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-46 よんじゅうろく 46 名詞 6 数詞 7 * 0 * 0 NIL
+46 よんじゅうろく 46 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 条 じょう 条 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 EOS
 # S-ID:wiki00305093-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000 MOD:2023/04/19 MEMO:
 * 11D
 + 18D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 2D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><NE:ORGANIZATION:参議院>
-参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 4D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/>
-議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="=" target="通常" sid="wiki00305093-00-01" id="2"/>
-通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 10D <rel type="=" target="選挙" sid="wiki00305093-00-01" id="3"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="=" target="参議院" sid="wiki00305093-00-01" id="0"/><体言><NE:ORGANIZATION:参議院>
+参議院 さんぎいん 参議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 4D <rel type="=" target="議員" sid="wiki00305093-00-01" id="1"/><体言>
+議員 ぎいん 議員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="通常" sid="wiki00305093-00-01" id="2"/><体言>
+通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="=" target="選挙" sid="wiki00305093-00-01" id="3"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ" target="議員" sid="wiki00305093-02" id="2"/><rel type="=" target="任期" sid="wiki00305093-01-01" id="2"/>
-任期 にんき 任期 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 7D <rel type="ガ" target="任期" sid="wiki00305093-02" id="5"/>
-満了 まんりょう 満了 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ノ" target="議員" sid="wiki00305093-02" id="2"/><rel type="=" target="任期" sid="wiki00305093-01-01" id="2"/><体言>
+任期 にんき 任期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ガ" target="任期" sid="wiki00305093-02" id="5"/><体言><非用言格解析:動>
+満了 まんりょう 満了 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 9D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 9D <rel type="=" target="3年ごと" sid="wiki00305093-01-01" id="4"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 9D <rel type="=" target="3年ごと" sid="wiki00305093-01-01" id="4"/><体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ごと ごと ごと 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><rel type="ニヨッテ" target="満了" sid="wiki00305093-02" id="6"/><rel type="=構" target="選挙" sid="wiki00305093-02" id="4"/><rel type="時間" target="3年ごと" sid="wiki00305093-02" id="8"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><rel type="ニヨッテ" target="満了" sid="wiki00305093-02" id="6"/><rel type="=構" target="選挙" sid="wiki00305093-02" id="4"/><rel type="時間" target="3年ごと" sid="wiki00305093-02" id="8"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 18P <rel type="ガ" target="選挙" sid="wiki00305093-02" id="4"/><rel type="ヲ" target="選挙" sid="wiki00305093-02" id="9"/>
-指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
++ 18P <rel type="ガ" target="選挙" sid="wiki00305093-02" id="4"/><rel type="ヲ" target="選挙" sid="wiki00305093-02" id="9"/><用言:動><節-主辞><節-区切>
+指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 15D <rel type="=" target="選挙" sid="wiki00305093-02" id="9"/>
-これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 15D <rel type="=" target="選挙" sid="wiki00305093-02" id="9"/><体言>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
 + 13D
-再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 15P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><rel type="修飾" target="再" sid="wiki00305093-02" id="12"/><rel type="=≒" target="選挙" sid="wiki00305093-02" id="9"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
+再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 15P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><rel type="修飾" target="再" sid="wiki00305093-02" id="12"/><rel type="=≒" target="選挙" sid="wiki00305093-02" id="9"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ" target="議員" sid="wiki00305093-02" id="2"/>
-補欠 ほけつ 補欠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="選挙" sid="wiki00305093-02" id="9"/><rel type="修飾" target="補欠" sid="wiki00305093-02" id="14"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><memo text="欠員を補うための選挙と解釈"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ノ" target="議員" sid="wiki00305093-02" id="2"/><体言>
+補欠 ほけつ 補欠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="選挙" sid="wiki00305093-02" id="9"/><rel type="修飾" target="補欠" sid="wiki00305093-02" id="14"/><rel type="ヲ" target="議員" sid="wiki00305093-02" id="2"/><memo text="欠員を補うための選挙と解釈"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="=" target="通常" sid="wiki00305093-02" id="3"/>
++ 17D <rel type="=" target="通常" sid="wiki00305093-02" id="3"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 18D <rel type="=" target="選挙" sid="wiki00305093-02" id="4"/>
-選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL
+通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="=" target="選挙" sid="wiki00305093-02" id="4"/><体言><非用言格解析:動>
+選挙 せんきょ 選挙 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="選挙" sid="wiki00305093-02" id="17"/><rel type="ガ" target="選挙" sid="wiki00305093-02" id="15"/><rel type="ガ" mode="AND" target="選挙" sid="wiki00305093-02" id="13"/>
-含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
++ -1D <rel type="ニ" target="選挙" sid="wiki00305093-02" id="17"/><rel type="ガ" target="選挙" sid="wiki00305093-02" id="15"/><rel type="ガ" mode="AND" target="選挙" sid="wiki00305093-02" id="13"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,64 +1,64 @@
 # S-ID:wiki00073497-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/06/23 MEMO:
 * 2D
-+ 3D
-フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D
-絵画 かいが 絵画 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="=≒" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ニカンシテ" target="絵画" sid="wiki00073497-00" id="1"/>
-技法 ぎほう 技法 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+絵画 かいが 絵画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=≒" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ニカンシテ" target="絵画" sid="wiki00073497-00" id="1"/><体言>
+技法 ぎほう 技法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ノ" target="技法" sid="wiki00073497-00" id="2"/><rel type="=構" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="=構" mode="AND" target="技法" sid="wiki00073497-00" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ノ" target="技法" sid="wiki00073497-00" id="2"/><rel type="=構" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="=構" mode="AND" target="技法" sid="wiki00073497-00" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00073497-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/23 MEMO:
 * 1D
 + 1D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="=" target="ひとつ" sid="wiki00073497-00" id="3"/><rel type="トイウ" target="フレスコ" sid="wiki00073497-00" id="0"/>
-技法 ぎほう 技法 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="ひとつ" sid="wiki00073497-00" id="3"/><rel type="トイウ" target="フレスコ" sid="wiki00073497-00" id="0"/><体言>
+技法 ぎほう 技法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="壁画" sid="wiki00073497-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="技法" sid="wiki00073497-01" id="1"/>
-描か えがか/かか 描く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
++ 3D <rel type="ガ" target="壁画" sid="wiki00073497-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="技法" sid="wiki00073497-01" id="1"/><用言:動><時制:過去><節-主辞>
+描か えがか/かか 描く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 7D <rel type="修飾" target="描かれた" sid="wiki00073497-01" id="2"/>
-壁画 へきが 壁画 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="修飾" target="描かれた" sid="wiki00073497-01" id="2"/><体言>
+壁画 へきが 壁画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 6P <rel type="=構" target="壁画" sid="wiki00073497-01" id="3"/><rel type="=" mode="AND" target="フレスコ" sid="wiki00073497-00" id="0"/>
-フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=構" target="壁画" sid="wiki00073497-01" id="3"/><rel type="=" mode="AND" target="フレスコ" sid="wiki00073497-00" id="0"/><体言>
+フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="=" target="フレスコ" sid="wiki00073497-01" id="4"/>
-フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="=構" target="壁画" sid="wiki00073497-01" id="3"/><rel type="修飾" target="フレスコ" sid="wiki00073497-01" id="5"/>
-画 が 画 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="フレスコ" sid="wiki00073497-01" id="4"/><体言>
+フレスコ ふれすこ フレスコ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="=構" target="壁画" sid="wiki00073497-01" id="3"/><rel type="修飾" target="フレスコ" sid="wiki00073497-01" id="5"/><体言>
+画 が 画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="壁画" sid="wiki00073497-01" id="3"/><rel type="ト" target="フレスコ" sid="wiki00073497-01" id="4"/><rel type="ト" mode="AND" target="画" sid="wiki00073497-01" id="6"/>
-呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="壁画" sid="wiki00073497-01" id="3"/><rel type="ト" target="フレスコ" sid="wiki00073497-01" id="4"/><rel type="ト" mode="AND" target="画" sid="wiki00073497-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00073497-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/23 MEMO:
 * 1D
-+ 1D
-西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="修飾" target="西洋" sid="wiki00073497-02" id="0"/><rel type="=≒" target="壁画" sid="wiki00073497-01" id="3"/>
-壁画 へきが 壁画 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="西洋" sid="wiki00073497-02" id="0"/><rel type="=≒" target="壁画" sid="wiki00073497-01" id="3"/><体言>
+壁画 へきが 壁画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ニ" target="壁画など" sid="wiki00073497-02" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/>
-使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ -1D <rel type="ガ" target="フレスコ" sid="wiki00073497-00" id="0"/><rel type="ニ" target="壁画など" sid="wiki00073497-02" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

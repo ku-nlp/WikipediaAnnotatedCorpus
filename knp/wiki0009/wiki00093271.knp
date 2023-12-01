@@ -1,104 +1,104 @@
 # S-ID:wiki00093271-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/06/06 MEMO:
 * 7D
-+ 1D
-ステップ すてっぷ ステップ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="ステップ" sid="wiki00093271-00-01" id="0"/>
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+ステップ すてっぷ ステップ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ？" target="ステップ" sid="wiki00093271-00-01" id="0"/><体言>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:PERSON:ケッペン>
-ケッペン けっぺん ケッペン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <体言><NE:PERSON:ケッペン>
+ケッペン けっぺん ケッペン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ガ" target="ケッペン" sid="wiki00093271-00-01" id="2"/><rel type="ヲ" target="気候" sid="wiki00093271-00-01" id="3"/>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <体言>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ガ" target="ケッペン" sid="wiki00093271-00-01" id="2"/><rel type="ヲ" target="気候" sid="wiki00093271-00-01" id="3"/><体言><非用言格解析:動>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 7D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 7D <rel type="=" target="気候" sid="wiki00093271-00-01" id="3"/>
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ニオイテ" target="区分" sid="wiki00093271-00-01" id="4"/><rel type="ニカンシテ" target="気候" sid="wiki00093271-00-01" id="6"/><rel type="=≒" target="気候" sid="wiki00093271-00-01" id="1"/>
-区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="気候" sid="wiki00093271-00-01" id="3"/><体言>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ニオイテ" target="区分" sid="wiki00093271-00-01" id="4"/><rel type="ニカンシテ" target="気候" sid="wiki00093271-00-01" id="6"/><rel type="=≒" target="気候" sid="wiki00093271-00-01" id="1"/><体言>
+区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 11P <rel type="ガ" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="ノ" target="区" sid="wiki00093271-00-01" id="7"/><rel type="=構" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="=構" mode="AND" target="区" sid="wiki00093271-00-01" id="7"/>
++ 11P <rel type="ガ" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="ノ" target="区" sid="wiki00093271-00-01" id="7"/><rel type="=構" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="=構" mode="AND" target="区" sid="wiki00093271-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="不特定:状況"/><rel type="外の関係" target="帯" sid="wiki00093271-00-01" id="10"/>
-乾燥 かんそう 乾燥 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="乾燥" sid="wiki00093271-00-01" id="9"/><rel type="=≒" target="気候" sid="wiki00093271-00-01" id="1"/>
-帯 たい 帯 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="不特定:状況"/><rel type="外の関係" target="帯" sid="wiki00093271-00-01" id="10"/><体言><非用言格解析:動>
+乾燥 かんそう 乾燥 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ？" target="乾燥" sid="wiki00093271-00-01" id="9"/><rel type="=≒" target="気候" sid="wiki00093271-00-01" id="1"/><体言>
+帯 たい 帯 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="ニ" target="帯" sid="wiki00093271-00-01" id="10"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="気候" sid="wiki00093271-00-01" id="1"/><rel type="ニ" target="帯" sid="wiki00093271-00-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093271-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/02/13 MEMO:
 * -1D
-+ 1D <rel type="=" target="ステップ" sid="wiki00093271-00-01" id="0"/>
-すてっぷ すてっぷ すてっぷ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="気候" sid="wiki00093271-00-01" id="1"/>
-きこう きこう きこう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ステップ" sid="wiki00093271-00-01" id="0"/><体言>
+すてっぷ すてっぷ すてっぷ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="気候" sid="wiki00093271-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+きこう きこう きこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00093271-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2023/06/06 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="気候" sid="wiki00093271-00-01" id="1"/>
-記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="気候" sid="wiki00093271-00-01" id="1"/><体言>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="ガ" target="記号" sid="wiki00093271-01" id="0"/><rel type="=構" target="記号" sid="wiki00093271-01" id="0"/>
-BS BS BS 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="ガ" target="記号" sid="wiki00093271-01" id="0"/><rel type="=構" target="記号" sid="wiki00093271-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+BS BS BS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="ノ" target="BS" sid="wiki00093271-01" id="1"/>
-BSh BSh BSh 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="ノ" target="BS" sid="wiki00093271-01" id="1"/><体言>
+BSh BSh BSh 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ" target="BS" sid="wiki00093271-01" id="1"/>
-BSk BSk BSk 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="BS" sid="wiki00093271-01" id="1"/><体言>
+BSk BSk BSk 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="BS" sid="wiki00093271-01" id="1"/><rel type="ニ" target="BSk" sid="wiki00093271-01" id="3"/><rel type="ニ" mode="AND" target="BSh" sid="wiki00093271-01" id="2"/>
-分かれる わかれる 分かれる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ -1D <rel type="ガ" target="BS" sid="wiki00093271-01" id="1"/><rel type="ニ" target="BSk" sid="wiki00093271-01" id="3"/><rel type="ニ" mode="AND" target="BSh" sid="wiki00093271-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+分かれる わかれる 分かれる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093271-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/02/13 MEMO:
 * 1D
-+ 1D <rel type="=" target="BS" sid="wiki00093271-01" id="1"/>
-BS BS BS 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="BS" sid="wiki00093271-01" id="1"/><体言>
+BS BS BS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="BS" sid="wiki00093271-02-01" id="0"/>
-S S S 特殊 1 記号 5 * 0 * 0 NIL
++ 5D <rel type="ノ" target="BS" sid="wiki00093271-02-01" id="0"/><体言>
+S S S 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 4D <rel type="ノ？" target="ドイツ" sid="wiki00093271-02-01" id="2"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 4D <rel type="ノ？" target="ドイツ" sid="wiki00093271-02-01" id="2"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=構" target="語" sid="wiki00093271-02-01" id="3"/><rel type="修飾" target="語" sid="wiki00093271-02-01" id="3"/>
-Steppe Steppe Steppe 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=構" target="語" sid="wiki00093271-02-01" id="3"/><rel type="修飾" target="語" sid="wiki00093271-02-01" id="3"/><体言>
+Steppe Steppe Steppe 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="Steppe" sid="wiki00093271-02-01" id="4"/><rel type="ガ" target="S" sid="wiki00093271-02-01" id="1"/>
-由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ニ" target="Steppe" sid="wiki00093271-02-01" id="4"/><rel type="ガ" target="S" sid="wiki00093271-02-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00093271-02-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/06 MEMO:
 * -1D
-+ -1D <rel type="=" target="ステップ" sid="wiki00093271-00-01" id="0"/><rel type="=" mode="AND" target="Steppe" sid="wiki00093271-02-01" id="4"/>
-ステップ すてっぷ ステップ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ステップ" sid="wiki00093271-00-01" id="0"/><rel type="=" mode="AND" target="Steppe" sid="wiki00093271-02-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+ステップ すてっぷ ステップ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

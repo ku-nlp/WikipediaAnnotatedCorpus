@@ -1,96 +1,96 @@
 # S-ID:wiki00304497-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/04/19 MEMO:
 * 4D
-+ 1D
-カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D <NE:LOCATION:カスティーリャ王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9D <体言><NE:LOCATION:カスティーリャ王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:DATE:中世>
-中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
-+ 7P <rel type="時間" target="中世" sid="wiki00304497-00-01" id="2"/><memo text="中世ヨーロッパでDATEとする？"/><NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:DATE:中世>
+中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
++ 7P <rel type="時間" target="中世" sid="wiki00304497-00-01" id="2"/><memo text="中世ヨーロッパでDATEとする？"/><体言><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D
-イベリア いべりあ イベリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><NE:LOCATION:イベリア半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 7D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/>
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/><rel type="ノ？" target="中央" sid="wiki00304497-00-01" id="6"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+イベリア いべりあ イベリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7D <rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><体言><NE:LOCATION:イベリア半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 7D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/><体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="半島" sid="wiki00304497-00-01" id="5"/><rel type="ノ？" target="中央" sid="wiki00304497-00-01" id="6"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="9"/><rel type="ニ" target="部" sid="wiki00304497-00-01" id="7"/><rel type="ニ" mode="AND" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ 9D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="9"/><rel type="ニ" target="部" sid="wiki00304497-00-01" id="7"/><rel type="ニ" mode="AND" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><用言:動><時制:過去><節-主辞>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="=構" target="王国" sid="wiki00304497-00-01" id="1"/>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="=構" target="王国" sid="wiki00304497-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00304497-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/02/15 MEMO:
 * -1D
-+ 1D <rel type="=" target="カスティーリャ" sid="wiki00304497-00-01" id="0"/>
-カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="王国" sid="wiki00304497-00-01" id="1"/><NE:LOCATION:カスティーリャおうこく>
-おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="カスティーリャ" sid="wiki00304497-00-01" id="0"/><体言>
+カスティーリャ かすてぃーりゃ カスティーリャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=" target="王国" sid="wiki00304497-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:カスティーリャおうこく>
+おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00304497-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/04/19 MEMO:
 * 1D
-+ 1D
-キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="キリスト教" sid="wiki00304497-01-01" id="0"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="修飾" target="キリスト教" sid="wiki00304497-01-01" id="0"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 3D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 3D
-+ 4D <rel type="ニヨッテ" target="国" sid="wiki00304497-01-01" id="1"/>
-レコンキスタ れこんきすた レコンキスタ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ニヨッテ" target="国" sid="wiki00304497-01-01" id="1"/><体言>
+レコンキスタ れこんきすた レコンキスタ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 7D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ガ" target="役割" sid="wiki00304497-01-01" id="6"/>
-主導 しゅどう 主導 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="役割" sid="wiki00304497-01-01" id="6"/><体言><非用言格解析:動>
+主導 しゅどう 主導 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 7D <rel type="修飾" target="主導的" sid="wiki00304497-01-01" id="5"/>
-役割 やくわり 役割 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="修飾" target="主導的" sid="wiki00304497-01-01" id="5"/><体言>
+役割 やくわり 役割 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 12P <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="ヲ" target="役割" sid="wiki00304497-01-01" id="6"/><rel type="ニオイテ" target="レコンキスタ" sid="wiki00304497-01-01" id="3"/>
-果たし はたし 果たす 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
++ 12P <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="ヲ" target="役割" sid="wiki00304497-01-01" id="6"/><rel type="ニオイテ" target="レコンキスタ" sid="wiki00304497-01-01" id="3"/><用言:動><節-主辞><節-区切>
+果たし はたし 果たす 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 10D
-後 のち 後 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 10D <体言>
+後 のち 後 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D
-スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <rel type="修飾" target="後" sid="wiki00304497-01-01" id="8"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><NE:LOCATION:スペイン王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <体言>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <rel type="修飾" target="後" sid="wiki00304497-01-01" id="8"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00304497-00-01" id="3"/><体言><NE:LOCATION:スペイン王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ノ" target="王国" sid="wiki00304497-01-01" id="10"/><rel type="=構" target="王国" sid="wiki00304497-00-01" id="1"/>
-中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="王国" sid="wiki00304497-01-01" id="10"/><rel type="=構" target="王国" sid="wiki00304497-00-01" id="1"/><体言>
+中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="ト" target="中核" sid="wiki00304497-01-01" id="11"/>
-なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <rel type="ガ" target="王国" sid="wiki00304497-00-01" id="1"/><rel type="ト" target="中核" sid="wiki00304497-01-01" id="11"/><用言:動><時制:過去><節-主辞><節-区切>
+なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00304497-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/04/19 MEMO:
 * -1D
-+ 1D <rel type="=" target="半島" sid="wiki00304497-00-01" id="5"/>
-国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ヲ" target="国土" sid="wiki00304497-01-02" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="国" sid="wiki00304497-01-01" id="1"/>
-回復 かいふく 回復 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ニムケテ" target="回復" sid="wiki00304497-01-02" id="1"/><rel type="=" target="レコンキスタ" sid="wiki00304497-01-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="国" sid="wiki00304497-01-01" id="1"/>
-運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="半島" sid="wiki00304497-00-01" id="5"/><体言>
+国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ヲ" target="国土" sid="wiki00304497-01-02" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="国" sid="wiki00304497-01-01" id="1"/><体言><非用言格解析:動>
+回復 かいふく 回復 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ニムケテ" target="回復" sid="wiki00304497-01-02" id="1"/><rel type="=" target="レコンキスタ" sid="wiki00304497-01-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="国" sid="wiki00304497-01-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

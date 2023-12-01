@@ -1,241 +1,241 @@
 # S-ID:wiki00254653-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/12/14 MEMO:
 * 1P
-+ 1D
-カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <NE:LOCATION:カタール国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <体言><NE:LOCATION:カタール国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="デ" target="通称" sid="wiki00254653-00-01" id="2"/><rel type="=" target="国" sid="wiki00254653-00-01" id="1"/><rel type="=構" mode="AND" target="通称" sid="wiki00254653-00-01" id="2"/><NE:LOCATION:カタール>
-カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="デ" target="通称" sid="wiki00254653-00-01" id="2"/><rel type="=" target="国" sid="wiki00254653-00-01" id="1"/><rel type="=構" mode="AND" target="通称" sid="wiki00254653-00-01" id="2"/><体言><NE:LOCATION:カタール>
+カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6P <NE:LOCATION:中東>
-中東 ちゅうとう 中東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6P <体言><NE:LOCATION:中東>
+中東 ちゅうとう 中東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <rel type="修飾" target="西" sid="wiki00254653-00-01" id="5"/><rel type="=≒" target="中東" sid="wiki00254653-00-01" id="4"/><NE:LOCATION:西アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7D <rel type="修飾" target="西" sid="wiki00254653-00-01" id="5"/><rel type="=≒" target="中東" sid="wiki00254653-00-01" id="4"/><体言><NE:LOCATION:西アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 11D <rel type="ガ" target="国家" sid="wiki00254653-00-01" id="11"/><rel type="ニ" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ニ" mode="AND" target="アジア" sid="wiki00254653-00-01" id="6"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="国家" sid="wiki00254653-00-01" id="11"/><rel type="ニ" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ニ" mode="AND" target="アジア" sid="wiki00254653-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 9D
-立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="立憲" sid="wiki00254653-00-01" id="8"/>
-君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="君主" sid="wiki00254653-00-01" id="9"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="カタール" sid="wiki00254653-00-01" id="3"/><rel type="修飾" target="制" sid="wiki00254653-00-01" id="10"/><rel type="=構" target="カタール" sid="wiki00254653-00-01" id="3"/><memo text="CO"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="修飾" target="立憲" sid="wiki00254653-00-01" id="8"/><体言>
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="君主" sid="wiki00254653-00-01" id="9"/><体言>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="カタール" sid="wiki00254653-00-01" id="3"/><rel type="修飾" target="制" sid="wiki00254653-00-01" id="10"/><rel type="=構" target="カタール" sid="wiki00254653-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ 1D <rel type="=" target="カタール" sid="wiki00254653-00-01" id="0"/>
-カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="国" sid="wiki00254653-00-01" id="1"/><NE:LOCATION:カタールこく>
-こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="カタール" sid="wiki00254653-00-01" id="0"/><体言>
+カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=" target="国" sid="wiki00254653-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:カタールこく>
+こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00254653-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 2D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-首長 しゅちょう 首長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+首長 しゅちょう 首長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <NE:PERSON:サーニー>
-サーニー さーにー サーニー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ -1D <rel type="ガ" target="首長" sid="wiki00254653-01" id="0"/><memo text="CO or PO　サーニー家の世襲による首長制"/>
-家 け 家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:PERSON:サーニー>
+サーニー さーにー サーニー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ -1D <rel type="ガ" target="首長" sid="wiki00254653-01" id="0"/><memo text="CO or PO　サーニー家の世襲による首長制"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+家 け 家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ？" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ガ" target="首都" sid="wiki00254653-02" id="0"/><rel type="=構" target="首都" sid="wiki00254653-02" id="0"/><memo text="CO"/><NE:LOCATION:ドーハ>
-ドーハ どーは ドーハ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ノ？" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ガ" target="首都" sid="wiki00254653-02" id="0"/><rel type="=構" target="首都" sid="wiki00254653-02" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ドーハ>
+ドーハ どーは ドーハ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D
-アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><NE:LOCATION:アラビア半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 4D <rel type="ノ" target="半島" sid="wiki00254653-03" id="1"/>
-東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><体言><NE:LOCATION:アラビア半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 4D <rel type="ノ" target="半島" sid="wiki00254653-03" id="1"/><体言>
+東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="ノ？" target="半島" sid="wiki00254653-03" id="1"/><rel type="修飾" target="東部" sid="wiki00254653-03" id="2"/><NE:LOCATION:カタール半島>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <体言>
+カタール かたーる カタール 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <rel type="ノ？" target="半島" sid="wiki00254653-03" id="1"/><rel type="修飾" target="東部" sid="wiki00254653-03" id="2"/><体言><NE:LOCATION:カタール半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 6D
-ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL
+ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 8D <rel type="ノ" target="半島" sid="wiki00254653-03" id="4"/><rel type="修飾" target="ほぼ" sid="wiki00254653-03" id="5"/>
-全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="半島" sid="wiki00254653-03" id="4"/><rel type="修飾" target="ほぼ" sid="wiki00254653-03" id="5"/><体言>
+全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ノ" target="国" sid="wiki00254653-03" id="10"/><rel type="=構" target="全域" sid="wiki00254653-03" id="6"/>
-領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="国" sid="wiki00254653-03" id="10"/><rel type="=構" target="全域" sid="wiki00254653-03" id="6"/><体言>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="国" sid="wiki00254653-03" id="10"/><rel type="ト" target="領土" sid="wiki00254653-03" id="7"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 10D <rel type="ガ" target="国" sid="wiki00254653-03" id="10"/><rel type="ト" target="領土" sid="wiki00254653-03" id="7"/><用言:動><時制:非過去><節-主辞>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 10D <rel type="=≒" target="半島" sid="wiki00254653-03" id="4"/>
-半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=≒" target="半島" sid="wiki00254653-03" id="4"/><体言>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12P
-+ 16P <rel type="修飾" target="半島" sid="wiki00254653-03" id="9"/><rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="=構" target="国" sid="wiki00254653-00-01" id="1"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16P <rel type="修飾" target="半島" sid="wiki00254653-03" id="9"/><rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="=構" target="国" sid="wiki00254653-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 13D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ？" target="日本" sid="wiki00254653-03" id="12"/><NE:LOCATION:秋田県>
-秋田 あきた 秋田 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <rel type="ノ？" target="日本" sid="wiki00254653-03" id="12"/><体言><NE:LOCATION:秋田県>
+秋田 あきた 秋田 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
 + 15D <rel type="ガ" target="程度" sid="wiki00254653-03" id="15"/><rel type="ト" target="秋田県" sid="wiki00254653-03" id="13"/>
-同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 16D <rel type="修飾" target="同" sid="wiki00254653-03" id="14"/><rel type="ト" target="秋田県" sid="wiki00254653-03" id="13"/>
-程度 ていど 程度 名詞 6 普通名詞 1 * 0 * 0 NIL
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="修飾" target="同" sid="wiki00254653-03" id="14"/><rel type="ト" target="秋田県" sid="wiki00254653-03" id="13"/><体言>
+程度 ていど 程度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="面積" sid="wiki00254653-03" id="11"/><rel type="修飾" target="程度" sid="wiki00254653-03" id="15"/><rel type="=構" target="面積" sid="wiki00254653-03" id="11"/><memo text="TY（脱字）,CO"/>
-1万1,427 いちまんせんよんひゃくにじゅうなな 1万1,427 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="面積" sid="wiki00254653-03" id="11"/><rel type="修飾" target="程度" sid="wiki00254653-03" id="15"/><rel type="=構" target="面積" sid="wiki00254653-03" id="11"/><memo text="TY（脱字）,CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+1万1,427 いちまんせんよんひゃくにじゅうなな 1万1,427 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 km へいほうきろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2022/12/14 MEMO:
 * 2D
-+ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D
-ペルシア ぺるしあ ペルシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <NE:LOCATION:ペルシア湾>
-湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+ペルシア ぺるしあ ペルシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <体言><NE:LOCATION:ペルシア湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="湾" sid="wiki00254653-04" id="2"/><rel type="ヲ" target="周囲" sid="wiki00254653-04" id="0"/>
-面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="湾" sid="wiki00254653-04" id="2"/><rel type="ヲ" target="周囲" sid="wiki00254653-04" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
+面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-05-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2022/12/14 MEMO:
 * 3D
-+ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><NE:LOCATION:サウジアラビア>
-サウジアラビア さうじあらびあ サウジアラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><体言><NE:LOCATION:サウジアラビア>
+サウジアラビア さうじあらびあ サウジアラビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 13P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ト" target="サウジアラビア" sid="wiki00254653-05-01" id="1"/><rel type="ヲ" target="国境" sid="wiki00254653-05-01" id="2"/><rel type="ヲ" mode="AND" target="南" sid="wiki00254653-05-01" id="0"/>
-接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 13P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ト" target="サウジアラビア" sid="wiki00254653-05-01" id="1"/><rel type="ヲ" target="国境" sid="wiki00254653-05-01" id="2"/><rel type="ヲ" mode="AND" target="南" sid="wiki00254653-05-01" id="0"/><用言:動><節-主辞><節-区切>
+接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D
-ペルシャ ぺるしゃ ペルシャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="=" target="湾" sid="wiki00254653-04" id="2"/><NE:LOCATION:ペルシャ湾>
-湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+ペルシャ ぺるしゃ ペルシャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <rel type="=" target="湾" sid="wiki00254653-04" id="2"/><体言><NE:LOCATION:ペルシャ湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 13D <rel type="ヲ" target="湾" sid="wiki00254653-05-01" id="5"/><rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/>
-挟んで はさんで 挟む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
++ 13D <rel type="ヲ" target="湾" sid="wiki00254653-05-01" id="5"/><rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><用言:動><節-主辞><節-区切>
+挟んで はさんで 挟む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL <基本句-主辞>
 * 7I
-+ 8I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9P
-+ 10P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="バーレーン" sid="wiki00254653-05-01" id="8"/><rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ヲ" target="北西" sid="wiki00254653-05-01" id="7"/><NE:LOCATION:バーレーン>
-バーレーン ばーれーん バーレーン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="バーレーン" sid="wiki00254653-05-01" id="8"/><rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ヲ" target="北西" sid="wiki00254653-05-01" id="7"/><体言><NE:LOCATION:バーレーン>
+バーレーン ばーれーん バーレーン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9I
-+ 10I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11P
-+ 12P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="イラン" sid="wiki00254653-05-01" id="10"/><rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ヲ" target="北" sid="wiki00254653-05-01" id="9"/><NE:LOCATION:イラン>
-イラン いらん イラン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 12P <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="イラン" sid="wiki00254653-05-01" id="10"/><rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><rel type="ヲ" target="北" sid="wiki00254653-05-01" id="9"/><体言><NE:LOCATION:イラン>
+イラン いらん イラン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11I
-+ 12I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12I <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 13D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><NE:LOCATION:アラブ首長国連邦>
-アラブ首長国連邦 あらぶしゅちょうこくれんぽう アラブ首長国連邦 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <rel type="ノ？" target="中東" sid="wiki00254653-00-01" id="4"/><体言><NE:LOCATION:アラブ首長国連邦>
+アラブ首長国連邦 あらぶしゅちょうこくれんぽう アラブ首長国連邦 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="アラブ首長国連邦" sid="wiki00254653-05-01" id="12"/><rel type="ヲ" target="東" sid="wiki00254653-05-01" id="11"/>
-向かい合う むかいあう 向かい合う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ニ" target="アラブ首長国連邦" sid="wiki00254653-05-01" id="12"/><rel type="ヲ" target="東" sid="wiki00254653-05-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
+向かい合う むかいあう 向かい合う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00254653-05-02 括弧始:（ 括弧終:） 括弧位置:52 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/25 MEMO:
 * -1D
-+ -1D <rel type="=" target="アラブ首長国連邦" sid="wiki00254653-05-01" id="12"/><NE:LOCATION:UAE>
-UAE UAE UAE 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="アラブ首長国連邦" sid="wiki00254653-05-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:UAE>
+UAE UAE UAE 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00254653-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/12/14 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/>
-国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="国" sid="wiki00254653-00-01" id="1"/><体言>
+国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="国土" sid="wiki00254653-06" id="0"/>
-全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="国土" sid="wiki00254653-06" id="0"/><体言>
+全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ？" target="砂漠" sid="wiki00254653-06" id="2"/>
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ？" target="砂漠" sid="wiki00254653-06" id="2"/><体言>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 8P <rel type="ガ" target="全域" sid="wiki00254653-06" id="1"/><rel type="ニ" target="気候" sid="wiki00254653-06" id="3"/>
-あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 8P <rel type="ガ" target="全域" sid="wiki00254653-06" id="1"/><rel type="ニ" target="気候" sid="wiki00254653-06" id="3"/><用言:動><節-主辞><節-区切>
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D
-年間 ねんかん 年間 名詞 6 時相名詞 10 * 0 * 0 NIL
-+ 7D
-降水 こうすい 降水 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="時間" target="年間" sid="wiki00254653-06" id="5"/><rel type="ノ？" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ノ" target="降水" sid="wiki00254653-06" id="6"/>
-量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+年間 ねんかん 年間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言>
+降水 こうすい 降水 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="時間" target="年間" sid="wiki00254653-06" id="5"/><rel type="ノ？" target="国" sid="wiki00254653-00-01" id="1"/><rel type="ノ" target="降水" sid="wiki00254653-06" id="6"/><体言>
+量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="量" sid="wiki00254653-06" id="7"/><rel type="=構" target="量" sid="wiki00254653-06" id="7"/><memo text="CO"/>
++ -1D <rel type="ガ" target="量" sid="wiki00254653-06" id="7"/><rel type="=構" target="量" sid="wiki00254653-06" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-100ミリ ひゃくみり 100ミリ 名詞 6 数詞 7 * 0 * 0 NIL
+100ミリ ひゃくみり 100ミリ 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

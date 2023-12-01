@@ -1,129 +1,129 @@
 # S-ID:wiki00174013-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:97.00000 MOD:2022/09/21 MEMO:
 * 9D
-+ 1D <memo text="イメージオルシコンを意味するスラングを仏語風にしたものから"/>
-エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 12D <memo text="エミー賞にはいろいろ種類があるが、一般にプライムタイムエミー賞のことを指す"/><NE:ARTIFACT:エミー賞>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <memo text="イメージオルシコンを意味するスラングを仏語風にしたものから"/><体言>
+エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 12D <memo text="エミー賞にはいろいろ種類があるが、一般にプライムタイムエミー賞のことを指す"/><体言><NE:ARTIFACT:エミー賞>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="ドラマ" sid="wiki00174013-00-01" id="6"/><rel type="ガ" mode="AND" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="デ" target="アメリカ合衆国" sid="wiki00174013-00-01" id="2"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="ドラマ" sid="wiki00174013-00-01" id="6"/><rel type="ガ" mode="AND" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="デ" target="アメリカ合衆国" sid="wiki00174013-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 7D <rel type="ガ" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="ガ" mode="AND" target="ドラマ" sid="wiki00174013-00-01" id="6"/>
-優れた すぐれた 優れる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
++ 7D <rel type="ガ" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="ガ" mode="AND" target="ドラマ" sid="wiki00174013-00-01" id="6"/><用言:動><時制:過去>
+優れた すぐれた 優れる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 5P
-+ 6D
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P <rel type="修飾" target="テレビ" sid="wiki00174013-00-01" id="5"/>
-ドラマ どらま ドラマ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7P <rel type="修飾" target="テレビ" sid="wiki00174013-00-01" id="5"/><体言>
+ドラマ どらま ドラマ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 10P <rel type="修飾" target="テレビ" sid="wiki00174013-00-01" id="5"/>
-番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <rel type="修飾" target="テレビ" sid="wiki00174013-00-01" id="5"/><体言>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="テレビ" sid="wiki00174013-00-01" id="5"/>
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="テレビ" sid="wiki00174013-00-01" id="8"/>
-業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="テレビ" sid="wiki00174013-00-01" id="5"/><体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="テレビ" sid="wiki00174013-00-01" id="8"/><体言>
+業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ニオイテ" target="業界" sid="wiki00174013-00-01" id="9"/>
-功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ニオイテ" target="業界" sid="wiki00174013-00-01" id="9"/><体言>
+功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="12"/><rel type="ニ" target="功績" sid="wiki00174013-00-01" id="10"/><rel type="ニ" mode="AND" target="ドラマ" sid="wiki00174013-00-01" id="6"/><rel type="ニ" mode="AND" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/>
-与え あたえ 与える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 12D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="12"/><rel type="ニ" target="功績" sid="wiki00174013-00-01" id="10"/><rel type="ニ" mode="AND" target="ドラマ" sid="wiki00174013-00-01" id="6"/><rel type="ニ" mode="AND" target="番組" sid="wiki00174013-00-01" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞>
+与え あたえ 与える 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="=構" target="賞" sid="wiki00174013-00-01" id="1"/>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="=構" target="賞" sid="wiki00174013-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00174013-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/09/21 MEMO:
 * 1P
-+ 1D <rel type="=" target="エミー" sid="wiki00174013-00-01" id="0"/>
-エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 3P <rel type="=" target="賞" sid="wiki00174013-00-01" id="1"/><NE:ARTIFACT:エミーしょう>
-しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <rel type="=" target="エミー" sid="wiki00174013-00-01" id="0"/><体言>
+エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 3P <rel type="=" target="賞" sid="wiki00174013-00-01" id="1"/><体言><NE:ARTIFACT:エミーしょう>
+しょう しょう しょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="ノ" target="賞" sid="wiki00174013-00-01" id="1"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="通称" sid="wiki00174013-00-02" id="2"/><rel type="=構" target="通称" sid="wiki00174013-00-02" id="2"/><rel type="=" mode="AND" target="賞" sid="wiki00174013-00-01" id="1"/><NE:ARTIFACT:エミー>
-エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 3D <rel type="ノ" target="賞" sid="wiki00174013-00-01" id="1"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="通称" sid="wiki00174013-00-02" id="2"/><rel type="=構" target="通称" sid="wiki00174013-00-02" id="2"/><rel type="=" mode="AND" target="賞" sid="wiki00174013-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:エミー>
+エミー えみー エミー 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 EOS
 # S-ID:wiki00174013-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/09/22 MEMO:
 * 1D
-+ 1D
-映画 えいが 映画 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+映画 えいが 映画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 3D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 5P
-+ 3D <memo text="映画芸術科学アカデミー（AMPAS）による映画賞"/>
-アカデミー あかでみー アカデミー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 7P <rel type="ニオイテ" target="映画" sid="wiki00174013-01" id="0"/><NE:ARTIFACT:アカデミー賞>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 3D <memo text="映画芸術科学アカデミー（AMPAS）による映画賞"/><体言>
+アカデミー あかでみー アカデミー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 7P <rel type="ニオイテ" target="映画" sid="wiki00174013-01" id="0"/><体言><NE:ARTIFACT:アカデミー賞>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D
-演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 7D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 8P
-+ 7D <memo text="正式にはアントワネット・ペリー賞。 トニー (Tony) は、アントワネット (Antoinette) の短縮形"/>
-トニー とにー トニー 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 11P <rel type="ニオイテ" target="演劇" sid="wiki00174013-01" id="4"/><NE:ARTIFACT:トニー賞>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 7D <memo text="正式にはアントワネット・ペリー賞。 トニー (Tony) は、アントワネット (Antoinette) の短縮形"/><体言>
+トニー とにー トニー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 11P <rel type="ニオイテ" target="演劇" sid="wiki00174013-01" id="4"/><体言><NE:ARTIFACT:トニー賞>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 11D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 11D <memo text="エミール・ベルリナーが発明した蓄音機Gramophoneの愛称から"/>
-グラミー ぐらみー グラミー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 12D <rel type="ニオイテ" target="音楽" sid="wiki00174013-01" id="8"/><NE:ARTIFACT:グラミー賞>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 11D <memo text="エミール・ベルリナーが発明した蓄音機Gramophoneの愛称から"/><体言>
+グラミー ぐらみー グラミー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 12D <rel type="ニオイテ" target="音楽" sid="wiki00174013-01" id="8"/><体言><NE:ARTIFACT:グラミー賞>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 17P <rel type="ニ" target="賞" sid="wiki00174013-01" id="11"/><rel type="ニ" mode="AND" target="賞" sid="wiki00174013-01" id="3"/><rel type="ニ" mode="AND" target="賞" sid="wiki00174013-01" id="7"/><rel type="ガ" target="ひとつ" sid="wiki00174013-01" id="18"/>
-相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17P <rel type="ニ" target="賞" sid="wiki00174013-01" id="11"/><rel type="ニ" mode="AND" target="賞" sid="wiki00174013-01" id="3"/><rel type="ニ" mode="AND" target="賞" sid="wiki00174013-01" id="7"/><rel type="ガ" target="ひとつ" sid="wiki00174013-01" id="18"/><用言:動><時制:非過去><節-主辞>
+相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
 + 15D
-最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 12D
-+ 15D
-権威 けんい 権威 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <体言>
+権威 けんい 権威 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 13D
-+ 17D <rel type="ガ" target="権威" sid="wiki00174013-01" id="14"/><rel type="ガ２" target="賞" sid="wiki00174013-01" id="17"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 17D <rel type="ガ" target="権威" sid="wiki00174013-01" id="14"/><rel type="ガ２" target="賞" sid="wiki00174013-01" id="17"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 17D
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D <rel type="修飾" target="文化" sid="wiki00174013-01" id="16"/><rel type="=≒" target="賞" sid="wiki00174013-00-01" id="1"/>
-賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="修飾" target="文化" sid="wiki00174013-01" id="16"/><rel type="=≒" target="賞" sid="wiki00174013-00-01" id="1"/><体言>
+賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="ノ" target="賞" sid="wiki00174013-01" id="17"/><rel type="=構" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="=構" mode="AND" target="賞" sid="wiki00174013-01" id="17"/><memo text="CO"/>
++ -1D <rel type="ガ" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="ノ" target="賞" sid="wiki00174013-01" id="17"/><rel type="=構" target="賞" sid="wiki00174013-00-01" id="1"/><rel type="=構" mode="AND" target="賞" sid="wiki00174013-01" id="17"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

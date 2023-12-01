@@ -1,96 +1,96 @@
 # S-ID:wiki00062091-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2023/10/12 MEMO:
 * 7D
-+ 1D
-閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="ノ" target="閩" sid="wiki00062091-00-01" id="0"/><NE:OPTIONAL:閩南><NE-OPTIONAL:LOCATION,NONE:0>
-南 なん 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 13D <rel type="ノ？" target="南" sid="wiki00062091-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="ノ" target="閩" sid="wiki00062091-00-01" id="0"/><体言><NE:OPTIONAL:閩南><NE-OPTIONAL:LOCATION,NONE:0>
+南 なん 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 13D <rel type="ノ？" target="南" sid="wiki00062091-00-01" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/><NE:OPTIONAL:閩><NE-OPTIONAL:LOCATION,NONE:0>
-閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 6D <rel type="ノ？" target="閩" sid="wiki00062091-00-01" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/><体言><NE:OPTIONAL:閩><NE-OPTIONAL:LOCATION,NONE:0>
+閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 6D <rel type="ノ？" target="閩" sid="wiki00062091-00-01" id="3"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 10D <rel type="ガ" target="方言" sid="wiki00062091-00-01" id="8"/><rel type="ガ" mode="AND" target="方言" sid="wiki00062091-00-01" id="10"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/><rel type="修飾" target="一" sid="wiki00062091-00-01" id="5"/>
-方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ガ" target="方言" sid="wiki00062091-00-01" id="8"/><rel type="ガ" mode="AND" target="方言" sid="wiki00062091-00-01" id="10"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/><rel type="修飾" target="一" sid="wiki00062091-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞>
+方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 4P
-+ 8D <NE:OPTIONAL:泉州><NE-OPTIONAL:LOCATION,NONE:0>
-泉州 せんしゅう 泉州 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 10P <rel type="ノ？" target="泉州" sid="wiki00062091-00-01" id="7"/><rel type="=構" target="方言" sid="wiki00062091-00-01" id="6"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/>
-方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:OPTIONAL:泉州><NE-OPTIONAL:LOCATION,NONE:0>
+泉州 せんしゅう 泉州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 10P <rel type="ノ？" target="泉州" sid="wiki00062091-00-01" id="7"/><rel type="=構" target="方言" sid="wiki00062091-00-01" id="6"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/><体言>
+方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <NE:OPTIONAL:漳州><NE-OPTIONAL:LOCATION,NONE:0>
-漳州 しょうしゅう 漳州 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 11D <rel type="ノ？" target="漳州" sid="wiki00062091-00-01" id="9"/><rel type="=構" target="方言" sid="wiki00062091-00-01" id="6"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/>
-方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><NE:OPTIONAL:漳州><NE-OPTIONAL:LOCATION,NONE:0>
+漳州 しょうしゅう 漳州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 11D <rel type="ノ？" target="漳州" sid="wiki00062091-00-01" id="9"/><rel type="=構" target="方言" sid="wiki00062091-00-01" id="6"/><rel type="ノ" target="語" sid="wiki00062091-00-01" id="4"/><体言>
+方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ヲ" target="方言" sid="wiki00062091-00-01" id="8"/><rel type="ヲ" mode="AND" target="方言" sid="wiki00062091-00-01" id="10"/>
-基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ヲ" target="方言" sid="wiki00062091-00-01" id="8"/><rel type="ヲ" mode="AND" target="方言" sid="wiki00062091-00-01" id="10"/><体言>
+基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D <rel type="ガ" target="言語" sid="wiki00062091-00-01" id="10"/><rel type="ニ" target="基盤" sid="wiki00062091-00-01" id="11"/>
-成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="言語" sid="wiki00062091-00-01" id="10"/><rel type="ニ" target="基盤" sid="wiki00062091-00-01" id="11"/><用言:動><時制:過去><節-主辞>
+成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00062091-00-01" id="2"/><rel type="=構" target="語" sid="wiki00062091-00-01" id="2"/><rel type="修飾" target="成立した" sid="wiki00062091-00-01" id="12"/><memo text="CO"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00062091-00-01" id="2"/><rel type="=構" target="語" sid="wiki00062091-00-01" id="2"/><rel type="修飾" target="成立した" sid="wiki00062091-00-01" id="12"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00062091-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/12 MEMO:
 * 1P
-+ 1D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/>
-びん びん びん 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><rel type="ノ" target="びん" sid="wiki00062091-00-02" id="0"/><NE:OPTIONAL:びんなん><NE-OPTIONAL:LOCATION,NONE:0>
-なん なん なん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 5P <rel type="ノ？" target="なん" sid="wiki00062091-00-02" id="1"/><rel type="=" target="語" sid="wiki00062091-00-01" id="2"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/><体言>
+びん びん びん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><rel type="ノ" target="びん" sid="wiki00062091-00-02" id="0"/><体言><NE:OPTIONAL:びんなん><NE-OPTIONAL:LOCATION,NONE:0>
+なん なん なん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 5P <rel type="ノ？" target="なん" sid="wiki00062091-00-02" id="1"/><rel type="=" target="語" sid="wiki00062091-00-01" id="2"/><体言>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/>
-ミン みん ミン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 5D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><rel type="ノ" target="ミン" sid="wiki00062091-00-02" id="3"/><NE:OPTIONAL:ミンナン><NE-OPTIONAL:LOCATION,NONE:0>
-ナン なん ナン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ -1D <rel type="ノ？" target="ナン" sid="wiki00062091-00-02" id="4"/><rel type="=" target="語" sid="wiki00062091-00-01" id="2"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/><体言>
+ミン みん ミン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 5D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><rel type="ノ" target="ミン" sid="wiki00062091-00-02" id="3"/><体言><NE:OPTIONAL:ミンナン><NE-OPTIONAL:LOCATION,NONE:0>
+ナン なん ナン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ -1D <rel type="ノ？" target="ナン" sid="wiki00062091-00-02" id="4"/><rel type="=" target="語" sid="wiki00062091-00-01" id="2"/><体言>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00062091-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/10/12 MEMO:
 * 2D
-+ 4D
-主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 4D <用言:形><時制:非過去>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/>
-閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><NE:LOCATION:閩南>
-南 なん 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 4D <rel type="ノ" target="閩南" sid="wiki00062091-01-01" id="1"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="閩" sid="wiki00062091-00-01" id="0"/><体言>
+閩 びん 閩 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <rel type="=" target="南" sid="wiki00062091-00-01" id="1"/><NE:LOCATION:閩南><体言>
+南 なん 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 4D <rel type="ノ" target="閩南" sid="wiki00062091-01-01" id="1"/><体言>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="言葉" sid="wiki00062091-01-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="地方" sid="wiki00062091-01-01" id="3"/>
-話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 5D <rel type="ガ" target="言葉" sid="wiki00062091-01-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="地方" sid="wiki00062091-01-01" id="3"/><用言:動><時制:非過去><節-主辞>
+話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00062091-00-01" id="2"/><rel type="=構" target="語" sid="wiki00062091-00-01" id="2"/>
-言葉 ことば 言葉 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00062091-00-01" id="2"/><rel type="=構" target="語" sid="wiki00062091-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+言葉 ことば 言葉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00062091-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/12 MEMO:
 * -1D
-+ 1D
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="閩" sid="wiki00062091-01-01" id="1"/><rel type="ノ？" target="中華人民共和国" sid="wiki00062091-01-02" id="0"/><NE:LOCATION:中華人民共和国福建省>
-福建 ふっけん 福建 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 1D <体言>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="=" target="閩" sid="wiki00062091-01-01" id="1"/><rel type="ノ？" target="中華人民共和国" sid="wiki00062091-01-02" id="0"/><体言><NE:LOCATION:中華人民共和国福建省>
+福建 ふっけん 福建 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ノ" target="福建省" sid="wiki00062091-01-02" id="1"/><rel type="=" target="地方" sid="wiki00062091-01-01" id="3"/><rel type="=≒" mode="AND" target="泉州" sid="wiki00062091-00-01" id="7"/><rel type="=≒" mode="AND" target="漳州" sid="wiki00062091-00-01" id="9"/>
-南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="福建省" sid="wiki00062091-01-02" id="1"/><rel type="=" target="地方" sid="wiki00062091-01-01" id="3"/><rel type="=≒" mode="AND" target="泉州" sid="wiki00062091-00-01" id="7"/><rel type="=≒" mode="AND" target="漳州" sid="wiki00062091-00-01" id="9"/><体言>
+南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

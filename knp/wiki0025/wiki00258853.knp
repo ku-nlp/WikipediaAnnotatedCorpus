@@ -1,122 +1,122 @@
 # S-ID:wiki00258853-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2022/12/15 MEMO:
 * 9D
-+ 1D
-カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 15D <rel type="修飾" target="カトリック" sid="wiki00258853-00-01" id="0"/><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 15D <rel type="修飾" target="カトリック" sid="wiki00258853-00-01" id="0"/><体言><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <memo text="ローマにいる教皇ということなのか、ローマカトリックの略と考えるか"/>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <NE:OPTIONAL:ローマ教皇><NE-OPTIONAL:PERSON,NONE:0>
-教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <memo text="ローマにいる教皇ということなのか、ローマカトリックの略と考えるか"/><体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7D <体言><NE:OPTIONAL:ローマ教皇><NE-OPTIONAL:PERSON,NONE:0>
+教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="者" sid="wiki00258853-00-01" id="6"/>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 6D <rel type="ガ" target="者" sid="wiki00258853-00-01" id="6"/><rel type="ヲ" target="教派" sid="wiki00258853-00-01" id="15"/>
-指導 しどう 指導 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="=構" target="教皇" sid="wiki00258853-00-01" id="3"/><rel type="修飾" target="最高" sid="wiki00258853-00-01" id="4"/><rel type="ノ？" target="指導" sid="wiki00258853-00-01" id="5"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="者" sid="wiki00258853-00-01" id="6"/><体言><非用言格解析:形>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="者" sid="wiki00258853-00-01" id="6"/><rel type="ヲ" target="教派" sid="wiki00258853-00-01" id="15"/><体言><非用言格解析:動>
+指導 しどう 指導 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="=構" target="教皇" sid="wiki00258853-00-01" id="3"/><rel type="修飾" target="最高" sid="wiki00258853-00-01" id="4"/><rel type="ノ？" target="指導" sid="wiki00258853-00-01" id="5"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 12P <rel type="ヲ" target="教皇" sid="wiki00258853-00-01" id="3"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/><rel type="ト" target="者" sid="wiki00258853-00-01" id="6"/>
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 12P <rel type="ヲ" target="教皇" sid="wiki00258853-00-01" id="3"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/><rel type="ト" target="者" sid="wiki00258853-00-01" id="6"/><用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 7D
 + 9D
-全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="全" sid="wiki00258853-00-01" id="8"/>
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
+全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="修飾" target="全" sid="wiki00258853-00-01" id="8"/><体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ノ" target="信徒" sid="wiki00258853-00-01" id="11"/>
-12億 じゅうにおく 12億 名詞 6 数詞 7 * 0 * 0 NIL
++ 11D <rel type="ノ" target="信徒" sid="wiki00258853-00-01" id="11"/><体言>
+12億 じゅうにおく 12億 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="=構" target="12億人以上" sid="wiki00258853-00-01" id="10"/><rel type="ノ" target="教派" sid="wiki00258853-00-01" id="15"/><rel type="修飾" target="12億人以上" sid="wiki00258853-00-01" id="10"/>
-信徒 しんと 信徒 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=構" target="12億人以上" sid="wiki00258853-00-01" id="10"/><rel type="ノ" target="教派" sid="wiki00258853-00-01" id="15"/><rel type="修飾" target="12億人以上" sid="wiki00258853-00-01" id="10"/><体言>
+信徒 しんと 信徒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 15D <rel type="ヲ" target="信徒" sid="wiki00258853-00-01" id="11"/><rel type="ニ" target="世界" sid="wiki00258853-00-01" id="9"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/>
-有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 15D <rel type="ヲ" target="信徒" sid="wiki00258853-00-01" id="11"/><rel type="ニ" target="世界" sid="wiki00258853-00-01" id="9"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/><用言:動><時制:非過去><節-主辞>
+有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 14D <NE:OPTIONAL:キリスト教><NE-OPTIONAL:ORGANIZATION,NONE:0>
-キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 15D <rel type="デ" target="キリスト教" sid="wiki00258853-00-01" id="13"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/>
-最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 14D <体言><NE:OPTIONAL:キリスト教><NE-OPTIONAL:ORGANIZATION,NONE:0>
+キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 15D <rel type="デ" target="キリスト教" sid="wiki00258853-00-01" id="13"/><rel type="ガ" target="教派" sid="wiki00258853-00-01" id="15"/><用言:形><時制:非過去>
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="修飾" target="最大の" sid="wiki00258853-00-01" id="14"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/><rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><memo text="CO"/>
-教派 きょうは 教派 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="最大の" sid="wiki00258853-00-01" id="14"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/><rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+教派 きょうは 教派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00258853-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/07 MEMO:
 * -1D
-+ 1D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/>
-カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:カトリックきょうかい><NE-OPTIONAL:ORGANIZATION,NONE:0>
-きょうかい きょうかい きょうかい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/><体言>
+カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="=" target="教会" sid="wiki00258853-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:カトリックきょうかい><NE-OPTIONAL:ORGANIZATION,NONE:0>
+きょうかい きょうかい きょうかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00258853-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2022/12/15 MEMO:
 * 1D
 + 1D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ノ" target="教会" sid="wiki00258853-00-01" id="1"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="教会" sid="wiki00258853-00-01" id="1"/><体言>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="ローマ" sid="wiki00258853-00-01" id="2"/><NE:LOCATION:ローマ>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="=" target="ローマ" sid="wiki00258853-00-01" id="2"/><体言><NE:LOCATION:ローマ>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D
-司教 しきょう 司教 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="司教" sid="wiki00258853-01-01" id="3"/><rel type="ノ？" target="ローマ" sid="wiki00258853-01-01" id="2"/>
-座 ざ 座 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+司教 しきょう 司教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="司教" sid="wiki00258853-01-01" id="3"/><rel type="ノ？" target="ローマ" sid="wiki00258853-01-01" id="2"/><体言>
+座 ざ 座 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ヲ" target="中心" sid="wiki00258853-01-01" id="1"/><rel type="ニ" target="座" sid="wiki00258853-01-01" id="4"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00258853-01-01" id="6"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 6D <rel type="ヲ" target="中心" sid="wiki00258853-01-01" id="1"/><rel type="ニ" target="座" sid="wiki00258853-01-01" id="4"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00258853-01-01" id="6"/><用言:動><時制:非過去><節-主辞>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 12D <rel type="トイウ" target="置く" sid="wiki00258853-01-01" id="5"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 12D <rel type="トイウ" target="置く" sid="wiki00258853-01-01" id="5"/><体言><節-区切>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 8D <rel type="=" target="ローマ" sid="wiki00258853-01-01" id="2"/>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 11P <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 8D <rel type="=" target="ローマ" sid="wiki00258853-01-01" id="2"/><体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 11P <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><体言><NE:OPTIONAL:ローマ教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="=" target="ローマ" sid="wiki00258853-01-01" id="7"/>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 11D <rel type="=" target="ローマ" sid="wiki00258853-01-01" id="7"/><体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 11D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/>
-カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 12D <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><NE:OPTIONAL:ローマ・カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 11D <rel type="=" target="カトリック" sid="wiki00258853-00-01" id="0"/><体言>
+カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 12D <rel type="=構" target="教会" sid="wiki00258853-00-01" id="1"/><体言><NE:OPTIONAL:ローマ・カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><rel type="カラ" target="こと" sid="wiki00258853-01-01" id="6"/><rel type="ト" target="教会" sid="wiki00258853-01-01" id="8"/><rel type="ト" mode="AND" target="教会" sid="wiki00258853-01-01" id="11"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ニ" target="不特定:人"/><rel type="カラ" target="こと" sid="wiki00258853-01-01" id="6"/><rel type="ト" target="教会" sid="wiki00258853-01-01" id="8"/><rel type="ト" mode="AND" target="教会" sid="wiki00258853-01-01" id="11"/><rel type="ガ" target="教会" sid="wiki00258853-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00258853-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/07 MEMO:
 * 1P
-+ 3P <rel type="=" target="座" sid="wiki00258853-01-01" id="4"/>
-聖座 せいざ 聖座 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=" target="座" sid="wiki00258853-01-01" id="4"/><体言>
+聖座 せいざ 聖座 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="ローマ" sid="wiki00258853-00-01" id="2"/>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3D <rel type="=" target="教皇" sid="wiki00258853-00-01" id="3"/>
-教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=≒" target="座" sid="wiki00258853-01-01" id="4"/><NE:OPTIONAL:ローマ教皇庁><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="=" target="ローマ" sid="wiki00258853-00-01" id="2"/><体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 3D <rel type="=" target="教皇" sid="wiki00258853-00-01" id="3"/><体言>
+教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ -1D <rel type="=≒" target="座" sid="wiki00258853-01-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:ローマ教皇庁><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

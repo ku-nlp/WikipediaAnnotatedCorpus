@@ -1,118 +1,118 @@
 # S-ID:wiki00072005-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/20 MEMO:
 * 5D
-+ 1D
-Microsoft Microsoft Microsoft 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 1D <体言>
+Microsoft Microsoft Microsoft 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 9D <NE:ARTIFACT:Microsoft　DirectX>
-DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 9D <体言><NE:ARTIFACT:Microsoft　DirectX>
+DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="Microsoft" sid="wiki00072005-00-01" id="0"/><NE:ORGANIZATION:マイクロソフト>
-マイクロソフト まいくろそふと マイクロソフト 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3D <rel type="=" target="Microsoft" sid="wiki00072005-00-01" id="0"/><体言><NE:ORGANIZATION:マイクロソフト>
+マイクロソフト まいくろそふと マイクロソフト 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="マイクロソフト" sid="wiki00072005-00-01" id="2"/><rel type="ヲ" target="API" sid="wiki00072005-00-01" id="8"/>
-開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="マイクロソフト" sid="wiki00072005-00-01" id="2"/><rel type="ヲ" target="API" sid="wiki00072005-00-01" id="8"/><用言:動><時制:過去><節-主辞>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
-+ 5P
-ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <体言>
+ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-マルチメディア まるちめでぃあ マルチメディア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ヲ" target="ゲーム" sid="wiki00072005-00-01" id="4"/><rel type="ヲ" mode="AND" target="マルチメディア" sid="wiki00072005-00-01" id="5"/><rel type="外の関係" target="用" sid="wiki00072005-00-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="不特定:物"/>
-処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="処理" sid="wiki00072005-00-01" id="6"/>
-用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 6D <体言>
+マルチメディア まるちめでぃあ マルチメディア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ヲ" target="ゲーム" sid="wiki00072005-00-01" id="4"/><rel type="ヲ" mode="AND" target="マルチメディア" sid="wiki00072005-00-01" id="5"/><rel type="外の関係" target="用" sid="wiki00072005-00-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="不特定:物"/><体言><非用言格解析:動>
+処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="処理" sid="wiki00072005-00-01" id="6"/><体言>
+用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="修飾" target="用" sid="wiki00072005-00-01" id="7"/>
-API えーぴーあい API 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="用" sid="wiki00072005-00-01" id="7"/><体言>
+API えーぴーあい API 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="API" sid="wiki00072005-00-01" id="8"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="=構" target="DirectX" sid="wiki00072005-00-01" id="1"/>
-集合 しゅうごう 集合 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ノ" target="API" sid="wiki00072005-00-01" id="8"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="=構" target="DirectX" sid="wiki00072005-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+集合 しゅうごう 集合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00072005-00-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/20 MEMO:
 * -1D
-+ -1D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><NE:ARTIFACT:ダイレクトエックス>
-ダイレクトエックス だいれくとえっくす ダイレクトエックス 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ -1D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:ダイレクトエックス>
+ダイレクトエックス だいれくとえっくす ダイレクトエックス 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 EOS
 # S-ID:wiki00072005-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/06/19 MEMO:
 * 1D
-+ 1D
-オーバーヘッド おーばーへっど オーバーヘッド 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動>
+オーバーヘッド おーばーへっど オーバーヘッド 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ヲ" target="オーバーヘッド" sid="wiki00072005-01" id="0"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="外の関係" target="仮想化" sid="wiki00072005-01" id="3"/><rel type="外の関係" mode="AND" target="抽象化" sid="wiki00072005-01" id="4"/>
-少なく すくなく 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 4D <rel type="ヲ" target="オーバーヘッド" sid="wiki00072005-01" id="0"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="外の関係" target="仮想化" sid="wiki00072005-01" id="3"/><rel type="外の関係" mode="AND" target="抽象化" sid="wiki00072005-01" id="4"/><用言:動><時制:過去><節-主辞>
+少なく すくなく 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 した した する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ形 10 NIL
 * 3D
-+ 4D
-デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4P <rel type="修飾" target="少なくした" sid="wiki00072005-01" id="1"/><rel type="ヲ" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/>
-仮想 かそう 仮想 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4P <rel type="修飾" target="少なくした" sid="wiki00072005-01" id="1"/><rel type="ヲ" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><体言><非用言格解析:動>
+仮想 かそう 仮想 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="少なくした" sid="wiki00072005-01" id="1"/><rel type="ヲ" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/>
-抽象 ちゅうしょう 抽象 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="修飾" target="少なくした" sid="wiki00072005-01" id="1"/><rel type="ヲ" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><体言><非用言格解析:動>
+抽象 ちゅうしょう 抽象 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="ヲ" target="仮想化" sid="wiki00072005-01" id="4"/><rel type="ヲ" mode="AND" target="抽象化" sid="wiki00072005-01" id="4"/>
-提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="ヲ" target="仮想化" sid="wiki00072005-01" id="4"/><rel type="ヲ" mode="AND" target="抽象化" sid="wiki00072005-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00072005-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/06/19 MEMO:
 * 2D
-+ 1P <NE:ARTIFACT:Windows>
-Windows ういんどーず Windows 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 1P <体言><NE:ARTIFACT:Windows>
+Windows ういんどーず Windows 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3P <NE:ARTIFACT:Xbox>
-Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 3P <体言><NE:ARTIFACT:Xbox>
+Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="=≒" target="Xbox" sid="wiki00072005-02" id="1"/>
-Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 3D <rel type="=≒" target="Xbox" sid="wiki00072005-02" id="1"/><体言>
+Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 5P <NE:ARTIFACT:Xbox　360>
-360 さんろくまる 360 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 5P <体言><NE:ARTIFACT:Xbox　360>
+360 さんろくまる 360 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="=" target="Xbox" sid="wiki00072005-02" id="2"/>
-Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 5D <rel type="=" target="Xbox" sid="wiki00072005-02" id="2"/><体言>
+Xbox えっくすぼっくす Xbox 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <NE:ARTIFACT:Xbox　One>
-One わん One 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 8D <体言><NE:ARTIFACT:Xbox　One>
+One わん One 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 7D <rel type="=" target="マイクロソフト" sid="wiki00072005-00-01" id="2"/><NE:ORGANIZATION:マイクロソフト>
-マイクロソフト まいくろそふと マイクロソフト 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 8D <rel type="ノ" target="マイクロソフト" sid="wiki00072005-02" id="6"/>
-製 せい 製 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 7D <rel type="=" target="マイクロソフト" sid="wiki00072005-00-01" id="2"/><体言><NE:ORGANIZATION:マイクロソフト>
+マイクロソフト まいくろそふと マイクロソフト 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 8D <rel type="ノ" target="マイクロソフト" sid="wiki00072005-02" id="6"/><体言>
+製 せい 製 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 9P <rel type="=≒" target="Windows" sid="wiki00072005-02" id="0"/><rel type="=≒" mode="AND" target="Xbox" sid="wiki00072005-02" id="1"/><rel type="=≒" mode="AND" target="360" sid="wiki00072005-02" id="3"/><rel type="=≒" mode="AND" target="One" sid="wiki00072005-02" id="5"/><rel type="修飾" target="製" sid="wiki00072005-02" id="7"/>
-プラットフォーム ぷらっとふぉーむ プラットフォーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="=≒" target="Windows" sid="wiki00072005-02" id="0"/><rel type="=≒" mode="AND" target="Xbox" sid="wiki00072005-02" id="1"/><rel type="=≒" mode="AND" target="360" sid="wiki00072005-02" id="3"/><rel type="=≒" mode="AND" target="One" sid="wiki00072005-02" id="5"/><rel type="修飾" target="製" sid="wiki00072005-02" id="7"/><体言>
+プラットフォーム ぷらっとふぉーむ プラットフォーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="=" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="修飾" target="製" sid="wiki00072005-02" id="7"/><memo text="この辺り、よくわからず。"/>
-デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="デバイス" sid="wiki00072005-01" id="2"/><rel type="修飾" target="製" sid="wiki00072005-02" id="7"/><memo text="この辺り、よくわからず。"/><体言>
+デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 12D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 12D
-広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 12D <用言:形><時制:非過去>
+広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ニオイテ" target="プラットフォーム" sid="wiki00072005-02" id="8"/><rel type="ニオイテ" mode="AND" target="デバイス" sid="wiki00072005-02" id="9"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
-利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ニオイテ" target="プラットフォーム" sid="wiki00072005-02" id="8"/><rel type="ニオイテ" mode="AND" target="デバイス" sid="wiki00072005-02" id="9"/><rel type="ガ" target="DirectX" sid="wiki00072005-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -120,71 +120,71 @@ One わん One 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00072005-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:96.00000 MOD:2023/06/20 MEMO:
 * 1D
-+ 1D <rel type="=" target="API" sid="wiki00072005-00-01" id="8"/>
-API えーぴーあい API 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="API" sid="wiki00072005-00-01" id="8"/><体言>
+API えーぴーあい API 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="API" sid="wiki00072005-03" id="0"/>
-一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="API" sid="wiki00072005-03" id="0"/><体言>
+一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D
-ハードウェア はーどうぇあ ハードウェア 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ニヨッテ" target="ハードウェア" sid="wiki00072005-03" id="2"/>
-アクセラレーション あくせられーしょん アクセラレーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+ハードウェア はーどうぇあ ハードウェア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ニヨッテ" target="ハードウェア" sid="wiki00072005-03" id="2"/><体言>
+アクセラレーション あくせられーしょん アクセラレーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/><rel type="ニ" target="アクセラレーション" sid="wiki00072005-03" id="3"/>
-対応 たいおう 対応 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/><rel type="ニ" target="アクセラレーション" sid="wiki00072005-03" id="3"/><用言:動><節-主辞><節-区切>
+対応 たいおう 対応 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><NE:ARTIFACT:DirectX>
-DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
-+ 9D
-互換 ごかん 互換 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><体言><NE:ARTIFACT:DirectX>
+DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
++ 9D <体言><非用言格解析:動>
+互換 ごかん 互換 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 9P <rel type="修飾" target="互換" sid="wiki00072005-03" id="6"/><rel type="=" target="ハードウェア" sid="wiki00072005-03" id="2"/>
-ハードウェア はーどうぇあ ハードウェア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="修飾" target="互換" sid="wiki00072005-03" id="6"/><rel type="=" target="ハードウェア" sid="wiki00072005-03" id="2"/><体言>
+ハードウェア はーどうぇあ ハードウェア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="デバイス" sid="wiki00072005-01" id="2"/>
-デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="互換" sid="wiki00072005-03" id="6"/><rel type="ノ？" target="デバイス" sid="wiki00072005-03" id="8"/>
-ドライバー どらいばー ドライバー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="デバイス" sid="wiki00072005-01" id="2"/><体言>
+デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="修飾" target="互換" sid="wiki00072005-03" id="6"/><rel type="ノ？" target="デバイス" sid="wiki00072005-03" id="8"/><体言>
+ドライバー どらいばー ドライバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="ハードウェア" sid="wiki00072005-03" id="7"/><rel type="ガ" mode="AND" target="ドライバー" sid="wiki00072005-03" id="9"/><rel type="ニ" target="コンピュータ" sid="wiki00072005-03" id="11"/>
-搭載 とうさい 搭載 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="ハードウェア" sid="wiki00072005-03" id="7"/><rel type="ガ" mode="AND" target="ドライバー" sid="wiki00072005-03" id="9"/><rel type="ニ" target="コンピュータ" sid="wiki00072005-03" id="11"/><用言:動><時制:過去><節-主辞>
+搭載 とうさい 搭載 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 12D
-+ 16D <rel type="修飾" target="搭載された" sid="wiki00072005-03" id="10"/>
-コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="搭載された" sid="wiki00072005-03" id="10"/><体言>
+コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ノ" target="コンピュータ" sid="wiki00072005-03" id="11"/>
-CPU しーぴーゆー CPU 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="コンピュータ" sid="wiki00072005-03" id="11"/><体言>
+CPU しーぴーゆー CPU 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ガ" target="CPU" sid="wiki00072005-03" id="12"/>
-負担 ふたん 負担 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="CPU" sid="wiki00072005-03" id="12"/><体言><非用言格解析:動>
+負担 ふたん 負担 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 16P <rel type="ヲ" target="負担" sid="wiki00072005-03" id="13"/><rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/>
-低減 ていげん 低減 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16P <rel type="ヲ" target="負担" sid="wiki00072005-03" id="13"/><rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/><用言:動><節-主辞><節-区切>
+低減 ていげん 低減 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 つつ つつ つつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 16D
-高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ -1D <rel type="=" target="処理" sid="wiki00072005-00-01" id="6"/><rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/><rel type="デ" target="コンピュータ上" sid="wiki00072005-03" id="11"/>
-処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <体言><非用言格解析:形>
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ -1D <rel type="=" target="処理" sid="wiki00072005-00-01" id="6"/><rel type="ガ" target="一部" sid="wiki00072005-03" id="1"/><rel type="デ" target="コンピュータ上" sid="wiki00072005-03" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
+処理 しょり 処理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -193,85 +193,85 @@ CPU しーぴーゆー CPU 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00072005-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:46.00000 MOD:2023/06/20 MEMO:
 * 1D
-+ 1D
-グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 21D
-関して かんして 関する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 21D <用言:動>
+関して かんして 関する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><NE:ARTIFACT:DirectX>
-DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 4D <rel type="=" target="DirectX" sid="wiki00072005-00-01" id="1"/><体言><NE:ARTIFACT:DirectX>
+DirectX だいれくとえっくす DirectX 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="ダイレクト" sid="wiki00072005-00-02" id="0"/>
++ 4D <rel type="=" target="ダイレクト" sid="wiki00072005-00-02" id="0"/><体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-Direct だいれくと Direct 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 5D <rel type="ノ" target="DirectX" sid="wiki00072005-04" id="2"/><NE:ARTIFACT:Direct3D>
+Direct だいれくと Direct 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 5D <rel type="ノ" target="DirectX" sid="wiki00072005-04" id="2"/><体言><NE:ARTIFACT:Direct3D>
 3 すりー 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
-D D D 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:tail>
+D D D 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 ） ） ） 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 6D
-互換 ごかん 互換 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動>
+互換 ごかん 互換 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="修飾" target="互換" sid="wiki00072005-04" id="5"/>
-GPU じーぴーゆー GPU 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="互換" sid="wiki00072005-04" id="5"/><体言>
+GPU じーぴーゆー GPU 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 8D
++ 8D <体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-ビデオ びでお ビデオ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P <rel type="=≒" target="GPU" sid="wiki00072005-04" id="6"/><rel type="修飾" target="ビデオ" sid="wiki00072005-04" id="7"/>
-カード かーど カード 名詞 6 普通名詞 1 * 0 * 0 NIL
+ビデオ びでお ビデオ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="=≒" target="GPU" sid="wiki00072005-04" id="6"/><rel type="修飾" target="ビデオ" sid="wiki00072005-04" id="7"/><体言>
+カード かーど カード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D
-オンボード おんぼーど オンボード 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=≒" target="GPU" sid="wiki00072005-04" id="6"/><rel type="修飾" target="オンボード" sid="wiki00072005-04" id="9"/>
-グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+オンボード おんぼーど オンボード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="=≒" target="GPU" sid="wiki00072005-04" id="6"/><rel type="修飾" target="オンボード" sid="wiki00072005-04" id="9"/><体言>
+グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ヲ" target="GPU" sid="wiki00072005-04" id="6"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00072005-04" id="12"/>
-利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="ヲ" target="GPU" sid="wiki00072005-04" id="6"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00072005-04" id="12"/><用言:動><時制:非過去><節-主辞>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 9D
-+ 13D <rel type="トイウ" target="利用する" sid="wiki00072005-04" id="11"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 13D <rel type="トイウ" target="利用する" sid="wiki00072005-04" id="11"/><体言>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 21D
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 21D <用言:動>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
 + 15D <rel type="ガ" target="品質" sid="wiki00072005-04" id="15"/>
-高 こう 高 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 19D <rel type="修飾" target="高" sid="wiki00072005-04" id="14"/>
-品質 ひんしつ 品質 名詞 6 普通名詞 1 * 0 * 0 NIL
+高 こう 高 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <rel type="修飾" target="高" sid="wiki00072005-04" id="14"/><体言>
+品質 ひんしつ 品質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 17P
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
++ 17P <体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 次元 じげん 次元 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 19D
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 19D <体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 次元 じげん 次元 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D
-コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 21D <rel type="修飾" target="品質" sid="wiki00072005-04" id="15"/><rel type="修飾" mode="AND" target="2次元" sid="wiki00072005-04" id="16"/><rel type="修飾" mode="AND" target="3次元" sid="wiki00072005-04" id="17"/><rel type="修飾" mode="AND" target="コンピュータ" sid="wiki00072005-04" id="18"/><rel type="=≒" target="グラフィックス" sid="wiki00072005-04" id="0"/>
-グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <体言>
+コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 21D <rel type="修飾" target="品質" sid="wiki00072005-04" id="15"/><rel type="修飾" mode="AND" target="2次元" sid="wiki00072005-04" id="16"/><rel type="修飾" mode="AND" target="3次元" sid="wiki00072005-04" id="17"/><rel type="修飾" mode="AND" target="コンピュータ" sid="wiki00072005-04" id="18"/><rel type="=≒" target="グラフィックス" sid="wiki00072005-04" id="0"/><体言>
+グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 21D
-高速に こうそくに 高速だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
++ 21D <用言:形><時制:非過去>
+高速に こうそくに 高速だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ニカンシテ" target="グラフィックス" sid="wiki00072005-04" id="0"/><rel type="ヲ" target="グラフィックス" sid="wiki00072005-04" id="19"/><rel type="ニヨッテ" target="こと" sid="wiki00072005-04" id="12"/><rel type="ガ" target="不特定:人"/>
-レンダリング れんだりんぐ レンダリング 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ニカンシテ" target="グラフィックス" sid="wiki00072005-04" id="0"/><rel type="ヲ" target="グラフィックス" sid="wiki00072005-04" id="19"/><rel type="ニヨッテ" target="こと" sid="wiki00072005-04" id="12"/><rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+レンダリング れんだりんぐ レンダリング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

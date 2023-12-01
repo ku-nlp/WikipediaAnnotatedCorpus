@@ -1,78 +1,78 @@
 # S-ID:wiki00180936-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/11/10 MEMO:
 * 4D
-+ 1D
-修辞 しゅうじ 修辞 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ニカンシテ" target="修辞" sid="wiki00180936-00-01" id="0"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言>
+修辞 しゅうじ 修辞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ニカンシテ" target="修辞" sid="wiki00180936-00-01" id="0"/><体言>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3P <rel type="ガ" target="不特定:人"/><memo text="同じ記号まとめて一つでいいか"/>
-[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL
++ 3P <rel type="ガ" target="不特定:人"/><memo text="同じ記号まとめて一つでいいか"/><体言>
+[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 弁論 べんろん 弁論 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ]] ]] ]] 特殊 1 記号 5 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4P <rel type="ガ" target="不特定:人"/>
-[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL
++ 4P <rel type="ガ" target="不特定:人"/><体言>
+[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 演説 えんぜつ 演説 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ]] ]] ]] 特殊 1 記号 5 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
-[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言>
+[[ [[ [[ 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 説得 せっとく 説得 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ]] ]] ]] 特殊 1 記号 5 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 6D <rel type="ノ" target="弁論" sid="wiki00180936-00-01" id="2"/><rel type="ノ" mode="AND" target="演説" sid="wiki00180936-00-01" id="3"/><rel type="ノ" mode="AND" target="説得" sid="wiki00180936-00-01" id="4"/>
-技術 ぎじゅつ 技術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="弁論" sid="wiki00180936-00-01" id="2"/><rel type="ノ" mode="AND" target="演説" sid="wiki00180936-00-01" id="3"/><rel type="ノ" mode="AND" target="説得" sid="wiki00180936-00-01" id="4"/><体言>
+技術 ぎじゅつ 技術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ニ" target="技術" sid="wiki00180936-00-01" id="5"/><rel type="ガ" target="分野" sid="wiki00180936-00-01" id="8"/>
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 8D <rel type="ニ" target="技術" sid="wiki00180936-00-01" id="5"/><rel type="ガ" target="分野" sid="wiki00180936-00-01" id="8"/><用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1P
-+ 8D <rel type="=≒" target="学" sid="wiki00180936-00-01" id="1"/>
-学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="学" sid="wiki00180936-00-01" id="1"/><rel type="ノ" target="学問" sid="wiki00180936-00-01" id="7"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="-2"/><rel type="ニカンシテ" target="技術" sid="wiki00180936-00-01" id="5"/><memo text="CO"/>
-分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=≒" target="学" sid="wiki00180936-00-01" id="1"/><体言><非用言格解析:動>
+学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="学" sid="wiki00180936-00-01" id="1"/><rel type="ノ" target="学問" sid="wiki00180936-00-01" id="7"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="-2"/><rel type="ニカンシテ" target="技術" sid="wiki00180936-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00180936-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/08/26 MEMO:
 * -1D
-+ 1D <rel type="=" target="修辞" sid="wiki00180936-00-01" id="0"/>
-しゅうじ しゅうじ しゅうじ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="学" sid="wiki00180936-00-01" id="1"/>
-がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="修辞" sid="wiki00180936-00-01" id="0"/><体言>
+しゅうじ しゅうじ しゅうじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="学" sid="wiki00180936-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00180936-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/09/28 MEMO:
 * 1P
-+ 1D <rel type="=" target="弁論" sid="wiki00180936-00-01" id="2"/><rel type="ガ" target="不特定:人"/>
-弁論 べんろん 弁論 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3P <rel type="ノ" target="弁論" sid="wiki00180936-01" id="0"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/>
-術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="弁論" sid="wiki00180936-00-01" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+弁論 べんろん 弁論 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3P <rel type="ノ" target="弁論" sid="wiki00180936-01" id="0"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/><体言>
+術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D <rel type="ガ" target="不特定:人"/>
-雄弁 ゆうべん 雄弁だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 5P <rel type="ノ" target="雄弁" sid="wiki00180936-01" id="2"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/>
-術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:形>
+雄弁 ゆうべん 雄弁だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 5P <rel type="ノ" target="雄弁" sid="wiki00180936-01" id="2"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/><体言>
+術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="説得" sid="wiki00180936-00-01" id="4"/>
-説得 せっとく 説得 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6P <rel type="ノ" target="説得" sid="wiki00180936-01" id="4"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/>
-術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="説得" sid="wiki00180936-00-01" id="4"/><体言><非用言格解析:動>
+説得 せっとく 説得 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6P <rel type="ノ" target="説得" sid="wiki00180936-01" id="4"/><rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><rel type="=" mode="AND" target="技術" sid="wiki00180936-00-01" id="5"/><体言>
+術 じゅつ 術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 7P <rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/>
-レートリケー れーとりけー レートリケー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="=構" target="学" sid="wiki00180936-00-01" id="1"/><体言>
+レートリケー れーとりけー レートリケー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="=" target="レートリケー" sid="wiki00180936-01" id="6"/><rel type="=構" mode="AND" target="学" sid="wiki00180936-00-01" id="1"/>
-レトリック れとりっく レトリック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="レートリケー" sid="wiki00180936-01" id="6"/><rel type="=構" mode="AND" target="学" sid="wiki00180936-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞>
+レトリック れとりっく レトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学" sid="wiki00180936-00-01" id="1"/><rel type="ト" target="術" sid="wiki00180936-01" id="1"/><rel type="ト" mode="AND" target="術" sid="wiki00180936-01" id="3"/><rel type="ト" mode="AND" target="術" sid="wiki00180936-01" id="5"/><rel type="ト" mode="AND" target="レートリケー" sid="wiki00180936-01" id="6"/><rel type="ト" mode="AND" target="レトリック" sid="wiki00180936-01" id="7"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学" sid="wiki00180936-00-01" id="1"/><rel type="ト" target="術" sid="wiki00180936-01" id="1"/><rel type="ト" mode="AND" target="術" sid="wiki00180936-01" id="3"/><rel type="ト" mode="AND" target="術" sid="wiki00180936-01" id="5"/><rel type="ト" mode="AND" target="レートリケー" sid="wiki00180936-01" id="6"/><rel type="ト" mode="AND" target="レトリック" sid="wiki00180936-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

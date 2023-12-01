@@ -1,145 +1,145 @@
 # S-ID:wiki00077304-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2023/08/28 MEMO:
 * 4D
-+ 2D
-特命 とくめい 特命 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D
-全権 ぜんけん 全権 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="修飾" target="特命" sid="wiki00077304-00-01" id="0"/><rel type="修飾" mode="AND" target="全権" sid="wiki00077304-00-01" id="1"/>
-大使 たいし 大使 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+特命 とくめい 特命 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言>
+全権 ぜんけん 全権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="修飾" target="特命" sid="wiki00077304-00-01" id="0"/><rel type="修飾" mode="AND" target="全権" sid="wiki00077304-00-01" id="1"/><体言>
+大使 たいし 大使 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="外交" sid="wiki00077304-00-01" id="3"/>
-使節 しせつ 使節 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ？" target="使節" sid="wiki00077304-00-01" id="4"/>
-団 だん 団 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="修飾" target="外交" sid="wiki00077304-00-01" id="3"/><体言>
+使節 しせつ 使節 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ？" target="使節" sid="wiki00077304-00-01" id="4"/><体言>
+団 だん 団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 8P <rel type="ノ" target="団" sid="wiki00077304-00-01" id="5"/><rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/>
-長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="ノ" target="団" sid="wiki00077304-00-01" id="5"/><rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/><用言:判><体言><時制:非過去>
+長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 * 4D
-+ 8D <rel type="ガ" target="階級" sid="wiki00077304-00-01" id="8"/>
-最上 さいじょう 最上だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 8D <rel type="ガ" target="階級" sid="wiki00077304-00-01" id="8"/><体言><非用言格解析:形>
+最上 さいじょう 最上だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 級 きゅう 級 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="修飾" target="最上級" sid="wiki00077304-00-01" id="7"/>
-階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="修飾" target="最上級" sid="wiki00077304-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00077304-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/28 MEMO:
 * -1D
-+ 2D <rel type="=" target="特命" sid="wiki00077304-00-01" id="0"/>
-とくめい とくめい とくめい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="全権" sid="wiki00077304-00-01" id="1"/>
-ぜんけん ぜんけん ぜんけん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="大使" sid="wiki00077304-00-01" id="2"/>
-たいし たいし たいし 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="特命" sid="wiki00077304-00-01" id="0"/><体言>
+とくめい とくめい とくめい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="全権" sid="wiki00077304-00-01" id="1"/><体言>
+ぜんけん ぜんけん ぜんけん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="大使" sid="wiki00077304-00-01" id="2"/><体言>
+たいし たいし たいし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00077304-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/08/28 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="国" sid="wiki00077304-01" id="1"/><rel type="ヲ" target="団" sid="wiki00077304-00-01" id="5"/><rel type="ヲ" mode="AND" target="大使" sid="wiki00077304-00-01" id="2"/>
-接受 せつじゅ 接受 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="接受" sid="wiki00077304-01" id="0"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="国" sid="wiki00077304-01" id="1"/><rel type="ヲ" target="団" sid="wiki00077304-00-01" id="5"/><rel type="ヲ" mode="AND" target="大使" sid="wiki00077304-00-01" id="2"/><体言><非用言格解析:動>
+接受 せつじゅ 接受 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="修飾" target="接受" sid="wiki00077304-01" id="0"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ノ" target="国" sid="wiki00077304-01" id="1"/>
-元首 げんしゅ 元首 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="国" sid="wiki00077304-01" id="1"/><体言>
+元首 げんしゅ 元首 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 4D <用言:動>
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 13P
-+ 18P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニタイシテ" target="元首" sid="wiki00077304-01" id="2"/>
-派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニタイシテ" target="元首" sid="wiki00077304-01" id="2"/><用言:動><節-主辞><節-区切>
+派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
-+ 6D <rel type="=" target="外交" sid="wiki00077304-00-01" id="3"/>
-外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニカンシテ" target="外交" sid="wiki00077304-01" id="5"/><rel type="ト" target="元首" sid="wiki00077304-01" id="2"/><rel type="ト" mode="？" target="国" sid="wiki00077304-01" id="1"/>
-交渉 こうしょう 交渉 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="=" target="外交" sid="wiki00077304-00-01" id="3"/><体言>
+外交 がいこう 外交 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニカンシテ" target="外交" sid="wiki00077304-01" id="5"/><rel type="ト" target="元首" sid="wiki00077304-01" id="2"/><rel type="ト" mode="？" target="国" sid="wiki00077304-01" id="1"/><体言><非用言格解析:動>
+交渉 こうしょう 交渉 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="=" target="全権" sid="wiki00077304-00-01" id="1"/>
-全権 ぜんけん 全権 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="修飾" target="全権" sid="wiki00077304-01" id="7"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/>
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="=" target="全権" sid="wiki00077304-00-01" id="1"/><体言>
+全権 ぜんけん 全権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="修飾" target="全権" sid="wiki00077304-01" id="7"/><rel type="=構" target="大使" sid="wiki00077304-00-01" id="2"/><体言><非用言格解析:動>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 12D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 12D
-条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言>
+条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11P
-+ 12P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニ" target="条約" sid="wiki00077304-01" id="10"/><rel type="トシテ" target="代表" sid="wiki00077304-01" id="8"/>
-調印 ちょういん 調印 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニ" target="条約" sid="wiki00077304-01" id="10"/><rel type="トシテ" target="代表" sid="wiki00077304-01" id="8"/><体言><非用言格解析:動>
+調印 ちょういん 調印 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="トシテ" target="代表" sid="wiki00077304-01" id="8"/><rel type="ニ" target="条約" sid="wiki00077304-01" id="10"/>
-署名 しょめい 署名 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16P <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="トシテ" target="代表" sid="wiki00077304-01" id="8"/><rel type="ニ" target="条約" sid="wiki00077304-01" id="10"/><体言><非用言格解析:動>
+署名 しょめい 署名 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 15D <rel type="ガ" target="国民" sid="wiki00077304-01" id="15"/><rel type="ニ" target="国" sid="wiki00077304-01" id="1"/>
-滞在 たいざい 滞在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ガ" target="国民" sid="wiki00077304-01" id="15"/><rel type="ニ" target="国" sid="wiki00077304-01" id="1"/><用言:動><時制:非過去>
+滞在 たいざい 滞在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 11D
-+ 15D <rel type="=≒" target="国" sid="wiki00077304-01" id="1"/><rel type="ノ" target="大使" sid="wiki00077304-00-01" id="2"/>
-自 じ 自 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="ノ" target="自" sid="wiki00077304-01" id="14"/>
-国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=≒" target="国" sid="wiki00077304-01" id="1"/><rel type="ノ" target="大使" sid="wiki00077304-00-01" id="2"/><体言>
+自 じ 自 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="ノ" target="自" sid="wiki00077304-01" id="14"/><体言>
+国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 17D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ヲ" target="国民" sid="wiki00077304-01" id="15"/>
-保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ヲ" target="国民" sid="wiki00077304-01" id="15"/><体言><非用言格解析:動>
+保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 18D <rel type="=≒" target="保護" sid="wiki00077304-01" id="16"/><rel type="=≒" mode="AND" target="署名" sid="wiki00077304-01" id="12"/><rel type="=≒" mode="AND" target="調印" sid="wiki00077304-01" id="11"/><rel type="=≒" mode="AND" target="交渉" sid="wiki00077304-01" id="6"/>
-任務 にんむ 任務 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=≒" target="保護" sid="wiki00077304-01" id="16"/><rel type="=≒" mode="AND" target="署名" sid="wiki00077304-01" id="12"/><rel type="=≒" mode="AND" target="調印" sid="wiki00077304-01" id="11"/><rel type="=≒" mode="AND" target="交渉" sid="wiki00077304-01" id="6"/><体言>
+任務 にんむ 任務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ヲ" target="任務" sid="wiki00077304-01" id="17"/>
-行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ヲ" target="任務" sid="wiki00077304-01" id="17"/><用言:動><時制:非過去><節-主辞><節-区切>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00077304-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/08/28 MEMO:
 * 1D
-+ 1D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <NE:ORGANIZATION:国際連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><非用言格解析:動><NE:ORGANIZATION:国際連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="国際" sid="wiki00077304-02" id="0"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=≒" target="連合" sid="wiki00077304-02" id="1"/><rel type="修飾" target="国際" sid="wiki00077304-02" id="2"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="国際" sid="wiki00077304-02" id="0"/><体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=≒" target="連合" sid="wiki00077304-02" id="1"/><rel type="修飾" target="国際" sid="wiki00077304-02" id="2"/><体言>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D
-政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ヲ" target="政府" sid="wiki00077304-02" id="4"/><rel type="ガ" target="部" sid="wiki00077304-02" id="6"/>
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="代表" sid="wiki00077304-02" id="5"/><rel type="ノ" target="機関" sid="wiki00077304-02" id="3"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ヲ" target="政府" sid="wiki00077304-02" id="4"/><rel type="ガ" target="部" sid="wiki00077304-02" id="6"/><体言><非用言格解析:動>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ？" target="代表" sid="wiki00077304-02" id="5"/><rel type="ノ" target="機関" sid="wiki00077304-02" id="3"/><体言>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D
-対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 8D <用言:動>
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニタイシテ" target="部" sid="wiki00077304-02" id="6"/>
-派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="大使" sid="wiki00077304-00-01" id="2"/><rel type="ニタイシテ" target="部" sid="wiki00077304-02" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
+派遣 はけん 派遣 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,26 +1,26 @@
 # S-ID:wiki00092049-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/02/09 MEMO:
 * 3D
-+ 4D <NE:OPTIONAL:スサノオ><NE-OPTIONAL:PERSON,NONE:2>
-スサノオ すさのお スサノオ 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4D <体言><NE:OPTIONAL:スサノオ><NE-OPTIONAL:PERSON,NONE:2>
+スサノオ すさのお スサノオ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ？" target="日本" sid="wiki00092049-00-01" id="1"/>
-神話 しんわ 神話 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:日本>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00092049-00-01" id="1"/><体言>
+神話 しんわ 神話 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="男神" sid="wiki00092049-00-01" id="4"/><rel type="ニ" target="神話" sid="wiki00092049-00-01" id="2"/>
-登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="男神" sid="wiki00092049-00-01" id="4"/><rel type="ニ" target="神話" sid="wiki00092049-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
+登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="スサノオ" sid="wiki00092049-00-01" id="0"/><rel type="=構" target="スサノオ" sid="wiki00092049-00-01" id="0"/><memo text="CO"/>
-男神 おがみ 男神 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="スサノオ" sid="wiki00092049-00-01" id="0"/><rel type="=構" target="スサノオ" sid="wiki00092049-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+男神 おがみ 男神 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00092049-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/06/05 MEMO:
 * -1D
-+ -1D <rel type="=" target="スサノオ" sid="wiki00092049-00-01" id="0"/><NE:OPTIONAL:スサノヲ><NE-OPTIONAL:PERSON:2>
-スサノヲ すさのを スサノヲ 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="スサノオ" sid="wiki00092049-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:スサノヲ><NE-OPTIONAL:PERSON:2>
+スサノヲ すさのを スサノヲ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS

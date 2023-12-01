@@ -1,135 +1,135 @@
 # S-ID:wiki00224508-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2022/11/08 MEMO:
 * 4D
-+ 2D
-ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <体言>
+ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D
-フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D <体言>
+フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <NE:ORGANIZATION:ザ・フットボール・アソシエーション>
-アソシエーション あそしえーしょん アソシエーション 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 8D <体言><NE:ORGANIZATION:ザ・フットボール・アソシエーション>
+アソシエーション あそしえーしょん アソシエーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:イングランド>
-イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:イングランド>
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ？" target="イングランド" sid="wiki00224508-00" id="3"/><rel type="=" target="フットボール" sid="wiki00224508-00" id="1"/>
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="イングランド" sid="wiki00224508-00" id="3"/><rel type="=" target="フットボール" sid="wiki00224508-00" id="1"/><体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="連盟" sid="wiki00224508-00" id="8"/><rel type="ヲ" target="サッカー" sid="wiki00224508-00" id="4"/>
-統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="連盟" sid="wiki00224508-00" id="8"/><rel type="ヲ" target="サッカー" sid="wiki00224508-00" id="4"/><用言:動><時制:非過去><節-主辞>
+統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 8D <rel type="ノ" target="イングランド" sid="wiki00224508-00" id="3"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="イングランド" sid="wiki00224508-00" id="3"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 8D <rel type="トイウ" target="サッカー" sid="wiki00224508-00" id="4"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="国" sid="wiki00224508-00" id="6"/><rel type="ノ？" target="競技" sid="wiki00224508-00" id="7"/><rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=構" target="アソシエーション" sid="wiki00224508-00" id="2"/><memo text="CO"/>
-連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="トイウ" target="サッカー" sid="wiki00224508-00" id="4"/><体言><非用言格解析:動>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="修飾" target="国" sid="wiki00224508-00" id="6"/><rel type="ノ？" target="競技" sid="wiki00224508-00" id="7"/><rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=構" target="アソシエーション" sid="wiki00224508-00" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00224508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/11/08 MEMO:
 * 1D
-+ 2D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><体言><非用言格解析:動>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="ザ" sid="wiki00224508-00" id="0"/>
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="ザ" sid="wiki00224508-00" id="0"/><体言>
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=" mode="AND" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:The　FA>
-FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="ガ" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00224508-01-01" id="0"/><rel type="=" mode="AND" target="アソシエーション" sid="wiki00224508-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:The　FA>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00224508-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/08 MEMO:
 * -1D
-+ 1D <rel type="=" target="The" sid="wiki00224508-01-01" id="1"/>
-ジ じ ジ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <rel type="=" target="The" sid="wiki00224508-01-01" id="1"/><体言>
+ジ じ ジ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><NE:ORGANIZATION:ジ・エフエー>
-エフエー えふえー エフエー 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ジ・エフエー>
+エフエー えふえー エフエー 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00224508-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:148.00000 MOD:2022/11/08 MEMO:
 * 1D
-+ 1D <NE:DATE:1863年>
-1863 せんはっぴゃくろくじゅうさん 1863 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言><NE:DATE:1863年>
+1863 せんはっぴゃくろくじゅうさん 1863 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="時間" target="1863年" sid="wiki00224508-02" id="0"/><rel type="ガ" target="協会" sid="wiki00224508-02" id="5"/><rel type="ニ" target="不特定:人"/>
-創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="時間" target="1863年" sid="wiki00224508-02" id="0"/><rel type="ガ" target="協会" sid="wiki00224508-02" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞>
+創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 3D
-+ 3D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="デ" target="世界" sid="wiki00224508-02" id="2"/>
-最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 3D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="デ" target="世界" sid="wiki00224508-02" id="2"/><用言:形><時制:非過去>
+最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/>
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="外の関係" target="ため" sid="wiki00224508-02" id="6"/><rel type="修飾" target="最古の" sid="wiki00224508-02" id="3"/><rel type="ノ？" target="サッカー" sid="wiki00224508-02" id="4"/><rel type="=構" target="アソシエーション" sid="wiki00224508-00" id="2"/>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/><体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="外の関係" target="ため" sid="wiki00224508-02" id="6"/><rel type="修飾" target="最古の" sid="wiki00224508-02" id="3"/><rel type="ノ？" target="サッカー" sid="wiki00224508-02" id="4"/><rel type="=構" target="アソシエーション" sid="wiki00224508-00" id="2"/><用言:判><体言><時制:非過去><節-主辞>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 14D
-+ 20D <rel type="ノ" target="協会である" sid="wiki00224508-02" id="5"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 20D <rel type="ノ" target="協会である" sid="wiki00224508-02" id="5"/><体言><節-区切>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 9D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/>
-正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 20D <rel type="修飾" target="英語" sid="wiki00224508-02" id="7"/><rel type="修飾" mode="AND" target="正式" sid="wiki00224508-02" id="8"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><体言><非用言格解析:形>
+正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 20D <rel type="修飾" target="英語" sid="wiki00224508-02" id="7"/><rel type="修飾" mode="AND" target="正式" sid="wiki00224508-02" id="8"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><体言>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="=" target="イングランド" sid="wiki00224508-00" id="3"/>
-国名 こくめい 国名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=" target="イングランド" sid="wiki00224508-00" id="3"/><体言>
+国名 こくめい 国名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="ガ" target="語" sid="wiki00224508-02" id="13"/><rel type="ヲ" target="国名" sid="wiki00224508-02" id="10"/>
-表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 13D <rel type="ガ" target="語" sid="wiki00224508-02" id="13"/><rel type="ヲ" target="国名" sid="wiki00224508-02" id="10"/><用言:動><時制:非過去><節-主辞>
+表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 13D <rel type="ガ" target="語" sid="wiki00224508-02" id="13"/>
-修飾 しゅうしょく 修飾 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="修飾" sid="wiki00224508-02" id="12"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="語" sid="wiki00224508-02" id="13"/><体言><非用言格解析:動>
+修飾 しゅうしょく 修飾 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="修飾" target="修飾" sid="wiki00224508-02" id="12"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 20P <rel type="ヲ" target="語" sid="wiki00224508-02" id="13"/><rel type="ニ" target="名称" sid="wiki00224508-02" id="9"/><rel type="ガ" target="不特定:人"/>
-用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 20P <rel type="ヲ" target="語" sid="wiki00224508-02" id="13"/><rel type="ニ" target="名称" sid="wiki00224508-02" id="9"/><rel type="ガ" target="不特定:人"/><用言:動><否定表現><節-主辞><節-区切>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
 * 12D
-+ 16D
-定 てい 定 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="修飾" target="定" sid="wiki00224508-02" id="15"/>
-冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言>
+定 てい 定 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="修飾" target="定" sid="wiki00224508-02" id="15"/><体言>
+冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 18D <rel type="修飾" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=構" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=" mode="AND" target="The" sid="wiki00224508-01-01" id="1"/>
++ 18D <rel type="修飾" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=構" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=" mode="AND" target="The" sid="wiki00224508-01-01" id="1"/><体言>
 ' ' ' 特殊 1 括弧始 3 * 0 * 0 NIL
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ' ' ' 特殊 1 括弧終 4 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 19D <rel type="ヲ" target="The" sid="wiki00224508-02" id="17"/><rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="外の関係" target="形" sid="wiki00224508-02" id="19"/>
-伴う ともなう 伴う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ 19D <rel type="ヲ" target="The" sid="wiki00224508-02" id="17"/><rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="外の関係" target="形" sid="wiki00224508-02" id="19"/><用言:動><時制:非過去><節-主辞>
+伴う ともなう 伴う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 20D <rel type="トイウ" target="伴う" sid="wiki00224508-02" id="18"/>
-形 かたち 形 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="トイウ" target="伴う" sid="wiki00224508-02" id="18"/><体言>
+形 かたち 形 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="デ" target="形" sid="wiki00224508-02" id="19"/><rel type="ニ" target="不特定:人"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="名称" sid="wiki00224508-02" id="9"/><rel type="デ" target="形" sid="wiki00224508-02" id="19"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -137,85 +137,85 @@ EOS
 # S-ID:wiki00224508-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2022/11/08 MEMO:
 * 14D
 + 20D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3D <rel type="ノ？" target="日本" sid="wiki00224508-03" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00224508-03" id="1"/><体言>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="デ" target="語" sid="wiki00224508-03" id="2"/><rel type="ガ" target="不特定:人"/>
-報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="デ" target="語" sid="wiki00224508-03" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
+報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="=" target="イングランド" sid="wiki00224508-00" id="3"/>
-イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/>
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="修飾" target="イングランド" sid="wiki00224508-03" id="4"/><rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><NE:ORGANIZATION:イングランドサッカー協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <rel type="=" target="イングランド" sid="wiki00224508-00" id="3"/><体言>
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <rel type="=" target="サッカー" sid="wiki00224508-00" id="4"/><体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <rel type="修飾" target="イングランド" sid="wiki00224508-03" id="4"/><rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><体言><NE:ORGANIZATION:イングランドサッカー協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="トイウ" target="協会" sid="wiki00224508-03" id="6"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=構" target="協会" sid="wiki00224508-03" id="6"/>
-呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="トイウ" target="協会" sid="wiki00224508-03" id="6"/><rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=構" target="協会" sid="wiki00224508-03" id="6"/><体言><非用言格解析:動>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="呼称" sid="wiki00224508-03" id="7"/><rel type="デ" target="報道" sid="wiki00224508-03" id="3"/><rel type="外の関係" target="他" sid="wiki00224508-03" id="9"/>
-定着 ていちゃく 定着 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="呼称" sid="wiki00224508-03" id="7"/><rel type="デ" target="報道" sid="wiki00224508-03" id="3"/><rel type="外の関係" target="他" sid="wiki00224508-03" id="9"/><用言:動><時制:非過去><節-主辞>
+定着 ていちゃく 定着 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 14P
-+ 20P <rel type="ノ" target="定着している" sid="wiki00224508-03" id="8"/>
-他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 20P <rel type="ノ" target="定着している" sid="wiki00224508-03" id="8"/><体言><節-区切>
+他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="=" target="サッカー" sid="wiki00224508-03" id="5"/>
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ？" target="サッカー" sid="wiki00224508-03" id="10"/>
-専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=" target="サッカー" sid="wiki00224508-03" id="5"/><体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ノ？" target="サッカー" sid="wiki00224508-03" id="10"/><体言>
+専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 20D <rel type="修飾" target="専門" sid="wiki00224508-03" id="11"/>
-雑誌 ざっし 雑誌 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="修飾" target="専門" sid="wiki00224508-03" id="11"/><体言>
+雑誌 ざっし 雑誌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="=" target="The" sid="wiki00224508-01-01" id="1"/>
++ 14D <rel type="=" target="The" sid="wiki00224508-01-01" id="1"/><体言>
 ' ' ' 特殊 1 括弧始 3 * 0 * 0 NIL
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 17D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><memo text="言葉としての問題なのでここはNEにはしない？"/><NE:OPTIONAL:The　FA><NE-OPTIONAL:ORGANIZATION,NONE:0>
-FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 17D <rel type="=" target="FA" sid="wiki00224508-01-01" id="2"/><memo text="言葉としての問題なのでここはNEにはしない？"/><体言><NE:OPTIONAL:The　FA><NE-OPTIONAL:ORGANIZATION,NONE:0>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 ' ' ' 特殊 1 括弧終 4 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D
-定 てい 定 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="修飾" target="定" sid="wiki00224508-03" id="15"/><rel type="=" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=" mode="AND" target="The" sid="wiki00224508-03" id="13"/>
-冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言>
+定 てい 定 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="修飾" target="定" sid="wiki00224508-03" id="15"/><rel type="=" target="冠詞" sid="wiki00224508-02" id="16"/><rel type="=" mode="AND" target="The" sid="wiki00224508-03" id="13"/><体言>
+冠詞 かんし 冠詞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 18D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="冠詞" sid="wiki00224508-03" id="16"/><rel type="カラ" target="FA" sid="wiki00224508-03" id="14"/>
-省いた はぶいた 省く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
++ 18D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="冠詞" sid="wiki00224508-03" id="16"/><rel type="カラ" target="FA" sid="wiki00224508-03" id="14"/><用言:動><時制:過去><節-主辞>
+省いた はぶいた 省く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL <基本句-主辞>
 * 13D
-+ 19D <rel type="修飾" target="省いた" sid="wiki00224508-03" id="17"/><rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=≒" mode="AND" target="FA" sid="wiki00224508-03" id="14"/><NE:ORGANIZATION:FA>
-FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 19D <rel type="修飾" target="省いた" sid="wiki00224508-03" id="17"/><rel type="=" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="=≒" mode="AND" target="FA" sid="wiki00224508-03" id="14"/><体言><NE:ORGANIZATION:FA>
+FA FA FA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 20D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="トイウ" target="FA等" sid="wiki00224508-03" id="18"/><rel type="=≒" target="呼称" sid="wiki00224508-03" id="7"/><rel type="=構≒" mode="AND" target="FA" sid="wiki00224508-03" id="18"/>
-呼び名 よびな 呼び名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ノ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="トイウ" target="FA等" sid="wiki00224508-03" id="18"/><rel type="=≒" target="呼称" sid="wiki00224508-03" id="7"/><rel type="=構≒" mode="AND" target="FA" sid="wiki00224508-03" id="18"/><体言>
+呼び名 よびな 呼び名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="デ" target="呼び名" sid="wiki00224508-03" id="19"/><rel type="デ" mode="AND" target="雑誌など" sid="wiki00224508-03" id="12"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="アソシエーション" sid="wiki00224508-00" id="2"/><rel type="デ" target="呼び名" sid="wiki00224508-03" id="19"/><rel type="デ" mode="AND" target="雑誌など" sid="wiki00224508-03" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

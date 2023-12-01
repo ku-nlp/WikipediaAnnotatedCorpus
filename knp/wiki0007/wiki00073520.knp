@@ -1,4 +1,4 @@
-# S-ID:wiki00073520-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/05/19 MEMO:
+# S-ID:wiki00073520-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/07/14 MEMO:
 * 5D
 + 12D <体言><NE:OPTIONAL:K-1><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT,NONE:0>
 K けい K 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
@@ -13,29 +13,29 @@ K けい K 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:he
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D <体言>
-正道 せいどう 正道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
+正道 せいどう 正道 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 6D <rel type="=構" target="団体" sid="wiki00073520-00-01" id="2"/><rel type="修飾" target="団体" sid="wiki00073520-00-01" id="2"/><体言><NE:ORGANIZATION:正道会館>
-会館 かいかん 会館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
+会館 かいかん 会館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 6D <体言>
-石井 いしい 石井 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
-+ 8D <rel type="ノ" target="会館" sid="wiki00073520-00-01" id="5"/><体言><NE:PERSON:石井和義>
-和義 かずよし 和義 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
+石井 いしい 石井 名詞 6 人名 5 * 0 * 0 NIL
++ 8D <rel type="修飾" target="会館" sid="wiki00073520-00-01" id="4"/><体言><NE:PERSON:石井和義>
+和義 かずよし 和義 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 8D <体言><NE:DATE:1993年>
-1993 せんきゅうひゃくきゅうじゅうさん 1993 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+1993 せんきゅうひゃくきゅうじゅうさん 1993 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ガ" target="和義" sid="wiki00073520-00-01" id="7"/><rel type="ヲ" target="イベント" sid="wiki00073520-00-01" id="13"/><rel type="時間" target="1993年" sid="wiki00073520-00-01" id="7"/><用言:動><時制:過去><節-主辞>
++ 12D <rel type="ガ" target="和義" sid="wiki00073520-00-01" id="6"/><rel type="ヲ" target="イベント" sid="wiki00073520-00-01" id="12"/><rel type="時間" target="1993年" sid="wiki00073520-00-01" id="7"/><用言:動><時制:過去><節-主辞>
 創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
 + 10D <体言>
 打撃 だげき 打撃 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <rel type="ノ" target="打撃" sid="wiki00073520-00-01" id="10"/><体言>
++ 12D <rel type="ノ" target="打撃" sid="wiki00073520-00-01" id="9"/><体言>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <rel type="修飾" target="系" sid="wiki00073520-00-01" id="10"/><体言>
 格闘技 かくとうぎ 格闘技 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -43,14 +43,14 @@ K けい K 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:he
 イベント いべんと イベント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00073520-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/19 MEMO:
+# S-ID:wiki00073520-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/07/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="K-1" sid="wiki00073520-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:ケイ-ワン><NE-OPTIONAL:ARTIFACT,NONE:0>
++ -1D <rel type="=" target="K-1" sid="wiki00073520-00-01" id="0"/><NE:OPTIONAL:ケイ-ワン><NE-OPTIONAL:ARTIFACT,NONE:0><体言>
 ケイ けい ケイ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-ワン わん ワン 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+ワン わん ワン 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00073520-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/05/19 MEMO:
+# S-ID:wiki00073520-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/07/10 MEMO:
 * 1D
 + 2D <用言:形><時制:非過去>
 基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -89,19 +89,19 @@ EOS
 高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00073520-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/05/19 MEMO:
+# S-ID:wiki00073520-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/08/14 MEMO:
 * 5D
 + 1D <体言>
-2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 + 12D <体言><NE:DATE:2012年1月>
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <体言><NE:LOCATION:香港>
-香港 ほんこん 香港 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
+香港 ほんこん 香港 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 7D <rel type="ガ" target="Limited" sid="wiki00073520-02" id="7"/><rel type="ニ" target="香港" sid="wiki00073520-02" id="2"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞>
@@ -112,21 +112,21 @@ EOS
 + 6D <体言>
 K けい K 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-1 わん 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+1 わん 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 6D <体言>
-Global Global Global 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
+Global Global Global 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D <体言>
-Holdings Holdings Holdings 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
+Holdings Holdings Holdings 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 12D <体言><NE:ORGANIZATION:K-1　Global　Holdings　Limited>
-Limited Limited Limited 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
+Limited Limited Limited 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 9D <体言>
 商標 しょうひょう 商標 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <rel type="ノ" target="商標" sid="wiki00073520-02" id="7"/><体言>
++ 11D <rel type="ノ" target="商標" sid="wiki00073520-02" id="8"/><体言>
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 + 11D
@@ -135,24 +135,24 @@ Limited Limited Limited 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><N
 権利 けんり 権利 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 17P <rel type="ヲ" target="権利" sid="wiki00073520-02" id="10"/><rel type="ガ" target="Limited" sid="wiki00073520-02" id="7"/><rel type="ヨリ" target="1月" sid="wiki00073520-02" id="1"/><用言:動><節-主辞><節-区切>
++ 17P <rel type="ヲ" target="権利" sid="wiki00073520-02" id="11"/><rel type="ガ" target="Limited" sid="wiki00073520-02" id="7"/><rel type="ヨリ" target="1月" sid="wiki00073520-02" id="1"/><用言:動><節-主辞><節-区切>
 取得 しゅとく 取得 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 14D <rel type="=" target="世界的に" sid="wiki00073520-01" id="6"/><体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <rel type="ノ" target="世界" sid="wiki00073520-02" id="12"/><体言>
++ 17D <rel type="ノ" target="世界" sid="wiki00073520-02" id="13"/><体言>
 各地 かくち 各地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 16D <rel type="=" target="イベント" sid="wiki00073520-00-01" id="12"/><体言>
 イベント いべんと イベント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <rel type="ヲ" target="イベント" sid="wiki00073520-02" id="14"/><rel type="ガ" target="Limited" sid="wiki00073520-02" id="7"/><rel type="ガ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
++ 17D <rel type="ヲ" target="イベント" sid="wiki00073520-02" id="15"/><rel type="ガ" target="Limited" sid="wiki00073520-02" id="7"/><rel type="ガ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="運営" sid="wiki00073520-02" id="15"/><rel type="デ" target="各地" sid="wiki00073520-02" id="14"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="Limited" sid="wiki00073520-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="運営" sid="wiki00073520-02" id="16"/><rel type="デ" target="各地" sid="wiki00073520-02" id="14"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="Limited" sid="wiki00073520-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 行なわ おこなわ 行なう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

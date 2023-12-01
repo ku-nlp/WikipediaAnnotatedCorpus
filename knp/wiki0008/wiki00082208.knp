@@ -71,9 +71,9 @@ Uber うーばー Uber 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OP
 + -1D <rel type="=" target="Eats" sid="wiki00082208-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:Ligue　1　Uber　Eats><NE-OPTIONAL:ORGANIZATION,NONE:0>
 Eats Eats Eats 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
-# S-ID:wiki00082208-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/06/08 MEMO:
+# S-ID:wiki00082208-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/11/06 MEMO:
 * 1D
-+ 1D <rel type="=" target="リーグ" sid="wiki00082208-00-01" id="5"/><体言>
++ 1D <rel type="=" target="リーグ" sid="wiki00082208-00-01" id="4"/><体言>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 3D <体言>
@@ -115,23 +115,23 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ" target="アン" sid="wiki00082208-00-01" id="1"/><rel type="ト" target="ドゥ" sid="wiki00082208-01-01" id="11"/><memo text="トノ交替可"/><体言>
++ 15D <rel type="ノ" target="アン" sid="wiki00082208-00-01" id="1"/><rel type="ト" target="ドゥ" sid="wiki00082208-01-01" id="10"/><memo text="トノ交替可"/><体言>
 間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="=≒" target="クラブ" sid="wiki00082208-01-01" id="7"/><体言>
++ 14D <rel type="=≒" target="20クラブ" sid="wiki00082208-01-01" id="6"/><体言>
 クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10P
-+ 14P <rel type="ガ" target="クラブ" sid="wiki00082208-01-01" id="13"/><rel type="ニ" target="アン" sid="wiki00082208-00-01" id="1"/><rel type="カラ" target="ドゥ" sid="wiki00082208-01-01" id="11"/><体言><非用言格解析:動>
++ 14P <rel type="ガ" target="クラブ" sid="wiki00082208-01-01" id="12"/><rel type="ニ" target="アン" sid="wiki00082208-00-01" id="1"/><rel type="カラ" target="ドゥ" sid="wiki00082208-01-01" id="10"/><体言><非用言格解析:動>
 昇格 しょうかく 昇格 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="クラブ" sid="wiki00082208-01-01" id="13"/><rel type="ニ" target="ドゥ" sid="wiki00082208-01-01" id="11"/><rel type="=≒" target="昇格" sid="wiki00082208-01-01" id="14"/><rel type="カラ" target="アン" sid="wiki00082208-00-01" id="1"/><体言><非用言格解析:動>
++ 15D <rel type="ガ" target="クラブ" sid="wiki00082208-01-01" id="12"/><rel type="ニ" target="ドゥ" sid="wiki00082208-01-01" id="10"/><rel type="=≒" target="昇格" sid="wiki00082208-01-01" id="13"/><rel type="カラ" target="アン" sid="wiki00082208-00-01" id="1"/><体言><非用言格解析:動>
 降格 こうかく 降格 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="デ" target="間" sid="wiki00082208-01-01" id="12"/><rel type="ガ" target="降格" sid="wiki00082208-01-01" id="15"/><rel type="ガ" mode="AND" target="昇格" sid="wiki00082208-01-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="デ" target="間" sid="wiki00082208-01-01" id="11"/><rel type="ガ" target="昇格" sid="wiki00082208-01-01" id="13"/><rel type="ガ" mode="AND" target="降格" sid="wiki00082208-01-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

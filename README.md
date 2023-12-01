@@ -4,25 +4,33 @@
 
 This is a Japanese text corpus that consists of Wikipedia articles with various linguistic annotations.
 
-The linguistic annotations consist of annotations of morphology, named entities, dependencies, predicate-argument structures including zero anaphora, and coreferences.
-
-## Notes on annotation guidelines
-
-The annotation guidelines for this corpus are written in the manuals found in "doc" directory. The guidelines for morphology and dependencies are described in `syn_guideline.pdf`, those for predicate-argument structures and coreferences are described in `rel_guideline.pdf`.
-The guidelines for named entities are available at the IREX web site (<http://nlp.cs.nyu.edu/irex/>).
+The linguistic annotations consist of annotations of morphology, named entities, dependencies, predicate-argument
+structures including zero anaphora, and coreferences.
+For the annotation guidelines, see the manuals in the `doc` directory of
+the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 ## Distributed files
 
-- `knp/` : the corpus annotated with morphology, named entities, dependencies, predicate-argument structures, and coreferences
-- `org/` : the raw corpus
-- `id/` : document id files providing train/test split
+- [`knp/`](./knp): the corpus annotated with morphology, named entities, dependencies, predicate-argument structures,
+  and coreferences
+- [`org/`](./org): the raw corpus
+- [`id/`](./id): document id files providing train/dev/test split
 
-## Format of the corpus annotated with annotations of morphology, named entities, dependencies, predicate-argument structures, and coreferences
+## Statistics
 
-Annotations of this corpus are given in the following format.
+|       | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
+|-------|---------------:|---------------:|---------------:|--------------------:|----------------:|--------------------------:|
+| train |          1,517 |          5,950 |         86,214 |               5,681 |          23,203 |                    19,329 |
+| dev   |            100 |            443 |          6,353 |                 423 |           1,701 |                     1,437 |
+| test  |            200 |            775 |         11,123 |                 800 |           2,872 |                     2,534 |
+| total |          1,817 |          7,168 |        103,690 |               6,904 |          27,776 |                    23,300 |
+
+## Format of the annotation
+
+Annotations of this corpus are given in the following format (a.k.a. the KNP format).
 
 ```text
-# S-ID:w201106-0000010001-1
+# S-ID:wiki000010000-1
 * 2D
 + 3D
 太郎 たろう 太郎 名詞 6 人名 5 * 0 * 0
@@ -41,50 +49,32 @@ EOS
 
 A description of this format can be found in [the documentation of KWDLC](https://github.com/ku-nlp/KWDLC#format-of-the-corpus-annotated-with-annotations-of-morphology-named-entities-dependencies-predicate-argument-structures-and-coreferences).
 
+Note: You can use [rhoknp](https://github.com/ku-nlp/rhoknp) to intuitively access annotations from Python without understanding the syntax of this format.
+
+```python
+from rhoknp import Document
+
+with open("knp/wiki0010/wiki00100176.knp") as f:
+    document = Document.from_knp(f.read())
+for morpheme in document.morphemes:
+    ...
+```
+
 ## References
 
-- 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理, Vol.21, No.2, pp.213-248, 2014. <https://doi.org/10.5715/jnlp.21.213>
+- 萩行正嗣, 河原大輔, 黒橋禎夫. 多様な文書の書き始めに対する意味関係タグ付きコーパスの構築とその分析, 自然言語処理,
+  Vol.21, No.2, pp.213-248, 2014. <https://doi.org/10.5715/jnlp.21.213>
+
+## Author
+
+京都大学 言語メディア研究室 (contact **at** nlp.ist.i.kyoto-u.ac.jp)
+- Nobuhiro Ueda <ueda **at** nlp.ist.i.kyoto-u.ac.jp>
 
 ## Contact
 
-If you have any questions or problems about this corpus, please send an email to nl-resource at nlp.ist.i.kyoto-u.ac.jp.
+If you have any questions or problems with this corpus, please email to <nl-resource **at** nlp.ist.i.kyoto-u.ac.jp>.
 
 ## License
 
-TBW
-<!-- The license for this corpus is subject to CC BY-NC-SA 4.0.
-https://creativecommons.org/licenses/by-nc-sa/4.0/
-The purpose of using this corpus is limited to academic research. -->
-
-## Procedures to add new documents
-
-- Commit newly annotated files
-
-```shell
-make -f scripts/Makefile pull CORPUS=WAC
-fd -t f knp --exec sed -i "s/undefined<NE/<NE/g" {}
-fd -t f knp --exec sed -i "s/NIL undefined/NIL/g" {}
-p scripts/filter.py knp
-g add ...
-g commit ...
-
-```
-
-- Update `inappropriate.id`
-
-```shell
-l id/inappropriate.id | sort | uniq > tmp
-mv tmp id/inappropriate.id
-g add id/inappropriate.id
-g commit id/inappropriate.id
-```
-
-- Update `all.id`
-
-```shell
-l knp/wiki0020 | cut -d'.' -f1 >> id/all.id
-l knp/wiki0021 | cut -d'.' -f1 >> id/all.id
-...
-difference <(cat id/all.id | sort | uniq) <(cat id/inappropriate.id | sort | uniq) > tmp
-mv tmp id/all.id
-```
+The license for this corpus is subject to CC BY-SA 4.0.
+<https://creativecommons.org/licenses/by-sa/4.0/>

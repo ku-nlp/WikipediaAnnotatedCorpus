@@ -1,6 +1,6 @@
-# S-ID:wiki00077286-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/05/27 MEMO:
+# S-ID:wiki00077286-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/08/28 MEMO:
 * 5D
-+ 1D <体言>
++ 1D <memo text="北米大陸を指す雅語"/><体言>
 コロンビア ころんびあ コロンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 8D <体言><NE:ORGANIZATION:コロンビア大学>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -10,7 +10,7 @@
 + 3D <rel type="ノ？" target="アメリカ" sid="wiki00077286-00-01" id="6"/><体言>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:ニューヨーク州ニューヨーク>
++ 5D <rel type="ノ？" target="ニューヨーク州" sid="wiki00077286-00-01" id="2"/><体言><NE:LOCATION:ニューヨーク州ニューヨーク>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -31,7 +31,7 @@
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00077286-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/27 MEMO:
+# S-ID:wiki00077286-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/28 MEMO:
 * 1P
 + 1D <rel type="=" target="コロンビア" sid="wiki00077286-00-01" id="0"/><体言>
 Columbia Columbia Columbia 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
@@ -40,9 +40,9 @@ Columbia Columbia Columbia 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:O
 University University University 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="ガ" target="名称" sid="wiki00077286-00-02" id="2"/><体言><非用言格解析:形>
++ 3D <rel type="ガ" target="名称" sid="wiki00077286-00-02" id="3"/><体言><非用言格解析:形>
 正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 11D <rel type="ノ" target="大学" sid="wiki00077286-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00077286-00-02" id="1"/><体言>
++ 11D <rel type="ノ" target="大学" sid="wiki00077286-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00077286-00-02" id="2"/><体言>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -67,6 +67,6 @@ of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:
 + 11D <体言>
 New New New 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="ニューヨーク" sid="wiki00077286-00-01" id="3"/><rel type="=" mode="AND" target="University" sid="wiki00077286-00-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:Columbia　University　in　the　City　of　New　York>
++ -1D <rel type="=" target="ニューヨーク" sid="wiki00077286-00-01" id="3"/><rel type="=" mode="AND" target="University" sid="wiki00077286-00-02" id="1"/><NE:ORGANIZATION:Columbia　University　in　the　City　of　New　York><体言>
 York York York 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

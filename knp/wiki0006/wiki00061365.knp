@@ -1,18 +1,18 @@
-# S-ID:wiki00061365-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000
+# S-ID:wiki00061365-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/10/06 MEMO:
 * 8D
 + 1D <体言>
 仏滅 ぶつめつ 仏滅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言>
++ 10D <rel type="ノ？" target="仏滅" sid="wiki00061365-00-01" id="0"/><体言>
 紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言>
-釈迦 しゃか 釈迦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><NE:OPTIONAL:釈迦><NE-OPTIONAL:PERSON,NONE:0>
+釈迦 しゃか 釈迦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="釈迦" sid="wiki00061365-00-01" id="2"/><用言:動><時制:過去><節-主辞>
++ 4D <rel type="ガ" target="釈迦" sid="wiki00061365-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="年" sid="wiki00061365-00-01" id="4"/><用言:動><時制:過去><節-主辞>
 入滅 にゅうめつ 入滅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -27,39 +27,38 @@
 + 6D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 8D <rel type="ノ" target="入滅したとされる" sid="wiki00061365-00-01" id="3"/><体言>
++ 8D <rel type="ノ" target="年" sid="wiki00061365-00-01" id="4"/><体言>
 翌年 よくねん 翌年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="=" target="年、または" sid="wiki00061365-00-01" id="4"/><体言>
++ 8D <rel type="=構" target="年" sid="wiki00061365-00-01" id="4"/><rel type="=構" mode="OR" target="翌年" sid="wiki00061365-00-01" id="6"/><rel type="ノ" target="法" sid="wiki00061365-00-01" id="10"/><体言>
 元年 がんねん 元年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="法" sid="wiki00061365-00-01" id="10"/><rel type="ヲ" target="翌年" sid="wiki00061365-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
++ 10D <rel type="ガ" target="法" sid="wiki00061365-00-01" id="10"/><rel type="ヲ" target="翌年" sid="wiki00061365-00-01" id="6"/><rel type="ヲ" mode="OR" target="年" sid="wiki00061365-00-01" id="4"/><rel type="ト" target="元年" sid="wiki00061365-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
 + 10D <体言>
-紀年 紀年 紀年 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="紀元" sid="wiki00061365-00-01" id="1"/><rel type="ノ" target="紀年" sid="wiki00061365-00-01" id="9"/><rel type="=" target="紀元" sid="wiki00061365-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
+紀年 きねん 紀年 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="紀元" sid="wiki00061365-00-01" id="1"/><rel type="ノ" target="紀年" sid="wiki00061365-00-01" id="9"/><rel type="=構" target="紀元" sid="wiki00061365-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00061365-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1D
+# S-ID:wiki00061365-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/06 MEMO:
+* 1P
 + 1D <rel type="=" target="仏滅" sid="wiki00061365-00-01" id="0"/><体言>
-ぶつめつ ぶつめつ ぶつめつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-* 2D
-+ 2D <rel type="=" target="紀元" sid="wiki00061365-00-01" id="1"/><体言><NE:DATE:ぶつめつきげん>
-きげん きげん きげん 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
+ぶつめつ ぶつめつ ぶつめつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="=" target="紀元" sid="wiki00061365-00-01" id="1"/><体言>
+きげん きげん きげん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><NE:LOCATION:英>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4D <体言>
++ 4D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
-Buddhist Buddhist Buddhist 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+Buddhist Buddhist Buddhist 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-calendar calendar calendar 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="英" sid="wiki00061365-00-02" id="2"/><rel type="=" target="紀元" sid="wiki00061365-00-01" id="1"/><体言>
+calendar calendar calendar 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

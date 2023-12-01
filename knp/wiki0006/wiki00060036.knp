@@ -1,4 +1,4 @@
-# S-ID:wiki00060036-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060036-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/09/29 MEMO:
 * 1P
 + 1D <rel type="ガ" target="民" sid="wiki00060036-00-01" id="1"/><体言><非用言格解析:動>
 遊牧 ゆうぼく 遊牧 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -33,27 +33,27 @@
 * 6P
 + 11D <rel type="ガ" target="人類" sid="wiki00060036-00-01" id="4"/><rel type="外の関係" target="型" sid="wiki00060036-00-01" id="11"/><体言><非用言格解析:動>
 移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13P <rel type="=構" target="区分" sid="wiki00060036-00-01" id="9"/><rel type="ノ？" target="移動" sid="wiki00060036-00-01" id="10"/><体言>
++ 13P <rel type="=構" target="区分" sid="wiki00060036-00-01" id="9"/><rel type="ノ" target="移動" sid="wiki00060036-00-01" id="10"/><体言>
 型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 13D <rel type="ガ" target="人類" sid="wiki00060036-00-01" id="4"/><rel type="外の関係" target="型" sid="wiki00060036-00-01" id="13"/><体言><非用言格解析:動>
 定住 ていじゅう 定住 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 14D <rel type="=構" target="区分" sid="wiki00060036-00-01" id="9"/><rel type="ノ？" target="定住" sid="wiki00060036-00-01" id="12"/><体言>
++ 14D <rel type="=構" target="区分" sid="wiki00060036-00-01" id="9"/><rel type="ノ" target="定住" sid="wiki00060036-00-01" id="12"/><体言>
 型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 16D <rel type="ノ" target="型" sid="wiki00060036-00-01" id="13"/><体言>
++ 16D <rel type="ノ" target="型" sid="wiki00060036-00-01" id="13"/><rel type="ノ" mode="AND" target="型" sid="wiki00060036-00-01" id="11"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 9D
+* 13D
 + 16D <rel type="=" target="移動" sid="wiki00060036-00-01" id="10"/><rel type="ガ" target="人類" sid="wiki00060036-00-01" id="4"/><rel type="外の関係" target="型" sid="wiki00060036-00-01" id="16"/><体言><非用言格解析:動>
 移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 17D <rel type="=" target="型" sid="wiki00060036-00-01" id="11"/><rel type="修飾" target="うち" sid="wiki00060036-00-01" id="14"/><rel type="ノ？" target="移動" sid="wiki00060036-00-01" id="15"/><体言>
++ 21D <rel type="=" target="型" sid="wiki00060036-00-01" id="11"/><rel type="修飾" target="うち" sid="wiki00060036-00-01" id="14"/><rel type="ノ" target="移動" sid="wiki00060036-00-01" id="15"/><体言>
 型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 19D <rel type="修飾" target="型" sid="wiki00060036-00-01" id="16"/><体言>
++ 19D <体言>
 牧畜 ぼくちく 牧畜 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -64,11 +64,11 @@
 + 21D <rel type="ヲ" target="牧畜" sid="wiki00060036-00-01" id="17"/><rel type="ト" target="生業" sid="wiki00060036-00-01" id="18"/><rel type="ガ" target="人々" sid="wiki00060036-00-01" id="20"/><rel type="ガ" mode="AND" target="民族" sid="wiki00060036-00-01" id="21"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 13P
-+ 21P <rel type="=構" target="民" sid="wiki00060036-00-01" id="1"/><体言>
++ 21P <rel type="=構" target="民" sid="wiki00060036-00-01" id="1"/><rel type="修飾" target="型" sid="wiki00060036-00-01" id="16"/><rel type="修飾" mode="AND" target="する" sid="wiki00060036-00-01" id="19"/><体言>
 人々 ひとびと 人々 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 22D <rel type="=構" target="民族" sid="wiki00060036-00-01" id="3"/><体言>
++ 22D <rel type="=構" target="民族" sid="wiki00060036-00-01" id="3"/><rel type="修飾" target="型" sid="wiki00060036-00-01" id="16"/><rel type="修飾" mode="AND" target="する" sid="wiki00060036-00-01" id="19"/><体言>
 民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -76,22 +76,22 @@
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00060036-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060036-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
 + 1D <rel type="=" target="遊牧" sid="wiki00060036-00-01" id="0"/><rel type="ガ" target="みん" sid="wiki00060036-00-02" id="1"/><体言><非用言格解析:動>
 ゆうぼく ゆうぼく ゆうぼく 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="民" sid="wiki00060036-00-01" id="1"/><rel type="修飾" target="ゆうぼく" sid="wiki00060036-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="民" sid="wiki00060036-00-01" id="1"/><rel type="修飾" target="ゆうぼく" sid="wiki00060036-00-02" id="0"/><体言>
 みん みん みん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00060036-00-03 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060036-00-03 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
 + 1D <rel type="ガ" target="みんぞく" sid="wiki00060036-00-03" id="1"/><rel type="=" target="遊牧" sid="wiki00060036-00-01" id="2"/><体言><非用言格解析:動>
 ゆうぼく ゆうぼく ゆうぼく 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="民族" sid="wiki00060036-00-01" id="3"/><rel type="修飾" target="ゆうぼく" sid="wiki00060036-00-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="民族" sid="wiki00060036-00-01" id="3"/><rel type="修飾" target="ゆうぼく" sid="wiki00060036-00-03" id="0"/><体言>
 みんぞく みんぞく みんぞく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00060036-00-04 括弧始:（ 括弧終:） 括弧位置:63 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060036-00-04 括弧始:（ 括弧終:） 括弧位置:63 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/29 MEMO:
 * -1D
-+ -1D <rel type="=" target="牧畜" sid="wiki00060036-00-01" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="牧畜" sid="wiki00060036-00-01" id="17"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 遊牧 ゆうぼく 遊牧 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

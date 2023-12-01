@@ -1,4 +1,4 @@
-# S-ID:wiki00069558-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000
+# S-ID:wiki00069558-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/10/29 MEMO:
 * 6D
 + 1D <体言>
 鈴鹿 すずか 鈴鹿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
@@ -10,7 +10,7 @@
 + 3D <体言>
 三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><体言><NE:LOCATION:三重県鈴鹿市>
++ 4D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><rel type="ノ？" target="三重県" sid="wiki00069558-00-01" id="2"/><体言><NE:LOCATION:三重県鈴鹿市>
 鈴鹿 すずか 鈴鹿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -21,96 +21,93 @@
 + 7D <体言>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D <体言>
-レーシング レーシング レーシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言>
+レーシング れーしんぐ レーシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="修飾" target="レーシング" sid="wiki00069558-00-01" id="6"/><rel type="修飾" mode="AND" target="国際" sid="wiki00069558-00-01" id="5"/><体言>
 コース こーす コース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <体言>
++ 9D <rel type="ノ" target="施設" sid="wiki00069558-00-01" id="11"/><体言>
 中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="施設" sid="wiki00069558-00-01" id="11"/><rel type="ヲ" target="コース" sid="wiki00069558-00-01" id="7"/><用言:動><時制:過去><節-主辞>
++ 11D <rel type="ガ" target="施設" sid="wiki00069558-00-01" id="11"/><rel type="ヲ" target="コース" sid="wiki00069558-00-01" id="7"/><rel type="ト" target="中心" sid="wiki00069558-00-01" id="8"/><用言:動><節-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * -1D
 + 11D <体言>
 レジャー れじゃー レジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="=" target="サーキット" sid="wiki00069558-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ノ？" target="レジャー" sid="wiki00069558-00-01" id="10"/><rel type="=構" target="サーキット" sid="wiki00069558-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00069558-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00069558-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/29 MEMO:
 * 1P
-+ 1D <体言>
-すずか すずか すずか 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2P <体言><NE:ORGANIZATION:すずかサーキット>
-サーキット さーきっと サーキット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><体言>
+すずか すずか すずか 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <rel type="=" target="サーキット" sid="wiki00069558-00-01" id="1"/><体言><NE:LOCATION:すずかサーキット>
+サーキット さーきっと サーキット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="すずか" sid="wiki00069558-00-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-Suzuka Suzuka Suzuka 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Circuit Circuit Circuit 名詞 6 組織名 6 * 0 * 0 NIL
++ 3D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><体言>
+Suzuka Suzuka Suzuka 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="サーキット" sid="wiki00069558-00-01" id="1"/><NE:LOCATION:Suzuka　Circuit><体言>
+Circuit Circuit Circuit 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail><基本句-主辞>
 EOS
-# S-ID:wiki00069558-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
-* 3P
-+ 1D <体言>
-F F F 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
+# S-ID:wiki00069558-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/10/29 MEMO:
+* 1P
 + 2D <体言>
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言>
+F1 えふわん F1 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 6P <rel type="ノ？" target="日本" sid="wiki00069558-01" id="1"/><rel type="ノ" target="F1" sid="wiki00069558-01" id="0"/><体言>
 グランプリ ぐらんぷり グランプリ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><体言><NE:PERSON:鈴鹿>
-鈴鹿 すずか 鈴鹿 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-* 3D
-+ 6D <体言>
++ 6D <rel type="=" target="鈴鹿" sid="wiki00069558-00-01" id="0"/><体言><NE:LOCATION:鈴鹿>
+鈴鹿 すずか 鈴鹿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <体言>
 8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 時間 じかん 時間 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-* 4D
-+ 7D <体言>
++ 6D <rel type="時間" target="8時間" sid="wiki00069558-01" id="4"/><体言>
 耐久 たいきゅう 耐久 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言>
++ 7D <rel type="ノ？" target="鈴鹿" sid="wiki00069558-01" id="3"/><rel type="修飾" target="耐久" sid="wiki00069558-01" id="5"/><体言>
 ロードレース ろーどれーす ロードレース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 5D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ロードレース" sid="wiki00069558-01" id="7"/><体言><非用言格解析:動>
+* 3D
++ 8D <rel type="デ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ヲ" target="ロードレースなど" sid="wiki00069558-01" id="6"/><rel type="ヲ" mode="AND" target="グランプリ" sid="wiki00069558-01" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
-+ 10D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞>
+* 4D
++ 9D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="開催" sid="wiki00069558-01" id="7"/><用言:動><時制:非過去><節-主辞>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
-* 8D
-+ 15D <体言>
-事 こと 事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+* 6D
++ 14D <rel type="トイウ" target="知られる" sid="wiki00069558-01" id="8"/><体言>
+事 こと 事 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
-* 8D
-+ 14D <rel type="=" target="日本" sid="wiki00069558-01" id="2"/><体言><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 13D <体言>
+* 6D
++ 13D <rel type="=" target="日本" sid="wiki00069558-01" id="2"/><体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 12D <体言>
 モーター もーたー モーター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言>
++ 13D <rel type="修飾" target="日本" sid="wiki00069558-01" id="10"/><rel type="ノ？" target="モーター" sid="wiki00069558-01" id="11"/><体言>
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <rel type="ノ" target="スポーツ" sid="wiki00069558-01" id="13"/><体言>
++ 14D <rel type="ノ" target="スポーツ" sid="wiki00069558-01" id="12"/><rel type="ノ？" target="日本" sid="wiki00069558-01" id="10"/><体言>
 ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ノ" target="ファン" sid="wiki00069558-01" id="14"/><rel type="=" target="施設" sid="wiki00069558-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ノ" target="ファン" sid="wiki00069558-01" id="13"/><rel type="カラ" target="事" sid="wiki00069558-01" id="9"/><rel type="=構" target="サーキット" sid="wiki00069558-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 聖地 せいち 聖地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00069558-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00069558-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/10/29 MEMO:
 * 1D
-+ 1D <体言>
-レーシング レーシング レーシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="レーシング" sid="wiki00069558-00-01" id="6"/><体言>
+レーシング れーしんぐ レーシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="コース" sid="wiki00069558-00-01" id="7"/><体言>
 コース こーす コース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -128,37 +125,37 @@ EOS
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 8P <rel type="ガ" target="遊園地" sid="wiki00069558-02-01" id="3"/><rel type="ニ" target="サーキット" sid="wiki00069558-00-01" id="1"/><用言:動><節-主辞><節-区切>
++ 8P <rel type="ニ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ガ" target="遊園地" sid="wiki00069558-02-01" id="3"/><rel type="ガ" mode="AND" target="ホテル等" sid="wiki00069558-02-01" id="4"/><用言:動><節-主辞><節-区切>
 あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D <体言>
-モビリティ モビリティ モビリティ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言>
+モビリティ もびりてぃ モビリティ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="修飾" target="モビリティ" sid="wiki00069558-02-01" id="6"/><体言>
 リゾート りぞーと リゾート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ヲ" target="リゾート" sid="wiki00069558-02-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="サーキット" sid="wiki00069558-00-01" id="1"/><rel type="ヲ" target="リゾート" sid="wiki00069558-02-01" id="7"/><rel type="デ" target="コース" sid="wiki00069558-00-01" id="7"/><rel type="デ" mode="AND" target="遊園地" sid="wiki00069558-02-01" id="3"/><rel type="デ" mode="AND" target="ホテル等" sid="wiki00069558-02-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00069558-02-02 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000
+# S-ID:wiki00069558-02-02 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/10/29 MEMO:
 * 2D
-+ 2D <体言>
++ 2D <rel type="=≒" target="モビリティ" sid="wiki00069558-02-01" id="6"/><体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <体言>
++ 2D <rel type="ノ" target="地" sid="wiki00069558-02-02" id="4"/><rel type="ノ" mode="AND" target="行楽" sid="wiki00069558-02-02" id="3"/><rel type="=構" target="自動車" sid="wiki00069558-02-02" id="0"/><体言>
 題材 だいざい 題材 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="地" sid="wiki00069558-02-02" id="4"/><rel type="ヲ" target="自動車" sid="wiki00069558-02-02" id="0"/><用言:動><時制:非過去><節-主辞>
++ 4D <rel type="ガ" target="地" sid="wiki00069558-02-02" id="4"/><rel type="ヲ" target="自動車" sid="wiki00069558-02-02" id="0"/><rel type="ト" target="題材" sid="wiki00069558-02-02" id="1"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
 + 4D <体言>
 行楽 こうらく 行楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ノ" target="行楽" sid="wiki00069558-02-02" id="3"/><rel type="=" target="施設" sid="wiki00069558-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ノ？" target="行楽" sid="wiki00069558-02-02" id="3"/><rel type="ガ" target="リゾート" sid="wiki00069558-02-01" id="7"/><rel type="=構" target="リゾート" sid="wiki00069558-02-01" id="7"/><memo text="CO　（）の中だが、文として捉えた"/><体言><節-主辞><節-区切><用言:判><時制:非過去>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

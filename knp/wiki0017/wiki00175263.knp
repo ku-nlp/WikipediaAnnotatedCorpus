@@ -16,7 +16,7 @@
 + 6D <体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 8D <rel type="ノ？" target="東京都" sid="wiki00175263-00-01" id="4"/><体言><NE:LOCATION:東京都港区>
++ 8D <rel type="ノ？" target="東京都" sid="wiki00175263-00-01" id="5"/><体言><NE:LOCATION:東京都港区>
 港 みなと 港 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -25,7 +25,7 @@
 本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 14D <rel type="ガ" target="メーカー" sid="wiki00175263-00-01" id="13"/><rel type="ヲ" target="本社" sid="wiki00175263-00-01" id="6"/><rel type="ニ" target="港区" sid="wiki00175263-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
++ 14D <rel type="ガ" target="メーカー" sid="wiki00175263-00-01" id="14"/><rel type="ヲ" target="本社" sid="wiki00175263-00-01" id="7"/><rel type="ニ" target="港区" sid="wiki00175263-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -35,16 +35,16 @@
 * 6D
 + 11D <体言><非用言格解析:動>
 建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13P <rel type="修飾" target="建設" sid="wiki00175263-00-01" id="9"/><体言>
++ 13P <rel type="修飾" target="建設" sid="wiki00175263-00-01" id="10"/><体言>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 13D <体言>
 鉱山 こうざん 鉱山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <rel type="修飾" target="鉱山" sid="wiki00175263-00-01" id="11"/><rel type="=≒" target="機械" sid="wiki00175263-00-01" id="10"/><体言>
++ 14D <rel type="修飾" target="鉱山" sid="wiki00175263-00-01" id="12"/><rel type="=≒" target="機械" sid="wiki00175263-00-01" id="10"/><体言>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ？" target="日本" sid="wiki00175263-00-01" id="8"/><rel type="ノ？" mode="AND" target="機械" sid="wiki00175263-00-01" id="10"/><rel type="ノ？" mode="AND" target="機械" sid="wiki00175263-00-01" id="12"/><rel type="ガ" target="所" sid="wiki00175263-00-01" id="4"/><rel type="=構" target="所" sid="wiki00175263-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ノ？" target="日本" sid="wiki00175263-00-01" id="9"/><rel type="ノ？" mode="AND" target="機械" sid="wiki00175263-00-01" id="10"/><rel type="ノ？" mode="AND" target="機械" sid="wiki00175263-00-01" id="12"/><rel type="ガ" target="所" sid="wiki00175263-00-01" id="4"/><rel type="=構" target="所" sid="wiki00175263-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -113,7 +113,7 @@ EOS
 + 2D <体言>
 TOPIX とぴっくす TOPIX 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 2D <rel type="ガ" target="銘柄" sid="wiki00175263-04" id="2"/><rel type="ヲ" target="銘柄" sid="wiki00175263-04" id="2"/><体言>
++ 2D <rel type="ガ" target="銘柄" sid="wiki00175263-04" id="4"/><rel type="ヲ" target="銘柄" sid="wiki00175263-04" id="4"/><体言>
 Large らーじ Large 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 4D <体言><NE:ARTIFACT:TOPIX　Large70>
 70 ななじゅう 70 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>

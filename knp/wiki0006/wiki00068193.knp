@@ -1,51 +1,51 @@
-# S-ID:wiki00068193-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000
+# S-ID:wiki00068193-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2023/10/24 MEMO:
 * 9D
-+ 1D <体言><非用言格解析:動>
-独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ガ" target="法人" sid="wiki00068193-00-01" id="2"/><rel type="カラ" target="行政" sid="wiki00068193-00-01" id="1"/><体言><非用言格解析:動>
+独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 2D <体言>
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言>
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9D <rel type="修飾" target="行政" sid="wiki00068193-00-01" id="1"/><rel type="修飾" mode="AND" target="独立" sid="wiki00068193-00-01" id="0"/><体言>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 4D <体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00068193-00-01" id="3"/><体言><非用言格解析:動>
-建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <体言><非用言格解析:動>
-運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><非用言格解析:動>
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00068193-00-01" id="3"/><体言><非用言格解析:動>
+建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
+運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <rel type="ノ？" target="運輸" sid="wiki00068193-00-01" id="5"/><体言><非用言格解析:動>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00068193-00-01" id="6"/><体言><非用言格解析:動>
-整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ガ" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="ヲ" target="建設" sid="wiki00068193-00-01" id="4"/><体言><非用言格解析:動>
-支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 31D <rel type="=" target="法人" sid="wiki00068193-00-01" id="2"/><体言>
-機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 9D <rel type="ガ" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="ヲ" target="建設" sid="wiki00068193-00-01" id="4"/><rel type="ヲ" mode="AND" target="整備" sid="wiki00068193-00-01" id="7"/><体言><非用言格解析:動>
+支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 31D <体言><NE:ORGANIZATION:独立行政法人鉄道建設・運輸施設整備支援機構>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 11D <体言><非用言格解析:動>
++ 11D <rel type="=" target="独立" sid="wiki00068193-00-01" id="0"/><体言><非用言格解析:動>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 12D <体言>
++ 12D <rel type="=" target="行政" sid="wiki00068193-00-01" id="1"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 20D <体言>
++ 19D <rel type="=" target="法人" sid="wiki00068193-00-01" id="2"/><体言>
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 14D <体言>
++ 14D <rel type="=" target="鉄道" sid="wiki00068193-00-01" id="3"/><体言>
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 15D <rel type="=" target="建設" sid="wiki00068193-00-01" id="4"/><体言><非用言格解析:動>
++ 17P <rel type="=" target="建設" sid="wiki00068193-00-01" id="4"/><体言><非用言格解析:動>
 建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 16D <体言><非用言格解析:動>
++ 16D <rel type="=" target="運輸" sid="wiki00068193-00-01" id="5"/><体言><非用言格解析:動>
 運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 17D <体言><非用言格解析:動>
++ 17D <rel type="=" target="施設" sid="wiki00068193-00-01" id="6"/><体言><非用言格解析:動>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 18D <体言><非用言格解析:動>
++ 18D <rel type="=" target="整備" sid="wiki00068193-00-01" id="7"/><体言><非用言格解析:動>
 整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 19D <体言><非用言格解析:動>
++ 19D <rel type="=" target="支援" sid="wiki00068193-00-01" id="8"/><体言><非用言格解析:動>
 支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 20D <rel type="=" target="機構" sid="wiki00068193-00-01" id="9"/><体言>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 21D <rel type="ノ" target="機構" sid="wiki00068193-00-01" id="19"/><体言><NE:ARTIFACT:独立行政法人鉄道建設・運輸施設整備支援機構法>
++ 21D <rel type="ニカンシテ" target="機構" sid="wiki00068193-00-01" id="19"/><体言><NE:ARTIFACT:独立行政法人鉄道建設・運輸施設整備支援機構法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -53,86 +53,93 @@
 基づき もとづき 基づく 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 23D <体言><非用言格解析:動>
++ 23D <rel type="=≒" target="鉄道" sid="wiki00068193-00-01" id="13"/><体言>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 24D <rel type="ノ" target="交通" sid="wiki00068193-00-01" id="22"/><体言>
++ 24D <rel type="ノ？" target="交通" sid="wiki00068193-00-01" id="22"/><体言>
 ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 26D <rel type="ガ" target="法人" sid="wiki00068193-00-01" id="31"/><rel type="ヲ" target="ネットワーク" sid="wiki00068193-00-01" id="23"/><体言><非用言格解析:動>
++ 26D <rel type="ガ" target="法人" sid="wiki00068193-00-01" id="31"/><rel type="ヲ" target="ネットワーク" sid="wiki00068193-00-01" id="23"/><rel type="=≒" target="整備" sid="wiki00068193-00-01" id="17"/><体言><非用言格解析:動>
 整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 26D <体言>
++ 26D <rel type="=構" target="整備" sid="wiki00068193-00-01" id="24"/><rel type="ノ" target="法人" sid="wiki00068193-00-01" id="31"/><体言>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 27D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 9D
-+ 31D <rel type="ガ" target="法人" sid="wiki00068193-00-01" id="31"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去>
++ 31D <rel type="ガ" target="法人" sid="wiki00068193-00-01" id="31"/><rel type="ニモトヅイテ" target="法" sid="wiki00068193-00-01" id="20"/><rel type="ニ" target="日本" sid="wiki00068193-00-01" id="28"/><rel type="トシテ" target="目的" sid="wiki00068193-00-01" id="25"/><用言:動><時制:過去>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9D
 + 31D <体言><NE:LOCATION:日本>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 30D <体言><非用言格解析:動>
++ 31D <rel type="=" target="独立" sid="wiki00068193-00-01" id="0"/><体言><非用言格解析:動>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 31D <体言>
++ 31D <rel type="=" target="行政" sid="wiki00068193-00-01" id="1"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="=" target="機構" sid="wiki00068193-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="ノ？" target="日本" sid="wiki00068193-00-01" id="28"/><rel type="=構" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="=" mode="AND" target="法人" sid="wiki00068193-00-01" id="2"/><rel type="修飾" target="独立" sid="wiki00068193-00-01" id="29"/><rel type="修飾" mode="AND" target="行政" sid="wiki00068193-00-01" id="30"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00068193-00-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00068193-00-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
 * 1P
-+ 1D <rel type="=" target="鉄道" sid="wiki00068193-00-01" id="13"/><体言>
-てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <rel type="=" target="建設" sid="wiki00068193-00-01" id="14"/><体言><非用言格解析:動><NE:ARTIFACT:てつどうけんせつ>
-けんせつ けんせつ けんせつ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5P <rel type="=" target="運輸" sid="wiki00068193-00-01" id="15"/><体言>
-うんゆしせつせいびしえんきこう うんゆしせつせいびしえんきこう うんゆしせつせいびしえんきこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="鉄道" sid="wiki00068193-00-01" id="3"/><体言>
+てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4P <rel type="=" target="建設" sid="wiki00068193-00-01" id="4"/><体言><非用言格解析:動>
+けんせつ けんせつ けんせつ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="運輸" sid="wiki00068193-00-01" id="5"/><体言><非用言格解析:動>
+うんゆ うんゆ うんゆ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="施設" sid="wiki00068193-00-01" id="6"/><体言>
+しせつ しせつ しせつ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="整備" sid="wiki00068193-00-01" id="7"/><体言><非用言格解析:動>
+せいび せいび せいび 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="支援" sid="wiki00068193-00-01" id="8"/><体言><非用言格解析:動>
+しえん しえん しえん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8P <rel type="=" target="機構" sid="wiki00068193-00-01" id="9"/><NE:ORGANIZATION:てつどうけんせつ・うんゆしせつせいびしえんきこう><体言>
+きこう きこう きこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 5D <体言><非用言格解析:動>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="ト" target="JRTT" sid="wiki00068193-00-02" id="8"/><rel type="ノ" target="機構" sid="wiki00068193-00-01" id="9"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言>
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="略称" sid="wiki00068193-00-02" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-JRTT JRTT JRTT 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=構" target="略称" sid="wiki00068193-00-02" id="7"/><rel type="=" mode="AND" target="機構" sid="wiki00068193-00-01" id="9"/><NE:ORGANIZATION:JRTT><体言>
+JRTT JRTT JRTT 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00068193-00-03 括弧始:（ 括弧終:） 括弧位置:116 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00068193-00-03 括弧始:（ 括弧終:） 括弧位置:116 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
 * -1D
 + 1D <体言>
 中期 ちゅうき 中期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言>
++ 2D <rel type="時間" target="中期" sid="wiki00068193-00-03" id="0"/><体言>
 目標 もくひょう 目標 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ヲ" target="目標" sid="wiki00068193-00-03" id="1"/><体言><非用言格解析:動>
++ 3D <rel type="ヲ" target="目標" sid="wiki00068193-00-03" id="1"/><rel type="ガ" target="法人" sid="wiki00068193-00-03" id="3"/><体言><非用言格解析:動>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="法人" sid="wiki00068193-00-01" id="31"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=≒" target="法人" sid="wiki00068193-00-01" id="31"/><memo text="独立行政法人の三つの類型の一つ"/><体言>
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00068193-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00068193-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/24 MEMO:
 * 2D
-+ 4D <rel type="ノ" target="法人" sid="wiki00068193-00-03" id="3"/><体言>
++ 4D <rel type="ノ" target="機構" sid="wiki00068193-00-01" id="9"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 4P <rel type="=" target="JRTT" sid="wiki00068193-00-02" id="5"/><体言>
-JRTT JRTT JRTT 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="ガ" target="通称" sid="wiki00068193-01" id="0"/><rel type="=" target="JRTT" sid="wiki00068193-00-02" id="8"/><rel type="=構" mode="AND" target="通称" sid="wiki00068193-01" id="0"/><体言><NE:ORGANIZATION:JRTT>
+JRTT JRTT JRTT 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="=" target="鉄道" sid="wiki00068193-00-01" id="13"/><体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <rel type="=" target="運輸" sid="wiki00068193-00-01" id="15"/><体言><非用言格解析:動>
-運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="法人" sid="wiki00068193-00-03" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <rel type="=" target="鉄道" sid="wiki00068193-00-01" id="3"/><体言>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="運輸" sid="wiki00068193-00-01" id="5"/><体言><非用言格解析:動>
+運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="ガ" target="通称" sid="wiki00068193-01" id="0"/><rel type="=" target="機構" sid="wiki00068193-00-01" id="9"/><rel type="=構" mode="AND" target="通称" sid="wiki00068193-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:鉄道・運輸機構>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

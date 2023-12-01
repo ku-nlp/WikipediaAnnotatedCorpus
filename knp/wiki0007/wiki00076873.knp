@@ -15,7 +15,7 @@
 一群 いちぐん 一群 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076873-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2023/05/26 MEMO:
+# S-ID:wiki00076873-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2023/08/28 MEMO:
 * 1D
 + 1D <体言>
 程度 ていど 程度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -57,7 +57,7 @@ EOS
 ボール ぼーる ボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ボール" sid="wiki00076873-01" id="9"/><rel type="ニ" target="ゴール" sid="wiki00076873-01" id="8"/><rel type="外の関係" target="要素" sid="wiki00076873-01" id="11"/><用言:動><時制:非過去><節-主辞>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ボール" sid="wiki00076873-01" id="9"/><rel type="ニ" target="ゴール" sid="wiki00076873-01" id="8"/><rel type="外の関係" target="要素" sid="wiki00076873-01" id="11"/><rel type="修飾" target="ため" sid="wiki00076873-01" id="4"/><用言:動><時制:非過去><節-主辞>
 蹴り けり 蹴る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 込む こむ 込む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 11D
@@ -79,7 +79,7 @@ EOS
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00076873-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/05/26 MEMO:
+# S-ID:wiki00076873-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/08/28 MEMO:
 * 12D
 + 12D
 また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
@@ -94,7 +94,7 @@ EOS
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ≒" target="スポーツ" sid="wiki00076873-01" id="14"/><rel type="ト" target="フットボール" sid="wiki00076873-02" id="2"/><用言:動><時制:非過去><節-主辞>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ≒" target="スポーツ" sid="wiki00076873-01" id="14"/><rel type="ト" target="フットボール" sid="wiki00076873-02" id="2"/><rel type="外の関係" target="場合" sid="wiki00076873-02" id="4"/><用言:動><時制:非過去><節-主辞>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 12D
 + 12D <rel type="トイウ" target="呼ぶ" sid="wiki00076873-02" id="3"/><体言><節-区切>
@@ -122,11 +122,11 @@ EOS
 フットボール ふっとぼーる フットボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 12D <rel type="修飾" target="フットボール" sid="wiki00076873-02" id="10"/><rel type="=≒" target="スポーツ" sid="wiki00076873-00" id="2"/><体言><非用言格解析:動>
++ 12D <rel type="修飾" target="フットボール" sid="wiki00076873-02" id="10"/><rel type="=≒" target="スポーツ" sid="wiki00076873-00" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="競技" sid="wiki00076873-02" id="11"/><rel type="デ" target="フットボール" sid="wiki00076873-02" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ヲ" target="競技" sid="wiki00076873-02" id="11"/><rel type="ニ" target="場合" sid="wiki00076873-02" id="4"/><rel type="ガ" target="不特定:状況"/><用言:動><時制:非過去><節-主辞><節-区切>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

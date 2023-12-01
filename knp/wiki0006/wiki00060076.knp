@@ -1,4 +1,4 @@
-# S-ID:wiki00060076-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:147.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060076-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:147.00000 MOD:2023/09/29 MEMO:
 * 1P
 + 1D
 両 りょう 両 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
@@ -13,12 +13,12 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 5P <体言>
++ 5P <rel type="=≒" target="性" sid="wiki00060076-00-01" id="1"/><体言>
 男性 だんせい 男性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D <体言>
++ 6D <rel type="=≒" target="性" sid="wiki00060076-00-01" id="1"/><体言>
 女性 じょせい 女性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -31,9 +31,9 @@
 + 9P <体言>
 異性 いせい 異性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D
++ 9D <rel type="ガ" target="性" sid="wiki00060076-00-01" id="9"/>
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言>
++ 10D <rel type="修飾" target="同" sid="wiki00060076-00-01" id="8"/><体言>
 性 せい 性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -61,11 +61,11 @@
 + 16D <rel type="ガ" target="憧れ" sid="wiki00060076-00-01" id="16"/><用言:形><時制:非過去>
 美的な びてきな 美的だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 14P
-+ 19P <rel type="修飾" target="憧れ" sid="wiki00060076-00-01" id="16"/><体言>
++ 19P <rel type="修飾" target="憧れ" sid="wiki00060076-00-01" id="16"/><rel type="ガ" target="不特定:人"/><体言>
 憧れ あこがれ 憧れ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 18P <rel type="ガ" target="魅惑" sid="wiki00060076-00-01" id="19"/><体言>
++ 18P <rel type="ガ" target="魅惑" sid="wiki00060076-00-01" id="19"/><用言:形><時制:非過去>
 情緒 じょうちょ 情緒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -73,12 +73,12 @@
 精神 せいしん 精神 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 16P
-+ 22P <rel type="修飾" target="精神的な" sid="wiki00060076-00-01" id="18"/><rel type="修飾" mode="AND" target="情緒的" sid="wiki00060076-00-01" id="17"/><体言><非用言格解析:動>
++ 22P <rel type="修飾" target="精神的な" sid="wiki00060076-00-01" id="18"/><rel type="修飾" mode="AND" target="情緒的" sid="wiki00060076-00-01" id="17"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
 魅惑 みわく 魅惑 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
 * 16D
-+ 21P <rel type="ガ" target="欲望" sid="wiki00060076-00-01" id="22"/><体言>
++ 21P <rel type="ガ" target="欲望" sid="wiki00060076-00-01" id="22"/><用言:形>
 性的 せいてき 性的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 22D <rel type="ガ" target="欲望" sid="wiki00060076-00-01" id="22"/><用言:形><時制:非過去>
@@ -96,35 +96,35 @@
 + 25D <rel type="ガ" target="指向" sid="wiki00060076-00-01" id="25"/><体言>
 性 せい 性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 26D <rel type="修飾" target="性的" sid="wiki00060076-00-01" id="24"/><rel type="トイウ" target="抱きうる" sid="wiki00060076-00-01" id="23"/><体言><非用言格解析:動>
++ 26D <rel type="修飾" target="性的" sid="wiki00060076-00-01" id="24"/><rel type="トイウ" target="抱きうる" sid="wiki00060076-00-01" id="23"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 指向 しこう 指向 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
 + 27D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="指向" sid="wiki00060076-00-01" id="25"/><rel type="デ" target="語" sid="wiki00060076-00-01" id="27"/><用言:動><時制:非過去><節-主辞>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="ガ" mode="AND" target="愛" sid="wiki00060076-00-01" id="2"/><rel type="=構" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="=構" mode="AND" target="愛" sid="wiki00060076-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="ガ" mode="AND" target="愛" sid="wiki00060076-00-01" id="2"/><rel type="=構" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="=構" mode="AND" target="愛" sid="wiki00060076-00-01" id="2"/><rel type="修飾" target="いう" sid="wiki00060076-00-01" id="26"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00060076-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060076-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
 + 1D <rel type="=" target="両" sid="wiki00060076-00-01" id="0"/>
 りょう りょう りょう 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="性" sid="wiki00060076-00-01" id="1"/><体言>
 せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="愛" sid="wiki00060076-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="愛" sid="wiki00060076-00-01" id="2"/><体言>
 あい あい あい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00060076-00-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060076-00-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/20 MEMO:
 * -1D
 + 1D <rel type="ノ" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="デ" target="英" sid="wiki00060076-00-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="バイセクシュアリティ" sid="wiki00060076-00-01" id="3"/><rel type="デ" target="英" sid="wiki00060076-00-03" id="0"/><体言>
 bisexuality bisexuality bisexuality 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00060076-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/05/31 MEMO:
+# S-ID:wiki00060076-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/09/29 MEMO:
 * 11D
 + 14D
 また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
@@ -145,15 +145,15 @@ EOS
 + 7D <用言:動><時制:非過去>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 6P
-+ 6P <rel type="ガ" target="指向" sid="wiki00060076-01" id="7"/><体言>
++ 6P <rel type="ガ" target="指向" sid="wiki00060076-01" id="7"/><体言><非用言格解析:形>
 性 せい 性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="ガ" target="指向" sid="wiki00060076-01" id="7"/><体言><非用言格解析:動>
++ 7D <rel type="ガ" target="指向" sid="wiki00060076-01" id="7"/><体言><非用言格解析:形>
 恋愛 れんあい 恋愛 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 8D <rel type="=" target="指向" sid="wiki00060076-00-01" id="25"/><rel type="ニタイシテ" target="人" sid="wiki00060076-01" id="3"/><rel type="修飾" target="性的" sid="wiki00060076-01" id="5"/><rel type="修飾" mode="AND" target="恋愛的" sid="wiki00060076-01" id="6"/><体言><非用言格解析:動>
++ 8D <rel type="ニタイシテ" target="人" sid="wiki00060076-01" id="3"/><rel type="修飾" target="性的" sid="wiki00060076-01" id="5"/><rel type="修飾" mode="AND" target="恋愛的" sid="wiki00060076-01" id="6"/><rel type="=構≒" target="愛" sid="wiki00060076-00-01" id="2"/><rel type="=" mode="AND" target="指向" sid="wiki00060076-00-01" id="25"/><体言><非用言格解析:動>
 指向 しこう 指向 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
@@ -165,7 +165,7 @@ EOS
 あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="トイウ" target="意味する" sid="wiki00060076-01" id="8"/><rel type="=" target="指向" sid="wiki00060076-01" id="7"/><rel type="=" mode="AND" target="愛" sid="wiki00060076-00-01" id="2"/><体言>
++ 14D <rel type="=" target="指向" sid="wiki00060076-01" id="7"/><体言>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
@@ -177,7 +177,7 @@ EOS
 全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 13D <rel type="=" target="性別" sid="wiki00060076-01" id="2"/><rel type="修飾" target="全" sid="wiki00060076-01" id="11"/><体言>
 性 せい 性 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <rel type="=" target="指向" sid="wiki00060076-01" id="7"/><rel type="=構" mode="AND" target="これ" sid="wiki00060076-01" id="9"/><rel type="修飾" target="性" sid="wiki00060076-01" id="12"/><体言>
++ 14D <rel type="修飾" target="性" sid="wiki00060076-01" id="12"/><rel type="=構" target="これ" sid="wiki00060076-01" id="9"/><体言>
 愛 あい 愛 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

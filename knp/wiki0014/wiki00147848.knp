@@ -21,14 +21,14 @@
 打者 だしゃ 打者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="打者" sid="wiki00147848-00-01" id="5"/><rel type="ヲ" target="安打" sid="wiki00147848-00-01" id="7"/><rel type="デ" target="野球" sid="wiki00147848-00-01" id="3"/><rel type="デ" mode="AND" target="ソフトボール" sid="wiki00147848-00-01" id="4"/><用言:動><時制:過去><節-主辞>
++ 6D <rel type="ガ" target="打者" sid="wiki00147848-00-01" id="5"/><rel type="ヲ" target="安打" sid="wiki00147848-00-01" id="6"/><rel type="デ" target="野球" sid="wiki00147848-00-01" id="2"/><rel type="デ" mode="AND" target="ソフトボール" sid="wiki00147848-00-01" id="3"/><用言:動><時制:過去><節-主辞>
 打った うった 打つ 動詞 2 * 0 子音動詞タ行 6 タ形 10 NIL <基本句-主辞>
 * 6D
 + 7D <体言><非用言格解析:動>
 安打 あんだ 安打 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="ノ" target="安打" sid="wiki00147848-00-01" id="7"/><体言>
++ 13D <rel type="ノ" target="安打" sid="wiki00147848-00-01" id="6"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
@@ -46,14 +46,14 @@
 塁 るい 塁 名詞 6 普通名詞 1 * 0 * 0 NIL
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="ガ" target="走者" sid="wiki00147848-00-01" id="10"/><rel type="マデ" target="三塁" sid="wiki00147848-00-01" id="11"/><rel type="外の関係" target="もの" sid="wiki00147848-00-01" id="13"/><用言:動><時制:過去><節-主辞>
++ 13D <rel type="ガ" target="走者" sid="wiki00147848-00-01" id="9"/><rel type="マデ" target="三塁" sid="wiki00147848-00-01" id="11"/><rel type="外の関係" target="もの" sid="wiki00147848-00-01" id="13"/><用言:動><時制:過去><節-主辞>
 進んだ すすんだ 進む 動詞 2 * 0 子音動詞マ行 9 タ形 10 NIL <基本句-主辞>
 * 12D
-+ 14D <rel type="ノ" target="進んだ" sid="wiki00147848-00-01" id="14"/><rel type="=構" target="打" sid="wiki00147848-00-01" id="1"/><rel type="=≒" mode="AND" target="安打" sid="wiki00147848-00-01" id="6"/><体言>
++ 14D <rel type="ノ" target="進んだ" sid="wiki00147848-00-01" id="12"/><rel type="=構" target="打" sid="wiki00147848-00-01" id="1"/><rel type="=≒" mode="AND" target="安打" sid="wiki00147848-00-01" id="6"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="打" sid="wiki00147848-00-01" id="2"/><rel type="ヲ" target="もの" sid="wiki00147848-00-01" id="15"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="打" sid="wiki00147848-00-01" id="1"/><rel type="ヲ" target="もの" sid="wiki00147848-00-01" id="13"/><用言:動><時制:非過去><節-主辞><節-区切>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -62,6 +62,6 @@ EOS
 + 1D <rel type="=" target="三塁" sid="wiki00147848-00-01" id="0"/><体言>
 さん さん さん 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 るい るい るい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="打" sid="wiki00147848-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="=" target="打" sid="wiki00147848-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 だ だ だ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

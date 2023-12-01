@@ -1,4 +1,4 @@
-# S-ID:wiki00078210-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/05/29 MEMO:
+# S-ID:wiki00078210-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/08/29 MEMO:
 * 5D
 + 1D <体言>
 理化学 りかがく 理化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
@@ -30,7 +30,7 @@
 * -1D
 + 11D <体言>
 国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="研究" sid="wiki00078210-00-01" id="1"/><体言><非用言格解析:動>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="研究" sid="wiki00078210-00-01" id="1"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="？" target="不特定:物"/><体言><非用言格解析:動>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 11D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -38,11 +38,11 @@
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00078210-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/29 MEMO:
+# S-ID:wiki00078210-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/29 MEMO:
 * 2P
 + 2D <rel type="=" target="理化学" sid="wiki00078210-00-01" id="0"/><体言>
 りかがく りかがく りかがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="研究" sid="wiki00078210-00-01" id="1"/><体言><非用言格解析:動>
++ 2D <rel type="=" target="研究" sid="wiki00078210-00-01" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 けんきゅう けんきゅう けんきゅう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5P <rel type="=" target="所" sid="wiki00078210-00-01" id="2"/><体言><NE:ORGANIZATION:りかがくけんきゅうしょ>
 しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -52,7 +52,7 @@ EOS
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5P <rel type="=構" target="略称" sid="wiki00078210-00-02" id="3"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><体言><NE:ORGANIZATION:理研>
++ 5P <rel type="=構" target="略称" sid="wiki00078210-00-02" id="3"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><rel type="ガ" target="略称" sid="wiki00078210-00-02" id="3"/><体言><NE:ORGANIZATION:理研>
 理研 りけん 理研 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 * 3P
 + 8P <rel type="=" target="理研" sid="wiki00078210-00-02" id="4"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><体言><NE:ORGANIZATION:りけん>
@@ -67,10 +67,10 @@ EOS
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=構" target="略称" sid="wiki00078210-00-02" id="7"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:RIKEN>
++ -1D <rel type="=構" target="略称" sid="wiki00078210-00-02" id="7"/><rel type="=" mode="AND" target="所" sid="wiki00078210-00-01" id="2"/><rel type="ガ" target="略称" sid="wiki00078210-00-02" id="7"/><NE:ORGANIZATION:RIKEN><体言>
 RIKEN りけん RIKEN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
-# S-ID:wiki00078210-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/05/29 MEMO:
+# S-ID:wiki00078210-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/08/29 MEMO:
 * 1D
 + 1D <rel type="=≒" target="日本" sid="wiki00078210-00-01" id="3"/><体言><NE:LOCATION:アジア>
 アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
@@ -80,11 +80,11 @@ EOS
 * 3D
 + 3D <体言>
 基礎 きそ 基礎 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言>
++ 5D <体言>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <体言><非用言格解析:動>
 総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="デ" target="所" sid="wiki00078210-01-01" id="6"/><体言><非用言格解析:動>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="デ" target="所" sid="wiki00078210-01-01" id="6"/><rel type="ニツイテ" target="科学" sid="wiki00078210-01-01" id="3"/><rel type="修飾" target="総合" sid="wiki00078210-01-01" id="4"/><体言><非用言格解析:動>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="修飾" target="最初の" sid="wiki00078210-01-01" id="1"/><rel type="ノ？" target="研究" sid="wiki00078210-01-01" id="5"/><rel type="=構" target="所" sid="wiki00078210-00-01" id="2"/><体言>
 所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -105,11 +105,11 @@ EOS
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00078210-01-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/05/29 MEMO:
+# S-ID:wiki00078210-01-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/08/29 MEMO:
 * -1D
 + 1D <体言>
 大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <rel type="=" target="1917年" sid="wiki00078210-01-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:大正6年>
++ -1D <rel type="=" target="1917年" sid="wiki00078210-01-01" id="8"/><NE:DATE:大正6年><体言>
 6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

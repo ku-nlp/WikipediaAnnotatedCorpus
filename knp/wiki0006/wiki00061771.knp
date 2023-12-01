@@ -1,6 +1,6 @@
-# S-ID:wiki00061771-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000
+# S-ID:wiki00061771-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/11/30 MEMO:
 * 3D
-+ 5D <体言><NE:LOCATION:甘粛省>
++ 5D <rel type="ノ？" target="中華人民共和国" sid="wiki00061771-00-01" id="1"/><体言><NE:LOCATION:甘粛省>
 甘粛 かんしゅく 甘粛 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,7 +10,7 @@
 中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 3D <rel type="ノ" target="中華人民共和国" sid="wiki00061771-00-01" id="1"/><体言>
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ノ" target="北西" sid="wiki00061771-00-01" id="2"/><体言>
++ 4D <rel type="ノ" target="中華人民共和国" sid="wiki00061771-00-01" id="1"/><rel type="ノ？" target="北西" sid="wiki00061771-00-01" id="2"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -18,62 +18,51 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="甘粛省" sid="wiki00061771-00-01" id="0"/><rel type="=" target="甘粛省" sid="wiki00061771-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="甘粛省" sid="wiki00061771-00-01" id="0"/><rel type="=構" target="甘粛省" sid="wiki00061771-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00061771-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
-* 1P
-+ 1D <rel type="=" target="甘粛省" sid="wiki00061771-00-01" id="0"/><体言><非用言格解析:動>
-かんしゅ かんしゅ かんしゅ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5P <rel type="=" target="省" sid="wiki00061771-00-01" id="5"/><体言><非用言格解析:動>
-くしょう くしょう くしょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
+# S-ID:wiki00061771-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/30 MEMO:
+* 2P
++ 5P <rel type="=" target="甘粛省" sid="wiki00061771-00-01" id="0"/><体言><NE:LOCATION:かんしゅくしょう>
+かんしゅく かんしゅく かんしゅく 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail><基本句-主辞>
+しょう しょう しょう 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-* 3P
-+ 3D <rel type="=" target="中華人民共和国" sid="wiki00061771-00-01" id="1"/><体言>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言>
+* 2P
++ 2D <rel type="=≒" target="中華人民共和国" sid="wiki00061771-00-01" id="1"/><体言><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="中国" sid="wiki00061771-00-02" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言>
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15P <体言>
-甘肃省 甘肃省 甘肃省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ 5P <rel type="=" target="甘粛省" sid="wiki00061771-00-01" id="0"/><rel type="デ" target="語" sid="wiki00061771-00-02" id="2"/><memo text="よみは日本語読みを入れた"/><体言><NE:LOCATION:甘肃省>
+甘肃 かんしゅく 甘肃 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head><基本句-主辞>
+省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 11D <体言>
++ 5D <体言>
 拼音 ぴんいん 拼音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言>
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言>
-G G G 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言>
-ā ā ā 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言>
-nsu nsu nsu 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
-　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-Sh Sh Sh 名詞 6 組織名 6 * 0 * 0 NIL
-+ 12D <体言>
-ě ě ě 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15P <rel type="=" target="nsu　Sh" sid="wiki00061771-00-02" id="10"/><体言>
-ng ng ng 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ 7P <rel type="=" target="甘肃省" sid="wiki00061771-00-02" id="3"/><rel type="デ" target="拼音" sid="wiki00061771-00-02" id="4"/><体言><NE:LOCATION:Gānsu　Shěng>
+Gānsu Gānsu Gānsu 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head><基本句-主辞>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
+Shěng Shěng Shěng 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 14D <体言>
++ 7D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言>
-: : : 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="ng" sid="wiki00061771-00-02" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-Gansu Gansu Gansu 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="デ" target="英語" sid="wiki00061771-00-02" id="6"/><rel type="=" target="甘粛" sid="wiki00061771-00-01" id="0"/><NE:LOCATION:Gansu><体言>
+Gansu Gansu Gansu 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
-# S-ID:wiki00061771-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000
+# S-ID:wiki00061771-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/10/10 MEMO:
 * 1D
-+ 1D <rel type="=" target="くしょう" sid="wiki00061771-00-02" id="1"/><体言>
++ 1D <rel type="=" target="省" sid="wiki00061771-00-01" id="5"/><体言>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <rel type="ノ" target="省" sid="wiki00061771-01" id="0"/><体言>
++ 2D <rel type="ノ" target="省" sid="wiki00061771-01" id="0"/><rel type="ノ" mode="AND" target="甘粛" sid="wiki00061771-00-01" id="0"/><体言>
 都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="都" sid="wiki00061771-01" id="1"/><rel type="=" target="都" sid="wiki00061771-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:蘭州市>
++ -1D <rel type="ガ" target="都" sid="wiki00061771-01" id="1"/><rel type="=構" target="都" sid="wiki00061771-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:蘭州市>
 蘭州 らんしゅう 蘭州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

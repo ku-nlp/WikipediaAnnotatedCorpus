@@ -1,108 +1,109 @@
-# S-ID:wiki00067106-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:96.00000
+# S-ID:wiki00067106-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:96.00000 MOD:2023/10/23 MEMO:
 * 13D
 + 1D <体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 24D <体言>
++ 23D <rel type="修飾" target="専門" sid="wiki00067106-00-01" id="0"/><体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><非用言格解析:動>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="デ" target="施設" sid="wiki00067106-00-01" id="3"/><体言><非用言格解析:動>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="5"/><用言:判><体言><時制:非過去>
++ 5D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="5"/><rel type="ノ？" target="教育" sid="wiki00067106-00-01" id="2"/><用言:判><体言><時制:非過去>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 * 3D
-+ 5D <体言><非用言格解析:動>
++ 5D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 専修 せんしゅう 専修 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="=" target="施設である" sid="wiki00067106-00-01" id="3"/><体言>
++ 6D <rel type="=構" target="施設" sid="wiki00067106-00-01" id="3"/><rel type="修飾" target="専修" sid="wiki00067106-00-01" id="4"/><体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 7D
-+ 12D <rel type="ノ" target="学校" sid="wiki00067106-00-01" id="5"/><体言>
+* 6D
++ 11D <rel type="ノ" target="学校" sid="wiki00067106-00-01" id="5"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D <体言>
++ 8D <rel type="=" target="専門" sid="wiki00067106-00-01" id="0"/><体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="専門" sid="wiki00067106-00-01" id="7"/><体言>
++ 9D <rel type="ノ？" target="専門" sid="wiki00067106-00-01" id="7"/><体言>
 課程 かてい 課程 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="11"/><rel type="ヲ" target="課程" sid="wiki00067106-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
++ 11D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="11"/><rel type="ヲ" target="課程" sid="wiki00067106-00-01" id="8"/><rel type="ニ" target="学校" sid="wiki00067106-00-01" id="11"/><用言:動><時制:非過去><節-主辞>
 置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 11D <体言><非用言格解析:動>
++ 11D <rel type="=" target="専修" sid="wiki00067106-00-01" id="4"/><体言><非用言格解析:動>
 専修 せんしゅう 専修 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="=" target="学校" sid="wiki00067106-00-01" id="5"/><体言>
++ 12D <rel type="=≒" target="学校" sid="wiki00067106-00-01" id="5"/><rel type="修飾" target="うち" sid="wiki00067106-00-01" id="6"/><rel type="修飾" mode="AND" target="専修" sid="wiki00067106-00-01" id="10"/><体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="11"/><rel type="ヲ" target="呼称" sid="wiki00067106-00-01" id="16"/><用言:動><時制:非過去><節-主辞>
++ 13D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="11"/><rel type="ヲ" target="呼称" sid="wiki00067106-00-01" id="16"/><rel type="外の関係" target="こと" sid="wiki00067106-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
 称する しょうする 称する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 14D <体言>
++ 14D <rel type="トイウ" target="称する" sid="wiki00067106-00-01" id="12"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 16D <rel type="ガ" target="こと" sid="wiki00067106-00-01" id="13"/><rel type="ガ２" target="機関" sid="wiki00067106-00-01" id="24"/><用言:動><時制:非過去>
++ 16D <rel type="ガ" target="こと" sid="wiki00067106-00-01" id="13"/><rel type="ガ２" target="呼称" sid="wiki00067106-00-01" id="16"/><用言:動><時制:非過去>
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
-* 13D
-+ 16D <rel type="ガ" target="機関" sid="wiki00067106-00-01" id="24"/><rel type="ヲ" target="呼称" sid="wiki00067106-00-01" id="16"/><体言><非用言格解析:動>
+* 13P
++ 16D <rel type="ヲ" target="呼称" sid="wiki00067106-00-01" id="16"/><rel type="ガ" target="学校" sid="wiki00067106-00-01" id="1"/><体言><非用言格解析:動>
 独占 どくせん 独占 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 24D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="1"/><rel type="=" target="学校" sid="wiki00067106-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ 23P <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="1"/><rel type="=構" target="学校" sid="wiki00067106-00-01" id="1"/><rel type="修飾" target="独占" sid="wiki00067106-00-01" id="15"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 18D <体言>
-ISCED ISCED ISCED 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言>
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <memo text="International Standard Classification of Education とは、国際連合教育科学文化機関 (UNESCO) が策定している統計フレームワーク"/><体言><NE:ARTIFACT:ISCED>
+ISCED ISCED ISCED 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
+- の/- - 特殊 1 記号 5 * 0 * 0 NIL
++ 19D <rel type="ノ" target="ISCED" sid="wiki00067106-00-01" id="17"/><体言>
 5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL
-+ 20D <体言>
 B B B 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 21D <rel type="ノ" target="B" sid="wiki00067106-00-01" id="19"/><体言>
++ 20D <rel type="トイウ" target="5B" sid="wiki00067106-00-01" id="18"/><体言>
 レベル れべる レベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 24D <rel type="ガ" target="機関" sid="wiki00067106-00-01" id="24"/><rel type="ニ" target="レベル" sid="wiki00067106-00-01" id="20"/><用言:動><時制:非過去><節-主辞>
++ 23D <rel type="ガ" target="機関" sid="wiki00067106-00-01" id="23"/><rel type="ニ" target="レベル" sid="wiki00067106-00-01" id="19"/><用言:動><時制:非過去><節-主辞>
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 23D <rel type="ガ" target="機関" sid="wiki00067106-00-01" id="24"/><体言><非用言格解析:形>
++ 22D <rel type="ガ" target="教育" sid="wiki00067106-00-01" id="22"/><体言><非用言格解析:形>
 高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
-+ 24D <体言><非用言格解析:動>
++ 23D <rel type="修飾" target="高等" sid="wiki00067106-00-01" id="21"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=≒" target="教育" sid="wiki00067106-00-01" id="2"/><体言><非用言格解析:動>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="1"/><rel type="=" target="学校" sid="wiki00067106-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="学校" sid="wiki00067106-00-01" id="1"/><rel type="ノ？" target="教育" sid="wiki00067106-00-01" id="22"/><rel type="=構" target="学校" sid="wiki00067106-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00067106-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00067106-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/23 MEMO:
 * 1P
-+ 1D <rel type="=" target="教育" sid="wiki00067106-00-01" id="23"/><体言>
-せんもん せんもん せんもん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2P <rel type="=" target="学校" sid="wiki00067106-00-01" id="1"/><体言><NE:ORGANIZATION:せんもんがっこう>
-がっこう がっこう がっこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="専門" sid="wiki00067106-00-01" id="0"/><体言>
+せんもん せんもん せんもん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="=" target="学校" sid="wiki00067106-00-01" id="1"/><体言>
+がっこう がっこう がっこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
-Specialized Specialized Specialized 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+Specialized Specialized Specialized 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-training training training 名詞 6 組織名 6 * 0 * 0 NIL
++ 4D <体言>
+training training training 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-college college college 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="学校" sid="wiki00067106-00-01" id="1"/><体言>
+college college college 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
-# S-ID:wiki00067106-00-03 括弧始:（ 括弧終:） 括弧位置:64 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000
+# S-ID:wiki00067106-00-03 括弧始:（ 括弧終:） 括弧位置:64 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/23 MEMO:
 * -1D
 + 1D <体言>
-post post post 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
+post post post 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+- - - 特殊 1 記号 5 * 0 * 0 NIL
 + 2D <体言>
-- - - 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切>
-secondary secondary secondary 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
+secondary secondary secondary 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-course course course 名詞 6 組織名 6 * 0 * 0 NIL
++ -1D <rel type="=" target="課程" sid="wiki00067106-00-01" id="8"/><体言>
+course course course 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

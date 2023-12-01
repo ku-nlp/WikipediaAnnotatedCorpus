@@ -25,11 +25,11 @@
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="2" sid="wiki00309737-00-01" id="7"/><rel type="ニツイテ" target="不特定:物"/><rel type="ニツイテ" mode="？" target="不特定:状況"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="2" sid="wiki00309737-00-01" id="6"/><rel type="ニツイテ" target="不特定:物"/><rel type="ニツイテ" mode="？" target="不特定:状況"/>
 規定 きてい 規定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ニ" target="規定" sid="wiki00309737-00-01" id="8"/>
++ 11D <rel type="ニ" target="規定" sid="wiki00309737-00-01" id="7"/>
 基づいて もとづいて 基づく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
@@ -40,12 +40,12 @@
 + 11D
 関して かんして 関する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 9D
-+ 13D <rel type="ヲ" target="省令" sid="wiki00309737-00-01" id="14"/><rel type="ニモトヅイテ" target="規定" sid="wiki00309737-00-01" id="8"/><rel type="ニカンシテ" target="学位" sid="wiki00309737-00-01" id="10"/><rel type="ガ" target="不特定:人"/>
++ 13D <rel type="ヲ" target="省令" sid="wiki00309737-00-01" id="13"/><rel type="ニモトヅイテ" target="規定" sid="wiki00309737-00-01" id="7"/><rel type="ニカンシテ" target="学位" sid="wiki00309737-00-01" id="10"/><rel type="ガ" target="不特定:人"/>
 定めた さだめた 定める 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 12P
-+ 13D <rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="15"/><NE:ORGANIZATION:文部>
++ 13D <rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="14"/><NE:ORGANIZATION:文部>
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
-+ 16P <rel type="=構" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ガ" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ？" target="文部" sid="wiki00309737-00-01" id="13"/>
++ 16P <rel type="=構" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ガ" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ？" target="文部" sid="wiki00309737-00-01" id="12"/>
 省令 しょうれい 省令 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -54,11 +54,11 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="=≒" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="15"/>
++ 16D <rel type="=≒" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="14"/>
 法令 ほうれい 法令 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ" target="法令" sid="wiki00309737-00-01" id="16"/><rel type="=構" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="=構" mode="AND" target="法令" sid="wiki00309737-00-01" id="16"/>
++ -1D <rel type="ガ" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ" target="法令" sid="wiki00309737-00-01" id="15"/><rel type="=構" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="=構" mode="AND" target="法令" sid="wiki00309737-00-01" id="15"/>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
@@ -85,7 +85,7 @@ EOS
 日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 7D
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <rel type="=" target="省令" sid="wiki00309737-00-01" id="14"/>
++ 8D <rel type="=" target="省令" sid="wiki00309737-00-01" id="13"/>
 省令 しょうれい 省令 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + -1D <rel type="=" target="規則" sid="wiki00309737-00-01" id="1"/><rel type="ノ" target="省令" sid="wiki00309737-00-02" id="7"/><NE:ARTIFACT:昭和28年4月1日文部省令第9号>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
@@ -138,10 +138,10 @@ EOS
 + 14D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 8D
-+ 10P <rel type="=≒" target="文部" sid="wiki00309737-00-01" id="13"/>
++ 10P <rel type="=≒" target="文部" sid="wiki00309737-00-01" id="12"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 文部 もんぶ 文部 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="15"/><NE:ORGANIZATION:文部科学>
++ 11D <rel type="ノ？" target="日本" sid="wiki00309737-00-01" id="14"/><NE:ORGANIZATION:文部科学>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 12D <rel type="ノ" target="科学" sid="wiki00309737-01" id="10"/><rel type="ノ" mode="AND" target="文部" sid="wiki00309737-01" id="9"/>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL

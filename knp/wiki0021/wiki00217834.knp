@@ -3,7 +3,7 @@
 + 1D
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 党 とう 党 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="外の関係" target="制" sid="wiki00217834-00-01" id="3"/><rel type="ヲ" target="不特定:状況"/><rel type="ガ" target="一党" sid="wiki00217834-00-01" id="0"/>
++ 2D <rel type="外の関係" target="制" sid="wiki00217834-00-01" id="2"/><rel type="ヲ" target="不特定:状況"/><rel type="ガ" target="一党" sid="wiki00217834-00-01" id="0"/>
 独裁 どくさい 独裁 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 7D <rel type="ニヨッテ" target="独裁" sid="wiki00217834-00-01" id="2"/><memo text="トイウ格、ノ格のほうがよいか？"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -15,16 +15,16 @@
 特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="修飾" target="特定" sid="wiki00217834-00-01" id="4"/><rel type="=" target="一党" sid="wiki00217834-00-01" id="0"/>
++ 5D <rel type="修飾" target="特定" sid="wiki00217834-00-01" id="3"/><rel type="=" target="一党" sid="wiki00217834-00-01" id="0"/>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 6D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ 7D <rel type="ガ" target="政党" sid="wiki00217834-00-01" id="5"/><rel type="外の関係" target="体制" sid="wiki00217834-00-01" id="8"/><rel type="=" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-00-01" id="5"/><rel type="ヲ" target="不特定:状況"/>
++ 7D <rel type="ガ" target="政党" sid="wiki00217834-00-01" id="4"/><rel type="外の関係" target="体制" sid="wiki00217834-00-01" id="7"/><rel type="=" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-00-01" id="4"/><rel type="ヲ" target="不特定:状況"/>
 独裁 どくさい 独裁 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="制" sid="wiki00217834-00-01" id="3"/><rel type="=構" target="制" sid="wiki00217834-00-01" id="3"/><rel type="ノ" target="独裁" sid="wiki00217834-00-01" id="7"/>
++ -1D <rel type="ガ" target="制" sid="wiki00217834-00-01" id="2"/><rel type="=構" target="制" sid="wiki00217834-00-01" id="2"/><rel type="ノ" target="独裁" sid="wiki00217834-00-01" id="7"/>
 体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -34,9 +34,9 @@ EOS
 + 1D <rel type="=" target="一党" sid="wiki00217834-00-01" id="0"/>
 いっ いっ いっ 名詞 6 数詞 7 * 0 * 0 NIL
 とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ヲ" target="不特定:状況"/><rel type="外の関係" target="せい" sid="wiki00217834-00-02" id="3"/><rel type="ガ" target="いっとう" sid="wiki00217834-00-02" id="0"/>
++ 2D <rel type="=" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ヲ" target="不特定:状況"/><rel type="外の関係" target="せい" sid="wiki00217834-00-02" id="2"/><rel type="ガ" target="いっとう" sid="wiki00217834-00-02" id="0"/>
 どくさい どくさい どくさい 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="制" sid="wiki00217834-00-01" id="3"/><rel type="ニヨッテ" target="どくさい" sid="wiki00217834-00-02" id="2"/>
++ -1D <rel type="=" target="制" sid="wiki00217834-00-01" id="2"/><rel type="ニヨッテ" target="どくさい" sid="wiki00217834-00-02" id="2"/>
 せい せい せい 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00217834-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/11/04 MEMO:
@@ -47,7 +47,7 @@ EOS
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 + 2D <rel type="=" target="政党" sid="wiki00217834-00-01" id="4"/>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制" sid="wiki00217834-00-01" id="3"/><rel type="ト" target="制" sid="wiki00217834-01" id="2"/><rel type="=構" target="制" sid="wiki00217834-00-01" id="3"/><rel type="修飾" target="非競合的" sid="wiki00217834-01" id="0"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-01" id="1"/><memo text="PO:いう"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制" sid="wiki00217834-00-01" id="2"/><rel type="ト" target="制" sid="wiki00217834-01" id="2"/><rel type="=構" target="制" sid="wiki00217834-00-01" id="2"/><rel type="修飾" target="非競合的" sid="wiki00217834-01" id="0"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-01" id="1"/><memo text="PO:いう"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -72,7 +72,7 @@ EOS
 + 5D <rel type="=" target="一党" sid="wiki00217834-00-01" id="0"/>
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 党 とう 党 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="純粋な" sid="wiki00217834-02" id="3"/><rel type="=" target="制" sid="wiki00217834-00-01" id="3"/><rel type="ニヨッテ" target="一党" sid="wiki00217834-02" id="4"/>
++ 6D <rel type="修飾" target="純粋な" sid="wiki00217834-02" id="3"/><rel type="=" target="制" sid="wiki00217834-00-01" id="2"/><rel type="ニヨッテ" target="一党" sid="wiki00217834-02" id="4"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -88,7 +88,7 @@ EOS
 + 9D <rel type="=≒" target="一党" sid="wiki00217834-02" id="4"/>
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
 党 とう 党 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="事実上" sid="wiki00217834-02" id="8"/><rel type="ヲ" target="不特定:状況"/><rel type="判ガ" target="制" sid="wiki00217834-02" id="14"/><rel type="=≒" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ガ" target="一党" sid="wiki00217834-02" id="8"/>
++ 12D <rel type="修飾" target="事実上" sid="wiki00217834-02" id="7"/><rel type="ヲ" target="不特定:状況"/><rel type="判ガ" target="制" sid="wiki00217834-02" id="14"/><rel type="=≒" target="独裁" sid="wiki00217834-00-01" id="2"/><rel type="ガ" target="一党" sid="wiki00217834-02" id="8"/>
 独裁 どくさい 独裁 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 8D
@@ -96,7 +96,7 @@ EOS
 ヘゲモニー へげもにー ヘゲモニー 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="=構≒" target="制" sid="wiki00217834-00-01" id="3"/><rel type="=構" mode="AND" target="独裁" sid="wiki00217834-02" id="11"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-02" id="13"/><rel type="修飾" target="独裁" sid="wiki00217834-02" id="11"/><rel type="修飾" mode="AND" target="ヘゲモニー" sid="wiki00217834-02" id="12"/><memo text="構のつけ方　これでいい？"/>
++ 13D <rel type="=構≒" target="制" sid="wiki00217834-00-01" id="2"/><rel type="=構" mode="AND" target="独裁" sid="wiki00217834-02" id="9"/><rel type="ニヨッテ" target="政党" sid="wiki00217834-02" id="11"/><rel type="修飾" target="独裁" sid="wiki00217834-02" id="9"/><rel type="修飾" mode="AND" target="ヘゲモニー" sid="wiki00217834-02" id="10"/><memo text="構のつけ方　これでいい？"/>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D

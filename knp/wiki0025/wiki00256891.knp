@@ -18,24 +18,24 @@
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="外の関係" target="図面" sid="wiki00256891-00-01" id="6"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="外の関係" target="図面" sid="wiki00256891-00-01" id="5"/>
 設計 せっけい 設計 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="設計" sid="wiki00256891-00-01" id="5"/>
++ 6D <rel type="修飾" target="設計" sid="wiki00256891-00-01" id="4"/>
 図面 ずめん 図面 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:物"/><rel type="ヲ" target="書籍" sid="wiki00256891-00-01" id="3"/><rel type="ヲ" mode="AND" target="新聞" sid="wiki00256891-00-01" id="4"/><rel type="ヲ" mode="AND" target="図面など" sid="wiki00256891-00-01" id="6"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:物"/><rel type="ヲ" target="書籍" sid="wiki00256891-00-01" id="2"/><rel type="ヲ" mode="AND" target="新聞" sid="wiki00256891-00-01" id="3"/><rel type="ヲ" mode="AND" target="図面など" sid="wiki00256891-00-01" id="6"/>
 保存 ほぞん 保存 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="媒体" sid="wiki00256891-00-01" id="10"/><rel type="ニ" target="保存" sid="wiki00256891-00-01" id="7"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="媒体" sid="wiki00256891-00-01" id="9"/><rel type="ニ" target="保存" sid="wiki00256891-00-01" id="6"/>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="媒体" sid="wiki00256891-00-01" id="10"/><rel type="ヲ" target="不特定:物"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="媒体" sid="wiki00256891-00-01" id="9"/><rel type="ヲ" target="不特定:物"/>
 記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ノ？" target="記録" sid="wiki00256891-00-01" id="9"/><rel type="ガ" target="マイクロフィルム" sid="wiki00256891-00-01" id="0"/><rel type="=構" target="マイクロフィルム" sid="wiki00256891-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ノ？" target="記録" sid="wiki00256891-00-01" id="8"/><rel type="ガ" target="マイクロフィルム" sid="wiki00256891-00-01" id="0"/><rel type="=構" target="マイクロフィルム" sid="wiki00256891-00-01" id="0"/><memo text="CO"/>
 媒体 ばいたい 媒体 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -48,6 +48,6 @@ EOS
 * -1D
 + 1D
 写真 しゃしん 写真 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="写真" sid="wiki00256891-00-03" id="0"/><rel type="=≒" target="媒体" sid="wiki00256891-00-01" id="10"/>
++ -1D <rel type="修飾" target="写真" sid="wiki00256891-00-03" id="0"/><rel type="=≒" target="媒体" sid="wiki00256891-00-01" id="9"/>
 フィルム ふぃるむ フィルム 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

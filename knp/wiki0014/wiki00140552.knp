@@ -291,7 +291,7 @@ Schema Schema Schema 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 仕様 しよう 仕様 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="仕様" sid="wiki00140552-06" id="4"/><rel type="ガ２" target="RELAX　NG" sid="wiki00140552-06" id="0"/><rel type="ニクラベテ" target="Schema" sid="wiki00140552-06" id="3"/><rel type="=≒" target="簡潔な" sid="wiki00140552-04-01" id="5"/>
++ -1D <rel type="ガ" target="仕様" sid="wiki00140552-06" id="5"/><rel type="ガ２" target="RELAX　NG" sid="wiki00140552-06" id="0"/><rel type="ニクラベテ" target="Schema" sid="wiki00140552-06" id="3"/><rel type="=≒" target="簡潔な" sid="wiki00140552-04-01" id="5"/>
 簡潔である かんけつである 簡潔だ 形容詞 3 * 0 ナ形容詞 21 デアル列基本形 17 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -364,7 +364,7 @@ NG 　 NG 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ノ" target="RELAX　NG" sid="wiki00140552-08" id="7"/><rel type="=" target="仕様" sid="wiki00140552-06" id="4"/>
++ 11D <rel type="ノ" target="RELAX　NG" sid="wiki00140552-08" id="7"/><rel type="=" target="仕様" sid="wiki00140552-06" id="5"/>
 仕様 しよう 仕様 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -405,7 +405,7 @@ IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 5P
-+ 7P <rel type="時間" target="2003年" sid="wiki00140552-09-01" id="0"/><rel type="トシテ" target="19757-2" sid="wiki00140552-09-01" id="4"/><rel type="=≒" target="策定した" sid="wiki00140552-08" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="仕様" sid="wiki00140552-08" id="8"/>
++ 7P <rel type="時間" target="2003年" sid="wiki00140552-09-01" id="0"/><rel type="トシテ" target="19757-2" sid="wiki00140552-09-01" id="3"/><rel type="=≒" target="策定した" sid="wiki00140552-08" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="仕様" sid="wiki00140552-08" id="8"/>
 策定 さくてい 策定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -415,7 +415,7 @@ IEC IEC IEC 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="時間" target="2008年" sid="wiki00140552-09-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="仕様" sid="wiki00140552-08" id="8"/>
++ -1D <rel type="時間" target="2008年" sid="wiki00140552-09-01" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="仕様" sid="wiki00140552-08" id="8"/>
 改定 かいてい 改定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -441,7 +441,7 @@ EOS
 * 3D
 + 6D
 正規 せいき 正規だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:OPTIONAL:middle>
-+ 7D <rel type="修飾" target="正規" sid="wiki00140552-09-02" id="6"/>
++ 7D <rel type="修飾" target="正規" sid="wiki00140552-09-02" id="5"/>
 文法 ぶんぽう 文法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 4D
@@ -451,6 +451,6 @@ EOS
 + 9D
 妥当 だとう 妥当だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:OPTIONAL:middle>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="19757-2" sid="wiki00140552-09-01" id="4"/><rel type="ニモトヅイテ" target="文法" sid="wiki00140552-09-02" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="妥当性" sid="wiki00140552-09-02" id="9"/><memo text="文書名らしい。"/><NE:OPTIONAL:文書スキーマ定義言語　第2部　正規文法に基づく妥当性検証>
++ -1D <rel type="=" target="19757-2" sid="wiki00140552-09-01" id="3"/><rel type="ニモトヅイテ" target="文法" sid="wiki00140552-09-02" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="妥当性" sid="wiki00140552-09-02" id="8"/><memo text="文書名らしい。"/><NE:OPTIONAL:文書スキーマ定義言語　第2部　正規文法に基づく妥当性検証>
 検証 けんしょう 検証 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

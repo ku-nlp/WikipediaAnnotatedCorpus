@@ -17,7 +17,7 @@ MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ヲ" target="ベースボール" sid="wiki00180356-00-01" id="6"/><rel type="ガ" target="2リーグ" sid="wiki00180356-00-01" id="7"/>
++ 7D <rel type="ヲ" target="ベースボール" sid="wiki00180356-00-01" id="5"/><rel type="ガ" target="2リーグ" sid="wiki00180356-00-01" id="7"/>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
@@ -28,7 +28,7 @@ MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 * 5D
 + 9D <rel type="外の関係" target="チーム" sid="wiki00180356-00-01" id="11"/><rel type="ガ" target="不特定:人1"/><rel type="ニ" target="不特定:人2"/><rel type="カラ" target="2リーグ" sid="wiki00180356-00-01" id="7"/><memo text="サレルで付与"/>
 選抜 せんばつ 選抜 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="選抜" sid="wiki00180356-00-01" id="10"/><rel type="ノ？" target="2リーグ" sid="wiki00180356-00-01" id="7"/>
++ 10D <rel type="修飾" target="選抜" sid="wiki00180356-00-01" id="8"/><rel type="ノ？" target="2リーグ" sid="wiki00180356-00-01" id="7"/>
 チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
 同士 どうし 同士 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -36,9 +36,9 @@ MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
 + 12D
 よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ 12D <rel type="ガ" target="チーム同士" sid="wiki00180356-00-01" id="11"/><rel type="デ" target="試合" sid="wiki00180356-00-01" id="14"/>
++ 12D <rel type="ガ" target="チーム同士" sid="wiki00180356-00-01" id="9"/><rel type="デ" target="試合" sid="wiki00180356-00-01" id="12"/>
 対抗 たいこう 対抗 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ゲーム" sid="wiki00180356-00-01" id="3"/><rel type="=構" target="ゲーム" sid="wiki00180356-00-01" id="3"/><rel type="修飾" target="対抗" sid="wiki00180356-00-01" id="13"/><rel type="ニヨッテ" target="チーム" sid="wiki00180356-00-01" id="11"/>
++ -1D <rel type="ガ" target="ゲーム" sid="wiki00180356-00-01" id="3"/><rel type="=構" target="ゲーム" sid="wiki00180356-00-01" id="3"/><rel type="修飾" target="対抗" sid="wiki00180356-00-01" id="11"/><rel type="ニヨッテ" target="チーム" sid="wiki00180356-00-01" id="11"/>
 試合 じあい 試合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -65,13 +65,13 @@ EOS
 * 1P
 + 1D
 ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3P <rel type="=≒" target="リーグ" sid="wiki00180356-00-01" id="8"/><rel type="修飾" target="ナショナル" sid="wiki00180356-00-04" id="0"/><NE:OPTIONAL:ナショナルリーグ>
++ 3P <rel type="=≒" target="リーグ" sid="wiki00180356-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00180356-00-04" id="0"/><NE:OPTIONAL:ナショナルリーグ>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + 3D
 アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=≒" target="リーグ" sid="wiki00180356-00-01" id="8"/><rel type="修飾" target="アメリカン" sid="wiki00180356-00-04" id="2"/><NE:OPTIONAL:アメリカンリーグ>
++ -1D <rel type="=≒" target="リーグ" sid="wiki00180356-00-01" id="4"/><rel type="修飾" target="アメリカン" sid="wiki00180356-00-04" id="2"/><NE:OPTIONAL:アメリカンリーグ>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00180356-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2022/09/28 MEMO:
@@ -88,7 +88,7 @@ EOS
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="リーグ" sid="wiki00180356-00-01" id="8"/><rel type="=≒" target="不特定:人2"/>
++ 4D <rel type="ノ" target="リーグ" sid="wiki00180356-00-01" id="4"/><rel type="=≒" target="不特定:人2"/>
 ファン ふぁん ファン 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -106,7 +106,7 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="選手" sid="wiki00180356-01" id="9"/><rel type="デ" target="投票" sid="wiki00180356-01" id="5"/><rel type="デ" mode="AND" target="推薦など" sid="wiki00180356-01" id="7"/><rel type="=" target="選抜" sid="wiki00180356-00-01" id="9"/>
++ 9D <rel type="ガ" target="選手" sid="wiki00180356-01" id="9"/><rel type="デ" target="投票" sid="wiki00180356-01" id="5"/><rel type="デ" mode="AND" target="推薦など" sid="wiki00180356-01" id="7"/><rel type="=" target="選抜" sid="wiki00180356-00-01" id="8"/>
 選抜 せんばつ 選抜 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

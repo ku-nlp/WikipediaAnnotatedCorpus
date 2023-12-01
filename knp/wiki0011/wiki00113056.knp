@@ -10,14 +10,14 @@
 * 2D
 + 3D <rel type="=≒" target="漢" sid="wiki00113056-00-01" id="0"/>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="ノ" target="中国" sid="wiki00113056-00-01" id="1"/><NE:LOCATION:中国大陸>
++ 4D <rel type="ノ" target="中国" sid="wiki00113056-00-01" id="2"/><NE:LOCATION:中国大陸>
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 5D
 おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 4D
-+ 6D <rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="大陸" sid="wiki00113056-00-01" id="2"/><rel type="ガ" target="書籍" sid="wiki00113056-00-01" id="5"/>
++ 6D <rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="大陸" sid="wiki00113056-00-01" id="3"/><rel type="ガ" target="書籍" sid="wiki00113056-00-01" id="6"/>
 著さ あらわさ 著す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9P
@@ -61,7 +61,7 @@ EOS
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="デ" target="日本" sid="wiki00113056-01-01" id="1"/><rel type="=≒" target="著された" sid="wiki00113056-00-01" id="4"/><rel type="ガ" target="書" sid="wiki00113056-01-01" id="4"/>
++ 4D <rel type="デ" target="日本" sid="wiki00113056-01-01" id="1"/><rel type="=≒" target="著された" sid="wiki00113056-00-01" id="5"/><rel type="ガ" target="書" sid="wiki00113056-01-01" id="4"/>
 著さ あらわさ 著す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
@@ -71,18 +71,18 @@ EOS
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="外の関係" target="分類" sid="wiki00113056-01-01" id="5"/><rel type="ガ" target="籍" sid="wiki00113056-00-01" id="1"/><rel type="ニ" target="書" sid="wiki00113056-01-01" id="4"/>
++ 6D <rel type="外の関係" target="分類" sid="wiki00113056-01-01" id="6"/><rel type="ガ" target="籍" sid="wiki00113056-00-01" id="1"/><rel type="ニ" target="書" sid="wiki00113056-01-01" id="4"/>
 対応 たいおう 対応 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 7D <rel type="ノ" target="対応する" sid="wiki00113056-01-01" id="4"/><rel type="=構" target="籍" sid="wiki00113056-00-01" id="1"/>
++ 7D <rel type="ノ" target="対応する" sid="wiki00113056-01-01" id="5"/><rel type="=構" target="籍" sid="wiki00113056-00-01" id="1"/>
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><rel type="トシテ" target="分類" sid="wiki00113056-01-01" id="5"/><rel type="ガ" target="籍" sid="wiki00113056-00-01" id="1"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="トシテ" target="分類" sid="wiki00113056-01-01" id="6"/><rel type="ガ" target="籍" sid="wiki00113056-00-01" id="1"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

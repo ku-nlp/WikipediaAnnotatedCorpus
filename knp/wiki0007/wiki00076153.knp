@@ -13,13 +13,13 @@ SAMPA さんぱ/さむぱ SAMPA 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL
 SAM SAM SAM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 5D
 音声 おんせい 音声 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="=" target="SAMPA" sid="wiki00076153-00-01" id="2"/><rel type="修飾" target="SAM" sid="wiki00076153-00-01" id="3"/><rel type="ノ" target="音声" sid="wiki00076153-00-01" id="4"/><NE:OPTIONAL:拡張SAM音声記号><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 8D <rel type="=" target="SAMPA" sid="wiki00076153-00-01" id="1"/><rel type="修飾" target="SAM" sid="wiki00076153-00-01" id="3"/><rel type="ノ" target="音声" sid="wiki00076153-00-01" id="4"/><NE:OPTIONAL:拡張SAM音声記号><NE-OPTIONAL:ARTIFACT,NONE:0>
 記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 7D
 発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="発音" sid="wiki00076153-00-01" id="7"/><rel type="=≒" target="SAMPA" sid="wiki00076153-00-01" id="1"/>
++ 8D <rel type="ノ" target="発音" sid="wiki00076153-00-01" id="6"/><rel type="=≒" target="SAMPA" sid="wiki00076153-00-01" id="1"/>
 記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -86,7 +86,7 @@ SAMPA さんぱ/さむぱ SAMPA 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL
 音声 おんせい 音声 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 9D <rel type="ノ" target="ロンドン" sid="wiki00076153-01" id="6"/><rel type="ノ？" target="音声" sid="wiki00076153-01" id="7"/><NE:ORGANIZATION:ユニヴァーシティ・カレッジ・ロンドン音声学科>
 学科 がっか 学科 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 12D <rel type="ノ" target="学科" sid="wiki00076153-01" id="9"/><rel type="時間" target="当時" sid="wiki00076153-01" id="3"/><rel type="ガ" target="Wells" sid="wiki00076153-01" id="13"/>
++ 12D <rel type="ノ" target="学科" sid="wiki00076153-01" id="8"/><rel type="時間" target="当時" sid="wiki00076153-01" id="3"/><rel type="ガ" target="Wells" sid="wiki00076153-01" id="12"/>
 長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 * 6D
@@ -96,14 +96,14 @@ John John John 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 + 12D
 Christopher Christopher Christopher 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 13D <rel type="=構" target="長" sid="wiki00076153-01" id="10"/><NE:PERSON:John　Christopher　Wells>
++ 13D <rel type="=構" target="長" sid="wiki00076153-01" id="9"/><NE:PERSON:John　Christopher　Wells>
 Wells Wells Wells 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 14D
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * -1D
-+ -1D <rel type="時間" target="1995年" sid="wiki00076153-01" id="2"/><rel type="ニヨッテ" target="Wells" sid="wiki00076153-01" id="13"/><rel type="ガ" target="記号" sid="wiki00076153-00-01" id="5"/>
++ -1D <rel type="時間" target="1995年" sid="wiki00076153-01" id="2"/><rel type="ニヨッテ" target="Wells" sid="wiki00076153-01" id="12"/><rel type="ガ" target="記号" sid="wiki00076153-00-01" id="5"/>
 開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

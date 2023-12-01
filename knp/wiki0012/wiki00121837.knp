@@ -42,17 +42,17 @@
 東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 12D <rel type="修飾" target="東" sid="wiki00121837-00-01" id="11"/>
 スラブ すらぶ スラブ 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 14D <rel type="ノ？" target="スラブ" sid="wiki00121837-00-01" id="12"/>
++ 14D <rel type="ノ？" target="スラブ" sid="wiki00121837-00-01" id="11"/>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
 + 14D
 再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 15D <rel type="時間" target="6世紀" sid="wiki00121837-00-01" id="4"/><rel type="時間" mode="OR" target="7世紀" sid="wiki00121837-00-01" id="6"/><rel type="ガ" target="人" sid="wiki00121837-00-01" id="13"/><rel type="ニオイテ" target="平野" sid="wiki00121837-00-01" id="9"/><rel type="修飾" target="再" sid="wiki00121837-00-01" id="14"/>
++ 15D <rel type="時間" target="6世紀" sid="wiki00121837-00-01" id="4"/><rel type="時間" mode="OR" target="7世紀" sid="wiki00121837-00-01" id="5"/><rel type="ガ" target="人" sid="wiki00121837-00-01" id="12"/><rel type="ニオイテ" target="平野" sid="wiki00121837-00-01" id="8"/><rel type="修飾" target="再" sid="wiki00121837-00-01" id="13"/>
 定住 ていじゅう 定住 名詞 6 サ変名詞 2 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="歴史" sid="wiki00121837-00-01" id="1"/><rel type="カラ" target="定住" sid="wiki00121837-00-01" id="15"/>
++ -1D <rel type="ガ" target="歴史" sid="wiki00121837-00-01" id="1"/><rel type="カラ" target="定住" sid="wiki00121837-00-01" id="14"/>
 始まる はじまる 始まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -67,7 +67,7 @@ EOS
 EOS
 # S-ID:wiki00121837-00-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/04/15 MEMO:
 * -1D
-+ -1D <rel type="=" target="ロシア" sid="wiki00121837-00-02" id="0"/><rel type="=≒" mode="AND" target="ヨーロッパ" sid="wiki00121837-00-01" id="8"/><NE:LOCATION:ロシア>
++ -1D <rel type="=" target="ロシア" sid="wiki00121837-00-02" id="0"/><rel type="=≒" mode="AND" target="ヨーロッパ" sid="wiki00121837-00-01" id="7"/><NE:LOCATION:ロシア>
 ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
 # S-ID:wiki00121837-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:60.00000 MOD:2022/05/27 MEMO:
@@ -76,7 +76,7 @@ EOS
 東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 2D
 スラブ すらぶ スラブ 名詞 6 固有名詞 3 * 0 * 0 NIL
-+ 10D <rel type="=" target="人" sid="wiki00121837-00-01" id="13"/><rel type="ノ？" target="スラブ" sid="wiki00121837-01" id="1"/>
++ 10D <rel type="=" target="人" sid="wiki00121837-00-01" id="12"/><rel type="ノ？" target="スラブ" sid="wiki00121837-01" id="1"/>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
@@ -244,7 +244,7 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="帝国" sid="wiki00121837-02-01" id="15"/><rel type="カラ" target="1721年" sid="wiki00121837-02-07" id="0"/><rel type="マデ" target="1917年" sid="wiki00121837-02-07" id="2"/><NE:DATE:1917年>
++ -1D <rel type="ガ" target="帝国" sid="wiki00121837-02-01" id="15"/><rel type="カラ" target="1721年" sid="wiki00121837-02-07" id="0"/><rel type="マデ" target="1917年" sid="wiki00121837-02-07" id="1"/><NE:DATE:1917年>
 1917 せんきゅうひゃくじゅうなな 1917 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -255,7 +255,7 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ソ連" sid="wiki00121837-02-01" id="16"/><rel type="カラ" target="1917年" sid="wiki00121837-02-08" id="0"/><rel type="マデ" target="1991年" sid="wiki00121837-02-08" id="2"/><NE:DATE:1991年>
++ -1D <rel type="ガ" target="ソ連" sid="wiki00121837-02-01" id="16"/><rel type="カラ" target="1917年" sid="wiki00121837-02-08" id="0"/><rel type="マデ" target="1991年" sid="wiki00121837-02-08" id="1"/><NE:DATE:1991年>
 1991 せんきゅうひゃくきゅうじゅういち 1991 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

@@ -12,7 +12,7 @@ Store Store Store 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 Apple Apple Apple 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 17D <rel type="ガ" target="Apple" sid="wiki00125660-00-01" id="1"/><rel type="ヲ" target="サービス" sid="wiki00125660-00-01" id="16"/>
++ 17D <rel type="ガ" target="Apple" sid="wiki00125660-00-01" id="1"/><rel type="ヲ" target="サービス" sid="wiki00125660-00-01" id="17"/>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -48,12 +48,12 @@ Apple Apple Apple 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 17D <rel type="ガ" target="サービス" sid="wiki00125660-00-01" id="16"/><rel type="ヲ" target="配信" sid="wiki00125660-00-01" id="5"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00125660-00-01" id="7"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00125660-00-01" id="9"/><rel type="ヲ" mode="AND" target="レンタル" sid="wiki00125660-00-01" id="11"/><rel type="ヲ" mode="AND" target="提供など" sid="wiki00125660-00-01" id="13"/>
++ 17D <rel type="ガ" target="サービス" sid="wiki00125660-00-01" id="17"/><rel type="ヲ" target="配信" sid="wiki00125660-00-01" id="5"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00125660-00-01" id="7"/><rel type="ヲ" mode="AND" target="配信" sid="wiki00125660-00-01" id="9"/><rel type="ヲ" mode="AND" target="レンタル" sid="wiki00125660-00-01" id="11"/><rel type="ヲ" mode="AND" target="提供など" sid="wiki00125660-00-01" id="13"/>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * -1D
 + 16D <rel type="=≒" target="音楽" sid="wiki00125660-00-01" id="4"/><rel type="=≒" mode="AND" target="動画" sid="wiki00125660-00-01" id="6"/><rel type="=≒" mode="AND" target="映画" sid="wiki00125660-00-01" id="8"/><rel type="=≒" mode="AND" target="アプリケーション" sid="wiki00125660-00-01" id="12"/>
 コンテンツ こんてんつ コンテンツ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ヲ" target="コンテンツ" sid="wiki00125660-00-01" id="14"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="Apple" sid="wiki00125660-00-01" id="2"/><rel type="外の関係" target="サービス" sid="wiki00125660-00-01" id="17"/><rel type="=≒" target="配信" sid="wiki00125660-00-01" id="5"/>
++ 17D <rel type="ヲ" target="コンテンツ" sid="wiki00125660-00-01" id="15"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="Apple" sid="wiki00125660-00-01" id="2"/><rel type="外の関係" target="サービス" sid="wiki00125660-00-01" id="17"/><rel type="=≒" target="配信" sid="wiki00125660-00-01" id="5"/>
 配信 はいしん 配信 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + -1D <rel type="ガ" target="Store" sid="wiki00125660-00-01" id="1"/><rel type="=構" target="Store" sid="wiki00125660-00-01" id="1"/><rel type="ノ" target="配信" sid="wiki00125660-00-01" id="16"/>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL

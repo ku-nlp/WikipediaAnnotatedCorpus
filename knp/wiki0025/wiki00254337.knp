@@ -1,4 +1,4 @@
-# S-ID:wiki00254337-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/12/13 MEMO:
+# S-ID:wiki00254337-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/11/30 MEMO:
 * 2D
 + 2D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -15,18 +15,18 @@
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 8D <体言><NE:LOCATION:日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 7D <rel type="=" target="生命" sid="wiki00254337-00-01" id="1"/><体言>
 生命 せいめい 生命 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="=" target="保険" sid="wiki00254337-00-01" id="2"/><rel type="修飾" target="生命" sid="wiki00254337-00-01" id="6"/><体言>
 保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00254337-00-01" id="5"/><rel type="修飾" target="保険" sid="wiki00254337-00-01" id="7"/><rel type="=構" target="会社" sid="wiki00254337-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="=構" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00254337-00-01" id="5"/><rel type="ノ？" mode="AND" target="保険" sid="wiki00254337-00-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00254337-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
+# S-ID:wiki00254337-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/30 MEMO:
 * 1P
 + 2D <rel type="=" target="第一" sid="wiki00254337-00-01" id="0"/><体言>
 だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
@@ -38,7 +38,7 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 9D <rel type="ノ" target="会社" sid="wiki00254337-00-01" id="4"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英称 英称 英称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+英称 えいしょう 英称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 8D <体言>
 The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
@@ -61,7 +61,7 @@ Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><N
 + -1D <rel type="ガ" target="英称" sid="wiki00254337-00-02" id="3"/><rel type="=" target="会社" sid="wiki00254337-00-01" id="4"/><rel type="=構" mode="AND" target="英称" sid="wiki00254337-00-02" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:The　Dai-ichi　Life　Insurance　Company,　Limited>
 Limited Limited Limited 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00254337-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/13 MEMO:
+# S-ID:wiki00254337-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/30 MEMO:
 * 1D
 + 1D <体言>
 持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>

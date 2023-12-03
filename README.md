@@ -20,10 +20,10 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 |       | # of documents | # of sentences | # of morphemes | # of named entities | # of predicates | # of coreferring mentions |
 |-------|---------------:|---------------:|---------------:|--------------------:|----------------:|--------------------------:|
-| train |          1,517 |          5,950 |         86,214 |               5,681 |          23,203 |                    19,329 |
-| dev   |            100 |            443 |          6,353 |                 423 |           1,701 |                     1,437 |
-| test  |            200 |            775 |         11,123 |                 800 |           2,872 |                     2,534 |
-| total |          1,817 |          7,168 |        103,690 |               6,904 |          27,776 |                    23,300 |
+| train |          1,517 |          3,514 |         86,215 |               5,681 |          23,208 |                    19,341 |
+| dev   |            100 |            248 |          6,353 |                 423 |           1,702 |                     1,437 |
+| test  |            200 |            455 |         11,123 |                 800 |           2,875 |                     2,533 |
+| total |          1,817 |          4,217 |        103,691 |               6,904 |          27,785 |                    23,311 |
 
 ## Format of the annotation
 
@@ -68,6 +68,7 @@ for morpheme in document.morphemes:
 ## Author
 
 京都大学 言語メディア研究室 (contact **at** nlp.ist.i.kyoto-u.ac.jp)
+
 - Nobuhiro Ueda <ueda **at** nlp.ist.i.kyoto-u.ac.jp>
 
 ## Contact

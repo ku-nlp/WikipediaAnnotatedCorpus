@@ -21,7 +21,7 @@ def calc_stats(documents: list[Document]) -> dict[str, int]:
     stats: dict[str, int] = defaultdict(int)
     for document in documents:
         stats["documents"] += 1
-        stats["sentences"] += len(document.sentences)
+        stats["sentences"] += len([s for s in document.sentences if "括弧始" not in s.misc_comment])
         stats["named_entities"] += sum(len(sentence.named_entities) for sentence in document.sentences)
         for base_phrase in document.base_phrases:
             if any(len(arguments) > 0 for arguments in base_phrase.pas.get_all_arguments().values()):

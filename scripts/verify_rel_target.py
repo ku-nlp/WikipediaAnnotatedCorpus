@@ -5,7 +5,7 @@ from collections.abc import Iterator
 from enum import Enum
 from pathlib import Path
 
-from rhoknp import BasePhrase, Document
+from rhoknp import BasePhrase, Document, Morpheme
 from rhoknp.cohesion import RelTag
 
 
@@ -77,7 +77,7 @@ def search_target_base_phrase(base_phrase: BasePhrase, rel_tag: RelTag, do_modif
                 return dataclasses.replace(rel_tag, base_phrase_index=matched_base_phrases[0].index)
         return ErrorType.INDEX_OUT_OF_RANGE
     target_base_phrase = sentence.base_phrases[rel_tag.base_phrase_index]
-    if not (set(rel_tag.target) & set(target_base_phrase.text)):
+    if rel_tag.target not in target_base_phrase.text:
         if do_modify:
             matched_base_phrases = [bp for bp in sentence.base_phrases if rel_tag.target == get_core_text(bp)]
             if len(matched_base_phrases) == 1:
@@ -91,13 +91,13 @@ def get_core_text(base_phrase: BasePhrase) -> str:
     morphemes = base_phrase.morphemes
     start_index = 0
     for morpheme in morphemes:
-        if morpheme.pos in ("助詞", "特殊", "判定詞"):
+        if morpheme.pos == "特殊" and (morpheme.subpos != "記号" or morpheme.text == "・"):
             start_index += 1
         else:
             break
     end_index = len(morphemes)
     for morpheme in reversed(morphemes):
-        if morpheme.pos in ("助詞", "特殊", "判定詞"):
+        if to_rstrip(morpheme) is True:
             end_index -= 1
         else:
             break
@@ -106,6 +106,27 @@ def get_core_text(base_phrase: BasePhrase) -> str:
         start_index = 0
         end_index = len(morphemes)
     return "".join(m.text for m in morphemes[start_index:end_index])
+
+
+def to_rstrip(morpheme: Morpheme) -> bool:
+    return (morpheme.pos in ("特殊", "助詞", "助動詞", "判定詞") or is_weak_suffix(morpheme)) and (
+        morpheme.pos == "特殊" and morpheme.subpos == "記号" and morpheme.text != "・"
+    ) is False
+
+
+def is_weak_suffix(morpheme: Morpheme) -> bool:
+    # https://github.com/ku-nlp/KyotoCorpusAnnotationTool/blob/main/js/setting.js
+    strong_suffixes: set[str] = set(
+        "率|通り|どおり|方|がた|かた|型|形|用|製|家|者|数|費|入り|いり|あけ|上|じょう|作り|づくり|ずみ|無し|なし|増|減|的だ|化|さ|都|道|府|県|郡|市|村|町|区|州".split("|")
+    )
+    if morpheme.pos != "接尾辞":
+        return False
+    return (
+        morpheme.text not in strong_suffixes
+        and morpheme.subpos != "名詞性名詞助数辞"
+        and morpheme.subpos != "形容詞性述語接尾辞"
+        and morpheme.subpos != "動詞性接尾辞"
+    )
 
 
 if __name__ == "__main__":

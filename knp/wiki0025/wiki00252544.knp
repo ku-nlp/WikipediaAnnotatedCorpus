@@ -40,7 +40,7 @@ EOS
 ち ち ち 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00252544-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:82.00000 MOD:2022/12/12 MEMO:
+# S-ID:wiki00252544-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:82.00000 MOD:2023/12/06 MEMO:
 * 2P
 + 1D <rel type="ノ" target="地" sid="wiki00252544-00-01" id="3"/><体言>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -71,7 +71,7 @@ km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 *
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="修飾" target="大" sid="wiki00252544-01" id="6"/><体言>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="都市" sid="wiki00252544-01" id="9"/><rel type="修飾" target="北部" sid="wiki00252544-01" id="5"/><体言>
++ 9D <rel type="修飾" target="北部" sid="wiki00252544-01" id="5"/><rel type="ノ" target="都市" sid="wiki00252544-01" id="7"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
@@ -112,7 +112,7 @@ km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 *
 アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 22D <rel type="ガ" target="都市" sid="wiki00252544-01" id="24"/><rel type="ヲ" target="アジア" sid="wiki00252544-01" id="19"/><用言:動><時制:非過去><節-主辞>
++ 22D <rel type="ヲ" target="アジア" sid="wiki00252544-01" id="19"/><rel type="ガ" target="都市" sid="wiki00252544-01" id="22"/><用言:動><時制:非過去><節-主辞>
 代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13D
@@ -122,7 +122,7 @@ km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 *
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="地" sid="wiki00252544-00-01" id="3"/><rel type="ノ" target="都市" sid="wiki00252544-01" id="24"/><rel type="ニシテ" target="地" sid="wiki00252544-01" id="16"/><rel type="=構" target="地" sid="wiki00252544-01" id="16"/><rel type="=構" mode="AND" target="都市" sid="wiki00252544-01" id="22"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="地" sid="wiki00252544-00-01" id="3"/><rel type="ニシテ" target="地" sid="wiki00252544-01" id="16"/><rel type="=構" target="地" sid="wiki00252544-01" id="16"/><rel type="=構" mode="AND" target="都市" sid="wiki00252544-01" id="22"/><rel type="ノ" target="都市" sid="wiki00252544-01" id="22"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

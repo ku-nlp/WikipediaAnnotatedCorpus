@@ -8,6 +8,7 @@ from utils import list_files
 HIRAGANA = r"\u3041-\u3096"
 HIRAGANA_PTN = re.compile(rf"[ー{HIRAGANA}]+")
 MULTIPLE_READING_PTN = re.compile(r"^[^/\s]+(/[^/\s]+)+$")
+ACRONYM_PTN = re.compile(r"^[A-ZＡ-Ｚ]+$")
 LATIN_1_SUPPLEMENT = r"\u0080-\u00FF"
 LATIN_EXTENDED_A = r"\u0100-\u017F"
 LATIN_EXTENDED_B = r"\u0180-\u024F"
@@ -37,6 +38,11 @@ def verify_morpheme_reading(morpheme: Morpheme, reading: str) -> None:
             assert HIRAGANA_PTN.fullmatch(reading) is not None, f"{reading} ({morpheme.sentence.sid})"
             return
         return
+
+    # 「NHK」などは読みを機械的に推定できるため表層表記がそのままアノテーションされている
+    if ACRONYM_PTN.fullmatch(morpheme.text) is not None and morpheme.text == reading:
+        return
+
     if (
         LATIN_PTN.fullmatch(morpheme.text) is not None
         or CYRILLIC_PTN.fullmatch(morpheme.text) is not None

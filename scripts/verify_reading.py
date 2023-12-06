@@ -7,9 +7,18 @@ KNP_DIR = Path("knp")
 HIRAGANA = r"\u3041-\u3096"
 HIRAGANA_PTN = re.compile(rf"[ー{HIRAGANA}]+")
 MULTIPLE_READING_PTN = re.compile(r"^[^/\s]+(/[^/\s]+)+$")
-LATIN_PTN = re.compile(r"[-0-9a-zA-Z'ʏ\u0080-\u00FF\u0100-\u024F]+")
+LATIN_1_SUPPLEMENT = r"\u0080-\u00FF"
+LATIN_EXTENDED_A = r"\u0100-\u017F"
+LATIN_EXTENDED_B = r"\u0180-\u024F"
+LATIN_EXTENDED_ADDITIONAL = r"\u1E00-\u1EFF"
+IPA_EXTENSIONS = r"\u0250-\u02AF"
+LATIN_PTN = re.compile(
+    rf"[-0-9a-zA-Z'{LATIN_1_SUPPLEMENT}{LATIN_EXTENDED_A}{LATIN_EXTENDED_B}{LATIN_EXTENDED_ADDITIONAL}{IPA_EXTENSIONS}]+"
+)
+CYRILLIC_PTN = re.compile(r"[\u0400-\u04FF]+")
 HANGEUL_PTN = re.compile(r"[\uAC00-\uD7AF]+")
 ARABIC_PTN = re.compile(r"[\u0600-\u06FF]+")
+SYRIAC_PTN = re.compile(r"[\u0700-\u074F]+")
 
 
 def verify_morpheme_reading(morpheme: Morpheme, reading: str) -> None:
@@ -29,8 +38,10 @@ def verify_morpheme_reading(morpheme: Morpheme, reading: str) -> None:
         return
     if (
         LATIN_PTN.fullmatch(morpheme.text) is not None
+        or CYRILLIC_PTN.fullmatch(morpheme.text) is not None
         or HANGEUL_PTN.fullmatch(morpheme.text) is not None
         or ARABIC_PTN.fullmatch(morpheme.text) is not None
+        or SYRIAC_PTN.fullmatch(morpheme.text) is not None
     ):
         if morpheme.text == reading:
             return

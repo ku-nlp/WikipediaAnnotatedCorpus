@@ -1,8 +1,9 @@
 import sys
 import textwrap
-from pathlib import Path
 
 from rhoknp import Document
+
+from utils import list_files
 
 
 def filter_tags(document: Document) -> Document:
@@ -26,23 +27,18 @@ def filter_tags(document: Document) -> Document:
     return document
 
 
-def main():
-    for path_str in sys.argv[1:]:
-        path = Path(path_str)
-        if path.exists() is False:
-            print(f"{path} not found and skipped", file=sys.stderr)
-            continue
-        for doc_path in path.glob("**/*.knp") if path.is_dir() else [path]:
-            print(f"filtering {doc_path}", file=sys.stderr)
-            filtered_document = filter_tags(Document.from_knp(doc_path.read_text()))
-            doc_path.write_text(filtered_document.to_knp())
+def main() -> None:
+    for path in sorted(list_files(sys.argv[1:])):
+        print(f"filtering {path}", file=sys.stderr)
+        filtered_document = filter_tags(Document.from_knp(path.read_text()))
+        path.write_text(filtered_document.to_knp())
 
 
 if __name__ == "__main__":
     main()
 
 
-def test_filter():
+def test_filter() -> None:
     knp_text = textwrap.dedent(
         """\
         # S-ID:wiki00100134-00 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000

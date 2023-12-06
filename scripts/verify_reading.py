@@ -1,9 +1,10 @@
 import re
-from pathlib import Path
+import sys
 
 from rhoknp import Document, Morpheme
 
-KNP_DIR = Path("knp")
+from utils import list_files
+
 HIRAGANA = r"\u3041-\u3096"
 HIRAGANA_PTN = re.compile(rf"[ー{HIRAGANA}]+")
 MULTIPLE_READING_PTN = re.compile(r"^[^/\s]+(/[^/\s]+)+$")
@@ -59,7 +60,7 @@ def verify_morpheme_reading(morpheme: Morpheme, reading: str) -> None:
 
 
 def main():
-    for path in KNP_DIR.glob("**/*.knp"):
+    for path in sorted(list_files(sys.argv[1:])):
         document = Document.from_knp(path.read_text())
         for morpheme in document.morphemes:
             if MULTIPLE_READING_PTN.fullmatch(morpheme.reading) is not None:

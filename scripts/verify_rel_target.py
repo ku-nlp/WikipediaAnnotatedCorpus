@@ -1,12 +1,11 @@
 import argparse
 import dataclasses
-import sys
-from collections.abc import Iterator
 from enum import Enum
-from pathlib import Path
 
 from rhoknp import BasePhrase, Document, Morpheme
 from rhoknp.cohesion import RelTag
+
+from utils import list_files
 
 
 class ErrorType(Enum):
@@ -22,7 +21,7 @@ def main():
     args = parser.parse_args()
 
     error_type_to_data: dict[ErrorType, list] = {error_type: [] for error_type in ErrorType}
-    for path in sorted(list_paths(args.paths)):
+    for path in sorted(list_files(args.paths)):
         document = Document.from_knp(path.read_text())
         doc_id = document.doc_id
         for base_phrase in document.base_phrases:
@@ -49,18 +48,6 @@ def main():
             f.write("文書ID,文ID,基本句,格,ターゲット\n")
             for row in data:
                 f.write(",".join(str(item) for item in row) + "\n")
-
-
-def list_paths(paths: list[str]) -> Iterator[Path]:
-    for path_str in paths:
-        path = Path(path_str)
-        if path.exists() is False:
-            print(f"{path} not found and skipped", file=sys.stderr)
-            continue
-        if path.is_dir():
-            yield from path.glob("**/*.knp")
-        else:
-            yield path
 
 
 def search_target_base_phrase(base_phrase: BasePhrase, rel_tag: RelTag, do_modify: bool = False) -> ErrorType | RelTag:

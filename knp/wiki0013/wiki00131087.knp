@@ -1,4 +1,4 @@
-# S-ID:wiki00131087-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2022/07/06 MEMO:
+# S-ID:wiki00131087-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/11/30 MEMO:
 * 5D
 + 1D
 伊藤忠 いとうちゅう 伊藤忠 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -26,7 +26,8 @@
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
 + 10D <rel type="ノ？" target="大阪市" sid="wiki00131087-00-01" id="7"/><NE:LOCATION:大阪府大阪市北区>
-北区 北区 北区 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+北 きた 北 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 10D <rel type="ノ" target="商社" sid="wiki00131087-00-01" id="13"/>
@@ -51,7 +52,7 @@ EOS
 + -1D <rel type="=" target="商事" sid="wiki00131087-00-01" id="1"/><NE:ORGANIZATION:いとうちゅうしょうじ>
 しょうじ しょうじ しょうじ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00131087-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/07/06 MEMO:
+# S-ID:wiki00131087-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/30 MEMO:
 * 1P
 + 2D <NE:ORGANIZATION:日経>
 日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>

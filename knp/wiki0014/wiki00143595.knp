@@ -70,7 +70,7 @@ EOS
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00143595-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2022/08/05 MEMO:
+# S-ID:wiki00143595-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D
 秦 しん 秦 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
@@ -86,7 +86,7 @@ EOS
 郡守 ぐんしゅ 郡守 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="郡守" sid="wiki00143595-02" id="3"/><rel type="ニ" target="太守" sid="wiki00143595-00-01" id="0"/><rel type="外の関係" target="改称した" sid="wiki00143595-02" id="4"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="郡守" sid="wiki00143595-02" id="3"/><rel type="ニ" target="太守" sid="wiki00143595-00-01" id="0"/><rel type="外の関係" target="もの" sid="wiki00143595-02" id="5"/>
 改称 かいしょう 改称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 8D
@@ -120,7 +120,7 @@ EOS
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00143595-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2022/08/05 MEMO:
+# S-ID:wiki00143595-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D
 唐 とう 唐 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
@@ -165,23 +165,23 @@ EOS
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12P
-+ 16P <rel type="ノ" target="朝" sid="wiki00143595-03" id="11"/>
++ 16P <rel type="ノ？" target="朝" sid="wiki00143595-03" id="10"/>
 知府事 ちふじ 知府事 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11P
 + 13D <NE:LOCATION:明>
 明 みん 明 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 15P <rel type="=≒" target="朝" sid="wiki00143595-03" id="11"/>
++ 15P <rel type="=≒" target="朝" sid="wiki00143595-03" id="10"/>
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
 + 15D <NE:LOCATION:清>
 清 しん 清 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 16D <rel type="=≒" target="朝" sid="wiki00143595-03" id="14"/>
++ 16D <rel type="=≒" target="朝" sid="wiki00143595-03" id="13"/>
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 17D <rel type="ノ" target="朝" sid="wiki00143595-03" id="14"/><rel type="ノ" mode="AND" target="朝" sid="wiki00143595-03" id="16"/>
++ 17D <rel type="ノ？" target="朝" sid="wiki00143595-03" id="13"/><rel type="ノ？" mode="AND" target="朝" sid="wiki00143595-03" id="15"/>
 知府 ちふ 知府 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D

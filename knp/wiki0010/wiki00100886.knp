@@ -191,7 +191,7 @@ EOS
 上杉 うえすぎ 上杉 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
 氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00100886-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:108.00000 MOD:2022/06/06 MEMO:
+# S-ID:wiki00100886-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:108.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D <rel type="=" target="北条" sid="wiki00100886-01-01" id="24"/><memo text="NE"/><NE:OPTIONAL:北条>
 北条 ほうじょう 北条 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
@@ -246,9 +246,9 @@ EOS
 小田原 おだわら 小田原 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 + 16D <rel type="=" target="城" sid="wiki00100886-02" id="3"/><NE:LOCATION:小田原城>
 城 じょう 城 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 17D <rel type="ヲ" target="城" sid="wiki00100886-02" id="14"/><rel type="ガ" target="豊臣" sid="wiki00100886-01-01" id="25"/><rel type="デ" target="戦" sid="wiki00100886-02" id="17"/>
++ 17D <rel type="ガ" target="豊臣" sid="wiki00100886-01-01" id="25"/><rel type="デ" target="戦" sid="wiki00100886-02" id="17"/><rel type="ヲ" target="城" sid="wiki00100886-02" id="15"/>
 攻略 こうりゃく 攻略 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 31D <rel type="ノ？" target="攻略" sid="wiki00100886-02" id="15"/><rel type="=" target="戦" sid="wiki00100886-02" id="5"/><rel type="ガ" target="戦役" sid="wiki00100886-02" id="27"/>
++ 31D <rel type="=" target="戦" sid="wiki00100886-02" id="5"/><rel type="ガ" target="戦役" sid="wiki00100886-02" id="27"/><rel type="ノ？" target="攻略" sid="wiki00100886-02" id="16"/>
 戦 せん 戦 名詞 6 普通名詞 1 * 0 * 0 NIL
 だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -256,11 +256,11 @@ EOS
 なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 19D <rel type="ガ" target="戦" sid="wiki00100886-02" id="24"/><rel type="ニ" target="戦" sid="wiki00100886-02" id="16"/>
++ 19D <rel type="ガ" target="戦" sid="wiki00100886-02" id="25"/><rel type="ニ" target="戦" sid="wiki00100886-02" id="17"/>
 並行 へいこう 並行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 13D
-+ 25D <rel type="ガ" target="戦" sid="wiki00100886-02" id="24"/><rel type="ニ" target="豊臣" sid="wiki00100886-01-01" id="25"/>
++ 25D <rel type="ニ" target="豊臣" sid="wiki00100886-01-01" id="25"/><rel type="ガ" target="戦" sid="wiki00100886-02" id="25"/>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 13D
@@ -277,7 +277,7 @@ EOS
 掃討 そうとう 掃討 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 25D <rel type="ヲ" target="領土" sid="wiki00100886-02" id="22"/><rel type="ガ" target="豊臣" sid="wiki00100886-01-01" id="25"/><rel type="デ" target="戦" sid="wiki00100886-02" id="25"/>
 攻略 こうりゃく 攻略 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 28D <rel type="ノ？" target="攻略" sid="wiki00100886-02" id="23"/>
++ 28D <rel type="ノ？" target="攻略" sid="wiki00100886-02" id="24"/>
 戦 せん 戦 名詞 6 普通名詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 15D
@@ -287,7 +287,7 @@ EOS
 戦役 せんえき 戦役 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 29D <rel type="ヲ" target="戦" sid="wiki00100886-02" id="24"/><rel type="ニ" target="戦役" sid="wiki00100886-02" id="27"/><rel type="外の関係" target="もの" sid="wiki00100886-02" id="29"/>
++ 29D <rel type="ニ" target="戦役" sid="wiki00100886-02" id="27"/><rel type="外の関係" target="もの" sid="wiki00100886-02" id="29"/><rel type="ヲ" target="戦" sid="wiki00100886-02" id="25"/>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 17D
 + 30D <rel type="トイウ" target="含む" sid="wiki00100886-02" id="28"/>

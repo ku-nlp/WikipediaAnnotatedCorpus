@@ -36,7 +36,7 @@ Records Records Records 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:mid
 + -1D <rel type="=" target="ジャパン" sid="wiki00127781-00-01" id="2"/><NE:ORGANIZATION:EpicRecordsJapan>
 Japan Japan Japan 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00127781-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2022/06/08 MEMO:
+# S-ID:wiki00127781-01 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2023/11/30 MEMO:
 * 5D
 + 8D <rel type="ノ" target="ジャパン" sid="wiki00127781-00-01" id="2"/>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -65,7 +65,7 @@ EOS
 + 7D <rel type="ノ" target="レコード" sid="wiki00127781-00-01" id="7"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 8D <rel type="ノ" target="規格" sid="wiki00127781-01" id="6"/>
-品番 品番 品番 名詞 6 普通名詞 1 * 0 * 0 NIL
+品番 ひんばん 品番 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + -1D <rel type="ガ" target="通称" sid="wiki00127781-01" id="0"/><rel type="修飾" target="品番" sid="wiki00127781-01" id="7"/><rel type="=構" target="品番" sid="wiki00127781-01" id="7"/><rel type="=構" mode="AND" target="通称" sid="wiki00127781-01" id="0"/><rel type="=≒" mode="AND" target="ソニー" sid="wiki00127781-01" id="5"/><memo text="CO"/><NE:OPTIONAL:ES>

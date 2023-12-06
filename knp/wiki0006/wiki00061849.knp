@@ -1,4 +1,4 @@
-# S-ID:wiki00061849-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:143.00000 MOD:2023/10/10 MEMO:
+# S-ID:wiki00061849-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:143.00000 MOD:2023/12/04 MEMO:
 * 24D
 + 35D <NE:OPTIONAL:タタール><NE-OPTIONAL:LOCATION,NONE:0>
 タタール たたーる タタール 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
@@ -57,7 +57,7 @@
 * 17P
 + 17D <NE:LOCATION:モンゴル>
 モンゴル もんごる モンゴル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 27P <rel type="ノ" target="モンゴル" sid="wiki00061849-00-01" id="15"/>
++ 27P <rel type="ノ" target="モンゴル" sid="wiki00061849-00-01" id="16"/>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 17P
@@ -88,18 +88,18 @@
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 19D
-+ 29D <rel type="ノ" target="系" sid="wiki00061849-00-01" id="20"/>
++ 29D <rel type="ノ" target="系" sid="wiki00061849-00-01" id="26"/>
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 19D
-+ 29D <rel type="ガ" target="民族" sid="wiki00061849-00-01" id="28"/>
++ 29D <rel type="ガ" target="民族" sid="wiki00061849-00-01" id="29"/>
 様々な さまざまな 様々だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
 * 20D
 + 30D <rel type="=≒" target="系" sid="wiki00061849-00-01" id="23"/><rel type="=≒" mode="AND" target="系" sid="wiki00061849-00-01" id="21"/><rel type="=≒" mode="AND" target="系" sid="wiki00061849-00-01" id="19"/><rel type="=≒" mode="AND" target="系" sid="wiki00061849-00-01" id="17"/><rel type="=≒" mode="AND" target="一部" sid="wiki00061849-00-01" id="27"/>
 民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 31D <rel type="ガ" target="語" sid="wiki00061849-00-01" id="31"/><rel type="ヲ" target="民族" sid="wiki00061849-00-01" id="28"/>
++ 31D <rel type="ガ" target="語" sid="wiki00061849-00-01" id="31"/><rel type="ヲ" target="民族" sid="wiki00061849-00-01" id="29"/>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 22D
 + 32D <rel type="=構" target="タタール" sid="wiki00061849-00-01" id="0"/>
@@ -116,7 +116,7 @@
 * -1D
 + 35D <rel type="=" target="民族" sid="wiki00061849-00-01" id="29"/>
 民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="タタール" sid="wiki00061849-00-01" id="0"/><rel type="ノ" target="民族" sid="wiki00061849-00-01" id="33"/><rel type="=構" target="タタール" sid="wiki00061849-00-01" id="0"/>
++ -1D <rel type="ガ" target="タタール" sid="wiki00061849-00-01" id="0"/><rel type="=構" target="タタール" sid="wiki00061849-00-01" id="0"/><rel type="ノ" target="民族" sid="wiki00061849-00-01" id="34"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

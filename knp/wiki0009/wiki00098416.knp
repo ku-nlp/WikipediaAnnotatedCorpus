@@ -96,7 +96,7 @@ EOS
 大幸 だいこう 大幸 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00098416-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:187.00000 MOD:2023/06/13 MEMO:
+# S-ID:wiki00098416-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:187.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D <rel type="=" target="ビーイング" sid="wiki00098416-00" id="2"/>
 ビーイング びーいんぐ ビーイング 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -150,12 +150,12 @@ ARTISTS ARTISTS ARTISTS 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tai
 ビープラネッツ びーぷらねっつ ビープラネッツ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 16D <rel type="ガ" target="企業" sid="wiki00098416-02" id="13"/><rel type="ト" target="ビーイング" sid="wiki00098416-00" id="2"/>
++ 16D <rel type="ト" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ガ" target="企業" sid="wiki00098416-02" id="16"/>
 関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 17D
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 * 12D
-+ 19D <rel type="ノ" target="企業" sid="wiki00098416-02" id="13"/><rel type="=構" target="企業" sid="wiki00098416-02" id="16"/><rel type="=≒" mode="AND" target="studio" sid="wiki00098416-02" id="4"/><rel type="=≒" mode="AND" target="RECORDS" sid="wiki00098416-02" id="6"/><rel type="=≒" mode="AND" target="ビー企画室" sid="wiki00098416-02" id="7"/><rel type="=≒" mode="AND" target="MRM" sid="wiki00098416-02" id="8"/><rel type="=≒" mode="AND" target="ARTISTS" sid="wiki00098416-02" id="10"/><rel type="=≒" mode="AND" target="フォーラム" sid="wiki00098416-02" id="13"/><rel type="=≒" mode="AND" target="ビープラネッツ" sid="wiki00098416-02" id="14"/>
++ 19D <rel type="=構" target="企業" sid="wiki00098416-02" id="16"/><rel type="=≒" mode="AND" target="studio" sid="wiki00098416-02" id="4"/><rel type="=≒" mode="AND" target="RECORDS" sid="wiki00098416-02" id="6"/><rel type="=≒" mode="AND" target="ビー企画室" sid="wiki00098416-02" id="7"/><rel type="=≒" mode="AND" target="MRM" sid="wiki00098416-02" id="8"/><rel type="=≒" mode="AND" target="ARTISTS" sid="wiki00098416-02" id="10"/><rel type="=≒" mode="AND" target="フォーラム" sid="wiki00098416-02" id="13"/><rel type="=≒" mode="AND" target="ビープラネッツ" sid="wiki00098416-02" id="14"/><rel type="ノ" target="企業" sid="wiki00098416-02" id="16"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 60 ろくじゅっ 60 名詞 6 数詞 7 * 0 * 0 NIL
 社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
@@ -171,7 +171,7 @@ ARTISTS ARTISTS ARTISTS 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tai
 * 22P
 + 21D
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 32P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ノ？" target="企業" sid="wiki00098416-02" id="17"/>
++ 32P <rel type="ガ" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="=構" target="ビーイング" sid="wiki00098416-00" id="2"/><rel type="ノ？" target="企業" sid="wiki00098416-02" id="20"/>
 集団 しゅうだん 集団 名詞 6 普通名詞 1 * 0 * 0 NIL
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL

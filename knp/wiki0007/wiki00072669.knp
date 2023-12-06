@@ -1,4 +1,4 @@
-# S-ID:wiki00072669-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/06/20 MEMO:
+# S-ID:wiki00072669-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/12/05 MEMO:
 * 4D
 + 12D
 クモ くも クモ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -25,14 +25,14 @@
 目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 11D <rel type="ガ" target="動物" sid="wiki00072669-00-01" id="10"/><rel type="ニ" target="目" sid="wiki00072669-00-01" id="9"/>
++ 11D <rel type="ニ" target="目" sid="wiki00072669-00-01" id="9"/><rel type="ガ" target="動物" sid="wiki00072669-00-01" id="11"/>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
 + 12D <rel type="=≒" target="動物" sid="wiki00072669-00-01" id="2"/><rel type="=" mode="AND" target="クモ" sid="wiki00072669-00-01" id="0"/>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="クモ" sid="wiki00072669-00-01" id="0"/><rel type="ノ" target="動物" sid="wiki00072669-00-01" id="10"/><rel type="=構" target="クモ" sid="wiki00072669-00-01" id="0"/>
++ -1D <rel type="ガ" target="クモ" sid="wiki00072669-00-01" id="0"/><rel type="=構" target="クモ" sid="wiki00072669-00-01" id="0"/><rel type="ノ" target="動物" sid="wiki00072669-00-01" id="11"/>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -95,7 +95,7 @@ EOS
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072669-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/05/15 MEMO:
+# S-ID:wiki00072669-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D <rel type="=" target="クモ" sid="wiki00072669-00-01" id="8"/>
 クモ くも クモ 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -108,7 +108,7 @@ EOS
 * 3D
 + 4D <rel type="=" target="クモ" sid="wiki00072669-02" id="0"/>
 クモ くも クモ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="クモ" sid="wiki00072669-02" id="2"/><rel type="=構" target="目" sid="wiki00072669-02" id="1"/>
++ 5D <rel type="=構" target="目" sid="wiki00072669-02" id="1"/><rel type="ノ" target="クモ" sid="wiki00072669-02" id="3"/>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -143,7 +143,7 @@ EOS
 真正 しんせい 真正だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
 + 14D <rel type="修飾" target="真正" sid="wiki00072669-02" id="12"/><rel type="=" target="クモ" sid="wiki00072669-02" id="0"/>
 クモ くも クモ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ノ" target="クモ" sid="wiki00072669-02" id="12"/><rel type="=構" target="目" sid="wiki00072669-02" id="1"/>
++ 15D <rel type="=構" target="目" sid="wiki00072669-02" id="1"/><rel type="ノ" target="クモ" sid="wiki00072669-02" id="13"/>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -155,12 +155,12 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00072669-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:55.00000 MOD:2023/06/20 MEMO:
+# S-ID:wiki00072669-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:55.00000 MOD:2023/12/05 MEMO:
 * 1D
 + 1D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="類" sid="wiki00072669-02" id="13"/>
++ 2D <rel type="=" target="類" sid="wiki00072669-02" id="14"/>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D

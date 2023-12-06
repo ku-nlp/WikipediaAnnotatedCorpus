@@ -57,30 +57,30 @@ Gamble Gamble Gamble 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="ギャンブル" sid="wiki00124660-00-01" id="2"/><rel type="デ" target="英" sid="wiki00124660-00-02" id="0"/><NE:ORGANIZATION:TheProcter&GambleCompany>
 Company Company Company 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00124660-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2022/06/06 MEMO:
+# S-ID:wiki00124660-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:50.00000 MOD:2023/11/30 MEMO:
 * 1D
 + 3D <rel type="ノ" target="ギャンブル" sid="wiki00124660-00-01" id="2"/>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 * -1D
-+ 2D <rel type="=≒" target="プロクター" sid="wiki00124660-00-01" id="0"/><memo text="Pの品詞"/>
++ 2D <rel type="=≒" target="プロクター" sid="wiki00124660-00-01" id="0"/><rel type="=≒" mode="AND" target="Procter" sid="wiki00124660-00-02" id="2"/><memo text="Pの品詞"/>
 P P P 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="アンド" sid="wiki00124660-00-01" id="1"/>
++ 3D <rel type="=" target="アンド" sid="wiki00124660-00-01" id="1"/><rel type="=" mode="AND" target="&" sid="wiki00124660-00-02" id="3"/>
 & & & 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="略称" sid="wiki00124660-01-01" id="0"/><rel type="=≒" target="ギャンブル" sid="wiki00124660-00-01" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00124660-01-01" id="0"/><memo text="CO　Gの品詞"/><NE:ORGANIZATION:P＆G>
++ -1D <rel type="ガ" target="略称" sid="wiki00124660-01-01" id="0"/><rel type="=≒" target="ギャンブル" sid="wiki00124660-00-01" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00124660-01-01" id="0"/><rel type="=≒" mode="AND" target="Gamble" sid="wiki00124660-00-02" id="4"/><memo text="CO　Gの品詞"/><NE:ORGANIZATION:P＆G>
 G G G 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00124660-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2022/05/26 MEMO:
+# S-ID:wiki00124660-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:0.00000 MOD:2023/11/30 MEMO:
 * -1D
 + 1D <rel type="=" target="P" sid="wiki00124660-01-01" id="1"/><memo text="品詞？"/>
 ピー ピー ピー 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="&" sid="wiki00124660-01-01" id="2"/>
-アンド アンド アンド 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D <rel type="=" target="&" sid="wiki00124660-01-01" id="2"/><memo text="品詞？"/>
+アンド あんど アンド 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + -1D <rel type="=" target="G" sid="wiki00124660-01-01" id="3"/><memo text="品詞？"/><NE:ORGANIZATION:ピーアンドジー>
 ジー ジー ジー 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
-# S-ID:wiki00124660-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:20.00000 MOD:2022/06/06 MEMO:
+# S-ID:wiki00124660-02 KNP:5.0-6a1f607d DATE:2022/04/11 SCORE:20.00000 MOD:2023/11/30 MEMO:
 * 2D
 + 5D <NE:LOCATION:日本>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>

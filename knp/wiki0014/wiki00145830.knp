@@ -58,7 +58,7 @@ EOS
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00145830-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2022/08/10 MEMO:
+# S-ID:wiki00145830-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/12/05 MEMO:
 * 3D
 + 1D
 バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
@@ -74,7 +74,7 @@ EOS
 海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="首都" sid="wiki00145830-03" id="5"/><rel type="ニ" target="海" sid="wiki00145830-03" id="4"/><rel type="デ" target="三国" sid="wiki00145830-03" id="1"/><rel type="修飾" target="唯一" sid="wiki00145830-03" id="2"/>
++ 5D <rel type="ガ" target="首都" sid="wiki00145830-03" id="5"/><rel type="デ" target="三国" sid="wiki00145830-03" id="1"/><rel type="修飾" target="唯一" sid="wiki00145830-03" id="2"/><rel type="ニ" target="海" sid="wiki00145830-03" id="3"/>
 面して めんして 面する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
@@ -86,11 +86,11 @@ EOS
 * 6D
 + 7D
 バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 8D <rel type="=" target="海" sid="wiki00145830-03" id="4"/><NE:LOCATION:バルト海>
++ 8D <rel type="=≒" target="海" sid="wiki00145830-03" id="3"/><NE:LOCATION:バルト海>
 海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ニ" target="海" sid="wiki00145830-03" id="8"/><rel type="ガ" target="クライペダ" sid="wiki00145830-03" id="12"/><rel type="=≒" target="面していない" sid="wiki00145830-03" id="4"/>
++ 12D <rel type="ガ" target="クライペダ" sid="wiki00145830-03" id="12"/><rel type="=≒" target="面していない" sid="wiki00145830-03" id="4"/><rel type="ニ" target="海" sid="wiki00145830-03" id="7"/>
 面した めんした 面する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 8D
 + 11D <rel type="=" target="国" sid="wiki00145830-00" id="6"/><NE:LOCATION:リトアニア>

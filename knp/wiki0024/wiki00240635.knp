@@ -1,4 +1,4 @@
-# S-ID:wiki00240635-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/12/06 MEMO:
+# S-ID:wiki00240635-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/12/08 MEMO:
 * 6D
 + 1D
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -30,7 +30,7 @@
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ノ" target="ホールディングス" sid="wiki00240635-00" id="5"/>
++ 10D <rel type="ノ" target="ホールディングス" sid="wiki00240635-00" id="4"/>
 傘下 さんか 傘下 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -51,7 +51,7 @@
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00240635-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2022/12/08 MEMO:
+# S-ID:wiki00240635-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/12/08 MEMO:
 * 1P
 + 2D
 日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
@@ -86,7 +86,7 @@ JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
 銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="5"/><rel type="ノ" target="銘柄" sid="wiki00240635-01" id="11"/><rel type="=構" target="ホールディングス" sid="wiki00240635-00" id="7"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00240635-01" id="11"/><memo text="CO"/>
++ -1D <rel type="ノ" target="銘柄" sid="wiki00240635-01" id="11"/><rel type="ガ" target="ホールディングス" sid="wiki00240635-00" id="4"/><rel type="=構" target="銘柄" sid="wiki00240635-01" id="11"/><rel type="=構" mode="AND" target="ホールディングス" sid="wiki00240635-00" id="4"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

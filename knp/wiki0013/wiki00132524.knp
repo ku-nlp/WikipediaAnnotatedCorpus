@@ -1,4 +1,4 @@
-# S-ID:wiki00132524-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/07/08 MEMO:
+# S-ID:wiki00132524-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/12/07 MEMO:
 * 2D
 + 1D <memo text="品詞：固有名詞か組織名か"/>
 avex えいべっくす avex 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
@@ -15,10 +15,10 @@ trax とらっくす trax 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 エンタテインメント えんたていんめんと エンタテインメント 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ノ" target="エンタテインメント" sid="wiki00132524-00-01" id="2"/>
++ 5D <rel type="ノ" target="エンタテインメント" sid="wiki00132524-00-01" id="3"/>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ -1D <rel type="ノ？" target="エンタテインメント" sid="wiki00132524-00-01" id="2"/><rel type="ガ" target="trax" sid="wiki00132524-00-01" id="1"/><rel type="修飾" target="社内" sid="wiki00132524-00-01" id="4"/><rel type="=構" target="trax" sid="wiki00132524-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="trax" sid="wiki00132524-00-01" id="1"/><rel type="修飾" target="社内" sid="wiki00132524-00-01" id="4"/><rel type="=構" target="trax" sid="wiki00132524-00-01" id="1"/><rel type="ノ？" target="エンタテインメント" sid="wiki00132524-00-01" id="3"/><memo text="CO"/>
 レーベル れーべる レーベル 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

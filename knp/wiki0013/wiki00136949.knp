@@ -57,7 +57,7 @@ Qīngdǎo Qīngdǎo Qīngdǎo 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
 Shì Shì Shì 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
-# S-ID:wiki00136949-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/07/15 MEMO:
+# S-ID:wiki00136949-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/12/07 MEMO:
 * 1P
 + 1D
 副 ふく 副 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
@@ -71,7 +71,7 @@ EOS
 計画 けいかく 計画 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
 単列 たんれつ 単列 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9P <rel type="=構" target="青島市" sid="wiki00136949-00-01" id="0"/>
++ 9P <rel type="=構" target="青島市" sid="wiki00136949-00-01" id="0"/><rel type="修飾" target="単列" sid="wiki00136949-01" id="4"/>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -85,7 +85,7 @@ EOS
 名城 めいじょう 名城 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="青島市" sid="wiki00136949-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00136949-01" id="2"/><rel type="ニ" mode="AND" target="計画単列市" sid="wiki00136949-01" id="3"/><rel type="ニ" mode="AND" target="名城" sid="wiki00136949-01" id="9"/><rel type="ニヨッテ" target="中華人民共和国" sid="wiki00136949-00-01" id="1"/><rel type="ニヨッテ" mode="？" target="なし"/>
++ -1D <rel type="ガ" target="青島市" sid="wiki00136949-00-01" id="0"/><rel type="ニヨッテ" target="中華人民共和国" sid="wiki00136949-00-01" id="1"/><rel type="ニヨッテ" mode="？" target="なし"/><rel type="ニ" target="市" sid="wiki00136949-01" id="2"/><rel type="ニ" mode="AND" target="名城" sid="wiki00136949-01" id="9"/><rel type="ニ" mode="AND" target="市" sid="wiki00136949-01" id="5"/>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL

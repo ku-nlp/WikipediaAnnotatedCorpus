@@ -1,4 +1,4 @@
-# S-ID:wiki00142938-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2022/08/03 MEMO:
+# S-ID:wiki00142938-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/12/07 MEMO:
 * 2D
 + 1D
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -17,7 +17,7 @@
 総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 6D <rel type="ガ" target="社" sid="wiki00142938-00-01" id="6"/><rel type="ヲ" target="不特定:物"/>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="修飾" target="総合" sid="wiki00142938-00-01" id="4"/><rel type="=構" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ノ？" target="出版" sid="wiki00142938-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00142938-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="修飾" target="総合" sid="wiki00142938-00-01" id="4"/><rel type="ノ？" target="出版" sid="wiki00142938-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00142938-00-01" id="3"/><rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="2"/><rel type="=構" target="祥伝社" sid="wiki00142938-00-01" id="2"/><memo text="CO"/>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -26,7 +26,7 @@ EOS
 + -1D <rel type="=" target="祥伝社" sid="wiki00142938-00-01" id="2"/>
 しょうでんしゃ しょうでんしゃ しょうでんしゃ 名詞 6 組織名 6 * 0 * 0 NIL
 EOS
-# S-ID:wiki00142938-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2022/08/03 MEMO:
+# S-ID:wiki00142938-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/12/07 MEMO:
 * 1D
 + 1D
 一ツ橋 ひとつばし 一ツ橋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -34,7 +34,7 @@ EOS
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="1"/><rel type="ニ" target="グループ" sid="wiki00142938-01" id="1"/>
++ -1D <rel type="ニ" target="グループ" sid="wiki00142938-01" id="1"/><rel type="ガ" target="祥伝社" sid="wiki00142938-00-01" id="2"/>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -52,7 +52,7 @@ EOS
 + -1D <rel type="=" target="学校" sid="wiki00060069-00-01" id="2"/>
 がっこう がっこう がっこう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00060069-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/12/04 MEMO:
+# S-ID:wiki00060069-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/12/07 MEMO:
 * 1D
 + 1D <rel type="ガ" target="学校" sid="wiki00060069-00-01" id="2"/><rel type="外の関係" target="時期" sid="wiki00060069-01-01" id="1"/><rel type="=" target="存在した" sid="wiki00060069-00-01" id="10"/>
 存続 そんぞく 存続 名詞 6 サ変名詞 2 * 0 * 0 NIL
@@ -83,12 +83,12 @@ EOS
 旧制 きゅうせい 旧制 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 9D <rel type="=≒" target="大学" sid="wiki00060069-01-01" id="5"/><rel type="修飾" target="旧制" sid="wiki00060069-01-01" id="7"/><rel type="修飾" mode="AND" target="官公立" sid="wiki00060069-01-01" id="6"/>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="大学" sid="wiki00060069-01-01" id="9"/>
++ 10D <rel type="ノ" target="大学" sid="wiki00060069-01-01" id="8"/>
 学部 がくぶ 学部 名詞 6 普通名詞 1 * 0 * 0 NIL
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ヘ" target="学部" sid="wiki00060069-01-01" id="10"/>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヘ" target="学部" sid="wiki00060069-01-01" id="9"/>
 進学 しんがく 進学 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -131,12 +131,12 @@ EOS
 + -1D <rel type="ニ" target="課程" sid="wiki00060069-01-02" id="3"/><rel type="ガ" target="教育" sid="wiki00060069-01-01" id="13"/><memo text="PO:する"/>
 相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
-# S-ID:wiki00060069-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/09/29 MEMO:
+# S-ID:wiki00060069-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/12/07 MEMO:
 * 1D
 + 1D
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
 私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="私立" sid="wiki00060069-02" id="0"/><rel type="=≒" target="大学" sid="wiki00060069-01-01" id="9"/>
++ 2D <rel type="修飾" target="私立" sid="wiki00060069-02" id="0"/><rel type="=≒" target="大学" sid="wiki00060069-01-01" id="8"/>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D

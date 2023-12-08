@@ -148,7 +148,7 @@ EOS
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00147907-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2022/08/23 MEMO:
+# S-ID:wiki00147907-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2023/12/07 MEMO:
 * 1D
 + 1D <NE:OPTIONAL:英>
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
@@ -191,7 +191,7 @@ EOS
 + 11P <rel type="ガ" target="概念" sid="wiki00147907-02" id="12"/><rel type="デ" target="語彙" sid="wiki00147907-02" id="9"/>
 共有 きょうゆう 共有 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="概念" sid="wiki00147907-02" id="12"/><rel type="デ" target="語彙" sid="wiki00147907-02" id="9"/>
++ 12D <rel type="ガ" target="概念" sid="wiki00147907-02" id="12"/><rel type="デ" target="語彙" sid="wiki00147907-02" id="9"/><rel type="ニ" target="不特定:人"/>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -218,7 +218,7 @@ EOS
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 19D <rel type="ガ" target="者" sid="wiki00147907-00-01" id="2"/><rel type="デ" target="意味" sid="wiki00147907-02" id="17"/><rel type="外の関係" target="場合" sid="wiki00147907-02" id="19"/>
++ 19D <rel type="ガ" target="者" sid="wiki00147907-00-01" id="2"/><rel type="デ" target="意味" sid="wiki00147907-02" id="17"/><rel type="外の関係" target="場合" sid="wiki00147907-02" id="19"/><rel type="ニ" target="不特定:人"/>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 12D
@@ -239,13 +239,13 @@ EOS
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ルネサンス るねさんす ルネサンス 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 24D <rel type="=構" target="者" sid="wiki00147907-00-01" id="2"/>
++ 24D <rel type="=構" target="者" sid="wiki00147907-00-01" id="2"/><rel type="修飾" target="ルネサンス" sid="wiki00147907-02" id="22"/>
 ヒューマニスト ひゅーまにすと ヒューマニスト 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="者" sid="wiki00147907-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ヒューマニストなど" sid="wiki00147907-02" id="23"/>
++ -1D <rel type="ガ" target="者" sid="wiki00147907-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ヒューマニスト」など" sid="wiki00147907-02" id="23"/>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れたり れたり れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用タリ形 15 NIL

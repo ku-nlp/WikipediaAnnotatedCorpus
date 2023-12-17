@@ -54,7 +54,14 @@ def search_target_base_phrase(base_phrase: BasePhrase, rel_tag: RelTag, do_modif
     sentences = base_phrase.document.sentences
     sentences = [sent for sent in sentences if sent.sid == rel_tag.sid]
     if not sentences:
-        return ErrorType.REL_WITH_UNKNOWN_SID
+        if do_modify:
+            rel_tag = dataclasses.replace(rel_tag, sid=base_phrase.sentence.sid)
+            ret = search_target_base_phrase(base_phrase, rel_tag, do_modify=False)
+            if isinstance(ret, ErrorType):
+                return ErrorType.REL_WITH_UNKNOWN_SID
+            sentences = [base_phrase.sentence]
+        else:
+            return ErrorType.REL_WITH_UNKNOWN_SID
     sentence = sentences[0]
     assert rel_tag.base_phrase_index is not None
     if rel_tag.base_phrase_index >= len(sentence.base_phrases):

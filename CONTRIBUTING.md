@@ -29,7 +29,7 @@ p scripts/filter.py knp
 cat id/inappropriate.id | sort | uniq > tmp
 mv tmp id/inappropriate.id
 g add id/inappropriate.id
-g commit id/inappropriate.id
+g commit -m "update id/inappropriate.id"
 ```
 
 - Commit annotated files
@@ -47,7 +47,12 @@ g commit ...
 fd . -t f knp | cut -d'/' -f3 | cut -d'.' -f1 | sort > id/all.id
 # or
 ls knp/wiki0020 | cut -d'.' -f1 >> id/all.id
+ls knp/wiki0021 | cut -d'.' -f1 >> id/all.id
 ...
 difference <(cat id/all.id | sort | uniq) <(cat id/inappropriate.id | sort | uniq) > tmp
 mv tmp id/all.id
 ```
+
+- Update `train.id`
+
+...

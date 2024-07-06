@@ -1,0 +1,106 @@
+# S-ID:wiki00049913-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2024/04/18 MEMO:
+* 6D
++ 1D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D
+広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D
+ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 19D <NE:ORGANIZATION:株式会社広島ホームテレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 9D <rel type="=" target="広島" sid="wiki00049913-00-01" id="2"/><NE:LOCATION:広島県>
+広島 ひろしま 広島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 7D <rel type="ガ" target="不特定:人"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="放送" sid="wiki00049913-00-01" id="6"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=構" target="広島県" sid="wiki00049913-00-01" id="5"/><rel type="ノ？" target="対象" sid="wiki00049913-00-01" id="7"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 13P <rel type="ガ" target="者" sid="wiki00049913-00-01" id="19"/><rel type="ヲ" target="広島県" sid="wiki00049913-00-01" id="5"/><rel type="ト" target="地域" sid="wiki00049913-00-01" id="8"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 11D <rel type="=≒" target="テレビ" sid="wiki00049913-00-01" id="4"/>
+テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="不特定:人"/><rel type="=≒" target="放送" sid="wiki00049913-00-01" id="6"/><rel type="修飾" target="テレビジョン" sid="wiki00049913-00-01" id="10"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ノ？" target="放送" sid="wiki00049913-00-01" id="11"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 19D <rel type="ガ" target="者" sid="wiki00049913-00-01" id="19"/><rel type="ヲ" target="事業" sid="wiki00049913-00-01" id="12"/>
+行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ 19D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17D
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="修飾" target="地上" sid="wiki00049913-00-01" id="15"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00049913-00-01" id="16"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="放送" sid="wiki00049913-00-01" id="11"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 19D <rel type="ノ？" target="放送" sid="wiki00049913-00-01" id="17"/><rel type="=≒" target="事業" sid="wiki00049913-00-01" id="12"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="テレビ" sid="wiki00049913-00-01" id="4"/><rel type="=構" target="テレビ" sid="wiki00049913-00-01" id="4"/><rel type="ノ？" target="事業" sid="wiki00049913-00-01" id="18"/><rel type="修飾" target="特定" sid="wiki00049913-00-01" id="14"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00049913-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/18 MEMO:
+* 1P
++ 2D <rel type="=" target="広島" sid="wiki00049913-00-01" id="2"/>
+ひろしま ひろしま ひろしま 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="ホーム" sid="wiki00049913-00-01" id="3"/>
+ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7P <rel type="=" target="テレビ" sid="wiki00049913-00-01" id="4"/><NE:ORGANIZATION:ひろしまホームテレビ>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 5D <rel type="=" target="広島" sid="wiki00049913-00-01" id="2"/>
+Hiroshima Hiroshima Hiroshima 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="ホーム" sid="wiki00049913-00-01" id="3"/>
+Home Home Home 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <rel type="=" target="テレビ" sid="wiki00049913-00-01" id="4"/>
+Television Television Television 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7D
+Co Co Co 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+, , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 10P <rel type="=" target="テレビ" sid="wiki00049913-00-01" id="4"/><NE:ORGANIZATION:Hiroshima　Home　Television　Co.,Ltd.>
+Ltd Ltd Ltd 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="テレビ" sid="wiki00049913-00-01" id="4"/><rel type="ト" target="HOME" sid="wiki00049913-00-02" id="9"/><rel type="ノ" target="テレビ" sid="wiki00049913-00-01" id="4"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 10D <rel type="=構" target="略称" sid="wiki00049913-00-02" id="8"/><rel type="=" mode="AND" target="テレビ" sid="wiki00049913-00-01" id="4"/><NE:ORGANIZATION:HOME>
+HOME ほーむ HOME 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+* 5P
++ 12P <rel type="=" target="HOME" sid="wiki00049913-00-02" id="9"/><rel type="=" mode="AND" target="テレビ" sid="wiki00049913-00-01" id="4"/><NE:ORGANIZATION:ホーム>
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
+ホーム ほーむ ホーム 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 12D
+旧 きゅう 旧 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
+* -1D
++ -1D <rel type="修飾" target="旧" sid="wiki00049913-00-02" id="11"/><rel type="=" target="テレビ" sid="wiki00049913-00-01" id="4"/><NE:ORGANIZATION:UHT>
+UHT UHT UHT 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS

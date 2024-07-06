@@ -1,0 +1,42 @@
+# S-ID:wiki00049657-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2024/04/17 MEMO:
+* 5D
++ 1D
+フジテレビ ふじてれび フジテレビ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 9D <rel type="ノ" target="フジテレビ" sid="wiki00049657-00-01" id="0"/><NE:OPTIONAL:フジテレビ系列><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+系列 けいれつ 系列 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 5D <rel type="=" target="フジテレビ" sid="wiki00049657-00-01" id="0"/><NE:ORGANIZATION:フジテレビジョン>
+フジテレビジョン ふじてれびじょん フジテレビジョン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="キー" sid="wiki00049657-00-01" id="3"/><rel type="=構" target="フジテレビジョン" sid="wiki00049657-00-01" id="2"/>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <rel type="ヲ" target="フジテレビジョン" sid="wiki00049657-00-01" id="2"/><rel type="ト" target="局" sid="wiki00049657-00-01" id="4"/><rel type="ガ" target="ネットワーク" sid="wiki00049657-00-01" id="9"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 7D <rel type="ガ" target="不特定:人"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="放送" sid="wiki00049657-00-01" id="6"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ？" target="事業" sid="wiki00049657-00-01" id="7"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="系列" sid="wiki00049657-00-01" id="1"/><rel type="ノ？" target="者" sid="wiki00049657-00-01" id="8"/><rel type="=構" target="系列" sid="wiki00049657-00-01" id="1"/>
+ネットワーク ねっとわーく ネットワーク 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00049657-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/17 MEMO:
+* -1D
++ 1D <rel type="=" target="フジテレビ" sid="wiki00049657-00-01" id="0"/>
+フジテレビ ふじてれび フジテレビ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="系列" sid="wiki00049657-00-01" id="1"/><NE:OPTIONAL:フジテレビけいれつ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+けいれつ けいれつ けいれつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+EOS

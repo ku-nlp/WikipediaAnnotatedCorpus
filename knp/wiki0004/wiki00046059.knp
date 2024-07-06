@@ -1,0 +1,82 @@
+# S-ID:wiki00046059-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/25 MEMO:
+* 3D
++ 1D
+ジョージ じょーじ ジョージ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <NE:PERSON:ジョージ・ワシントン>
+ワシントン わしんとん ワシントン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 5D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3P
++ 5P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00046059-00-01" id="2"/><rel type="=構" target="ワシントン" sid="wiki00046059-00-01" id="1"/><rel type="ガ" target="ワシントン" sid="wiki00046059-00-01" id="1"/>
+軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 5D
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ワシントン" sid="wiki00046059-00-01" id="1"/><rel type="=構" target="ワシントン" sid="wiki00046059-00-01" id="1"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00046059-00-01" id="2"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00046059-00-01" id="4"/><memo text="CO"/>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046059-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
+* 1P
++ 1D <NE:OPTIONAL:グレゴリオ><NE-OPTIONAL:PERSON,ARTIFACT:0>
+グレゴリオ ぐれごりお グレゴリオ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <rel type="ノ？" target="グレゴリオ" sid="wiki00046059-00-02" id="0"/>
+暦 れき 暦 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 3D
+1732 せんななひゃくさんじゅうに 1732 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 4D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7P <NE:DATE:1732年2月22日>
+22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 6D
+1799 せんななひゃくきゅうじゅうきゅう/せんななひゃくきゅうじゅうく 1799 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7D
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13P <rel type="デ" target="暦" sid="wiki00046059-00-02" id="1"/><rel type="カラ" target="22日" sid="wiki00046059-00-02" id="4"/><NE:DATE:1799年12月14日>
+14 じゅうよん/じゅうよっ 14 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち/か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+* -1D
++ 9D <NE:OPTIONAL:ユリウス><NE-OPTIONAL:PERSON,ARTIFACT:0>
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
+ユリウス ゆりうす ユリウス 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 12D <rel type="ノ？" target="ユリウス" sid="wiki00046059-00-02" id="8"/>
+暦 れき 暦 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 11D
+1731 せんななひゃくさんじゅういち 1731 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 12D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <rel type="デ" target="暦" sid="wiki00046059-00-02" id="9"/><NE:DATE:1731年2月11日>
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ -1D <rel type="ガ" target="ワシントン" sid="wiki00046059-00-01" id="1"/><rel type="時間" target="11日" sid="wiki00046059-00-02" id="12"/>
+生まれ うまれ 生まれ 名詞 6 普通名詞 1 * 0 * 0 NIL
+） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046059-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
+* -1D
++ 2D
+初代 しょだい 初代 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="アメリカ合衆国" sid="wiki00046059-00-01" id="2"/><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="ワシントン" sid="wiki00046059-00-01" id="1"/><rel type="ノ" target="アメリカ" sid="wiki00046059-01" id="1"/><rel type="修飾" target="初代" sid="wiki00046059-01" id="0"/><rel type="=構" target="ワシントン" sid="wiki00046059-00-01" id="1"/><memo text="CO"/>
+大統領 だいとうりょう 大統領 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

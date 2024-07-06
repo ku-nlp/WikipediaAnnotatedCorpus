@@ -1,0 +1,301 @@
+# S-ID:wiki00044762-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:129.00000 MOD:2024/04/22 MEMO:
+* 15D
++ 1D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 42D <NE:ORGANIZATION:株式会社FM802>
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+802 はちまるに 802 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 7D <NE:LOCATION:大阪府>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="4"/><rel type="ノ" target="FM802" sid="wiki00044762-00-01" id="15"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=構" target="大阪府" sid="wiki00044762-00-01" id="3"/><rel type="修飾" target="対象" sid="wiki00044762-00-01" id="5"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 15D <rel type="ガ" target="FM802" sid="wiki00044762-00-01" id="15"/><rel type="ヲ" target="大阪府" sid="wiki00044762-00-01" id="3"/><rel type="ト" target="地域" sid="wiki00044762-00-01" id="6"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 6D
++ 9D <rel type="ガ" target="名" sid="wiki00044762-00-01" id="9"/>
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="同" sid="wiki00044762-00-01" id="8"/><rel type="ト" target="FM802" sid="wiki00044762-00-01" id="2"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 14D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="修飾" target="基幹" sid="wiki00044762-00-01" id="12"/><rel type="修飾" mode="AND" target="地上" sid="wiki00044762-00-01" id="11"/><rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00044762-00-01" id="4"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="修飾" target="特定" sid="wiki00044762-00-01" id="10"/><rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="13"/>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 11P
++ 30P <rel type="=構" target="局" sid="wiki00044762-00-01" id="14"/><rel type="修飾" target="局" sid="wiki00044762-00-01" id="14"/><rel type="修飾" mode="AND" target="名" sid="wiki00044762-00-01" id="9"/><NE:OPTIONAL:FM802><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+802 はちまるに 802 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 17D
+外国 がいこく 外国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ノ？" target="外国" sid="wiki00044762-00-01" id="16"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ガ" target="不特定:人"/><rel type="デ" target="語" sid="wiki00044762-00-01" id="17"/><rel type="=≒" target="放送" sid="wiki00044762-00-01" id="4"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 20D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="放送" sid="wiki00044762-00-01" id="18"/><rel type="デ" target="地域" sid="wiki00044762-00-01" id="20"/>
+実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 24D <rel type="ノ？" target="実施" sid="wiki00044762-00-01" id="19"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 22D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00044762-00-01" id="4"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 23D <rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="21"/><rel type="ノ" target="FM　COCOLO" sid="wiki00044762-00-01" id="30"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24D <rel type="=構" target="地域" sid="wiki00044762-00-01" id="20"/><rel type="修飾" target="対象" sid="wiki00044762-00-01" id="22"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 30D <rel type="ガ" target="FM　COCOLO" sid="wiki00044762-00-01" id="30"/><rel type="ヲ" target="地域" sid="wiki00044762-00-01" id="20"/><rel type="ト" target="地域" sid="wiki00044762-00-01" id="23"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 11D
++ 29D <rel type="=" target="特定" sid="wiki00044762-00-01" id="10"/>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 28D <rel type="=" target="地上" sid="wiki00044762-00-01" id="11"/>
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 28D <rel type="=" target="基幹" sid="wiki00044762-00-01" id="12"/>
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 29D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="基幹" sid="wiki00044762-00-01" id="27"/><rel type="修飾" mode="AND" target="地上" sid="wiki00044762-00-01" id="26"/><rel type="=" target="放送" sid="wiki00044762-00-01" id="13"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 30D <rel type="修飾" target="特定" sid="wiki00044762-00-01" id="25"/><rel type="=" target="局" sid="wiki00044762-00-01" id="14"/><rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="28"/>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 12D
++ 31D <rel type="=構" target="局" sid="wiki00044762-00-01" id="29"/><rel type="修飾" target="局" sid="wiki00044762-00-01" id="29"/><NE:OPTIONAL:FM　COCOLO><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
+COCOLO こころ COCOLO 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13D
++ 35D <rel type="=≒" target="FM　COCOLO" sid="wiki00044762-00-01" id="30"/><rel type="=≒" mode="AND" target="FM802" sid="wiki00044762-00-01" id="15"/><rel type="ノ" target="事業" sid="wiki00044762-00-01" id="35"/><memo text="SE"/>
+2 ふた 2 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 14D
++ 33D
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 34D <rel type="修飾" target="FM" sid="wiki00044762-00-01" id="32"/>
+ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 35D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="ラジオ" sid="wiki00044762-00-01" id="33"/><rel type="=≒" target="放送" sid="wiki00044762-00-01" id="28"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 36D <rel type="修飾" target="2つ" sid="wiki00044762-00-01" id="31"/><rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="34"/><rel type="=構" target="2つ" sid="wiki00044762-00-01" id="31"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
++ 42D <rel type="ガ" target="者" sid="wiki00044762-00-01" id="42"/><rel type="ヲ" target="事業" sid="wiki00044762-00-01" id="35"/>
+行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ 42D <rel type="=" target="特定" sid="wiki00044762-00-01" id="25"/>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 40D <rel type="=" target="地上" sid="wiki00044762-00-01" id="26"/>
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 40D <rel type="=" target="基幹" sid="wiki00044762-00-01" id="27"/>
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 41D <rel type="修飾" target="基幹" sid="wiki00044762-00-01" id="39"/><rel type="修飾" mode="AND" target="地上" sid="wiki00044762-00-01" id="38"/><rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00044762-00-01" id="28"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 42D <rel type="=≒" target="事業" sid="wiki00044762-00-01" id="35"/><rel type="ノ？" target="放送" sid="wiki00044762-00-01" id="40"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ？" target="事業" sid="wiki00044762-00-01" id="41"/><rel type="ガ" target="FM802" sid="wiki00044762-00-01" id="2"/><rel type="=構" target="FM802" sid="wiki00044762-00-01" id="2"/><rel type="修飾" target="特定" sid="wiki00044762-00-01" id="37"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044762-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/22 MEMO:
+* -1D
++ -1D <rel type="=" target="FM802" sid="wiki00044762-00-01" id="2"/><NE:ORGANIZATION:エフエムはちまるに>
+エフエム えふえむ エフエム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+はちまるに はちまるに はちまるに 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS
+# S-ID:wiki00044762-00-03 括弧始:（ 括弧終:） 括弧位置:54 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/22 MEMO:
+* 2P
++ 1D <rel type="ガ" target="不特定:人"/>
+コール こーる コール 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ノ" target="FM802" sid="wiki00044762-00-01" id="15"/><rel type="ノ？" target="コール" sid="wiki00044762-00-03" id="0"/>
+サイン さいん サイン 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 5P <rel type="=構" target="サイン" sid="wiki00044762-00-03" id="1"/><NE:OPTIONAL:JOFV-FM><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+JOFV JOFV JOFV 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+FM FM FM 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* 2D
++ 4D <rel type="=" target="大阪府" sid="wiki00044762-00-01" id="3"/><NE:LOCATION:大阪>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1P
++ 5D
+80.2 はちじゅってんに 80.2 名詞 6 数詞 7 * 0 * 0 NIL
+MHz めがへるつ MHz 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+/ / / 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D
+10 じゅっ 10 名詞 6 数詞 7 * 0 * 0 NIL
+kW きろわっと kW 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044762-00-04 括弧始:（ 括弧終:） 括弧位置:99 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/22 MEMO:
+* 1P
++ 1P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><rel type="ノ？" target="大阪府" sid="wiki00044762-00-01" id="3"/><NE:LOCATION:大阪市>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><rel type="ノ？" target="大阪府" sid="wiki00044762-00-01" id="3"/><NE:LOCATION:堺市>
+堺 さかい 堺 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 3P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><NE:LOCATION:京都市>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 4P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><NE:LOCATION:神戸市>
+神戸 こうべ 神戸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 5P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><NE:LOCATION:尼崎市>
+尼崎 あまがさき 尼崎 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 8P <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><NE:LOCATION:奈良市>
+奈良 なら 奈良 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 8D
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=≒" target="地域" sid="wiki00044762-00-01" id="20"/><rel type="ノ？" target="大阪府" sid="wiki00044762-00-01" id="3"/><NE:LOCATION:関西国際空港>
+空港 くうこう 空港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00044762-00-05 括弧始:（ 括弧終:） 括弧位置:160 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/22 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/>
+コール こーる コール 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ノ" target="FM　COCOLO" sid="wiki00044762-00-01" id="30"/><rel type="ノ？" target="コール" sid="wiki00044762-00-05" id="0"/>
+サイン さいん サイン 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 5P <rel type="=構" target="サイン" sid="wiki00044762-00-05" id="1"/><NE:OPTIONAL:JOAW-FM><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+JOAW JOAW JOAW 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
+FM FM FM 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 4D <rel type="=" target="大阪" sid="wiki00044762-00-03" id="3"/><NE:LOCATION:大阪>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1P
++ 5D
+76.5 ななじゅうろくてんご/ななじゅうろくてんごー 76.5 名詞 6 数詞 7 * 0 * 0 NIL
+MHz めがへるつ MHz 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+/ / / 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D
+10 じゅっ 10 名詞 6 数詞 7 * 0 * 0 NIL
+kW きろわっと kW 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044762-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/04/22 MEMO:
+* 1D
++ 1D <rel type="=" target="FM802" sid="wiki00044762-00-01" id="15"/><NE:OPTIONAL:FM802><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+802 はちまるに 802 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2I
++ 4I
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5P
++ 4D
+JAPAN JAPAN JAPAN 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7P <rel type="ガ" target="FM802" sid="wiki00044762-00-01" id="2"/><rel type="ニ" target="LEAGUE" sid="wiki00044762-01-01" id="4"/><rel type="トシテ" target="FM802" sid="wiki00044762-01-01" id="0"/><NE:ORGANIZATION:JAPAN　FM　LEAGUE>
+LEAGUE LEAGUE LEAGUE 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D <rel type="=" target="FM　COCOLO" sid="wiki00044762-00-01" id="30"/><NE:OPTIONAL:FM　COCOLO><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+FM FM FM 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
+COCOLO こころ COCOLO 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5I
++ 7I
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 9D <NE:ORGANIZATION:MegaNet>
+MegaNet めがねっと MegaNet 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 9D
+それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="FM802" sid="wiki00044762-00-01" id="2"/><rel type="ニ" target="MegaNet" sid="wiki00044762-01-01" id="7"/><rel type="トシテ" target="FM　COCOLO" sid="wiki00044762-01-01" id="5"/>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044762-01-02 括弧始:（ 括弧終:） 括弧位置:26 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
+* -1D
++ -1D <rel type="=" target="LEAGUE" sid="wiki00044762-01-01" id="4"/><NE:ORGANIZATION:JFL>
+JFL JFL JFL 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS
+# S-ID:wiki00044762-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2024/03/19 MEMO:
+* 2D
++ 4D <rel type="ノ" target="FM802" sid="wiki00044762-00-01" id="2"/>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ？" target="大阪府" sid="wiki00044762-00-01" id="3"/><rel type="=" target="大阪市" sid="wiki00044762-00-04" id="0"/>
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <rel type="ノ？" target="大阪市" sid="wiki00044762-02" id="1"/>
+北区 きたく 北区 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="ノ？" target="北区" sid="wiki00044762-02" id="2"/><NE:LOCATION:大阪市北区天神橋>
+天神橋 てんじんばし 天神橋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="FM802" sid="wiki00044762-00-01" id="2"/><rel type="ヲ" target="本社" sid="wiki00044762-02" id="0"/><rel type="ニ" target="天神橋" sid="wiki00044762-02" id="3"/>
+置いて おいて 置く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

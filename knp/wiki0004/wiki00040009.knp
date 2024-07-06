@@ -1,0 +1,56 @@
+# S-ID:wiki00040009-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2023/09/21 MEMO:
+* 5D
++ 7D
+心臓 しんぞう 心臓 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+血液 けつえき 血液 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="血液" sid="wiki00040009-00-01" id="1"/>
+循環 じゅんかん 循環 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ノ" target="循環" sid="wiki00040009-00-01" id="2"/>
+原動 げんどう 原動 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="原動" sid="wiki00040009-00-01" id="3"/><rel type="ノ" target="循環" sid="wiki00040009-00-01" id="2"/>
+力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ガ" target="器官" sid="wiki00040009-00-01" id="6"/><rel type="ト" target="力" sid="wiki00040009-00-01" id="4"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 5D
++ 7D <rel type="=構" target="心臓" sid="wiki00040009-00-01" id="0"/>
+器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="心臓" sid="wiki00040009-00-01" id="0"/><rel type="ノ" target="器官" sid="wiki00040009-00-01" id="6"/><rel type="=構" target="心臓" sid="wiki00040009-00-01" id="0"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040009-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/21 MEMO:
+* -1D
++ -1D <rel type="=" target="心臓" sid="wiki00040009-00-01" id="0"/>
+しんぞう しんぞう しんぞう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040009-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
+* 1D
++ 1D <rel type="=" target="血液" sid="wiki00040009-00-01" id="1"/>
+血液 けつえき 血液 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="循環" sid="wiki00040009-00-01" id="2"/>
+循環 じゅんかん 循環 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ノ" target="循環" sid="wiki00040009-01" id="1"/>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 4D <rel type="ノ" target="系" sid="wiki00040009-01" id="2"/>
+中枢 ちゅうすう 中枢 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="系" sid="wiki00040009-01" id="2"/><rel type="修飾" target="中枢" sid="wiki00040009-01" id="3"/><rel type="=構" target="心臓" sid="wiki00040009-00-01" id="0"/>
+器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="心臓" sid="wiki00040009-00-01" id="0"/><rel type="ノ" target="器官" sid="wiki00040009-01" id="4"/><rel type="=構" target="心臓" sid="wiki00040009-00-01" id="0"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

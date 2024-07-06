@@ -1,0 +1,243 @@
+# S-ID:wiki00045953-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2023/11/10 MEMO:
+* 7D
++ 10D
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+マイコバクテリウム まいこばくてりうむ マイコバクテリウム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D
+属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4P
++ 6P <rel type="修飾" target="属" sid="wiki00045953-00-01" id="2"/>
+細菌 さいきん 細菌 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 5D
++ 6D
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=≒" target="細菌" sid="wiki00045953-00-01" id="3"/><rel type="修飾" target="結核" sid="wiki00045953-00-01" id="5"/>
+菌 きん 菌 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* 7D
++ 10D <rel type="ガ" target="症" sid="wiki00045953-00-01" id="10"/><rel type="ニヨッテ" target="細菌" sid="wiki00045953-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="菌" sid="wiki00045953-00-01" id="6"/>
+引き起こさ ひきおこさ 引き起こす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:物"/>
+感染 かんせん 感染 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ノ？" target="感染" sid="wiki00045953-00-01" id="9"/><rel type="ガ" target="結核" sid="wiki00045953-00-01" id="0"/><rel type="=構" target="結核" sid="wiki00045953-00-01" id="0"/><memo text="CO"/>
+症 しょう 症 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/10 MEMO:
+* -1D
++ -1D <rel type="=" target="結核" sid="wiki00045953-00-01" id="0"/>
+けっかく けっかく けっかく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
+* -1D
++ 1D <rel type="=" target="マイコバクテリウム" sid="wiki00045953-00-01" id="1"/>
+Mycobacterium Mycobacterium Mycobacterium 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="=" target="菌" sid="wiki00045953-00-01" id="6"/>
+tuberculosis tuberculosis tuberculosis 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2023/11/10 MEMO:
+* 4D
++ 1D <rel type="=" target="結核" sid="wiki00045953-00-01" id="5"/>
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="菌" sid="wiki00045953-00-01" id="6"/>
+菌 きん 菌 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 6D <NE:DATE:1882年>
+1882 せんはっぴゃくはちじゅうに 1882 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+ロベルト ろべると ロベルト 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <NE:PERSON:ロベルト・コッホ>
+コッホ こっほ コッホ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* -1D
++ -1D <rel type="ガ" target="菌" sid="wiki00045953-01" id="1"/><rel type="ニヨッテ" target="コッホ" sid="wiki00045953-01" id="4"/><rel type="時間" target="1882年" sid="wiki00045953-01" id="2"/>
+発見 はっけん 発見 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2024/03/25 MEMO:
+* 4D
++ 6D <NE:LOCATION:日本>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 2D
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 6D <NE:DATE:明治初期>
+初期 しょき 初期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D
+肺 はい 肺 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="肺" sid="wiki00045953-02-01" id="3"/><rel type="=≒" target="結核" sid="wiki00045953-00-01" id="0"/>
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 6D <rel type="=構" target="結核" sid="wiki00045953-02-01" id="4"/>
+労咳 ろうがい 労咳 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="マデ" target="初期" sid="wiki00045953-02-01" id="2"/><rel type="デ" target="日本" sid="wiki00045953-02-01" id="0"/><rel type="ガ" target="結核" sid="wiki00045953-02-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="労咳" sid="wiki00045953-02-01" id="5"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-02-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
+* 1P
++ 1P <rel type="=" target="労咳" sid="wiki00045953-02-01" id="5"/>
+癆痎 ろうがい 癆痎 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="労咳" sid="wiki00045953-02-01" id="5"/>
+ろうがい ろうがい ろうがい 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:178.00000 MOD:2024/03/25 MEMO:
+* 3D
++ 3D
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D
+多く おおく 多く 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="修飾" target="多く" sid="wiki00045953-03-01" id="1"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ガ" target="人" sid="wiki00045953-03-01" id="2"/><rel type="ニ" target="病気" sid="wiki00045953-03-01" id="4"/><rel type="時間" target="現在" sid="wiki00045953-03-01" id="0"/>
+罹患 りかん 罹患 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 6P
++ 7P <rel type="ガ" target="結核" sid="wiki00045953-00-01" id="0"/><rel type="=構" target="結核" sid="wiki00045953-00-01" id="0"/>
+病気 びょうき 病気 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* 6D
++ 6D <rel type="ガ" target="結核" sid="wiki00045953-00-01" id="0"/><rel type="ニ" target="部位" sid="wiki00045953-03-01" id="6"/>
+好発 こうはつ 好発 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="修飾" target="好発" sid="wiki00045953-03-01" id="5"/>
+部位 ぶい 部位 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9P
++ 11P <rel type="ガ" target="部位" sid="wiki00045953-03-01" id="6"/><rel type="=構" target="部位" sid="wiki00045953-03-01" id="6"/>
+肺 はい 肺 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 10D
+全身 ぜんしん 全身 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 10P <rel type="修飾" target="全身" sid="wiki00045953-03-01" id="8"/>
+臓器 ぞうき 臓器 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 11D <rel type="修飾" target="全身" sid="wiki00045953-03-01" id="8"/>
+器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 19P
++ 23P <rel type="ガ" target="結核" sid="wiki00045953-00-01" id="0"/><rel type="ニ" target="臓器" sid="wiki00045953-03-01" id="9"/><rel type="ニ" mode="AND" target="器官" sid="wiki00045953-03-01" id="10"/>
+感染 かんせん 感染 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 11D
++ 13D <rel type="ガ" target="症状" sid="wiki00045953-03-01" id="13"/>
+顕著な けんちょな 顕著だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 12D
++ 14D <rel type="ノ？" target="結核" sid="wiki00045953-00-01" id="0"/>
+症状 しょうじょう 症状 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 15D <rel type="ガ" target="部位" sid="wiki00045953-03-01" id="15"/><rel type="ヲ" target="症状" sid="wiki00045953-03-01" id="13"/>
+呈して ていして 呈す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 14D
++ 16D <rel type="=≒" target="部位" sid="wiki00045953-03-01" id="6"/>
+部位 ぶい 部位 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ノ" target="部位" sid="wiki00045953-03-01" id="15"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 16D
++ 19D <rel type="ノ" target="名" sid="wiki00045953-03-01" id="16"/>
+前後 ぜんご 前後 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 19D <rel type="=" target="結核" sid="wiki00045953-00-01" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 20D <rel type="ニ" target="前後" sid="wiki00045953-03-01" id="17"/><rel type="ヲ" target="結核" sid="wiki00045953-03-01" id="18"/><rel type="ガ" target="不特定:人"/>
+付け加える つけくわえる 付け加える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
++ 21D <rel type="ヲ" target="付け加えるなど" sid="wiki00045953-03-01" id="19"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="呼び方" sid="wiki00045953-03-01" id="21"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 18D
++ 22D <rel type="トイウ" target="した" sid="wiki00045953-03-01" id="20"/><rel type="=≒" target="結核" sid="wiki00045953-02-01" id="4"/><memo text="係り先、「細分化される」か？"/>
+呼び よび 呼び 名詞 6 普通名詞 1 * 0 * 0 NIL
+方 がた 方 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 19D
++ 23D <memo text="副詞とも解釈できるか？"/>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* -1D
++ -1D <rel type="ニヨッテ" target="呼び方" sid="wiki00045953-03-01" id="21"/><rel type="ガ" target="結核" sid="wiki00045953-00-01" id="0"/><rel type="ニ" target="不特定:人"/>
+細分 さいぶん 細分 名詞 6 サ変名詞 2 * 0 * 0 NIL
+化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00045953-03-02 括弧始:（ 括弧終:） 括弧位置:84 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
+* 1P
++ 1D <rel type="=" target="肺" sid="wiki00045953-02-01" id="3"/>
+肺 はい 肺 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 4P <rel type="修飾" target="肺" sid="wiki00045953-03-02" id="0"/><rel type="=" target="結核" sid="wiki00045953-02-01" id="4"/><NE:OPTIONAL:肺結核><NE-OPTIONAL:ARTIFACT,NONE:0>
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3D <rel type="=" target="肺" sid="wiki00045953-03-02" id="0"/>
+肺 はい 肺 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 4D <rel type="ノ" target="肺" sid="wiki00045953-03-02" id="2"/>
+外 がい 外 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5P <rel type="修飾" target="外" sid="wiki00045953-03-02" id="3"/><rel type="=≒" target="結核" sid="wiki00045953-00-01" id="0"/><NE:OPTIONAL:肺外結核><NE-OPTIONAL:ARTIFACT,NONE:0>
+結核 けっかく 結核 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 6D <NE:OPTIONAL:カリエス><NE-OPTIONAL:ARTIFACT,NONE:0>
+カリエス かりえす カリエス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+* -1D
++ -1D <rel type="ガ" target="読者"/><rel type="ヲ" target="結核" sid="wiki00045953-03-02" id="1"/><rel type="ヲ" mode="AND" target="結核" sid="wiki00045953-03-02" id="4"/><rel type="ヲ" mode="AND" target="カリエス" sid="wiki00045953-03-02" id="5"/><rel type="ニカンシテ" target="細分化される" sid="wiki00045953-03-01" id="23"/><memo text="PO:する  「参照せよ」「参照のこと」くらいの意味"/>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS

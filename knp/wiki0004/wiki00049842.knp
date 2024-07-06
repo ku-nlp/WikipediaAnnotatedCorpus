@@ -1,0 +1,81 @@
+# S-ID:wiki00049842-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/18 MEMO:
+* 2D
++ 2D <memo text="デーヴァ（神）ナーガリー（都市の文字）"/><NE:OPTIONAL:デーヴァナーガリー><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+デーヴァナーガリー でーゔぁなーがりー デーヴァナーガリー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:インド>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/><rel type="=構" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/><rel type="ノ？" target="インド" sid="wiki00049842-00" id="1"/><memo text="CO"/>
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00049842-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2024/04/18 MEMO:
+* 1D
++ 1D <memo text="文字体系の分類"/>
+アブギダ あぶぎだ アブギダ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="文字" sid="wiki00049842-01" id="3"/><rel type="ニ" target="アブギダ" sid="wiki00049842-01" id="0"/>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 12P
++ 3D
+音素 おんそ 音素 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17P <rel type="ガ" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/><rel type="修飾" target="音素" sid="wiki00049842-01" id="2"/><rel type="=構" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/>
+文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 5D <NE:OPTIONAL:ヒンディー><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+ヒンディー ひんでぃー ヒンディー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7P <rel type="ノ？" target="ヒンディー" sid="wiki00049842-01" id="4"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 7D <memo text="マラーター王国というのがあった模様"/><NE:OPTIONAL:マラーティー><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+マラーティー まらーてぃー マラーティー 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9P <rel type="ノ？" target="マラーティー" sid="wiki00049842-01" id="6"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 9D <NE:OPTIONAL:ネパール><NE-OPTIONAL:LOCATION,NONE:0>
+ネパール ねぱーる ネパール 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 10D <rel type="ノ？" target="ネパール" sid="wiki00049842-01" id="8"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 11D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00049842-01" id="7"/><rel type="ヲ" mode="AND" target="語" sid="wiki00049842-01" id="5"/><rel type="ヲ" mode="AND" target="語など" sid="wiki00049842-01" id="9"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ガ" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/><rel type="ニ" target="表記" sid="wiki00049842-01" id="10"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="外の関係" target="ほか" sid="wiki00049842-01" id="12"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 12D
++ 17D <rel type="ノ" target="用いられる" sid="wiki00049842-01" id="11"/>
+ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 14D
+古典 こてん 古典 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="古典" sid="wiki00049842-01" id="13"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 16D <rel type="=構" target="語" sid="wiki00049842-01" id="14"/><rel type="修飾" target="語" sid="wiki00049842-01" id="14"/><NE:OPTIONAL:サンスクリット><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+サンスクリット さんすくりっと サンスクリット 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12D
++ 17D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="サンスクリットなど" sid="wiki00049842-01" id="15"/><rel type="=" target="表記" sid="wiki00049842-01" id="10"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デーヴァナーガリー" sid="wiki00049842-00" id="0"/><rel type="ニ" target="表記" sid="wiki00049842-01" id="16"/>
+用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

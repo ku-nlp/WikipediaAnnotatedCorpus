@@ -1,0 +1,78 @@
+# S-ID:wiki00042664-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2024/03/05 MEMO:
+* 5D
++ 1D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D
+ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 16D <NE:ORGANIZATION:株式会社ラジオ関西>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 8D <NE:LOCATION:兵庫県>
+兵庫 ひょうご 兵庫 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ノ" target="放送" sid="wiki00042664-00-01" id="5"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="対象" sid="wiki00042664-00-01" id="6"/><rel type="=構" target="兵庫県" sid="wiki00042664-00-01" id="4"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 16D <rel type="ガ" target="者" sid="wiki00042664-00-01" id="16"/><rel type="ヲ" target="兵庫県" sid="wiki00042664-00-01" id="4"/><rel type="ト" target="地域" sid="wiki00042664-00-01" id="7"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 10D
+中波 ちゅうは 中波 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="中波" sid="wiki00042664-00-01" id="9"/><rel type="ヲ" target="不特定:物"/><rel type="=≒" target="放送" sid="wiki00042664-00-01" id="5"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 16D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00042664-00-01" id="5"/><rel type="修飾" target="基幹" sid="wiki00042664-00-01" id="13"/><rel type="修飾" mode="AND" target="地上" sid="wiki00042664-00-01" id="12"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <rel type="ノ？" target="放送" sid="wiki00042664-00-01" id="14"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="関西" sid="wiki00042664-00-01" id="3"/><rel type="=構" target="関西" sid="wiki00042664-00-01" id="3"/><rel type="ノ？" target="事業" sid="wiki00042664-00-01" id="15"/><rel type="修飾" target="放送" sid="wiki00042664-00-01" id="10"/><rel type="修飾" mode="AND" target="特定" sid="wiki00042664-00-01" id="11"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00042664-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/05 MEMO:
+* 1P
++ 1D <rel type="=" target="ラジオ" sid="wiki00042664-00-01" id="2"/>
+ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4P <rel type="=" target="関西" sid="wiki00042664-00-01" id="3"/><NE:ORGANIZATION:ラジオかんさい>
+かんさい かんさい かんさい 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 3D <rel type="=" target="ラジオ" sid="wiki00042664-00-01" id="2"/>
+RADIO RADIO RADIO 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <rel type="=" target="関西" sid="wiki00042664-00-01" id="3"/>
+Kansai Kansai Kansai 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+, , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="関西" sid="wiki00042664-00-01" id="3"/><rel type="=" mode="AND" target="会社" sid="wiki00042664-00-01" id="1"/><NE:ORGANIZATION:RADIO　Kansai,　Ltd.>
+Ltd Ltd Ltd 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS
+# S-ID:wiki00042664-00-03 括弧始:（ 括弧終:） 括弧位置:56 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/05 MEMO:
+* -1D
++ 1D <rel type="=" target="中波" sid="wiki00042664-00-01" id="9"/>
+AM AM AM 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="AM" sid="wiki00042664-00-03" id="0"/>
+ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="=" target="放送" sid="wiki00042664-00-01" id="10"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS

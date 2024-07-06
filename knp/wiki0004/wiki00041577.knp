@@ -1,0 +1,38 @@
+# S-ID:wiki00041577-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/02/27 MEMO:
+* 4D
++ 6D <NE:LOCATION:グアム>
+グアム ぐあむ グアム 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:太平洋>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="諸島" sid="wiki00041577-00" id="4"/><rel type="ニ" target="太平洋" sid="wiki00041577-00" id="1"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 4D
++ 4D
+マリアナ まりあな マリアナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:マリアナ諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <rel type="ノ" target="諸島" sid="wiki00041577-00" id="4"/>
+南端 なんたん 南端 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="グアム" sid="wiki00041577-00" id="0"/><rel type="修飾" target="南端" sid="wiki00041577-00" id="5"/><rel type="=構" target="グアム" sid="wiki00041577-00" id="0"/><rel type="=構" mode="AND" target="南端" sid="wiki00041577-00" id="5"/><memo text="CO"/>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00041577-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/27 MEMO:
+* 1D
++ 2D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 2D
+準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="グアム" sid="wiki00041577-00" id="0"/><rel type="=構" target="グアム" sid="wiki00041577-00" id="0"/><rel type="修飾" target="準" sid="wiki00041577-01" id="1"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00041577-01" id="0"/><memo text="CO"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

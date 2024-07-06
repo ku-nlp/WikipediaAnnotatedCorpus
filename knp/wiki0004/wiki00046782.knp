@@ -1,0 +1,140 @@
+# S-ID:wiki00046782-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/29 MEMO:
+* 6D
++ 1D
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="電気" sid="wiki00046782-00-01" id="0"/>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 5D <rel type="=" target="電気" sid="wiki00046782-00-01" id="0"/>
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+エネルギー えねるぎー エネルギー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=構" target="電気" sid="wiki00046782-00-01" id="2"/><rel type="ノ" target="エネルギー" sid="wiki00046782-00-01" id="3"/><rel type="ノ" mode="AND" target="自動車" sid="wiki00046782-00-01" id="9"/>
+源 げん 源 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 8P <rel type="ガ" target="自動車" sid="wiki00046782-00-01" id="9"/><rel type="ヲ" target="電気" sid="wiki00046782-00-01" id="2"/><rel type="ト" target="源" sid="wiki00046782-00-01" id="4"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 7D
+電動 でんどう 電動 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="電動" sid="wiki00046782-00-01" id="6"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 9D <rel type="ガ" target="自動車" sid="wiki00046782-00-01" id="9"/><rel type="デ" target="機" sid="wiki00046782-00-01" id="7"/>
+走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="自動車" sid="wiki00046782-00-01" id="1"/><rel type="=構" target="自動車" sid="wiki00046782-00-01" id="1"/>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ 1D <rel type="=" target="電気" sid="wiki00046782-00-01" id="0"/>
+でんき でんき でんき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="自動車" sid="wiki00046782-00-01" id="1"/>
+じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-00-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ -1D <rel type="=" target="機" sid="wiki00046782-00-01" id="7"/>
+モーター もーたー モーター 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/29 MEMO:
+* 3D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="自動車" sid="wiki00046782-00-01" id="1"/><rel type="ト" target="EV" sid="wiki00046782-01-01" id="2"/><rel type="ノ" target="自動車" sid="wiki00046782-00-01" id="1"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
+的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 3D
++ 3D <rel type="=構" target="略称" sid="wiki00046782-01-01" id="0"/><rel type="=" mode="AND" target="自動車" sid="wiki00046782-00-01" id="1"/>
+EV EV EV 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="EV" sid="wiki00046782-01-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="略称" sid="wiki00046782-01-01" id="0"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ 1D
+Electric Electric Electric 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="=" target="EV" sid="wiki00046782-01-01" id="2"/>
+Vehicle Vehicle Vehicle 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2024/03/29 MEMO:
+* 1D
++ 1D
+内燃 ないねん 内燃 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="内燃" sid="wiki00046782-02-01" id="0"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="自動車" sid="wiki00046782-00-01" id="1"/><rel type="ヲ" target="機関" sid="wiki00046782-02-01" id="2"/><rel type="外の関係" target="事" sid="wiki00046782-02-01" id="4"/>
+持た もた 持つ 動詞 2 * 0 子音動詞タ行 6 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 6D
++ 11D <rel type="トイウ" target="持たない" sid="wiki00046782-02-01" id="3"/>
+事 こと 事 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 11D <rel type="ガ" target="車" sid="wiki00046782-02-01" id="14"/>
+走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+時 じ 時 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 6D
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
++ 7D <rel type="ガ" target="炭素" sid="wiki00046782-02-01" id="7"/><rel type="修飾" target="二" sid="wiki00046782-02-01" id="5"/>
+酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10P <rel type="修飾" target="酸化" sid="wiki00046782-02-01" id="6"/>
+炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 10D
+窒素 ちっそ 窒素 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="窒素" sid="wiki00046782-02-01" id="9"/>
+酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ノ？" target="酸化" sid="wiki00046782-02-01" id="10"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 14D <rel type="ガ" target="炭素" sid="wiki00046782-02-01" id="7"/><rel type="ガ" mode="AND" target="物" sid="wiki00046782-02-01" id="10"/><rel type="カラ" target="車" sid="wiki00046782-02-01" id="14"/><rel type="カラ" mode="AND" target="事" sid="wiki00046782-02-01" id="3"/><rel type="時間" target="走行時" sid="wiki00046782-02-01" id="4"/>
+出 で 出る 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* -1D
++ 13D
+ゼロ ぜろ ゼロ 名詞 6 数詞 7 * 0 * 0 NIL
++ 14D <rel type="修飾" target="ゼロ" sid="wiki00046782-02-01" id="12"/>
+エミッション えみっしょん エミッション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="自動車" sid="wiki00046782-00-01" id="1"/><rel type="カラ" target="事" sid="wiki00046782-02-01" id="4"/><rel type="=構" target="自動車" sid="wiki00046782-00-01" id="1"/><rel type="ノ？" target="エミッション" sid="wiki00046782-02-01" id="13"/><rel type="修飾" target="出ない" sid="wiki00046782-02-01" id="11"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ -1D <rel type="=" target="機関" sid="wiki00046782-02-01" id="1"/>
+エンジン えんじん エンジン 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00046782-02-03 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ -1D <rel type="=" target="炭素" sid="wiki00046782-02-01" id="7"/>
+CO CO CO 名詞 6 普通名詞 1 * 0 * 0 NIL
+2 つー 2 名詞 6 数詞 7 * 0 * 0 NIL
+EOS

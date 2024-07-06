@@ -1,0 +1,131 @@
+# S-ID:wiki00040576-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2024/02/14 MEMO:
+* 6D
++ 10D <NE:PERSON:北条>
+北条 ほうじょう 北条 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+伊豆 いずの 伊豆 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <NE:LOCATION:伊豆国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <rel type="ノ" target="国" sid="wiki00040576-00-01" id="2"/>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6P
++ 10P <rel type="ガ" target="北条氏" sid="wiki00040576-00-01" id="0"/><rel type="修飾" target="出身" sid="wiki00040576-00-01" id="3"/><rel type="=構" target="北条氏" sid="wiki00040576-00-01" id="0"/>
+豪族 ごうぞく 豪族 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 8D <rel type="ノ" target="鎌倉" sid="wiki00040576-00-01" id="5"/><NE:ORGANIZATION:鎌倉幕府>
+幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 8D <rel type="ノ" target="幕府" sid="wiki00040576-00-01" id="6"/>
+執権 しっけん 執権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="トイウ" target="執権" sid="wiki00040576-00-01" id="7"/><rel type="ノ" target="幕府" sid="wiki00040576-00-01" id="6"/>
+職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ガ" target="一族" sid="wiki00040576-00-01" id="10"/><rel type="ヲ" target="職" sid="wiki00040576-00-01" id="8"/>
+世襲 せしゅう 世襲 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="北条氏" sid="wiki00040576-00-01" id="0"/><rel type="=構" target="北条氏" sid="wiki00040576-00-01" id="0"/>
+一族 いちぞく 一族 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040576-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/25 MEMO:
+* -1D
++ -1D <rel type="=" target="北条" sid="wiki00040576-00-01" id="0"/><NE:PERSON:ほうじょう>
+ほうじょう ほうじょう ほうじょう 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+し し し 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040576-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2024/02/14 MEMO:
+* 1D
++ 1D
+戦国 せんごく 戦国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="戦国" sid="wiki00040576-01" id="0"/>
+大名 だいみょう 大名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <rel type="=構" target="大名" sid="wiki00040576-01" id="1"/><rel type="修飾" target="大名" sid="wiki00040576-01" id="1"/><rel type="修飾" mode="AND" target="後" sid="wiki00040576-01" id="2"/><NE:PERSON:北条>
+北条 ほうじょう 北条 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="北条氏" sid="wiki00040576-00-01" id="0"/><rel type="ト" target="北条" sid="wiki00040576-01" id="3"/>
+混同 こんどう 混同 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ヲ" target="混同" sid="wiki00040576-01" id="4"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="ため" sid="wiki00040576-01" id="6"/>
+避ける さける 避ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 10D
++ 18D <rel type="ノ" target="避ける" sid="wiki00040576-01" id="5"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 12D
+代々 だいだい 代々 名詞 6 時相名詞 10 * 0 * 0 NIL
+* 6D
++ 9D <rel type="=" target="鎌倉" sid="wiki00040576-00-01" id="5"/>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 11D <rel type="=" target="幕府" sid="wiki00040576-00-01" id="6"/><NE:ORGANIZATION:鎌倉幕府>
+幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 11D <rel type="=" target="執権" sid="wiki00040576-00-01" id="7"/>
+執権 しっけん 執権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=" target="職" sid="wiki00040576-00-01" id="8"/>
+職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 13D <rel type="ガ" target="北条氏" sid="wiki00040576-00-01" id="0"/><rel type="ヲ" target="職" sid="wiki00040576-01" id="11"/><rel type="=" target="世襲した" sid="wiki00040576-00-01" id="9"/><rel type="外の関係" target="こと" sid="wiki00040576-01" id="13"/>
+継承 けいしょう 継承 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 10D
++ 18D <rel type="トイウ" target="継承した" sid="wiki00040576-01" id="12"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 15D <rel type="=" target="執権" sid="wiki00040576-01" id="10"/>
+執権 しっけん 執権 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17P <rel type="=構" target="北条" sid="wiki00040576-00-01" id="0"/><rel type="修飾" target="執権" sid="wiki00040576-01" id="14"/><NE:PERSON:北条>
+北条 ほうじょう 北条 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10D
++ 17D <rel type="=" target="鎌倉" sid="wiki00040576-01" id="8"/>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL
++ 18D <rel type="=構" target="北条" sid="wiki00040576-00-01" id="0"/><rel type="修飾" target="鎌倉" sid="wiki00040576-01" id="16"/><NE:PERSON:北条>
+北条 ほうじょう 北条 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="北条氏" sid="wiki00040576-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="修飾" target="ため" sid="wiki00040576-01" id="6"/><rel type="カラ" target="こと" sid="wiki00040576-01" id="13"/><rel type="ト" target="北条" sid="wiki00040576-01" id="17"/><rel type="ト" mode="OR" target="北条" sid="wiki00040576-01" id="15"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040576-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2023/09/25 MEMO:
+* 1D
++ 1D <rel type="ノ" target="北条" sid="wiki00040576-00-01" id="0"/>
+通字 とおりじ 通字 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="通字" sid="wiki00040576-02-01" id="0"/><rel type="=構" target="通字" sid="wiki00040576-02-01" id="0"/><memo text="CO"/>
+時 とき 時 名詞 6 時相名詞 10 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00040576-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/25 MEMO:
+* -1D
++ -1D <rel type="=" target="時" sid="wiki00040576-02-01" id="1"/>
+とき とき とき 名詞 6 時相名詞 10 * 0 * 0 NIL
+EOS

@@ -1,0 +1,87 @@
+# S-ID:wiki00044698-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000 MOD:2024/03/19 MEMO:
+* 3D
++ 4D
+和服 わふく 和服 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="デ" target="日本" sid="wiki00044698-00-01" id="1"/>
+在来 ざいらい 在来 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=構" target="和服" sid="wiki00044698-00-01" id="0"/><rel type="修飾" target="在来" sid="wiki00044698-00-01" id="2"/>
+衣服 いふく 衣服 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8P
++ 10P <rel type="ガ" target="和服" sid="wiki00044698-00-01" id="0"/><rel type="ノ" target="衣服" sid="wiki00044698-00-01" id="3"/><rel type="=構" target="和服" sid="wiki00044698-00-01" id="0"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 10D
+近年 きんねん 近年 名詞 6 時相名詞 10 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 7D <rel type="=" target="日本" sid="wiki00044698-00-01" id="1"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 9D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 8D
++ 9D
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ニオイテ" target="日本" sid="wiki00044698-00-01" id="6"/><rel type="修飾" target="民族" sid="wiki00044698-00-01" id="8"/><rel type="=構" target="和服" sid="wiki00044698-00-01" id="0"/>
+服 ふく 服 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="和服" sid="wiki00044698-00-01" id="0"/><rel type="ト" target="服" sid="wiki00044698-00-01" id="9"/><rel type="時間" target="近年" sid="wiki00044698-00-01" id="5"/><rel type="ニ" target="不特定:人"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044698-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
+* -1D
++ -1D <rel type="=" target="和服" sid="wiki00044698-00-01" id="0"/>
+わふく わふく わふく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044698-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/24 MEMO:
+* 1D
++ 1D <rel type="=構" target="和服" sid="wiki00044698-00-01" id="0"/>
+着物 きもの 着物 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="和服" sid="wiki00044698-00-01" id="0"/><rel type="ト" target="着物" sid="wiki00044698-01-01" id="0"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044698-01-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/24 MEMO:
+* -1D
++ -1D <rel type="=" target="着物" sid="wiki00044698-01-01" id="0"/>
+きもの きもの きもの 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00044698-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/03/19 MEMO:
+* 1D
++ 1D <rel type="=≒" target="和服" sid="wiki00044698-00-01" id="0"/>
+洋服 ようふく 洋服 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="洋服" sid="wiki00044698-02" id="0"/><rel type="=構" target="和服" sid="wiki00044698-00-01" id="0"/>
+対義語 たいぎご 対義語 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="和服" sid="wiki00044698-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="対義語" sid="wiki00044698-02" id="1"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

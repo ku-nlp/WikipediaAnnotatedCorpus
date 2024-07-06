@@ -1,0 +1,95 @@
+# S-ID:wiki00042862-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2024/03/06 MEMO:
+* 7D
++ 1D <NE:OPTIONAL:地中海><NE-OPTIONAL:LOCATION,NONE:0>
+地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 10D <rel type="修飾" target="地中海性" sid="wiki00042862-00-01" id="0"/>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4D <NE:PERSON:ケッペン>
+ケッペン けっぺん ケッペン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=≒" target="気候" sid="wiki00042862-00-01" id="1"/>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ヲ" target="気候" sid="wiki00042862-00-01" id="3"/><rel type="ガ" target="ケッペン" sid="wiki00042862-00-01" id="2"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 7D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 5D
++ 7D <rel type="=" target="気候" sid="wiki00042862-00-01" id="3"/>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ニオイテ" target="区分" sid="wiki00042862-00-01" id="4"/><rel type="ノ？" target="気候" sid="wiki00042862-00-01" id="6"/>
+区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7P
++ 10P <rel type="ノ" target="区" sid="wiki00042862-00-01" id="7"/><rel type="ガ" target="気候" sid="wiki00042862-00-01" id="1"/><rel type="=構" target="気候" sid="wiki00042862-00-01" id="1"/><rel type="=構" mode="AND" target="区" sid="wiki00042862-00-01" id="7"/>
+ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* 7D
++ 10D <rel type="=≒" target="気候" sid="wiki00042862-00-01" id="1"/>
+温帯 おんたい 温帯 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="気候" sid="wiki00042862-00-01" id="1"/><rel type="ニ" target="温帯" sid="wiki00042862-00-01" id="9"/>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00042862-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/10/09 MEMO:
+* -1D
++ 1D <rel type="=" target="地中海性" sid="wiki00042862-00-01" id="0"/><NE:OPTIONAL:ちちゅうかい><NE-OPTIONAL:LOCATION,NONE:0>
+ちちゅうかい ちちゅうかい ちちゅうかい 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+せい せい せい 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="気候" sid="wiki00042862-00-01" id="1"/>
+きこう きこう きこう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00042862-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:130.00000 MOD:2024/03/06 MEMO:
+* 3D
++ 3D <rel type="ノ" target="気候" sid="wiki00042862-00-01" id="1"/>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=構" target="記号" sid="wiki00042862-01-01" id="0"/>
+Csa Csa Csa 特殊 1 記号 5 * 0 * 0 NIL
+, , , 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 3P <rel type="=構" target="記号" sid="wiki00042862-01-01" id="0"/>
+Csb Csb Csb 特殊 1 記号 5 * 0 * 0 NIL
+, , , 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 9P <rel type="=構" target="記号" sid="wiki00042862-01-01" id="0"/>
+Csc Csc Csc 特殊 1 記号 5 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* 5I
++ 5I <rel type="ノ" target="Csa" sid="wiki00042862-01-01" id="1"/><rel type="ノ" mode="AND" target="Csb" sid="wiki00042862-01-01" id="2"/><rel type="ノ" mode="AND" target="Csc" sid="wiki00042862-01-01" id="3"/>
+C C C 特殊 1 記号 5 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7P
++ 8P <rel type="ガ" target="C" sid="wiki00042862-01-01" id="4"/><rel type="ヲ" target="温帯" sid="wiki00042862-01-01" id="5"/><rel type="=" target="温帯" sid="wiki00042862-00-01" id="9"/><rel type="=構" mode="AND" target="C" sid="wiki00042862-01-01" id="4"/>
+温帯 おんたい 温帯 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7I
++ 8I <rel type="ノ" target="Csa" sid="wiki00042862-01-01" id="1"/><rel type="ノ" mode="AND" target="Csb" sid="wiki00042862-01-01" id="2"/><rel type="ノ" mode="AND" target="Csc" sid="wiki00042862-01-01" id="3"/>
+s s s 特殊 1 記号 5 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 8D
++ 8D
+夏季 かき 夏季 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 9D <rel type="時間" target="夏季" sid="wiki00042862-01-01" id="7"/><rel type="ガ" target="不特定:状況"/><rel type="=構" target="s" sid="wiki00042862-01-01" id="6"/>
+乾燥 かんそう 乾燥 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ヲ" target="乾燥" sid="wiki00042862-01-01" id="8"/><rel type="ガ" target="s" sid="wiki00042862-01-01" id="6"/>
+示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00042862-01-02 括弧始:（ 括弧終:） 括弧位置:26 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/06 MEMO:
+* -1D
++ -1D <rel type="=≒" target="s" sid="wiki00042862-01-01" id="6"/><rel type="=" mode="AND" target="乾燥" sid="wiki00042862-01-01" id="8"/>
+sommertrocken sommertrocken sommertrocken 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

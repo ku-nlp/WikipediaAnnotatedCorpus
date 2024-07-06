@@ -1,0 +1,43 @@
+# S-ID:wiki00051859-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/02/22 MEMO:
+* 3D
++ 1D
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 10D <NE:ARTIFACT:スポーツニッポン>
+ニッポン にっぽん ニッポン 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 7D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="スポーツ" sid="wiki00051859-00" id="0"/>
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7D <rel type="=" target="ニッポン" sid="wiki00051859-00" id="1"/>
+ニッポン にっぽん ニッポン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 7D
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <NE:ORGANIZATION:株式会社スポーツニッポン新聞社>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 10D <rel type="ガ" target="社" sid="wiki00051859-00" id="7"/><rel type="ヲ" target="新聞" sid="wiki00051859-00" id="10"/>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ 10D <rel type="=" target="スポーツ" sid="wiki00051859-00" id="0"/>
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ニッポン" sid="wiki00051859-00" id="1"/><rel type="修飾" target="スポーツ" sid="wiki00051859-00" id="9"/><rel type="=構" target="ニッポン" sid="wiki00051859-00" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00051859-00" id="6"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00051859-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/22 MEMO:
+* 1D
++ 1D <rel type="ノ" target="ニッポン" sid="wiki00051859-00" id="1"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="通称" sid="wiki00051859-01" id="0"/><rel type="=構" target="通称" sid="wiki00051859-01" id="0"/><rel type="=" mode="AND" target="ニッポン" sid="wiki00051859-00" id="1"/><memo text="CO"/><NE:ARTIFACT:スポニチ>
+スポニチ すぽにち スポニチ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

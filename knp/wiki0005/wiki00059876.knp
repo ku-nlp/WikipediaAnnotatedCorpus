@@ -1,0 +1,125 @@
+# S-ID:wiki00059876-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:61.00000 MOD:2024/05/24 MEMO:
+* 7D
++ 21D <memo text="聖ルチア（Saint Lucia）から"/><NE:LOCATION:セントルシア>
+セントルシア せんとるしあ セントルシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <NE:LOCATION:西インド諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D
+ウィンドワード うぃんどわーど ウィンドワード 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="ノ？" target="諸島" sid="wiki00059876-00" id="3"/><NE:LOCATION:ウィンドワード諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 7D
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="諸島" sid="wiki00059876-00" id="5"/><rel type="ノ？" target="中央" sid="wiki00059876-00" id="6"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 17D <rel type="ニ" target="部" sid="wiki00059876-00" id="7"/><rel type="ガ" target="国家" sid="wiki00059876-00" id="17"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 10D
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 11D
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 13D <NE:LOCATION:英連邦王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6P
++ 13D
+一 いち/いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
++ 17D <rel type="ノ" target="王国" sid="wiki00059876-00" id="11"/><rel type="ガ" target="国家" sid="wiki00059876-00" id="17"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+たる たる たる 助動詞 5 * 0 助動詞 0 文語たり連体形 0 NIL
+* 7P
++ 15D
+立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="立憲" sid="wiki00059876-00" id="14"/>
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ノ" target="君主" sid="wiki00059876-00" id="16"/>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21P <rel type="ガ" target="セントルシア" sid="wiki00059876-00" id="0"/><rel type="=構" target="セントルシア" sid="wiki00059876-00" id="0"/><rel type="=構" mode="AND" target="国" sid="wiki00059876-00" id="13"/><rel type="修飾" target="制" sid="wiki00059876-00" id="16"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1P
++ 19D
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 20D <rel type="=" target="王国" sid="wiki00059876-00" id="11"/><NE:LOCATION:イギリス連邦>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 21D <rel type="ガ" target="国" sid="wiki00059876-00" id="22"/><rel type="ニ" target="連邦" sid="wiki00059876-00" id="20"/>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="セントルシア" sid="wiki00059876-00" id="0"/><rel type="修飾" target="加盟" sid="wiki00059876-00" id="20"/><rel type="=構" target="セントルシア" sid="wiki00059876-00" id="0"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00059876-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2024/05/24 MEMO:
+* 9D
++ 12D <rel type="ガ" target="セントルシア" sid="wiki00059876-00" id="0"/><rel type="=構" target="セントルシア" sid="wiki00059876-00" id="0"/>
+島国 しまぐに 島国 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ヲ" target="海" sid="wiki00059876-01" id="1"/>
+隔てて へだてて 隔てる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 4I
++ 6I <rel type="ノ" target="セントルシア" sid="wiki00059876-00" id="0"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 5D <NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ" target="フランス" sid="wiki00059876-01" id="4"/>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="ガ" target="マルティニーク" sid="wiki00059876-01" id="6"/><rel type="ニ" target="北" sid="wiki00059876-01" id="3"/><rel type="修飾" target="領" sid="wiki00059876-01" id="5"/><rel type="=構" target="領" sid="wiki00059876-01" id="5"/><rel type="=≒" mode="AND" target="諸島" sid="wiki00059876-00" id="5"/><NE:LOCATION:マルティニーク>
+マルティニーク まるてぃにーく マルティニーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6I
++ 9I <rel type="ノ" target="セントルシア" sid="wiki00059876-00" id="0"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 9D
+セントヴィンセント せんとゔぃんせんと セントヴィンセント 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 11P <rel type="ガ" target="グレナディーン" sid="wiki00059876-01" id="9"/><rel type="ニ" target="南" sid="wiki00059876-01" id="7"/><rel type="=≒" target="諸島" sid="wiki00059876-00" id="5"/><NE:LOCATION:セントヴィンセント・グレナディーン>
+グレナディーン ぐれなでぃーん グレナディーン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8I
++ 11I <rel type="ノ" target="セントルシア" sid="wiki00059876-00" id="0"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 12D <rel type="=≒" target="諸島" sid="wiki00059876-00" id="5"/><NE:LOCATION:バルバドス>
+バルバドス ばるばどす バルバドス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="バルバドス" sid="wiki00059876-01" id="11"/><rel type="ニ" target="南東" sid="wiki00059876-01" id="10"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00059876-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/24 MEMO:
+* 1D
++ 1D <rel type="ノ" target="セントルシア" sid="wiki00059876-00" id="0"/>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="首都" sid="wiki00059876-02" id="0"/><rel type="=構" target="首都" sid="wiki00059876-02" id="0"/><rel type="ノ？" target="セントルシア" sid="wiki00059876-00" id="0"/><memo text="CO"/><NE:LOCATION:カストリーズ>
+カストリーズ かすとりーず カストリーズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

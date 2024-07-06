@@ -1,0 +1,81 @@
+# S-ID:wiki00052842-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2024/03/05 MEMO:
+* 8D
++ 2D
+オリコン おりこん オリコン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 15D <NE:ORGANIZATION:オリコン株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="音楽" sid="wiki00052842-00" id="7"/>
+ヒット ひっと ヒット 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="ヒット" sid="wiki00052842-00" id="3"/>
+チャート ちゃーと チャート 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ノ" target="サービス" sid="wiki00052842-00" id="9"/>
+はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 9D <rel type="ガ" target="サービス" sid="wiki00052842-00" id="9"/><rel type="ヲ" target="チャート" sid="wiki00052842-00" id="4"/><rel type="ト" target="はじめ" sid="wiki00052842-00" id="5"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 8D
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ？" target="音楽" sid="wiki00052842-00" id="7"/>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ニツイテ" target="情報" sid="wiki00052842-00" id="8"/><rel type="ガ" target="グループ" sid="wiki00052842-00" id="13"/><rel type="=≒" target="チャート" sid="wiki00052842-00" id="4"/>
+サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 13D <rel type="ガ" target="グループ" sid="wiki00052842-00" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="サービスなど" sid="wiki00052842-00" id="9"/>
+提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 7D
++ 13D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 13D
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ？" target="日本" sid="wiki00052842-00" id="11"/><rel type="ノ？" mode="AND" target="企業" sid="wiki00052842-00" id="12"/>
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 15D
+持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="会社" sid="wiki00052842-00" id="2"/><rel type="=構" target="会社" sid="wiki00052842-00" id="2"/><rel type="修飾" target="持株" sid="wiki00052842-00" id="14"/><rel type="ノ？" target="グループ" sid="wiki00052842-00" id="13"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00052842-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/05 MEMO:
+* 1D
++ 1P
+JPX JPX JPX 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 5D
+日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3P
+中 ちゅう 中 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 4D
+小型 こがた 小型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:ARTIFACT:middle>
++ 5D <rel type="修飾" target="中" sid="wiki00052842-01" id="2"/><rel type="修飾" mode="AND" target="小型" sid="wiki00052842-01" id="3"/>
+株 かぶ 株 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7D <rel type="ノ" target="株" sid="wiki00052842-01" id="4"/><NE:ARTIFACT:JPX日経中小型株指数>
+指数 しすう 指数 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 7D <rel type="ガ" target="銘柄" sid="wiki00052842-01" id="7"/><rel type="ヲ" target="指数" sid="wiki00052842-01" id="5"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="=≒" target="会社" sid="wiki00052842-00" id="2"/>
+銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="会社" sid="wiki00052842-00" id="2"/><rel type="ノ" target="銘柄" sid="wiki00052842-01" id="7"/><rel type="=構" target="会社" sid="wiki00052842-00" id="2"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00052842-01" id="7"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

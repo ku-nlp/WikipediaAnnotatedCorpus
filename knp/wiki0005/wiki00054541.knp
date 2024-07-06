@@ -1,0 +1,143 @@
+# S-ID:wiki00054541-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2024/03/25 MEMO:
+* 6D
++ 1D
+公立 こうりつ 公立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="修飾" target="公立" sid="wiki00054541-00-01" id="0"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 4D
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D
+公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="修飾" target="公共" sid="wiki00054541-00-01" id="3"/><rel type="ノ？" target="地方" sid="wiki00054541-00-01" id="2"/>
+団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 6D <rel type="=" target="公立" sid="wiki00054541-00-01" id="0"/>
+公立 こうりつ 公立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="大学" sid="wiki00054541-00-01" id="1"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="大学" sid="wiki00054541-00-01" id="6"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 10D <rel type="ヲ" target="学校" sid="wiki00054541-00-01" id="10"/><rel type="ガ" target="団体" sid="wiki00054541-00-01" id="4"/><rel type="ガ" mode="AND" target="法人" sid="wiki00054541-00-01" id="7"/>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 10D <rel type="=" target="公立" sid="wiki00054541-00-01" id="5"/>
+公立 こうりつ 公立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ガ" target="大学" sid="wiki00054541-00-01" id="11"/><rel type="修飾" target="公立" sid="wiki00054541-00-01" id="9"/><rel type="修飾" mode="AND" target="運営する" sid="wiki00054541-00-01" id="8"/>
+学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 6D
++ 12D <rel type="=構" target="大学" sid="wiki00054541-00-01" id="1"/><rel type="=構" mode="AND" target="学校" sid="wiki00054541-00-01" id="10"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="大学" sid="wiki00054541-00-01" id="1"/><rel type="ノ" target="大学" sid="wiki00054541-00-01" id="11"/><rel type="=構" target="大学" sid="wiki00054541-00-01" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00054541-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/22 MEMO:
+* -1D
++ 1D <rel type="=" target="公立" sid="wiki00054541-00-01" id="0"/>
+こうりつ こうりつ こうりつ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="大学" sid="wiki00054541-00-01" id="1"/>
+だいがく だいがく だいがく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00054541-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:143.00000 MOD:2024/03/25 MEMO:
+* 1D
++ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="ノ" target="英語" sid="wiki00054541-01" id="0"/>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 16D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 10D
++ 4D
+public public public 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 16D <rel type="修飾" target="public" sid="wiki00054541-01" id="3"/>
+university university university 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4P
++ 6D
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="修飾" target="中央" sid="wiki00054541-01" id="5"/>
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 8D <rel type="=" target="地方" sid="wiki00054541-00-01" id="2"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="地方" sid="wiki00054541-01" id="7"/>
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 14D <rel type="ヲ" target="政府" sid="wiki00054541-01" id="6"/><rel type="ヲ" mode="AND" target="政府" sid="wiki00054541-01" id="8"/><rel type="ガ" target="不特定:状況"/>
+問わ とわ 問う 動詞 2 * 0 子音動詞ワ行文語音便形 13 未然形 3 NIL
+ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
+* 8D
++ 11D <rel type="ガ" target="機関" sid="wiki00054541-01" id="10"/>
+公的 こうてき 公的だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 14D <rel type="修飾" target="公的" sid="wiki00054541-01" id="10"/><rel type="=≒" target="政府" sid="wiki00054541-01" id="6"/><rel type="=≒" mode="AND" target="政府" sid="wiki00054541-01" id="8"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="主体" sid="wiki00054541-01" id="13"/><rel type="ヲ" target="大学" sid="wiki00054541-01" id="15"/>
+設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ノ" target="設置" sid="wiki00054541-01" id="11"/><rel type="=構" target="機関" sid="wiki00054541-01" id="11"/>
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 15D <rel type="ガ" target="機関" sid="wiki00054541-01" id="10"/><rel type="ト" target="主体" sid="wiki00054541-01" id="13"/><rel type="外の関係" target="大学" sid="wiki00054541-01" id="15"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 10D
++ 16D <rel type="=構" target="university" sid="wiki00054541-01" id="4"/><rel type="トイウ" target="なる" sid="wiki00054541-01" id="14"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 17D <rel type="ガ" target="university" sid="wiki00054541-01" id="4"/><rel type="外の関係" target="こと" sid="wiki00054541-01" id="17"/><rel type="ニオイテ" target="圏" sid="wiki00054541-01" id="1"/><rel type="ヲ" target="大学" sid="wiki00054541-01" id="15"/>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+* 17D
++ 25D <rel type="トイウ" target="指す" sid="wiki00054541-01" id="16"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 13D
++ 19D <rel type="=" target="地方" sid="wiki00054541-01" id="7"/>
+local local local 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 20D <rel type="修飾" target="local" sid="wiki00054541-01" id="18"/><rel type="=" target="政府" sid="wiki00054541-01" id="8"/>
+govermental govermental govermental 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 21D <rel type="修飾" target="local" sid="wiki00054541-01" id="18"/><rel type="修飾" mode="AND" target="govermental" sid="wiki00054541-01" id="19"/>
+university university university 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 14D
++ 22D <rel type="ノ" target="university" sid="wiki00054541-01" id="20"/>
+ほう ほう ほう 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
++ 23D <rel type="ガ" target="ほう" sid="wiki00054541-01" id="18"/><rel type="ニツイテ" target="大学" sid="wiki00054541-00-01" id="1"/><rel type="ヨリ" target="university" sid="wiki00054541-01" id="4"/>
+適訳 てきやく 適訳 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 24D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 17D
++ 25D <rel type="ガ" target="不特定:人"/><rel type="トイウ" target="適訳である" sid="wiki00054541-01" id="22"/><rel type="ト" target="適訳である" sid="wiki00054541-01" id="22"/>
+意見 いけん 意見 名詞 6 サ変名詞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="意見" sid="wiki00054541-01" id="21"/><rel type="カラ" target="こと" sid="wiki00054541-01" id="17"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

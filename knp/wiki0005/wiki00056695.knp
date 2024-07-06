@@ -1,0 +1,67 @@
+# S-ID:wiki00056695-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2024/04/16 MEMO:
+* 10D
++ 2D
+ISO あいえすおー/あいそ/いそ ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 2D
+3166 さんいちろくろく/さんぜんひゃくろくじゅうろく 3166 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
+- の - 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 18D <NE:OPTIONAL:ISO　3166-2><NE-OPTIONAL:ARTIFACT,NONE:0>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4D <rel type="=" target="ISO" sid="wiki00056695-00" id="0"/>
+ISO あいえすおー/あいそ/いそ ISO 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D <rel type="=" target="3166" sid="wiki00056695-00" id="1"/><NE:OPTIONAL:ISO　3166><NE-OPTIONAL:ARTIFACT,NONE:0>
+3166 さんいちろくろく/さんぜんひゃくろくじゅうろく 3166 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10P
++ 18P <rel type="ノ" target="3166" sid="wiki00056695-00" id="4"/><rel type="ガ" target="2" sid="wiki00056695-00" id="2"/><rel type="=構" target="2" sid="wiki00056695-00" id="2"/>
+一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 7D
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="修飾" target="行政" sid="wiki00056695-00" id="6"/>
+区画 くかく 区画 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10P <rel type="ノ" target="区画" sid="wiki00056695-00" id="7"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 10D
+属領 ぞくりょう 属領 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="属領" sid="wiki00056695-00" id="9"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 12D
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="名" sid="wiki00056695-00" id="8"/><rel type="ヲ" mode="AND" target="名" sid="wiki00056695-00" id="10"/><rel type="デ" target="コード" sid="wiki00056695-00" id="11"/><rel type="外の関係" target="ため" sid="wiki00056695-00" id="13"/>
+表示 ひょうじ 表示 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 8D
++ 15D <rel type="ノ" target="表示する" sid="wiki00056695-00" id="12"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 15D
+地理 ちり 地理 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="ため" sid="wiki00056695-00" id="13"/><rel type="ノ" target="地理" sid="wiki00056695-00" id="14"/>
+コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="ノ" target="コード" sid="wiki00056695-00" id="16"/>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 18D <rel type="ガ" target="不特定:人"/><rel type="デ" target="もの" sid="wiki00056695-00" id="18"/><rel type="ヲ" target="系" sid="wiki00056695-00" id="16"/>
+定義 ていぎ 定義 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="2" sid="wiki00056695-00" id="2"/><rel type="=構" target="2" sid="wiki00056695-00" id="2"/><rel type="トイウ" target="定義する" sid="wiki00056695-00" id="17"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

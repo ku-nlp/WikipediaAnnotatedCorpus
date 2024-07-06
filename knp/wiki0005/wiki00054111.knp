@@ -1,0 +1,71 @@
+# S-ID:wiki00054111-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/11/12 MEMO:
+* 3D
++ 2D
+釜山 ぷさん 釜山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D
+広域 こういき 広域 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <rel type="ノ？" target="大韓民国" sid="wiki00054111-00-01" id="3"/><NE:LOCATION:釜山広域市>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 5D <NE:LOCATION:大韓民国>
+大韓民国 だいかんみんこく 大韓民国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <rel type="ノ" target="大韓民国" sid="wiki00054111-00-01" id="2"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="大韓民国" sid="wiki00054111-00-01" id="3"/><rel type="ノ？" target="南東" sid="wiki00054111-00-01" id="4"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ 8D <rel type="ガ" target="市" sid="wiki00054111-00-01" id="7"/><rel type="ニ" target="部" sid="wiki00054111-00-01" id="4"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ 8D
+広域 こういき 広域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="広域" sid="wiki00054111-00-01" id="7"/><rel type="ガ" target="市" sid="wiki00054111-00-01" id="2"/><rel type="=構" target="市" sid="wiki00054111-00-01" id="2"/><memo text="CO"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00054111-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/19 MEMO:
+* -1D
++ 2D <rel type="=" target="釜山" sid="wiki00054111-00-01" id="0"/>
+プサン ぷさん プサン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="広域" sid="wiki00054111-00-01" id="1"/>
+こういき こういき こういき 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="市" sid="wiki00054111-00-01" id="2"/><NE:LOCATION:プサンこういきし>
+し し し 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+; ; ; 特殊 1 記号 5 * 0 * 0 NIL
+EOS
+# S-ID:wiki00054111-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/19 MEMO:
+* -1D
++ 1D <NE:LOCATION:慶尚道>
+慶尚道 きょんさんどう/けいしょうどう 慶尚道 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=≒" target="市" sid="wiki00054111-00-01" id="8"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00054111-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/03/19 MEMO:
+* 3D
++ 1D <rel type="ノ" target="市" sid="wiki00054111-00-01" id="2"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="人口" sid="wiki00054111-01" id="0"/><rel type="ノ" mode="AND" target="市" sid="wiki00054111-00-01" id="2"/>
+規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4D
+ソウル そうる ソウル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="ガ" target="市" sid="wiki00054111-01" id="4"/>
+特別 とくべつ 特別だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:LOCATION:middle>
++ 5D <rel type="修飾" target="特別" sid="wiki00054111-01" id="3"/><rel type="ノ？" target="大韓民国" sid="wiki00054111-00-01" id="3"/><NE:LOCATION:ソウル特別市>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ガ" target="2位" sid="wiki00054111-01" id="6"/><rel type="ニ" target="市" sid="wiki00054111-01" id="4"/>
+次ぐ つぐ 次ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="規模" sid="wiki00054111-01" id="1"/><rel type="=構" target="規模" sid="wiki00054111-01" id="1"/><rel type="=構" mode="AND" target="市" sid="wiki00054111-00-01" id="2"/><rel type="ガ２" target="市" sid="wiki00054111-00-01" id="2"/><rel type="ノ" target="大韓民国" sid="wiki00054111-00-01" id="3"/><memo text="CO"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

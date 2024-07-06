@@ -1,0 +1,153 @@
+# S-ID:wiki00057474-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:159.00000 MOD:2024/04/23 MEMO:
+* 23D
++ 1D
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 40D <NE:ORGANIZATION:関西大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+江戸 えど 江戸 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
++ 4D
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <rel type="ノ" target="時代" sid="wiki00057474-00-01" id="3"/><NE:DATE:江戸時代後期>
+後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 16D <rel type="=構" target="後期" sid="wiki00057474-00-01" id="4"/><rel type="修飾" target="後期" sid="wiki00057474-00-01" id="4"/><NE:DATE:1825年>
+1825 せんはっぴゃくにじゅうご 1825 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 7D
+四国 しこく 四国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D <rel type="ノ？" target="四国" sid="wiki00057474-00-01" id="6"/><NE:LOCATION:四国高松>
+高松 たかまつ 高松 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <rel type="ノ" target="高松" sid="wiki00057474-00-01" id="7"/>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 10D
+儒学 じゅがく 儒学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="修飾" target="出身" sid="wiki00057474-00-01" id="8"/><rel type="ノ？" target="儒学" sid="wiki00057474-00-01" id="9"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 12D
+藤沢 ふじさわ 藤沢 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 13D <rel type="=構" target="者" sid="wiki00057474-00-01" id="10"/><rel type="修飾" target="者" sid="wiki00057474-00-01" id="10"/><NE:PERSON:藤沢東畡>
+東畡 とうがい 東畡 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 16D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 8D
++ 15D <NE:LOCATION:大坂>
+大坂 おおさか 大坂 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 16D <rel type="ノ" target="大坂" sid="wiki00057474-00-01" id="14"/>
+市中 しちゅう 市中 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 18D <rel type="ガ" target="塾" sid="wiki00057474-00-01" id="18"/><rel type="ニヨッテ" target="東畡" sid="wiki00057474-00-01" id="12"/><rel type="ニ" target="市中" sid="wiki00057474-00-01" id="15"/><rel type="時間" target="1825年" sid="wiki00057474-00-01" id="5"/>
+開か ひらか 開く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 10D
++ 18D <rel type="=≒" target="儒学" sid="wiki00057474-00-01" id="9"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="修飾" target="漢学" sid="wiki00057474-00-01" id="17"/>
+塾 じゅく 塾 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 12D
++ 20D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+泊園 はくえん 泊園 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 22D <rel type="=構" target="塾" sid="wiki00057474-00-01" id="18"/><rel type="修飾" target="塾" sid="wiki00057474-00-01" id="18"/><NE:ORGANIZATION:泊園書院>
+書院 しょいん 書院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 22D <rel type="=構" target="書院" sid="wiki00057474-00-01" id="20"/><rel type="ノ" target="大学" sid="wiki00057474-00-01" id="40"/>
+源流 げんりゅう 源流 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 22P
++ 39P <rel type="ヲ" target="書院" sid="wiki00057474-00-01" id="20"/><rel type="ト" target="源流" sid="wiki00057474-00-01" id="21"/><rel type="ガ" target="大学" sid="wiki00057474-00-01" id="40"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 19D
++ 34D <NE:DATE:1886年>
+1886 せんはっぴゃくはちじゅうろく 1886 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
++ 25D <rel type="=" target="関西" sid="wiki00057474-00-01" id="0"/><NE:LOCATION:関西>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 27D <rel type="デ" target="関西" sid="wiki00057474-00-01" id="24"/>
+初 はつ 初 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 16D
++ 27D
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 28D <rel type="修飾" target="初" sid="wiki00057474-00-01" id="25"/><rel type="ノ？" target="法律" sid="wiki00057474-00-01" id="26"/>
+学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 19D
++ 34D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 18D
++ 30D
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 31D
+大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 32D
+西 にし 西 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 33D <NE:LOCATION:大阪府大阪市西区京町堀>
+京町堀 きょうまちぼり 京町堀 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 19D
++ 34D <rel type="ノ？" target="京町堀" sid="wiki00057474-00-01" id="32"/><NE:LOCATION:願宗寺>
+願宗寺 がんしゅうじ 願宗寺 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 20D
++ 37D <rel type="ガ" target="学校" sid="wiki00057474-00-01" id="37"/><rel type="ニ" target="願宗寺" sid="wiki00057474-00-01" id="33"/><rel type="時間" target="1886年" sid="wiki00057474-00-01" id="23"/><rel type="トシテ" target="学校" sid="wiki00057474-00-01" id="27"/>
+開か ひらか 開く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 22D
++ 37D <rel type="=" target="関西" sid="wiki00057474-00-01" id="0"/>
+関西 かんさい 関西 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 37D <rel type="=" target="法律" sid="wiki00057474-00-01" id="26"/>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 39D <NE:ORGANIZATION:関西法律学校>
+学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 22D
++ 39D <rel type="ノ" target="大学" sid="wiki00057474-00-01" id="40"/><rel type="=構" target="学校" sid="wiki00057474-00-01" id="37"/>
+起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 23D
++ 40D <rel type="ガ" target="大学" sid="wiki00057474-00-01" id="40"/><rel type="ヲ" target="学校" sid="wiki00057474-00-01" id="37"/><rel type="ニ" target="起源" sid="wiki00057474-00-01" id="38"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="大学" sid="wiki00057474-00-01" id="1"/><rel type="=構" target="大学" sid="wiki00057474-00-01" id="1"/><rel type="修飾" target="し" sid="wiki00057474-00-01" id="22"/><rel type="修飾" mode="AND" target="持つ" sid="wiki00057474-00-01" id="39"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00057474-00-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/23 MEMO:
+* -1D
++ 1D
+文政 ぶんせい 文政 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1825年" sid="wiki00057474-00-01" id="5"/><NE:DATE:文政8年>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00057474-00-03 括弧始:（ 括弧終:） 括弧位置:40 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/23 MEMO:
+* -1D
++ 1D <NE:DATE:1794>
+1794 せんななひゃくきゅうじゅうよん 1794 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:single>
+- から - 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="カラ" target="1794" sid="wiki00057474-00-03" id="0"/><rel type="ガ" target="東畡" sid="wiki00057474-00-01" id="12"/><rel type="マデ" target="1864" sid="wiki00057474-00-03" id="1"/><NE:DATE:1864>
+1864 せんはっぴゃくろくじゅうよん 1864 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:single>
+EOS

@@ -1,0 +1,26 @@
+# S-ID:wiki00058432-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/14 MEMO:
+* 2D
++ 3D
+カロリー かろりー カロリー 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+熱量 ねつりょう 熱量 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="熱量" sid="wiki00058432-00-01" id="1"/>
+計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="カロリー" sid="wiki00058432-00-01" id="0"/><rel type="ノ" target="熱量" sid="wiki00058432-00-01" id="1"/><rel type="=構" target="カロリー" sid="wiki00058432-00-01" id="0"/><rel type="修飾" target="計量" sid="wiki00058432-00-01" id="2"/>
+単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00058432-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/14 MEMO:
+* -1D
++ 1D <rel type="ノ" target="カロリー" sid="wiki00058432-00-01" id="0"/>
+記号 きごう 記号 名詞 6 普通名詞 1 * 0 * 0 NIL
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="ガ" target="記号" sid="wiki00058432-00-02" id="0"/><rel type="=構" target="記号" sid="wiki00058432-00-02" id="0"/>
+cal かろりー cal 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

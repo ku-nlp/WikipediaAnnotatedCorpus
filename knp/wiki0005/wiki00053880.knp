@@ -1,0 +1,55 @@
+# S-ID:wiki00053880-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/03/08 MEMO:
+* 4D
++ 5D <rel type="ノ？" target="愛知県" sid="wiki00053880-00-01" id="1"/><NE:LOCATION:一宮市>
+一宮 いちのみや 一宮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:愛知県>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="愛知県" sid="wiki00053880-00-01" id="1"/>
+北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="愛知県" sid="wiki00053880-00-01" id="1"/><rel type="ノ？" target="北西" sid="wiki00053880-00-01" id="2"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ガ" target="市" sid="wiki00053880-00-01" id="5"/><rel type="ニ" target="部" sid="wiki00053880-00-01" id="3"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="一宮市" sid="wiki00053880-00-01" id="0"/><rel type="=構" target="一宮市" sid="wiki00053880-00-01" id="0"/><memo text="CO"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00053880-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/08 MEMO:
+* -1D
++ -1D <rel type="=" target="一宮市" sid="wiki00053880-00-01" id="0"/><NE:LOCATION:いちのみやし>
+いちのみや いちのみや いちのみや 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00053880-00-03 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/08 MEMO:
+* -1D
++ 1D <NE:LOCATION:尾張>
+尾張 おわり 尾張 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ノ" target="尾張" sid="wiki00053880-00-03" id="0"/><rel type="=" target="部" sid="wiki00053880-00-01" id="3"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00053880-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/03/08 MEMO:
+* 1D
++ 1D
+中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=構" target="一宮市" sid="wiki00053880-00-01" id="0"/><rel type="修飾" target="中核" sid="wiki00053880-01" id="0"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="一宮市" sid="wiki00053880-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00053880-01" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/>
+指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

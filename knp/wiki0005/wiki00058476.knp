@@ -1,0 +1,50 @@
+# S-ID:wiki00058476-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/14 MEMO:
+* 2D
++ 1D
+X えっくす X 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <NE:ORGANIZATION:X　JAPAN>
+JAPAN じゃぱん JAPAN 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 6D <rel type="=≒" target="JAPAN" sid="wiki00058476-00-01" id="1"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 4D
+ヴィジュアル ゔぃじゅある ヴィジュアル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="ヴィジュアル" sid="wiki00058476-00-01" id="3"/>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D
+ロック ろっく ロック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="JAPAN" sid="wiki00058476-00-01" id="1"/><rel type="=構" target="JAPAN" sid="wiki00058476-00-01" id="1"/><rel type="修飾" target="系" sid="wiki00058476-00-01" id="4"/><rel type="修飾" mode="AND" target="ロック" sid="wiki00058476-00-01" id="5"/><rel type="修飾" mode="AND" target="日本" sid="wiki00058476-00-01" id="2"/><memo text="CO"/>
+バンド ばんど バンド 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00058476-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/14 MEMO:
+* -1D
++ 1D <rel type="=" target="X　" sid="wiki00058476-00-01" id="0"/>
+エックス えっくす エックス 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="JAPAN" sid="wiki00058476-00-01" id="1"/><NE:ORGANIZATION:エックスジャパン>
+ジャパン じゃぱん ジャパン 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS
+# S-ID:wiki00058476-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/14 MEMO:
+* 1P
++ 1P <rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
+旧称 きゅうしょう 旧称 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="ガ" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><rel type="=構" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="=構" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><rel type="=" mode="AND" target="JAPAN" sid="wiki00058476-00-01" id="1"/><memo text="CO"/><NE:ORGANIZATION:X>
+X えっくす X 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00058476-01-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/14 MEMO:
+* -1D
++ -1D <rel type="=" target="X" sid="wiki00058476-01-01" id="2"/><NE:ORGANIZATION:エックス>
+エックス えっくす エックス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS

@@ -1,0 +1,85 @@
+# S-ID:wiki00057771-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/04/24 MEMO:
+* 4D
++ 4D <rel type="ガ" target="不特定:物"/>
+発祥 はっしょう 発祥 名詞 6 サ変名詞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 3D
+物事 ものごと 物事 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3P
++ 3P <rel type="ガ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=" target="発祥" sid="wiki00057771-00-01" id="0"/><rel type="外の関係" target="こと" sid="wiki00057771-00-01" id="4"/>
+起こり おこり 起こる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* 4D
++ 4D <rel type="ガ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=" target="発祥" sid="wiki00057771-00-01" id="0"/><rel type="外の関係" target="こと" sid="wiki00057771-00-01" id="4"/>
+始まる はじまる 始まる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="発祥" sid="wiki00057771-00-01" id="0"/><rel type="=構" target="発祥" sid="wiki00057771-00-01" id="0"/><rel type="トイウ" target="起こり" sid="wiki00057771-00-01" id="2"/><rel type="トイウ" mode="AND" target="始まる" sid="wiki00057771-00-01" id="3"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00057771-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/24 MEMO:
+* -1D
++ -1D <rel type="=" target="発祥" sid="wiki00057771-00-01" id="0"/>
+はっしょう はっしょう はっしょう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00057771-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/24 MEMO:
+* 1D
++ 1D <rel type="ガ" target="ニュアンス" sid="wiki00057771-01-01" id="1"/><rel type="ト" target="発祥" sid="wiki00057771-00-01" id="0"/>
+同様の どうようの 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 2D
++ 2D <rel type="トイウ" target="こと" sid="wiki00057771-00-01" id="4"/>
+ニュアンス にゅあんす ニュアンス 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ガ" target="言葉" sid="wiki00057771-01-01" id="3"/><rel type="ヲ" target="ニュアンス" sid="wiki00057771-01-01" id="1"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+* 4D
++ 4D
+言葉 ことば 言葉 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 12D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 6P
++ 6P <rel type="ノ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7P
++ 7P <rel type="ノ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+ルーツ るーつ ルーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 8P <rel type="ノ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+原点 げんてん 原点 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9P
++ 9P <rel type="ノ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+源流 げんりゅう 源流 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10P
++ 10P <rel type="ニ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="ガ" target="不特定:状況"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 11P
++ 11P <rel type="ノ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+元祖 がんそ 元祖 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 12D
++ 12D <rel type="ガ" target="物事" sid="wiki00057771-00-01" id="1"/><rel type="=構" target="言葉" sid="wiki00057771-01-01" id="3"/>
+誕生 たんじょう 誕生 名詞 6 サ変名詞 2 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="トシテ" target="言葉" sid="wiki00057771-01-01" id="3"/><rel type="ガ" target="起源" sid="wiki00057771-01-01" id="5"/><rel type="ガ" mode="AND" target="ルーツ" sid="wiki00057771-01-01" id="6"/><rel type="ガ" mode="AND" target="原点" sid="wiki00057771-01-01" id="7"/><rel type="ガ" mode="AND" target="源流" sid="wiki00057771-01-01" id="8"/><rel type="ガ" mode="AND" target="由来" sid="wiki00057771-01-01" id="9"/><rel type="ガ" mode="AND" target="元祖" sid="wiki00057771-01-01" id="10"/><rel type="ガ" mode="AND" target="誕生など" sid="wiki00057771-01-01" id="11"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00057771-01-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/24 MEMO:
+* -1D
++ -1D <rel type="=" target="起源" sid="wiki00057771-01-01" id="5"/>
+起原 きげん 起原 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

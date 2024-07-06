@@ -46,7 +46,8 @@ def main():
     row.extend(sum(row[i] for row in data) for i in range(1, len(HEADERS)))
     data.append(row)
 
-    print(tabulate(data, headers=HEADERS, tablefmt="github", intfmt=","))
+    headers = [header.replace("_", " ").capitalize() for header in HEADERS]
+    print(tabulate(data, headers=headers, tablefmt="github", intfmt=","))
 
 
 if __name__ == "__main__":

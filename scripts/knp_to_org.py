@@ -6,7 +6,7 @@ KNP_DIR = Path("knp")
 ORG_DIR = Path("org")
 
 
-def main():
+def main() -> None:
     for path in KNP_DIR.glob("**/*.knp"):
         document = Document.from_knp(path.read_text())
         output_path: Path = ORG_DIR.joinpath(path.relative_to(KNP_DIR)).with_suffix(".org")

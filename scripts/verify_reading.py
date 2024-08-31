@@ -65,7 +65,7 @@ def verify_morpheme_reading(morpheme: Morpheme, reading: str) -> None:
         print(f"{reading} ({morpheme.sentence.sid})")
 
 
-def main():
+def main() -> None:
     for path in sorted(list_files(sys.argv[1:])):
         document = Document.from_knp(path.read_text())
         for morpheme in document.morphemes:

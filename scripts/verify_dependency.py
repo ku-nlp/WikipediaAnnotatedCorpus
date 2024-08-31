@@ -9,7 +9,7 @@ logging.getLogger("rhoknp").setLevel(logging.ERROR)
 logger = logging.getLogger(__name__)
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("paths", type=str, nargs="+", help="paths to knp files or directories")
     args = parser.parse_args()

@@ -33,17 +33,17 @@ def calc_stats(documents: list[Document]) -> dict[str, int]:
     return stats
 
 
-def main():
+def main() -> None:
     data = []
     for split in ("train", "dev", "test"):
-        row = [split]
+        row: list[str | int] = [split]
         ids = [line.strip() for line in ID_DIR.joinpath(f"{split}.id").read_text().splitlines()]
         documents = [Document.from_knp(KNP_DIR.joinpath(f"{doc_id[:8]}/{doc_id}.knp").read_text()) for doc_id in ids]
         stats = calc_stats(documents)
         row.extend(stats[key] for key in HEADERS[1:])
         data.append(row)
     row = ["total"]
-    row.extend(sum(row[i] for row in data) for i in range(1, len(HEADERS)))
+    row.extend(sum(row[i] for row in data) for i in range(1, len(HEADERS)))  # type: ignore[misc]
     data.append(row)
 
     headers = [header.replace("_", " ").capitalize() for header in HEADERS]

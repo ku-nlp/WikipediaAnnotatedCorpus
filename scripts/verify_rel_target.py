@@ -1,6 +1,7 @@
 import argparse
 import dataclasses
 from enum import Enum
+from pathlib import Path
 
 from rhoknp import BasePhrase, Document, Morpheme
 from rhoknp.cohesion import RelTag
@@ -14,7 +15,7 @@ class ErrorType(Enum):
     INDEX_OUT_OF_RANGE = "index_out_of_range"
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("paths", type=str, nargs="+", help="paths to knp files or directories")
     parser.add_argument("--modify", action="store_true", help="modify rel tag errors")
@@ -44,7 +45,7 @@ def main():
             path.write_text(document.to_knp())
     for error_type, data in error_type_to_data.items():
         # write error to csv files
-        with open(f"{error_type.value}.csv", "w") as f:
+        with Path(f"{error_type.value}.csv").open(mode="w") as f:
             f.write("文書ID,文ID,基本句,格,ターゲット\n")
             for row in data:
                 f.write(",".join(str(item) for item in row) + "\n")
@@ -117,11 +118,10 @@ def is_weak_suffix(morpheme: Morpheme) -> bool:
     )
     if morpheme.pos != "接尾辞":
         return False
-    return (
-        morpheme.text not in strong_suffixes
-        and morpheme.subpos != "名詞性名詞助数辞"
-        and morpheme.subpos != "形容詞性述語接尾辞"
-        and morpheme.subpos != "動詞性接尾辞"
+    return morpheme.text not in strong_suffixes and morpheme.subpos not in (
+        "名詞性名詞助数辞",
+        "形容詞性述語接尾辞",
+        "動詞性接尾辞",
     )
 
 

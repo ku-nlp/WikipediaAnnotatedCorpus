@@ -16,8 +16,6 @@ jobs:
           python-version: "3.10"
       - name: Install uv
         run: pipx install uv
-#      - name: Add path for Python packages
-#        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
       - name: Export requirements.txt
         run: uv export > requirements.txt
       - name: Commit and push changes

@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - "pyproject.toml"
-      - "poetry.lock"
+      - "uv.lock"
 
 jobs:
   generate-requirements:
@@ -14,14 +14,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.10"
-      - name: Install Poetry and poetry-plugin-export
-        run: |
-          pipx install poetry
-          pipx inject poetry poetry-plugin-export
-      - name: Add path for Python packages
-        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
+      - name: Install uv
+        run: pipx install uv
+#      - name: Add path for Python packages
+#        run: echo "$HOME/.local/bin" >> $GITHUB_PATH
       - name: Export requirements.txt
-        run: poetry export --without-hashes --without-urls -o requirements.txt
+        run: uv export > requirements.txt
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

@@ -10,8 +10,7 @@
 - Create a virtual environment and install dependencies.
 
     ```shell
-    poetry env use /path/to/python
-    poetry install
+    uv sync
     ```
 
 ## Adding new documents

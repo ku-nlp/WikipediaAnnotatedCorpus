@@ -17,7 +17,7 @@ jobs:
       - name: Install uv
         run: pipx install uv
       - name: Export requirements.txt
-        run: uv export > requirements.txt
+        run: uv export --no-hashes > requirements.txt
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

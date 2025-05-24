@@ -1,0 +1,69 @@
+# S-ID:wiki00035926-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/05/09 MEMO:
+* 1P
++ 1D
+双 そう 双 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="双" sid="wiki00035926-00-01" id="0"/>
+子葉 しよう 子葉 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="修飾" target="子葉" sid="wiki00035926-00-01" id="1"/>
+植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 4D <rel type="=" target="双" sid="wiki00035926-00-01" id="0"/>
+双 そう 双 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=" target="子葉" sid="wiki00035926-00-01" id="1"/>
+子葉 しよう 子葉 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="植物" sid="wiki00035926-00-01" id="2"/>
+植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="植物" sid="wiki00035926-00-01" id="5"/><rel type="=" target="植物" sid="wiki00035926-00-01" id="2"/>
+綱 こう 綱 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 10D <rel type="ノ" target="葉" sid="wiki00035926-00-01" id="9"/><rel type="=" target="双" sid="wiki00035926-00-01" id="0"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
+枚 まい 枚 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4P
++ 9D
+初期 しょき 初期 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 10P <rel type="=構" target="2枚" sid="wiki00035926-00-01" id="7"/><rel type="修飾" target="2枚" sid="wiki00035926-00-01" id="7"/><rel type="修飾" mode="AND" target="初期" sid="wiki00035926-00-01" id="8"/>
+葉 よう 葉 名詞 6 普通名詞 1 * 0 * 0 NIL
+もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 11D <rel type="=構" target="2枚" sid="wiki00035926-00-01" id="7"/><rel type="修飾" target="2枚" sid="wiki00035926-00-01" id="7"/>
+子葉 しよう 子葉 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 12D <rel type="ガ" target="植物" sid="wiki00035926-00-01" id="12"/><rel type="ヲ" target="葉" sid="wiki00035926-00-01" id="9"/><rel type="ヲ" mode="OR" target="子葉" sid="wiki00035926-00-01" id="10"/>
+もつ もつ もつ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+* 7D
++ 13D <rel type="=構" target="植物" sid="wiki00035926-00-01" id="2"/><rel type="修飾" target="もつ" sid="wiki00035926-00-01" id="11"/>
+植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="植物" sid="wiki00035926-00-01" id="12"/><rel type="ガ" target="植物" sid="wiki00035926-00-01" id="2"/><rel type="=構" target="植物" sid="wiki00035926-00-01" id="2"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00035926-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/29 MEMO:
+* -1D
++ 1D <rel type="=" target="双" sid="wiki00035926-00-01" id="0"/>
+そう そう そう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="子葉" sid="wiki00035926-00-01" id="1"/>
+しよう しよう しよう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="植物" sid="wiki00035926-00-01" id="2"/>
+しょくぶつ しょくぶつ しょくぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00035926-00-03 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/09 MEMO:
+* -1D
++ 1D <rel type="=" target="双" sid="wiki00035926-00-01" id="3"/>
+そう そう そう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="子葉" sid="wiki00035926-00-01" id="4"/>
+しよう しよう しよう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="植物" sid="wiki00035926-00-01" id="5"/>
+しょくぶつ しょくぶつ しょくぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="綱" sid="wiki00035926-00-01" id="6"/>
+こう こう こう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

@@ -1,0 +1,549 @@
+# S-ID:wiki00039083-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2025/05/16 MEMO:
+* 5D
++ 6D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><NE:LOCATION:ミネソタ州>
+ミネソタ みねそた ミネソタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/>
+中西部 ちゅうせいぶ 中西部 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4P
++ 5P <rel type="ノ" target="中西部" sid="wiki00039083-00" id="2"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D <NE:LOCATION:カナダ>
+カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="州" sid="wiki00039083-00" id="7"/><rel type="ニ" target="カナダ" sid="wiki00039083-00" id="5"/>
+接する せっする 接する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="=構" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="修飾" target="接する" sid="wiki00039083-00" id="6"/><rel type="修飾" mode="AND" target="北" sid="wiki00039083-00" id="4"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:4.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 1D <rel type="=" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <rel type="ノ" target="アメリカ合衆国" sid="wiki00039083-01" id="0"/><rel type="=≒" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+50 ごじっ/ごじゅっ 50 名詞 6 数詞 7 * 0 * 0 NIL
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ノ" target="50州" sid="wiki00039083-01" id="1"/>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3I
++ 4D
+陸地 りくち 陸地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5I <rel type="修飾" target="陸地" sid="wiki00039083-01" id="3"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5P
++ 7P <rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="デ" target="面積" sid="wiki00039083-01" id="4"/><rel type="=構" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="ノ" target="50州" sid="wiki00039083-01" id="1"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5I
++ 7I
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="デ" target="人口" sid="wiki00039083-01" id="6"/><rel type="=構" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="ノ" target="50州" sid="wiki00039083-01" id="1"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+21 にじゅういち 21 名詞 6 数詞 7 * 0 * 0 NIL
+位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 3D <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 3D <rel type="=" target="ミネソタ" sid="wiki00039083-00" id="0"/>
+ミネソタ みねそた ミネソタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D
+準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 10D <rel type="=構" target="前身" sid="wiki00039083-02" id="0"/><rel type="修飾" target="前身" sid="wiki00039083-02" id="0"/><rel type="修飾" mode="AND" target="準" sid="wiki00039083-02" id="2"/><NE:LOCATION:ミネソタ準州>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 5D
+1858 せんはっぴゃくごじゅうはち 1858 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <NE:DATE:1858年5月11日>
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 8D <rel type="=" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><NE:OPTIONAL:合衆国><NE-OPTIONAL:LOCATION,NONE:0>
+合衆国 がっしゅうこく 合衆国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9D <rel type="ノ" target="合衆国" sid="wiki00039083-02" id="7"/>
+32 さんじゅうに 32 名詞 6 数詞 7 * 0 * 0 NIL
+番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 10D <rel type="修飾" target="32番" sid="wiki00039083-02" id="8"/><rel type="ノ" target="合衆国" sid="wiki00039083-02" id="7"/><rel type="=≒" target="50州" sid="wiki00039083-01" id="1"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="カラ" target="州" sid="wiki00039083-02" id="3"/><rel type="ニ" target="州" sid="wiki00039083-02" id="9"/>
+昇格 しょうかく 昇格 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:149.00000 WARNING:Cannot detect consistent CS scopes MOD:2025/05/16 MEMO:
+* 1I
++ 1I <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=" target="カナダ" sid="wiki00039083-00" id="5"/><rel type="デ" target="北部" sid="wiki00039083-03" id="0"/><rel type="ニ" target="カナダ" sid="wiki00039083-03" id="1"/><rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><NE:LOCATION:カナダ>
+カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3I
++ 3I <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 6D <rel type="デ" target="東" sid="wiki00039083-03" id="2"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="ニ" target="ウィスコンシン州" sid="wiki00039083-03" id="3"/><NE:LOCATION:ウィスコンシン州>
+ウィスコンシン うぃすこんしん ウィスコンシン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6I
++ 6I <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6P
++ 6P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><NE:LOCATION:ノースダコタ州>
+ノースダコタ のーすだこた ノースダコタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 8P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="デ" target="西" sid="wiki00039083-03" id="4"/><rel type="ニ" target="ノースダコタ州" sid="wiki00039083-03" id="5"/><rel type="ニ" mode="AND" target="サウスダコタ州" sid="wiki00039083-03" id="6"/><NE:LOCATION:サウスダコタ州>
+サウスダコタ さうすだこた サウスダコタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8I
++ 8I <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9D
++ 9D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><NE:LOCATION:アイオワ州>
+アイオワ あいおわ アイオワ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="デ" target="南" sid="wiki00039083-03" id="7"/><rel type="ニ" target="アイオワ州" sid="wiki00039083-03" id="8"/><rel type="=≒" target="接する" sid="wiki00039083-00" id="6"/>
+接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:147.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 2D <rel type="=" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 2D <rel type="ノ" target="州" sid="wiki00039083-04" id="0"/>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="州" sid="wiki00039083-04" id="0"/><rel type="ノ？" target="北東" sid="wiki00039083-04" id="1"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 4D
+スペリオル すぺりおる スペリオル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:スペリオル湖>
+湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12P
++ 20P <rel type="ニ" target="湖" sid="wiki00039083-04" id="4"/><rel type="デ" target="部" sid="wiki00039083-04" id="2"/><rel type="ガ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 7D
+ミシシッピ みししっぴ ミシシッピ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 13D <NE:LOCATION:ミシシッピ川>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 10D <rel type="=" target="州" sid="wiki00039083-04" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="州" sid="wiki00039083-04" id="8"/>
+北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ノ" target="州" sid="wiki00039083-04" id="8"/><rel type="ノ？" target="北西" sid="wiki00039083-04" id="9"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 12D <rel type="ノ" target="州" sid="wiki00039083-04" id="8"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="川" sid="wiki00039083-04" id="7"/><rel type="ニ" target="南東" sid="wiki00039083-04" id="11"/><rel type="カラ" target="部" sid="wiki00039083-04" id="10"/>
+向かって むかって 向かう 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL
+* 12P
++ 20P <rel type="ガ" target="川" sid="wiki00039083-04" id="7"/><rel type="ニムケテ" target="南東" sid="wiki00039083-04" id="11"/><rel type="カラ" target="部" sid="wiki00039083-04" id="10"/>
+流れ ながれ 流れる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 12D
++ 16D <rel type="=" target="州" sid="wiki00039083-04" id="8"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ノ" target="州" sid="wiki00039083-04" id="14"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ノ" target="州" sid="wiki00039083-04" id="14"/><rel type="ノ？" target="南東" sid="wiki00039083-04" id="15"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 11D
++ 19D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00039083-00" id="1"/><rel type="=" target="ウィスコンシン州" sid="wiki00039083-03" id="3"/><NE:LOCATION:ウィスコンシン州>
+ウィスコンシン うぃすこんしん ウィスコンシン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12D
++ 19D <rel type="=≒" target="州" sid="wiki00039083-04" id="14"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ト" target="ウィスコンシン州" sid="wiki00039083-04" id="17"/><rel type="ノ" target="州" sid="wiki00039083-04" id="18"/><rel type="ノ" mode="AND" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+境 きょう/ざかい 境 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="デ" target="部" sid="wiki00039083-04" id="16"/><rel type="ヲ" target="境" sid="wiki00039083-04" id="19"/><rel type="ガ" target="川" sid="wiki00039083-04" id="7"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2025/05/16 MEMO:
+* 11D
++ 18D <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:DATE:1807年>
+1807 せんはっぴゃくなな/せんはっぴゃくしち 1807 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ニ" target="不特定:人"/><rel type="時間" target="1807年" sid="wiki00039083-05" id="1"/><rel type="ガ" target="砦" sid="wiki00039083-05" id="5"/>
+築か きずか 築く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 4P
++ 4D <memo text="砦"/>
+フォート ふぉーと フォート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 5D
+スネリング すねりんぐ スネリング 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8P <memo text="Arakawa river と同様"/><NE:ARTIFACT:フォート・スネリング砦>
+砦 とりで 砦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D
+カセドラル かせどらる カセドラル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D
+オブ おぶ オブ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 12D <memo text="Saint Paul 品詞について、ここでは分割して人名にすべきか。"/><NE:ARTIFACT:カセドラル・オブ・セントポール>
+セントポール せんとぽーる セントポール 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:tail>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 10D
+歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="歴史" sid="wiki00039083-05" id="9"/><rel type="ニ" target="物" sid="wiki00039083-05" id="12"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 9P
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00039083-05" id="12"/>
+建造 けんぞう 建造 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16P <rel type="ノ？" target="建造" sid="wiki00039083-05" id="11"/><rel type="=≒" target="砦" sid="wiki00039083-05" id="5"/><rel type="=≒" mode="AND" target="セントポール" sid="wiki00039083-05" id="8"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 15D <rel type="ガ" target="調" sid="wiki00039083-05" id="15"/><memo text="係り先、建物？"/>
+荘厳な そうごんな 荘厳だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 9D
++ 15D <NE:OPTIONAL:ビクトリア><NE-OPTIONAL:PERSON,DATE,NONE:0>
+ビクトリア びくとりあ ビクトリア 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 16D <rel type="ノ" target="ビクトリア" sid="wiki00039083-05" id="14"/><rel type="修飾" target="荘厳な" sid="wiki00039083-05" id="13"/>
+調 ちょう 調 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10D
++ 17D <rel type="修飾" target="調" sid="wiki00039083-05" id="15"/><rel type="=≒" target="セントポール" sid="wiki00039083-05" id="8"/>
+建物 たてもの 建物 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 18D <rel type="ガ" target="建物" sid="wiki00039083-05" id="16"/><rel type="ガ" mode="AND" target="物" sid="wiki00039083-05" id="12"/><rel type="ニ" target="セントポール市" sid="wiki00039083-05" id="18"/>
+残る のこる 残る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="州都" sid="wiki00039083-05" id="0"/><rel type="ノ？" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="=構" target="州都" sid="wiki00039083-05" id="0"/><rel type="=≒" mode="AND" target="セントポール" sid="wiki00039083-05" id="8"/><NE:LOCATION:セントポール市>
+セントポール せんとぽーる セントポール 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-06-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 1D <rel type="=" target="ミシシッピ" sid="wiki00039083-04" id="6"/>
+ミシシッピ みししっぴ ミシシッピ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="川" sid="wiki00039083-04" id="7"/><NE:LOCATION:ミシシッピ川>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ヲ" target="川" sid="wiki00039083-06-01" id="1"/><rel type="ガ" target="隣市" sid="wiki00039083-06-01" id="3"/>
+挟んだ はさんだ 挟む 動詞 2 * 0 子音動詞マ行 9 タ形 10 NIL
+* 6D
++ 9D <rel type="ガ" target="ミネアポリス市" sid="wiki00039083-06-01" id="9"/><rel type="修飾" target="挟んだ" sid="wiki00039083-06-01" id="2"/><rel type="ノ" target="セントポール市" sid="wiki00039083-05" id="18"/>
+隣市 りんし 隣市 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D
+高層 こうそう 高層 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="高層" sid="wiki00039083-06-01" id="4"/>
+ビル びる ビル 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 8D <rel type="ガ" target="ビル" sid="wiki00039083-06-01" id="5"/><rel type="外の関係" target="都市" sid="wiki00039083-06-01" id="8"/>
+建ち たち 建つ 動詞 2 * 0 子音動詞タ行 6 基本連用形 8 NIL
+並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+* 6D
++ 8D <NE:DATE:近代>
+近代 きんだい 近代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:single>
++ 9D <rel type="修飾" target="建ち並ぶ" sid="wiki00039083-06-01" id="6"/><rel type="時間" target="近代" sid="wiki00039083-06-01" id="7"/><rel type="ガ" target="ミネアポリス市" sid="wiki00039083-06-01" id="9"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 7D
++ 10D <rel type="=構" target="隣市" sid="wiki00039083-06-01" id="3"/><rel type="=構" mode="AND" target="都市" sid="wiki00039083-06-01" id="8"/><rel type="ノ？" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="修飾" target="都市" sid="wiki00039083-06-01" id="8"/><NE:LOCATION:ミネアポリス市>
+ミネアポリス みねあぽりす ミネアポリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="セントポール市" sid="wiki00039083-05" id="18"/><rel type="ト" target="ミネアポリス市" sid="wiki00039083-06-01" id="9"/>
+合わせて あわせて 合わせる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 9D
++ 12D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+ツイン ついん ツイン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 13D <rel type="修飾" target="ツイン" sid="wiki00039083-06-01" id="11"/><rel type="=構≒" target="ミネアポリス市" sid="wiki00039083-06-01" id="9"/><rel type="=構≒" mode="AND" target="セントポール市" sid="wiki00039083-05" id="18"/><memo text="SE"/><NE:OPTIONAL:ツインシティーズ><NE-OPTIONAL:LOCATION,NONE:0>
+シティーズ してぃーず シティーズ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="セントポール市" sid="wiki00039083-05" id="18"/><rel type="ガ" mode="AND" target="ミネアポリス市" sid="wiki00039083-06-01" id="9"/><rel type="ト" target="シティーズ" sid="wiki00039083-06-01" id="12"/><rel type="ニ" target="不特定:人"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-06-02 括弧始:（ 括弧終:） 括弧位置:53 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/10/18 MEMO:
+* 1D
++ 1D <rel type="=" target="ツイン" sid="wiki00039083-06-01" id="11"/>
+双子 ふたご 双子 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="シティーズ" sid="wiki00039083-06-01" id="12"/><rel type="修飾" target="双子" sid="wiki00039083-06-02" id="0"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-07 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 1D <rel type="=" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="州" sid="wiki00039083-07" id="0"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ノ" target="人口" sid="wiki00039083-07" id="1"/><NE:PERCENT:60％>
+60 ろくじっ/ろくじゅっ 60 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
+％ ぱーせんと ％ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
+近く ちかく 近く 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 4D
++ 5D
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="都市" sid="wiki00039083-07" id="4"/><rel type="=≒" target="シティーズ" sid="wiki00039083-06-01" id="12"/>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 12D <rel type="ガ" target="60％近く" sid="wiki00039083-07" id="2"/><rel type="ニ" target="圏" sid="wiki00039083-07" id="5"/>
+住んで すんで 住む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
+おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 8P
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7P
++ 9P
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 10P
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9P
++ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 12D
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="シティーズ" sid="wiki00039083-06-01" id="12"/><rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="ノ？" target="交通" sid="wiki00039083-07" id="7"/><rel type="ノ？" mode="AND" target="事業" sid="wiki00039083-07" id="8"/><rel type="ノ？" mode="AND" target="工業" sid="wiki00039083-07" id="9"/><rel type="ノ？" mode="AND" target="教育" sid="wiki00039083-07" id="10"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00039083-07" id="11"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-08 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:120.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 1D <rel type="=" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="州" sid="wiki00039083-08" id="0"/>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="プレーリー" sid="wiki00039083-08" id="3"/><rel type="ニ" target="西部" sid="wiki00039083-08" id="1"/>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+* 4D
++ 6D
+プレーリー ぷれーりー プレーリー 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 5D
+農業 のうぎょう 農業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="農業" sid="wiki00039083-08" id="4"/>
+用地 ようち 用地 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10P
++ 15P <rel type="ガ" target="プレーリー" sid="wiki00039083-08" id="3"/><rel type="ニ" target="用地" sid="wiki00039083-08" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/>
+変え かえ 変える 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られ られ られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ノ" target="州" sid="wiki00039083-08" id="0"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="州" sid="wiki00039083-08" id="0"/><rel type="ノ？" target="南東" sid="wiki00039083-08" id="7"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 12D <rel type="ニ" target="部" sid="wiki00039083-08" id="8"/><rel type="ガ" target="林" sid="wiki00039083-08" id="12"/>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+* 8D
++ 11D <rel type="ガ" target="樹" sid="wiki00039083-08" id="11"/>
+落葉 らくよう 落葉 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="修飾" target="落葉" sid="wiki00039083-08" id="10"/>
+樹 じゅ 樹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="樹" sid="wiki00039083-08" id="11"/>
+林 りん 林 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 10P
++ 15P <rel type="ニ" target="不特定:人"/><rel type="ガ" target="林" sid="wiki00039083-08" id="12"/>
+伐採 ばっさい 伐採 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+* 10D
++ 15D <rel type="=" target="農業" sid="wiki00039083-08" id="4"/>
+農業 のうぎょう 農業 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="農業" sid="wiki00039083-08" id="13"/><rel type="ニ" mode="AND" target="不特定:人"/><rel type="ガ" target="林" sid="wiki00039083-08" id="12"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-09 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 1D
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 4D <rel type="ガ" target="人口" sid="wiki00039083-09" id="0"/><rel type="ガ２" target="地帯" sid="wiki00039083-09" id="4"/>
+少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+* 6D
++ 4D <rel type="ノ" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D
+森林 しんりん 森林 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="ミネソタ州" sid="wiki00039083-00" id="0"/><rel type="修飾" target="北部" sid="wiki00039083-09" id="2"/><rel type="修飾" mode="AND" target="森林" sid="wiki00039083-09" id="3"/>
+地帯 ちたい 地帯 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4P
++ 6P
+鉱業 こうぎょう 鉱業 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 7P
+林業 りんぎょう 林業 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 8D
+レクリエーション れくりえーしょん レクリエーション 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="地帯" sid="wiki00039083-09" id="4"/><rel type="ニ" target="鉱業" sid="wiki00039083-09" id="5"/><rel type="ニ" mode="AND" target="林業" sid="wiki00039083-09" id="6"/><rel type="ニ" mode="AND" target="レクリエーション" sid="wiki00039083-09" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039083-10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/16 MEMO:
+* 5D
++ 8D <rel type="=" target="ミネソタ州" sid="wiki00039083-00" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+自体 じたい 自体 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ガ" target="自然" sid="wiki00039083-10" id="2"/>
+豊かな ゆたかな 豊かだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 3D
++ 3D <rel type="修飾" target="豊かな" sid="wiki00039083-10" id="1"/>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 8D <rel type="ガ" target="地" sid="wiki00039083-10" id="8"/><rel type="ニ" target="自然" sid="wiki00039083-10" id="2"/>
+恵ま めぐま 恵む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 5D
++ 5D
+全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="全" sid="wiki00039083-10" id="4"/><rel type="=" target="アメリカ合衆国" sid="wiki00039083-01" id="0"/><NE:LOCATION:米>
+米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <rel type="デ" target="米" sid="wiki00039083-10" id="5"/>
+有数 ゆうすう 有数 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 8D <rel type="ガ" target="地" sid="wiki00039083-10" id="8"/>
+寒冷 かんれい 寒冷だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ -1D <rel type="ガ" target="州" sid="wiki00039083-10" id="0"/><rel type="=構" target="州" sid="wiki00039083-10" id="0"/><rel type="修飾" target="有数" sid="wiki00039083-10" id="6"/><rel type="修飾" mode="AND" target="恵まれた" sid="wiki00039083-10" id="3"/><rel type="修飾" mode="AND" target="寒冷" sid="wiki00039083-10" id="7"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

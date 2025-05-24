@@ -1,0 +1,248 @@
+# S-ID:wiki00033793-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2025/04/30 MEMO:
+* 6D
++ 1D <NE:LOCATION:スペイン>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="ノ？" target="スペイン" sid="wiki00033793-00-01" id="0"/>
+内戦 ないせん 内戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3P <NE:DATE:1936年>
+1936 せんきゅうひゃくさんじゅうろく 1936 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <NE:DATE:1939年>
+1939 せんきゅうひゃくさんじゅうきゅう/せんきゅうひゃくさんじゅうく 1939 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ？" target="共和" sid="wiki00033793-00-01" id="5"/><rel type="修飾" target="第二" sid="wiki00033793-00-01" id="4"/>
+政 せい 政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ？" target="政" sid="wiki00033793-00-01" id="6"/>
+期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 9D <rel type="=" target="スペイン" sid="wiki00033793-00-01" id="0"/><rel type="時間" target="期" sid="wiki00033793-00-01" id="7"/><NE:LOCATION:スペイン>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ガ" target="内戦" sid="wiki00033793-00-01" id="10"/><rel type="カラ" target="1936年" sid="wiki00033793-00-01" id="2"/><rel type="マデ" target="1939年" sid="wiki00033793-00-01" id="3"/><rel type="デ" target="スペイン" sid="wiki00033793-00-01" id="8"/>
+発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="内戦" sid="wiki00033793-00-01" id="1"/><rel type="=構" target="内戦" sid="wiki00033793-00-01" id="1"/><rel type="修飾" target="発生した" sid="wiki00033793-00-01" id="9"/><memo text="CO"/>
+内戦 ないせん 内戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033793-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/30 MEMO:
+* 2D
++ 1D <rel type="=" target="スペイン" sid="wiki00033793-00-01" id="0"/><NE:LOCATION:スペイン>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 10D <rel type="=" target="内戦" sid="wiki00033793-00-01" id="1"/>
+ないせん ないせん ないせん 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3D <NE:OPTIONAL:スペイン><NE-OPTIONAL:LOCATION,NONE:0>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 6D <rel type="ノ？" target="スペイン" sid="wiki00033793-00-02" id="2"/><rel type="ノ" target="内戦" sid="wiki00033793-00-01" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 5D
+Guerra Guerra Guerra 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 6D
+Civil Civil Civil 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 10P <rel type="デ" target="語" sid="wiki00033793-00-02" id="3"/><rel type="=構" target="語" sid="wiki00033793-00-02" id="3"/><rel type="=" mode="AND" target="内戦" sid="wiki00033793-00-01" id="1"/>
+Española Española Española 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 10D <rel type="ノ" target="内戦" sid="wiki00033793-00-01" id="1"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 10D
+Spanish Spanish Spanish 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 10D
+Civil Civil Civil 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="英語" sid="wiki00033793-00-02" id="7"/><rel type="=構" target="英語" sid="wiki00033793-00-02" id="7"/><rel type="=" mode="AND" target="内戦" sid="wiki00033793-00-01" id="1"/>
+War War War 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033793-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/04/30 MEMO:
+* 1D
++ 1D
+マヌエル まぬえる マヌエル 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <NE:PERSON:マヌエル・アサーニャ>
+アサーニャ あさーにゃ アサーニャ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+* 3D
++ 6D <rel type="ガ" target="アサーニャ" sid="wiki00033793-01-01" id="1"/><rel type="ヲ" target="政府" sid="wiki00033793-01-01" id="6"/>
+率いる ひきいる 率いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 3D
++ 6D
+左派 さは 左派 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8P
++ 5D
+人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D <NE:ORGANIZATION:人民戦線>
+戦線 せんせん 戦線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 13P <rel type="=構" target="左派" sid="wiki00033793-01-01" id="3"/><rel type="修飾" target="左派" sid="wiki00033793-01-01" id="3"/><rel type="修飾" mode="AND" target="戦線" sid="wiki00033793-01-01" id="5"/>
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 8D
+フランシスコ ふらんしすこ フランシスコ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 10D <NE:PERSON:フランシスコ・フランコ>
+フランコ ふらんこ フランコ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ノ" target="軍" sid="wiki00033793-01-01" id="13"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="軍" sid="wiki00033793-01-01" id="13"/><rel type="ヲ" target="フランコ" sid="wiki00033793-01-01" id="8"/><rel type="ト" target="中心" sid="wiki00033793-01-01" id="9"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 8D
++ 13D
+右派 うは 右派 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="政府" sid="wiki00033793-01-01" id="6"/>
+反乱 はんらん 反乱 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="=構" target="右派" sid="wiki00033793-01-01" id="11"/><rel type="修飾" target="右派" sid="wiki00033793-01-01" id="11"/><rel type="修飾" mode="AND" target="反乱" sid="wiki00033793-01-01" id="12"/>
+軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 接続助詞 3 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="政府" sid="wiki00033793-01-01" id="6"/><rel type="ガ" mode="AND" target="軍" sid="wiki00033793-01-01" id="13"/><rel type="デ" target="内戦" sid="wiki00033793-00-01" id="1"/><memo text="並列だと思うので、あえてガ格に二つ入れた。"/>
+争った あらそった 争う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033793-01-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/30 MEMO:
+* 1P
++ 1D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4P <rel type="=" target="政府" sid="wiki00033793-01-01" id="6"/><rel type="ノ" target="国" sid="wiki00033793-01-02" id="1"/><NE:ORGANIZATION:共和国派>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 4D
+ロイヤリスト ろいやりすと ロイヤリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="政府" sid="wiki00033793-01-01" id="6"/><rel type="ノ" target="ロイヤリスト" sid="wiki00033793-01-02" id="3"/><NE:ORGANIZATION:ロイヤリスト派>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS
+# S-ID:wiki00033793-01-03 括弧始:（ 括弧終:） 括弧位置:61 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/07/17 MEMO:
+* -1D
++ 1D
+ナショナリスト なしょなりすと ナショナリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="軍" sid="wiki00033793-01-01" id="13"/><rel type="ノ" target="ナショナリスト" sid="wiki00033793-01-03" id="0"/><NE:ORGANIZATION:ナショナリスト派>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+EOS
+# S-ID:wiki00033793-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/04/30 MEMO:
+* 1D
++ 1D <rel type="ニ" target="ファシズム" sid="wiki00033793-02" id="1"/>
+反 はん 反 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="反" sid="wiki00033793-02" id="0"/>
+ファシズム ふぁしずむ ファシズム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ファシズム" sid="wiki00033793-02" id="1"/><rel type="ガ" target="戦線" sid="wiki00033793-02" id="4"/>
+陣営 じんえい 陣営 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 4D
++ 4D <rel type="=" target="人民" sid="wiki00033793-01-01" id="4"/>
+人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 8D <rel type="=" target="戦線" sid="wiki00033793-01-01" id="5"/><rel type="=構" mode="AND" target="陣営" sid="wiki00033793-02" id="2"/><NE:ORGANIZATION:人民戦線>
+戦線 せんせん 戦線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3P
++ 6D
+ソビエト そびえと ソビエト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7P <NE:LOCATION:ソビエト連邦>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 8D <NE:LOCATION:メキシコ>
+メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9P
++ 18P <rel type="ガ" target="連邦" sid="wiki00033793-02" id="6"/><rel type="ガ" mode="AND" target="メキシコ" sid="wiki00033793-02" id="7"/><rel type="ヲ" target="戦線" sid="wiki00033793-02" id="4"/>
+支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 10P <NE:LOCATION:欧>
+欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <NE:LOCATION:米>
+米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13P <rel type="ノ？" target="欧" sid="wiki00033793-02" id="9"/><rel type="ノ？" mode="AND" target="米" sid="wiki00033793-02" id="10"/>
+市民 しみん 市民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D
+知識 ちしき 知識 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ノ？" target="欧" sid="wiki00033793-02" id="9"/><rel type="ノ？" mode="AND" target="米" sid="wiki00033793-02" id="10"/><rel type="ノ？" mode="AND" target="知識" sid="wiki00033793-02" id="12"/>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
+ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9D
++ 18D
+数多く かずおおく 数多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+* 8D
++ 16D
+義勇 ぎゆう 義勇 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="=構≒" target="市民" sid="wiki00033793-02" id="11"/><rel type="=構≒" mode="AND" target="人ら" sid="wiki00033793-02" id="13"/><rel type="修飾" target="義勇" sid="wiki00033793-02" id="15"/>
+軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 18D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 16P
++ 28P <rel type="ガ" target="市民" sid="wiki00033793-02" id="11"/><rel type="ガ" mode="AND" target="人ら" sid="wiki00033793-02" id="13"/><rel type="トシテ" target="軍" sid="wiki00033793-02" id="16"/><rel type="ニ" target="内戦" sid="wiki00033793-00-01" id="1"/><memo text="PO:する"/>
+参戦 さんせん 参戦 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 15D
++ 25D <rel type="=" target="フランコ" sid="wiki00033793-01-01" id="8"/><NE:PERSON:フランコ>
+フランコ ふらんこ フランコ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 21D <rel type="=≒" target="ファシズム" sid="wiki00033793-02" id="1"/>
+ファシズム ふぁしずむ ファシズム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24D <rel type="=≒" target="陣営" sid="wiki00033793-02" id="2"/><rel type="修飾" target="ファシズム" sid="wiki00033793-02" id="20"/>
+陣営 じんえい 陣営 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13P
++ 23P <rel type="=構" target="陣営" sid="wiki00033793-02" id="21"/><rel type="修飾" target="陣営" sid="wiki00033793-02" id="21"/><NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 14P
++ 24P <rel type="=構" target="陣営" sid="wiki00033793-02" id="21"/><rel type="修飾" target="陣営" sid="wiki00033793-02" id="21"/><NE:LOCATION:イタリア>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 15D
++ 25D <rel type="=構" target="陣営" sid="wiki00033793-02" id="21"/><rel type="修飾" target="陣営" sid="wiki00033793-02" id="21"/><NE:LOCATION:ポルトガル>
+ポルトガル ぽるとがる ポルトガル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 27P <rel type="ガ" target="ドイツ" sid="wiki00033793-02" id="22"/><rel type="ガ" mode="AND" target="イタリア" sid="wiki00033793-02" id="23"/><rel type="ガ" mode="AND" target="ポルトガル" sid="wiki00033793-02" id="24"/><rel type="ヲ" target="フランコ" sid="wiki00033793-02" id="19"/>
+支持 しじ 支持 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 27D
+直接 ちょくせつ 直接 副詞 8 * 0 * 0 * 0 NIL
++ 28D <rel type="ニ" target="内戦" sid="wiki00033793-00-01" id="1"/><rel type="ガ" target="ドイツ" sid="wiki00033793-02" id="22"/><rel type="ガ" mode="AND" target="イタリア" sid="wiki00033793-02" id="23"/><rel type="ガ" mode="AND" target="ポルトガル" sid="wiki00033793-02" id="24"/><rel type="=≒" target="参戦" sid="wiki00033793-02" id="18"/>
+参戦 さんせん 参戦 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ドイツ" sid="wiki00033793-02" id="22"/><rel type="ガ" mode="AND" target="イタリア" sid="wiki00033793-02" id="23"/><rel type="ガ" mode="AND" target="ポルトガル" sid="wiki00033793-02" id="24"/><rel type="ヲ" target="参戦するなど" sid="wiki00033793-02" id="27"/><rel type="ヲ" mode="AND" target="支持" sid="wiki00033793-02" id="25"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

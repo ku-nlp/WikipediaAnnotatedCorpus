@@ -1,0 +1,108 @@
+# S-ID:wiki00038168-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:91.00000 MOD:2025/05/14 MEMO:
+* 12D
++ 1D
+犠牲 ぎせい 犠牲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="犠牲" sid="wiki00038168-00-01" id="0"/>
+バント ばんと バント 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 11D
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D
+打者 だしゃ 打者 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D
+アウト あうと アウト 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="打者" sid="wiki00038168-00-01" id="3"/><rel type="ニ" target="アウト" sid="wiki00038168-00-01" id="4"/><rel type="外の関係" target="代わり" sid="wiki00038168-00-01" id="6"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 7D
++ 8D <rel type="ノ" target="なる" sid="wiki00038168-00-01" id="5"/>
+代わり かわり 代わり 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 8D
+走者 そうしゃ 走者 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ヲ" target="走者" sid="wiki00038168-00-01" id="7"/><rel type="ニ" target="代わり" sid="wiki00038168-00-01" id="6"/><rel type="ニ" mode="？" target="なし"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00038168-00-01" id="9"/>
+進塁 しんるい 進塁 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 10D
++ 11D <rel type="トイウ" target="進塁させる" sid="wiki00038168-00-01" id="8"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 11D <rel type="=構" target="こと" sid="wiki00038168-00-01" id="9"/><rel type="ノ" target="バント" sid="wiki00038168-00-01" id="12"/>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 12D <rel type="ガ" target="バント" sid="wiki00038168-00-01" id="12"/><rel type="ヲ" target="こと" sid="wiki00038168-00-01" id="9"/><rel type="ト" target="目的" sid="wiki00038168-00-01" id="10"/><rel type="デ" target="野球" sid="wiki00038168-00-01" id="2"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 12D
++ 13D <rel type="トイウ" target="した" sid="wiki00038168-00-01" id="11"/><rel type="=構" target="バント" sid="wiki00038168-00-01" id="1"/>
+バント ばんと バント 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="バント" sid="wiki00038168-00-01" id="1"/><rel type="ノ" target="バント" sid="wiki00038168-00-01" id="12"/><rel type="=構" target="バント" sid="wiki00038168-00-01" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00038168-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/10/07 MEMO:
+* -1D
++ 1D <rel type="=" target="犠牲" sid="wiki00038168-00-01" id="0"/>
+ぎせい ぎせい ぎせい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="バント" sid="wiki00038168-00-01" id="1"/>
+バント ばんと バント 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00038168-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/10/07 MEMO:
+* 1D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="規則" sid="wiki00038168-01" id="2"/>
+公認 こうにん 公認 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 2D <rel type="=" target="野球" sid="wiki00038168-00-01" id="2"/>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 3D <rel type="ノ" target="野球" sid="wiki00038168-01" id="1"/><rel type="修飾" target="公認" sid="wiki00038168-01" id="0"/><NE:ARTIFACT:公認野球規則>
+規則 きそく 規則 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 4D <rel type="ノ" target="規則" sid="wiki00038168-01" id="2"/>
+9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL
+. てん . 特殊 1 句点 1 * 0 * 0 NIL
+08 れいはち/ぜろはち 08 名詞 6 数詞 7 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 5D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* -1D
++ -1D <rel type="ガ" target="バント" sid="wiki00038168-00-01" id="1"/><rel type="ニヨッテ" target="9.08" sid="wiki00038168-01" id="3"/>
+定め さだめ 定める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00038168-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/05/14 MEMO:
+* 2D
++ 3D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=" target="犠牲" sid="wiki00038168-00-01" id="0"/>
+Sacrifice Sacrifice Sacrifice 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 3D <rel type="修飾" target="Sacrifice" sid="wiki00038168-02" id="1"/><rel type="=構" target="バント" sid="wiki00038168-00-01" id="1"/>
+bunt bunt bunt 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バント" sid="wiki00038168-00-01" id="1"/><rel type="ト" target="bunt" sid="wiki00038168-02" id="2"/><rel type="デ" target="英語" sid="wiki00038168-02" id="0"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

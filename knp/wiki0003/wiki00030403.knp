@@ -1,0 +1,110 @@
+# S-ID:wiki00030403-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2025/04/16 MEMO:
+* 11D
++ 1D
+木曽 きそ 木曽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 19D <NE:LOCATION:木曽川>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 6D <NE:LOCATION:長野県>
+長野 ながの 長野 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4P <NE:LOCATION:岐阜県>
+岐阜 ぎふ 岐阜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 5P <NE:LOCATION:愛知県>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 6D <NE:LOCATION:三重県>
+三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <rel type="ヲ" target="岐阜県" sid="wiki00030403-00-01" id="3"/><rel type="ヲ" mode="AND" target="愛知県" sid="wiki00030403-00-01" id="4"/><rel type="ヲ" mode="AND" target="三重県" sid="wiki00030403-00-01" id="5"/><rel type="ガ" target="本流" sid="wiki00030403-00-01" id="13"/>
+経て へて 経る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 5D
++ 8D
+伊勢 いせ 伊勢 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <NE:LOCATION:伊勢湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 13D <rel type="ガ" target="本流" sid="wiki00030403-00-01" id="13"/><rel type="ニ" target="湾" sid="wiki00030403-00-01" id="8"/>
+注ぐ そそぐ 注ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
+* 7D
++ 11D <rel type="=" target="木曽" sid="wiki00030403-00-01" id="0"/>
+木曽 きそ 木曽 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 12D <rel type="=" target="川" sid="wiki00030403-00-01" id="1"/>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 13D <rel type="ノ" target="川" sid="wiki00030403-00-01" id="11"/><NE:OPTIONAL:木曽川水系><NE-OPTIONAL:LOCATION,NONE:0>
+水系 すいけい 水系 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8P
++ 15P <rel type="ノ" target="水系" sid="wiki00030403-00-01" id="12"/><rel type="ガ" target="川" sid="wiki00030403-00-01" id="1"/><rel type="=構" target="川" sid="wiki00030403-00-01" id="1"/><memo text="素性？"/>
+本流 ほんりゅう 本流 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+* 11P
++ 15D
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
+級 きゅう 級 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 19P <rel type="ガ" target="川" sid="wiki00030403-00-01" id="1"/><rel type="=構" target="川" sid="wiki00030403-00-01" id="1"/><rel type="修飾" target="一級" sid="wiki00030403-00-01" id="14"/><memo text="CO　素性？"/>
+河川 かせん 河川 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 18D
+いわゆる いわゆる いわゆる 連体詞 11 * 0 * 0 * 0 NIL
+* 11D
++ 18D <rel type="=" target="木曽" sid="wiki00030403-00-01" id="10"/>
+木曽 きそ 木曽 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 19D <rel type="=≒" target="川" sid="wiki00030403-00-01" id="1"/><NE:OPTIONAL:木曽三川><NE-OPTIONAL:LOCATION,NONE:0>
+三川 さんせん 三川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="川" sid="wiki00030403-00-01" id="1"/><rel type="ノ" target="三川" sid="wiki00030403-00-01" id="18"/><rel type="=構" target="川" sid="wiki00030403-00-01" id="1"/><rel type="=構" mode="AND" target="三川" sid="wiki00030403-00-01" id="18"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00030403-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/01/19 MEMO:
+* -1D
++ 1D <rel type="=" target="木曽" sid="wiki00030403-00-01" id="0"/>
+きそ きそ きそ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="川" sid="wiki00030403-00-01" id="1"/><NE:LOCATION:きそがわ>
+がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00030403-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/04/16 MEMO:
+* 2D
++ 1D <rel type="ノ" target="川" sid="wiki00030403-00-01" id="1"/>
+源流 げんりゅう 源流 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="川" sid="wiki00030403-00-01" id="1"/><rel type="ノ？" target="源流" sid="wiki00030403-01-01" id="0"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+味噌 みそ 味噌 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="=構" target="川" sid="wiki00030403-00-01" id="1"/><NE:LOCATION:味噌川>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="川" sid="wiki00030403-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="部" sid="wiki00030403-01-01" id="1"/><rel type="ト" target="川" sid="wiki00030403-01-01" id="3"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00030403-01-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/16 MEMO:
+* -1D
++ 1D <rel type="=" target="味噌" sid="wiki00030403-01-01" id="2"/>
+みそ みそ みそ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="川" sid="wiki00030403-01-01" id="3"/><NE:LOCATION:みそがわ>
+がわ がわ がわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS

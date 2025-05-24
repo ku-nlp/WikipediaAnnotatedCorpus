@@ -1,0 +1,48 @@
+# S-ID:wiki00039246-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/16 MEMO:
+* 2D
++ 1D
+アドバンスト あどばんすと アドバンスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D
+マイクロ まいくろ マイクロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <NE:ORGANIZATION:アドバンスト・マイクロ・デバイセズ>
+デバイセズ でばいせず デバイセズ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 5D <NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 5D
+半導体 はんどうたい 半導体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="デバイセズ" sid="wiki00039246-00-01" id="2"/><rel type="=構" target="デバイセズ" sid="wiki00039246-00-01" id="2"/><rel type="ノ？" target="半導体" sid="wiki00039246-00-01" id="4"/><rel type="ノ？" mode="AND" target="アメリカ" sid="wiki00039246-00-01" id="3"/>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039246-00-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/16 MEMO:
+* 1D
++ 2D <rel type="=" target="アドバンスト" sid="wiki00039246-00-01" id="0"/>
+Advanced Advanced Advanced 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 2D <rel type="=" target="マイクロ" sid="wiki00039246-00-01" id="1"/>
+Micro Micro Micro 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="デバイセズ" sid="wiki00039246-00-01" id="2"/>
+Devices Devices Devices 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+, , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4P <rel type="=" target="デバイセズ" sid="wiki00039246-00-01" id="2"/><NE:ORGANIZATION:Advanced　Micro　Devices,　Inc.>
+Inc Inc Inc 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
+. . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+/ / / 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="デバイセズ" sid="wiki00039246-00-01" id="2"/><NE:ORGANIZATION:AMD>
+AMD AMD AMD 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS

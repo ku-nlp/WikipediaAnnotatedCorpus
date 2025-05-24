@@ -1,0 +1,185 @@
+# S-ID:wiki00034145-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2025/05/02 MEMO:
+* 12D
++ 15D <memo text="固有名詞？"/><NE:OPTIONAL:ユートピア><NE-OPTIONAL:LOCATION,NONE:0>
+ユートピア ゆーとぴあ ユートピア 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D
+思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="イギリス" sid="wiki00034145-00" id="1"/><rel type="ノ？" mode="AND" target="思想" sid="wiki00034145-00" id="2"/>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+* 6D
++ 5D
+トマス とます トマス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 9D <rel type="=構" target="家" sid="wiki00034145-00" id="3"/><rel type="修飾" target="家" sid="wiki00034145-00" id="3"/><NE:PERSON:トマス・モア>
+モア もあ モア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 9D <NE:DATE:1516年>
+1516 せんごひゃくじゅうろく 1516 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D <NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9D <rel type="ノ？" target="ラテン" sid="wiki00034145-00" id="7"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 10D <rel type="ガ" target="モア" sid="wiki00034145-00" id="5"/><rel type="ヲ" target="著作" sid="wiki00034145-00" id="10"/><rel type="デ" target="語" sid="wiki00034145-00" id="8"/><rel type="時間" target="1516年" sid="wiki00034145-00" id="6"/>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 8D
++ 11D <rel type="ノ" target="モア" sid="wiki00034145-00" id="5"/>
+著作 ちょさく 著作 名詞 6 サ変名詞 2 * 0 * 0 NIL
+* 9D
++ 12D <rel type="修飾" target="著作" sid="wiki00034145-00" id="10"/><rel type="=構" target="著作" sid="wiki00034145-00" id="10"/><rel type="=≒" mode="AND" target="ユートピア" sid="wiki00034145-00" id="0"/><NE:ARTIFACT:ユートピア>
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+ユートピア ゆーとぴあ ユートピア 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:single>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 14D <rel type="ガ" target="国家" sid="wiki00034145-00" id="14"/><rel type="ニ" target="ユートピア" sid="wiki00034145-00" id="11"/>
+登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 11D
++ 14D <rel type="ガ" target="国家" sid="wiki00034145-00" id="14"/>
+架空の かくうの 架空だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 12D
++ 15D <rel type="修飾" target="架空の" sid="wiki00034145-00" id="13"/><rel type="=" target="ユートピア" sid="wiki00034145-00" id="0"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ノ" target="国家" sid="wiki00034145-00" id="14"/><rel type="=構" target="ユートピア" sid="wiki00034145-00" id="0"/><memo text="CO"/>
+名前 なまえ 名前 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034145-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/02 MEMO:
+* 1P
++ 1P <rel type="=構" target="ユートピア" sid="wiki00034145-00" id="0"/><NE:OPTIONAL:理想郷><NE-OPTIONAL:LOCATION,NONE:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+理想郷 りそうきょう 理想郷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=構" target="ユートピア" sid="wiki00034145-00" id="0"/><NE:OPTIONAL:無何有郷><NE-OPTIONAL:LOCATION,NONE:0>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+無何有郷 むかうきょう/むかゆうきょう 無何有郷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="理想郷" sid="wiki00034145-01-01" id="0"/><rel type="ト" mode="AND" target="無何有郷" sid="wiki00034145-01-01" id="1"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034145-01-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/02 MEMO:
+* -1D
++ 1D <NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
+和製 わせい 和製 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=構" target="理想郷" sid="wiki00034145-01-01" id="0"/><rel type="修飾" target="和製" sid="wiki00034145-01-02" id="0"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢語 かんご 漢語 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034145-01-03 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000 MOD:2025/05/02 MEMO:
+* 1P
++ 4P <rel type="ニ" target="不特定:人"/><rel type="=" target="無何有郷" sid="wiki00034145-01-01" id="1"/><rel type="=構" mode="AND" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ガ" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ヨリ" target="篇" sid="wiki00034145-01-03" id="4"/><rel type="ヨリ" mode="？" target="なし"/><memo text="PO:呼ばれる"/><NE:OPTIONAL:無何有之郷><NE-OPTIONAL:LOCATION,NONE:0>
+無何有之郷 むかうのさと/むかゆうのきょう 無何有之郷 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 4D <NE:ARTIFACT:荘子>
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+荘子 そうし/そうじ 荘子 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:single>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
++ 3D
+逍遙 しょうよう 逍遙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D
+遊 ゆう 遊 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="荘子" sid="wiki00034145-01-03" id="1"/><rel type="ノ？" target="遊" sid="wiki00034145-01-03" id="3"/>
+篇 へん 篇 名詞 6 普通名詞 1 * 0 * 0 NIL
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034145-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2025/05/02 MEMO:
+* 2D
++ 2D
+現実 げんじつ 現実 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D
+決して けっして 決して 副詞 8 * 0 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ガ" target="社会" sid="wiki00034145-02" id="4"/><rel type="ニ" target="現実" sid="wiki00034145-02" id="0"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 4D
++ 4D <rel type="ガ" target="社会" sid="wiki00034145-02" id="4"/>
+理想 りそう 理想 名詞 6 普通名詞 1 * 0 * 0 NIL
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 5D
++ 5D <rel type="修飾" target="理想的な" sid="wiki00034145-02" id="3"/><rel type="=構" target="ユートピア" sid="wiki00034145-00" id="0"/>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 6D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 17P
++ 17P <rel type="ガ" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ニ" target="モア" sid="wiki00034145-00" id="5"/><rel type="トシテ" target="社会" sid="wiki00034145-02" id="4"/>
+描か えがか 描く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 8D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 17D
++ 17D <rel type="ガ" target="モア" sid="wiki00034145-00" id="5"/><rel type="ヲ" target="こと" sid="wiki00034145-02" id="17"/><rel type="ノ" target="ユートピア" sid="wiki00034145-00" id="0"/>
+意図 いと 意図 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 10D
++ 10D <rel type="=" target="現実" sid="wiki00034145-02" id="0"/>
+現実 げんじつ 現実 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 11D <rel type="修飾" target="現実" sid="wiki00034145-02" id="9"/><rel type="=≒" target="社会" sid="wiki00034145-02" id="4"/>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 12D <rel type="ガ" target="モア" sid="wiki00034145-00" id="5"/><rel type="ヲ" target="ユートピア" sid="wiki00034145-00" id="0"/><rel type="ト" target="社会" sid="wiki00034145-02" id="10"/><rel type="外の関係" target="こと" sid="wiki00034145-02" id="12"/>
+対峙 たいじ 対峙 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 13D
++ 13D <rel type="トイウ" target="対峙させる" sid="wiki00034145-02" id="11"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 16D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 15D
++ 15D <rel type="=" target="現実" sid="wiki00034145-02" id="9"/>
+現実 げんじつ 現実 名詞 6 普通名詞 1 * 0 * 0 NIL
+へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 16D
++ 16D <rel type="ガ" target="モア" sid="wiki00034145-00" id="5"/><rel type="ヘ" target="現実" sid="wiki00034145-02" id="14"/><rel type="ヲ" target="現実" sid="wiki00034145-02" id="14"/>
+批判 ひはん 批判 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 17D <rel type="ヲ" target="批判" sid="wiki00034145-02" id="15"/><rel type="ニヨッテ" target="こと" sid="wiki00034145-02" id="12"/><rel type="ガ" target="モア" sid="wiki00034145-00" id="5"/><rel type="外の関係" target="こと" sid="wiki00034145-02" id="17"/>
+おこなう おこなう おこなう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="意図" sid="wiki00034145-02" id="8"/><rel type="=構" target="意図" sid="wiki00034145-02" id="8"/><rel type="トイウ" target="おこなう" sid="wiki00034145-02" id="16"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

@@ -1,0 +1,82 @@
+# S-ID:wiki00034317-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/02 MEMO:
+* 5D
++ 1D
+マルティン まるてぃん マルティン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 8D <NE:PERSON:マルティン・ルター>
+ルター るたー ルター 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 4D <NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3P
++ 4D
+神学 しんがく 神学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="修飾" target="ドイツ" sid="wiki00034317-00-01" id="2"/><rel type="=構" target="ルター" sid="wiki00034317-00-01" id="1"/><rel type="ノ？" target="神学" sid="wiki00034317-00-01" id="3"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 6P <rel type="修飾" target="ドイツ" sid="wiki00034317-00-01" id="2"/><rel type="=構" target="ルター" sid="wiki00034317-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
+教授 きょうじゅ 教授 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 8P <rel type="修飾" target="ドイツ" sid="wiki00034317-00-01" id="2"/><rel type="=構" target="ルター" sid="wiki00034317-00-01" id="1"/>
+作家 さっか 作家 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 8D
+聖職 せいしょく 聖職 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ルター" sid="wiki00034317-00-01" id="1"/><rel type="修飾" target="ドイツ" sid="wiki00034317-00-01" id="2"/><rel type="=構" target="ルター" sid="wiki00034317-00-01" id="1"/><rel type="ノ？" target="聖職" sid="wiki00034317-00-01" id="7"/><memo text="CO"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034317-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/02 MEMO:
+* 2P
++ 1D <rel type="=" target="マルティン" sid="wiki00034317-00-01" id="0"/>
+Martin Martin Martin 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 7P <rel type="=" target="ルター" sid="wiki00034317-00-01" id="1"/><NE:PERSON:Martin　Luther>
+Luther Luther Luther 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+1483 せんよんひゃくはちじゅうさん 1483 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 4D
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7P <NE:DATE:1483年11月10日>
+10 とお 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 6D
+1546 せんごひゃくよんじゅうろく 1546 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="10日" sid="wiki00034317-00-02" id="4"/><NE:DATE:1546年2月18日>
+18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00034317-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/02 MEMO:
+* 1A
++ 1D
+聖 せい 聖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <rel type="修飾" target="聖" sid="wiki00034317-01" id="0"/>
+アウグスチノ あうぐすちの アウグスチノ 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="ガ" target="不特定:人"/>
+修道 しゅうどう 修道 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 4D <NE:ORGANIZATION:聖アウグスチノ修道会>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ルター" sid="wiki00034317-00-01" id="1"/><rel type="ニ" target="会" sid="wiki00034317-01" id="3"/>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

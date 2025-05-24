@@ -1,0 +1,291 @@
+# S-ID:wiki00033557-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:184.00000 MOD:2025/04/29 MEMO:
+* 24D
++ 1D
+百 ひゃく 百 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 35D <rel type="時間" target="百年" sid="wiki00033557-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:フランス王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7P
++ 5D <rel type="ノ？" target="王国" sid="wiki00033557-00-01" id="3"/>
+王位 おうい 王位 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="王位" sid="wiki00033557-00-01" id="4"/><rel type="カラ" target="不特定:人"/>
+継承 けいしょう 継承 名詞 6 サ変名詞 2 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 7D <NE:LOCATION:イングランド>
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <rel type="ノ？" target="イングランド" sid="wiki00033557-00-01" id="6"/>
+王家 おうけ 王家 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <rel type="=" target="王国" sid="wiki00033557-00-01" id="3"/><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D <rel type="ガ" target="王家" sid="wiki00033557-00-01" id="7"/><rel type="ヲ" target="領土" sid="wiki00033557-00-01" id="11"/><rel type="ニ" target="フランス" sid="wiki00033557-00-01" id="8"/>
+有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 7D
++ 11D <rel type="ガ" target="領土" sid="wiki00033557-00-01" id="11"/>
+広大な こうだいな 広大だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 8D
++ 12D <rel type="ノ" target="王家" sid="wiki00033557-00-01" id="7"/><rel type="ノ？" target="フランス" sid="wiki00033557-00-01" id="8"/><rel type="修飾" target="広大な" sid="wiki00033557-00-01" id="10"/>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 23D
++ 34D <rel type="ヲ" target="領土" sid="wiki00033557-00-01" id="11"/><rel type="ヲ" mode="AND" target="継承" sid="wiki00033557-00-01" id="5"/>
+めぐり めぐり めぐる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 14D <rel type="=" target="フランス" sid="wiki00033557-00-01" id="2"/>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <rel type="=" target="王国" sid="wiki00033557-00-01" id="3"/><NE:LOCATION:フランス王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 17D <rel type="ガ" target="朝" sid="wiki00033557-00-01" id="17"/><rel type="ヲ" target="王国" sid="wiki00033557-00-01" id="14"/>
+治める おさめる 治める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 15P
++ 17D
+ヴァロワ ゔぁろわ ヴァロワ 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 24P <rel type="ノ" target="王国" sid="wiki00033557-00-01" id="14"/><NE:OPTIONAL:ヴァロワ朝><NE-OPTIONAL:ORGANIZATION,NONE:0>
+朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 13D
++ 19D
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 20D <NE:LOCATION:イングランド王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
++ 24D <rel type="ガ" target="朝" sid="wiki00033557-00-01" id="22"/><rel type="ガ" mode="AND" target="朝" sid="wiki00033557-00-01" id="24"/>
+治める おさめる 治める 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 15P
++ 22D
+プランタジネット ぷらんたじねっと プランタジネット 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 24P <rel type="ノ" target="王国" sid="wiki00033557-00-01" id="19"/><NE:OPTIONAL:プランタジネット朝><NE-OPTIONAL:ORGANIZATION,NONE:0>
+朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 16D
++ 24D
+ランカスター らんかすたー ランカスター 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 25D <rel type="ノ" target="王国" sid="wiki00033557-00-01" id="19"/><NE:OPTIONAL:ランカスター朝><NE-OPTIONAL:ORGANIZATION,NONE:0>
+朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 28D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 18D
++ 27D <NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 28D <rel type="ノ？" target="フランス" sid="wiki00033557-00-01" id="26"/>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 29D <rel type="修飾" target="人" sid="wiki00033557-00-01" id="27"/><rel type="=≒" target="朝" sid="wiki00033557-00-01" id="17"/><rel type="=≒" mode="AND" target="朝" sid="wiki00033557-00-01" id="22"/><rel type="=≒" mode="AND" target="朝" sid="wiki00033557-00-01" id="24"/>
+王朝 おうちょう 王朝 名詞 6 普通名詞 1 * 0 * 0 NIL
+同士 どうし 同士 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 23D
++ 34D <rel type="ガ" target="王朝同士" sid="wiki00033557-00-01" id="28"/>
+争い あらそい 争い 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 20D
++ 31D <rel type="=" target="王国" sid="wiki00033557-00-01" id="14"/><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 22D
++ 33D <rel type="ノ？" target="フランス" sid="wiki00033557-00-01" id="30"/>
+領主 りょうしゅ 領主 名詞 6 普通名詞 1 * 0 * 0 NIL
+たち たち たち 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 22D
++ 33D
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 23D
++ 34D <rel type="ガ" target="領主たち" sid="wiki00033557-00-01" id="31"/><rel type="ニ" target="二派" sid="wiki00033557-00-01" id="32"/>
+分かれて わかれて 分かれる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 24D
++ 35D <rel type="ガ" target="領主たち" sid="wiki00033557-00-01" id="31"/><rel type="外の関係" target="内戦" sid="wiki00033557-00-01" id="35"/><rel type="ヲメグッテ" target="領土" sid="wiki00033557-00-01" id="11"/><rel type="ヲメグッテ" mode="AND" target="継承" sid="wiki00033557-00-01" id="5"/><rel type="ニ" target="争い" sid="wiki00033557-00-01" id="29"/>
+戦った たたかった 戦う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="=構" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="トイウ" target="戦った" sid="wiki00033557-00-01" id="35"/>
+内戦 ないせん 内戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033557-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/07/12 MEMO:
+* -1D
++ 1D <rel type="=" target="百年" sid="wiki00033557-00-01" id="0"/>
+ひゃく ひゃく ひゃく 名詞 6 数詞 7 * 0 * 0 NIL
+ねん ねん ねん 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ -1D <rel type="=" target="戦争" sid="wiki00033557-00-01" id="1"/>
+せんそう せんそう せんそう 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033557-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:113.00000 MOD:2025/04/29 MEMO:
+* 1D
++ 1D
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 2D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 3D
++ 3D <rel type="トイウ" target="国家" sid="wiki00033557-01" id="0"/>
+概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ガ" target="概念" sid="wiki00033557-01" id="2"/><rel type="時間" target="時代" sid="wiki00033557-01" id="4"/>
+薄い うすい 薄い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+* 8D
++ 10D <rel type="修飾" target="薄い" sid="wiki00033557-01" id="3"/><rel type="ガ" target="不特定:状況"/>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 6D <rel type="ガ" target="不特定:人"/>
+封建 ほうけん 封建 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="修飾" target="封建" sid="wiki00033557-01" id="5"/><rel type="=≒" target="領主" sid="wiki00033557-00-01" id="31"/>
+諸侯 しょこう 諸侯 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ノ" target="諸侯" sid="wiki00033557-01" id="6"/><rel type="=≒" target="領土" sid="wiki00033557-00-01" id="11"/>
+領地 りょうち 領地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ガ" target="諸侯" sid="wiki00033557-01" id="6"/><rel type="ヲメグッテ" target="領地" sid="wiki00033557-01" id="7"/>
+争い あらそい 争い 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ガ" target="争い" sid="wiki00033557-01" id="8"/><rel type="外の関係" target="もの" sid="wiki00033557-01" id="10"/>
+重なった かさなった 重なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+* 16D
++ 19D <rel type="ガ" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="=構" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="トイウ" target="重なった" sid="wiki00033557-01" id="9"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 12D <rel type="=" target="戦争" sid="wiki00033557-00-01" id="1"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 19D <rel type="ヲ" target="戦争" sid="wiki00033557-01" id="11"/><rel type="ガ" target="不特定:状況"/>
+経て へて 経る 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 15D
++ 18D
+次第に しだいに 次第に 副詞 8 * 0 * 0 * 0 NIL
+* 13D
++ 15P
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 16D
+国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 17D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 15D
++ 18D <rel type="トシテ" target="国家" sid="wiki00033557-01" id="14"/><rel type="トシテ" mode="AND" target="国民" sid="wiki00033557-01" id="15"/>
+アイデンティティー あいでんてぃてぃー アイデンティティー 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 19D <rel type="ガ" target="アイデンティティー" sid="wiki00033557-01" id="17"/><rel type="ニ" target="不特定:人"/>
+形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:状況"/><rel type="ニ" target="形成される" sid="wiki00033557-01" id="18"/>
+至った いたった 至る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033557-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/04/29 MEMO:
+* 3D
++ 4D
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=≒" target="王国" sid="wiki00033557-00-01" id="3"/><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=≒" target="王国" sid="wiki00033557-00-01" id="19"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ノ" target="フランス" sid="wiki00033557-02" id="1"/><rel type="ノ" mode="AND" target="イギリス" sid="wiki00033557-02" id="2"/>
+国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="国境" sid="wiki00033557-02" id="3"/><rel type="=構" target="国境" sid="wiki00033557-02" id="3"/><rel type="ノ" target="フランス" sid="wiki00033557-02" id="1"/><rel type="ノ" mode="AND" target="イギリス" sid="wiki00033557-02" id="2"/><rel type="時間" target="現在" sid="wiki00033557-02" id="0"/>
+線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="線" sid="wiki00033557-02" id="4"/><rel type="ニヨッテ" target="戦争" sid="wiki00033557-02" id="6"/>
+決定 けってい 決定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="=構" target="戦争" sid="wiki00033557-00-01" id="1"/><rel type="修飾" target="決定した" sid="wiki00033557-02" id="5"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033557-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:82.00000 MOD:2025/04/29 MEMO:
+* 7D
++ 1D <rel type="=" target="百年" sid="wiki00033557-00-01" id="0"/>
+百 ひゃく 百 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 10D <rel type="=" target="戦争" sid="wiki00033557-00-01" id="1"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D
+19 じゅうきゅう 19 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <rel type="ノ" target="19世紀" sid="wiki00033557-03" id="2"/><NE:DATE:19世紀初期>
+初期 しょき 初期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="=" target="フランス" sid="wiki00033557-02" id="1"/><NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ガ" target="呼称" sid="wiki00033557-03" id="6"/><rel type="デ" target="フランス" sid="wiki00033557-03" id="4"/><rel type="時間" target="初期" sid="wiki00033557-03" id="3"/><rel type="ニ" target="不特定:人"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
+* 7P
++ 10P <rel type="ガ" target="戦争" sid="wiki00033557-03" id="1"/><rel type="=構" target="戦争" sid="wiki00033557-03" id="1"/>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 10D <rel type="=" target="イギリス" sid="wiki00033557-02" id="2"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 9D
+19 じゅうきゅう 19 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <rel type="ノ" target="19世紀" sid="wiki00033557-03" id="8"/><NE:DATE:19世紀後半>
+後半 こうはん 後半 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="戦争" sid="wiki00033557-03" id="1"/><rel type="時間" target="後半" sid="wiki00033557-03" id="9"/><rel type="デ" target="イギリス" sid="wiki00033557-03" id="7"/><rel type="ニ" target="不特定:人"/>
+慣用 かんよう 慣用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

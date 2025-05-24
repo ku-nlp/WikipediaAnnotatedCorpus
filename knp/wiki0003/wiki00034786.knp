@@ -1,0 +1,233 @@
+# S-ID:wiki00034786-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/05/07 MEMO:
+* 14D
++ 19D
+パチスロ ぱちすろ パチスロ 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+風俗 ふうぞく 風俗 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 3D <rel type="修飾" target="風俗" sid="wiki00034786-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
+等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 4P
++ 5P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="営業等" sid="wiki00034786-00-01" id="2"/>
+規制 きせい 規制 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
+及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 4D
++ 5D <rel type="修飾" target="営業等" sid="wiki00034786-00-01" id="2"/>
+業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 5D
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="業務" sid="wiki00034786-00-01" id="4"/>
+適正 てきせい 適正だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ARTIFACT:middle>
+化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
+等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 6D
++ 7D
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <NE:ARTIFACT:middle>
+* 7D
++ 8D <rel type="ニカンシテ" target="適正化等" sid="wiki00034786-00-01" id="5"/><rel type="ニカンシテ" mode="AND" target="規制" sid="wiki00034786-00-01" id="3"/><NE:ARTIFACT:風俗営業等の規制及び業務の適正化等に関する法律>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="法律" sid="wiki00034786-00-01" id="7"/><rel type="ニ" target="店" sid="wiki00034786-00-01" id="12"/>
+適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ガ" target="店" sid="wiki00034786-00-01" id="12"/><rel type="ヲ" target="適用" sid="wiki00034786-00-01" id="8"/>
+受ける うける 受ける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 10D
++ 11D <rel type="ノ" target="法律" sid="wiki00034786-00-01" id="7"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 12D <rel type="=≒" target="営業" sid="wiki00034786-00-01" id="2"/><rel type="修飾" target="第4号" sid="wiki00034786-00-01" id="10"/>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ノ？" target="営業" sid="wiki00034786-00-01" id="11"/>
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 18D <rel type="ガ" target="機" sid="wiki00034786-00-01" id="18"/><rel type="ニ" target="店" sid="wiki00034786-00-01" id="12"/>
+設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 12D
++ 15D
+スロット すろっと スロット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="修飾" target="スロット" sid="wiki00034786-00-01" id="14"/>
+マシン ましん マシン 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 18D <rel type="ガ" target="機" sid="wiki00034786-00-01" id="18"/><rel type="ニ" target="マシン" sid="wiki00034786-00-01" id="15"/>
+似た にた 似る 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+* 14D
++ 18D
+遊技 ゆうぎ 遊技 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="=構" target="パチスロ" sid="wiki00034786-00-01" id="0"/><rel type="修飾" target="似た" sid="wiki00034786-00-01" id="16"/><rel type="ノ？" target="遊技" sid="wiki00034786-00-01" id="17"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="パチスロ" sid="wiki00034786-00-01" id="0"/><rel type="ノ" target="機" sid="wiki00034786-00-01" id="18"/><rel type="=構" target="パチスロ" sid="wiki00034786-00-01" id="0"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034786-00-02 括弧始:（ 括弧終:） 括弧位置:45 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/20 MEMO:
+* -1D
++ 1D
+パチンコ ぱちんこ パチンコ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="店" sid="wiki00034786-00-01" id="12"/><rel type="ノ？" target="パチンコ" sid="wiki00034786-00-02" id="0"/>
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
+等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034786-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/07 MEMO:
+* 1D
++ 1D <rel type="=" target="パチンコ" sid="wiki00034786-00-02" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+パチンコ ぱちんこ パチンコ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="パチンコ" sid="wiki00034786-01" id="0"/>
+型 がた 型 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 3D <rel type="=" target="スロット" sid="wiki00034786-00-01" id="14"/>
+スロット すろっと スロット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="型" sid="wiki00034786-01" id="1"/><rel type="修飾" mode="AND" target="スロット" sid="wiki00034786-01" id="2"/><rel type="=≒" target="マシン" sid="wiki00034786-00-01" id="15"/>
+マシン ましん マシン 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="パチスロ" sid="wiki00034786-00-01" id="0"/><rel type="ノ" target="マシン" sid="wiki00034786-01" id="3"/><rel type="=構" target="パチスロ" sid="wiki00034786-00-01" id="0"/><memo text="CO"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034786-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:156.00000 MOD:2025/05/07 MEMO:
+* 2D
++ 5D <rel type="=" target="法律" sid="wiki00034786-00-01" id="7"/>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
+上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+回胴 かいどう 回胴 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="回胴" sid="wiki00034786-02" id="1"/>
+式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="遊技" sid="wiki00034786-00-01" id="17"/>
+遊技 ゆうぎ 遊技 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ？" target="遊技" sid="wiki00034786-02" id="3"/><rel type="修飾" target="式" sid="wiki00034786-02" id="2"/><rel type="=" target="機" sid="wiki00034786-00-01" id="18"/><rel type="=構" mode="AND" target="パチスロ" sid="wiki00034786-00-01" id="0"/>
+機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 16D <rel type="デ" target="法律上" sid="wiki00034786-02" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="パチスロ" sid="wiki00034786-00-01" id="0"/><rel type="ト" target="機" sid="wiki00034786-02" id="4"/>
+称する しょうする 称する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 7D <rel type="=≒" target="店" sid="wiki00034786-00-01" id="12"/><rel type="ノ？" target="パチスロ" sid="wiki00034786-00-01" id="0"/>
+業界 ぎょうかい 業界 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 9D <rel type="ガ" target="名称" sid="wiki00034786-02" id="9"/>
+正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 12D <rel type="トシテ" target="業界" sid="wiki00034786-02" id="6"/><rel type="修飾" target="正式" sid="wiki00034786-02" id="8"/><rel type="ノ" target="パチスロ" sid="wiki00034786-00-01" id="0"/>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 11D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+オリンピア おりんぴあ オリンピア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=構" target="パチスロ" sid="wiki00034786-00-01" id="0"/><rel type="=構" mode="AND" target="名称" sid="wiki00034786-02" id="9"/><rel type="修飾" target="オリンピア" sid="wiki00034786-02" id="10"/>
+マシン ましん マシン 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="業界" sid="wiki00034786-02" id="6"/><rel type="ヲ" target="名称" sid="wiki00034786-02" id="9"/><rel type="ト" target="マシン" sid="wiki00034786-02" id="11"/><rel type="外の関係" target="こと" sid="wiki00034786-02" id="13"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 10D
++ 16D <rel type="トイウ" target="する" sid="wiki00034786-02" id="12"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 15D
+1981 せんきゅうひゃくはちじゅういち 1981 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 16D <NE:DATE:1981年4月>
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="こと" sid="wiki00034786-02" id="13"/><rel type="時間" target="4月" sid="wiki00034786-02" id="15"/>
+決定 けってい 決定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034786-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/05/07 MEMO:
+* 1D
++ 1D <rel type="=" target="第4号" sid="wiki00034786-00-01" id="10"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
+号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 2D <rel type="=" target="営業" sid="wiki00034786-00-01" id="11"/>
+営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="=" target="店" sid="wiki00034786-00-01" id="12"/>
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 4D <rel type="ガ" target="パチスロ" sid="wiki00034786-03-01" id="4"/><rel type="デ" target="店" sid="wiki00034786-03-01" id="2"/>
+稼働 かどう 稼働 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9D
++ 14D <rel type="=" target="パチスロ" sid="wiki00034786-00-01" id="0"/>
+パチスロ ぱちすろ パチスロ 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D
+保安 ほあん 保安 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 7D
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <NE:ORGANIZATION:保安通信協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 6D
++ 11D <rel type="ガ" target="試験" sid="wiki00034786-03-01" id="11"/><rel type="ニヨッテ" target="協会" sid="wiki00034786-03-01" id="7"/>
+行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 7D
++ 11D <rel type="ノ" target="パチスロ" sid="wiki00034786-03-01" id="4"/>
+型式 かたしき 型式 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="協会" sid="wiki00034786-03-01" id="7"/><rel type="ヲ" target="型式" sid="wiki00034786-03-01" id="10"/>
+試験 しけん 試験 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="パチスロ" sid="wiki00034786-03-01" id="4"/><rel type="ニ" target="試験" sid="wiki00034786-03-01" id="11"/>
+適合 てきごう 適合 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 9D
++ 14D <rel type="ガ" target="適合している" sid="wiki00034786-03-01" id="12"/>
+必要 ひつよう 必要だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="必要" sid="wiki00034786-03-01" id="13"/><rel type="ニ" target="パチスロ" sid="wiki00034786-03-01" id="4"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034786-03-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/07 MEMO:
+* -1D
++ -1D <rel type="=" target="協会" sid="wiki00034786-03-01" id="7"/><NE:ORGANIZATION:保通協>
+保通協 ほつうきょう 保通協 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS

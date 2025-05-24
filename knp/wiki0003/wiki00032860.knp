@@ -1,0 +1,152 @@
+# S-ID:wiki00032860-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/24 MEMO:
+* 4D
++ 1D
+カール かーる カール 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <memo text="普通名詞でいい？"/>
+フォン ふぉん フォン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 9D <NE:PERSON:カール・フォン・リンネ>
+リンネ りんね リンネ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 9D <NE:LOCATION:スウェーデン>
+スウェーデン すうぇーでん スウェーデン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3P
++ 5D
+博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="=構" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニツイテ" target="博物" sid="wiki00032860-00-01" id="4"/><rel type="ノ？" target="スウェーデン" sid="wiki00032860-00-01" id="3"/><rel type="修飾" target="博物" sid="wiki00032860-00-01" id="4"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 7D
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="=構" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニツイテ" target="生物" sid="wiki00032860-00-01" id="6"/><rel type="ノ？" target="スウェーデン" sid="wiki00032860-00-01" id="3"/><rel type="修飾" target="生物" sid="wiki00032860-00-01" id="6"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 9D
+植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="=構" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニツイテ" target="植物" sid="wiki00032860-00-01" id="8"/><rel type="ノ？" target="スウェーデン" sid="wiki00032860-00-01" id="3"/><rel type="修飾" target="植物" sid="wiki00032860-00-01" id="8"/><memo text="CO"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00032860-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/24 MEMO:
+* 2P
++ 1D <rel type="=" target="カール" sid="wiki00032860-00-01" id="0"/>
+カール かーる カール 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <rel type="=" target="フォン" sid="wiki00032860-00-01" id="1"/>
+フォン フォン フォン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 8P <rel type="=" target="リンネ" sid="wiki00032860-00-01" id="2"/><NE:PERSON:カール・フォン・リネー>
+リネー りねー リネー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+, , , 特殊 1 読点 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+' ' ' 特殊 1 記号 5 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 4D
+1707 せんななひゃくしち/せんななひゃくなな 1707 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8P <NE:DATE:1707年5月23日>
+23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 7D
+1778 せんななひゃくななじゅうはち 1778 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8D
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="23日" sid="wiki00032860-00-02" id="5"/><NE:DATE:1778年1月10日>
+10 とお 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00032860-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/06/11 MEMO:
+* 1D
++ 1D <NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 2D <rel type="ノ？" target="ラテン" sid="wiki00032860-01-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ？" target="語" sid="wiki00032860-01-01" id="1"/><rel type="ノ" target="リンネ" sid="wiki00032860-00-01" id="2"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 4D <rel type="=" target="カール" sid="wiki00032860-00-01" id="0"/>
+カロルス かろるす カロルス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <rel type="修飾" target="名" sid="wiki00032860-01-01" id="2"/><rel type="=構" target="名" sid="wiki00032860-01-01" id="2"/><rel type="=" mode="AND" target="リンネ" sid="wiki00032860-00-01" id="2"/><NE:PERSON:カロルス・リンナエウス>
+リンナエウス りんなえうす リンナエウス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="リンナエウス" sid="wiki00032860-01-01" id="4"/>
+知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00032860-01-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/06/11 MEMO:
+* -1D
++ -1D
+' ' ' 特殊 1 記号 5 * 0 * 0 NIL
+EOS
+# S-ID:wiki00032860-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/06/11 MEMO:
+* 1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ニツイテ" target="分類" sid="wiki00032860-02" id="0"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ノ" target="学" sid="wiki00032860-02" id="1"/><rel type="=構" target="リンネ" sid="wiki00032860-00-01" id="2"/>
+父 ちち 父 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="父" sid="wiki00032860-02" id="2"/>
+称さ しょうさ 称す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00032860-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/04/24 MEMO:
+* 1D
++ 1D <rel type="ガ" target="名" sid="wiki00032860-03" id="1"/><rel type="ト" target="リンネ" sid="wiki00032860-00-01" id="2"/>
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 2D <rel type="=≒" target="名" sid="wiki00032860-01-01" id="2"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ノ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="修飾" target="名" sid="wiki00032860-03" id="1"/>
+息子 むすこ 息子 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ト" target="息子" sid="wiki00032860-03" id="2"/><rel type="外の関係" target="ため" sid="wiki00032860-03" id="4"/>
+区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 7D <rel type="ノ" target="区別する" sid="wiki00032860-03" id="3"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ヨリ" target="息子" sid="wiki00032860-03" id="2"/><memo text="NEに含めた"/>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:PERSON:head>
++ 7D <rel type="修飾" target="大" sid="wiki00032860-03" id="5"/><rel type="=構" target="リンネ" sid="wiki00032860-00-01" id="2"/><NE:PERSON:大リンネ>
+リンネ りんね リンネ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="リンネ" sid="wiki00032860-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="リンネ" sid="wiki00032860-03" id="6"/><rel type="修飾" target="ため" sid="wiki00032860-03" id="4"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

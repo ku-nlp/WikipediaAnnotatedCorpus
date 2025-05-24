@@ -1,0 +1,104 @@
+# S-ID:wiki00037078-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:124.00000 MOD:2025/05/12 MEMO:
+* 12D
++ 1D
+マイアミ まいあみ マイアミ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 26D <NE:ORGANIZATION:マイアミ・マーリンズ>
+マーリンズ まーりんず マーリンズ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 4D <rel type="修飾" target="メジャー" sid="wiki00037078-00-01" id="2"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 6D <rel type="ノ？" target="リーグ" sid="wiki00037078-00-01" id="3"/>
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 6D
+ナショナル なしょなる ナショナル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 8D <rel type="ノ" target="ベースボール" sid="wiki00037078-00-01" id="4"/><rel type="修飾" target="ナショナル" sid="wiki00037078-00-01" id="5"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 8D
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00037078-00-01" id="6"/><rel type="ノ？" target="東" sid="wiki00037078-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールナショナルリーグ東地区><NE-OPTIONAL:ORGANIZATION,NONE:0>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 12D <rel type="ガ" target="チーム" sid="wiki00037078-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00037078-00-01" id="8"/>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12P
++ 11D
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="修飾" target="プロ" sid="wiki00037078-00-01" id="10"/><rel type="=" target="ベースボール" sid="wiki00037078-00-01" id="4"/>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 26P <rel type="ガ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="=構" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00037078-00-01" id="11"/>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 14D
+フロリダ ふろりだ フロリダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 15D <rel type="=" target="マイアミ" sid="wiki00037078-00-01" id="0"/><rel type="ノ？" target="フロリダ州" sid="wiki00037078-00-01" id="13"/><NE:LOCATION:フロリダ州マイアミ>
+マイアミ まいあみ マイアミ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 17D <rel type="ガ" target="パーク" sid="wiki00037078-00-01" id="17"/><rel type="ニ" target="マイアミ" sid="wiki00037078-00-01" id="14"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 7D
++ 17D <memo text="カリフォルニア州に拠点を置くノンバンク"/>
+ローンデポ ろーんでぽ ローンデポ 名詞 6 組織名 6 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 20D <NE:LOCATION:ローンデポ・パーク>
+パーク ぱーく パーク 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 19D <rel type="ノ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/>
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="=構" target="パーク" sid="wiki00037078-00-01" id="17"/><rel type="ノ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="ノ？" target="本拠" sid="wiki00037078-00-01" id="18"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 26D <rel type="ガ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="ヲ" target="パーク" sid="wiki00037078-00-01" id="17"/><rel type="ト" target="地" sid="wiki00037078-00-01" id="19"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いて いて いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+* 9D
++ 22D <rel type="=" target="ベースボール" sid="wiki00037078-00-01" id="4"/><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION,NONE:0>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 23D <rel type="ガ" target="チーム" sid="wiki00037078-00-01" id="23"/><rel type="ニ" target="MLB" sid="wiki00037078-00-01" id="21"/>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 11D
++ 25D
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 25D
+最 さい 最 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 26D <rel type="デ" target="チーム" sid="wiki00037078-00-01" id="23"/><rel type="修飾" target="最" sid="wiki00037078-00-01" id="24"/>
+南端 なんたん 南端 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="南端" sid="wiki00037078-00-01" id="25"/><rel type="ガ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="ガ" mode="AND" target="地" sid="wiki00037078-00-01" id="19"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00037078-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/12 MEMO:
+* -1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><rel type="ト" target="MIA" sid="wiki00037078-00-02" id="1"/><rel type="ノ" target="マーリンズ" sid="wiki00037078-00-01" id="1"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="=構" target="略称" sid="wiki00037078-00-02" id="0"/><rel type="=" mode="AND" target="マーリンズ" sid="wiki00037078-00-01" id="1"/><NE:ORGANIZATION:MIA>
+MIA MIA MIA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS
+# S-ID:wiki00037078-00-03 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/12 MEMO:
+* 1D
++ 1D
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="MLB" sid="wiki00037078-00-01" id="21"/><rel type="=" mode="AND" target="ベースボール" sid="wiki00037078-00-01" id="4"/><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION,NONE:0>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
+EOS

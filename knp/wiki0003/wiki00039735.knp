@@ -1,0 +1,142 @@
+# S-ID:wiki00039735-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:1.00000 MOD:2025/05/19 MEMO:
+* 1P
++ 1P
+スーフィズム すーふぃずむ スーフィズム 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2D <rel type="=" target="スーフィズム" sid="wiki00039735-00" id="0"/>
+タサウウフ たさううふ タサウウフ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=" target="タサウウフ" sid="wiki00039735-00" id="1"/>
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
+Taṣawwuf Taṣawwuf Taṣawwuf 名詞 6 普通名詞 1 * 0 * 0 NIL
+） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D
+イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:状況"/>
+神秘 しんぴ 神秘だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 10D <rel type="=" target="スーフィズム" sid="wiki00039735-00" id="0"/><rel type="ノ？" target="神秘" sid="wiki00039735-00" id="4"/><rel type="修飾" target="イスラム" sid="wiki00039735-00" id="3"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 7D <rel type="=" target="イスラム" sid="wiki00039735-00" id="5"/>
+イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="イスラム" sid="wiki00039735-00" id="6"/>
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 9D
+神秘 しんぴ 神秘だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 10D <rel type="ノ？" target="神秘" sid="wiki00039735-00" id="8"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="主義" sid="wiki00039735-00" id="9"/><rel type="ノ？" target="教" sid="wiki00039735-00" id="7"/><rel type="ガ" target="主義" sid="wiki00039735-00" id="5"/><rel type="=構" target="主義" sid="wiki00039735-00" id="5"/>
+哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039735-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/05/19 MEMO:
+* 2D
++ 1D <NE:OPTIONAL:アラビア><NE-OPTIONAL:LOCATION,NONE:0>
+アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="ノ？" target="アラビア" sid="wiki00039735-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 3D <rel type="=" target="タサウウフ" sid="wiki00039735-00" id="1"/><rel type="=構" mode="AND" target="主義" sid="wiki00039735-00" id="5"/><rel type="=構" mode="AND" target="語" sid="wiki00039735-01" id="1"/>
+タサウウフ たさううふ タサウウフ 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13P
++ 16P <rel type="ニ" target="不特定:人"/><rel type="デ" target="語" sid="wiki00039735-01" id="1"/><rel type="ト" target="タサウウフ" sid="wiki00039735-01" id="2"/><rel type="ガ" target="主義" sid="wiki00039735-00" id="5"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 13D
++ 16D
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
+的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 5D
++ 6D <rel type="ガ" target="スーフィー" sid="wiki00039735-01" id="6"/><rel type="ノ" target="主義" sid="wiki00039735-00" id="5"/>
+担い手 にないて 担い手 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 8D
++ 9D <rel type="=構" target="担い手" sid="wiki00039735-01" id="5"/>
+スーフィー すーふぃー スーフィー 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D <rel type="修飾" target="英語" sid="wiki00039735-01" id="7"/><rel type="=構" target="英語" sid="wiki00039735-01" id="7"/>
+イズム いずむ イズム 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="イズム" sid="wiki00039735-01" id="8"/><rel type="ニ" target="スーフィー" sid="wiki00039735-01" id="6"/><rel type="外の関係" target="スーフィズム" sid="wiki00039735-01" id="10"/>
+つけた つけた つける 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+* 10P
++ 13P <rel type="トイウ" target="つけた" sid="wiki00039735-01" id="9"/><rel type="=" target="スーフィズム" sid="wiki00039735-00" id="0"/>
+スーフィズム すーふぃずむ スーフィズム 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+または または または 接続詞 10 * 0 * 0 * 0 NIL
+* 11D
++ 13D <rel type="=" target="イスラム" sid="wiki00039735-00" id="3"/>
+イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL
++ 13D <rel type="=" target="神秘" sid="wiki00039735-00" id="4"/>
+神秘 しんぴ 神秘だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 14D <rel type="=" target="主義" sid="wiki00039735-00" id="5"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 15D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 13D
++ 16D <rel type="トイウ" target="主義" sid="wiki00039735-01" id="13"/><rel type="トイウ" mode="AND" target="スーフィズム" sid="wiki00039735-01" id="10"/><rel type="ノ" target="哲学" sid="wiki00039735-00" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="哲学" sid="wiki00039735-00" id="10"/><rel type="ト" target="スーフィズム" sid="wiki00039735-01" id="10"/><rel type="ト" mode="AND" target="主義" sid="wiki00039735-01" id="13"/>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="呼称" sid="wiki00039735-01" id="15"/><rel type="ニ" target="不特定:人"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039735-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/05/19 MEMO:
+* 6D
++ 6D
+ただし ただし ただし 接続詞 10 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 4D <rel type="=" target="スーフィー" sid="wiki00039735-01" id="6"/>
+スーフィー すーふぃー スーフィー 名詞 6 普通名詞 1 * 0 * 0 NIL
+達 たち 達 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="=" target="神秘" sid="wiki00039735-00" id="8"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+神秘 しんぴ 神秘だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D
+特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ガ" target="スーフィー達" sid="wiki00039735-02" id="1"/><rel type="ヲ" target="神秘" sid="wiki00039735-02" id="2"/>
+掲げて かかげて 掲げる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 6D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* -1D
++ -1D <rel type="トイウ" target="掲げていた" sid="wiki00039735-02" id="4"/><rel type="ガ" target="不特定:状況"/>
+訳 わけ 訳 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

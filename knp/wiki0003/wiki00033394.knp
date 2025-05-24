@@ -1,0 +1,164 @@
+# S-ID:wiki00033394-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2025/04/26 MEMO:
+* 10D
++ 10D
+マグマ まぐま マグマ 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 3D
+地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="天体" sid="wiki00033394-00" id="4"/>
+はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ヲ" target="地球" sid="wiki00033394-00" id="1"/><rel type="ト" target="はじめ" sid="wiki00033394-00" id="2"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 5D <rel type="=≒" target="地球" sid="wiki00033394-00" id="1"/>
+天体 てんたい 天体 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 6D <rel type="ガ" target="固体" sid="wiki00033394-00" id="6"/><rel type="ヲ" target="天体" sid="wiki00033394-00" id="4"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9D
++ 9D
+固体 こたい 固体 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 8D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 9D
++ 9D <rel type="ノ" target="固体" sid="wiki00033394-00" id="6"/>
+内部 ないぶ 内部 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 10D <rel type="ガ" target="固体" sid="wiki00033394-00" id="6"/><rel type="デ" target="内部" sid="wiki00033394-00" id="8"/><rel type="外の関係" target="もの" sid="wiki00033394-00" id="10"/>
+溶融 ようゆう 溶融 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="マグマ" sid="wiki00033394-00" id="0"/><rel type="=構" target="マグマ" sid="wiki00033394-00" id="0"/><rel type="トイウ" target="溶融している" sid="wiki00033394-00" id="9"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033394-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000 MOD:2025/04/26 MEMO:
+* 2D
++ 2D <rel type="=" target="地球" sid="wiki00033394-00" id="1"/>
+地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2P
++ 2P <rel type="ノ" target="地球" sid="wiki00033394-01" id="0"/>
+マントル まんとる マントル 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 8D <rel type="ノ" target="地球" sid="wiki00033394-01" id="0"/>
+地殻 ちかく 地殻 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5D
++ 8D
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 5D
++ 5D
+ケイ けい ケイ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="ケイ" sid="wiki00033394-01" id="4"/>
+酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="修飾" target="酸" sid="wiki00033394-01" id="5"/>
+塩 えん 塩 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="修飾" target="塩" sid="wiki00033394-01" id="6"/>
+鉱物 こうぶつ 鉱物 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 9D <rel type="ガ" target="マントル" sid="wiki00033394-01" id="1"/><rel type="ガ" mode="AND" target="地殻" sid="wiki00033394-01" id="2"/><rel type="デ" target="鉱物" sid="wiki00033394-01" id="7"/><rel type="外の関係" target="ため" sid="wiki00033394-01" id="9"/>
+できて できて できる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 13D
++ 20D <rel type="ノ" target="できている" sid="wiki00033394-01" id="8"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 12D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ガ" target="物" sid="wiki00033394-01" id="12"/><rel type="=" target="溶融" sid="wiki00033394-00" id="9"/>
+溶融 ようゆう 溶融 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="マグマ" sid="wiki00033394-01" id="13"/><rel type="=" target="もの" sid="wiki00033394-00" id="10"/><rel type="ノ？" target="マントル" sid="wiki00033394-01" id="1"/><rel type="ノ？" mode="AND" target="地殻" sid="wiki00033394-01" id="2"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 13D
++ 20D <rel type="=構" target="物" sid="wiki00033394-01" id="12"/><rel type="=" mode="AND" target="マグマ" sid="wiki00033394-00" id="0"/>
+マグマ まぐま マグマ 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 13D
++ 20D
+一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
+* 12D
++ 16D <rel type="=" target="ケイ" sid="wiki00033394-01" id="4"/>
+ケイ けい ケイ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <rel type="=" target="酸" sid="wiki00033394-01" id="5"/>
+酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=" target="塩" sid="wiki00033394-01" id="6"/>
+塩 えん 塩 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ガ" target="塩" sid="wiki00033394-01" id="17"/><rel type="ノ" target="マグマ" sid="wiki00033394-01" id="13"/>
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13D
++ 20D <rel type="修飾" target="主体" sid="wiki00033394-01" id="18"/>
+組成 そせい 組成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 19P
++ 28P <rel type="ガ" target="マグマ" sid="wiki00033394-01" id="13"/><rel type="ヲ" target="組成" sid="wiki00033394-01" id="19"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 19D
++ 28D
+稀に まれに 稀だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 17D
++ 23D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+炭酸 たんさん 炭酸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24D <rel type="修飾" target="炭酸" sid="wiki00033394-01" id="22"/>
+塩 えん 塩 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
++ 26D <rel type="修飾" target="塩" sid="wiki00033394-01" id="23"/>
+鉱物 こうぶつ 鉱物 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 26D <rel type="ノ" target="マグマ" sid="wiki00033394-01" id="27"/>
+主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 18D
++ 27D <rel type="ガ" target="マグマ" sid="wiki00033394-01" id="27"/><rel type="ヲ" target="鉱物" sid="wiki00033394-01" id="24"/><rel type="ト" target="主体" sid="wiki00033394-01" id="25"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 19D
++ 28D <rel type="=" target="マグマ" sid="wiki00033394-00" id="0"/>
+マグマ まぐま マグマ 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="マグマ" sid="wiki00033394-01" id="27"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033394-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/06/24 MEMO:
+* 1D
++ 1D <rel type="=構" target="マグマ" sid="wiki00033394-01" id="27"/>
+岩漿 がんしょう 岩漿 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="岩漿" sid="wiki00033394-02-01" id="0"/><rel type="ヲ" target="マグマ" sid="wiki00033394-00" id="0"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033394-02-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/26 MEMO:
+* -1D
++ -1D <rel type="=" target="岩漿" sid="wiki00033394-02-01" id="0"/>
+がんしょう がんしょう がんしょう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

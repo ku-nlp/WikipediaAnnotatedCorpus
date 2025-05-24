@@ -1,0 +1,90 @@
+# S-ID:wiki00033184-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:145.00000 MOD:2025/04/25 MEMO:
+* 20D
++ 21D
+勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 10D
++ 3D
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ" target="国家" sid="wiki00033184-00-01" id="2"/>
+元首 げんしゅ 元首 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4P
++ 5P
+功績 こうせき 功績 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 6D
+業績 ぎょうせき 業績 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ガ" target="個人" sid="wiki00033184-00-01" id="7"/><rel type="ガ" mode="OR" target="団体" sid="wiki00033184-00-01" id="8"/><rel type="ヲ" target="業績" sid="wiki00033184-00-01" id="5"/><rel type="ヲ" mode="AND" target="功績" sid="wiki00033184-00-01" id="4"/>
+残した のこした 残す 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL
+* 7P
++ 8P
+個人 こじん 個人 名詞 6 普通名詞 1 * 0 * 0 NIL
+又は または 又は 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D
+団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 10D <rel type="ヲ" target="団体" sid="wiki00033184-00-01" id="8"/><rel type="ヲ" mode="OR" target="個人" sid="wiki00033184-00-01" id="7"/><rel type="ガ" target="元首など" sid="wiki00033184-00-01" id="3"/><rel type="外の関係" target="ため" sid="wiki00033184-00-01" id="10"/>
+表彰 ひょうしょう 表彰 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 10D
++ 11D <rel type="ノ" target="表彰する" sid="wiki00033184-00-01" id="9"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 12D <rel type="ガ" target="元首" sid="wiki00033184-00-01" id="3"/><rel type="ヲ" target="栄典" sid="wiki00033184-00-01" id="12"/><rel type="ニ" target="個人" sid="wiki00033184-00-01" id="7"/><rel type="ニ" mode="OR" target="団体" sid="wiki00033184-00-01" id="8"/><rel type="修飾" target="ため" sid="wiki00033184-00-01" id="10"/>
+与える あたえる 与える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 12D
++ 13D
+栄典 えいてん 栄典 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 20D
++ 21D <rel type="ノ" target="栄典" sid="wiki00033184-00-01" id="12"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 14D
++ 15D <memo text="RU"/>
+章飾 しょうかざり/しょうしょく 章飾 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 15D
++ 16D <rel type="ニ" target="団体" sid="wiki00033184-00-01" id="8"/><rel type="ニ" mode="OR" target="個人" sid="wiki00033184-00-01" id="7"/><rel type="ガ" target="元首など" sid="wiki00033184-00-01" id="3"/><rel type="ヲ" target="章飾" sid="wiki00033184-00-01" id="14"/>
+授与 じゅよ 授与 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 17D <rel type="ヲ" target="授与" sid="wiki00033184-00-01" id="16"/><rel type="ガ" target="もの" sid="wiki00033184-00-01" id="18"/>
+伴う ともなう 伴う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 20D
++ 21D <rel type="=構" target="勲章" sid="wiki00033184-00-01" id="0"/><rel type="修飾" target="伴う" sid="wiki00033184-00-01" id="16"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
+* 18D
++ 19D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 19D
++ 20D <rel type="=≒" target="栄典" sid="wiki00033184-00-01" id="12"/><rel type="トイウ" target="表彰" sid="wiki00033184-00-01" id="9"/>
+栄誉 えいよ 栄誉 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 20D
++ 21D <rel type="ヲ" target="栄誉" sid="wiki00033184-00-01" id="20"/><rel type="ガ" target="章飾" sid="wiki00033184-00-01" id="21"/>
+示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="勲章" sid="wiki00033184-00-01" id="0"/><rel type="=" target="章飾" sid="wiki00033184-00-01" id="14"/><rel type="=構" mode="AND" target="勲章" sid="wiki00033184-00-01" id="0"/><rel type="修飾" target="示す" sid="wiki00033184-00-01" id="20"/><memo text="CO　RU"/>
+章飾 しょうかざり/しょうしょく 章飾 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00033184-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/25 MEMO:
+* -1D
++ -1D <rel type="=" target="勲章" sid="wiki00033184-00-01" id="0"/>
+くんしょう くんしょう くんしょう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

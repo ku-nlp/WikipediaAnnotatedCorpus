@@ -1,0 +1,212 @@
+# S-ID:wiki00039727-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/19 MEMO:
+* 1D
++ 2D
+初代 しょだい 初代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5P <rel type="=役" target="ケインズ" sid="wiki00039727-00-01" id="1"/><rel type="修飾" target="初代" sid="wiki00039727-00-01" id="0"/><NE:OPTIONAL:初代ケインズ男爵><NE-OPTIONAL:PERSON:0>
+男爵 だんしゃく 男爵 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 4D
+ジョン じょん ジョン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D
+メイナード めいなーど メイナード 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 10D <rel type="=構" target="男爵" sid="wiki00039727-00-01" id="2"/><rel type="=" mode="AND" target="ケインズ" sid="wiki00039727-00-01" id="1"/><NE:PERSON:ジョン・メイナード・ケインズ>
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 10D <NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5P
++ 8D
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="=構" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ノ？" target="イギリス" sid="wiki00039727-00-01" id="6"/><rel type="ニカンシテ" target="経済" sid="wiki00039727-00-01" id="7"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 10P <rel type="=構" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ノ？" target="イギリス" sid="wiki00039727-00-01" id="6"/>
+官僚 かんりょう 官僚 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="=構" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ノ？" target="イギリス" sid="wiki00039727-00-01" id="6"/><memo text="CO"/>
+貴族 きぞく 貴族 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039727-00-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/19 MEMO:
+* 1P
++ 1D <rel type="=" target="ジョン" sid="wiki00039727-00-01" id="3"/>
+John John John 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <rel type="=" target="メイナード" sid="wiki00039727-00-01" id="4"/>
+Maynard Maynard Maynard 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 5P <rel type="=" target="ケインズ" sid="wiki00039727-00-01" id="5"/><NE:PERSON:John　Maynard　Keynes>
+Keynes Keynes Keynes 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=" target="初代" sid="wiki00039727-00-01" id="0"/>
+1st first 1st 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D <rel type="=" target="男爵" sid="wiki00039727-00-01" id="2"/>
+Baron Baron Baron 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 11D <rel type="=" target="ケインズ" sid="wiki00039727-00-01" id="1"/><rel type="=" mode="AND" target="男爵" sid="wiki00039727-00-01" id="2"/><NE:OPTIONAL:1st　Baron　Keynes><NE-OPTIONAL:PERSON:0>
+Keynes Keynes Keynes 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 7D
+1883 せんはっぴゃくはちじゅうさん 1883 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8D
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 11P <NE:DATE:1883年6月5日>
+5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 10D
+1946 せんきゅうひゃくよんじゅうろく 1946 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 11D
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <NE:DATE:1946年4月21日>
+21 にじゅういち 21 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00039727-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/19 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="イギリス" sid="wiki00039727-00-01" id="6"/><NE:LOCATION:イングランド>
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 2D <rel type="ノ？" target="イングランド" sid="wiki00039727-01" id="0"/><NE:LOCATION:ケンブリッジ>
+ケンブリッジ けんぶりっじ ケンブリッジ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ノ" target="ケンブリッジ" sid="wiki00039727-01" id="1"/><memo text="CO"/>
+出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039727-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/19 MEMO:
+* 1D
++ 1D <NE:DATE:20世紀>
+20 にじゅっ/にじっ 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 3D
++ 3D <rel type="ガ" target="人物" sid="wiki00039727-02" id="3"/><rel type="ニオイテ" target="20世紀" sid="wiki00039727-02" id="0"/>
+最 さい 最 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
+重要 じゅうよう 重要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 4D <rel type="ニオイテ" target="20世紀" sid="wiki00039727-02" id="0"/><rel type="修飾" target="最重要" sid="wiki00039727-02" id="2"/>
+人物 じんぶつ 人物 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5P
++ 8P <rel type="ノ" target="人物" sid="wiki00039727-02" id="3"/><rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="=構" target="人物" sid="wiki00039727-02" id="3"/><rel type="=構" mode="AND" target="ケインズ" sid="wiki00039727-00-01" id="5"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+人 り 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 6D <rel type="=" target="経済" sid="wiki00039727-00-01" id="7"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ニカンシテ" target="経済" sid="wiki00039727-02" id="5"/><rel type="=" target="学者" sid="wiki00039727-00-01" id="8"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 8D <rel type="ノ" target="学者" sid="wiki00039727-02" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学者" sid="wiki00039727-02" id="6"/>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
+的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
++ -1D <rel type="修飾" target="代表的" sid="wiki00039727-02" id="7"/><rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="=構" target="ケインズ" sid="wiki00039727-00-01" id="5"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039727-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/05/19 MEMO:
+* 1D
++ 1D <rel type="ガ" target="需要" sid="wiki00039727-03" id="1"/>
+有効 ゆうこう 有効だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 2D <rel type="修飾" target="有効" sid="wiki00039727-03" id="0"/>
+需要 じゅよう 需要 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D
+基いて もとづいて 基く 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 3D
++ 4D <rel type="=" target="ケインズ" sid="wiki00039727-00-01" id="5"/>
+ケインズ けいんず ケインズ 名詞 6 人名 5 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 5D <NE:ORGANIZATION:ケインズサーカス>
+サーカス さーかす サーカス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 9D <rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ヲ" target="サーカス" sid="wiki00039727-03" id="4"/>
+率いて ひきいて 率いる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 5D
++ 7D
+マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="修飾" target="マクロ" sid="wiki00039727-03" id="6"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ニカンシテ" target="経済" sid="wiki00039727-03" id="7"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニモトヅイテ" target="需要" sid="wiki00039727-03" id="1"/><rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ヲ" target="学" sid="wiki00039727-03" id="8"/>
+確立 かくりつ 確立 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+せた せた せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039727-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/05/19 MEMO:
+* 6D
++ 8D
+また また また 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <memo text="NE 第二次世界大戦のことだろうが"/><NE:OPTIONAL:戦後><NE-OPTIONAL:DATE:0>
+戦後 せんご 戦後 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:OPTIONAL:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D
+外為 がいため 外為 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="時間" target="戦後" sid="wiki00039727-04-01" id="1"/><rel type="ノ" target="外為" sid="wiki00039727-04-01" id="2"/>
+体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D
+めぐり めぐり めぐる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+* 6D
++ 6D
+ハリー はりー ハリー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 8D <NE:PERSON:ハリー・ホワイト>
+ホワイト ほわいと ホワイト 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ヲメグッテ" target="体制" sid="wiki00039727-04-01" id="3"/>
+案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ケインズ" sid="wiki00039727-00-01" id="5"/><rel type="ガ" mode="AND" target="ホワイト" sid="wiki00039727-04-01" id="6"/><rel type="ヲ" target="案" sid="wiki00039727-04-01" id="7"/><rel type="ヲメグッテ" target="体制" sid="wiki00039727-04-01" id="3"/>
+出し だし 出す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
+合った あった 合う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00039727-04-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/19 MEMO:
+* -1D
++ 1D
+ブレトン ぶれとん ブレトン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 2D <NE:LOCATION:ブレトン・ウッズ>
+ウッズ うっず ウッズ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="=" target="体制" sid="wiki00039727-04-01" id="3"/><rel type="修飾" target="ウッズ" sid="wiki00039727-04-02" id="1"/>
+体制 たいせい 体制 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

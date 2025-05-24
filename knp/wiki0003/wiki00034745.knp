@@ -1,0 +1,216 @@
+# S-ID:wiki00034745-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/05/07 MEMO:
+* 3D
++ 6D <NE:PERSON:武田>
+武田 たけだ 武田 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2D <memo text="jだとNEの候補にあがらないのでNに"/>
+平安 へいあん 平安 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 3D <rel type="ノ" target="平安" sid="wiki00034745-00-01" id="1"/>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
++ 5P <rel type="ノ" target="時代" sid="wiki00034745-00-01" id="2"/><NE:DATE:平安時代末>
+末 まつ/すえ 末 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D
+戦国 せんごく 戦国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 6D <rel type="ノ" target="戦国" sid="wiki00034745-00-01" id="4"/><NE:DATE:戦国時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="武田氏" sid="wiki00034745-00-01" id="0"/><rel type="時間" target="時代" sid="wiki00034745-00-01" id="5"/><rel type="=構" target="武田氏" sid="wiki00034745-00-01" id="0"/><rel type="カラ" target="末" sid="wiki00034745-00-01" id="3"/><memo text="CO"/>
+武家 ぶけ 武家 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/06 MEMO:
+* -1D
++ -1D <rel type="=" target="武田氏" sid="wiki00034745-00-01" id="0"/><NE:PERSON:たけだ>
+たけだ たけだ たけだ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+し し し 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/07 MEMO:
+* 1D
++ 1D <rel type="ノ" target="武田氏" sid="wiki00034745-00-01" id="0"/>
+本姓 ほんせい 本姓 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="本姓" sid="wiki00034745-01" id="0"/><rel type="=構" target="本姓" sid="wiki00034745-01" id="0"/><memo text="CO　NE 付与する？"/><NE:OPTIONAL:源><NE-OPTIONAL:PERSON,NONE:0>
+源氏 げんじ/みなもとうじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/05/19 MEMO:
+* 9D
++ 13D <rel type="ノ" target="武田氏" sid="wiki00034745-00-01" id="0"/>
+家系 かけい 家系 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D
+清和 せいわ 清和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 3D <rel type="=≒" target="源氏" sid="wiki00034745-01" id="1"/><rel type="修飾" target="清和" sid="wiki00034745-02" id="1"/><NE:OPTIONAL:清和源氏><NE-OPTIONAL:ORGANIZATION,PERSON,ARTIFACT,NONE:0>
+源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ノ" target="源氏" sid="wiki00034745-02" id="2"/>
+一流 いちりゅう 一流 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
+* 4P
++ 5D
+河内 かわち 河内 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <rel type="修飾" target="一流" sid="wiki00034745-02" id="3"/><rel type="修飾" mode="AND" target="河内" sid="wiki00034745-02" id="4"/><rel type="=構" target="一流" sid="wiki00034745-02" id="3"/><rel type="=≒" mode="AND" target="源氏" sid="wiki00034745-02" id="2"/><NE:OPTIONAL:河内源氏><NE-OPTIONAL:ORGANIZATION,PERSON,ARTIFACT,NONE:0>
+源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ノ" target="源氏" sid="wiki00034745-02" id="5"/>
+一門 いちもん 一門 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 8D <rel type="=≒" target="源氏" sid="wiki00034745-02" id="5"/>
+源 みなもと 源 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 10D <NE:PERSON:源義光>
+義光 よしみつ 義光 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 10D <rel type="ノ" target="源氏" sid="wiki00034745-02" id="12"/><rel type="=構" target="義光" sid="wiki00034745-02" id="8"/>
+始祖 しそ 始祖 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D <rel type="ガ" target="源氏" sid="wiki00034745-02" id="12"/><rel type="ヲ" target="義光" sid="wiki00034745-02" id="8"/><rel type="ト" target="始祖" sid="wiki00034745-02" id="9"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9D
++ 12D
+甲斐 かい 甲斐 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 13D <rel type="修飾" target="一門" sid="wiki00034745-02" id="6"/><rel type="修飾" mode="AND" target="甲斐" sid="wiki00034745-02" id="11"/><rel type="=構" target="一門" sid="wiki00034745-02" id="6"/><rel type="=" mode="AND" target="源" sid="wiki00034745-02" id="7"/><NE:OPTIONAL:甲斐源氏><NE-OPTIONAL:ORGANIZATION,PERSON,ARTIFACT,NONE:0>
+源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="源氏" sid="wiki00034745-02" id="12"/><rel type="ガ" target="家系" sid="wiki00034745-02" id="0"/><rel type="=構" target="家系" sid="wiki00034745-02" id="0"/>
+宗家 そうけ 宗家 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2025/05/07 MEMO:
+* 2D
++ 1D
+安芸 あきの 安芸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3P <NE:LOCATION:安芸国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 3D
+若狭 わかさの 若狭 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:若狭国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 5D <rel type="ノ" target="武田氏" sid="wiki00034745-00-01" id="0"/>
+分派 ぶんぱ 分派 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 9P <rel type="ガ" target="分派" sid="wiki00034745-03-01" id="4"/><rel type="ニ" target="国" sid="wiki00034745-03-01" id="1"/><rel type="ニ" mode="AND" target="国" sid="wiki00034745-03-01" id="3"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 7D
+上総 かずさの 上総 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <NE:LOCATION:上総国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5D
++ 9D <rel type="ノ" target="武田氏" sid="wiki00034745-00-01" id="0"/>
+庶流 しょりゅう 庶流 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 14D <rel type="ガ" target="庶流" sid="wiki00034745-03-01" id="8"/><rel type="ニ" target="国など" sid="wiki00034745-03-01" id="7"/>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 14D <rel type="ノ" target="分派" sid="wiki00034745-03-01" id="4"/><rel type="ノ" mode="AND" target="庶流" sid="wiki00034745-03-01" id="8"/>
+いずれ いずれ いずれ 副詞 8 * 0 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 8D
++ 12D
+通字 とおりじ 通字 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 14D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 10D
++ 14D <rel type="=構" target="通字" sid="wiki00034745-03-01" id="11"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+信 のぶ 信 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="信" sid="wiki00034745-03-01" id="13"/><rel type="トシテ" target="通字" sid="wiki00034745-03-01" id="11"/><rel type="ニ" target="庶流" sid="wiki00034745-03-01" id="8"/><rel type="ニ" mode="AND" target="分派" sid="wiki00034745-03-01" id="4"/>
+使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-03-02 括弧始:（ 括弧終:） 括弧位置:42 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/19 MEMO:
+* -1D
++ -1D <rel type="=" target="信" sid="wiki00034745-03-01" id="13"/>
+のぶ のぶ のぶ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/07 MEMO:
+* 1D
++ 1D <NE:DATE:古代>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="臣" sid="wiki00034745-04-01" id="3"/><rel type="時間" target="古代" sid="wiki00034745-04-01" id="0"/>
+国造 くにのみやつこ/こくぞう/こくそう 国造 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 3D
++ 3D <rel type="=" target="武田" sid="wiki00034745-00-01" id="0"/><NE:PERSON:武田>
+武田 たけだ 武田 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <rel type="=構" target="国造" sid="wiki00034745-04-01" id="1"/>
+臣 おみ 臣 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ノ" target="臣" sid="wiki00034745-04-01" id="3"/>
+後裔 こうえい 後裔 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="=" target="河内" sid="wiki00034745-02" id="4"/><NE:LOCATION:河内>
+河内 かわち 河内 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="=" target="源氏" sid="wiki00034745-02" id="5"/><NE:OPTIONAL:源><NE-OPTIONAL:PERSON,NONE:0>
+源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="義光" sid="wiki00034745-02" id="8"/><NE:PERSON:義光>
+義光 よしみつ 義光 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 9D <rel type="ノ" target="義光" sid="wiki00034745-04-01" id="7"/>
+流 りゅう 流 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ノ" target="流" sid="wiki00034745-04-01" id="8"/>
+棟梁 とうりょう 棟梁 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D <rel type="ガ" target="後裔" sid="wiki00034745-04-01" id="4"/><rel type="ト" target="棟梁" sid="wiki00034745-04-01" id="9"/>
+婚姻 こんいん 婚姻 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 9D
++ 13D <rel type="トイウ" target="婚姻した" sid="wiki00034745-04-01" id="10"/>
+説 せつ 説 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="説" sid="wiki00034745-04-01" id="12"/><rel type="ニ" target="不特定:人"/>
+伝わって つたわって 伝わる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00034745-04-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/06 MEMO:
+* -1D
++ -1D <rel type="=" target="臣" sid="wiki00034745-04-01" id="3"/>
+皇別 こうべつ 皇別 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

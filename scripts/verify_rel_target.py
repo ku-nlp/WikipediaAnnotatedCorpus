@@ -111,11 +111,48 @@ def to_rstrip(morpheme: Morpheme) -> bool:
 
 def is_weak_suffix(morpheme: Morpheme) -> bool:
     # https://github.com/ku-nlp/KyotoCorpusAnnotationTool/blob/main/js/setting.js
-    strong_suffixes: set[str] = set(
-        "率|通り|どおり|方|がた|かた|型|形|用|製|家|者|数|費|入り|いり|あけ|上|じょう|作り|づくり|ずみ|無し|なし|増|減|的だ|化|さ|都|道|府|県|郡|市|村|町|区|州".split(
-            "|"
-        )
-    )
+    strong_suffixes: set[str] = {
+        "率",
+        "通り",
+        "どおり",
+        "方",
+        "がた",
+        "かた",
+        "型",
+        "形",
+        "用",
+        "製",
+        "家",
+        "者",
+        "数",
+        "費",
+        "入り",
+        "いり",
+        "あけ",
+        "上",
+        "じょう",
+        "作り",
+        "づくり",
+        "ずみ",
+        "無し",
+        "なし",
+        "増",
+        "減",
+        "的だ",
+        "化",
+        "さ",
+        "都",
+        "道",
+        "府",
+        "県",
+        "郡",
+        "市",
+        "村",
+        "町",
+        "区",
+        "州",
+    }
+
     if morpheme.pos != "接尾辞":
         return False
     return morpheme.text not in strong_suffixes and morpheme.subpos not in (

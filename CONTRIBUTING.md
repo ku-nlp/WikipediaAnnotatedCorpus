@@ -19,7 +19,7 @@
 
 ```shell
 make -f scripts/Makefile pull CORPUS=WAC
-p scripts/filter.py knp
+python scripts/filter.py knp
 ```
 
 - Update `inappropriate.id`
@@ -27,8 +27,8 @@ p scripts/filter.py knp
 ```shell
 cat id/inappropriate.id | sort | uniq > tmp
 mv tmp id/inappropriate.id
-g add id/inappropriate.id
-g commit -m "update id/inappropriate.id"
+git add id/inappropriate.id
+git commit -m "update id/inappropriate.id"
 ```
 
 - Commit annotated files

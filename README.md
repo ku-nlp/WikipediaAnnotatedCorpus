@@ -18,12 +18,12 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 ## Statistics
 
-|       |   Documents |   Sentences |   Morphemes |   Named entities |   Predicates |   Coreferring mentions |
-|-------|-------------|-------------|-------------|------------------|--------------|------------------------|
-| train |       2,080 |       4,841 |     118,289 |            8,144 |       32,034 |                 26,852 |
-| dev   |         100 |         248 |       6,353 |              423 |        1,702 |                  1,435 |
-| test  |         200 |         455 |      11,123 |              801 |        2,875 |                  2,533 |
-| total |       2,380 |       5,544 |     135,765 |            9,368 |       36,611 |                 30,820 |
+| Split   |   Documents |   Sentences |   Morphemes |   Named entities |   Predicates |   Coreferring mentions |
+|---------|-------------|-------------|-------------|------------------|--------------|------------------------|
+| train   |       2,396 |       5,618 |     137,171 |            9,490 |       37,171 |                 30,977 |
+| dev     |         100 |         248 |       6,353 |              423 |        1,702 |                  1,435 |
+| test    |         200 |         455 |      11,123 |              801 |        2,875 |                  2,533 |
+| total   |       2,696 |       6,321 |     154,647 |           10,714 |       41,748 |                 34,945 |
 
 ## Format of the annotation
 

@@ -24,7 +24,7 @@
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00036851-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/05/12 MEMO:
+# S-ID:wiki00036851-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/06/18 MEMO:
 * 3P
 + 1D <rel type="=" target="山縣" sid="wiki00036851-00-01" id="0"/>
 やまがた やまがた やまがた 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
@@ -61,20 +61,20 @@ EOS
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1P
-+ 12P <NE:DATE:1922年>
-1922 せんきゅうひゃくにじゅうに 1922 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 + 12D
-〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 13D <rel type="=" target="1922年" sid="wiki00036851-00-02" id="11"/><NE:DATE:大正11年>
+1922 せんきゅうひゃくにじゅうに 1922 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 12D
+〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <rel type="=" target="1922年" sid="wiki00036851-00-02" id="11"/>
 11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
 + 14D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <NE:DATE:2月1日>
++ -1D <NE:DATE:1922年〈大正11年〉2月1日>
 1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

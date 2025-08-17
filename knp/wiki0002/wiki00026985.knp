@@ -1,0 +1,34 @@
+# S-ID:wiki00026985-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/06/10 MEMO:
+* 3D
++ 1D
+西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="西洋" sid="wiki00026985-00-01" id="0"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <rel type="=≒" target="西洋" sid="wiki00026985-00-01" id="0"/><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <rel type="修飾" target="ヨーロッパ" sid="wiki00026985-00-01" id="2"/><rel type="=構" target="ヨーロッパ" sid="wiki00026985-00-01" id="2"/><rel type="ノ" target="音楽" sid="wiki00026985-00-01" id="4"/>
+起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D <rel type="修飾" target="起源" sid="wiki00026985-00-01" id="3"/><rel type="=構" target="音楽" sid="wiki00026985-00-01" id="1"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="音楽" sid="wiki00026985-00-01" id="1"/><rel type="ノ" target="音楽" sid="wiki00026985-00-01" id="4"/><rel type="=構" target="音楽" sid="wiki00026985-00-01" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00026985-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/10 MEMO:
+* -1D
++ 1D <rel type="=" target="西洋" sid="wiki00026985-00-01" id="0"/>
+せいよう せいよう せいよう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="音楽" sid="wiki00026985-00-01" id="1"/>
+おんがく おんがく おんがく 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+; ; ; 特殊 1 記号 5 * 0 * 0 NIL
+EOS

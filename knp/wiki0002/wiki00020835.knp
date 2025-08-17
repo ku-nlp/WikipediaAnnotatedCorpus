@@ -1,0 +1,195 @@
+# S-ID:wiki00020835-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/22 MEMO:
+* 5D
++ 7D
+黄色 きいろ/おうしょく 黄色 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="基本" sid="wiki00020835-00-01" id="1"/>
+色 しょく/いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="色" sid="wiki00020835-00-01" id="2"/><rel type="修飾" target="基本" sid="wiki00020835-00-01" id="1"/><rel type="=≒" target="黄色" sid="wiki00020835-00-01" id="0"/>
+名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5P
++ 7P <rel type="ガ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="ノ" target="名" sid="wiki00020835-00-01" id="3"/><rel type="=構" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="=構" mode="AND" target="名" sid="wiki00020835-00-01" id="3"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D
+色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 7D <rel type="=≒" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="ノ？" target="色" sid="wiki00020835-00-01" id="5"/>
+三原色 さんげんしょく 三原色 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="ノ" target="三原色" sid="wiki00020835-00-01" id="6"/><rel type="=構" target="三原色" sid="wiki00020835-00-01" id="6"/><rel type="=構" mode="AND" target="黄色" sid="wiki00020835-00-01" id="0"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
+* 1P
++ 1P <rel type="=" target="黄色" sid="wiki00020835-00-01" id="0"/>
+黃色 きいろ 黃色 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=" target="黄色" sid="wiki00020835-00-01" id="0"/>
+きいろ きいろ きいろ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="黄色" sid="wiki00020835-00-01" id="0"/>
+オウショク おうしょく オウショク 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/22 MEMO:
+* 1D
++ 1D
+ヒマワリ ひまわり ヒマワリ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ガ" target="色" sid="wiki00020835-01" id="2"/><rel type="ノ" target="ヒマワリ" sid="wiki00020835-01" id="0"/>
+花弁 かべん 花弁 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の だ 判定詞 4 * 0 判定詞 25 ダ列特殊連体形 4 NIL
+ような ような ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
+* -1D
++ -1D <rel type="ガ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="=構" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="修飾" target="花弁のような" sid="wiki00020835-01" id="1"/><memo text="CO"/>
+色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/22 MEMO:
+* 2D
++ 2D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=構" target="黄色" sid="wiki00020835-00-01" id="0"/>
+yellow yellow yellow 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="デ" target="英語" sid="wiki00020835-02" id="0"/><rel type="ト" target="yellow" sid="wiki00020835-02" id="1"/>
+言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
+* 1D
++ 1D <rel type="=≒" target="黄色" sid="wiki00020835-00-01" id="0"/>
+暖色 だんしょく 暖色 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="ノ" target="暖色" sid="wiki00020835-03" id="0"/><rel type="=構" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="=構" mode="AND" target="暖色" sid="wiki00020835-03" id="0"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/04/22 MEMO:
+* 1D
++ 2D
+波長 はちょう 波長 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 2P <rel type="ノ" target="波長" sid="wiki00020835-04" id="0"/>
+570 ごひゃくななじゅう 570 名詞 6 数詞 7 * 0 * 0 NIL
+〜 から 〜 特殊 1 記号 5 * 0 * 0 NIL
++ 4D <rel type="ノ" target="波長" sid="wiki00020835-04" id="0"/>
+585 ごひゃくはちじゅうご 585 名詞 6 数詞 7 * 0 * 0 NIL
+      特殊 1 空白 6 * 0 * 0 NIL
+nm なのめーとる nm 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 4D
+単色 たんしょく 単色 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="単色" sid="wiki00020835-04" id="3"/><rel type="修飾" mode="AND" target="570" sid="wiki00020835-04" id="1"/><rel type="修飾" mode="OR" target="585 nm" sid="wiki00020835-04" id="2"/>
+光 こう 光 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 13P <rel type="ガ" target="光" sid="wiki00020835-04" id="4"/><rel type="=構" target="光" sid="wiki00020835-04" id="4"/>
+黄色 きいろ 黄色 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 7D <rel type="ガ" target="波長" sid="wiki00020835-04" id="7"/>
+長 ちょう 長 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 8I <rel type="修飾" target="長" sid="wiki00020835-04" id="6"/><rel type="=≒" target="585 nm" sid="wiki00020835-04" id="2"/>
+波長 はちょう 波長 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6P
++ 12P <rel type="ガ" target="波長側" sid="wiki00020835-04" id="7"/><rel type="ニ" target="橙色" sid="wiki00020835-04" id="8"/>
+橙色 だいだいいろ/とうしょく 橙色 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 10D <rel type="ガ" target="波長" sid="wiki00020835-04" id="10"/>
+短 たん 短 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 12I <rel type="修飾" target="短" sid="wiki00020835-04" id="9"/><rel type="=≒" target="570" sid="wiki00020835-04" id="1"/>
+波長 はちょう 波長 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7I
++ 12D
+黄緑 きみどり/おうりょく 黄緑 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="黄緑" sid="wiki00020835-04" id="11"/>
+色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="波長側" sid="wiki00020835-04" id="12"/><rel type="ニ" target="色" sid="wiki00020835-04" id="12"/>
+近付く ちかづく 近付く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/22 MEMO:
+* 1D
++ 1D <memo text="Red Green Blue"/>
+RGB RGB RGB 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ガ" target="著者"/><rel type="ヲ" target="黄色" sid="wiki00020835-04" id="7"/><rel type="デ" target="RGB" sid="wiki00020835-05" id="0"/>
+示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3P
++ 3P
+赤 あか 赤 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D
+緑 みどり 緑 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ノ" target="緑" sid="wiki00020835-05" id="3"/><rel type="ト" target="赤" sid="wiki00020835-05" id="2"/>
+中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="修飾" target="中間" sid="wiki00020835-05" id="4"/><rel type="ガ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="=構" target="黄色" sid="wiki00020835-00-01" id="0"/><memo text="CO"/>
+色 いろ 色 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-06-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/29 MEMO:
+* 1D
++ 1D <rel type="=" target="黄色" sid="wiki00020835-00-01" id="0"/>
+黄 き/おう/こう 黄 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="黄" sid="wiki00020835-06-01" id="0"/><rel type="ノ" target="黄色" sid="wiki00020835-00-01" id="0"/><rel type="=構" target="黄" sid="wiki00020835-06-01" id="0"/><memo text="CO"/>
+同義語 どうぎご 同義語 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020835-06-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
+* 1D
++ 1D <rel type="=" target="黄" sid="wiki00020835-06-01" id="0"/>
+き き き 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=" target="黄" sid="wiki00020835-06-01" id="0"/>
+オウ おう オウ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="黄" sid="wiki00020835-06-01" id="0"/>
+コウ こう コウ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

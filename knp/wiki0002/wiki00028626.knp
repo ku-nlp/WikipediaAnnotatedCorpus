@@ -1,0 +1,68 @@
+# S-ID:wiki00028626-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:85.00000 MOD:2025/07/10 MEMO:
+* 9D
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="商品" sid="wiki00028626-00-01" id="1"/>
+卸売 おろしうり 卸売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+商品 しょうひん 商品 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ガ" target="商品" sid="wiki00028626-00-01" id="1"/>
+流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 11D <rel type="ノ" target="流通" sid="wiki00028626-00-01" id="2"/>
+過程 かてい 過程 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 5P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="商品" sid="wiki00028626-00-01" id="1"/>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 6P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物1"/>
+収穫 しゅうかく 収穫 名詞 6 サ変名詞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="商品" sid="wiki00028626-00-01" id="1"/><rel type="ニ" target="不特定:人"/>
+小売 こうり 小売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ノ" target="小売" sid="wiki00028626-00-01" id="6"/><rel type="ト" target="製造" sid="wiki00028626-00-01" id="4"/><rel type="ト" mode="AND" target="収穫" sid="wiki00028626-00-01" id="5"/>
+中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 10D <rel type="ガ" target="活動" sid="wiki00028626-00-01" id="10"/><rel type="ニ" target="中間" sid="wiki00028626-00-01" id="7"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 8D
++ 10D
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ニカンシテ" target="経済" sid="wiki00028626-00-01" id="9"/><rel type="ガ" target="不特定:人"/>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ガ" target="業種" sid="wiki00028626-00-01" id="12"/><rel type="ヲ" target="活動" sid="wiki00028626-00-01" id="10"/><rel type="デ" target="過程" sid="wiki00028626-00-01" id="3"/>
+行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="卸売" sid="wiki00028626-00-01" id="0"/><rel type="=構" target="卸売" sid="wiki00028626-00-01" id="0"/><rel type="トイウ" target="行う" sid="wiki00028626-00-01" id="11"/>
+業種 ぎょうしゅ 業種 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028626-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/27 MEMO:
+* -1D
++ -1D <rel type="=" target="卸売" sid="wiki00028626-00-01" id="0"/>
+おろしうり おろしうり おろしうり 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028626-00-03 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/10 MEMO:
+* -1D
++ 1D
+生鮮 せいせん 生鮮 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="生鮮" sid="wiki00028626-00-03" id="0"/><rel type="=≒" target="収穫" sid="wiki00028626-00-01" id="5"/><rel type="=" mode="AND" target="不特定:物1"/>
+食品 しょくひん 食品 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028626-00-04 括弧始:（ 括弧終:） 括弧位置:44 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/10 MEMO:
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="=≒" target="経済" sid="wiki00028626-00-01" id="9"/>
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS

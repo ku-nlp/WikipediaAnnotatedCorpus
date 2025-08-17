@@ -1,0 +1,65 @@
+# S-ID:wiki00024048-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/05/22 MEMO:
+* 1P
++ 1D
+本塁 ほんるい 本塁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="ノ？" target="本塁" sid="wiki00024048-00-01" id="0"/>
+打 だ 打 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 6D <rel type="=" target="打" sid="wiki00024048-00-01" id="1"/>
+ホームラン ほーむらん ホームラン 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 5D
++ 6D <rel type="ニオイテ" target="野球" sid="wiki00024048-00-01" id="3"/>
+打者 だしゃ 打者 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="打者" sid="wiki00024048-00-01" id="5"/><rel type="ニオイテ" target="野球" sid="wiki00024048-00-01" id="3"/><rel type="ガ" target="ホームラン" sid="wiki00024048-00-01" id="2"/><rel type="ガ" mode="AND" target="打" sid="wiki00024048-00-01" id="1"/><rel type="=構" target="ホームラン" sid="wiki00024048-00-01" id="2"/><rel type="=構" mode="AND" target="打" sid="wiki00024048-00-01" id="1"/><memo text="CO"/>
+記録 きろく 記録 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00024048-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/22 MEMO:
+* -1D
++ 1D <rel type="=" target="本塁" sid="wiki00024048-00-01" id="0"/>
+ほんるい ほんるい ほんるい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="打" sid="wiki00024048-00-01" id="1"/>
+だ だ だ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00024048-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/05/22 MEMO:
+* 4D
++ 1D
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="スポーツ" sid="wiki00024048-01" id="0"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="新聞" sid="wiki00024048-01" id="1"/>
+紙上 しじょう 紙上 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 4D <rel type="=" target="ホームラン" sid="wiki00024048-00-01" id="2"/>
+HR HR HR 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ガ" target="ホームラン" sid="wiki00024048-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="新聞" sid="wiki00024048-01" id="1"/><rel type="ト" target="HR" sid="wiki00024048-01" id="3"/><rel type="外の関係" target="場合" sid="wiki00024048-01" id="5"/>
+略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 4D
++ 6D <rel type="ノ" target="略される" sid="wiki00024048-01" id="4"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="場合" sid="wiki00024048-01" id="5"/><rel type="デ" target="紙上など" sid="wiki00024048-01" id="2"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

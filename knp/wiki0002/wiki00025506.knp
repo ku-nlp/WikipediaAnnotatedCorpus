@@ -1,0 +1,236 @@
+# S-ID:wiki00025506-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2025/06/02 MEMO:
+* 10D
++ 12D
+聖餐 せいさん 聖餐 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 2D
+イエス いえす イエス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 4D <NE:PERSON:イエス・キリスト>
+キリスト きりすと キリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="晩餐" sid="wiki00025506-00-01" id="4"/>
+最後の さいごの 最後だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 9P
++ 11P <rel type="修飾" target="最後の" sid="wiki00025506-00-01" id="3"/><rel type="修飾" mode="AND" target="キリスト" sid="wiki00025506-00-01" id="2"/><rel type="=構" target="聖餐" sid="wiki00025506-00-01" id="0"/>
+晩餐 ばんさん 晩餐 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ノ" target="晩餐" sid="wiki00025506-00-01" id="4"/>
+後 のち 後 名詞 6 時相名詞 10 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="晩餐" sid="wiki00025506-00-01" id="4"/>
+再現 さいげん 再現 名詞 6 サ変名詞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 9D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 9D
++ 11D <rel type="トシテ" target="再現" sid="wiki00025506-00-01" id="7"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="会食" sid="wiki00025506-00-01" id="11"/><rel type="時間" target="後" sid="wiki00025506-00-01" id="5"/>
+執行 しっこう 執行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10 NIL
+* 10D
++ 11D <rel type="ガ" target="会食" sid="wiki00025506-00-01" id="11"/>
+典礼 てんれい 典礼 名詞 6 普通名詞 1 * 0 * 0 NIL
+的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
++ 12D <rel type="修飾" target="典礼的" sid="wiki00025506-00-01" id="10"/><rel type="=構" target="聖餐" sid="wiki00025506-00-01" id="0"/><rel type="=構" mode="AND" target="再現" sid="wiki00025506-00-01" id="7"/><rel type="ガ" target="不特定:人"/>
+会食 かいしょく 会食 名詞 6 サ変名詞 2 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="聖餐" sid="wiki00025506-00-01" id="0"/><rel type="ヲ" target="会食" sid="wiki00025506-00-01" id="11"/><rel type="ヲ" mode="AND" target="晩餐" sid="wiki00025506-00-01" id="4"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/02 MEMO:
+* -1D
++ -1D <rel type="=" target="聖餐" sid="wiki00025506-00-01" id="0"/>
+せいさん せいさん せいさん 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/02 MEMO:
+* 1D
++ 3D <rel type="=" target="聖餐" sid="wiki00025506-00-01" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+エウカリスト えうかりすと エウカリスト 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 2D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="日本" sid="wiki00025506-01-01" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="聖餐" sid="wiki00025506-00-01" id="0"/><rel type="ノ" target="エウカリスト" sid="wiki00025506-01-01" id="0"/><rel type="ノ？" target="語" sid="wiki00025506-01-01" id="2"/><rel type="=構" target="聖餐" sid="wiki00025506-00-01" id="0"/><memo text="CO"/>
+訳 やく 訳 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/10/17 MEMO:
+* -1D
++ -1D <rel type="=" target="エウカリスト" sid="wiki00025506-01-01" id="0"/>
+ユーカリスト ゆーかりすと ユーカリスト 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:85.00000 MOD:2025/06/02 MEMO:
+* 10D
++ 13D <rel type="=" target="聖餐" sid="wiki00025506-00-01" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖餐 せいさん 聖餐 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 5D
+おもに おもに おもだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 3D
++ 4D <memo text="読み「さいほう」は仏教関連語として入れず"/>
+西方 せいほう 西方 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 4D
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="教" sid="wiki00025506-02" id="3"/><rel type="ノ？" target="西方" sid="wiki00025506-02" id="2"/><rel type="ノ？≒" mode="AND" target="キリスト" sid="wiki00025506-00-01" id="2"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="訳語" sid="wiki00025506-02" id="6"/><rel type="デ" target="派" sid="wiki00025506-02" id="4"/><rel type="ニ" target="不特定:人"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 10P
++ 13P <rel type="ガ" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="修飾" target="使われる" sid="wiki00025506-02" id="5"/><rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/>
+訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL
+だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 8D <rel type="=≒" target="派" sid="wiki00025506-02" id="4"/>
+カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="カトリック" sid="wiki00025506-02" id="7"/><rel type="=≒" target="派" sid="wiki00025506-02" id="4"/>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9P
++ 10D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖体 せいたい 聖体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12P <rel type="ニカンシテ" target="聖体" sid="wiki00025506-02" id="9"/><rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/>
+祭儀 さいぎ 祭儀 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 12D <rel type="=" target="聖体" sid="wiki00025506-02" id="9"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖体 せいたい 聖体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10D
++ 13D <rel type="ニカンシテ" target="聖体" sid="wiki00025506-02" id="11"/><rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/>
+秘跡 ひせき 秘跡 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="デ" target="教会" sid="wiki00025506-02" id="8"/><rel type="ガ" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="ト" target="祭儀" sid="wiki00025506-02" id="10"/><rel type="ト" mode="AND" target="秘跡" sid="wiki00025506-02" id="12"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="教会" sid="wiki00025506-02" id="8"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/06/02 MEMO:
+* 2D
++ 3D <rel type="=" target="日本" sid="wiki00025506-01-01" id="1"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2P
++ 3P <rel type="ノ？" target="日本" sid="wiki00025506-03" id="0"/><rel type="=≒" target="派" sid="wiki00025506-02" id="4"/><memo text="聖なる公同の教会（holy catholic Church）に由来"/><NE:OPTIONAL:聖公会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+聖公会 せいこうかい 聖公会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 3D <rel type="=≒" target="派" sid="wiki00025506-02" id="4"/>
+プロテスタント ぷろてすたんと プロテスタント 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="日本" sid="wiki00025506-03" id="0"/><rel type="修飾" target="プロテスタント" sid="wiki00025506-03" id="2"/><rel type="=≒" target="派" sid="wiki00025506-02" id="4"/>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=" target="聖餐" sid="wiki00025506-02" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖餐 せいさん 聖餐 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ニカンシテ" target="聖餐" sid="wiki00025506-03" id="4"/><rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/>
+式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="ト" target="式" sid="wiki00025506-03" id="5"/><rel type="デ" target="聖公会" sid="wiki00025506-03" id="1"/><rel type="デ" mode="AND" target="教会など" sid="wiki00025506-03" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="聖公会" sid="wiki00025506-03" id="1"/><rel type="ニ" mode="？" target="教会" sid="wiki00025506-03" id="3"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/06/02 MEMO:
+* 4D
++ 1D
+正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 7D <rel type="修飾" target="正" sid="wiki00025506-04" id="0"/><rel type="=≒" target="派" sid="wiki00025506-02" id="4"/><memo text="東方教会"/><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2P
++ 3D <rel type="=" target="聖体" sid="wiki00025506-02" id="9"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖体 せいたい 聖体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="ニカンシテ" target="聖体" sid="wiki00025506-04" id="2"/>
+礼儀 れいぎ 礼儀 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 5D <rel type="=" target="聖体" sid="wiki00025506-04" id="2"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+聖体 せいたい 聖体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="ニカンシテ" target="聖体" sid="wiki00025506-04" id="4"/>
+機密 きみつ 機密 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+* 4D
++ 7D <rel type="=構" target="聖餐" sid="wiki00025506-02" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+領聖 りょうせい 領聖 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="聖餐" sid="wiki00025506-02" id="0"/><rel type="ト" target="礼儀" sid="wiki00025506-04" id="3"/><rel type="ト" mode="AND" target="機密" sid="wiki00025506-04" id="5"/><rel type="ト" mode="AND" target="領聖" sid="wiki00025506-04" id="6"/><rel type="デ" target="教会" sid="wiki00025506-04" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="教会" sid="wiki00025506-04" id="1"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025506-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/06/02 MEMO:
+* 1D
++ 1D <rel type="=" target="キリスト" sid="wiki00025506-00-01" id="2"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+主 しゅ 主 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="修飾" target="主" sid="wiki00025506-05" id="0"/><rel type="=" target="晩餐" sid="wiki00025506-00-01" id="4"/>
+晩餐 ばんさん 晩餐 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 6D <rel type="トイウ" target="晩餐" sid="wiki00025506-05" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 5D
+いずれ いずれ いずれ 副詞 8 * 0 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="=≒" target="派" sid="wiki00025506-02" id="4"/><rel type="=≒" mode="AND" target="教会" sid="wiki00025506-02" id="8"/><rel type="=≒" mode="AND" target="聖公会" sid="wiki00025506-03" id="1"/><rel type="=≒" mode="AND" target="教会" sid="wiki00025506-03" id="3"/><rel type="=≒" mode="AND" target="教会" sid="wiki00025506-04" id="1"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="語" sid="wiki00025506-05" id="2"/><rel type="デ" target="派" sid="wiki00025506-05" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="派" sid="wiki00025506-05" id="5"/>
+使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

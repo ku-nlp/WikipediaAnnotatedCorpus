@@ -1,0 +1,66 @@
+# S-ID:wiki00025185-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/05/29 MEMO:
+* 4D
++ 4D <rel type="ノ？" target="静岡県" sid="wiki00025185-00-01" id="1"/><NE:LOCATION:沼津市>
+沼津 ぬまづ 沼津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:静岡県>
+静岡 しずおか 静岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="静岡県" sid="wiki00025185-00-01" id="1"/>
+東部 とうぶ 東部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ガ" target="市" sid="wiki00025185-00-01" id="4"/><rel type="ニ" target="東部" sid="wiki00025185-00-01" id="2"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="沼津市" sid="wiki00025185-00-01" id="0"/><rel type="=構" target="沼津市" sid="wiki00025185-00-01" id="0"/><memo text="CO"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025185-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/10/08 MEMO:
+* -1D
++ -1D <rel type="=" target="沼津市" sid="wiki00025185-00-01" id="0"/><NE:LOCATION:ぬまづし>
+ぬまづ ぬまづ ぬまづ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00025185-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/10/08 MEMO:
+* 1D
++ 1D
+伊豆 いず 伊豆 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <NE:LOCATION:伊豆半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ノ" target="半島" sid="wiki00025185-01" id="1"/>
+付け根 つけね 付け根 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="付け根" sid="wiki00025185-01" id="2"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="沼津市" sid="wiki00025185-00-01" id="0"/><rel type="ニ" target="西側" sid="wiki00025185-01" id="3"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00025185-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/29 MEMO:
+* 1D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ≒" target="市" sid="wiki00025185-02" id="2"/>
+施行 しこう 施行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+時 じ 時 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 2D
+特例 とくれい 特例 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=≒" target="沼津市" sid="wiki00025185-00-01" id="0"/><rel type="修飾" target="特例" sid="wiki00025185-02" id="1"/><rel type="修飾" mode="AND" target="施行時" sid="wiki00025185-02" id="0"/><memo text="特例市制度が2015年に廃止され、廃止時に特例市だった市のうち中核市等に移行しなかった市のこと"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="沼津市" sid="wiki00025185-00-01" id="0"/><rel type="ノ" target="市" sid="wiki00025185-02" id="2"/><rel type="=構" target="沼津市" sid="wiki00025185-00-01" id="0"/><rel type="=構" mode="AND" target="市" sid="wiki00025185-02" id="2"/><memo text="CO"/>
+１ ひと １ 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

@@ -1,0 +1,79 @@
+# S-ID:wiki00029284-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:94.00000 MOD:2025/07/21 MEMO:
+* 9D
++ 1D
+三十 さんじゅう 三十 名詞 6 数詞 7 * 0 * 0 NIL
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 13D <rel type="時間" target="三十年" sid="wiki00029284-00-01" id="0"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D <NE:LOCATION:ドイツ>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=構" target="ドイツ" sid="wiki00029284-00-01" id="2"/><rel type="ノ" target="戦争" sid="wiki00029284-00-01" id="1"/>
+舞台 ぶたい 舞台 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ガ" target="戦争" sid="wiki00029284-00-01" id="12"/><rel type="ヲ" target="ドイツ" sid="wiki00029284-00-01" id="2"/><rel type="ト" target="舞台" sid="wiki00029284-00-01" id="3"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 5P
++ 6P <NE:DATE:1618年>
+1618 せんろっぴゃくじゅうはち 1618 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D <NE:DATE:1648年>
+1648 せんろっぴゃくよんじゅうはち 1648 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ニ" target="1648年" sid="wiki00029284-00-01" id="6"/><rel type="カラ" target="1618年" sid="wiki00029284-00-01" id="5"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 8D
++ 12D <rel type="ガ" target="戦争" sid="wiki00029284-00-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="舞台" sid="wiki00029284-00-01" id="3"/><rel type="デ" target="ドイツ" sid="wiki00029284-00-01" id="2"/>
+戦わ たたかわ 戦う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 9D
++ 10P <rel type="ガ" target="戦争" sid="wiki00029284-00-01" id="12"/>
+宗教 しゅうきょう 宗教 名詞 6 普通名詞 1 * 0 * 0 NIL
+的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 12D <rel type="ガ" target="戦争" sid="wiki00029284-00-01" id="12"/>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
+的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
++ 12D
+諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 13D <rel type="修飾" target="宗教的" sid="wiki00029284-00-01" id="9"/><rel type="修飾" mode="AND" target="政治的" sid="wiki00029284-00-01" id="10"/><rel type="修飾" mode="AND" target="諸" sid="wiki00029284-00-01" id="11"/><rel type="=構" target="戦争" sid="wiki00029284-00-01" id="1"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="戦争" sid="wiki00029284-00-01" id="12"/><rel type="=構" target="戦争" sid="wiki00029284-00-01" id="1"/><rel type="判ガ" target="戦争" sid="wiki00029284-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="戦争" sid="wiki00029284-00-01" id="12"/><rel type="ト" target="戦争" sid="wiki00029284-00-01" id="1"/><memo text="CO"/>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00029284-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/21 MEMO:
+* -1D
++ 3D <rel type="ノ" target="戦争" sid="wiki00029284-00-01" id="1"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ 2D
+Thirty Thirty Thirty 名詞 6 数詞 7 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 3D <rel type="=" target="三十年" sid="wiki00029284-00-01" id="0"/>
+Years Years Years 名詞 6 普通名詞 1 * 0 * 0 NIL
+' ' ' 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="英" sid="wiki00029284-00-02" id="0"/><rel type="=" target="戦争" sid="wiki00029284-00-01" id="1"/><rel type="=構" mode="AND" target="英" sid="wiki00029284-00-02" id="0"/>
+War War War 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00029284-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/21 MEMO:
+* -1D
++ 1D
+神聖 しんせい 神聖だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:LOCATION:head>
++ 2D <rel type="修飾" target="神聖" sid="wiki00029284-00-03" id="0"/>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=≒" target="ドイツ" sid="wiki00029284-00-01" id="2"/><NE:LOCATION:神聖ローマ帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS

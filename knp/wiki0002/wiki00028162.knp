@@ -1,0 +1,39 @@
+# S-ID:wiki00028162-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/06/19 MEMO:
+* 4D
++ 7D
+村 むら/そん 村 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 6D <rel type="ガ" target="団体" sid="wiki00028162-00-01" id="6"/>
+普通 ふつう 普通だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 6D
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D
+公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ニオイテ" target="日本" sid="wiki00028162-00-01" id="1"/><rel type="=≒" target="村" sid="wiki00028162-00-01" id="0"/><rel type="修飾" target="普通" sid="wiki00028162-00-01" id="3"/><rel type="修飾" mode="AND" target="公共" sid="wiki00028162-00-01" id="5"/><rel type="修飾" mode="AND" target="地方" sid="wiki00028162-00-01" id="4"/>
+団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="村" sid="wiki00028162-00-01" id="0"/><rel type="ノ" target="団体" sid="wiki00028162-00-01" id="6"/><rel type="=構" target="村" sid="wiki00028162-00-01" id="0"/><rel type="=構" mode="AND" target="団体" sid="wiki00028162-00-01" id="6"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028162-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/13 MEMO:
+* 1P
++ 1P <rel type="=" target="村" sid="wiki00028162-00-01" id="0"/>
+むら むら むら 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="村" sid="wiki00028162-00-01" id="0"/>
+そん そん そん 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

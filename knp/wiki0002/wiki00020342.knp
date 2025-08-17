@@ -1,0 +1,192 @@
+# S-ID:wiki00020342-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:116.00000 MOD:2025/04/18 MEMO:
+* 15D
++ 1D
+真珠 しんじゅ 真珠 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <NE:LOCATION:真珠湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 33D <rel type="ガ" target="海軍" sid="wiki00020342-00-01" id="8"/><rel type="デ" target="湾" sid="wiki00020342-00-01" id="1"/><rel type="ヲ" target="基地" sid="wiki00020342-00-01" id="22"/><rel type="ヲ" mode="AND" target="艦隊" sid="wiki00020342-00-01" id="21"/><rel type="ヲ" mode="AND" target="海軍" sid="wiki00020342-00-01" id="19"/>
+攻撃 こうげき 攻撃 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 5D
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
+次 じ 次 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 5D
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="第二次" sid="wiki00020342-00-01" id="3"/><rel type="ノ？" target="世界" sid="wiki00020342-00-01" id="4"/>
+大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 24D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 11D
++ 8D
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 24D <rel type="ノ" target="日本" sid="wiki00020342-00-01" id="7"/><NE:ORGANIZATION:日本海軍>
+海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 16D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 12D
+ハワイ はわい ハワイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 12D
+準 じゅん 準 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 14D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00020342-00-01" id="9"/><rel type="修飾" target="準" sid="wiki00020342-00-01" id="11"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 14D
+オアフ おあふ オアフ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 16D <rel type="ノ？" target="州" sid="wiki00020342-00-01" id="12"/>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 16D <rel type="=" target="真珠" sid="wiki00020342-00-01" id="0"/>
+真珠 しんじゅ 真珠 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 17D <rel type="=" target="湾" sid="wiki00020342-00-01" id="1"/><rel type="ノ？" target="島" sid="wiki00020342-00-01" id="14"/><NE:LOCATION:ハワイ準州オアフ島真珠湾>
+湾 わん 湾 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 22D <rel type="ニ" target="湾" sid="wiki00020342-00-01" id="16"/><rel type="ガ" target="基地" sid="wiki00020342-00-01" id="22"/><rel type="ガ" mode="AND" target="艦隊" sid="wiki00020342-00-01" id="21"/>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+* 9D
++ 19D <rel type="=" target="アメリカ合衆国" sid="wiki00020342-00-01" id="9"/>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 22D <rel type="ノ" target="アメリカ" sid="wiki00020342-00-01" id="18"/><NE:ORGANIZATION:アメリカ海軍>
+海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9P
++ 21D
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 22P <rel type="ノ？" target="海軍" sid="wiki00020342-00-01" id="19"/><NE:ORGANIZATION:太平洋艦隊>
+艦隊 かんたい 艦隊 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 23D <rel type="ノ？" target="海軍" sid="wiki00020342-00-01" id="19"/>
+基地 きち 基地 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 24D
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 15D
++ 33D <rel type="ガ" target="海軍" sid="wiki00020342-00-01" id="8"/><rel type="ヲ" target="攻撃" sid="wiki00020342-00-01" id="33"/><rel type="ニタイシテ" target="艦隊" sid="wiki00020342-00-01" id="21"/><rel type="ニタイシテ" mode="AND" target="基地" sid="wiki00020342-00-01" id="22"/><rel type="ニオイテ" target="大戦" sid="wiki00020342-00-01" id="5"/>
+行った おこなった 行う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 13P
++ 26D
+航空 こうくう 航空 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 27D <rel type="修飾" target="航空" sid="wiki00020342-00-01" id="25"/>
+母艦 ぼかん 母艦 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 30P <rel type="ノ？" target="母艦" sid="wiki00020342-00-01" id="26"/><rel type="ノ？" mode="AND" target="海軍" sid="wiki00020342-00-01" id="8"/>
+艦載機 かんさいき 艦載機 名詞 6 普通名詞 1 * 0 * 0 NIL
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 14D
++ 30D <rel type="ガ" target="艇" sid="wiki00020342-00-01" id="30"/>
+特殊 とくしゅ 特殊だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 30D <rel type="ガ" target="艇" sid="wiki00020342-00-01" id="30"/>
+潜航 せんこう 潜航 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 31D <rel type="ノ？" target="海軍" sid="wiki00020342-00-01" id="8"/><rel type="ノ？" mode="AND" target="潜航" sid="wiki00020342-00-01" id="29"/><rel type="修飾" target="特殊" sid="wiki00020342-00-01" id="28"/>
+艇 てい 艇 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 15D
++ 33D
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ 33D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
+奇襲 きしゅう 奇襲 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="修飾" target="奇襲" sid="wiki00020342-00-01" id="32"/><rel type="判ガ" target="攻撃" sid="wiki00020342-00-01" id="2"/><rel type="=構" target="攻撃" sid="wiki00020342-00-01" id="2"/><rel type="ガ" target="海軍" sid="wiki00020342-00-01" id="8"/><rel type="ニヨッテ" target="艦載機" sid="wiki00020342-00-01" id="27"/><rel type="ニヨッテ" mode="AND" target="艇" sid="wiki00020342-00-01" id="30"/><rel type="ヲ" target="艦隊" sid="wiki00020342-00-01" id="21"/><rel type="ヲ" mode="AND" target="基地" sid="wiki00020342-00-01" id="22"/><rel type="ヲ" mode="AND" target="海軍" sid="wiki00020342-00-01" id="19"/>
+攻撃 こうげき 攻撃 名詞 6 サ変名詞 2 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020342-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
+* 4P
++ 1D <rel type="=" target="真珠" sid="wiki00020342-00-01" id="0"/>
+しんじゅ しんじゅ しんじゅ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="湾" sid="wiki00020342-00-01" id="1"/><NE:LOCATION:しんじゅわん>
+わん わん わん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 14P <rel type="=" target="攻撃" sid="wiki00020342-00-01" id="2"/>
+こうげき こうげき こうげき 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 4D <rel type="=" target="日本" sid="wiki00020342-00-01" id="7"/><NE:LOCATION:日本>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="修飾" target="日本" sid="wiki00020342-00-02" id="3"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
+* 4D
++ 7D
+1941 せんきゅうひゃくよんじゅういち 1941 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 7D
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8D <rel type="=" target="1941年" sid="wiki00020342-00-02" id="5"/>
+16 じゅうろく 16 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
+） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
++ 9D
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <memo text="「日本時間」もNEに含む？"/><NE:DATE:1941年（昭和16年）12月8日>
+8 よう 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ 14P <rel type="デ" target="時間" sid="wiki00020342-00-02" id="4"/><rel type="ノ" target="8日" sid="wiki00020342-00-02" id="9"/><NE:TIME:未明>
+未明 みめい 未明 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:TIME:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 12D <rel type="=" target="ハワイ" sid="wiki00020342-00-01" id="10"/><rel type="=" mode="AND" target="州" sid="wiki00020342-00-01" id="12"/><NE:LOCATION:ハワイ>
+ハワイ はわい ハワイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14D <rel type="修飾" target="ハワイ" sid="wiki00020342-00-02" id="11"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
+* -1D
++ 14D <rel type="ノ" target="16年" sid="wiki00020342-00-02" id="7"/>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="デ" target="時間" sid="wiki00020342-00-02" id="12"/><rel type="=" target="未明" sid="wiki00020342-00-02" id="10"/><memo text="「ハワイ時間」もNEに含む？"/><NE:DATE:12月7日>
+7 なの 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00020342-00-03 括弧始:（ 括弧終:） 括弧位置:122 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
+* -1D
++ -1D <rel type="=" target="母艦" sid="wiki00020342-00-01" id="26"/>
+空母 くうぼ 空母 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020342-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/18 MEMO:
+* 1D
++ 4D <rel type="ノ" target="攻撃" sid="wiki00020342-00-01" id="33"/>
+当時 とうじ 当時 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="日本" sid="wiki00020342-00-01" id="7"/>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="=" target="日本" sid="wiki00020342-00-01" id="7"/><NE:LOCATION:大日本帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 6D <rel type="時間" target="当時" sid="wiki00020342-01-01" id="0"/><rel type="ガ" target="帝国" sid="wiki00020342-01-01" id="3"/><rel type="ト" target="海戦" sid="wiki00020342-01-01" id="6"/><rel type="ノ" target="攻撃" sid="wiki00020342-00-01" id="2"/><rel type="ヲ" target="攻撃" sid="wiki00020342-00-01" id="2"/>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ 6D <rel type="=" target="ハワイ" sid="wiki00020342-00-01" id="10"/><NE:LOCATION:布哇比>
+布哇比 はわい 布哇比 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="呼称" sid="wiki00020342-01-01" id="4"/><rel type="=構" target="呼称" sid="wiki00020342-01-01" id="4"/><rel type="=" mode="AND" target="攻撃" sid="wiki00020342-00-01" id="2"/>
+海戦 かいせん 海戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020342-01-02 括弧始:（ 括弧終:） 括弧位置:17 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
+* 1P
++ 1D <rel type="=" target="布哇比" sid="wiki00020342-01-01" id="5"/><NE:LOCATION:ハワイ>
+ハワイ はわい ハワイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3P <rel type="=" target="海戦" sid="wiki00020342-01-01" id="6"/>
+海戦 かいせん 海戦 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 3D <rel type="=" target="布哇比" sid="wiki00020342-01-01" id="5"/><NE:LOCATION:はわい>
+はわい はわい はわい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="海戦" sid="wiki00020342-01-01" id="6"/>
+かいせん かいせん かいせん 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

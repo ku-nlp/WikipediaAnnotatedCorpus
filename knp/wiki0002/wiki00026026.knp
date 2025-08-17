@@ -1,0 +1,245 @@
+# S-ID:wiki00026026-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/06/03 MEMO:
+* 8D
++ 1D <memo text="もともとは愛新/覚羅"/>
+愛新覚羅 あいしんかくら/あいしんぎょろ 愛新覚羅 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 12D <NE:PERSON:愛新覚羅　溥儀>
+溥儀 ふぎ/ぷーいー 溥儀 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 3D
+大清 だいしん/だいちん 大清 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <NE:LOCATION:大清帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+* 3D
++ 5D <rel type="ノ" target="皇帝" sid="wiki00026026-00-01" id="7"/><rel type="ニオイテ" target="帝国" sid="wiki00026026-00-01" id="3"/><rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/>
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 5D
++ 7D <rel type="ガ" target="皇帝" sid="wiki00026026-00-01" id="7"/><rel type="ニシテ" target="第12代" sid="wiki00026026-00-01" id="4"/><rel type="ニオイテ" target="帝国" sid="wiki00026026-00-01" id="3"/>
+最後の さいごの 最後だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 6D
++ 12P <rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="ノ" target="帝国" sid="wiki00026026-00-01" id="3"/><rel type="修飾" target="最後の" sid="wiki00026026-00-01" id="6"/><rel type="修飾" mode="AND" target="第12代" sid="wiki00026026-00-01" id="4"/><memo text="CO"/>
+皇帝 こうてい 皇帝 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 12D <rel type="ノ" target="皇帝" sid="wiki00026026-00-01" id="7"/>
+後 のち 後 名詞 6 時相名詞 10 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D
+満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 11D <NE:LOCATION:満州国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 12P <rel type="ノ" target="国" sid="wiki00026026-00-01" id="10"/><rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/>
+執政 しっせい 執政 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="国" sid="wiki00026026-00-01" id="10"/><rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="=≒" mode="AND" target="皇帝" sid="wiki00026026-00-01" id="7"/><memo text="CO"/>
+皇帝 こうてい 皇帝 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00026026-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
+* 1P
++ 1D <rel type="=" target="愛新覚羅" sid="wiki00026026-00-01" id="0"/>
+あいしんかくら あいしんかくら あいしんかくら 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 3P <rel type="=" target="溥儀" sid="wiki00026026-00-01" id="1"/><NE:PERSON:あいしんかくら　ふぎ>
+ふぎ ふぎ ふぎ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 3D <rel type="=" target="愛新覚羅" sid="wiki00026026-00-01" id="0"/>
+アイシンギョロ あいしんぎょろ アイシンギョロ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 8P <rel type="=" target="溥儀" sid="wiki00026026-00-01" id="1"/><NE:PERSON:アイシンギョロ・プーイー>
+プーイー ぷーいー プーイー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 5D <rel type="=" target="満州" sid="wiki00026026-00-01" id="9"/><NE:OPTIONAL:満州><NE-OPTIONAL:LOCATION,NONE:0>
+満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 8D <rel type="ノ？" target="満州" sid="wiki00026026-00-02" id="4"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 8D <rel type="ノ" target="語" sid="wiki00026026-00-02" id="5"/>
+転写 てんしゃ 転写 名詞 6 普通名詞 1 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 8D <rel type="=" target="アイシンギョロ" sid="wiki00026026-00-02" id="2"/>
+aisin aisin aisin 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
+gioro gioro gioro 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
++ 14P <rel type="デ" target="転写" sid="wiki00026026-00-02" id="6"/><rel type="=" target="プーイー" sid="wiki00026026-00-02" id="3"/><rel type="=構" mode="AND" target="転写" sid="wiki00026026-00-02" id="6"/><NE:PERSON:aisin　gioro　pu　i>
+pu pu pu 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
+i i i 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 10D
+1906 せんきゅうひゃくろく 1906 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 11D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 14D <memo text="生年"/><NE:DATE:1906年2月7日>
+7 なの 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 13D
+1967 せんきゅうひゃくろくじゅうなな/せんきゅうひゃくろくじゅうしち 1967 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 14D
+10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="7日" sid="wiki00026026-00-02" id="11"/><memo text="没年"/><NE:DATE:1967年10月17日>
+17 じゅうしち 17 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00026026-00-03 括弧始:（ 括弧終:） 括弧位置:99 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
+* 1D
++ 6D <rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="時間" target="2日" sid="wiki00026026-00-03" id="3"/><rel type="時間" mode="OR" target="12日" sid="wiki00026026-00-03" id="6"/><rel type="ニ" target="皇帝" sid="wiki00026026-00-01" id="7"/>
+在位 ざいい 在位 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 2D
+1908 せんきゅうひゃくはち 1908 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 3D
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <rel type="=≒" target="在位" sid="wiki00026026-00-03" id="0"/><NE:DATE:1908年12月2日>
+2 ふつ 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 5D
+1912 せんきゅうひゃくじゅうに 1912 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="2日" sid="wiki00026026-00-03" id="3"/><rel type="=≒" target="在位" sid="wiki00026026-00-03" id="0"/><NE:DATE:1912年2月12日>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00026026-00-04 括弧始:（ 括弧終:） 括弧位置:135 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/11/01 MEMO:
+* 1D
++ 1D
+1932 せんきゅうひゃくさんじゅうに 1932 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 2D
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <rel type="=≒" target="執政" sid="wiki00026026-00-01" id="11"/><NE:DATE:1932年3月9日>
+9 ここの 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 4D
+1934 せんきゅうひゃくさんじゅうよ 1934 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="9日" sid="wiki00026026-00-04" id="2"/><rel type="=≒" target="執政" sid="wiki00026026-00-01" id="11"/><NE:DATE:1934年3月1日>
+1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00026026-00-05 括弧始:（ 括弧終:） 括弧位置:161 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
+* 1D
++ 6D <rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="時間" target="1日" sid="wiki00026026-00-05" id="3"/><rel type="時間" mode="OR" target="18日" sid="wiki00026026-00-05" id="6"/><rel type="ニ" target="皇帝" sid="wiki00026026-00-01" id="12"/><rel type="=≒" target="在位" sid="wiki00026026-00-03" id="0"/>
+在位 ざいい 在位 名詞 6 サ変名詞 2 * 0 * 0 NIL
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL
++ 2D
+1934 せんきゅうひゃくさんじゅうよ 1934 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 3D
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <NE:DATE:1934年3月1日>
+1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 5D
+1945 せんきゅうひゃくよんじゅうご 1945 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 6D
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="1日" sid="wiki00026026-00-05" id="3"/><NE:DATE:1945年8月18日>
+18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00026026-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/03 MEMO:
+* 1I
++ 13I <NE:DATE:1960年>
+1960 せんきゅうひゃくろくじゅう 1960 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3P
++ 6D <NE:LOCATION:中華人民共和国>
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="=" target="中華人民共和国" sid="wiki00026026-01-01" id="1"/>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6D
+人民 じんみん 人民 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <rel type="ニカンシテ" target="政治" sid="wiki00026026-01-01" id="4"/>
+協商 きょうしょう 協商 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 11D <rel type="ノ？" target="中華人民共和国" sid="wiki00026026-01-01" id="1"/>
+会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8P
+文 ぶん 文 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D
+史 し 史 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 10D <rel type="ガ" target="委員" sid="wiki00026026-01-01" id="10"/><rel type="ヲ" target="文" sid="wiki00026026-01-01" id="7"/><rel type="ヲ" mode="AND" target="史" sid="wiki00026026-01-01" id="8"/>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 11D
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 13D <rel type="ノ？" target="会議" sid="wiki00026026-01-01" id="6"/><NE:ORGANIZATION:中国人民政治協商会議文史研究委員会>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 13D
+専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17P <rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="カラ" target="1960年" sid="wiki00026026-01-01" id="0"/><rel type="ヲ" target="委員" sid="wiki00026026-01-01" id="13"/><rel type="ノ？" target="会" sid="wiki00026026-01-01" id="11"/><rel type="修飾" target="専門" sid="wiki00026026-01-01" id="12"/><rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/>
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3I
++ 17I <NE:DATE:1964年>
+1964 せんきゅうひゃくろくじゅうよ 1964 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 17D <rel type="=" target="会議" sid="wiki00026026-01-01" id="6"/><NE:ORGANIZATION:政協>
+政協 せいきょう 政協 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 17D
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="ノ？" target="政協" sid="wiki00026026-01-01" id="15"/><rel type="修飾" target="全国" sid="wiki00026026-01-01" id="16"/><rel type="=構" target="溥儀" sid="wiki00026026-00-01" id="1"/>
+委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="溥儀" sid="wiki00026026-00-01" id="1"/><rel type="カラ" target="1964年" sid="wiki00026026-01-01" id="14"/><rel type="ヲ" target="委員" sid="wiki00026026-01-01" id="17"/><memo text="PO:する"/>
+兼任 けんにん 兼任 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00026026-01-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
+* -1D
++ -1D <rel type="=" target="会議" sid="wiki00026026-01-01" id="6"/><NE:ORGANIZATION:政協>
+政協 せいきょう 政協 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS

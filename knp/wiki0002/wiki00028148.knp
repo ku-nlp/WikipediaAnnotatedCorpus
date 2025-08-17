@@ -1,0 +1,137 @@
+# S-ID:wiki00028148-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/03/12 MEMO:
+* 4D
++ 4D
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+陸地 りくち 陸地 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 4D
++ 4D <rel type="ガ" target="水域" sid="wiki00028148-00-01" id="4"/><rel type="ニヨッテ" target="陸地" sid="wiki00028148-00-01" id="1"/>
+狭め せばめ 狭める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="海峡" sid="wiki00028148-00-01" id="0"/><rel type="=構" target="海峡" sid="wiki00028148-00-01" id="0"/><rel type="トイウ" target="狭められている" sid="wiki00028148-00-01" id="3"/><memo text="CO"/>
+水域 すいいき 水域 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028148-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/12 MEMO:
+* -1D
++ -1D <rel type="=" target="海峡" sid="wiki00028148-00-01" id="0"/>
+かいきょう かいきょう かいきょう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028148-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:36.00000 MOD:2025/06/19 MEMO:
+* 3D
++ 1D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="日本" sid="wiki00028148-01-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4D
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+海 うみ/かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
++ 5D <rel type="トイウ" target="海" sid="wiki00028148-01-01" id="2"/><rel type="=構" target="海" sid="wiki00028148-01-01" id="2"/><rel type="修飾" target="一" sid="wiki00028148-01-01" id="3"/>
+字 じ 字 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 9D <rel type="ガ" target="字" sid="wiki00028148-01-01" id="4"/><rel type="ニ" target="海峡" sid="wiki00028148-00-01" id="0"/><rel type="デ" target="語" sid="wiki00028148-01-01" id="1"/>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 9D
+必ずしも かならずしも 必ずしも 副詞 8 * 0 * 0 * 0 NIL
+* 6D
++ 8D <rel type="=" target="海" sid="wiki00028148-01-01" id="2"/>
+海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 9D <rel type="ニ" target="海" sid="wiki00028148-01-01" id="7"/><rel type="ガ" target="もの" sid="wiki00028148-01-01" id="9"/>
+限った かぎった 限る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
+* -1D
++ -1D <rel type="トイウ" target="限った" sid="wiki00028148-01-01" id="8"/><rel type="ガ" target="海峡" sid="wiki00028148-00-01" id="0"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028148-01-02 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/06/19 MEMO:
+* 2D
++ 1D
+五 ご 五 名詞 6 数詞 7 * 0 * 0 NIL
++ 2D <rel type="修飾" target="五" sid="wiki00028148-01-02" id="0"/>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="大" sid="wiki00028148-01-02" id="1"/>
+湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2P
++ 4D
+ヒューロン ひゅーろん ヒューロン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6P <rel type="=≒" target="湖" sid="wiki00028148-01-02" id="2"/><rel type="修飾" target="湖" sid="wiki00028148-01-02" id="2"/><NE:LOCATION:ヒューロン湖>
+湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D
+ミシガン みしがん ミシガン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="=≒" target="湖" sid="wiki00028148-01-02" id="2"/><rel type="修飾" target="湖" sid="wiki00028148-01-02" id="2"/><NE:LOCATION:ミシガン湖>
+湖 こ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 9D <rel type="ガ" target="海峡" sid="wiki00028148-01-02" id="8"/><rel type="ト" target="湖" sid="wiki00028148-01-02" id="4"/><rel type="ヲ" target="湖" sid="wiki00028148-01-02" id="6"/>
+結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+* -1D
++ 9D
+マキノー まきのー マキノー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="修飾" target="結ぶ" sid="wiki00028148-01-02" id="7"/><rel type="ノ？" target="湖" sid="wiki00028148-01-02" id="2"/><rel type="=≒" target="海峡" sid="wiki00028148-00-01" id="0"/><NE:LOCATION:マキノー海峡>
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028148-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:75.00000 MOD:2025/06/19 MEMO:
+* 2D
++ 1D <rel type="=" target="マキノー" sid="wiki00028148-01-02" id="8"/>
+マキノー まきのー マキノー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="海峡" sid="wiki00028148-01-02" id="9"/><NE:LOCATION:マキノー海峡>
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の だ 判定詞 4 * 0 判定詞 25 ダ列特殊連体形 4 NIL
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 2D
++ 3D <rel type="=≒" target="湖" sid="wiki00028148-01-02" id="4"/><rel type="=≒" mode="AND" target="湖" sid="wiki00028148-01-02" id="6"/>
+湖 みずうみ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ニ" target="湖" sid="wiki00028148-02" id="2"/><rel type="ガ" target="水域" sid="wiki00028148-00-01" id="4"/><rel type="外の関係" target="場合" sid="wiki00028148-02" id="4"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 5D
++ 6D <rel type="ノ" target="ある" sid="wiki00028148-02" id="3"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5D
++ 6D <rel type="=構≒" target="海峡" sid="wiki00028148-00-01" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+湖峡 こきょう 湖峡 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ト" target="湖峡" sid="wiki00028148-02" id="5"/><rel type="ヲ" target="海峡" sid="wiki00028148-00-01" id="0"/><rel type="ニ" target="場合" sid="wiki00028148-02" id="4"/><memo text="モダリティ保留？"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

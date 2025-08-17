@@ -1,0 +1,108 @@
+# S-ID:wiki00020544-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2025/04/21 MEMO:
+* 6D
++ 9D <NE:OPTIONAL:更新世><NE-OPTIONAL:DATE,NONE:0>
+更新世 こうしんせい 更新世 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 2D
+地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ？" target="地質" sid="wiki00020544-00-01" id="1"/>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="更新世" sid="wiki00020544-00-01" id="0"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 9P <rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="ノ" target="区分" sid="wiki00020544-00-01" id="3"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" mode="AND" target="区分" sid="wiki00020544-00-01" id="3"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 6D
+約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+258万 にひゃくごじゅうはちまん 258万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8P <NE:DATE:258万年前>
+前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6P
++ 8D
+約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+1万 いちまん 1万 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 9D <NE:DATE:1万年前>
+前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="マデ" target="前" sid="wiki00020544-00-01" id="8"/><rel type="カラ" target="前" sid="wiki00020544-00-01" id="6"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/>
+期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020544-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/21 MEMO:
+* 1P
++ 1P <rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:こうしんせい><NE-OPTIONAL:DATE,NONE:0>
+こうしんせい こうしんせい こうしんせい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:Pleistocene><NE-OPTIONAL:DATE,NONE:0>
+Pleistocene Pleistocene Pleistocene 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+EOS
+# S-ID:wiki00020544-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/21 MEMO:
+* 2D
++ 1D
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="修飾" target="第四" sid="wiki00020544-01" id="0"/><rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="区分" sid="wiki00020544-00-01" id="3"/><NE:OPTIONAL:第四紀><NE-OPTIONAL:DATE,NONE:0>
+紀 き 紀 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D
+第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="紀" sid="wiki00020544-01" id="1"/><rel type="修飾" target="第一" sid="wiki00020544-01" id="2"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/>
+世 せい 世 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020544-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/21 MEMO:
+* 2D
++ 2D
+かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:洪積世><NE-OPTIONAL:DATE,NONE:0>
+洪積世 こうせきせい 洪積世 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5P
++ 6P <rel type="ガ" target="不特定:人"/><rel type="時間" target="かつて" sid="wiki00020544-02-01" id="0"/><rel type="ヲ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="ト" target="洪積世" sid="wiki00020544-02-01" id="1"/>
+いい いい いう 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 4D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ノ" target="洪積世" sid="wiki00020544-02-01" id="1"/>
+ほとんど ほとんど ほとんど 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ 6D
+氷河 ひょうが 氷河 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ほとんど" sid="wiki00020544-02-01" id="4"/><rel type="=≒" target="洪積世" sid="wiki00020544-02-01" id="1"/><rel type="ノ？" target="氷河" sid="wiki00020544-02-01" id="5"/>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00020544-02-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/21 MEMO:
+* 1P
++ 1P <rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><NE:OPTIONAL:こうせきせい><NE-OPTIONAL:DATE,NONE:0>
+こうせきせい こうせきせい こうせきせい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><NE:OPTIONAL:Diluvium><NE-OPTIONAL:DATE,NONE:0>
+Diluvium Diluvium Diluvium 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+EOS

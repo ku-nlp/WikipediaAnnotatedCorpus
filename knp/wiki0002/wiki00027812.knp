@@ -1,0 +1,70 @@
+# S-ID:wiki00027812-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/06/16 MEMO:
+* 14D
++ 17D
+レーダー れーだー レーダー 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D
+電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ？" target="対象" sid="wiki00027812-00" id="2"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ヲ" target="電波" sid="wiki00027812-00" id="1"/><rel type="ニ" target="物" sid="wiki00027812-00" id="3"/><rel type="ガ" target="不特定:人"/>
+向けて むけて 向ける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 7P
++ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="電波" sid="wiki00027812-00" id="1"/><rel type="ニムケテ" target="物" sid="wiki00027812-00" id="3"/>
+発射 はっしゃ 発射 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 8D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ガ" target="電波" sid="wiki00027812-00" id="1"/><rel type="外の関係" target="波" sid="wiki00027812-00" id="8"/>
+反射 はんしゃ 反射 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ノ" target="発射し" sid="wiki00027812-00" id="5"/><rel type="ノ？" target="反射" sid="wiki00027812-00" id="7"/>
+波 は 波 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="波" sid="wiki00027812-00" id="8"/><rel type="外の関係" target="こと" sid="wiki00027812-00" id="10"/>
+測定 そくてい 測定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9D
++ 11D <rel type="トイウ" target="測定する" sid="wiki00027812-00" id="9"/><rel type="トイウ" mode="AND" target="発射し" sid="wiki00027812-00" id="5"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 16D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 11D
++ 13D <rel type="=" target="対象" sid="wiki00027812-00" id="2"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="=" target="物" sid="wiki00027812-00" id="3"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12P
++ 15P <rel type="マデ" target="物" sid="wiki00027812-00" id="13"/><rel type="カラ" target="不特定:人"/>
+距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13D
++ 16D <rel type="カラ" target="不特定:人"/><rel type="ノ" target="物" sid="wiki00027812-00" id="13"/>
+方向 ほうこう 方向 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 14D
++ 17D <rel type="ニヨッテ" target="こと" sid="wiki00027812-00" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="方向" sid="wiki00027812-00" id="15"/><rel type="ヲ" mode="AND" target="距離" sid="wiki00027812-00" id="14"/><rel type="デ" target="装置" sid="wiki00027812-00" id="17"/>
+測る はかる 測る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="レーダー" sid="wiki00027812-00" id="0"/><rel type="=構" target="レーダー" sid="wiki00027812-00" id="0"/><rel type="修飾" target="測る" sid="wiki00027812-00" id="16"/>
+装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

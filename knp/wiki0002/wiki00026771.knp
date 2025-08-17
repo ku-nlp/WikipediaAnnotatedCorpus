@@ -1,0 +1,72 @@
+# S-ID:wiki00026771-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/06/09 MEMO:
+* 3D
++ 6D <NE:LOCATION:スカンディナヴィア>
+スカンディナヴィア すかんでぃなゔぃあ スカンディナヴィア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 2D <NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ノ" target="ヨーロッパ" sid="wiki00026771-00" id="1"/>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D
+スカンディナヴィア すかんでぃなゔぃあ スカンディナヴィア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="ノ？" target="北部" sid="wiki00026771-00" id="2"/><NE:LOCATION:スカンディナヴィア半島>
+半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <rel type="ノ" target="半島" sid="wiki00026771-00" id="4"/>
+周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><rel type="修飾" target="北部" sid="wiki00026771-00" id="2"/><rel type="修飾" mode="AND" target="周辺" sid="wiki00026771-00" id="5"/><memo text="CO"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00026771-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/06/09 MEMO:
+* 4D
++ 1D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 5D <rel type="ノ？" target="日本" sid="wiki00026771-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2P
++ 3P <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><NE:LOCATION:スカンディナビア>
+スカンディナビア すかんでぃなびあ スカンディナビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 4P <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><NE:LOCATION:スカンジナビア>
+スカンジナビア すかんじなびあ スカンジナビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><NE:LOCATION:スカンジナヴィア>
+スカンジナヴィア すかんじなゔぃあ スカンジナヴィア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="不特定:人"/><rel type="デ" target="語" sid="wiki00026771-01" id="1"/><rel type="ト" target="スカンディナビア" sid="wiki00026771-01" id="2"/><rel type="ト" mode="AND" target="スカンジナビア" sid="wiki00026771-01" id="3"/><rel type="ト" mode="AND" target="スカンジナヴィア" sid="wiki00026771-01" id="4"/><rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00026771-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/06/09 MEMO:
+* 1D
++ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ガ" target="不特定:人"/><rel type="デ" target="英語" sid="wiki00026771-02" id="0"/><rel type="ヲ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
+発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D <memo text="地名とせず"/>
+スキャンダネイヴィア すきゃんだねいゔぃあ スキャンダネイヴィア 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="発音" sid="wiki00026771-02" id="1"/><rel type="ニ" target="スキャンダネイヴィア" sid="wiki00026771-02" id="2"/>
+近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

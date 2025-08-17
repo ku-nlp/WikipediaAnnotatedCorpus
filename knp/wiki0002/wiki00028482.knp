@@ -1,0 +1,289 @@
+# S-ID:wiki00028482-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/06/25 MEMO:
+* 1D
++ 4D
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
+* 10D
++ 2D
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="ノ" target="人口" sid="wiki00028482-00-01" id="1"/>
+密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 4D <rel type="ノ" target="密度" sid="wiki00028482-00-01" id="2"/>
+順 じゅん 順だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:OPTIONAL:middle>
++ 16D <rel type="修飾" target="順" sid="wiki00028482-00-01" id="3"/><rel type="ノ" target="国" sid="wiki00028482-00-01" id="0"/><NE:OPTIONAL:国の人口密度順リスト><NE-OPTIONAL:ARTIFACT,NONE:0>
+リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 6D
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5P
++ 10P <rel type="修飾" target="世界" sid="wiki00028482-00-01" id="5"/>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 8D
+海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="海外" sid="wiki00028482-00-01" id="7"/>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 10D <rel type="ガ" target="地域" sid="wiki00028482-00-01" id="10"/>
+非 ひ 非 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
+独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="修飾" target="非独立" sid="wiki00028482-00-01" id="9"/><rel type="=≒" target="領土" sid="wiki00028482-00-01" id="8"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 12D
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ？" target="地域" sid="wiki00028482-00-01" id="10"/><rel type="ノ？" mode="AND" target="国" sid="wiki00028482-00-01" id="6"/><rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
+密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 14D <rel type="ガ" target="密度" sid="wiki00028482-00-01" id="12"/>
+大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2 NIL
+* 9D
++ 15D <rel type="修飾" target="大きい" sid="wiki00028482-00-01" id="13"/>
+順に じゅんに 順だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 10D
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00028482-00-01" id="16"/>
+並べた ならべた 並べる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="リスト" sid="wiki00028482-00-01" id="4"/><rel type="トイウ" target="並べた" sid="wiki00028482-00-01" id="15"/><rel type="=構" target="リスト" sid="wiki00028482-00-01" id="4"/><memo text="CO"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028482-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/25 MEMO:
+* 1D
++ 4D <rel type="=" target="国" sid="wiki00028482-00-01" id="0"/>
+くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+の の の 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+* -1D
++ 2D <rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/>
+じんこう じんこう じんこう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
+みつど みつど みつど 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 4D <rel type="=" target="順" sid="wiki00028482-00-01" id="3"/>
+じゅん じゅん じゅんだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="=" target="リスト" sid="wiki00028482-00-01" id="4"/><NE:OPTIONAL:くにのじんこうみつどじゅんリスト><NE-OPTIONAL:ARTIFACT,NONE:0>
+リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+EOS
+# S-ID:wiki00028482-00-03 括弧始:（ 括弧終:） 括弧位置:52 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/27 MEMO:
+* 1D
++ 1D
+住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 2D <rel type="=" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ" target="住民" sid="wiki00028482-00-03" id="0"/>
+数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
+/ わる/ぱー / 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="=" target="密度" sid="wiki00028482-00-01" id="12"/><memo text="助数辞とせず"/>
+km2 へいほうきろめーとる km2 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028482-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:24.00000 MOD:2025/06/25 MEMO:
+* 1D
++ 1D
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="リスト" sid="wiki00028482-00-01" id="4"/><rel type="ノ" mode="AND" target="人口" sid="wiki00028482-01-01" id="0"/>
+データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 4D
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 5P
++ 7D <rel type="修飾" target="世界" sid="wiki00028482-01-01" id="3"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 12D
++ 6D
+国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 7P <rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/>
+ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 17P <rel type="ガ" target="データ" sid="wiki00028482-01-01" id="1"/><rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="1"/><memo text="TY「を」衍字と解釈（作業時でのWikipediaでは削除されている）"/><NE:ARTIFACT:世界の人口　国別ランキング・推移>
+推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 9D
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" mode="AND" target="リスト" sid="wiki00028482-00-01" id="4"/>
+データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 17D
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 13D
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 11D
++ 13D
+国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 16D <rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" target="国土" sid="wiki00028482-01-01" id="12"/><rel type="修飾" target="世界" sid="wiki00028482-01-01" id="11"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 12D
++ 15D
+国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 16P <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/>
+ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 17D <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/><memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/><NE:ARTIFACT:世界の国土面積　国別ランキング・推移>
+推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="推移" sid="wiki00028482-01-01" id="16"/><rel type="ガ" target="データ" sid="wiki00028482-01-01" id="9"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="9"/>
+データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028482-01-02 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
+* -1D
++ -1D <memo text="世界の人口国別ランキング推移　の出典は国連データ"/><NE:ORGANIZATION:国連>
+国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+EOS
+# S-ID:wiki00028482-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/03/26 MEMO:
+* 9D
++ 10D
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 9D
++ 10D <rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 5P
+南極 なんきょく 南極 名詞 6 普通名詞 1 * 0 * 0 NIL
+及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D
+無人 むじん 無人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="無人" sid="wiki00028482-02-01" id="4"/>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ノ" target="南極" sid="wiki00028482-02-01" id="3"/><rel type="ノ" mode="AND" target="島" sid="wiki00028482-02-01" id="5"/><rel type="=≒" target="面積" sid="wiki00028482-02-01" id="2"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9P
++ 10P <rel type="ガ" target="面積" sid="wiki00028482-02-01" id="6"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 9D
+陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 9D
++ 10D <rel type="修飾" target="陸上" sid="wiki00028482-02-01" id="8"/>
+水域 すいいき 水域 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="水域" sid="wiki00028482-02-01" id="9"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/><rel type="=" target="含まれていない" sid="wiki00028482-02-01" id="7"/>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028482-02-02 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
+* 1P
++ 1P <rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/>
+湖 みずうみ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/>
+沼 ぬま 沼 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/>
+川 かわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00028482-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/06/25 MEMO:
+* 11D
++ 15D
+また また また 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 6D
++ 3D <rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
+密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 6D
+『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 5D
++ 6D
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 9D <rel type="ノ" target="人口" sid="wiki00028482-03" id="5"/><rel type="修飾" target="世界" sid="wiki00028482-03" id="4"/>
+密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
+* 6D
++ 8D
+国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 9P <rel type="修飾" target="国別" sid="wiki00028482-03" id="7"/><rel type="ノ" target="密度" sid="wiki00028482-03" id="6"/>
+ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 10D <memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/><NE:ARTIFACT:世界の人口密度　国別ランキング・推移>
+推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
+』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 11D <rel type="ガ" target="密度" sid="wiki00028482-03" id="3"/><rel type="ノ" target="推移" sid="wiki00028482-03" id="9"/><rel type="外の関係" target="ため" sid="wiki00028482-03" id="11"/>
+データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* 11D
++ 15D <rel type="ノ" target="データ" sid="wiki00028482-03" id="10"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-03" id="3"/>
+計算 けいさん 計算 名詞 6 サ変名詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 14D <rel type="ガ" target="計算" sid="wiki00028482-03" id="12"/>
+あわ あわ あう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 11D
++ 15D <rel type="ノ" target="あわない" sid="wiki00028482-03" id="13"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="場合" sid="wiki00028482-03" id="14"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

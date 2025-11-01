@@ -19,7 +19,7 @@ jobs:
       - name: Generate org files
         run: uv run python scripts/knp_to_org.py
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v6
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: update org files
           # Optional glob pattern of files which should be added to the commit

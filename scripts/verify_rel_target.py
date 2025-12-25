@@ -47,8 +47,7 @@ def main() -> None:
         # write error to csv files
         with Path(f"{error_type.value}.csv").open(mode="w") as f:
             f.write("文書ID,文ID,基本句,格,ターゲット\n")
-            for row in data:
-                f.write(",".join(str(item) for item in row) + "\n")
+            f.writelines(",".join(str(item) for item in row) + "\n" for row in data)
 
 
 def search_target_base_phrase(base_phrase: BasePhrase, rel_tag: RelTag, do_modify: bool = False) -> ErrorType | RelTag:

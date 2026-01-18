@@ -14,7 +14,7 @@ jobs:
       - name: Install uv
         uses: astral-sh/setup-uv@v7
         with:
-          python-version: "3.10"
+          python-version: "3.14"
       - name: Export requirements.txt
         run: uv export --no-hashes > requirements.txt
       - name: Commit and push changes

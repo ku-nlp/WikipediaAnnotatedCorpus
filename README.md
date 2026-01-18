@@ -20,10 +20,10 @@ the [ku-nlp/KWDLC](https://github.com/ku-nlp/KWDLC) repository.
 
 | Split   |   Documents |   Sentences |   Morphemes |   Named entities |   Predicates |   Coreferring mentions |
 |---------|-------------|-------------|-------------|------------------|--------------|------------------------|
-| train   |       2,396 |       5,618 |     137,171 |            9,490 |       37,171 |                 30,977 |
+| train   |       3,679 |       8,717 |     211,312 |           14,678 |       57,492 |                 47,832 |
 | dev     |         100 |         248 |       6,353 |              423 |        1,702 |                  1,435 |
 | test    |         200 |         455 |      11,123 |              801 |        2,875 |                  2,533 |
-| total   |       2,696 |       6,321 |     154,647 |           10,714 |       41,748 |                 34,945 |
+| total   |       3,979 |       9,420 |     228,788 |           15,902 |       62,069 |                 51,800 |
 
 ## Format of the annotation
 

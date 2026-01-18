@@ -1,0 +1,114 @@
+# S-ID:wiki00018207-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/11/26 MEMO:
+* 4D
++ 4D
+前頭 まえがしら 前頭 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 2D
+大相撲 おおずもう 大相撲 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="修飾" target="大相撲" sid="wiki00018207-00-01" id="1"/>
+力士 りきし 力士 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 4D <rel type="=≒" target="前頭" sid="wiki00018207-00-01" id="0"/><rel type="ノ？" target="力士" sid="wiki00018207-00-01" id="2"/>
+地位 ちい 地位 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="地位" sid="wiki00018207-00-01" id="4"/><rel type="ガ" target="前頭" sid="wiki00018207-00-01" id="0"/><rel type="=構" target="前頭" sid="wiki00018207-00-01" id="0"/><rel type="=構" mode="AND" target="地位" sid="wiki00018207-00-01" id="3"/><memo text="CO"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018207-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/13 MEMO:
+* -1D
++ -1D <rel type="=" target="前頭" sid="wiki00018207-00-01" id="0"/>
+まえがしら まえがしら まえがしら 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018207-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/11/26 MEMO:
+* 1D
++ 1D <rel type="修飾" target="大相撲" sid="wiki00018207-00-01" id="1"/>
+幕内 まくうち 幕内 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="力士" sid="wiki00018207-00-01" id="3"/><rel type="修飾" target="幕内" sid="wiki00018207-01-01" id="0"/>
+力士 りきし 力士 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ノ" target="力士" sid="wiki00018207-01-01" id="1"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 4P <rel type="=≒" target="力士" sid="wiki00018207-01-01" id="1"/>
+横綱 よこづな 横綱 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=≒" target="力士" sid="wiki00018207-01-01" id="1"/>
+三役 さんやく 三役 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ヲ" target="横綱" sid="wiki00018207-01-01" id="3"/><rel type="ヲ" mode="AND" target="三役" sid="wiki00018207-01-01" id="4"/><rel type="カラ" target="力士" sid="wiki00018207-01-01" id="1"/>
+除いた のぞいた 除く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
+* 6D
++ 7D <rel type="ヲノゾイテ" target="横綱" sid="wiki00018207-01-01" id="3"/><rel type="ヲノゾイテ" mode="AND" target="三役" sid="wiki00018207-01-01" id="4"/><rel type="=≒" target="力士" sid="wiki00018207-01-01" id="1"/><rel type="=構" mode="AND" target="前頭" sid="wiki00018207-00-01" id="0"/>
+力士 りきし 力士 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ヲ" target="力士" sid="wiki00018207-01-01" id="6"/><rel type="ガ" target="前頭" sid="wiki00018207-00-01" id="0"/>
+さす さす さす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018207-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
+* -1D
++ 1D <rel type="=≒" target="三役" sid="wiki00018207-01-01" id="4"/><rel type="=≒" mode="AND" target="力士" sid="wiki00018207-01-01" id="1"/>
+大関 おおぜき 大関 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 2D <rel type="=≒" target="三役" sid="wiki00018207-01-01" id="4"/><rel type="=≒" mode="AND" target="力士" sid="wiki00018207-01-01" id="1"/>
+関脇 せきわけ 関脇 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="=≒" target="三役" sid="wiki00018207-01-01" id="4"/><rel type="=≒" mode="AND" target="力士" sid="wiki00018207-01-01" id="1"/>
+小結 こむすび 小結 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018207-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:43.00000 MOD:2025/11/26 MEMO:
+* 1D
++ 1D <rel type="=" target="横綱" sid="wiki00018207-01-01" id="3"/><rel type="=" mode="AND" target="三役" sid="wiki00018207-01-01" id="4"/>
+役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="力士" sid="wiki00018207-02-01" id="3"/><rel type="ニ" target="役" sid="wiki00018207-02-01" id="0"/>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 3D
++ 3D <rel type="=" target="幕内" sid="wiki00018207-01-01" id="0"/>
+幕内 まくうち 幕内 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ついていない" sid="wiki00018207-02-01" id="1"/><rel type="修飾" mode="AND" target="幕内" sid="wiki00018207-02-01" id="2"/><rel type="=≒" target="力士" sid="wiki00018207-01-01" id="1"/><rel type="=構" mode="AND" target="前頭" sid="wiki00018207-00-01" id="0"/>
+力士 りきし 力士 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+* 6D
++ 7D <rel type="トイウ" target="力士" sid="wiki00018207-02-01" id="3"/><memo text="判定詞とも格助詞とも"/>
+意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 7D <rel type="=構" target="前頭" sid="wiki00018207-00-01" id="0"/>
+平幕 ひらまく 平幕 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="前頭" sid="wiki00018207-00-01" id="0"/><rel type="ト" target="平幕" sid="wiki00018207-02-01" id="6"/><memo text="モダリティ保留？"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018207-02-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
+* -1D
++ -1D <rel type="=" target="平幕" sid="wiki00018207-02-01" id="6"/>
+ひらまく ひらまく ひらまく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

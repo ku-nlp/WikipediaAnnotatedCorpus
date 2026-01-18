@@ -1,0 +1,54 @@
+# S-ID:wiki00012756-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/25 MEMO:
+* 4D
++ 5D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><NE:LOCATION:カンザス州>
+カンザス かんざす カンザス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D
+中 ちゅう 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 4D <rel type="ノ" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><rel type="修飾" target="中" sid="wiki00012756-00" id="2"/>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ガ" target="州" sid="wiki00012756-00" id="5"/><rel type="ニ" target="西部" sid="wiki00012756-00" id="3"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="カンザス州" sid="wiki00012756-00" id="0"/><rel type="=構" target="カンザス州" sid="wiki00012756-00" id="0"/><rel type="修飾" target="位置する" sid="wiki00012756-00" id="4"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012756-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/25 MEMO:
+* 1P
++ 1P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><NE:LOCATION:ネブラスカ州>
+ネブラスカ ねぶらすか ネブラスカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><NE:LOCATION:オクラホマ州>
+オクラホマ おくらほま オクラホマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3P
++ 3P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><NE:LOCATION:コロラド州>
+コロラド ころらど コロラド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 4P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012756-00" id="1"/><NE:LOCATION:ミズーリ州>
+ミズーリ みずーり ミズーリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="カンザス州" sid="wiki00012756-00" id="0"/><rel type="ト" target="ネブラスカ州" sid="wiki00012756-01" id="0"/><rel type="ト" mode="AND" target="オクラホマ州" sid="wiki00012756-01" id="1"/><rel type="ト" mode="AND" target="コロラド州" sid="wiki00012756-01" id="2"/><rel type="ト" mode="AND" target="ミズーリ州" sid="wiki00012756-01" id="3"/>
+隣接 りんせつ 隣接 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

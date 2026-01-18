@@ -1,0 +1,54 @@
+# S-ID:wiki00014813-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2026/01/15 MEMO:
+* 5D
++ 7D
+華族 かぞく 華族 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 2P <NE:DATE:1869年>
+1869 せんはっぴゃくろくじゅうく/せんはっぴゃくろくじゅうきゅう 1869 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <NE:DATE:1947年>
+1947 せんきゅうひゃくよんじゅうしち/せんきゅうひゃくよんじゅうなな 1947 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ガ" target="階級" sid="wiki00014813-00-01" id="7"/><rel type="カラ" target="1869年" sid="wiki00014813-00-01" id="1"/><rel type="マデ" target="1947年" sid="wiki00014813-00-01" id="2"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 5D
++ 5D <NE:OPTIONAL:近代><NE-OPTIONAL:DATE,NONE:0>
+近代 きんだい 近代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 7D <rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 7D <rel type="=" target="華族" sid="wiki00014813-00-01" id="0"/>
+貴族 きぞく 貴族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="華族" sid="wiki00014813-00-01" id="0"/><rel type="=構" target="華族" sid="wiki00014813-00-01" id="0"/><rel type="修飾" target="貴族" sid="wiki00014813-00-01" id="6"/><rel type="ノ？" target="日本" sid="wiki00014813-00-01" id="5"/><rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/><memo text="CO"/>
+階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014813-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/03 MEMO:
+* -1D
++ -1D <rel type="=" target="華族" sid="wiki00014813-00-01" id="0"/>
+かぞく かぞく かぞく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014813-00-03 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/03 MEMO:
+* -1D
++ 1D
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1869年" sid="wiki00014813-00-01" id="1"/><NE:DATE:明治2年>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00014813-00-04 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/15 MEMO:
+* -1D
++ 1D
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1947年" sid="wiki00014813-00-01" id="2"/><NE:DATE:昭和22年>
+22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS

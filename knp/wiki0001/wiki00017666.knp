@@ -1,0 +1,196 @@
+# S-ID:wiki00017666-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/24 MEMO:
+* 5D
++ 1D
+ノルディック のるでぃっく ノルディック 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="ノルディック" sid="wiki00017666-00" id="0"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+北 ほく 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:北欧>
+欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D <NE:LOCATION:スカンジナビア>
+スカンジナビア すかんじなびあ スカンジナビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="ノ？" target="欧" sid="wiki00017666-00" id="3"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7P <rel type="ガ" target="型" sid="wiki00017666-00" id="9"/><rel type="デ" target="地方" sid="wiki00017666-00" id="5"/>
+誕生 たんじょう 誕生 名詞 6 サ変名詞 2 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 9D <rel type="ガ" target="型" sid="wiki00017666-00" id="9"/><rel type="デ" target="地方" sid="wiki00017666-00" id="5"/>
+発展 はってん 発展 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 5D
++ 9D <rel type="=≒" target="スキー" sid="wiki00017666-00" id="1"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="スキー" sid="wiki00017666-00" id="1"/><rel type="ノ" target="スキー" sid="wiki00017666-00" id="8"/><rel type="=構" target="スキー" sid="wiki00017666-00" id="1"/><rel type="修飾" target="誕生" sid="wiki00017666-00" id="6"/><rel type="修飾" mode="AND" target="発展した" sid="wiki00017666-00" id="7"/>
+型 かた 型 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2025/11/24 MEMO:
+* 1D
++ 1D
+1920 せんきゅうひゃくにじゅう 1920 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 2D
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ 3D <rel type="ノ" target="代" sid="wiki00017666-01-01" id="1"/><NE:DATE:1920年代後半>
+後半 こうはん 後半 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 5D <rel type="ガ" target="スキー" sid="wiki00017666-01-01" id="5"/><rel type="カラ" target="後半" sid="wiki00017666-01-01" id="2"/>
+盛んに さかんに 盛んだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+なり なり なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
+はじめた はじめた はじめる 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+* 3D
++ 5D
+アルペン あるぺん アルペン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="アルペン" sid="wiki00017666-01-01" id="4"/><rel type="=≒" target="型" sid="wiki00017666-00" id="9"/><rel type="=≒" mode="AND" target="スキー" sid="wiki00017666-00" id="8"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 15D
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 8D
+もともと もともと もともと 副詞 8 * 0 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="競技" sid="wiki00017666-01-01" id="13"/><rel type="ニ" target="不特定:人"/>
+実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 7P
++ 10P
+距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8P
++ 11P
+飛躍 ひやく 飛躍 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="距離" sid="wiki00017666-01-01" id="9"/><rel type="ガ" mode="AND" target="飛躍" sid="wiki00017666-01-01" id="10"/>
+複合 ふくごう 複合 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 13D
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 15D <rel type="=≒" target="距離" sid="wiki00017666-01-01" id="9"/><rel type="=≒" mode="AND" target="飛躍" sid="wiki00017666-01-01" id="10"/><rel type="=≒" mode="AND" target="複合" sid="wiki00017666-01-01" id="11"/><rel type="修飾" target="3" sid="wiki00017666-01-01" id="12"/><rel type="ノ" target="スキー" sid="wiki00017666-00" id="8"/><memo text="SE"/>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 11D
++ 15D <rel type="=" target="スキー" sid="wiki00017666-00" id="1"/><rel type="=構" mode="AND" target="競技" sid="wiki00017666-01-01" id="13"/><rel type="=≒" mode="AND" target="アルペン" sid="wiki00017666-01-01" id="4"/><rel type="=" mode="AND" target="ノルディック" sid="wiki00017666-00" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+ノルディック のるでぃっく ノルディック 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="競技" sid="wiki00017666-01-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ニタイシテ" target="スキー" sid="wiki00017666-01-01" id="5"/><rel type="ト" target="ノルディック" sid="wiki00017666-01-01" id="14"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-01-02 括弧始:（ 括弧終:） 括弧位置:44 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/24 MEMO:
+* -1D
++ -1D <rel type="=" target="距離" sid="wiki00017666-01-01" id="9"/>
+クロスカントリー くろすかんとりー クロスカントリー 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-01-03 括弧始:（ 括弧終:） 括弧位置:57 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/24 MEMO:
+* -1D
++ -1D <rel type="=" target="飛躍" sid="wiki00017666-01-01" id="10"/>
+ジャンプ じゃんぷ ジャンプ 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-01-04 括弧始:（ 括弧終:） 括弧位置:66 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/24 MEMO:
+* -1D
++ -1D <rel type="=" target="複合" sid="wiki00017666-01-01" id="11"/>
+コンバインド こんばいんど コンバインド 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-01-05 括弧始:（ 括弧終:） 括弧位置:86 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-7.00000 MOD:2025/11/24 MEMO:
+* 1D
++ 1D
+北 ほく 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="欧" sid="wiki00017666-00" id="3"/><rel type="=" mode="AND" target="ノルディック" sid="wiki00017666-01-01" id="14"/><NE:LOCATION:北欧>
+欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="ノルディック" sid="wiki00017666-01-01" id="14"/><rel type="=構" target="欧の" sid="wiki00017666-01-05" id="1"/><rel type="トイウ" target="欧の" sid="wiki00017666-01-05" id="1"/>
+意 い 意 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017666-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/11/24 MEMO:
+* 1D
++ 1D <rel type="=" target="スキー" sid="wiki00017666-00" id="8"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="スキー" sid="wiki00017666-02" id="0"/>
+ブーツ ぶーつ ブーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ノ" target="ブーツ" sid="wiki00017666-02" id="1"/>
+つま先 つまさき つま先 名詞 6 普通名詞 1 * 0 * 0 NIL
+だけ だけ だけ 助詞 9 副助詞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+ビンディング びんでぃんぐ ビンディング 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4P
++ 5D <rel type="=" target="スキー" sid="wiki00017666-02" id="0"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="修飾" target="スキー" sid="wiki00017666-02" id="4"/>
+板 いた 板 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ガ" target="つま先" sid="wiki00017666-02" id="2"/><rel type="ト" target="板" sid="wiki00017666-02" id="5"/><rel type="デ" target="ビンディング" sid="wiki00017666-02" id="3"/><rel type="外の関係" target="構造" sid="wiki00017666-02" id="7"/>
+繋が つなが 繋ぐ 動詞 2 * 0 子音動詞ガ行 4 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 11P
++ 14P <rel type="ガ≒" target="スキー" sid="wiki00017666-00" id="1"/><rel type="トイウ" target="繋がれる" sid="wiki00017666-02" id="6"/>
+構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL
+であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 9D <rel type="=" target="アルペン" sid="wiki00017666-01-01" id="4"/>
+アルペン あるぺん アルペン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=" target="スキー" sid="wiki00017666-01-01" id="5"/>
+スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="スキー" sid="wiki00017666-00" id="1"/><rel type="ト" target="スキー" sid="wiki00017666-02" id="9"/>
+比較 ひかく 比較 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 12D <rel type="ノ" target="ブーツ" sid="wiki00017666-02" id="1"/>
+かかと かかと かかと 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 13D <rel type="ガ" target="かかと" sid="wiki00017666-02" id="11"/><rel type="ニ" target="板" sid="wiki00017666-02" id="5"/><rel type="外の関係" target="点" sid="wiki00017666-02" id="13"/>
+固定 こてい 固定 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
+ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
+* 11D
++ 14D <rel type="トイウ" target="固定されない" sid="wiki00017666-02" id="12"/>
+点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="スキー" sid="wiki00017666-00" id="1"/><rel type="デ" target="点" sid="wiki00017666-02" id="13"/><rel type="ト" target="スキー" sid="wiki00017666-02" id="9"/>
+異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

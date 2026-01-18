@@ -1,0 +1,109 @@
+# S-ID:wiki00012583-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2025/11/21 MEMO:
+* 8D
++ 1D
+路面 ろめん 路面 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="路面" sid="wiki00012583-00-01" id="0"/>
+電車 でんしゃ 電車 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="軌道" sid="wiki00012583-00-01" id="5"/>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 3D
++ 4D
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL
+上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ガ" target="軌道" sid="wiki00012583-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="道路上" sid="wiki00012583-00-01" id="3"/><rel type="=≒" target="路面" sid="wiki00012583-00-01" id="0"/>
+敷設 ふせつ 敷設 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 5D
++ 6D <rel type="修飾" target="敷設された" sid="wiki00012583-00-01" id="4"/>
+軌道 きどう 軌道 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ガ" target="電車" sid="wiki00012583-00-01" id="10"/><rel type="ヲ" target="軌道" sid="wiki00012583-00-01" id="5"/>
+用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 7D
++ 8D <rel type="=" target="路面" sid="wiki00012583-00-01" id="0"/><memo text="TY? 現時点でのWikipediaでは「路面」"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+面 めん 面 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="軌道" sid="wiki00012583-00-01" id="5"/><rel type="修飾" target="面" sid="wiki00012583-00-01" id="7"/>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ガ" target="電車" sid="wiki00012583-00-01" id="10"/><rel type="ヲ" target="鉄道" sid="wiki00012583-00-01" id="8"/>
+走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="電車" sid="wiki00012583-00-01" id="1"/><rel type="=構" target="電車" sid="wiki00012583-00-01" id="1"/>
+電車 でんしゃ 電車 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012583-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/21 MEMO:
+* -1D
++ 1D <rel type="=" target="路面" sid="wiki00012583-00-01" id="0"/>
+ろめん ろめん ろめん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="電車" sid="wiki00012583-00-01" id="1"/>
+でんしゃ でんしゃ でんしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012583-00-03 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/21 MEMO:
+* -1D
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="軌道" sid="wiki00012583-00-01" id="5"/><rel type="ト" target="道路" sid="wiki00012583-00-01" id="3"/>
+併用 へいよう 併用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="修飾" target="併用" sid="wiki00012583-00-03" id="0"/><rel type="=" target="軌道" sid="wiki00012583-00-01" id="5"/>
+軌道 きどう 軌道 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012583-00-04 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/21 MEMO:
+* 1P
++ 1P <rel type="=" target="軌道" sid="wiki00012583-00-01" id="5"/>
+Tramway Tramway Tramway 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="軌道" sid="wiki00012583-00-01" id="5"/>
+Streetcar Streetcar Streetcar 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012583-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/11/21 MEMO:
+* 1D
++ 1D <rel type="ガ" target="システム" sid="wiki00012583-01" id="1"/><rel type="ニ" target="電車" sid="wiki00012583-00-01" id="1"/>
+類似 るいじ 類似 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 10D <rel type="修飾" target="類似" sid="wiki00012583-01" id="0"/>
+システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3P
++ 3D
+ライト らいと ライト 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 4D <rel type="修飾" target="ライト" sid="wiki00012583-01" id="2"/>
+レール れーる レール 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 6P <rel type="修飾" target="レール" sid="wiki00012583-01" id="3"/><rel type="=≒" target="システム" sid="wiki00012583-01" id="1"/>
+トランジット とらんじっと トランジット 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 6D
+トラム とらむ トラム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="修飾" target="トラム" sid="wiki00012583-01" id="5"/><rel type="=≒" target="システム" sid="wiki00012583-01" id="1"/>
+トレイン とれいん トレイン 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 8D
+ゴム ごむ ゴム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="ゴム" sid="wiki00012583-01" id="7"/>
+タイヤ たいや タイヤ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="タイヤ" sid="wiki00012583-01" id="8"/><rel type="=≒" target="システム" sid="wiki00012583-01" id="1"/>
+トラム とらむ トラム 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="システム" sid="wiki00012583-01" id="1"/><rel type="ガ" target="トラムなど" sid="wiki00012583-01" id="9"/><rel type="ガ" mode="AND" target="トレイン" sid="wiki00012583-01" id="6"/><rel type="ガ" mode="AND" target="トランジット" sid="wiki00012583-01" id="4"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

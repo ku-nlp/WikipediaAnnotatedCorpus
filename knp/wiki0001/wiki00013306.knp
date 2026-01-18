@@ -1,0 +1,150 @@
+# S-ID:wiki00013306-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/11/28 MEMO:
+* 13D
++ 13D
+爆弾 ばくだん 爆弾 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ガ" target="爆弾" sid="wiki00013306-00-01" id="0"/>
+爆発 ばくはつ 爆発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ニ" target="爆発" sid="wiki00013306-00-01" id="1"/><rel type="ガ" target="熱" sid="wiki00013306-00-01" id="3"/><rel type="ガ" mode="AND" target="衝撃など" sid="wiki00013306-00-01" id="4"/>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 4P
++ 4P <rel type="修飾" target="よる" sid="wiki00013306-00-01" id="2"/>
+熱 ねつ 熱 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D <rel type="修飾" target="よる" sid="wiki00013306-00-01" id="2"/>
+衝撃 しょうげき 衝撃 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11D
++ 11D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 7D
++ 7D <rel type="ノ" target="爆弾" sid="wiki00013306-00-01" id="0"/><rel type="ノ" mode="AND" target="殺傷" sid="wiki00013306-00-01" id="10"/><rel type="ノ" mode="AND" target="破壊する" sid="wiki00013306-00-01" id="11"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物体" sid="wiki00013306-00-01" id="9"/><rel type="ヲ" mode="AND" target="生物" sid="wiki00013306-00-01" id="8"/><rel type="ト" target="対象" sid="wiki00013306-00-01" id="6"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9P
++ 9P <rel type="=構" target="対象" sid="wiki00013306-00-01" id="6"/>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 11D <rel type="=構" target="対象" sid="wiki00013306-00-01" id="6"/>
+物体 ぶったい 物体 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11P
++ 11P <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="熱" sid="wiki00013306-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="衝撃など" sid="wiki00013306-00-01" id="4"/><rel type="ヲ" target="生物" sid="wiki00013306-00-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00013306-00-01" id="12"/>
+殺傷 さっしょう 殺傷 名詞 6 サ変名詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 12D
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物体" sid="wiki00013306-00-01" id="9"/><rel type="ニヨッテ" target="熱" sid="wiki00013306-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="衝撃など" sid="wiki00013306-00-01" id="4"/><rel type="外の関係" target="ため" sid="wiki00013306-00-01" id="12"/>
+破壊 はかい 破壊 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 13D
++ 13D <rel type="ノ" target="殺傷" sid="wiki00013306-00-01" id="10"/><rel type="ノ" mode="AND" target="破壊する" sid="wiki00013306-00-01" id="11"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="爆弾" sid="wiki00013306-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00013306-00-01" id="12"/><rel type="=構" target="爆弾" sid="wiki00013306-00-01" id="0"/>
+兵器 へいき 兵器 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013306-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/05 MEMO:
+* -1D
++ -1D <rel type="=" target="爆弾" sid="wiki00013306-00-01" id="0"/>
+ばくだん ばくだん ばくだん 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013306-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/28 MEMO:
+* 7D
++ 8D
+一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4P
++ 4P
+爆薬 ばくやく 爆薬 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=" target="爆薬" sid="wiki00013306-01" id="1"/>
+それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="それ" sid="wiki00013306-01" id="2"/><rel type="ニ" target="容器" sid="wiki00013306-01" id="4"/>
+装填 そうてん 装填 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 6P
++ 7P <rel type="修飾" target="装填する" sid="wiki00013306-01" id="3"/>
+容器 ようき 容器 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 7D
+信管 しんかん 信管 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 7D <rel type="ガ" target="不特定:状況"/>
+発火 はっか 発火 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="=≒" target="信管" sid="wiki00013306-01" id="5"/><rel type="修飾" target="発火" sid="wiki00013306-01" id="6"/>
+装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="爆弾" sid="wiki00013306-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="爆薬" sid="wiki00013306-01" id="1"/><rel type="デ" mode="AND" target="容器" sid="wiki00013306-01" id="4"/><rel type="デ" mode="AND" target="装置" sid="wiki00013306-01" id="7"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013306-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/28 MEMO:
+* 9D
++ 10D
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 10D <rel type="=" target="兵器" sid="wiki00013306-00-01" id="13"/>
+兵器 へいき 兵器 名詞 6 普通名詞 1 * 0 * 0 NIL
+以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D
+発破 はっぱ 発破 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 4D
+民間 みんかん 民間 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00013306-02" id="7"/><rel type="=≒" target="発破" sid="wiki00013306-02" id="2"/><rel type="修飾" target="民間" sid="wiki00013306-02" id="3"/><rel type="ニ" target="発破など" sid="wiki00013306-02" id="2"/>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ガ" target="装置" sid="wiki00013306-02" id="7"/><rel type="ニ" target="利用" sid="wiki00013306-02" id="4"/><rel type="ニ" mode="AND" target="不特定:人"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* 6D
++ 7D <rel type="ガ" target="装置" sid="wiki00013306-02" id="7"/><rel type="ト" target="爆弾" sid="wiki00013306-00-01" id="0"/>
+同様の どうようの 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
+* 7D
++ 8D <rel type="修飾" target="同様の" sid="wiki00013306-02" id="6"/>
+装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00013306-02" id="7"/>
+指して さして 指す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
+* 9D
++ 10D <rel type="=構" target="装置" sid="wiki00013306-02" id="7"/><rel type="=" mode="AND" target="爆弾" sid="wiki00013306-00-01" id="0"/>
+爆弾 ばくだん 爆弾 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="装置" sid="wiki00013306-02" id="7"/><rel type="ト" target="爆弾" sid="wiki00013306-02" id="9"/><memo text="モダリティ保留？"/>
+呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

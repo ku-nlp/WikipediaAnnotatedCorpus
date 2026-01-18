@@ -1,0 +1,172 @@
+# S-ID:wiki00016636-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/17 MEMO:
+* 2D
++ 3D <rel type="ノ？" target="中国" sid="wiki00016636-00-01" id="2"/><NE:LOCATION:周>
+周 しゅう 周 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <NE:DATE:古代>
+古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 3D <rel type="時間" target="古代" sid="wiki00016636-00-01" id="1"/><NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="=構" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ノ？" target="中国" sid="wiki00016636-00-01" id="2"/><memo text="CO"/>
+王朝 おうちょう 王朝 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016636-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
+* 2P
++ 6P <rel type="=" target="周" sid="wiki00016636-00-01" id="0"/><NE:LOCATION:しゅう>
+しゅう しゅう しゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 3D
+前 ぜん 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <NE:DATE:紀元前1046年>
+1046 せんよんじゅうろく 1046 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+頃 ころ/ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 5D
+紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 6D
+前 ぜん 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="1046年頃" sid="wiki00016636-00-02" id="3"/><NE:DATE:紀元前256年>
+256 にひゃくごじゅうろく 256 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00016636-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/17 MEMO:
+* 1D
++ 1D <rel type="ノ" target="周" sid="wiki00016636-00-01" id="0"/>
+国姓 こくせい 国姓 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="国姓" sid="wiki00016636-01" id="0"/><rel type="=構" target="国姓" sid="wiki00016636-01" id="0"/><memo text="CO"/><NE:PERSON:姫>
+姫 き 姫 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016636-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2025/11/17 MEMO:
+* 2D
++ 3D
+当初 とうしょ 当初 名詞 6 時相名詞 10 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:殷>
+殷 いん 殷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 3D <rel type="ガ" target="国" sid="wiki00016636-02-01" id="3"/><rel type="ニ" target="殷" sid="wiki00016636-02-01" id="1"/>
+従属 じゅうぞく 従属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="=構" target="周" sid="wiki00016636-00-01" id="0"/><rel type="時間" target="当初" sid="wiki00016636-02-01" id="0"/><rel type="ノ" target="殷" sid="wiki00016636-02-01" id="1"/><rel type="ノ？" target="従属" sid="wiki00016636-02-01" id="2"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 5D
+紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 6D
+前 ぜん 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <rel type="=" target="1046年" sid="wiki00016636-00-02" id="3"/><NE:DATE:紀元前1046年>
+1046 せんよんじゅうろく 1046 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D
+革命 かくめい 革命 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ト" target="殷" sid="wiki00016636-02-01" id="1"/><rel type="修飾" target="革命" sid="wiki00016636-02-01" id="7"/><memo text="ガト交替可"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 10D <rel type="=" target="殷" sid="wiki00016636-02-01" id="1"/><NE:LOCATION:殷>
+殷 いん 殷 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 13P <rel type="ガ" target="周" sid="wiki00016636-02-01" id="11"/><rel type="ヲ" target="殷" sid="wiki00016636-02-01" id="9"/><rel type="デ" target="戦争" sid="wiki00016636-02-01" id="8"/><rel type="時間" target="1046年" sid="wiki00016636-02-01" id="6"/>
+倒し たおし 倒す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
+* 8D
++ 12D <rel type="=" target="周" sid="wiki00016636-00-01" id="0"/><NE:LOCATION:周>
+周 しゅう 周 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13D <rel type="ノ" target="周" sid="wiki00016636-02-01" id="11"/><rel type="=" target="王朝" sid="wiki00016636-00-01" id="3"/>
+王朝 おうちょう 王朝 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ヲ" target="王朝" sid="wiki00016636-02-01" id="12"/><rel type="時間" target="1046年" sid="wiki00016636-02-01" id="6"/>
+開いた ひらいた 開く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016636-02-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/30 MEMO:
+* -1D
++ -1D <rel type="=" target="殷" sid="wiki00016636-02-01" id="1"/><NE:LOCATION:商>
+商 しょう 商 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+EOS
+# S-ID:wiki00016636-02-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="殷" sid="wiki00016636-02-01" id="1"/><NE:LOCATION:牧野>
+牧野 ぼくや 牧野 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="デ" target="牧野" sid="wiki00016636-02-03" id="0"/><rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ト" target="殷" sid="wiki00016636-02-01" id="1"/><rel type="=" target="戦争" sid="wiki00016636-02-01" id="8"/>
+戦い たたかい 戦い 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016636-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/17 MEMO:
+* 1D
++ 1D
+紀元 きげん 紀元 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 2D
+前 ぜん 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:middle>
++ 4D <NE:DATE:紀元前771年>
+771 ななひゃくななじゅういち 771 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6I
++ 4D <memo text="のちの洛陽"/><NE:LOCATION:洛邑>
+洛邑 らくゆう 洛邑 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5I <rel type="ニ" target="洛邑" sid="wiki00016636-03-01" id="3"/><rel type="時間" target="771年" sid="wiki00016636-03-01" id="2"/><rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/>
+遷都 せんと 遷都 名詞 6 サ変名詞 2 * 0 * 0 NIL
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5P
++ 9P <rel type="ヲ" target="遷都まで" sid="wiki00016636-03-01" id="4"/><rel type="ト" target="西周" sid="wiki00016636-03-01" id="5"/><rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ニ" target="不特定:人"/><NE:OPTIONAL:西周><NE-OPTIONAL:LOCATION,DATE:0>
+西周 せいしゅう 西周 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 8D <rel type="=" target="遷都" sid="wiki00016636-03-01" id="4"/>
+遷都 せんと 遷都 名詞 6 サ変名詞 2 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D <NE:LOCATION:秦>
+秦 しん 秦 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7I
++ 9I <rel type="ニ" target="秦" sid="wiki00016636-03-01" id="7"/><rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="カラ" target="遷都" sid="wiki00016636-03-01" id="6"/>
+滅ぼさ ほろぼさ 滅ぼす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+まで まで まで 助詞 9 接続助詞 3 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 10D <NE:OPTIONAL:東周><NE-OPTIONAL:LOCATION,DATE:0>
+東周 とうしゅう 東周 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="周" sid="wiki00016636-00-01" id="0"/><rel type="ト" target="東周" sid="wiki00016636-03-01" id="9"/><rel type="ヲ" target="滅ぼされるまで" sid="wiki00016636-03-01" id="8"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016636-03-02 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
+* -1D
++ 1P
+春秋 しゅんじゅう 春秋 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 2D
+戦国 せんごく 戦国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="ノ" target="春秋" sid="wiki00016636-03-02" id="0"/><rel type="ノ" mode="AND" target="戦国" sid="wiki00016636-03-02" id="1"/><rel type="=≒" target="東周" sid="wiki00016636-03-01" id="9"/><memo text="東周の時代"/><NE:DATE:春秋戦国時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+EOS

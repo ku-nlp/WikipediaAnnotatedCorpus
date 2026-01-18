@@ -1,0 +1,121 @@
+# S-ID:wiki00014197-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:53.00000 MOD:2026/01/13 MEMO:
+* 6D
++ 8D
+子役 こやく 子役 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 4P
+演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="作品" sid="wiki00014197-00-01" id="4"/><rel type="=" target="演劇" sid="wiki00014197-00-01" id="1"/>
+演劇 えんげき 演劇 名詞 6 普通名詞 1 * 0 * 0 NIL
+的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
++ 4D
+映像 えいぞう 映像 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="演劇的" sid="wiki00014197-00-01" id="2"/><rel type="修飾" mode="AND" target="映像" sid="wiki00014197-00-01" id="3"/>
+作品 さくひん 作品 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 7D
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ノ" target="子供" sid="wiki00014197-00-01" id="6"/><rel type="=構" target="子役" sid="wiki00014197-00-01" id="0"/><rel type="ニオイテ" target="作品" sid="wiki00014197-00-01" id="4"/><rel type="ニオイテ" mode="AND" target="演劇" sid="wiki00014197-00-01" id="1"/>
+役 やく 役 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="子役" sid="wiki00014197-00-01" id="0"/><rel type="ノ" target="役" sid="wiki00014197-00-01" id="7"/><rel type="=構" target="子役" sid="wiki00014197-00-01" id="0"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014197-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/25 MEMO:
+* -1D
++ -1D <rel type="=" target="子役" sid="wiki00014197-00-01" id="0"/>
+こやく こやく こやく 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014197-00-03 括弧始:（ 括弧終:） 括弧位置:19 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2026/01/13 MEMO:
+* 1D
++ 1D <rel type="=" target="演劇的" sid="wiki00014197-00-01" id="2"/>
+ドラマ どらま ドラマ 名詞 6 普通名詞 1 * 0 * 0 NIL
+性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 6D <rel type="ガ" target="ドラマ性" sid="wiki00014197-00-03" id="0"/><rel type="ニ" target="映画" sid="wiki00014197-00-03" id="2"/><rel type="ニ" mode="AND" target="番組" sid="wiki00014197-00-03" id="4"/><rel type="ニ" mode="AND" target="CMなど" sid="wiki00014197-00-03" id="6"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* -1D
++ 4P <rel type="修飾" target="ある" sid="wiki00014197-00-03" id="1"/><rel type="=≒" target="作品" sid="wiki00014197-00-01" id="4"/>
+映画 えいが 映画 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 4D
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="修飾" target="ある" sid="wiki00014197-00-03" id="1"/><rel type="修飾" mode="AND" target="テレビ" sid="wiki00014197-00-03" id="3"/><rel type="=≒" target="作品" sid="wiki00014197-00-01" id="4"/>
+番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 6D <rel type="=" target="テレビ" sid="wiki00014197-00-03" id="3"/>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="修飾" target="ある" sid="wiki00014197-00-03" id="1"/><rel type="修飾" mode="AND" target="テレビ" sid="wiki00014197-00-03" id="5"/><rel type="=≒" target="作品" sid="wiki00014197-00-01" id="4"/>
+CM CM CM 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014197-00-04 括弧始:（ 括弧終:） 括弧位置:53 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/13 MEMO:
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="=" target="役" sid="wiki00014197-00-01" id="7"/><rel type="ヲ" target="不特定:人1"/>
+配役 はいやく 配役 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014197-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2026/01/13 MEMO:
+* 4D
++ 4D
+また また また 副詞 8 * 0 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=" target="子役" sid="wiki00014197-00-01" id="0"/>
+それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ガ" target="子供" sid="wiki00014197-01" id="3"/><rel type="ヲ" target="それ" sid="wiki00014197-01" id="1"/>
+演じる えんじる 演じる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* 4D
++ 4D <rel type="=" target="子供" sid="wiki00014197-00-01" id="6"/><rel type="=構" mode="AND" target="子役" sid="wiki00014197-00-01" id="0"/><rel type="=" mode="AND" target="不特定:人1"/>
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="子役" sid="wiki00014197-00-01" id="0"/><rel type="ヲ" target="子供" sid="wiki00014197-01" id="3"/>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00014197-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2026/01/13 MEMO:
+* 1D
++ 2D <rel type="=" target="子供" sid="wiki00014197-00-01" id="6"/>
+子供 こども 子供 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="子供" sid="wiki00014197-02" id="0"/>
+イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="=構" target="子供" sid="wiki00014197-02" id="0"/><rel type="修飾" target="子供" sid="wiki00014197-02" id="0"/><rel type="修飾" mode="AND" target="イメージ" sid="wiki00014197-02" id="1"/>
+モデル もでる モデル 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="モデル" sid="wiki00014197-02" id="2"/>
+全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ガ" target="子役" sid="wiki00014197-00-01" id="0"/><rel type="ヲ" target="全般" sid="wiki00014197-02" id="3"/><rel type="外の関係" target="方" sid="wiki00014197-02" id="6"/>
+含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 4D
++ 6D <rel type="ト" target="含むとする" sid="wiki00014197-02" id="4"/><rel type="ガ" target="不特定:人"/>
+捉え とらえ 捉え 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="捉え" sid="wiki00014197-02" id="5"/><rel type="トイウ" target="含むとする" sid="wiki00014197-02" id="4"/>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="方" sid="wiki00014197-02" id="6"/><rel type="ニ" target="子役" sid="wiki00014197-00-01" id="0"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

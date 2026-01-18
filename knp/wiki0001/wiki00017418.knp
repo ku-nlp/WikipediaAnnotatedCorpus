@@ -1,0 +1,114 @@
+# S-ID:wiki00017418-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/11/21 MEMO:
+* 6D
++ 1D
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ？" target="バス" sid="wiki00017418-00-01" id="0"/>
+停留所 ていりゅうじょ/ていりゅうしょ 停留所 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3D
+路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <rel type="修飾" target="路線" sid="wiki00017418-00-01" id="2"/><rel type="=≒" target="バス" sid="wiki00017418-00-01" id="0"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ガ" target="不特定:状況"/><rel type="ガ" mode="？" target="不特定:物"/>
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 6D <rel type="修飾" target="高速" sid="wiki00017418-00-01" id="4"/><rel type="=≒" target="バス" sid="wiki00017418-00-01" id="0"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 8D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 5D
++ 8D <rel type="ノ" target="バス" sid="wiki00017418-00-01" id="0"/>
+旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 9D <rel type="ガ" target="旅客" sid="wiki00017418-00-01" id="7"/><rel type="デ" target="地点" sid="wiki00017418-00-01" id="9"/><rel type="ニオイテ" target="バス" sid="wiki00017418-00-01" id="3"/><rel type="ニオイテ" mode="AND" target="バス" sid="wiki00017418-00-01" id="5"/>
+乗降 じょうこう 乗降 名詞 6 サ変名詞 2 * 0 * 0 NIL
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="=構" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="修飾" target="乗降できる" sid="wiki00017418-00-01" id="8"/>
+地点 ちてん 地点 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017418-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/21 MEMO:
+* 1P
++ 1D <rel type="=" target="バス" sid="wiki00017418-00-01" id="0"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=" target="停留所" sid="wiki00017418-00-01" id="1"/>
+ていりゅうじょ ていりゅうじょ ていりゅうじょ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 3D <rel type="=" target="バス" sid="wiki00017418-00-01" id="0"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="=" target="停留所" sid="wiki00017418-00-01" id="1"/>
+ていりゅうしょ ていりゅうしょ ていりゅうしょ 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ 6D <rel type="ノ" target="停留所" sid="wiki00017418-00-01" id="1"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
++ 6D <rel type="=" target="バス" sid="wiki00017418-00-01" id="0"/>
+Bus Bus Bus 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
++ -1D <rel type="デ" target="英" sid="wiki00017418-00-02" id="4"/><rel type="=" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="=構" mode="AND" target="英" sid="wiki00017418-00-02" id="4"/>
+stop stop stop 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017418-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/21 MEMO:
+* 1D
++ 1D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=構" target="停留所" sid="wiki00017418-00-01" id="1"/>
+バス停 ばすてい バス停 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7P
++ 11P <rel type="ガ" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="日本" sid="wiki00017418-01-01" id="0"/><rel type="ト" target="バス停" sid="wiki00017418-01-01" id="2"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 5P
+法令 ほうれい 法令 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 6D
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="法令" sid="wiki00017418-01-01" id="4"/><rel type="ノ" mode="AND" target="行政" sid="wiki00017418-01-01" id="5"/>
+用語 ようご 用語 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 7D
++ 9D
+乗合 のりあい 乗合 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="修飾" target="乗合" sid="wiki00017418-01-01" id="8"/><rel type="=≒" target="バス" sid="wiki00017418-00-01" id="0"/>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="ノ？" target="自動車" sid="wiki00017418-01-01" id="9"/><rel type="=構" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="=構" mode="AND" target="用語" sid="wiki00017418-01-01" id="6"/>
+停留所 ていりゅうじょ 停留所 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="停留所" sid="wiki00017418-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="用語" sid="wiki00017418-01-01" id="6"/><rel type="ト" target="停留所" sid="wiki00017418-01-01" id="10"/><memo text="モダリティ保留？"/>
+表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017418-01-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/21 MEMO:
+* -1D
++ -1D <rel type="=" target="バス停" sid="wiki00017418-01-01" id="2"/>
+バスてい ばすてい バスてい 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

@@ -1,0 +1,130 @@
+# S-ID:wiki00010326-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/12/13 MEMO:
+* 2D
++ 1D <NE:OPTIONAL:アーリア><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+アーリア あーりあ アーリア 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4D <rel type="ノ？" target="アーリア" sid="wiki00010326-00" id="0"/>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+民族 みんぞく 民族 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="民族" sid="wiki00010326-00" id="2"/><rel type="=構" target="人" sid="wiki00010326-00" id="1"/>
+系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="人" sid="wiki00010326-00" id="1"/><rel type="ノ" target="系統" sid="wiki00010326-00" id="3"/><rel type="=構" target="人" sid="wiki00010326-00" id="1"/><memo text="CO"/>
+呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00010326-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:138.00000 MOD:2025/11/05 MEMO:
+* 1P
++ 1P <rel type="ノ" target="人" sid="wiki00010326-00" id="1"/>
+広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="人" sid="wiki00010326-00" id="1"/>
+狭義 きょうぎ 狭義 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="人" sid="wiki00010326-00" id="1"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 23P
++ 29P <rel type="ガ" target="対象" sid="wiki00010326-01" id="2"/><rel type="ガ２" target="人" sid="wiki00010326-00" id="1"/><rel type="デ" target="広義" sid="wiki00010326-01" id="0"/><rel type="デ" mode="AND" target="狭義" sid="wiki00010326-01" id="1"/>
+異なり ことなり 異なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 17D
++ 23D <rel type="=" target="広義" sid="wiki00010326-01" id="0"/>
+広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 6D
++ 6D
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D <NE:LOCATION:中央アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 8D
+ステップ すてっぷ ステップ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="アジア" sid="wiki00010326-01" id="6"/><rel type="修飾" target="ステップ" sid="wiki00010326-01" id="7"/>
+地帯 ちたい 地帯 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 10D <rel type="ノ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="=構" target="地帯" sid="wiki00010326-01" id="8"/>
+出自 しゅつじ 出自 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 22D <rel type="ガ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="ヲ" target="地帯" sid="wiki00010326-01" id="8"/><rel type="ト" target="出自" sid="wiki00010326-01" id="9"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10I
++ 14I <rel type="ノ" target="地帯" sid="wiki00010326-01" id="8"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 12P
++ 14D
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 14D
+亜 あ 亜 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 17P <rel type="=構" target="南" sid="wiki00010326-01" id="11"/><rel type="ガ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="マデ" target="大陸" sid="wiki00010326-01" id="14"/><rel type="外の関係" target="南" sid="wiki00010326-01" id="11"/><NE:LOCATION:インド亜大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 12I
++ 17I <rel type="ノ" target="地帯" sid="wiki00010326-01" id="8"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 14P
++ 17D
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 20P <rel type="=構" target="西" sid="wiki00010326-01" id="15"/><rel type="ガ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="マデ" target="ヨーロッパ" sid="wiki00010326-01" id="17"/><rel type="外の関係" target="西" sid="wiki00010326-01" id="15"/><NE:LOCATION:中央ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 14I
++ 20I <rel type="ノ" target="地帯" sid="wiki00010326-01" id="8"/>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 15D
++ 20D <NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 21D <rel type="ノ" target="中国" sid="wiki00010326-01" id="19"/><rel type="=" target="東" sid="wiki00010326-01" id="18"/>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+* 16D
++ 22D <rel type="ガ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="マデ" target="西部" sid="wiki00010326-01" id="20"/><rel type="外の関係" target="東" sid="wiki00010326-01" id="18"/>
+拡大 かくだい 拡大 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 17D
++ 23D
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 23P
++ 29P <rel type="ガ" target="人" sid="wiki00010326-00" id="1"/><rel type="ヲ" target="グループ" sid="wiki00010326-01" id="22"/><rel type="デ" target="広義" sid="wiki00010326-01" id="4"/>
+指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 23D
++ 29D <rel type="=" target="狭義" sid="wiki00010326-01" id="1"/>
+狭義 きょうぎ 狭義 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 21D
++ 27D <NE:LOCATION:トゥーラーン>
+トゥーラーン とぅーらーん トゥーラーン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 21D
++ 27D <rel type="ノ" target="グループ" sid="wiki00010326-01" id="28"/><rel type="=構" target="トゥーラーン" sid="wiki00010326-01" id="25"/>
+出自 しゅつじ 出自 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 22D
++ 28D <rel type="ガ" target="グループ" sid="wiki00010326-01" id="28"/><rel type="ヲ" target="トゥーラーン" sid="wiki00010326-01" id="25"/><rel type="ト" target="出自" sid="wiki00010326-01" id="26"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 23D
++ 29D
+グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="人" sid="wiki00010326-00" id="1"/><rel type="ヲ" target="グループ" sid="wiki00010326-01" id="28"/><rel type="デ" target="狭義" sid="wiki00010326-01" id="1"/>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

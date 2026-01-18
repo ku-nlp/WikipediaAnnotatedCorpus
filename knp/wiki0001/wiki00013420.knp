@@ -1,0 +1,107 @@
+# S-ID:wiki00013420-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/12/01 MEMO:
+* 3D
++ 1D
+ダグラス だぐらす ダグラス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 5D <NE:PERSON:ダグラス・マッカーサー>
+マッカーサー まっかーさー マッカーサー 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3P
++ 5P <rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00013420-00-01" id="2"/>
+軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 5D <rel type="ノ" target="アメリカ" sid="wiki00013420-00-01" id="2"/>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ" target="陸軍" sid="wiki00013420-00-01" id="4"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><memo text="CO"/>
+元帥 げんすい 元帥 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013420-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/12/01 MEMO:
+* 1D
++ 1D
+1880 せんはっぴゃくはちじゅう 1880 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 2D
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <NE:DATE:1880年1月26日>
+26 にじゅうろく 26 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* -1D
++ 4D
+1964 せんきゅうひゃくろくじゅうよ 1964 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 5D
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <rel type="カラ" target="26日" sid="wiki00013420-00-02" id="2"/><NE:DATE:1964年4月5日>
+5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+EOS
+# S-ID:wiki00013420-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/12/01 MEMO:
+* 1P
++ 1D <rel type="ガ" target="国" sid="wiki00013420-01" id="1"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="ノ？" target="連合" sid="wiki00013420-01" id="0"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <rel type="ノ" target="国" sid="wiki00013420-01" id="1"/><NE:ORGANIZATION:連合国軍>
+軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <rel type="ガ" target="官" sid="wiki00013420-01" id="5"/>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 5D <rel type="ガ" target="官" sid="wiki00013420-01" id="5"/><rel type="デ" target="軍" sid="wiki00013420-01" id="2"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="5"/>
+司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9P <rel type="ノ" target="軍" sid="wiki00013420-01" id="2"/><rel type="ノ？" target="司令" sid="wiki00013420-01" id="4"/><rel type="=≒" target="元帥" sid="wiki00013420-00-01" id="5"/><rel type="=構" mode="AND" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
+官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 7D
+国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 9D <rel type="ノ" target="国連" sid="wiki00013420-01" id="6"/><NE:ORGANIZATION:国連軍>
+軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <rel type="ガ" target="官" sid="wiki00013420-01" id="9"/><rel type="デ" target="軍" sid="wiki00013420-01" id="7"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="9"/>
+司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ノ" target="軍" sid="wiki00013420-01" id="7"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
+官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ヲ" target="官" sid="wiki00013420-01" id="9"/><rel type="ヲ" mode="AND" target="官" sid="wiki00013420-01" id="5"/>
+務めた つとめた 務める 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013420-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/12/01 MEMO:
+* 2P
++ 1D
+コーン こーん コーン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="修飾" target="コーン" sid="wiki00013420-02" id="0"/>
+パイプ ぱいぷ パイプ 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D
+服装 ふくそう 服装 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ニカンシテ" target="服装" sid="wiki00013420-02" id="2"/>
+規則 きそく 規則 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ガ" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="ニ" target="規則" sid="wiki00013420-02" id="3"/>
+違反 いはん 違反 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 6D <NE:LOCATION:フィリピン>
+フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="修飾" target="フィリピン" sid="wiki00013420-02" id="5"/><rel type="修飾" mode="AND" target="違反" sid="wiki00013420-02" id="4"/>
+軍帽 ぐんぼう 軍帽 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ガ" mode="AND" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" mode="AND" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ノ？" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
+トレードマーク とれーどまーく トレードマーク 名詞 6 普通名詞 1 * 0 * 0 NIL
+であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

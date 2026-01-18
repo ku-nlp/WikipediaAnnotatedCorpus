@@ -1,0 +1,116 @@
+# S-ID:wiki00017266-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:43.00000 MOD:2025/11/20 MEMO:
+* 4D
++ 1D
+Scalable Scalable Scalable 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 2D
+Vector Vector Vector 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 12D <NE:OPTIONAL:Scalable　Vector　Graphics><NE-OPTIONAL:ARTIFACT,NONE:0>
+Graphics Graphics Graphics 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D
+XML XML XML 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="=構" target="XML" sid="wiki00017266-00-01" id="3"/><rel type="トイウ" target="XML" sid="wiki00017266-00-01" id="3"/>
+ベース べーす ベース 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 6D
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
++ 8D
+次元 じげん 次元 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D
+ベクター べくたー ベクター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="次元" sid="wiki00017266-00-01" id="6"/><rel type="修飾" mode="AND" target="ベクター" sid="wiki00017266-00-01" id="7"/>
+イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ノ" target="イメージ" sid="wiki00017266-00-01" id="6"/>
+用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 11D <rel type="=≒" target="イメージ" sid="wiki00017266-00-01" id="8"/>
+画像 がぞう 画像 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="修飾" target="用" sid="wiki00017266-00-01" id="9"/><rel type="修飾" mode="AND" target="ベース" sid="wiki00017266-00-01" id="4"/><rel type="=≒" target="Graphics" sid="wiki00017266-00-01" id="2"/><rel type="ノ？" target="画像" sid="wiki00017266-00-01" id="10"/>
+形式 けいしき 形式 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="形式" sid="wiki00017266-00-01" id="9"/><rel type="=構" target="Graphics" sid="wiki00017266-00-01" id="2"/><rel type="=構" mode="AND" target="形式" sid="wiki00017266-00-01" id="11"/><rel type="ガ" target="Graphics" sid="wiki00017266-00-01" id="2"/>
+1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017266-00-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/20 MEMO:
+* 1P
++ 1D <rel type="=" target="Scalable" sid="wiki00017266-00-01" id="0"/>
+スケーラブル すけーらぶる スケーラブル 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 2D <rel type="=" target="Vector" sid="wiki00017266-00-01" id="1"/>
+ベクター べくたー ベクター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3P <rel type="=" target="Graphics" sid="wiki00017266-00-01" id="2"/><NE:OPTIONAL:スケーラブル・ベクター・グラフィックス><NE-OPTIONAL:ARTIFACT,NONE:0>
+グラフィックス ぐらふぃっくす グラフィックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="Graphics" sid="wiki00017266-00-01" id="2"/><NE:OPTIONAL:SVG><NE-OPTIONAL:ARTIFACT,NONE:0>
+SVG SVG SVG 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+EOS
+# S-ID:wiki00017266-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/20 MEMO:
+* 1P
++ 2P
+アニメーション あにめーしょん アニメーション 名詞 6 普通名詞 1 * 0 * 0 NIL
+や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D
+ユーザ ゆーざ ユーザ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="修飾" target="ユーザ" sid="wiki00017266-01" id="1"/>
+インタラクション いんたらくしょん インタラクション 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="Graphics" sid="wiki00017266-00-01" id="2"/><rel type="ヲ" target="アニメーション" sid="wiki00017266-01" id="0"/><rel type="ヲ" mode="AND" target="インタラクション" sid="wiki00017266-01" id="2"/>
+サポート さぽーと サポート 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017266-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2025/11/20 MEMO:
+* 1D
++ 1D <rel type="=" target="SVG" sid="wiki00017266-00-02" id="3"/><NE:OPTIONAL:SVG><NE-OPTIONAL:ARTIFACT,NONE:0>
+SVG SVG SVG 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ノ" target="SVG" sid="wiki00017266-02" id="0"/>
+仕様 しよう 仕様 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D <memo text="World Wide Web Consortium"/><NE:ORGANIZATION:W3C>
+W3C だぶりゅーすりーしー W3C 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 7P
++ 8P <rel type="ガ" target="仕様" sid="wiki00017266-02" id="1"/><rel type="ニヨッテ" target="W3C" sid="wiki00017266-02" id="2"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 6D <rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="不特定:状況"/><rel type="ガ" target="仕様" sid="wiki00017266-02" id="1"/>
+オープン おーぷん オープンだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 7D <rel type="修飾" target="オープン" sid="wiki00017266-02" id="5"/>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* -1D
++ -1D <rel type="ガ" target="仕様" sid="wiki00017266-02" id="1"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="標準" sid="wiki00017266-02" id="6"/><rel type="ニヨッテ" target="W3C" sid="wiki00017266-02" id="2"/>
+勧告 かんこく 勧告 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

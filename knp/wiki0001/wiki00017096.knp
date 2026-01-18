@@ -1,0 +1,245 @@
+# S-ID:wiki00017096-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 1D
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="諸島" sid="wiki00017096-00" id="15"/><NE:LOCATION:グレートブリテン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+* 8D
++ 4D <rel type="=" target="グレート" sid="wiki00017096-00" id="0"/>
+（ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <rel type="=" target="ブリテン" sid="wiki00017096-00" id="1"/>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 16D <rel type="=" target="島" sid="wiki00017096-00" id="2"/><memo text="原語表記脱落"/><NE:LOCATION:グレートブリテンとう>
+とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+/ / / 特殊 1 記号 5 * 0 * 0 NIL
+） ） ） 特殊 1 記号 5 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 7D
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D <NE:LOCATION:北大西洋>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4P
++ 9D <rel type="ガ" target="島" sid="wiki00017096-00" id="9"/><rel type="ニ" target="大西洋" sid="wiki00017096-00" id="7"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 8P
++ 16P <rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="=構" target="島" sid="wiki00017096-00" id="2"/><rel type="修飾" target="位置する" sid="wiki00017096-00" id="8"/>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6D
++ 11D
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 13P <rel type="=≒" target="島" sid="wiki00017096-00" id="9"/><rel type="ノ？" target="諸島" sid="wiki00017096-00" id="15"/><NE:LOCATION:アイルランド島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 13D
+マン まん マン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 16D <rel type="=≒" target="島" sid="wiki00017096-00" id="9"/><rel type="ノ？" target="諸島" sid="wiki00017096-00" id="15"/><NE:LOCATION:マン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
+* 8D
++ 15D
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 16D <rel type="=≒" target="島" sid="wiki00017096-00" id="11"/><rel type="=≒" mode="AND" target="島" sid="wiki00017096-00" id="13"/><rel type="=≒" mode="AND" target="島" sid="wiki00017096-00" id="2"/><NE:LOCATION:ブリテン諸島>
+諸島 しょとう 諸島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="ガ" mode="AND" target="島" sid="wiki00017096-00" id="11"/><rel type="ガ" mode="AND" target="島など" sid="wiki00017096-00" id="13"/><rel type="ヲ" target="諸島" sid="wiki00017096-00" id="15"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 1D
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <NE:LOCATION:ヨーロッパ大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="島" sid="wiki00017096-00" id="2"/><rel type="カラ" target="大陸" sid="wiki00017096-01" id="1"/>
+みる みる みる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+ドーバー どーばー ドーバー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D <NE:LOCATION:ドーバー海峡>
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="ヲ" target="海峡" sid="wiki00017096-01" id="4"/><rel type="ト" target="大陸" sid="wiki00017096-01" id="1"/><memo text="ガト交替可"/>
+挟んで はさんで 挟む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
+* 5D
++ 7D <rel type="ノ" target="大陸" sid="wiki00017096-01" id="1"/>
+北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 8D <rel type="ノ？" target="北西" sid="wiki00017096-01" id="6"/>
+方向 ほうこう 方向 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 11P <rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="ニ" target="方向" sid="wiki00017096-01" id="7"/>
+あたり あたり あたる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 10D <rel type="=" target="ヨーロッパ" sid="wiki00017096-01" id="0"/><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 11D <rel type="トイウ" target="ヨーロッパ" sid="wiki00017096-01" id="9"/><rel type="=" target="ヨーロッパ" sid="wiki00017096-01" id="9"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="地域" sid="wiki00017096-01" id="10"/><rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="=構" target="島" sid="wiki00017096-00" id="2"/>
+一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 1D <rel type="ノ" target="島" sid="wiki00017096-00" id="2"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+* 5P
++ 5P <rel type="ガ" target="面積" sid="wiki00017096-02-01" id="0"/><rel type="ガ２" target="島" sid="wiki00017096-00" id="2"/><rel type="=構" target="面積" sid="wiki00017096-02-01" id="0"/>
+209,331 にじゅうまんきゅうせんさんびゃくさんじゅういち 209,331 名詞 6 数詞 7 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+km2 へいほうきろめーとる km2 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 3D
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="デ" target="世界" sid="wiki00017096-02-01" id="2"/>
+9 きゅう 9 名詞 6 数詞 7 * 0 * 0 NIL
+番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ガ" target="島" sid="wiki00017096-02-01" id="5"/><rel type="ニ" target="9番目" sid="wiki00017096-02-01" id="3"/><rel type="ニ" mode="？" target="なし"/>
+大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="島" sid="wiki00017096-00" id="2"/><rel type="=構" target="島" sid="wiki00017096-00" id="2"/><rel type="修飾" target="大きい" sid="wiki00017096-02-01" id="4"/>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-02-02 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 1D <rel type="=≒" target="島" sid="wiki00017096-02-01" id="5"/>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
+* -1D
++ 2D <rel type="ノ" target="島" sid="wiki00017096-02-02" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="島" sid="wiki00017096-02-02" id="0"/><NE:OPTIONAL:島の一覧><NE-OPTIONAL:ARTIFACT,NONE:0>
+一覧 いちらん 一覧 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="ヲ" target="一覧" sid="wiki00017096-02-02" id="1"/><rel type="ガ" target="読者"/>
+参照 さんしょう 参照 名詞 6 サ変名詞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/19 MEMO:
+* 4D
++ 1D <rel type="=" target="グレート" sid="wiki00017096-00" id="0"/>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="ブリテン" sid="wiki00017096-00" id="1"/>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="=" target="島" sid="wiki00017096-00" id="2"/><NE:LOCATION:グレートブリテン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 4D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ノ？" target="日本" sid="wiki00017096-03" id="3"/><NE:LOCATION:本州>
+本州 ほんしゅう 本州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D
+少し すこし 少し 副詞 8 * 0 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="島" sid="wiki00017096-03" id="2"/><rel type="ヨリ" target="本州" sid="wiki00017096-03" id="4"/>
+小さい ちいさい 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 1D <rel type="ノ？" target="ヨーロッパ" sid="wiki00017096-01" id="9"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="イギリス" sid="wiki00017096-04" id="0"/>
+国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ノ" target="国土" sid="wiki00017096-04" id="1"/><rel type="ガ" target="島" sid="wiki00017096-04" id="3"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
+* 11D
++ 13D <rel type="ガ" target="島" sid="wiki00017096-03" id="2"/><rel type="=構" target="島" sid="wiki00017096-03" id="2"/><rel type="修飾" target="中心的な" sid="wiki00017096-04" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00017096-04" id="0"/>
+島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 5D
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 6D <rel type="=" target="イギリス" sid="wiki00017096-04" id="0"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ノ" target="国" sid="wiki00017096-04" id="5"/>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
+* 8D
++ 9D <rel type="=構" target="首都" sid="wiki00017096-04" id="6"/><rel type="修飾" target="首都" sid="wiki00017096-04" id="6"/><rel type="ノ？" target="イギリス" sid="wiki00017096-04" id="0"/><NE:LOCATION:ロンドン>
+ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ノ" target="都市" sid="wiki00017096-04" id="12"/>
+はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 12D <rel type="ヲ" target="ロンドン" sid="wiki00017096-04" id="7"/><rel type="ト" target="はじめ" sid="wiki00017096-04" id="8"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 10D
++ 12D
+多く おおく 多く 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 12D <rel type="ガ" target="都市" sid="wiki00017096-04" id="12"/>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 13D <rel type="ノ？" target="国" sid="wiki00017096-04" id="5"/><rel type="=構≒" target="ロンドン" sid="wiki00017096-04" id="7"/><rel type="修飾" target="大" sid="wiki00017096-04" id="11"/><rel type="修飾" mode="AND" target="多く" sid="wiki00017096-04" id="10"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="島" sid="wiki00017096-03" id="2"/><rel type="ヲ" target="都市" sid="wiki00017096-04" id="12"/>
+有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017096-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/19 MEMO:
+* 1D
++ 2D <rel type="=≒" target="グレート" sid="wiki00017096-03" id="0"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="ブリテン" sid="wiki00017096-03" id="1"/>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <rel type="=構" target="島" sid="wiki00017096-03" id="2"/><NE:LOCATION:大ブリテン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="島" sid="wiki00017096-03" id="2"/><rel type="=" target="島" sid="wiki00017096-05" id="2"/><rel type="ニ" target="不特定:人"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

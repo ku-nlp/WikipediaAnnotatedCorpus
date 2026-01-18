@@ -1,0 +1,127 @@
+# S-ID:wiki00016195-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:109.00000 MOD:2025/11/14 MEMO:
+* 9D
++ 1P
+東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D
+北陸 ほくりく 北陸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 17D <NE:LOCATION:東海北陸自動車道>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5D
++ 5D
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 10D <rel type="ノ？" target="愛知県" sid="wiki00016195-00-01" id="4"/><NE:LOCATION:愛知県一宮市>
+一宮 いちのみや 一宮 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 7D <NE:LOCATION:岐阜県>
+岐阜 ぎふ 岐阜 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 9D <rel type="ガ" target="道路" sid="wiki00016195-00-01" id="17"/><rel type="ヲ" target="岐阜県" sid="wiki00016195-00-01" id="6"/>
+経由 けいゆ 経由 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 5D
++ 9D
+富山 とやま 富山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 10D <rel type="ノ？" target="富山県" sid="wiki00016195-00-01" id="8"/><NE:LOCATION:富山県砺波市>
+砺波 となみ 砺波 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
+へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 17D <rel type="ガ" target="道路" sid="wiki00016195-00-01" id="17"/><rel type="ヘ" target="砺波市" sid="wiki00016195-00-01" id="9"/><rel type="カラ" target="一宮市" sid="wiki00016195-00-01" id="5"/>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7P
++ 12D <rel type="=" target="東海" sid="wiki00016195-00-01" id="0"/><NE:LOCATION:東海>
+東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14P <rel type="ノ" target="東海" sid="wiki00016195-00-01" id="11"/><rel type="=≒" target="愛知県" sid="wiki00016195-00-01" id="4"/><rel type="=≒" mode="AND" target="岐阜県" sid="wiki00016195-00-01" id="6"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 14D <rel type="=" target="北陸" sid="wiki00016195-00-01" id="1"/><NE:LOCATION:北陸>
+北陸 ほくりく 北陸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 15D <rel type="ノ" target="北陸" sid="wiki00016195-00-01" id="13"/><rel type="=≒" target="富山県" sid="wiki00016195-00-01" id="8"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 17D <rel type="ガ" target="道路" sid="wiki00016195-00-01" id="17"/><rel type="ヲ" target="地方" sid="wiki00016195-00-01" id="14"/><rel type="ト" target="地方" sid="wiki00016195-00-01" id="12"/>
+結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+* -1D
++ 17D
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ -1D <rel type="ガ" target="道" sid="wiki00016195-00-01" id="3"/><rel type="=構" target="道" sid="wiki00016195-00-01" id="3"/><rel type="修飾" target="高速" sid="wiki00016195-00-01" id="16"/><rel type="修飾" mode="AND" target="至る" sid="wiki00016195-00-01" id="10"/><rel type="修飾" mode="AND" target="結ぶ" sid="wiki00016195-00-01" id="15"/>
+道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016195-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/14 MEMO:
+* 1P
++ 1P <rel type="=" target="東海" sid="wiki00016195-00-01" id="0"/>
+とうかい とうかい とうかい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="北陸" sid="wiki00016195-00-01" id="1"/>
+ほくりく ほくりく ほくりく 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <rel type="=" target="自動車" sid="wiki00016195-00-01" id="2"/>
+じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6P <rel type="=" target="道" sid="wiki00016195-00-01" id="3"/><NE:LOCATION:とうかいほくりくじどうしゃどう>
+どう どう どう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 5P <rel type="=" target="東海" sid="wiki00016195-00-01" id="0"/>
+TOKAI とうかい TOKAI 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="=" target="北陸" sid="wiki00016195-00-01" id="1"/>
+HOKURIKU ほくりく HOKURIKU 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="道" sid="wiki00016195-00-01" id="3"/><NE:LOCATION:TOKAI-HOKURIKU　EXPRESSWAY>
+EXPRESSWAY expressway EXPRESSWAY 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS
+# S-ID:wiki00016195-00-03 括弧始:（ 括弧終:） 括弧位置:95 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/14 MEMO:
+* -1D
++ 2D <rel type="=" target="高速" sid="wiki00016195-00-01" id="16"/>
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 2D
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="道路" sid="wiki00016195-00-01" id="17"/><rel type="修飾" target="高速" sid="wiki00016195-00-03" id="0"/><rel type="修飾" mode="AND" target="自動車" sid="wiki00016195-00-03" id="1"/>
+国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016195-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/14 MEMO:
+* 1D
++ 3D <rel type="ノ" target="道" sid="wiki00016195-00-01" id="3"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ 2P <rel type="=" target="東海" sid="wiki00016195-00-01" id="0"/>
+東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="北陸" sid="wiki00016195-00-01" id="1"/>
+北陸 ほくりく 北陸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="ガ" target="通称" sid="wiki00016195-01-01" id="0"/><rel type="=構" target="通称" sid="wiki00016195-01-01" id="0"/><rel type="=" mode="AND" target="道" sid="wiki00016195-00-01" id="3"/><memo text="CO"/><NE:LOCATION:東海北陸道>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016195-01-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/14 MEMO:
+* 1P
++ 2P <rel type="=" target="東海" sid="wiki00016195-01-01" id="1"/>
+とうかい とうかい とうかい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="北陸" sid="wiki00016195-01-01" id="2"/>
+ほくりく ほくりく ほくりく 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5P <rel type="=" target="道" sid="wiki00016195-01-01" id="3"/><NE:LOCATION:とうかいほくりくどう>
+どう どう どう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 4P <rel type="=" target="TOKAI" sid="wiki00016195-00-02" id="4"/><rel type="=" mode="AND" target="東海" sid="wiki00016195-01-01" id="1"/>
+TOKAI とうかい TOKAI 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+- - - 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <rel type="=" target="HOKURIKU" sid="wiki00016195-00-02" id="5"/><rel type="=" mode="AND" target="北陸" sid="wiki00016195-01-01" id="2"/>
+HOKURIKU ほくりく HOKURIKU 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="=" target="EXPRESSWAY" sid="wiki00016195-00-02" id="6"/><rel type="=" mode="AND" target="道" sid="wiki00016195-01-01" id="3"/><NE:LOCATION:TOKAI-HOKURIKU　EXPWY>
+EXPWY expressway EXPWY 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+EOS

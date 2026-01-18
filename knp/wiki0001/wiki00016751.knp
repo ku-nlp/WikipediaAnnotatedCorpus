@@ -1,0 +1,129 @@
+# S-ID:wiki00016751-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/18 MEMO:
+* 5D
++ 10D <NE:LOCATION:ウェールズ>
+ウェールズ うぇーるず ウェールズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <rel type="ガ" target="ブリテン" sid="wiki00016751-00-01" id="2"/><rel type="ガ" mode="AND" target="アイルランド" sid="wiki00016751-00-01" id="4"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7D <NE:LOCATION:グレートブリテンおよび北アイルランド連合王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 9D <rel type="ガ" target="国" sid="wiki00016751-00-01" id="9"/><rel type="ヲ" target="王国" sid="wiki00016751-00-01" id="6"/>
+構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 4D
++ 9D <rel type="ノ" target="国" sid="wiki00016751-00-01" id="9"/>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 10D <rel type="修飾" target="4つ" sid="wiki00016751-00-01" id="8"/><rel type="=≒" target="ウェールズ" sid="wiki00016751-00-01" id="0"/><rel type="=構" mode="AND" target="4つ" sid="wiki00016751-00-01" id="8"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="ウェールズ" sid="wiki00016751-00-01" id="0"/><rel type="ノ" target="国" sid="wiki00016751-00-01" id="9"/><rel type="=構" target="ウェールズ" sid="wiki00016751-00-01" id="0"/><rel type="=構" mode="AND" target="国" sid="wiki00016751-00-01" id="9"/>
+ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016751-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
+* -1D
++ -1D <rel type="=" target="ウェールズ" sid="wiki00016751-00-01" id="0"/><memo text="ウェールズ語"/><NE:LOCATION:カムリ>
+カムリ かむり カムリ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+EOS
+# S-ID:wiki00016751-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
+* -1D
++ -1D <rel type="=" target="王国" sid="wiki00016751-00-01" id="6"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+EOS
+# S-ID:wiki00016751-00-04 括弧始:（ 括弧終:） 括弧位置:50 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
+* 1D
++ 1D <rel type="=" target="イギリス" sid="wiki00016751-00-03" id="0"/><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ？" target="イギリス" sid="wiki00016751-00-04" id="0"/><rel type="=" target="国" sid="wiki00016751-00-01" id="9"/>
+カントリー かんとりー カントリー 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016751-00-05 括弧始:（ 括弧終:） 括弧位置:64 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
+* -1D
++ -1D <rel type="=" target="国" sid="wiki00016751-00-01" id="9"/><rel type="=" mode="AND" target="カントリー" sid="wiki00016751-00-04" id="1"/>
+country country country 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00016751-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2025/11/18 MEMO:
+* 3D
++ 5D <rel type="=" target="ウェールズ" sid="wiki00016751-00-01" id="0"/><NE:LOCATION:ウェールズ>
+ウェールズ うぇーるず ウェールズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=" target="グレート" sid="wiki00016751-00-01" id="1"/>
+グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <rel type="=" target="ブリテン" sid="wiki00016751-00-01" id="2"/>
+ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <NE:LOCATION:グレートブリテン島>
+島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ノ" target="島" sid="wiki00016751-01" id="3"/>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11P
++ 15P <rel type="ガ" target="ウェールズ" sid="wiki00016751-01" id="0"/><rel type="ニ" target="南西" sid="wiki00016751-01" id="4"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5I
++ 8I <rel type="ノ" target="ウェールズ" sid="wiki00016751-01" id="0"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7P
++ 8D
+ブリストル ぶりすとる ブリストル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10P <rel type="ガ" target="海峡" sid="wiki00016751-01" id="8"/><rel type="ニ" target="南" sid="wiki00016751-01" id="6"/><NE:LOCATION:ブリストル海峡>
+海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7I
++ 10I <rel type="ノ" target="ウェールズ" sid="wiki00016751-01" id="0"/>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10P
++ 14P <rel type="ガ" target="イングランド" sid="wiki00016751-01" id="10"/><rel type="ニ" target="東" sid="wiki00016751-01" id="9"/><NE:LOCATION:イングランド>
+イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9P
++ 12P <rel type="ノ" target="ウェールズ" sid="wiki00016751-01" id="0"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 14D <rel type="ノ" target="ウェールズ" sid="wiki00016751-01" id="0"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 11D
++ 14D
+アイリッシュ あいりっしゅ アイリッシュ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <NE:LOCATION:アイリッシュ海>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="海" sid="wiki00016751-01" id="14"/><rel type="ニ" target="西" sid="wiki00016751-01" id="11"/><rel type="ニ" mode="AND" target="北" sid="wiki00016751-01" id="12"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

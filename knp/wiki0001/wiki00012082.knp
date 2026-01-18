@@ -1,0 +1,175 @@
+# S-ID:wiki00012082-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/18 MEMO:
+* 9D
++ 1D <rel type="ガ" target="不特定:物"/>
+分岐 ぶんき/ぶんぎ 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="分岐" sid="wiki00012082-00-01" id="0"/>
+器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ノ？" target="鉄道" sid="wiki00012082-00-01" id="2"/>
+線路 せんろ 線路 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
+* 5D
++ 6D <rel type="=" target="線路" sid="wiki00012082-00-01" id="3"/>
+線路 せんろ 線路 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 9P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="線路" sid="wiki00012082-00-01" id="5"/><rel type="ニオイテ" target="線路" sid="wiki00012082-00-01" id="3"/><rel type="外の関係" target="機構" sid="wiki00012082-00-01" id="10"/>
+分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 8D <rel type="修飾" target="鉄道" sid="wiki00012082-00-01" id="2"/>
+車両 しゃりょう 車両 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ノ" target="車両" sid="wiki00012082-00-01" id="7"/>
+進路 しんろ 進路 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 10D <rel type="ヲ" target="進路" sid="wiki00012082-00-01" id="8"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="機構" sid="wiki00012082-00-01" id="10"/>
+選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ -1D <rel type="ガ" target="器" sid="wiki00012082-00-01" id="1"/><rel type="=構" target="器" sid="wiki00012082-00-01" id="1"/><rel type="トイウ" target="分岐させ" sid="wiki00012082-00-01" id="6"/><rel type="トイウ" mode="AND" target="選択する" sid="wiki00012082-00-01" id="9"/><memo text="CO"/>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012082-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/17 MEMO:
+* 1P
++ 1D <rel type="=" target="分岐" sid="wiki00012082-00-01" id="0"/>
+ぶんき ぶんき ぶんき 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3P <rel type="=" target="器" sid="wiki00012082-00-01" id="1"/>
+き き き 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 3D <rel type="=" target="分岐" sid="wiki00012082-00-01" id="0"/>
+ぶんぎ ぶんぎ ぶんぎ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="器" sid="wiki00012082-00-01" id="1"/>
+き き き 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012082-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/17 MEMO:
+* 1D
++ 1D <NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="修飾" target="アメリカ" sid="wiki00012082-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="名称" sid="wiki00012082-01" id="3"/>
+正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 6D <rel type="ノ" target="器" sid="wiki00012082-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00012082-01" id="2"/><rel type="デ" target="英語" sid="wiki00012082-01" id="1"/>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ 5D
+ターン たーん ターン 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D
+アウト あうと アウト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="名称" sid="wiki00012082-01" id="3"/><rel type="=構" target="名称" sid="wiki00012082-01" id="3"/><rel type="=" mode="AND" target="器" sid="wiki00012082-00-01" id="1"/><rel type="ノ？" target="アウト" sid="wiki00012082-01" id="5"/><memo text="CO"/>
+スイッチ すいっち スイッチ 名詞 6 サ変名詞 2 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012082-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:104.00000 MOD:2025/11/17 MEMO:
+* 8D
++ 9D <rel type="=" target="アメリカ" sid="wiki00012082-01" id="0"/><NE:LOCATION:アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=" target="分岐" sid="wiki00012082-00-01" id="0"/>
+分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="=" target="器" sid="wiki00012082-00-01" id="1"/>
+器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ノ" target="器" sid="wiki00012082-02-01" id="2"/>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=" target="進路" sid="wiki00012082-00-01" id="8"/>
+進路 しんろ 進路 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ガ" target="部分" sid="wiki00012082-02-01" id="6"/><rel type="ヲ" target="進路" sid="wiki00012082-02-01" id="4"/>
+転換 てんかん 転換 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 6D
++ 7D <rel type="ノ" target="器" sid="wiki00012082-02-01" id="2"/><rel type="修飾" target="転換する" sid="wiki00012082-02-01" id="5"/>
+部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ノ" target="部分" sid="wiki00012082-02-01" id="6"/><rel type="修飾" target="うち" sid="wiki00012082-02-01" id="3"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 9D <rel type="=構" target="こと" sid="wiki00012082-02-01" id="7"/><rel type="=構" mode="AND" target="部分" sid="wiki00012082-02-01" id="6"/>
+ポイント ぽいんと ポイント 名詞 6 普通名詞 1 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+　 　 　 特殊 1 空白 6 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17P
++ 19P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00012082-02-01" id="7"/><rel type="デ" target="アメリカ" sid="wiki00012082-02-01" id="0"/><rel type="ト" target="ポイント" sid="wiki00012082-02-01" id="8"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 13P
++ 14P <NE:LOCATION:英国>
+英国 えいこく 英国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 12D
++ 13D <rel type="=" target="英国" sid="wiki00012082-02-01" id="10"/><NE:LOCATION:英国>
+英国 えいこく 英国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 13D <rel type="=" target="鉄道" sid="wiki00012082-00-01" id="2"/>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 14D <rel type="ガ" target="国々" sid="wiki00012082-02-01" id="14"/><rel type="ヲ" target="鉄道" sid="wiki00012082-02-01" id="12"/><rel type="カラ" target="英国" sid="wiki00012082-02-01" id="11"/>
+導入 どうにゅう 導入 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 17D
++ 19D
+国々 くにぐに 国々 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 15D
++ 16D <rel type="=" target="分岐" sid="wiki00012082-00-01" id="0"/>
+分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17D <rel type="=" target="器" sid="wiki00012082-00-01" id="1"/>
+器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL
+全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 17D
++ 19D <rel type="ノ" target="器全体" sid="wiki00012082-02-01" id="16"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 19D <rel type="=" target="ポイント" sid="wiki00012082-02-01" id="8"/><rel type="=構" mode="AND" target="器全体" sid="wiki00012082-02-01" id="16"/><rel type="=構" mode="AND" target="こと" sid="wiki00012082-02-01" id="17"/>
+ポイント ぽいんと ポイント 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00012082-02-01" id="17"/><rel type="ト" target="ポイント" sid="wiki00012082-02-01" id="18"/><rel type="デ" target="国々" sid="wiki00012082-02-01" id="14"/>
+呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012082-02-02 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
+* -1D
++ -1D <rel type="=" target="ポイント" sid="wiki00012082-02-01" id="8"/>
+point point point 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

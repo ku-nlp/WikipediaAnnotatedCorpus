@@ -1,0 +1,134 @@
+# S-ID:wiki00017755-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/25 MEMO:
+* 6D
++ 7D
+客車 きゃくしゃ 客車 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 3D
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
+* 3D
++ 3D
+旅客 りょかく/りょきゃく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="ヲ" target="旅客" sid="wiki00017755-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="ため" sid="wiki00017755-00-01" id="4"/>
+輸送 ゆそう 輸送 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 5D
++ 5D <rel type="ノ" target="輸送する" sid="wiki00017755-00-01" id="3"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ガ" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="ニ" target="不特定:人"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
+られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ 7D
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="=構" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="修飾" target="鉄道" sid="wiki00017755-00-01" id="6"/>
+車両 しゃりょう 車両 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017755-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/22 MEMO:
+* -1D
++ -1D <rel type="=" target="客車" sid="wiki00017755-00-01" id="0"/>
+きゃくしゃ きゃくしゃ きゃくしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017755-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:111.00000 MOD:2025/11/25 MEMO:
+* 1P
++ 1D
+座席 ざせき 座席 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="=構≒" mode="AND" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="ノ？" target="座席" sid="wiki00017755-01" id="0"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 3D
+寝台 しんだい 寝台 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="=構≒" mode="AND" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="ノ？" target="寝台" sid="wiki00017755-01" id="2"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ノ" target="客車" sid="wiki00017755-00-01" id="0"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 17D
++ 24D <rel type="ガ" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="ヲ" target="車" sid="wiki00017755-01" id="1"/><rel type="ヲ" mode="AND" target="車" sid="wiki00017755-01" id="3"/><rel type="ト" target="中心" sid="wiki00017755-01" id="4"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 5P
++ 7D <rel type="ガ" target="不特定:人"/>
+展望 てんぼう 展望 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9P <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="ノ？" target="展望" sid="wiki00017755-01" id="6"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 6P
++ 9D
+食堂 しょくどう 食堂 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="ノ？" target="食堂" sid="wiki00017755-01" id="8"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7P
++ 11D
+荷物 にもつ 荷物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13P <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="ノ？" target="荷物" sid="wiki00017755-01" id="10"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 13D
+郵便 ゆうびん 郵便 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="=≒" target="車両" sid="wiki00017755-00-01" id="7"/><rel type="ノ？" target="郵便" sid="wiki00017755-01" id="12"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+など など など 助詞 9 副助詞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 9D
++ 15D <rel type="ノ" target="車" sid="wiki00017755-01" id="7"/><rel type="ノ" mode="AND" target="車" sid="wiki00017755-01" id="9"/><rel type="ノ" mode="AND" target="車" sid="wiki00017755-01" id="11"/><rel type="ノ" mode="AND" target="車" sid="wiki00017755-01" id="13"/><rel type="ノ" mode="AND" target="車" sid="wiki00017755-01" id="1"/><rel type="ノ" mode="AND" target="車" sid="wiki00017755-01" id="3"/>
+構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL
+的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 13P
++ 20P <rel type="ガ" target="車" sid="wiki00017755-01" id="7"/><rel type="ガ" mode="AND" target="車" sid="wiki00017755-01" id="9"/><rel type="ガ" mode="AND" target="車" sid="wiki00017755-01" id="11"/><rel type="ガ" mode="AND" target="車など" sid="wiki00017755-01" id="13"/><rel type="ト" target="車" sid="wiki00017755-01" id="1"/><rel type="ト" mode="AND" target="車" sid="wiki00017755-01" id="3"/><rel type="修飾" target="構造的に" sid="wiki00017755-01" id="14"/>
+共通であり きょうつうであり 共通だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本連用形 23 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 11D
++ 17D <rel type="=" target="旅客" sid="wiki00017755-00-01" id="2"/>
+旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="ノ？" target="旅客" sid="wiki00017755-01" id="16"/>
+車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 12D
++ 19D <rel type="ト" target="車" sid="wiki00017755-01" id="17"/><memo text="副詞から名詞に"/>
+一体 いったい 一体 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 13D
++ 20D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="車" sid="wiki00017755-01" id="7"/><rel type="ヲ" mode="AND" target="車" sid="wiki00017755-01" id="9"/><rel type="ヲ" mode="AND" target="車" sid="wiki00017755-01" id="11"/><rel type="ヲ" mode="AND" target="車など" sid="wiki00017755-01" id="13"/><rel type="デ" target="一体" sid="wiki00017755-01" id="18"/><rel type="デ" mode="？" target="なし"/>
+運用 うんよう 運用 名詞 6 サ変名詞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 14D
++ 21D <rel type="ガ" target="運用" sid="wiki00017755-01" id="19"/><rel type="外の関係" target="こと" sid="wiki00017755-01" id="21"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+* 17D
++ 24D <rel type="トイウ" target="多い" sid="wiki00017755-01" id="20"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 17D
++ 24D <rel type="=≒" target="車" sid="wiki00017755-01" id="7"/><rel type="=≒" mode="AND" target="車" sid="wiki00017755-01" id="9"/><rel type="=≒" mode="AND" target="車" sid="wiki00017755-01" id="11"/><rel type="=≒" mode="AND" target="車" sid="wiki00017755-01" id="13"/>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
+ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* 17D
++ 24D <rel type="=" target="客車" sid="wiki00017755-00-01" id="0"/><rel type="=構" mode="AND" target="これら" sid="wiki00017755-01" id="22"/>
+客車 きゃくしゃ 客車 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="これら" sid="wiki00017755-01" id="22"/><rel type="ニ" target="客車" sid="wiki00017755-01" id="23"/><rel type="ニ" mode="AND" target="不特定:人"/>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

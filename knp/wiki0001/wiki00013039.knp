@@ -1,0 +1,84 @@
+# S-ID:wiki00013039-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/11/26 MEMO:
+* 1P
++ 1D
+空手 からて 空手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <rel type="ノ？" target="空手" sid="wiki00013039-00-01" id="0"/>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL
+もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10D
++ 15D <rel type="=" target="道" sid="wiki00013039-00-01" id="1"/>
+空手 からて 空手 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 3D
++ 4D
+琉球 りゅうきゅう 琉球 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
++ 5D
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <rel type="ノ？" target="王国" sid="wiki00013039-00-01" id="4"/><NE:DATE:琉球王国時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 7D <rel type="時間" target="時代" sid="wiki00013039-00-01" id="5"/><rel type="=" target="王国" sid="wiki00013039-00-01" id="4"/><NE:LOCATION:沖縄>
+沖縄 おきなわ 沖縄 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 15D <rel type="ガ" target="格闘技" sid="wiki00013039-00-01" id="15"/><rel type="デ" target="沖縄" sid="wiki00013039-00-01" id="6"/>
+発祥 はっしょう 発祥 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+* 6D
++ 9D
+拳足 けんそく 拳足 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 11D
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 9D
++ 11D <rel type="ニヨッテ" target="拳足" sid="wiki00013039-00-01" id="8"/>
+打撃 だげき 打撃 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ニヨッテ" target="拳足" sid="wiki00013039-00-01" id="8"/><rel type="ノ？" target="打撃" sid="wiki00013039-00-01" id="10"/>
+技 わざ 技 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ノ" target="格闘技" sid="wiki00013039-00-01" id="15"/><rel type="=構" target="技" sid="wiki00013039-00-01" id="11"/>
+特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 15D <rel type="ガ" target="格闘技" sid="wiki00013039-00-01" id="15"/><rel type="ヲ" target="技" sid="wiki00013039-00-01" id="11"/><rel type="ト" target="特徴" sid="wiki00013039-00-01" id="12"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* -1D
++ 15P <rel type="=構" target="空手" sid="wiki00013039-00-01" id="2"/>
+武道 ぶどう 武道 名詞 6 普通名詞 1 * 0 * 0 NIL
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ -1D <rel type="ガ" target="空手" sid="wiki00013039-00-01" id="2"/><rel type="=構" target="空手" sid="wiki00013039-00-01" id="2"/>
+格闘技 かくとうぎ 格闘技 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013039-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/01 MEMO:
+* -1D
++ 1D <rel type="=" target="空手" sid="wiki00013039-00-01" id="0"/>
+からて からて からて 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="道" sid="wiki00013039-00-01" id="1"/>
+どう どう どう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013039-00-03 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/01 MEMO:
+* -1D
++ -1D <rel type="=" target="空手" sid="wiki00013039-00-01" id="2"/>
+からて からて からて 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013039-00-04 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/01 MEMO:
+* -1D
++ -1D <rel type="=" target="王国" sid="wiki00013039-00-01" id="4"/><NE:LOCATION:琉球國>
+琉球國 りゅうきゅうこく 琉球國 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+EOS
+# S-ID:wiki00013039-00-05 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
+* -1D
++ -1D <rel type="=≒" target="武道" sid="wiki00013039-00-01" id="14"/><rel type="=構" mode="AND" target="空手" sid="wiki00013039-00-01" id="2"/>
+武術 ぶじゅつ 武術 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013039-00-06 括弧始:（ 括弧終:） 括弧位置:66 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
+* -1D
++ -1D <rel type="=≒" target="格闘技" sid="wiki00013039-00-01" id="15"/><rel type="=構" mode="AND" target="空手" sid="wiki00013039-00-01" id="2"/>
+スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS

@@ -1,0 +1,96 @@
+# S-ID:wiki00012374-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/19 MEMO:
+* 1P
++ 1D
+ゴールデン ごーるでん ゴールデン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <rel type="修飾" target="ゴールデン" sid="wiki00012374-00" id="0"/>
+ウィーク うぃーく ウィーク 名詞 6 時相名詞 10 * 0 * 0 NIL
+または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 10D
++ 3D <rel type="=" target="ゴールデン" sid="wiki00012374-00" id="0"/>
+ゴールデン ごーるでん ゴールデン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="修飾" target="ゴールデン" sid="wiki00012374-00" id="2"/><rel type="=" target="ウィーク" sid="wiki00012374-00" id="1"/>
+ウイーク ういーく ウイーク 名詞 6 時相名詞 10 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 10D
++ 14D <NE:LOCATION:日本>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 5D
++ 9D
+毎年 まいとし 毎年 名詞 6 時相名詞 10 * 0 * 0 NIL
+* 5D
++ 7D
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 9P
+末 まつ/すえ 末 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 9D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 10D
+初め はじめ 初め 名詞 6 時相名詞 10 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ニ" target="初め" sid="wiki00012374-00" id="8"/><rel type="カラ" target="末" sid="wiki00012374-00" id="7"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 12D
+休日 きゅうじつ 休日 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ガ" target="休日" sid="wiki00012374-00" id="10"/><rel type="ガ２" target="期間" sid="wiki00012374-00" id="12"/>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
+* 10D
++ 14D <rel type="=構" target="ウイーク" sid="wiki00012374-00" id="3"/><rel type="カラ" target="末" sid="wiki00012374-00" id="7"/><rel type="マデ" target="初め" sid="wiki00012374-00" id="9"/><rel type="修飾" target="かけて" sid="wiki00012374-00" id="10"/><rel type="修飾" mode="AND" target="多い" sid="wiki00012374-00" id="12"/>
+期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="期間" sid="wiki00012374-00" id="12"/><rel type="ガ" target="ウイーク" sid="wiki00012374-00" id="3"/><rel type="=構" target="ウイーク" sid="wiki00012374-00" id="3"/><rel type="デ" target="日本" sid="wiki00012374-00" id="4"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012374-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/19 MEMO:
+* 1P
++ 1D <rel type="ガ" target="連休" sid="wiki00012374-01-01" id="1"/>
+大型 おおがた 大型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 3P <rel type="修飾" target="大型" sid="wiki00012374-01-01" id="0"/><rel type="=構" target="ウィーク" sid="wiki00012374-00" id="1"/>
+連休 れんきゅう 連休 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <rel type="=" target="ゴールデン" sid="wiki00012374-00" id="0"/>
+黄金 おうごん 黄金 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=構" target="ウィーク" sid="wiki00012374-00" id="1"/><rel type="修飾" target="黄金" sid="wiki00012374-01-01" id="2"/>
+週間 しゅうかん 週間 名詞 6 時相名詞 10 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ウイーク" sid="wiki00012374-00" id="3"/><rel type="ト" target="連休" sid="wiki00012374-01-01" id="1"/><rel type="ト" mode="AND" target="週間" sid="wiki00012374-01-01" id="3"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012374-01-02 括弧始:（ 括弧終:） 括弧位置:0 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
+* -1D
++ -1D <memo text="原文（春の）大型連休"/>
+春 はる 春 名詞 6 時相名詞 10 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012374-01-03 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/02 MEMO:
+* -1D
++ 1D <rel type="=" target="大型" sid="wiki00012374-01-01" id="0"/>
+おおがた おおがた おおがただ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ -1D <rel type="=" target="連休" sid="wiki00012374-01-01" id="1"/>
+れんきゅう れんきゅう れんきゅう 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00012374-01-04 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
+* -1D
++ 1D <rel type="=" target="黄金" sid="wiki00012374-01-01" id="2"/>
+おうごん おうごん おうごん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="週間" sid="wiki00012374-01-01" id="3"/>
+しゅうかん しゅうかん しゅうかん 名詞 6 時相名詞 10 * 0 * 0 NIL
+EOS

@@ -1,0 +1,195 @@
+# S-ID:wiki00013338-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/28 MEMO:
+* 1P
++ 1P
+ヴァイオリン ゔぁいおりん ヴァイオリン 名詞 6 普通名詞 1 * 0 * 0 NIL
+または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=" target="ヴァイオリン" sid="wiki00013338-00" id="0"/>
+バイオリン ばいおりん バイオリン 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=≒" target="バイオリン" sid="wiki00013338-00" id="1"/>
+弦楽器 げんがっき 弦楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ノ" target="弦楽器" sid="wiki00013338-00" id="2"/><rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="=構" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="=構" mode="AND" target="弦楽器" sid="wiki00013338-00" id="2"/><memo text="CO"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/28 MEMO:
+* 1D
++ 1D <rel type="=" target="ヴァイオリン" sid="wiki00013338-00" id="0"/>
+ヴァイオリン ゔぁいおりん ヴァイオリン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ？" target="ヴァイオリン" sid="wiki00013338-01" id="0"/>
+属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 3D
+高音 こうおん 高音 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="=構" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="修飾" target="高音" sid="wiki00013338-01" id="2"/><rel type="修飾" mode="AND" target="属" sid="wiki00013338-01" id="1"/>
+楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/28 MEMO:
+* 1D
++ 1D <rel type="=" target="ヴァイオリン" sid="wiki00013338-01" id="0"/>
+ヴァイオリン ゔぁいおりん ヴァイオリン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="属" sid="wiki00013338-01" id="1"/>
+属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="ガ" target="楽器" sid="wiki00013338-02" id="4"/><rel type="ニ" target="属" sid="wiki00013338-02" id="1"/>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 3D
++ 4D <rel type="ノ" target="楽器" sid="wiki00013338-02" id="4"/>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 5D <rel type="修飾" target="属する" sid="wiki00013338-02" id="2"/><rel type="修飾" mode="AND" target="4つ" sid="wiki00013338-02" id="3"/><rel type="=構" target="4つ" sid="wiki00013338-02" id="3"/><rel type="=≒" mode="AND" target="バイオリン" sid="wiki00013338-00" id="1"/>
+楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ノ" target="楽器" sid="wiki00013338-02" id="4"/>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D <rel type="デ" target="中" sid="wiki00013338-02" id="5"/>
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+* 10P
++ 12P <rel type="修飾" target="最も" sid="wiki00013338-02" id="6"/><rel type="デ" target="中" sid="wiki00013338-02" id="5"/><rel type="ガ" target="楽器" sid="wiki00013338-02" id="12"/>
+小さく ちいさく 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 10D <rel type="デ" target="中" sid="wiki00013338-02" id="5"/>
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+* 9D
++ 10D <rel type="ガ" target="音域" sid="wiki00013338-02" id="10"/>
+高 こう 高 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 11D <rel type="デ" target="中" sid="wiki00013338-02" id="5"/><rel type="修飾" target="高" sid="wiki00013338-02" id="9"/><rel type="修飾" mode="AND" target="最も" sid="wiki00013338-02" id="8"/>
+音域 おんいき 音域 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 10D
++ 12D <rel type="ガ" target="楽器" sid="wiki00013338-02" id="12"/><rel type="ヲ" target="音域" sid="wiki00013338-02" id="10"/>
+出す だす 出す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+* -1D
++ -1D <rel type="トイウ" target="小さく" sid="wiki00013338-02" id="7"/><rel type="トイウ" mode="AND" target="出す" sid="wiki00013338-02" id="11"/><rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="=≒" target="楽器" sid="wiki00013338-02" id="4"/><rel type="=構" mode="AND" target="バイオリン" sid="wiki00013338-00" id="1"/>
+楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/28 MEMO:
+* 1D
++ 1D <rel type="ガ" target="五度" sid="wiki00013338-03" id="1"/>
+完全 かんぜん 完全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 2D <rel type="修飾" target="完全" sid="wiki00013338-03" id="0"/>
+五 ご 五 名詞 6 数詞 7 * 0 * 0 NIL
+度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 3D <rel type="ガ" target="弦" sid="wiki00013338-03" id="3"/><rel type="ニ" target="五度" sid="wiki00013338-03" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/>
+調弦 ちょうげん 調弦 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
+* 4D
++ 5D <rel type="修飾" target="弦" sid="wiki00013338-03" id="3"/><rel type="ノ" target="ヴァイオリン" sid="wiki00013338-00" id="0"/>
+弦 げん 弦 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D
+弓 ゆみ 弓 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="弦" sid="wiki00013338-03" id="3"/><rel type="デ" target="弓" sid="wiki00013338-03" id="4"/>
+擦って こすって 擦る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 6D
++ 7D
+音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ヲ" target="音" sid="wiki00013338-03" id="6"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="バイオリン" sid="wiki00013338-00" id="1"/>
+出す だす 出す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2025/11/28 MEMO:
+* 1D
++ 1D
+基本 きほん 基本 名詞 6 普通名詞 1 * 0 * 0 NIL
+的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 8D
++ 9D <rel type="修飾" target="基本的に" sid="wiki00013338-04" id="0"/><rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/>
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
+弦 げん 弦 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 3D <rel type="ガ" target="音域" sid="wiki00013338-04" id="3"/>
+低 てい 低 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="低" sid="wiki00013338-04" id="2"/>
+音域 おんいき 音域 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=" target="弦" sid="wiki00013338-03" id="3"/>
+弦 げん 弦 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="弦" sid="wiki00013338-04" id="5"/><rel type="ニ" target="音域" sid="wiki00013338-04" id="3"/><rel type="ニ" mode="？" target="なし"/><rel type="ニ" mode="AND" target="楽器" sid="wiki00013338-04" id="8"/>
+足した たした 足す 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL
+* 6P
++ 7P
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL
+弦 げん 弦 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 7D
++ 8D
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
+弦 げん 弦 名詞 6 普通名詞 1 * 0 * 0 NIL
+以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 8D
++ 9D <rel type="修飾" target="5弦" sid="wiki00013338-04" id="6"/><rel type="修飾" mode="AND" target="6弦以上" sid="wiki00013338-04" id="7"/><rel type="修飾" mode="AND" target="足した" sid="wiki00013338-04" id="5"/><rel type="=" target="バイオリン" sid="wiki00013338-00" id="1"/>
+楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="楽器" sid="wiki00013338-04" id="11"/><rel type="ニ" target="バイオリン" sid="wiki00013338-00" id="1"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/28 MEMO:
+* 1D
++ 1D
+弦鳴 げんめい 弦鳴 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="修飾" target="弦鳴" sid="wiki00013338-05" id="0"/><rel type="=≒" target="バイオリン" sid="wiki00013338-00" id="1"/>
+楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="ニ" target="楽器" sid="wiki00013338-05" id="1"/>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00013338-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/28 MEMO:
+* 1P
++ 1P <rel type="=構" target="バイオリン" sid="wiki00013338-00" id="1"/><memo text="品詞"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+Vn Vn Vn 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+* 2D
++ 2D <rel type="=構" target="バイオリン" sid="wiki00013338-00" id="1"/><memo text="品詞"/>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+Vl Vl Vl 名詞 6 普通名詞 1 * 0 * 0 NIL
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="バイオリン" sid="wiki00013338-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="Vn" sid="wiki00013338-06" id="0"/><rel type="ト" mode="AND" target="Vl" sid="wiki00013338-06" id="1"/><memo text="モダリティ保留？"/>
+略記 りゃっき 略記 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+も も も 助詞 9 副助詞 2 * 0 * 0 NIL
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

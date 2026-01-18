@@ -1,0 +1,315 @@
+# S-ID:wiki00018532-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:99.00000 MOD:2026/01/07 MEMO:
+* 9D
++ 1D
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 13D <NE:LOCATION:スエズ運河>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3P <NE:LOCATION:地中海>
+地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D <NE:LOCATION:紅海>
+紅海 こうかい 紅海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="=" target="スエズ" sid="wiki00018532-00-01" id="0"/>
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <NE:LOCATION:スエズ地峡>
+地峡 ちきょう 地峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6P
++ 9P <rel type="ガ" target="水路" sid="wiki00018532-00-01" id="13"/><rel type="ト" target="地中海" sid="wiki00018532-00-01" id="2"/><rel type="ヲ" target="紅海" sid="wiki00018532-00-01" id="3"/><rel type="デ" target="地峡" sid="wiki00018532-00-01" id="5"/>
+結び むすび 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 8P <NE:LOCATION:アフリカ>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7P
++ 9D <NE:LOCATION:アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 13D <rel type="ガ" target="水路" sid="wiki00018532-00-01" id="13"/><rel type="ト" target="アフリカ" sid="wiki00018532-00-01" id="7"/><rel type="ヲ" target="アジア" sid="wiki00018532-00-01" id="8"/>
+分断 ぶんだん 分断 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+* 9D
++ 13D <NE:LOCATION:エジプト>
+エジプト えじぷと エジプト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ 13D
+人工 じんこう 人工 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D
+海面 かいめん 海面 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="運河" sid="wiki00018532-00-01" id="1"/><rel type="ノ？" target="エジプト" sid="wiki00018532-00-01" id="10"/><rel type="=構" target="運河" sid="wiki00018532-00-01" id="1"/><rel type="トイウ" target="結び" sid="wiki00018532-00-01" id="6"/><rel type="トイウ" mode="AND" target="分断する" sid="wiki00018532-00-01" id="9"/><rel type="修飾" target="海面" sid="wiki00018532-00-01" id="12"/><rel type="修飾" mode="AND" target="人工" sid="wiki00018532-00-01" id="11"/>
+水路 すいろ 水路 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/10 MEMO:
+* -1D
++ 1D <rel type="=" target="スエズ" sid="wiki00018532-00-01" id="0"/>
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="運河" sid="wiki00018532-00-01" id="1"/><NE:LOCATION:スエズうんが>
+うんが うんが うんが 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2026/01/07 MEMO:
+* 1P
++ 1P <NE:DATE:1859年>
+1859 せんはっぴゃくごじゅうきゅう/せんはっぴゃくごじゅうく 1859 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 2D
++ 2D <NE:DATE:1869年>
+1869 せんはっぴゃくろくじゅうきゅう/せんはっぴゃくろくじゅうく 1869 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ガ" target="不特定:状況"/><rel type="カラ" target="1859年" sid="wiki00018532-01" id="0"/><rel type="ニ" target="1869年" sid="wiki00018532-01" id="1"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
+* 4D
++ 4D
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 5D
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <NE:ORGANIZATION:スエズ運河会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
+* 8D
++ 12P <rel type="ニヨッテ" target="会社" sid="wiki00018532-01" id="5"/><rel type="ガ" target="運河" sid="wiki00018532-00-01" id="1"/><rel type="時間" target="1859年" sid="wiki00018532-01" id="0"/><rel type="時間" mode="OR" target="1869年" sid="wiki00018532-01" id="1"/>
+建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
+れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 9D
+1869 せんはっぴゃくろくじゅうきゅう/せんはっぴゃくろくじゅうく 1869 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 10D <rel type="=" target="1869年" sid="wiki00018532-01" id="1"/>
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 12D <NE:DATE:1869年11月17日>
+17 じゅうしち/じゅうなな 17 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 12D
+正式に せいしきに 正式だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
+* -1D
++ -1D <rel type="ガ" target="運河" sid="wiki00018532-00-01" id="1"/><rel type="時間" target="17日" sid="wiki00018532-01" id="10"/>
+開通 かいつう 開通 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2026/01/07 MEMO:
+* 13D
++ 1D
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 17D <rel type="=" target="運河" sid="wiki00018532-00-01" id="1"/><NE:LOCATION:スエズ運河>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3P <rel type="=" target="地中海" sid="wiki00018532-00-01" id="2"/><NE:LOCATION:地中海>
+地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D <rel type="=" target="紅海" sid="wiki00018532-00-01" id="3"/><NE:LOCATION:紅海>
+紅海 こうかい 紅海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6P
++ 9P <rel type="ガ" target="水路" sid="wiki00018532-02" id="10"/><rel type="ヲ" target="紅海" sid="wiki00018532-02" id="3"/><rel type="ト" target="地中海" sid="wiki00018532-02" id="2"/>
+経由 けいゆ 経由 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 5P
++ 6D
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 8P <NE:LOCATION:北大西洋>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 8D
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <NE:LOCATION:北インド洋>
+インド洋 いんどよう インド洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 7D
++ 10D <rel type="ガ" target="水路" sid="wiki00018532-02" id="10"/><rel type="ヲ" target="インド洋" sid="wiki00018532-02" id="8"/><rel type="ト" target="大西洋" sid="wiki00018532-02" id="6"/>
+結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
+* 13P
++ 17P <rel type="ガ" target="運河" sid="wiki00018532-02" id="1"/><rel type="トイウ" target="経由して" sid="wiki00018532-02" id="4"/><rel type="トイウ" mode="AND" target="結ぶ" sid="wiki00018532-02" id="9"/><rel type="=構" target="運河" sid="wiki00018532-02" id="1"/>
+水路 すいろ 水路 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 9D
++ 12D <rel type="=" target="アフリカ" sid="wiki00018532-00-01" id="7"/>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 13D <NE:LOCATION:アフリカ大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 17D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大陸" sid="wiki00018532-02" id="12"/>
+回ら まわら 回る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
+ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
+に に に 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11P
++ 15P <NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 17D <rel type="=" target="アジア" sid="wiki00018532-00-01" id="8"/><NE:LOCATION:アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 13D
++ 17D
+海運 かいうん 海運 名詞 6 普通名詞 1 * 0 * 0 NIL
+で で で 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="運河" sid="wiki00018532-02" id="1"/><rel type="デ" target="海運" sid="wiki00018532-02" id="16"/><rel type="ト" target="ヨーロッパ" sid="wiki00018532-02" id="14"/><rel type="ヲ" target="アジア" sid="wiki00018532-02" id="15"/>
+連結 れんけつ 連結 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/07 MEMO:
+* 5D
++ 7D
+例えば たとえば 例えば 副詞 8 * 0 * 0 * 0 NIL
+* 2P
++ 2D
+アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3P <NE:LOCATION:アラビア海>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+から から から 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 5D <rel type="ノ？" target="ヨーロッパ" sid="wiki00018532-02" id="14"/><NE:LOCATION:ロンドン>
+ロンドン ろんどん ロンドン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 5D <rel type="ヲ" target="距離" sid="wiki00018532-03" id="5"/><rel type="ガ" target="不特定:物1"/>
+航行 こうこう 航行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="カラ" target="海" sid="wiki00018532-03" id="2"/><rel type="マデ" target="ロンドン" sid="wiki00018532-03" id="3"/><rel type="修飾" target="航行" sid="wiki00018532-03" id="4"/>
+距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ノ" target="距離" sid="wiki00018532-03" id="5"/>
+約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
+8,900 はっせんきゅうひゃく 8,900 名詞 6 数詞 7 * 0 * 0 NIL
+km きろめーとる km 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="運河" sid="wiki00018532-02" id="1"/><rel type="ヲ" target="距離" sid="wiki00018532-03" id="5"/>
+短縮 たんしゅく 短縮 名詞 6 サ変名詞 2 * 0 * 0 NIL
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-04-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2026/01/07 MEMO:
+* 4D
++ 4D <NE:DATE:2012年>
+2012 にせんじゅうに 2012 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="船舶" sid="wiki00018532-04-01" id="2"/>
+17,225 いちまんななせんにひゃくにじゅうご 17,225 名詞 6 数詞 7 * 0 * 0 NIL
+隻 せき 隻 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 4D <rel type="修飾" target="17,225隻" sid="wiki00018532-04-01" id="1"/><rel type="=≒" target="不特定:物1"/><rel type="=構" mode="AND" target="17,225隻" sid="wiki00018532-04-01" id="1"/>
+船舶 せんぱく 船舶 名詞 6 普通名詞 1 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 4D <rel type="=" target="運河" sid="wiki00018532-02" id="1"/>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="船舶" sid="wiki00018532-04-01" id="2"/><rel type="ヲ" target="運河" sid="wiki00018532-04-01" id="3"/><rel type="時間" target="2012年" sid="wiki00018532-04-01" id="0"/>
+通過 つうか 通過 名詞 6 サ変名詞 2 * 0 * 0 NIL
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-04-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/07 MEMO:
+* 1D
++ 1D
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
+日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="1日" sid="wiki00018532-04-02" id="0"/><rel type="ヲ" target="船舶" sid="wiki00018532-04-01" id="2"/>
+平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="修飾" target="平均" sid="wiki00018532-04-02" id="1"/><rel type="ノ" target="船舶" sid="wiki00018532-04-01" id="2"/><rel type="=" target="船舶" sid="wiki00018532-04-01" id="2"/>
+47 よんじゅうなな/よんじゅうしち 47 名詞 6 数詞 7 * 0 * 0 NIL
+隻 せき 隻 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018532-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2026/01/07 MEMO:
+* 5D
++ 7D <rel type="=" target="運河" sid="wiki00018532-02" id="1"/>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D <rel type="ノ" target="運河" sid="wiki00018532-02" id="1"/>
+北端 ほくたん 北端 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4P
++ 6P <rel type="修飾" target="北端" sid="wiki00018532-05" id="1"/><rel type="ノ？" target="エジプト" sid="wiki00018532-00-01" id="10"/><NE:LOCATION:ポートサイド>
+ポートサイド ぽーとさいど ポートサイド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ノ" target="運河" sid="wiki00018532-02" id="1"/>
+南端 なんたん 南端 名詞 6 普通名詞 1 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 6D <rel type="ノ？" target="エジプト" sid="wiki00018532-00-01" id="10"/><rel type="=≒" target="スエズ" sid="wiki00018532-02" id="0"/><NE:LOCATION:スエズ市>
+スエズ すえず スエズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
+市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D
+タウフィーク たうふぃーく タウフィーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="修飾" target="南端" sid="wiki00018532-05" id="3"/><rel type="ノ？" target="スエズ市" sid="wiki00018532-05" id="4"/><NE:LOCATION:タウフィーク港>
+港 こう 港 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 11P
++ 15P <rel type="ガ" target="運河" sid="wiki00018532-05" id="0"/><rel type="ト" target="ポートサイド" sid="wiki00018532-05" id="2"/><rel type="ヲ" target="港" sid="wiki00018532-05" id="6"/>
+結び むすび 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 8D
++ 9D <rel type="ノ" target="運河" sid="wiki00018532-05" id="0"/>
+中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <rel type="修飾" target="中間" sid="wiki00018532-05" id="8"/><rel type="ノ" target="運河" sid="wiki00018532-05" id="0"/>
+点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8D
++ 11D
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 13D <rel type="ニ" target="北" sid="wiki00018532-05" id="10"/><rel type="ヨリ" target="点" sid="wiki00018532-05" id="9"/>
+3キロ さんきろ 3キロ 名詞 6 数詞 7 * 0 * 0 NIL
+メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 11D
++ 13D <rel type="=" target="運河" sid="wiki00018532-05" id="0"/>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="3キロメートル" sid="wiki00018532-05" id="11"/><rel type="ノ" target="運河" sid="wiki00018532-05" id="12"/>
+西岸 せいがん 西岸 名詞 6 普通名詞 1 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 11D
++ 15D <rel type="ノ？" target="エジプト" sid="wiki00018532-00-01" id="10"/><NE:LOCATION:イスマイリア>
+イスマイリア いすまいりあ イスマイリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* -1D
++ -1D <rel type="ガ" target="イスマイリア" sid="wiki00018532-05" id="14"/><rel type="ニ" target="西岸" sid="wiki00018532-05" id="13"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

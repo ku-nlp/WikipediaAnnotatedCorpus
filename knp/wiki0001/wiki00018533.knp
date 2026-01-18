@@ -1,0 +1,79 @@
+# S-ID:wiki00018533-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2026/01/07 MEMO:
+* 9D
++ 1D
+パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 15D <NE:LOCATION:パナマ運河>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2D
++ 3D <NE:LOCATION:中米>
+中米 ちゅうべい 中米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 6D <rel type="ニ" target="中米" sid="wiki00018533-00-01" id="2"/><rel type="ガ" target="国" sid="wiki00018533-00-01" id="6"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
+* 4D
++ 6D <rel type="=" target="パナマ" sid="wiki00018533-00-01" id="0"/>
+パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 8D <NE:LOCATION:パナマ共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 5D
++ 8D <rel type="=" target="パナマ" sid="wiki00018533-00-01" id="0"/>
+パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <rel type="ノ？" target="国" sid="wiki00018533-00-01" id="6"/><NE:LOCATION:パナマ地峡>
+地峡 ちきょう 地峡 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 6D
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地峡" sid="wiki00018533-00-01" id="9"/>
+開削 かいさく 開削 名詞 6 サ変名詞 2 * 0 * 0 NIL
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
+* 8D
++ 11P <NE:LOCATION:太平洋>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+と と と 助詞 9 格助詞 1 * 0 * 0 NIL
+* 8P
++ 12D <NE:LOCATION:大西洋>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 9D
++ 15D <rel type="ヲ" target="大西洋" sid="wiki00018533-00-01" id="11"/><rel type="ト" target="太平洋" sid="wiki00018533-00-01" id="10"/><rel type="ガ" target="運河" sid="wiki00018533-00-01" id="15"/>
+結んで むすんで 結ぶ 動詞 2 * 0 子音動詞バ行 8 タ系連用テ形 14 NIL
+いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
+* -1D
++ 14D
+閘門 こうもん 閘門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ" target="閘門" sid="wiki00018533-00-01" id="14"/>
+式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="運河" sid="wiki00018533-00-01" id="1"/><rel type="修飾" target="式" sid="wiki00018533-00-01" id="14"/><rel type="=構" target="運河" sid="wiki00018533-00-01" id="1"/>
+運河 うんが 運河 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018533-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/10 MEMO:
+* -1D
++ 1D <rel type="=" target="パナマ" sid="wiki00018533-00-01" id="0"/>
+パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="運河" sid="wiki00018533-00-01" id="1"/><NE:LOCATION:パナマうんが>
+うんが うんが うんが 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00018533-00-03 括弧始:（ 括弧終:） 括弧位置:45 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/07 MEMO:
+* 3D
++ 3D
+直接に ちょくせつに 直接だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 2D
++ 2D
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+* 3D
++ 3D <rel type="ガ" target="カリブ海" sid="wiki00018533-00-03" id="3"/><rel type="ノ" target="大西洋" sid="wiki00018533-00-01" id="11"/>
+縁海 えんかい 縁海 名詞 6 普通名詞 1 * 0 * 0 NIL
+である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
+* -1D
++ -1D <rel type="=構" target="縁海" sid="wiki00018533-00-03" id="2"/><NE:LOCATION:カリブ海>
+カリブ海 かりぶかい カリブ海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+EOS

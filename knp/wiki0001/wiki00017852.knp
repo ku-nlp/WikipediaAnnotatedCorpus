@@ -1,0 +1,84 @@
+# S-ID:wiki00017852-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/25 MEMO:
+* 4D
++ 5D <NE:PERSON:平>
+平 たいら/へい 平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+氏 うじ/し/じ 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 4D
++ 5D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 3D
++ 3D <rel type="=" target="平" sid="wiki00017852-00-01" id="0"/><NE:PERSON:平>
+平 たいら 平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <rel type="トイウ" target="平" sid="wiki00017852-00-01" id="2"/><rel type="=構" target="平" sid="wiki00017852-00-01" id="2"/>
+姓 せい 姓 名詞 6 普通名詞 1 * 0 * 0 NIL
+を を を 助詞 9 格助詞 1 * 0 * 0 NIL
+* 4D
++ 5D <rel type="ガ" target="氏族" sid="wiki00017852-00-01" id="4"/><rel type="ヲ" target="姓" sid="wiki00017852-00-01" id="3"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
+* -1D
++ -1D <rel type="修飾" target="持つ" sid="wiki00017852-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00017852-00-01" id="1"/><rel type="ガ" target="平氏" sid="wiki00017852-00-01" id="0"/><rel type="=構" target="平氏" sid="wiki00017852-00-01" id="0"/><memo text="CO"/>
+氏族 しぞく 氏族 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017852-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
+* 1P
++ 1D <rel type="=" target="平" sid="wiki00017852-00-01" id="0"/><NE:PERSON:たいら>
+たいら たいら たいら 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 2P <rel type="トイウ" target="たいら" sid="wiki00017852-00-02" id="0"/><rel type="=" target="氏" sid="wiki00017852-00-01" id="0"/>
+うじ うじ うじ 名詞 6 普通名詞 1 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* 2P
++ 3P <rel type="=" target="平氏" sid="wiki00017852-00-01" id="0"/><NE:PERSON:へい>
+へい へい へい 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+し し し 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+、 、 、 特殊 1 読点 2 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="平氏" sid="wiki00017852-00-01" id="0"/><NE:PERSON:へい>
+へい へい へい 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+じ じ じ 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017852-00-03 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
+* 1D
++ 1D <rel type="=" target="平" sid="wiki00017852-00-01" id="2"/><NE:PERSON:たいら>
+たいら たいら たいら 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* -1D
++ -1D <rel type="=" target="姓" sid="wiki00017852-00-01" id="3"/>
+かばね かばね かばね 名詞 6 普通名詞 1 * 0 * 0 NIL
+EOS
+# S-ID:wiki00017852-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/11/25 MEMO:
+* 5D
++ 7D <rel type="=" target="平" sid="wiki00017852-00-01" id="2"/><NE:PERSON:平>
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+平 たいら 平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
+」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
+は は は 助詞 9 副助詞 2 * 0 * 0 NIL
+* 4D
++ 2D
+皇孫 こうそん 皇孫 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="皇孫" sid="wiki00017852-01" id="1"/><rel type="=構" target="皇孫" sid="wiki00017852-01" id="1"/>
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+が が が 助詞 9 格助詞 1 * 0 * 0 NIL
+* 3D
++ 4D
+臣籍 しんせき 臣籍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ニ" target="臣籍" sid="wiki00017852-01" id="4"/><rel type="ガ" target="三代目" sid="wiki00017852-01" id="2"/>
+降下 こうか 降下 名詞 6 サ変名詞 2 * 0 * 0 NIL
+の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
+* 4D
++ 6D <rel type="ノ" target="降下" sid="wiki00017852-01" id="5"/>
+際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL
+に に に 助詞 9 格助詞 1 * 0 * 0 NIL
+* 5D
++ 7D <rel type="ヲ" target="賜姓" sid="wiki00017852-01" id="8"/><rel type="時間" target="際" sid="wiki00017852-01" id="5"/><rel type="ガ" target="三代目" sid="wiki00017852-01" id="2"/>
+受けた うけた 受ける 動詞 2 * 0 母音動詞 1 タ形 10 NIL
+* -1D
++ -1D <rel type="ガ" target="平" sid="wiki00017852-01" id="0"/><rel type="修飾" target="受けた" sid="wiki00017852-01" id="7"/><rel type="=構" target="平" sid="wiki00017852-01" id="0"/><memo text="CO"/>
+賜姓 しせい 賜姓 名詞 6 普通名詞 1 * 0 * 0 NIL
+。 。 。 特殊 1 句点 1 * 0 * 0 NIL
+EOS

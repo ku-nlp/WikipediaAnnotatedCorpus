@@ -90,7 +90,7 @@ EOS
 相手方 あいてかた 相手方 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P <rel type="ノ" target="差出人" sid="wiki00059415-02-01" id="7"/>
++ 9P <rel type="ノ" target="差出人" sid="wiki00059415-02-01" id="6"/>
 意思 いし 意思 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
@@ -98,21 +98,21 @@ EOS
 用件 ようけん 用件 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="ガ" target="差出人" sid="wiki00059415-02-01" id="7"/><rel type="ヲ" target="用件" sid="wiki00059415-02-01" id="9"/><rel type="ヲ" mode="AND" target="意思" sid="wiki00059415-02-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00059415-02-01" id="11"/><rel type="ニ" target="相手方" sid="wiki00059415-02-01" id="7"/>
++ 11D <rel type="ガ" target="差出人" sid="wiki00059415-02-01" id="6"/><rel type="ヲ" target="用件" sid="wiki00059415-02-01" id="9"/><rel type="ヲ" mode="AND" target="意思" sid="wiki00059415-02-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00059415-02-01" id="11"/><rel type="ニ" target="相手方" sid="wiki00059415-02-01" id="7"/>
 伝える つたえる 伝える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 11D
-+ 12D <rel type="ノ" target="伝える" sid="wiki00059415-02-01" id="11"/>
++ 12D <rel type="ノ" target="伝える" sid="wiki00059415-02-01" id="10"/>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 13D <rel type="ガ" target="差出人" sid="wiki00059415-02-01" id="7"/><rel type="ヲ" target="もの" sid="wiki00059415-02-01" id="13"/><rel type="修飾" target="ため" sid="wiki00059415-02-01" id="11"/><memo text="過去か非過去か？"/>
++ 13D <rel type="ガ" target="差出人" sid="wiki00059415-02-01" id="6"/><rel type="ヲ" target="もの" sid="wiki00059415-02-01" id="13"/><rel type="修飾" target="ため" sid="wiki00059415-02-01" id="11"/><memo text="過去か非過去か？"/>
 書いた かいた 書く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
 * 13D
 + 14D <rel type="=構" target="もんじょ" sid="wiki00059415-02-01" id="0"/>
 もの もの もの 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00059415-02-01" id="14"/><rel type="デ" target="学" sid="wiki00059415-02-01" id="5"/><rel type="ト" target="もんじょ" sid="wiki00059415-02-01" id="0"/><rel type="外の関係" target="場合" sid="wiki00059415-02-01" id="2"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00059415-02-01" id="13"/><rel type="デ" target="学" sid="wiki00059415-02-01" id="5"/><rel type="ト" target="もんじょ" sid="wiki00059415-02-01" id="0"/><rel type="外の関係" target="場合" sid="wiki00059415-02-01" id="2"/>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -137,7 +137,7 @@ EOS
 読み よみ 読み 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="古文書" sid="wiki00059415-02-01" id="5"/>
++ 3D <rel type="=" target="古文書" sid="wiki00059415-02-01" id="4"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 古文書 こもんじょ 古文書 名詞 6 普通名詞 1 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL

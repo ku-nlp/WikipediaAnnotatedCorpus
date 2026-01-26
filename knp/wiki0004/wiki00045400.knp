@@ -11,18 +11,18 @@ Core Core Core 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 * 2D
 + 3D
 メタデータ めたでーた メタデータ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="メタデータ" sid="wiki00045400-00-01" id="1"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="メタデータ" sid="wiki00045400-00-01" id="2"/>
 記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語彙" sid="wiki00045400-00-01" id="4"/><rel type="ニ" target="記述" sid="wiki00045400-00-01" id="2"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語彙" sid="wiki00045400-00-01" id="5"/><rel type="ニ" target="記述" sid="wiki00045400-00-01" id="3"/>
 使う つかう 使う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 4D
 + 6D <rel type="=構" target="Core" sid="wiki00045400-00-01" id="1"/>
 語彙 ごい 語彙 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="語彙" sid="wiki00045400-00-01" id="4"/><rel type="ガ" target="Core" sid="wiki00045400-00-01" id="1"/><rel type="=構" target="Core" sid="wiki00045400-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ノ" target="語彙" sid="wiki00045400-00-01" id="5"/><rel type="ガ" target="Core" sid="wiki00045400-00-01" id="1"/><rel type="=構" target="Core" sid="wiki00045400-00-01" id="1"/><memo text="CO"/>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -47,7 +47,7 @@ EOS
 + 1D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="語彙" sid="wiki00045400-00-01" id="4"/>
++ 4D <rel type="=" target="語彙" sid="wiki00045400-00-01" id="5"/>
 語彙 ごい 語彙 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -91,7 +91,7 @@ EOS
 サポート さぽーと サポート 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 12D
-+ 14D <rel type="=" target="メタデータ" sid="wiki00045400-00-01" id="1"/>
++ 14D <rel type="=" target="メタデータ" sid="wiki00045400-00-01" id="2"/>
 メタデータ めたでーた メタデータ 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 15D <rel type="修飾" target="メタデータ" sid="wiki00045400-01" id="13"/><rel type="=≒" target="語彙" sid="wiki00045400-00-01" id="5"/>
 語彙 ごい 語彙 名詞 6 普通名詞 1 * 0 * 0 NIL

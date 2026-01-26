@@ -18,7 +18,7 @@
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ノ" target="生物" sid="wiki00015394-00-01" id="5"/>
++ 6D <rel type="ノ" target="生物" sid="wiki00015394-00-01" id="4"/>
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -26,7 +26,7 @@
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="器官" sid="wiki00015394-00-01" id="11"/><rel type="ニ" target="中" sid="wiki00015394-00-01" id="7"/>
++ 10D <rel type="ガ" target="器官" sid="wiki00015394-00-01" id="10"/><rel type="ニ" target="中" sid="wiki00015394-00-01" id="6"/>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -35,11 +35,11 @@
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 10D
 小 しょう 小 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="細胞" sid="wiki00015394-00-01" id="9"/><rel type="修飾" target="小" sid="wiki00015394-00-01" id="10"/><rel type="=≒" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/>
++ 11D <rel type="ノ" target="細胞" sid="wiki00015394-00-01" id="9"/><rel type="修飾" target="小" sid="wiki00015394-00-01" id="9"/><rel type="=≒" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/><rel type="ノ" target="器官" sid="wiki00015394-00-01" id="11"/><rel type="=構" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/><rel type="=構" mode="AND" target="器官" sid="wiki00015394-00-01" id="10"/>
++ -1D <rel type="ガ" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/><rel type="ノ" target="器官" sid="wiki00015394-00-01" id="10"/><rel type="=構" target="ミトコンドリア" sid="wiki00015394-00-01" id="0"/><rel type="=構" mode="AND" target="器官" sid="wiki00015394-00-01" id="10"/>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL

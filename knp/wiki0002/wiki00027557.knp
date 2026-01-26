@@ -17,7 +17,7 @@
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7P <rel type="ノ" target="天皇" sid="wiki00027557-00-01" id="5"/>
++ 7P <rel type="ノ" target="天皇" sid="wiki00027557-00-01" id="4"/>
 皇子 みこ/おうじ 皇子 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 7D
@@ -30,7 +30,7 @@
 祖 そ 祖 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="ガ" target="氏族" sid="wiki00027557-00-01" id="12"/><rel type="ヲ" target="王" sid="wiki00027557-00-01" id="8"/><rel type="ヲ" mode="AND" target="皇子" sid="wiki00027557-00-01" id="6"/><rel type="ト" target="祖" sid="wiki00027557-00-01" id="9"/>
++ 11D <rel type="ガ" target="氏族" sid="wiki00027557-00-01" id="11"/><rel type="ヲ" target="王" sid="wiki00027557-00-01" id="7"/><rel type="ヲ" mode="AND" target="皇子" sid="wiki00027557-00-01" id="5"/><rel type="ト" target="祖" sid="wiki00027557-00-01" id="8"/>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7P
 + 11D <rel type="=≒" target="源氏" sid="wiki00027557-00-01" id="1"/>
@@ -42,11 +42,11 @@
 * 7D
 + 13D
 賜姓 しせい 賜姓 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="修飾" target="賜姓" sid="wiki00027557-00-01" id="13"/><rel type="=≒" target="源氏" sid="wiki00027557-00-01" id="1"/>
++ 14D <rel type="修飾" target="賜姓" sid="wiki00027557-00-01" id="12"/><rel type="=≒" target="源氏" sid="wiki00027557-00-01" id="1"/>
 皇族 こうぞく 皇族 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="源氏" sid="wiki00027557-00-01" id="1"/><rel type="ノ" target="皇族" sid="wiki00027557-00-01" id="14"/><rel type="=構" target="源氏" sid="wiki00027557-00-01" id="1"/><rel type="=構" mode="AND" target="皇族" sid="wiki00027557-00-01" id="13"/><memo text="CO"/>
++ -1D <rel type="ガ" target="源氏" sid="wiki00027557-00-01" id="1"/><rel type="ノ" target="皇族" sid="wiki00027557-00-01" id="13"/><rel type="=構" target="源氏" sid="wiki00027557-00-01" id="1"/><rel type="=構" mode="AND" target="皇族" sid="wiki00027557-00-01" id="13"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

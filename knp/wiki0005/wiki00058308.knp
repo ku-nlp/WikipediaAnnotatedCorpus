@@ -66,7 +66,7 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="事柄" sid="wiki00058308-01" id="2"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="事柄" sid="wiki00058308-01" id="3"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 経験 けいけん 経験 名詞 6 サ変名詞 2 * 0 * 0 NIL
 + 3D <rel type="ガ" target="経験" sid="wiki00058308-01" id="1"/><rel type="外の関係" target="事柄" sid="wiki00058308-01" id="3"/>
@@ -76,11 +76,11 @@ EOS
 事柄 ことがら 事柄 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="事柄" sid="wiki00058308-01" id="2"/>
++ 5D <rel type="ノ" target="事柄" sid="wiki00058308-01" id="3"/>
 真理 しんり 真理 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="真理" sid="wiki00058308-01" id="3"/><memo text="素性よくわからず"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="真理" sid="wiki00058308-01" id="4"/><memo text="素性よくわからず"/>
 考える かんがえる 考える 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -92,7 +92,7 @@ EOS
 + 7D
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 8D
-+ 11D <rel type="トイウ" target="考えることはできない" sid="wiki00058308-01" id="4"/>
++ 11D <rel type="トイウ" target="考えることはできない" sid="wiki00058308-01" id="5"/>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -116,11 +116,11 @@ EOS
 認識 にんしき 認識 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 15D <rel type="=" target="概念" sid="wiki00058308-01" id="11"/><rel type="=" mode="AND" target="認識" sid="wiki00058308-01" id="12"/>
++ 15D <rel type="=" target="概念" sid="wiki00058308-01" id="12"/><rel type="=" mode="AND" target="認識" sid="wiki00058308-01" id="13"/>
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 17D <rel type="ガ" target="それ" sid="wiki00058308-01" id="13"/><rel type="ヲ" target="結果" sid="wiki00058308-01" id="16"/>
++ 17D <rel type="ガ" target="それ" sid="wiki00058308-01" id="14"/><rel type="ヲ" target="結果" sid="wiki00058308-01" id="17"/>
 もたらす もたらす もたらす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * 14D
 + 17D <rel type="ガ" target="結果" sid="wiki00058308-01" id="17"/>
@@ -138,20 +138,20 @@ EOS
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 18D
-+ 21D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="概念" sid="wiki00058308-01" id="11"/><rel type="ヲ" mode="AND" target="認識" sid="wiki00058308-01" id="12"/><rel type="ニヨッテ" target="結果" sid="wiki00058308-01" id="16"/><rel type="外の関係" target="志向" sid="wiki00058308-01" id="20"/>
++ 21D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="概念" sid="wiki00058308-01" id="12"/><rel type="ヲ" mode="AND" target="認識" sid="wiki00058308-01" id="13"/><rel type="ニヨッテ" target="結果" sid="wiki00058308-01" id="17"/><rel type="外の関係" target="志向" sid="wiki00058308-01" id="21"/>
 記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL
 しよう しよう する 動詞 2 * 0 サ変動詞 16 意志形 4 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 19D
-+ 22D <rel type="トイウ" target="記述しようとする" sid="wiki00058308-01" id="19"/>
++ 22D <rel type="トイウ" target="記述しようとする" sid="wiki00058308-01" id="20"/>
 志向 しこう 志向 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
-+ 23D <rel type="ヲ" target="志向" sid="wiki00058308-01" id="20"/><rel type="外の関係" target="点" sid="wiki00058308-01" id="22"/><rel type="ガ" target="哲学" sid="wiki00058308-01" id="32"/>
++ 23D <rel type="ヲ" target="志向" sid="wiki00058308-01" id="21"/><rel type="外の関係" target="点" sid="wiki00058308-01" id="22"/><rel type="ガ" target="哲学" sid="wiki00058308-01" id="32"/>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
 * 25D
-+ 30D <rel type="トイウ" target="持つ" sid="wiki00058308-01" id="21"/>
++ 30D <rel type="トイウ" target="持つ" sid="wiki00058308-01" id="22"/>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 23D
@@ -168,7 +168,7 @@ EOS
 + 28D <rel type="ガ" target="哲学" sid="wiki00058308-01" id="27"/><rel type="ノ" target="観念" sid="wiki00058308-01" id="26"/>
 論 ろん 論 名詞 6 普通名詞 1 * 0 * 0 NIL
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 30D <rel type="修飾" target="従来" sid="wiki00058308-01" id="23"/><rel type="修飾" mode="AND" target="論的" sid="wiki00058308-01" id="26"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00058308-01" id="24"/>
++ 30D <rel type="修飾" target="従来" sid="wiki00058308-01" id="24"/><rel type="修飾" mode="AND" target="論的" sid="wiki00058308-01" id="26"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00058308-01" id="25"/>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 25D
@@ -176,14 +176,14 @@ EOS
 一線 いっせん 一線 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 27D
-+ 32D <rel type="ガ" target="哲学" sid="wiki00058308-01" id="31"/><rel type="ヲ" target="一線" sid="wiki00058308-01" id="28"/><rel type="デ" target="点" sid="wiki00058308-01" id="22"/><rel type="ト" target="哲学" sid="wiki00058308-01" id="27"/><memo text="ID"/>
++ 32D <rel type="ガ" target="哲学" sid="wiki00058308-01" id="31"/><rel type="ヲ" target="一線" sid="wiki00058308-01" id="29"/><rel type="デ" target="点" sid="wiki00058308-01" id="22"/><rel type="ト" target="哲学" sid="wiki00058308-01" id="27"/><memo text="ID"/>
 画する かくする 画する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 27D
 + 32D <NE:LOCATION:アメリカ合衆国>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="プラグマティズム" sid="wiki00058308-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00058308-01" id="30"/><rel type="=構" target="プラグマティズム" sid="wiki00058308-00" id="0"/>
++ -1D <rel type="ガ" target="プラグマティズム" sid="wiki00058308-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00058308-01" id="31"/><rel type="=構" target="プラグマティズム" sid="wiki00058308-00" id="0"/>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

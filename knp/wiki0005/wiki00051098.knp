@@ -86,7 +86,7 @@ EOS
 通貨 つうか 通貨 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="デ" target="通貨" sid="wiki00051098-01" id="6"/><rel type="ヲ" target="財" sid="wiki00051098-01" id="8"/><rel type="ヲ" mode="AND" target="サービス" sid="wiki00051098-01" id="9"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="デ" target="通貨" sid="wiki00051098-01" id="5"/><rel type="ヲ" target="財" sid="wiki00051098-01" id="7"/><rel type="ヲ" mode="AND" target="サービス" sid="wiki00051098-01" id="8"/>
 購入 こうにゅう 購入 名詞 6 サ変名詞 2 * 0 * 0 NIL
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 7P
@@ -98,11 +98,11 @@ EOS
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ノ" target="財" sid="wiki00051098-01" id="8"/><rel type="ノ" mode="AND" target="サービス" sid="wiki00051098-01" id="9"/>
++ 10D <rel type="ノ" target="財" sid="wiki00051098-01" id="7"/><rel type="ノ" mode="AND" target="サービス" sid="wiki00051098-01" id="8"/>
 数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="数" sid="wiki00051098-01" id="10"/>
++ -1D <rel type="ガ" target="数" sid="wiki00051098-01" id="9"/>
 減る へる 減る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -111,7 +111,7 @@ EOS
 + 1D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
 * 15D
-+ 18D <rel type="ノ" target="減る" sid="wiki00051098-01" id="11"/>
++ 18D <rel type="ノ" target="減る" sid="wiki00051098-01" id="10"/>
 結果 けっか 結果 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
@@ -129,13 +129,13 @@ EOS
 あたり あたり あたり 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="通貨" sid="wiki00051098-02" id="5"/><rel type="=" target="購入できる" sid="wiki00051098-01" id="7"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="通貨" sid="wiki00051098-02" id="4"/><rel type="=" target="購入できる" sid="wiki00051098-01" id="6"/>
 購買 こうばい 購買 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="購買" sid="wiki00051098-02" id="6"/><rel type="修飾" target="通貨あたり" sid="wiki00051098-02" id="5"/>
++ 7D <rel type="ノ" target="購買" sid="wiki00051098-02" id="5"/><rel type="修飾" target="通貨あたり" sid="wiki00051098-02" id="5"/>
 力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14P
-+ 17P <rel type="ガ" target="力" sid="wiki00051098-02" id="7"/>
++ 17P <rel type="ガ" target="力" sid="wiki00051098-02" id="6"/>
 低下 ていか 低下 名詞 6 サ変名詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
@@ -149,27 +149,27 @@ EOS
 + 14D
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 11P
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="手段" sid="wiki00051098-02" id="13"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="デ" target="手段" sid="wiki00051098-02" id="12"/>
 交換 こうかん 交換 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14P <rel type="ノ" target="交換" sid="wiki00051098-02" id="12"/><rel type="ニオイテ" target="経済" sid="wiki00051098-02" id="10"/>
++ 14P <rel type="ノ" target="交換" sid="wiki00051098-02" id="11"/><rel type="ニオイテ" target="経済" sid="wiki00051098-02" id="9"/>
 手段 しゅだん 手段 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
 + 14D <rel type="ガ" target="不特定:人"/>
 会計 かいけい 会計 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 16D <rel type="ノ" target="会計" sid="wiki00051098-02" id="14"/><rel type="ニオイテ" target="経済" sid="wiki00051098-02" id="10"/>
++ 16D <rel type="ノ" target="会計" sid="wiki00051098-02" id="13"/><rel type="ニオイテ" target="経済" sid="wiki00051098-02" id="9"/>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 16D <rel type="ガ" target="価値" sid="wiki00051098-02" id="17"/>
++ 16D <rel type="ガ" target="価値" sid="wiki00051098-02" id="16"/>
 実質 じっしつ 実質 名詞 6 普通名詞 1 * 0 * 0 NIL
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 14D
-+ 17D <rel type="ノ" target="手段" sid="wiki00051098-02" id="13"/><rel type="ノ" mode="AND" target="単位" sid="wiki00051098-02" id="15"/><rel type="修飾" target="実質的な" sid="wiki00051098-02" id="16"/>
++ 17D <rel type="ノ" target="手段" sid="wiki00051098-02" id="12"/><rel type="ノ" mode="AND" target="単位" sid="wiki00051098-02" id="14"/><rel type="修飾" target="実質的な" sid="wiki00051098-02" id="16"/>
 価値 かち 価値 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 18D <rel type="ガ" target="価値" sid="wiki00051098-02" id="17"/><rel type="=" target="低下" sid="wiki00051098-02" id="8"/>
++ 18D <rel type="ガ" target="価値" sid="wiki00051098-02" id="16"/><rel type="=" target="低下" sid="wiki00051098-02" id="8"/>
 低下 ていか 低下 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -194,11 +194,11 @@ EOS
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="=" target="財" sid="wiki00051098-01" id="8"/>
++ 4P <rel type="=" target="財" sid="wiki00051098-01" id="7"/>
 財 ざい 財 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="=" target="サービス" sid="wiki00051098-01" id="9"/>
++ 7D <rel type="=" target="サービス" sid="wiki00051098-01" id="8"/>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D

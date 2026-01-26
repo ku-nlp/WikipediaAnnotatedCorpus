@@ -152,7 +152,7 @@ EOS
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="地名" sid="wiki00016027-05-01" id="3"/><rel type="ト" target="福井" sid="wiki00016027-05-01" id="4"/><rel type="ニ" target="忠昌" sid="wiki00016027-05-01" id="10"/><rel type="外の関係" target="以前" sid="wiki00016027-05-01" id="6"/>
++ 6D <rel type="ガ" target="地名" sid="wiki00016027-05-01" id="3"/><rel type="ト" target="福井" sid="wiki00016027-05-01" id="4"/><rel type="ニ" target="忠昌" sid="wiki00016027-05-01" id="9"/><rel type="外の関係" target="以前" sid="wiki00016027-05-01" id="6"/>
 改称 かいしょう 改称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -171,7 +171,7 @@ EOS
 代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 + 10D <rel type="修飾" target="第3代" sid="wiki00016027-05-01" id="8"/><memo text="NE:PERSONでいいか、DATE（忠昌時代）と捉えるか"/><NE:PERSON:忠昌>
 忠昌 ただまさ 忠昌 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 14D <rel type="ノ" target="忠昌" sid="wiki00016027-05-01" id="10"/><rel type="=" target="以前" sid="wiki00016027-05-01" id="6"/>
++ 14D <rel type="ノ" target="忠昌" sid="wiki00016027-05-01" id="9"/><rel type="=" target="以前" sid="wiki00016027-05-01" id="6"/>
 以前 いぜん 以前 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
@@ -182,21 +182,21 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:DATE:middle>
 + 14D <memo text="秀康の子　第2代藩主"/>
 忠直 ただなお 忠直 名詞 6 人名 5 * 0 * 0 NIL <NE:DATE:middle>
-+ 15D <rel type="修飾" target="以前の" sid="wiki00016027-05-01" id="11"/><rel type="ノ？" target="秀康" sid="wiki00016027-05-01" id="13"/><rel type="ノ？" mode="AND" target="忠直" sid="wiki00016027-05-01" id="14"/><NE:DATE:結城秀康・忠直時代>
++ 15D <rel type="修飾" target="以前の" sid="wiki00016027-05-01" id="10"/><rel type="ノ？" target="秀康" sid="wiki00016027-05-01" id="12"/><rel type="ノ？" mode="AND" target="忠直" sid="wiki00016027-05-01" id="13"/><NE:DATE:結城秀康・忠直時代>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 18D <rel type="ヲ" target="時代" sid="wiki00016027-05-01" id="15"/><rel type="ニ" target="故" sid="wiki00016027-05-01" id="16"/>
++ 18D <rel type="ヲ" target="時代" sid="wiki00016027-05-01" id="14"/><rel type="ニ" target="故" sid="wiki00016027-05-01" id="15"/>
 故 ゆえ 故 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
 + 17D <rel type="=" target="北の庄" sid="wiki00016027-05-01" id="1"/>
 北ノ荘 きたのしょう 北ノ荘 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 18D <rel type="=構" target="藩" sid="wiki00016027-00-01" id="1"/><rel type="ノ" target="北ノ荘" sid="wiki00016027-05-01" id="17"/><NE:OPTIONAL:北ノ荘藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
++ 18D <rel type="=構" target="藩" sid="wiki00016027-00-01" id="1"/><rel type="ノ" target="北ノ荘" sid="wiki00016027-05-01" id="16"/><NE:OPTIONAL:北ノ荘藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
 藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ト" target="藩" sid="wiki00016027-05-01" id="18"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="藩" sid="wiki00016027-00-01" id="1"/><memo text="モダリティ保留？"/>
++ -1D <rel type="ト" target="藩" sid="wiki00016027-05-01" id="17"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="藩" sid="wiki00016027-00-01" id="1"/><memo text="モダリティ保留？"/>
 称する しょうする 称する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -215,13 +215,13 @@ EOS
 EOS
 # S-ID:wiki00016027-05-04 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="結城" sid="wiki00016027-05-01" id="12"/><memo text="結城から松平に"/><NE:PERSON:松平>
++ -1D <rel type="=" target="結城" sid="wiki00016027-05-01" id="11"/><memo text="結城から松平に"/><NE:PERSON:松平>
 松平 まつだいら 松平 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
 EOS
 # S-ID:wiki00016027-05-05 括弧始:（ 括弧終:） 括弧位置:66 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/12 MEMO:
 * -1D
-+ 1D <rel type="=" target="北ノ荘" sid="wiki00016027-05-01" id="17"/>
++ 1D <rel type="=" target="北ノ荘" sid="wiki00016027-05-01" id="16"/>
 きたのしょう きたのしょう きたのしょう 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00016027-05-01" id="18"/><NE:OPTIONAL:きたのしょうはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
++ -1D <rel type="=" target="藩" sid="wiki00016027-05-01" id="17"/><NE:OPTIONAL:きたのしょうはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
 はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

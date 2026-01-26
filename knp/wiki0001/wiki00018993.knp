@@ -27,10 +27,10 @@ EOS
 + -1D <rel type="=" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/><NE:OPTIONAL:ワイファイ><NE-OPTIONAL:ARTIFACT,NONE:0>
 ワイファイ わいふぁい ワイファイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00018993-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2026/01/08 MEMO:
+# S-ID:wiki00018993-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2026/01/19 MEMO:
 * 1D
 + 1D <rel type="=" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/>
-Wi-Fi Wi-Fi Wi-Fi 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
+Wi-Fi わいふぁい Wi-Fi 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D <NE:ORGANIZATION:Wi-Fi　Alliance>
 Alliance Alliance Alliance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
@@ -52,34 +52,34 @@ Alliance Alliance Alliance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:
 IEEE あいとりぷるいー IEEE 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 8D <NE:ARTIFACT:IEEE　802.11>
-802.11 はちまるにーてんいちいち/ 802.11 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
+802.11 はちまるにーてんいちいち 802.11 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
 + 9D <rel type="ノ" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/><rel type="トイウ" target="802.11" sid="wiki00018993-01-01" id="7"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* 6D
+* 5D
 + 10D <rel type="=" target="規格" sid="wiki00018993-01-01" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ニ" target="デバイス" sid="wiki00018993-01-01" id="10"/><memo text="かかり先？"/>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
-* 7D
+* 6D
 + 12D
 デバイス でばいす デバイス 名詞 6 普通名詞 1 * 0 * 0 NIL
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
-* 8D
+* 7D
 + 12D
 相互 そうご 相互 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 13D <rel type="ガ" target="デバイス" sid="wiki00018993-01-01" id="10"/><rel type="修飾" target="相互" sid="wiki00018993-01-01" id="11"/><rel type="ト" target="デバイス" sid="wiki00018993-01-01" id="10"/>
 接続 せつぞく 接続 名詞 6 サ変名詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
-* 9D
+* 8D
 + 14D <rel type="ガ" target="接続" sid="wiki00018993-01-01" id="12"/><rel type="ニヨッテ" target="Alliance" sid="wiki00018993-01-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00018993-01-01" id="14"/>
 認め みとめ 認める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
-* 10D
+* 9D
 + 15D <rel type="トイウ" target="認められた" sid="wiki00018993-01-01" id="13"/>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
-* -1D
+* 10D
 + 16D <rel type="ガ" target="名称" sid="wiki00018993-01-01" id="16"/><rel type="ヲ" target="こと" sid="wiki00018993-01-01" id="14"/>
 示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 * -1D

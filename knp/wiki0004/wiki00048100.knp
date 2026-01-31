@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言>
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="右" sid="wiki00048100-00-01" id="0"/>
++ 7D <rel type="修飾" target="右" sid="wiki00048100-00-01" id="0"/><体言>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,19 +13,19 @@
 * 3D
 + 4D <rel type="ガ" target="機関" sid="wiki00048100-00-01" id="4"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="朝廷" sid="wiki00048100-00-01" id="2"/><体言><rel type="修飾" target="最高" sid="wiki00048100-00-01" id="3"/>
++ 5D <rel type="ノ" target="朝廷" sid="wiki00048100-00-01" id="2"/><rel type="修飾" target="最高" sid="wiki00048100-00-01" id="3"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="=構" target="機関" sid="wiki00048100-00-01" id="4"/><rel type="修飾" target="機関" sid="wiki00048100-00-01" id="4"/>
++ 6D <rel type="=構" target="機関" sid="wiki00048100-00-01" id="4"/><rel type="修飾" target="機関" sid="wiki00048100-00-01" id="4"/><体言>
 太政官 だいじょうかん 太政官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="ノ？" target="太政官" sid="wiki00048100-00-01" id="5"/><rel type="=≒" target="大臣" sid="wiki00048100-00-01" id="1"/>
++ 7D <rel type="ノ？" target="太政官" sid="wiki00048100-00-01" id="5"/><rel type="=≒" target="大臣" sid="wiki00048100-00-01" id="1"/><体言>
 職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="ノ" target="職" sid="wiki00048100-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="職" sid="wiki00048100-00-01" id="6"/>
++ -1D <rel type="ガ" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="ノ" target="職" sid="wiki00048100-00-01" id="6"/><rel type="=構" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="職" sid="wiki00048100-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -46,32 +46,32 @@ EOS
 + 2D <rel type="=" target="右" sid="wiki00048100-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="=" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="唐名" sid="wiki00048100-01" id="0"/><rel type="修飾" target="右" sid="wiki00048100-01" id="1"/>
++ 4P <rel type="=" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="唐名" sid="wiki00048100-01" id="0"/><rel type="修飾" target="右" sid="wiki00048100-01" id="1"/><体言>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3P
 + 4D <rel type="=" target="右" sid="wiki00048100-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="修飾" target="右" sid="wiki00048100-01" id="3"/>
++ 6P <rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="修飾" target="右" sid="wiki00048100-01" id="3"/><体言>
 丞相 じょうしょう 丞相 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4P
 + 6D <rel type="=" target="右" sid="wiki00048100-01" id="3"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8P <体言><rel type="=" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="唐名" sid="wiki00048100-01" id="0"/><rel type="修飾" target="右" sid="wiki00048100-01" id="5"/>
++ 8P <rel type="=" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="=構" mode="AND" target="唐名" sid="wiki00048100-01" id="0"/><rel type="修飾" target="右" sid="wiki00048100-01" id="5"/><体言>
 相国 しょうこく 相国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 5P
 + 8D <rel type="=" target="右" sid="wiki00048100-01" id="5"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9P <体言><rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="修飾" target="右" sid="wiki00048100-01" id="7"/>
++ 9P <rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><rel type="修飾" target="右" sid="wiki00048100-01" id="7"/><体言>
 僕射 ぼくや 僕射 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="唐名" sid="wiki00048100-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=構" target="唐名" sid="wiki00048100-01" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 太保 たいほ 太保 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -83,11 +83,11 @@ EOS
 和訓 わくん 和訓 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2P <体言><rel type="=構" target="和訓" sid="wiki00048100-02" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/>
++ 2P <rel type="=構" target="和訓" sid="wiki00048100-02" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 みぎのおおいもうちぎみ みぎのおおいもうちぎみ みぎのおおいもうちぎみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 / / / 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="和訓" sid="wiki00048100-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="和訓" sid="wiki00048100-02" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="和訓" sid="wiki00048100-02" id="0"/><rel type="=構" target="和訓" sid="wiki00048100-02" id="0"/><rel type="=" mode="AND" target="大臣" sid="wiki00048100-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 みぎのおとど みぎのおとど みぎのおとど 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -97,16 +97,16 @@ EOS
 + 1D <rel type="ノ" target="大臣" sid="wiki00048100-00-01" id="1"/><体言>
 定員 ていいん 定員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="定員" sid="wiki00048100-03" id="0"/><rel type="ノ" target="定員" sid="wiki00048100-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="定員" sid="wiki00048100-03" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="定員" sid="wiki00048100-03" id="0"/><rel type="ノ" target="定員" sid="wiki00048100-03" id="0"/><rel type="=構" target="定員" sid="wiki00048100-03" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 名 めい 名 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048100-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/12 MEMO:
 * 1D
-+ 1D <体言><memo text="「官職」と「位階」"/>
++ 1D <memo text="「官職」と「位階」"/><体言>
 官位 かんい 官位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="官位" sid="wiki00048100-04" id="0"/><rel type="ノ" target="大臣" sid="wiki00048100-00-01" id="1"/>
++ 4D <rel type="ガ" target="官位" sid="wiki00048100-04" id="0"/><rel type="ノ" target="大臣" sid="wiki00048100-00-01" id="1"/><体言><非用言格解析:動>
 相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -116,7 +116,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D <体言>
 従 じゅ 従 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="相当" sid="wiki00048100-04" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="修飾" target="正" sid="wiki00048100-04" id="2"/><rel type="修飾" mode="AND" target="従" sid="wiki00048100-04" id="3"/><rel type="=≒" target="官位" sid="wiki00048100-04" id="0"/>
++ -1D <rel type="ガ" target="相当" sid="wiki00048100-04" id="1"/><rel type="修飾" target="正" sid="wiki00048100-04" id="2"/><rel type="修飾" mode="AND" target="従" sid="wiki00048100-04" id="3"/><rel type="=≒" target="官位" sid="wiki00048100-04" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -125,33 +125,33 @@ EOS
 * 1P
 + 1D <体言>
 太政 だいじょう 太政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="修飾" target="太政" sid="wiki00048100-05-01" id="0"/>
++ 4P <rel type="修飾" target="太政" sid="wiki00048100-05-01" id="0"/><体言>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3P <体言>
 左 さ 左 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <体言><rel type="=" target="右" sid="wiki00048100-00-01" id="0"/>
++ 4D <rel type="=" target="右" sid="wiki00048100-00-01" id="0"/><体言>
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="左" sid="wiki00048100-05-01" id="2"/><rel type="修飾" mode="AND" target="右" sid="wiki00048100-05-01" id="3"/><rel type="=≒" target="大臣" sid="wiki00048100-00-01" id="1"/>
++ 5D <rel type="修飾" target="左" sid="wiki00048100-05-01" id="2"/><rel type="修飾" mode="AND" target="右" sid="wiki00048100-05-01" id="3"/><rel type="=≒" target="大臣" sid="wiki00048100-00-01" id="1"/><体言>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="ヲ" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="ト" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="ト" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="ヲ" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="ト" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="ト" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/><用言:動><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7P <体言><rel type="=≒" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="=≒" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><memo text="SE"/>
++ 7P <rel type="=≒" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="=≒" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><memo text="SE"/><体言>
 三公 さんこう 三公 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 8D <体言><memo text="SE"/><rel type="=≒" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="=≒" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/>
++ 8D <rel type="=≒" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="=≒" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><memo text="SE"/><体言>
 三槐 さんかい 三槐 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="ヲ" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="ト" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="ト" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大臣" sid="wiki00048100-05-01" id="1"/><rel type="ヲ" mode="AND" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="ト" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="ト" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -164,14 +164,14 @@ EOS
 + 2P <rel type="=" target="左" sid="wiki00048100-05-01" id="2"/><体言>
 左 さ 左 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <体言><rel type="=" target="右" sid="wiki00048100-05-01" id="3"/>
++ 3D <rel type="=" target="右" sid="wiki00048100-05-01" id="3"/><体言>
 右 う 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="修飾" target="左" sid="wiki00048100-05-02" id="1"/><rel type="修飾" mode="AND" target="右" sid="wiki00048100-05-02" id="2"/><rel type="=" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="=≒" mode="AND" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="=≒" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/>
++ 5P <rel type="修飾" target="左" sid="wiki00048100-05-02" id="1"/><rel type="修飾" mode="AND" target="右" sid="wiki00048100-05-02" id="2"/><rel type="=" target="大臣" sid="wiki00048100-05-01" id="4"/><rel type="=≒" mode="AND" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="=≒" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/><体言>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
 + 5D <体言>
 内 ない 内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="修飾" target="内" sid="wiki00048100-05-02" id="4"/><体言><rel type="=≒" target="大臣" sid="wiki00048100-05-02" id="3"/><rel type="=≒" mode="AND" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="=≒" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/>
++ -1D <rel type="修飾" target="内" sid="wiki00048100-05-02" id="4"/><rel type="=≒" target="大臣" sid="wiki00048100-05-02" id="3"/><rel type="=≒" mode="AND" target="三公" sid="wiki00048100-05-01" id="6"/><rel type="=≒" mode="AND" target="三槐" sid="wiki00048100-05-01" id="7"/><体言>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

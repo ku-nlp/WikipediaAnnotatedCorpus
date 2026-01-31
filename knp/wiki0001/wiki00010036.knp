@@ -1,6 +1,6 @@
 # S-ID:wiki00010036-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2025/11/04 MEMO:
 * 12D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:物"/>
++ 1D <rel type="ガ" target="不特定:物"/><体言><非用言格解析:動>
 半減 はんげん 半減 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 16D <rel type="ノ" target="半減" sid="wiki00010036-00-01" id="0"/><体言>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
@@ -16,7 +16,7 @@
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 + 5D <体言>
 同位 どうい 同位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="修飾" target="放射性" sid="wiki00010036-00-01" id="3"/><rel type="ノ？" target="同位" sid="wiki00010036-00-01" id="4"/>
++ 13D <rel type="修飾" target="放射性" sid="wiki00010036-00-01" id="3"/><rel type="ノ？" target="同位" sid="wiki00010036-00-01" id="4"/><体言>
 体 たい 体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -24,7 +24,7 @@
 + 7D <rel type="=" target="放射性" sid="wiki00010036-00-01" id="3"/><体言><非用言格解析:動>
 放射 ほうしゃ 放射 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="体" sid="wiki00010036-00-01" id="5"/><体言><非用言格解析:動><rel type="修飾" target="放射性" sid="wiki00010036-00-01" id="6"/>
++ 8D <rel type="ガ" target="体" sid="wiki00010036-00-01" id="5"/><rel type="修飾" target="放射性" sid="wiki00010036-00-01" id="6"/><体言><非用言格解析:動>
 崩壊 ほうかい 崩壊 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -35,31 +35,31 @@
 その内 そのうち その内 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 13D <体言><rel type="ノ" target="その内" sid="wiki00010036-00-01" id="9"/><rel type="ノ" mode="AND" target="体" sid="wiki00010036-00-01" id="5"/>
++ 13D <rel type="ノ" target="その内" sid="wiki00010036-00-01" id="9"/><rel type="ノ" mode="AND" target="体" sid="wiki00010036-00-01" id="5"/><体言>
 半分 はんぶん 半分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 12D <rel type="ガ" target="核種" sid="wiki00010036-00-01" id="12"/><用言:形><時制:非過去>
 別の べつの 別だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 9D
-+ 13D <体言><rel type="修飾" target="別の" sid="wiki00010036-00-01" id="11"/>
++ 13D <rel type="修飾" target="別の" sid="wiki00010036-00-01" id="11"/><体言>
 核種 かくしゅ 核種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="ガ" target="半分" sid="wiki00010036-00-01" id="10"/><rel type="ニ" target="核種" sid="wiki00010036-00-01" id="12"/><用言:動><時制:非過去><rel type="ニヨッテ" target="崩壊" sid="wiki00010036-00-01" id="7"/><rel type="=≒" target="半減" sid="wiki00010036-00-01" id="0"/>
++ 14D <rel type="ガ" target="半分" sid="wiki00010036-00-01" id="10"/><rel type="ニ" target="核種" sid="wiki00010036-00-01" id="12"/><rel type="ニヨッテ" target="崩壊" sid="wiki00010036-00-01" id="7"/><rel type="=≒" target="半減" sid="wiki00010036-00-01" id="0"/><用言:動><時制:非過去>
 変化 へんか 変化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 まで まで まで 助詞 9 接続助詞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="時間" sid="wiki00010036-00-01" id="15"/><用言:動><時制:非過去><節-主辞><rel type="マデニ" target="変化する" sid="wiki00010036-00-01" id="13"/>
++ 15D <rel type="ガ" target="時間" sid="wiki00010036-00-01" id="15"/><rel type="マデニ" target="変化する" sid="wiki00010036-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
 かかる かかる かかる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 12D
-+ 16D <体言><rel type="=構" target="期" sid="wiki00010036-00-01" id="1"/><rel type="修飾" target="かかる" sid="wiki00010036-00-01" id="14"/><rel type="マデ" target="変化する" sid="wiki00010036-00-01" id="13"/>
++ 16D <rel type="=構" target="期" sid="wiki00010036-00-01" id="1"/><rel type="修飾" target="かかる" sid="wiki00010036-00-01" id="14"/><rel type="マデ" target="変化する" sid="wiki00010036-00-01" id="13"/><体言>
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="時間" sid="wiki00010036-00-01" id="15"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="期" sid="wiki00010036-00-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="時間" sid="wiki00010036-00-01" id="15"/><rel type="ト" target="期" sid="wiki00010036-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -74,6 +74,6 @@ EOS
 + 3D <体言>
 half half half 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 - - - 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="期" sid="wiki00010036-00-01" id="1"/>
++ -1D <rel type="=" target="期" sid="wiki00010036-00-01" id="1"/><体言>
 life life life 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

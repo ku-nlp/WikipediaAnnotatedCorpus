@@ -13,7 +13,7 @@
 * 2D
 + 4D <体言><NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 5D <体言><rel type="ノ？" target="フランス" sid="wiki00012178-00-01" id="3"/>
++ 5D <rel type="ノ？" target="フランス" sid="wiki00012178-00-01" id="3"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="ノ" target="語" sid="wiki00012178-00-01" id="4"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -22,11 +22,11 @@
 ジュネーヴ じゅねーゔ ジュネーヴ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 8D <体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 9D <体言><rel type="=構" target="圏" sid="wiki00012178-00-01" id="5"/><rel type="修飾" target="圏" sid="wiki00012178-00-01" id="5"/><NE:LOCATION:ジュネーヴ共和国>
++ 9D <rel type="=構" target="圏" sid="wiki00012178-00-01" id="5"/><rel type="修飾" target="圏" sid="wiki00012178-00-01" id="5"/><体言><NE:LOCATION:ジュネーヴ共和国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 12P <rel type="ニ" target="国" sid="wiki00012178-00-01" id="8"/><用言:動><節-主辞><節-区切><rel type="ガ" target="家" sid="wiki00012178-00-01" id="19"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="17"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="14"/>
++ 12P <rel type="ニ" target="国" sid="wiki00012178-00-01" id="8"/><rel type="ガ" target="家" sid="wiki00012178-00-01" id="19"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="17"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="14"/><用言:動><節-主辞><節-区切>
 生まれ うまれ 生まれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -37,27 +37,27 @@
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 19D <用言:動><時制:過去><節-主辞><rel type="ガ" target="者" sid="wiki00012178-00-01" id="17"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="14"/><rel type="ガ" mode="AND" target="家" sid="wiki00012178-00-01" id="19"/><rel type="デ" target="フランス" sid="wiki00012178-00-01" id="11"/>
++ 19D <rel type="ガ" target="者" sid="wiki00012178-00-01" id="17"/><rel type="ガ" mode="AND" target="者" sid="wiki00012178-00-01" id="14"/><rel type="ガ" mode="AND" target="家" sid="wiki00012178-00-01" id="19"/><rel type="デ" target="フランス" sid="wiki00012178-00-01" id="11"/><用言:動><時制:過去><節-主辞>
 活躍 かつやく 活躍 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 8P
 + 14D <体言>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17P <体言><rel type="ノ？" target="哲学" sid="wiki00012178-00-01" id="13"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/>
++ 17P <rel type="ノ？" target="哲学" sid="wiki00012178-00-01" id="13"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9P
 + 16D <体言>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="=≒" target="哲学" sid="wiki00012178-00-01" id="13"/><rel type="ニカンシテ" target="政治" sid="wiki00012178-00-01" id="15"/>
++ 17D <rel type="=≒" target="哲学" sid="wiki00012178-00-01" id="13"/><rel type="ニカンシテ" target="政治" sid="wiki00012178-00-01" id="15"/><体言>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 19P <体言><rel type="ノ？" target="哲学" sid="wiki00012178-00-01" id="16"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/>
++ 19P <rel type="ノ？" target="哲学" sid="wiki00012178-00-01" id="16"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 19D <体言><非用言格解析:動><rel type="ガ" target="家" sid="wiki00012178-00-01" id="19"/>
++ 19D <rel type="ガ" target="家" sid="wiki00012178-00-01" id="19"/><体言><非用言格解析:動>
 作曲 さっきょく 作曲 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ルソー" sid="wiki00012178-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="作曲" sid="wiki00012178-00-01" id="18"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ルソー" sid="wiki00012178-00-01" id="2"/><rel type="ノ？" target="作曲" sid="wiki00012178-00-01" id="18"/><rel type="=構" target="ルソー" sid="wiki00012178-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -82,7 +82,7 @@ EOS
 + 5D <体言>
 7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <NE:DATE:1778年7月2日><rel type="カラ" target="28日" sid="wiki00012178-00-02" id="2"/><体言>
++ -1D <rel type="カラ" target="28日" sid="wiki00012178-00-02" id="2"/><NE:DATE:1778年7月2日><体言>
 2 ふつ 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

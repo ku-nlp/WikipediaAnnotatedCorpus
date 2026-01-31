@@ -8,7 +8,7 @@ JAPAN じゃぱん JAPAN 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORG
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <体言><NE:LOCATION:日本><rel type="=≒" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
++ 6D <rel type="=≒" target="JAPAN" sid="wiki00058476-00-01" id="1"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -18,7 +18,7 @@ JAPAN じゃぱん JAPAN 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORG
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <体言>
 ロック ろっく ロック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="JAPAN" sid="wiki00058476-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="JAPAN" sid="wiki00058476-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="系" sid="wiki00058476-00-01" id="4"/><rel type="修飾" mode="AND" target="ロック" sid="wiki00058476-00-01" id="5"/><rel type="修飾" mode="AND" target="日本" sid="wiki00058476-00-01" id="2"/>
++ -1D <rel type="ガ" target="JAPAN" sid="wiki00058476-00-01" id="1"/><rel type="=構" target="JAPAN" sid="wiki00058476-00-01" id="1"/><rel type="修飾" target="系" sid="wiki00058476-00-01" id="4"/><rel type="修飾" mode="AND" target="ロック" sid="wiki00058476-00-01" id="5"/><rel type="修飾" mode="AND" target="日本" sid="wiki00058476-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 バンド ばんど バンド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -31,15 +31,15 @@ EOS
 EOS
 # S-ID:wiki00058476-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/14 MEMO:
 * 1P
-+ 1P <体言><rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
++ 1P <rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/><体言>
 旧称 きゅうしょう 旧称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
++ 2D <rel type="ノ" target="JAPAN" sid="wiki00058476-00-01" id="1"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="ガ" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><memo text="CO"/><NE:ORGANIZATION:X><rel type="=構" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="=構" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><rel type="=" mode="AND" target="JAPAN" sid="wiki00058476-00-01" id="1"/>
++ -1D <rel type="ガ" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="ガ" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><rel type="=構" target="旧称" sid="wiki00058476-01-01" id="0"/><rel type="=構" mode="AND" target="通称" sid="wiki00058476-01-01" id="1"/><rel type="=" mode="AND" target="JAPAN" sid="wiki00058476-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:X>
 X えっくす X 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -2,7 +2,7 @@
 * 8D
 + 1D <体言>
 プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ？" target="プロジェクト" sid="wiki00028492-00-01" id="0"/>
++ 10D <rel type="ノ？" target="プロジェクト" sid="wiki00028492-00-01" id="0"/><体言>
 マネジメント まねじめんと マネジメント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -13,16 +13,16 @@
 * 3D
 + 4D <rel type="ガ" target="プロジェクト" sid="wiki00028492-00-01" id="2"/><体言><非用言格解析:動>
 成功 せいこう 成功 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ" target="成功" sid="wiki00028492-00-01" id="3"/>
++ 5D <rel type="ノ" target="成功" sid="wiki00028492-00-01" id="3"/><体言>
 裏 り 裏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="プロジェクト" sid="wiki00028492-00-01" id="2"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00028492-00-01" id="6"/><rel type="ニ" target="裏" sid="wiki00028492-00-01" id="4"/><rel type="ニ" mode="？" target="なし"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="プロジェクト" sid="wiki00028492-00-01" id="2"/><rel type="外の関係" target="こと" sid="wiki00028492-00-01" id="6"/><rel type="ニ" target="裏" sid="wiki00028492-00-01" id="4"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞>
 完了 かんりょう 完了 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 7D <体言><rel type="トイウ" target="完了させる" sid="wiki00028492-00-01" id="5"/>
++ 7D <rel type="トイウ" target="完了させる" sid="wiki00028492-00-01" id="5"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -33,11 +33,11 @@
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 10D <体言><非用言格解析:動><rel type="=構" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
++ 10D <rel type="=構" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ノ" target="活動" sid="wiki00028492-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="マネジメント" sid="wiki00028492-00-01" id="1"/>
++ -1D <rel type="ガ" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ノ" target="活動" sid="wiki00028492-00-01" id="9"/><rel type="=構" target="マネジメント" sid="wiki00028492-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -46,7 +46,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="プロジェクト" sid="wiki00028492-00-01" id="0"/><体言>
 プロジェクト ぷろじぇくと プロジェクト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ヲ" target="プロジェクト" sid="wiki00028492-00-02" id="0"/><体言><非用言格解析:動><rel type="=" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
++ -1D <rel type="ヲ" target="プロジェクト" sid="wiki00028492-00-02" id="0"/><rel type="=" target="マネジメント" sid="wiki00028492-00-01" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00028492-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/07/10 MEMO:
@@ -66,7 +66,7 @@ EOS
 * 4D
 + 4D
 各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:動><rel type="修飾" target="各" sid="wiki00028492-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="活動" sid="wiki00028492-00-01" id="9"/>
++ 6D <rel type="修飾" target="各" sid="wiki00028492-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="活動" sid="wiki00028492-00-01" id="9"/><体言><非用言格解析:動>
 活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
@@ -76,9 +76,9 @@ EOS
 立案 りつあん 立案 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="ノ" target="プロジェクト" sid="wiki00028492-01" id="1"/>
++ 8D <rel type="ノ" target="プロジェクト" sid="wiki00028492-01" id="1"/><体言>
 日程 にってい 日程 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="プロジェクト" sid="wiki00028492-01" id="1"/><rel type="ノ？" mode="AND" target="日程" sid="wiki00028492-01" id="7"/>
++ 9D <rel type="ノ？" target="プロジェクト" sid="wiki00028492-01" id="1"/><rel type="ノ？" mode="AND" target="日程" sid="wiki00028492-01" id="7"/><体言>
 表 ひょう 表 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
@@ -87,13 +87,13 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 および および および 接続詞 10 * 0 * 0 * 0 NIL
 * 8D
-+ 11D <体言><非用言格解析:動><rel type="ノ" target="プロジェクト" sid="wiki00028492-01" id="1"/>
++ 11D <rel type="ノ" target="プロジェクト" sid="wiki00028492-01" id="1"/><体言><非用言格解析:動>
 進捗 しんちょく 進捗 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="進捗" sid="wiki00028492-01" id="10"/><体言><非用言格解析:動>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="これ" sid="wiki00028492-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="立案" sid="wiki00028492-01" id="6"/><rel type="ガ" mode="AND" target="作成" sid="wiki00028492-01" id="9"/><rel type="ガ" mode="AND" target="管理" sid="wiki00028492-01" id="11"/>
++ -1D <rel type="ニ" target="これ" sid="wiki00028492-01" id="0"/><rel type="ガ" target="立案" sid="wiki00028492-01" id="6"/><rel type="ガ" mode="AND" target="作成" sid="wiki00028492-01" id="9"/><rel type="ガ" mode="AND" target="管理" sid="wiki00028492-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

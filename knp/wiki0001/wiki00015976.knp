@@ -1,6 +1,6 @@
 # S-ID:wiki00015976-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2025/11/12 MEMO:
 * 12D
-+ 13D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 13D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 花見 はなみ 花見 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -20,15 +20,15 @@
 + 6D <用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 6D
-+ 6D <体言><rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/>
++ 6D <rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/><体言>
 サクラ さくら サクラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 7D <体言><rel type="修飾" target="サクラ" sid="wiki00015976-00-01" id="5"/><rel type="=≒" target="花" sid="wiki00015976-00-01" id="3"/>
++ 7D <rel type="修飾" target="サクラ" sid="wiki00015976-00-01" id="5"/><rel type="=≒" target="花" sid="wiki00015976-00-01" id="3"/><体言>
 花 はな 花 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 10P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="花" sid="wiki00015976-00-01" id="6"/><用言:動><節-主辞><節-区切><rel type="=" target="花見" sid="wiki00015976-00-01" id="0"/>
++ 10P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="花" sid="wiki00015976-00-01" id="6"/><rel type="=" target="花見" sid="wiki00015976-00-01" id="0"/><用言:動><節-主辞><節-区切>
 鑑賞 かんしょう 鑑賞 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -37,11 +37,11 @@
 春 はる 春 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 10D <体言><rel type="ガ" target="春" sid="wiki00015976-00-01" id="8"/>
++ 10D <rel type="ガ" target="春" sid="wiki00015976-00-01" id="8"/><体言>
 訪れ おとずれ 訪れ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 13D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="訪れ" sid="wiki00015976-00-01" id="9"/><rel type="外の関係" target="風習" sid="wiki00015976-00-01" id="13"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="訪れ" sid="wiki00015976-00-01" id="9"/><rel type="外の関係" target="風習" sid="wiki00015976-00-01" id="13"/><用言:動><時制:非過去><節-主辞><節-区切>
 寿ぐ ことほぐ 寿ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL <基本句-主辞>
 * 12D
 + 12D <体言><NE:LOCATION:日本>
@@ -50,31 +50,31 @@
 古来 こらい 古来 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="花見" sid="wiki00015976-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="古来" sid="wiki00015976-00-01" id="12"/><rel type="=構" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="トイウ" target="鑑賞し" sid="wiki00015976-00-01" id="7"/><rel type="トイウ" mode="AND" target="寿ぐ" sid="wiki00015976-00-01" id="10"/>
++ -1D <rel type="ガ" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="修飾" target="古来" sid="wiki00015976-00-01" id="12"/><rel type="=構" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="トイウ" target="鑑賞し" sid="wiki00015976-00-01" id="7"/><rel type="トイウ" mode="AND" target="寿ぐ" sid="wiki00015976-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 風習 ふうしゅう 風習 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015976-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/14 MEMO:
 * -1D
-+ -1D <体言><非用言格解析:動><rel type="=" target="花見" sid="wiki00015976-00-01" id="0"/>
++ -1D <rel type="=" target="花見" sid="wiki00015976-00-01" id="0"/><体言><非用言格解析:動>
 はなみ はなみ はなみ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00015976-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/12 MEMO:
 * 1P
-+ 1P <体言><rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/>
++ 1P <rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/><体言>
 ウメ うめ ウメ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/>
++ 2D <rel type="=≒" target="樹木" sid="wiki00015976-00-01" id="1"/><体言>
 モモ もも モモ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="修飾" target="ウメ" sid="wiki00015976-01" id="0"/><rel type="修飾" mode="AND" target="モモ" sid="wiki00015976-01" id="1"/><rel type="=≒" target="花" sid="wiki00015976-00-01" id="3"/>
++ 3D <rel type="修飾" target="ウメ" sid="wiki00015976-01" id="0"/><rel type="修飾" mode="AND" target="モモ" sid="wiki00015976-01" id="1"/><rel type="=≒" target="花" sid="wiki00015976-00-01" id="3"/><体言>
 花 はな 花 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="花" sid="wiki00015976-01" id="2"/>
++ -1D <rel type="ガ" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="花" sid="wiki00015976-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -83,11 +83,11 @@ EOS
 * 1D
 + 1D
 副 ふく 副 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <rel type="ノ" target="花見" sid="wiki00015976-00-01" id="0"/><体言><rel type="修飾" target="副" sid="wiki00015976-02-01" id="0"/>
++ 2D <rel type="ノ" target="花見" sid="wiki00015976-00-01" id="0"/><rel type="修飾" target="副" sid="wiki00015976-02-01" id="0"/><体言>
 称 しょう 称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=構" target="称" sid="wiki00015976-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="判ガ" target="称" sid="wiki00015976-02-01" id="1"/>
++ -1D <rel type="=構" target="称" sid="wiki00015976-02-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="判ガ" target="称" sid="wiki00015976-02-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><非用言格解析:動>
 観桜 かんおう 観桜 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

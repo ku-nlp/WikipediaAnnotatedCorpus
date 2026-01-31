@@ -14,7 +14,7 @@
 * 3P
 + 4D <体言>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="=構" target="文麿" sid="wiki00033175-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00033175-00-01" id="2"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00033175-00-01" id="3"/>
++ 7P <rel type="=構" target="文麿" sid="wiki00033175-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00033175-00-01" id="2"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00033175-00-01" id="3"/><体言>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -22,7 +22,7 @@
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D <体言><非用言格解析:動>
 総理 そうり 総理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="文麿" sid="wiki00033175-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="文麿" sid="wiki00033175-00-01" id="1"/><rel type="ノ" target="日本" sid="wiki00033175-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="文麿" sid="wiki00033175-00-01" id="1"/><rel type="=構" target="文麿" sid="wiki00033175-00-01" id="1"/><rel type="ノ" target="日本" sid="wiki00033175-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -31,7 +31,7 @@ EOS
 + 1D <rel type="=" target="近衞" sid="wiki00033175-00-01" id="0"/><体言>
 このえ このえ このえ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 11P <体言><rel type="=" target="文麿" sid="wiki00033175-00-01" id="1"/><NE:PERSON:このえ　ふみまろ>
++ 11P <rel type="=" target="文麿" sid="wiki00033175-00-01" id="1"/><体言><NE:PERSON:このえ　ふみまろ>
 ふみまろ ふみまろ ふみまろ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -41,7 +41,7 @@ EOS
 + 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 5D <体言><rel type="=" target="1891年" sid="wiki00033175-00-02" id="2"/><NE:DATE:明治24年>
++ 5D <rel type="=" target="1891年" sid="wiki00033175-00-02" id="2"/><体言><NE:DATE:明治24年>
 24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -61,14 +61,14 @@ EOS
 + 9D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 10D <体言><rel type="=" target="1945年" sid="wiki00033175-00-02" id="7"/><NE:DATE:昭和20年>
++ 10D <rel type="=" target="1945年" sid="wiki00033175-00-02" id="7"/><体言><NE:DATE:昭和20年>
 20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 + 11D <体言>
 12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><rel type="カラ" target="12日" sid="wiki00033175-00-02" id="6"/><NE:DATE:12月16日>
++ -1D <rel type="カラ" target="12日" sid="wiki00033175-00-02" id="6"/><体言><NE:DATE:12月16日>
 16 じゅうろく 16 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -88,15 +88,15 @@ EOS
 EOS
 # S-ID:wiki00033175-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/25 MEMO:
 * 1D
-+ 3D <体言><rel type="ノ？" target="文麿" sid="wiki00033175-00-01" id="1"/>
++ 3D <rel type="ノ？" target="文麿" sid="wiki00033175-00-01" id="1"/><体言>
 栄典 えいてん 栄典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2P <体言><rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="位階"/>
++ 2P <rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="位階"/><体言>
 従二位 じゅにい 従二位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3P <体言><rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="勲等"/>
++ 3P <rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="勲等"/><体言>
 勲一等 くんいっとう 勲一等 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="栄典" sid="wiki00033175-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="CO　爵位"/>
++ -1D <rel type="ガ" target="栄典" sid="wiki00033175-01" id="0"/><rel type="=構" target="栄典" sid="wiki00033175-01" id="0"/><memo text="CO　爵位"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 公爵 こうしゃく 公爵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

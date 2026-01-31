@@ -2,9 +2,9 @@
 * 6D
 + 1D
 中 ちゅう 中 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="修飾" target="中" sid="wiki00010908-00-01" id="0"/>
++ 2D <rel type="修飾" target="中" sid="wiki00010908-00-01" id="0"/><体言>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ？" target="距離" sid="wiki00010908-00-01" id="1"/>
++ 10D <rel type="ノ？" target="距離" sid="wiki00010908-00-01" id="1"/><体言>
 走 そう 走 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 * 2D
 + 4D <体言>
 陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="デ" target="陸上" sid="wiki00010908-00-01" id="3"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="デ" target="陸上" sid="wiki00010908-00-01" id="3"/><体言><非用言格解析:動>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -21,24 +21,24 @@
 * 4D
 + 7D <rel type="=" target="中" sid="wiki00010908-00-01" id="0"/>
 中 ちゅう 中 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="=" target="距離" sid="wiki00010908-00-01" id="1"/><体言><rel type="修飾" target="中" sid="wiki00010908-00-01" id="6"/>
++ 8D <rel type="=" target="距離" sid="wiki00010908-00-01" id="1"/><rel type="修飾" target="中" sid="wiki00010908-00-01" id="6"/><体言>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="距離" sid="wiki00010908-00-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="競技" sid="wiki00010908-00-01" id="9"/><rel type="=" target="走" sid="wiki00010908-00-01" id="2"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="距離" sid="wiki00010908-00-01" id="7"/><rel type="外の関係" target="競技" sid="wiki00010908-00-01" id="9"/><rel type="=" target="走" sid="wiki00010908-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 走る はしる 走る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 10D <体言><非用言格解析:動><rel type="=" target="走" sid="wiki00010908-00-01" id="2"/><rel type="=≒" mode="AND" target="競技" sid="wiki00010908-00-01" id="4"/><rel type="トイウ" target="走る" sid="wiki00010908-00-01" id="8"/>
++ 10D <rel type="=" target="走" sid="wiki00010908-00-01" id="2"/><rel type="=≒" mode="AND" target="競技" sid="wiki00010908-00-01" id="4"/><rel type="トイウ" target="走る" sid="wiki00010908-00-01" id="8"/><体言><非用言格解析:動>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="走" sid="wiki00010908-00-01" id="2"/><rel type="ノ" target="競技" sid="wiki00010908-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="走" sid="wiki00010908-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="走" sid="wiki00010908-00-01" id="2"/><rel type="ノ" target="競技" sid="wiki00010908-00-01" id="9"/><rel type="=構" target="走" sid="wiki00010908-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010908-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/12/19 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="中" sid="wiki00010908-00-01" id="0"/>
++ 1D <rel type="=" target="中" sid="wiki00010908-00-01" id="0"/><体言>
 ちゅう ちゅう ちゅう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="距離" sid="wiki00010908-00-01" id="1"/><体言>
 きょり きょり きょり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -49,29 +49,29 @@ EOS
 * 1P
 + 1D <rel type="ガ" target="距離" sid="wiki00010908-01" id="1"/>
 短 たん 短 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="修飾" target="短" sid="wiki00010908-01" id="0"/><rel type="=≒" target="距離" sid="wiki00010908-00-01" id="1"/>
++ 2D <rel type="修飾" target="短" sid="wiki00010908-01" id="0"/><rel type="=≒" target="距離" sid="wiki00010908-00-01" id="1"/><体言>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="ノ？" target="距離" sid="wiki00010908-01" id="1"/><rel type="=≒" target="走" sid="wiki00010908-00-01" id="2"/>
++ 5P <rel type="ノ？" target="距離" sid="wiki00010908-01" id="1"/><rel type="=≒" target="走" sid="wiki00010908-00-01" id="2"/><体言>
 走 そう 走 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 4D <rel type="ガ" target="距離" sid="wiki00010908-01" id="4"/>
 長 ちょう 長 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="長" sid="wiki00010908-01" id="3"/><rel type="=≒" target="距離" sid="wiki00010908-00-01" id="1"/>
++ 5D <rel type="修飾" target="長" sid="wiki00010908-01" id="3"/><rel type="=≒" target="距離" sid="wiki00010908-00-01" id="1"/><体言>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="距離" sid="wiki00010908-01" id="4"/><rel type="=≒" target="走" sid="wiki00010908-00-01" id="2"/>
++ 6D <rel type="ノ？" target="距離" sid="wiki00010908-01" id="4"/><rel type="=≒" target="走" sid="wiki00010908-00-01" id="2"/><体言>
 走 そう 走 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <体言><rel type="ト" target="走" sid="wiki00010908-01" id="2"/><rel type="ノ" target="走" sid="wiki00010908-01" id="5"/>
++ 7D <rel type="ト" target="走" sid="wiki00010908-01" id="2"/><rel type="ノ" target="走" sid="wiki00010908-01" id="5"/><体言>
 中間 ちゅうかん 中間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="距離" sid="wiki00010908-01" id="6"/><rel type="ニ" target="中間" sid="wiki00010908-01" id="4"/><用言:動><時制:非過去><節-主辞>
++ 8D <rel type="ガ" target="距離" sid="wiki00010908-01" id="6"/><rel type="ニ" target="中間" sid="wiki00010908-01" id="6"/><用言:動><時制:非過去><節-主辞>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="走" sid="wiki00010908-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=" target="距離" sid="wiki00010908-00-01" id="7"/><rel type="=構" mode="AND" target="走" sid="wiki00010908-00-01" id="2"/>
++ -1D <rel type="ガ" target="走" sid="wiki00010908-00-01" id="2"/><rel type="=" target="距離" sid="wiki00010908-00-01" id="7"/><rel type="=構" mode="AND" target="走" sid="wiki00010908-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

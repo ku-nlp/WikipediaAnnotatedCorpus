@@ -1,18 +1,18 @@
 # S-ID:wiki00012067-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2026/01/19 MEMO:
 * 2D
-+ 1D <体言><NE:OPTIONAL:オック><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0><memo text="地名由来ではない模様"/>
++ 1D <memo text="地名由来ではない模様"/><体言><NE:OPTIONAL:オック><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 オック おっく オック 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="オック" sid="wiki00012067-00-01" id="0"/>
++ 4D <rel type="ノ？" target="オック" sid="wiki00012067-00-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D <体言><NE:OPTIONAL:ロマンス><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ロマンス ろまんす ロマンス 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="ロマンス" sid="wiki00012067-00-01" id="2"/><rel type="=≒" target="語" sid="wiki00012067-00-01" id="1"/>
++ 4D <rel type="ノ？" target="ロマンス" sid="wiki00012067-00-01" id="2"/><rel type="=≒" target="語" sid="wiki00012067-00-01" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16P
-+ 26P <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00012067-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00012067-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00012067-00-01" id="3"/>
++ 26P <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00012067-00-01" id="3"/><rel type="=構" target="語" sid="wiki00012067-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00012067-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -34,7 +34,7 @@
 ロワール ろわーる ロワール 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 10D <体言><NE:LOCATION:ロワール川>
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
-+ 11D <rel type="ノ" target="川" sid="wiki00012067-00-01" id="9"/><体言><rel type="=≒" target="南部" sid="wiki00012067-00-01" id="6"/>
++ 11D <rel type="ノ" target="川" sid="wiki00012067-00-01" id="9"/><rel type="=≒" target="南部" sid="wiki00012067-00-01" id="6"/><体言>
 以南 いなん 以南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
@@ -46,15 +46,15 @@
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10P
-+ 14D <体言><NE:LOCATION:ローヌ＝アルプ地域圏><rel type="ノ？" target="フランス" sid="wiki00012067-00-01" id="5"/>
++ 14D <rel type="ノ？" target="フランス" sid="wiki00012067-00-01" id="5"/><体言><NE:LOCATION:ローヌ＝アルプ地域圏>
 ローヌ＝アルプ地域圏 ろーぬあるぷちいきけん ローヌ＝アルプ地域圏 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 17P <体言><rel type="ノ" target="ローヌ＝アルプ地域圏" sid="wiki00012067-00-01" id="13"/><rel type="時間" target="現在" sid="wiki00012067-00-01" id="12"/><rel type="ノ？" target="南部" sid="wiki00012067-00-01" id="6"/>
++ 17P <rel type="ノ" target="ローヌ＝アルプ地域圏" sid="wiki00012067-00-01" id="13"/><rel type="時間" target="現在" sid="wiki00012067-00-01" id="12"/><rel type="ノ？" target="南部" sid="wiki00012067-00-01" id="6"/><体言>
 一帯 いったい 一帯 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
 + 16D <体言><NE:OPTIONAL:バスク><NE-OPTIONAL:LOCATION,NONE:0>
 バスク ばすく バスク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 17D <体言><rel type="ノ？" target="バスク" sid="wiki00012067-00-01" id="15"/>
++ 17D <rel type="ノ？" target="バスク" sid="wiki00012067-00-01" id="15"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 20P <rel type="ノ" target="語" sid="wiki00012067-00-01" id="16"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -71,21 +71,21 @@
 + 22D <rel type="ヲ" target="圏" sid="wiki00012067-00-01" id="17"/><rel type="ヲ" mode="AND" target="圏" sid="wiki00012067-00-01" id="20"/><rel type="ヲ" mode="AND" target="一帯" sid="wiki00012067-00-01" id="14"/><rel type="ガ" target="地域" sid="wiki00012067-00-01" id="22"/><用言:動><時制:非過去>
 除いた のぞいた 除く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL <基本句-主辞>
 * 14D
-+ 23D <体言><rel type="修飾" target="除いた" sid="wiki00012067-00-01" id="21"/><rel type="修飾" mode="AND" target="以南" sid="wiki00012067-00-01" id="10"/><rel type="=≒" target="南部" sid="wiki00012067-00-01" id="6"/>
++ 23D <rel type="修飾" target="除いた" sid="wiki00012067-00-01" id="21"/><rel type="修飾" mode="AND" target="以南" sid="wiki00012067-00-01" id="10"/><rel type="=≒" target="南部" sid="wiki00012067-00-01" id="6"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 25D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="地域" sid="wiki00012067-00-01" id="22"/><rel type="ガ" target="言語" sid="wiki00012067-00-01" id="25"/>
++ 25D <rel type="ニ" target="不特定:人"/><rel type="デ" target="地域" sid="wiki00012067-00-01" id="22"/><rel type="ガ" target="言語" sid="wiki00012067-00-01" id="25"/><用言:動><時制:非過去><節-主辞>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 16D
 + 25D
 諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 26D <体言><rel type="修飾" target="諸" sid="wiki00012067-00-01" id="24"/><rel type="=≒" target="語" sid="wiki00012067-00-01" id="1"/>
++ 26D <rel type="修飾" target="諸" sid="wiki00012067-00-01" id="24"/><rel type="=≒" target="語" sid="wiki00012067-00-01" id="1"/><体言>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ノ" target="言語" sid="wiki00012067-00-01" id="25"/>
++ -1D <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><rel type="=構" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ノ" target="言語" sid="wiki00012067-00-01" id="25"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -107,7 +107,7 @@ EOS
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><NE:LOCATION:ピエモンテ州><rel type="ノ？" target="イタリア" sid="wiki00012067-01" id="1"/>
++ 3D <rel type="ノ？" target="イタリア" sid="wiki00012067-01" id="1"/><体言><NE:LOCATION:ピエモンテ州>
 ピエモンテ ぴえもんて ピエモンテ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -116,7 +116,7 @@ EOS
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="一部" sid="wiki00012067-01" id="3"/>
++ -1D <rel type="ガ" target="語" sid="wiki00012067-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="一部" sid="wiki00012067-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -128,29 +128,29 @@ EOS
 スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 3D <体言><rel type="ノ？" target="スペイン" sid="wiki00012067-02" id="0"/>
++ 3D <rel type="ノ？" target="スペイン" sid="wiki00012067-02" id="0"/><体言>
 カタルーニャ かたるーにゃ カタルーニャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + 3D <体言>
 アラン あらん アラン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 12D <体言><NE:LOCATION:カタルーニャ州アラン谷><rel type="ノ？" target="カタルーニャ州" sid="wiki00012067-02" id="1"/>
++ 12D <rel type="ノ？" target="カタルーニャ州" sid="wiki00012067-02" id="1"/><体言><NE:LOCATION:カタルーニャ州アラン谷>
 谷 だに 谷 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 5D <体言><rel type="=" target="オック" sid="wiki00012067-00-01" id="0"/><NE:OPTIONAL:オック><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 5D <rel type="=" target="オック" sid="wiki00012067-00-01" id="0"/><体言><NE:OPTIONAL:オック><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 オック おっく オック 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 6D <体言><rel type="=" target="語" sid="wiki00012067-00-01" id="1"/>
++ 6D <rel type="=" target="語" sid="wiki00012067-00-01" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ノ" target="語" sid="wiki00012067-02" id="6"/><用言:判><体言><時制:非過去><rel type="=構" target="語" sid="wiki00012067-02" id="5"/><rel type="ガ" target="語" sid="wiki00012067-02" id="8"/>
++ 8D <rel type="ノ" target="語" sid="wiki00012067-02" id="6"/><rel type="=構" target="語" sid="wiki00012067-02" id="5"/><rel type="ガ" target="語" sid="wiki00012067-02" id="8"/><用言:判><体言><時制:非過去>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 5D
 + 8D <体言><NE:OPTIONAL:ガスコーニュ><NE-OPTIONAL:LOCATION,NONE:0>
 ガスコーニュ がすこーにゅ ガスコーニュ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 9D <体言><rel type="ノ？" target="ガスコーニュ" sid="wiki00012067-02" id="7"/><rel type="=構" target="一つ" sid="wiki00012067-02" id="6"/><rel type="=≒" mode="AND" target="言語" sid="wiki00012067-00-01" id="25"/>
++ 9D <rel type="ノ？" target="ガスコーニュ" sid="wiki00012067-02" id="7"/><rel type="=構" target="一つ" sid="wiki00012067-02" id="6"/><rel type="=≒" mode="AND" target="言語" sid="wiki00012067-00-01" id="25"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -158,11 +158,11 @@ EOS
 方言 ほうげん 方言 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 11D <rel type="=" target="アラン" sid="wiki00012067-02" id="3"/><体言><NE:OPTIONAL:アラン><NE-OPTIONAL:LOCATION,NONE:0>
 アラン あらん アラン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 12D <体言><rel type="=構" target="方言" sid="wiki00012067-02" id="9"/><rel type="修飾" target="方言" sid="wiki00012067-02" id="9"/><rel type="ノ？" target="アラン" sid="wiki00012067-02" id="10"/>
++ 12D <rel type="=構" target="方言" sid="wiki00012067-02" id="9"/><rel type="修飾" target="方言" sid="wiki00012067-02" id="9"/><rel type="ノ？" target="アラン" sid="wiki00012067-02" id="10"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 17P <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="デ" target="谷" sid="wiki00012067-02" id="3"/><rel type="ヲ" target="語" sid="wiki00012067-02" id="11"/>
++ 17P <rel type="ガ" target="不特定:人"/><rel type="デ" target="谷" sid="wiki00012067-02" id="3"/><rel type="ヲ" target="語" sid="wiki00012067-02" id="11"/><用言:動><節-主辞><節-区切>
 話し はなし 話す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
@@ -171,18 +171,18 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <体言><NE:LOCATION:カタルーニャ州><rel type="=" target="カタルーニャ州" sid="wiki00012067-02" id="1"/>
++ 16D <rel type="=" target="カタルーニャ州" sid="wiki00012067-02" id="1"/><体言><NE:LOCATION:カタルーニャ州>
 カタルーニャ かたるーにゃ カタルーニャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 16D <体言><rel type="ノ" target="カタルーニャ州" sid="wiki00012067-02" id="14"/>
++ 16D <rel type="ノ" target="カタルーニャ州" sid="wiki00012067-02" id="14"/><体言>
 公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="ノ" target="カタルーニャ州" sid="wiki00012067-02" id="14"/><rel type="=≒" target="語" sid="wiki00012067-02" id="11"/><rel type="修飾" target="公用" sid="wiki00012067-02" id="15"/>
++ 17D <rel type="ノ" target="カタルーニャ州" sid="wiki00012067-02" id="14"/><rel type="=≒" target="語" sid="wiki00012067-02" id="11"/><rel type="修飾" target="公用" sid="wiki00012067-02" id="15"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="2010年" sid="wiki00012067-02" id="13"/><rel type="ガ" target="語" sid="wiki00012067-02" id="11"/><rel type="ニ" target="語" sid="wiki00012067-02" id="16"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ -1D <rel type="時間" target="2010年" sid="wiki00012067-02" id="13"/><rel type="ガ" target="語" sid="wiki00012067-02" id="11"/><rel type="ニ" target="語" sid="wiki00012067-02" id="16"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切>
 加え くわえ 加える 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

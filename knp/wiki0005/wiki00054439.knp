@@ -11,20 +11,20 @@
 綱 こう 綱 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言>
 翼手 よくしゅ 翼手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ" target="綱" sid="wiki00054439-00" id="2"/><rel type="ノ" mode="AND" target="翼手" sid="wiki00054439-00" id="3"/>
++ 5D <rel type="ノ" target="綱" sid="wiki00054439-00" id="2"/><rel type="ノ" mode="AND" target="翼手" sid="wiki00054439-00" id="3"/><体言>
 目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="種" sid="wiki00054439-00" id="6"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="目" sid="wiki00054439-00" id="4"/>
++ 7D <rel type="ガ" target="種" sid="wiki00054439-00" id="7"/><rel type="ニ" target="目" sid="wiki00054439-00" id="4"/><用言:動><時制:非過去><節-主辞>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 7D <rel type="ガ" target="種" sid="wiki00054439-00" id="6"/><体言><非用言格解析:動><rel type="ヲ" target="目" sid="wiki00054439-00" id="4"/>
++ 7D <rel type="ガ" target="種" sid="wiki00054439-00" id="7"/><rel type="ヲ" target="目" sid="wiki00054439-00" id="4"/><体言><非用言格解析:動>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="構成" sid="wiki00054439-00" id="6"/><rel type="修飾" mode="AND" target="属する" sid="wiki00054439-00" id="5"/>
++ 8D <rel type="修飾" target="構成" sid="wiki00054439-00" id="6"/><rel type="修飾" mode="AND" target="属する" sid="wiki00054439-00" id="5"/><体言>
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="コウモリ" sid="wiki00054439-00" id="0"/><rel type="ノ" target="種" sid="wiki00054439-00" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="コウモリ" sid="wiki00054439-00" id="0"/>
++ -1D <rel type="ガ" target="コウモリ" sid="wiki00054439-00" id="0"/><rel type="ノ" target="種" sid="wiki00054439-00" id="7"/><rel type="=構" target="コウモリ" sid="wiki00054439-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -35,15 +35,15 @@ EOS
 別名 べつめい 別名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2P
-+ 2P <体言><rel type="=構" target="別名" sid="wiki00054439-01-01" id="0"/><rel type="=" mode="AND" target="コウモリ" sid="wiki00054439-00" id="0"/>
++ 2P <rel type="=構" target="別名" sid="wiki00054439-01-01" id="0"/><rel type="=" mode="AND" target="コウモリ" sid="wiki00054439-00" id="0"/><体言>
 天鼠 てんそ 天鼠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="=構" target="別名" sid="wiki00054439-01-01" id="0"/><rel type="=" mode="AND" target="コウモリ" sid="wiki00054439-00" id="0"/>
++ 3D <rel type="=構" target="別名" sid="wiki00054439-01-01" id="0"/><rel type="=" mode="AND" target="コウモリ" sid="wiki00054439-00" id="0"/><体言>
 飛鼠 ひそ 飛鼠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="別名" sid="wiki00054439-01-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="飛鼠" sid="wiki00054439-01-01" id="2"/><rel type="ガ" mode="AND" target="天鼠" sid="wiki00054439-01-01" id="1"/>
++ -1D <rel type="ニ" target="別名" sid="wiki00054439-01-01" id="0"/><rel type="ガ" target="飛鼠" sid="wiki00054439-01-01" id="2"/><rel type="ガ" mode="AND" target="天鼠" sid="wiki00054439-01-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

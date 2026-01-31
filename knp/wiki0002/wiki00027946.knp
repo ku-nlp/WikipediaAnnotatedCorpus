@@ -3,7 +3,7 @@
 + 1D <体言>
 ギュイヤンヌ ぎゅいやんぬ ギュイヤンヌ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 12D <体言><NE:LOCATION:ギュイヤンヌ・フランセーズ><rel type="ノ？" target="アメリカ" sid="wiki00027946-00" id="3"/>
++ 12D <rel type="ノ？" target="アメリカ" sid="wiki00027946-00" id="3"/><体言><NE:LOCATION:ギュイヤンヌ・フランセーズ>
 フランセーズ ふらんせーず フランセーズ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -14,11 +14,11 @@
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 + 5D <rel type="ノ" target="アメリカ" sid="wiki00027946-00" id="3"/><体言>
 北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ" target="アメリカ" sid="wiki00027946-00" id="3"/><体言><rel type="ノ？" target="北東" sid="wiki00027946-00" id="4"/>
++ 6D <rel type="ノ" target="アメリカ" sid="wiki00027946-00" id="3"/><rel type="ノ？" target="北東" sid="wiki00027946-00" id="4"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ニ" target="部" sid="wiki00027946-00" id="5"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="県" sid="wiki00027946-00" id="9"/><rel type="ガ" mode="AND" target="圏" sid="wiki00027946-00" id="12"/>
++ 12D <rel type="ニ" target="部" sid="wiki00027946-00" id="5"/><rel type="ガ" target="県" sid="wiki00027946-00" id="9"/><rel type="ガ" mode="AND" target="圏" sid="wiki00027946-00" id="12"/><用言:動><時制:非過去><節-主辞>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
@@ -26,17 +26,17 @@
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 9D <体言><rel type="ノ" target="フランス" sid="wiki00027946-00" id="7"/>
++ 9D <rel type="ノ" target="フランス" sid="wiki00027946-00" id="7"/><体言>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12P <体言><rel type="ノ？" target="フランス" sid="wiki00027946-00" id="7"/><rel type="修飾" target="海外" sid="wiki00027946-00" id="8"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/>
++ 12P <rel type="ノ？" target="フランス" sid="wiki00027946-00" id="7"/><rel type="修飾" target="海外" sid="wiki00027946-00" id="8"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><体言>
 県 けん 県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ならびに ならびに ならびに 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 12D <体言><rel type="=" target="海外" sid="wiki00027946-00" id="8"/>
++ 12D <rel type="=" target="海外" sid="wiki00027946-00" id="8"/><体言>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="海外" sid="wiki00027946-00" id="10"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="ノ？" target="フランス" sid="wiki00027946-00" id="7"/><rel type="ノ？" mode="AND" target="地域" sid="wiki00027946-00" id="11"/>
++ -1D <rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="修飾" target="海外" sid="wiki00027946-00" id="10"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="ノ？" target="フランス" sid="wiki00027946-00" id="7"/><rel type="ノ？" mode="AND" target="地域" sid="wiki00027946-00" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -55,12 +55,12 @@ EOS
 * 15D
 + 4D <rel type="=" target="海外" sid="wiki00027946-00" id="8"/><体言>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <rel type="ノ" target="フランス" sid="wiki00027946-01" id="1"/><体言><rel type="修飾" target="海外" sid="wiki00027946-01" id="3"/><rel type="修飾" mode="AND" target="主要な" sid="wiki00027946-01" id="2"/><rel type="=≒" target="フランセーズ" sid="wiki00027946-00" id="1"/>
++ 20D <rel type="ノ" target="フランス" sid="wiki00027946-01" id="1"/><rel type="修飾" target="海外" sid="wiki00027946-01" id="3"/><rel type="修飾" mode="AND" target="主要な" sid="wiki00027946-01" id="2"/><rel type="=≒" target="フランセーズ" sid="wiki00027946-00" id="1"/><体言>
 領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ノ" target="フランス" sid="wiki00027946-01" id="1"/><用言:判><体言><時制:非過去><rel type="ガ" target="なる" sid="wiki00027946-01" id="9"/>
++ 9D <rel type="ノ" target="フランス" sid="wiki00027946-01" id="1"/><rel type="ガ" target="なる" sid="wiki00027946-01" id="9"/><用言:判><体言><時制:非過去>
 本土 ほんど 本土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の だ 判定詞 4 * 0 判定詞 25 ダ列特殊連体形 4 NIL
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
@@ -72,11 +72,11 @@ EOS
 * 7D
 + 8D <体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="地域" sid="wiki00027946-01" id="7"/><rel type="=≒" target="圏" sid="wiki00027946-00" id="12"/>
++ 9D <rel type="ノ？" target="地域" sid="wiki00027946-01" id="7"/><rel type="=≒" target="圏" sid="wiki00027946-00" id="12"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 13P <rel type="ガ" target="領土" sid="wiki00027946-01" id="4"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切><rel type="デ" target="数県" sid="wiki00027946-01" id="6"/><rel type="ト" target="圏" sid="wiki00027946-01" id="8"/>
++ 13P <rel type="ガ" target="領土" sid="wiki00027946-01" id="4"/><rel type="デ" target="数県" sid="wiki00027946-01" id="6"/><rel type="ト" target="圏" sid="wiki00027946-01" id="8"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 ので ので のだ 助動詞 5 * 0 ナ形容詞 21 ダ列タ系連用テ形 12 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -90,11 +90,11 @@ EOS
 * 10D
 + 12D <体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="=" target="圏" sid="wiki00027946-00" id="12"/>
++ 13D <rel type="=" target="圏" sid="wiki00027946-00" id="12"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15P
-+ 20P <rel type="ガ" target="領土" sid="wiki00027946-01" id="4"/><用言:動><節-主辞><節-区切><rel type="デ" target="1県" sid="wiki00027946-01" id="10"/><rel type="ト" target="圏" sid="wiki00027946-01" id="12"/>
++ 20P <rel type="ガ" target="領土" sid="wiki00027946-01" id="4"/><rel type="デ" target="1県" sid="wiki00027946-01" id="10"/><rel type="ト" target="圏" sid="wiki00027946-01" id="12"/><用言:動><節-主辞><節-区切>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
@@ -103,11 +103,11 @@ EOS
 * 15D
 + 16D <体言>
 自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><rel type="ノ？" target="自治" sid="wiki00027946-01" id="15"/><rel type="ノ" target="領土" sid="wiki00027946-01" id="4"/><rel type="修飾" target="同一の" sid="wiki00027946-01" id="14"/>
++ 20D <rel type="ノ？" target="自治" sid="wiki00027946-01" id="15"/><rel type="ノ" target="領土" sid="wiki00027946-01" id="4"/><rel type="修飾" target="同一の" sid="wiki00027946-01" id="14"/><体言>
 体 たい 体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 19P <体言><rel type="=" target="1県" sid="wiki00027946-01" id="10"/>
++ 19P <rel type="=" target="1県" sid="wiki00027946-01" id="10"/><体言>
 県 けん 県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
@@ -118,7 +118,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="体" sid="wiki00027946-01" id="16"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="圏" sid="wiki00027946-01" id="19"/><rel type="ヲ" mode="AND" target="県" sid="wiki00027946-01" id="17"/><rel type="デ" target="領土" sid="wiki00027946-01" id="4"/>
++ -1D <rel type="ガ" target="体" sid="wiki00027946-01" id="16"/><rel type="ヲ" target="圏" sid="wiki00027946-01" id="19"/><rel type="ヲ" mode="AND" target="県" sid="wiki00027946-01" id="17"/><rel type="デ" target="領土" sid="wiki00027946-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 兼ねる かねる 兼ねる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -126,7 +126,7 @@ EOS
 * 1I
 + 1D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 3I <体言><rel type="ノ？" target="英語" sid="wiki00027946-02-01" id="0"/>
++ 3I <rel type="ノ？" target="英語" sid="wiki00027946-02-01" id="0"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -134,7 +134,7 @@ EOS
 + 3D <体言>
 フレンチ ふれんち フレンチ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10P <体言><NE:LOCATION:フレンチ・ギアナ><rel type="デ" target="圏" sid="wiki00027946-02-01" id="1"/><rel type="ト" target="ギアナ" sid="wiki00027946-02-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/>
++ 10P <rel type="デ" target="圏" sid="wiki00027946-02-01" id="1"/><rel type="ト" target="ギアナ" sid="wiki00027946-02-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><体言><NE:LOCATION:フレンチ・ギアナ>
 ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4I
@@ -143,34 +143,34 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 6D <体言><rel type="=" target="フランス" sid="wiki00027946-01" id="1"/>
++ 6D <rel type="=" target="フランス" sid="wiki00027946-01" id="1"/><体言>
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 7D <rel type="ノ" target="フランス" sid="wiki00027946-02-01" id="5"/><体言>
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 10P <体言><NE:LOCATION:フランス領ギアナ><rel type="修飾" target="領" sid="wiki00027946-02-01" id="6"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/>
++ 10P <rel type="修飾" target="領" sid="wiki00027946-02-01" id="6"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><体言><NE:LOCATION:フランス領ギアナ>
 ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 9D <rel type="=" target="フランス" sid="wiki00027946-02-01" id="5"/><体言>
-仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head><NE:LOCATION:head>
-+ 10D <rel type="ノ" target="仏" sid="wiki00027946-02-01" id="8"/><体言><rel type="=" target="領" sid="wiki00027946-02-01" id="6"/>
-領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle><NE:LOCATION:middle>
+仏 ふつ 仏 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 10D <rel type="ノ" target="仏" sid="wiki00027946-02-01" id="8"/><rel type="=" target="領" sid="wiki00027946-02-01" id="6"/><体言>
+領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + 11D <rel type="修飾" target="領" sid="wiki00027946-02-01" id="9"/><rel type="=構" target="フランセーズ" sid="wiki00027946-00" id="1"/><NE:LOCATION:仏領ギアナ><体言>
-ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail><NE:LOCATION:tail>
+ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="デ" target="日本" sid="wiki00027946-02-01" id="4"/><rel type="ト" target="ギアナ" sid="wiki00027946-02-01" id="7"/><rel type="ト" mode="AND" target="ギアナ" sid="wiki00027946-02-01" id="10"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="フランセーズ" sid="wiki00027946-00" id="1"/><rel type="デ" target="日本" sid="wiki00027946-02-01" id="4"/><rel type="ト" target="ギアナ" sid="wiki00027946-02-01" id="7"/><rel type="ト" mode="AND" target="ギアナ" sid="wiki00027946-02-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027946-02-02 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/16 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="仏" sid="wiki00027946-02-01" id="8"/>
++ 1D <rel type="=" target="仏" sid="wiki00027946-02-01" id="8"/><体言>
 ふつ ふつ ふつ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言><rel type="=" target="領" sid="wiki00027946-02-01" id="9"/>
++ 2D <rel type="=" target="領" sid="wiki00027946-02-01" id="9"/><体言>
 りょう りょう りょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <体言><NE:LOCATION:ふつりょうギアナ><rel type="=" target="ギアナ" sid="wiki00027946-02-01" id="10"/>
++ -1D <rel type="=" target="ギアナ" sid="wiki00027946-02-01" id="10"/><体言><NE:LOCATION:ふつりょうギアナ>
 ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00027946-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/16 MEMO:
@@ -179,20 +179,20 @@ EOS
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=" target="フランス" sid="wiki00027946-02-01" id="5"/>
++ 2D <rel type="=" target="フランス" sid="wiki00027946-02-01" id="5"/><体言>
 フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 3D <rel type="=" target="領" sid="wiki00027946-02-01" id="6"/><体言>
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 * 3D
-+ 4D <体言><NE:LOCATION:フランス領ギアナ><rel type="=" target="ギアナ" sid="wiki00027946-02-01" id="7"/>
++ 4D <rel type="=" target="ギアナ" sid="wiki00027946-02-01" id="7"/><体言><NE:LOCATION:フランス領ギアナ>
 ギアナ ぎあな ギアナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="トイウ" target="ギアナ" sid="wiki00027946-03" id="3"/><rel type="=構" target="ギアナ" sid="wiki00027946-03" id="3"/>
++ 5D <rel type="トイウ" target="ギアナ" sid="wiki00027946-03" id="3"/><rel type="=構" target="ギアナ" sid="wiki00027946-03" id="3"/><体言>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="名称" sid="wiki00027946-03" id="4"/><rel type="ニツイテ" target="フランセーズ" sid="wiki00027946-00" id="1"/>
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="名称" sid="wiki00027946-03" id="4"/><rel type="ニツイテ" target="フランセーズ" sid="wiki00027946-00" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 記載 きさい 記載 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -10,26 +10,26 @@
 * 3D
 + 3D <体言><NE:LOCATION:イラク>
 イラク いらく イラク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4D <体言><rel type="時間" target="現在" sid="wiki00023110-00-01" id="1"/><rel type="ノ" target="イラク" sid="wiki00023110-00-01" id="2"/>
++ 4D <rel type="時間" target="現在" sid="wiki00023110-00-01" id="1"/><rel type="ノ" target="イラク" sid="wiki00023110-00-01" id="2"/><体言>
 北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="地域" sid="wiki00023110-00-01" id="5"/><rel type="ヲ" target="北部" sid="wiki00023110-00-01" id="3"/>
++ 5D <rel type="ガ" target="地域" sid="wiki00023110-00-01" id="5"/><rel type="ヲ" target="北部" sid="wiki00023110-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
 占める しめる 占める 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 7P
-+ 8P <体言><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/>
++ 8P <rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 または または または 接続詞 10 * 0 * 0 * 0 NIL
 * 6D
-+ 7D <体言><rel type="=" target="地域" sid="wiki00023110-00-01" id="5"/>
++ 7D <rel type="=" target="地域" sid="wiki00023110-00-01" id="5"/><体言>
 そこ そこ そこ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <用言:動><時制:過去><節-主辞><rel type="ガ" target="王国" sid="wiki00023110-00-01" id="8"/><rel type="ニ" target="そこ" sid="wiki00023110-00-01" id="6"/>
++ 8D <rel type="ガ" target="王国" sid="wiki00023110-00-01" id="8"/><rel type="ニ" target="そこ" sid="wiki00023110-00-01" id="6"/><用言:動><時制:過去><節-主辞>
 興った おこった 興る 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="興った" sid="wiki00023110-00-01" id="7"/>
++ -1D <rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="修飾" target="興った" sid="wiki00023110-00-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -42,11 +42,11 @@ EOS
 * -1D
 + 1D <体言><NE:OPTIONAL:アラビア><NE-OPTIONAL:LOCATION,NONE:0>
 アラビア あらびあ アラビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 2D <体言><rel type="ノ？" target="アラビア" sid="wiki00023110-00-03" id="0"/><rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/>
++ 2D <rel type="ノ？" target="アラビア" sid="wiki00023110-00-03" id="0"/><rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><NE:LOCATION:اشور><rel type="デ" target="語" sid="wiki00023110-00-03" id="1"/><rel type="=" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" mode="AND" target="語" sid="wiki00023110-00-03" id="1"/>
++ -1D <rel type="デ" target="語" sid="wiki00023110-00-03" id="1"/><rel type="=" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" mode="AND" target="語" sid="wiki00023110-00-03" id="1"/><体言><NE:LOCATION:اشور>
 اشور اشور اشور 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00023110-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2025/05/15 MEMO:
@@ -56,17 +56,17 @@ EOS
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" target="アッシュール市" sid="wiki00023110-01" id="0"/>
++ 2D <rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" target="アッシュール市" sid="wiki00023110-01" id="0"/><体言>
 中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P <用言:動><節-主辞><節-区切><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ヲ" target="アッシュール市" sid="wiki00023110-01" id="0"/><rel type="ト" target="中核" sid="wiki00023110-01" id="1"/>
++ 9P <rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ヲ" target="アッシュール市" sid="wiki00023110-01" id="0"/><rel type="ト" target="中核" sid="wiki00023110-01" id="1"/><用言:動><節-主辞><節-区切>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 4D <体言>
 帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 9D <体言><rel type="ノ" target="帝国" sid="wiki00023110-01" id="3"/><NE:OPTIONAL:帝国期><NE-OPTIONAL:DATE,NONE:0>
++ 9D <rel type="ノ" target="帝国" sid="wiki00023110-01" id="3"/><体言><NE:OPTIONAL:帝国期><NE-OPTIONAL:DATE,NONE:0>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -79,14 +79,14 @@ EOS
 ニムルド にむるど ニムルド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" target="ニネヴェ" sid="wiki00023110-01" id="5"/><rel type="=構" mode="AND" target="ニムルド" sid="wiki00023110-01" id="6"/>
++ 8D <rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="=構" target="ニネヴェ" sid="wiki00023110-01" id="5"/><rel type="=構" mode="AND" target="ニムルド" sid="wiki00023110-01" id="6"/><体言>
 都 みやこ 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 9D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="ニネヴェ" sid="wiki00023110-01" id="5"/><rel type="ガ" mode="AND" target="ニムルド" sid="wiki00023110-01" id="6"/><rel type="トシテ" target="都" sid="wiki00023110-01" id="7"/>
++ -1D <rel type="ガ" target="ニネヴェ" sid="wiki00023110-01" id="5"/><rel type="ガ" mode="AND" target="ニムルド" sid="wiki00023110-01" id="6"/><rel type="トシテ" target="都" sid="wiki00023110-01" id="7"/><用言:動><時制:過去><節-主辞><節-区切>
 機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -95,7 +95,7 @@ EOS
 * 1D
 + 1D <体言>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="修飾" target="歴史" sid="wiki00023110-02" id="0"/><rel type="ガ" target="名称" sid="wiki00023110-02" id="2"/>
++ 2D <rel type="修飾" target="歴史" sid="wiki00023110-02" id="0"/><rel type="ガ" target="名称" sid="wiki00023110-02" id="2"/><体言>
 地理 ちり 地理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 + 3D <体言>
@@ -106,7 +106,7 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 14D <体言><rel type="トシテ" target="名称" sid="wiki00023110-02" id="2"/><NE:LOCATION:アッシリア><rel type="=構" target="名称" sid="wiki00023110-02" id="2"/><rel type="=≒" mode="AND" target="アッシリア" sid="wiki00023110-00-01" id="0"/>
++ 14D <rel type="トシテ" target="名称" sid="wiki00023110-02" id="2"/><rel type="=構" target="名称" sid="wiki00023110-02" id="2"/><rel type="=≒" mode="AND" target="アッシリア" sid="wiki00023110-00-01" id="0"/><体言><NE:LOCATION:アッシリア>
 アッシリア あっしりあ アッシリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
@@ -122,9 +122,9 @@ EOS
 川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D <体言><rel type="ノ" target="川" sid="wiki00023110-02" id="6"/><rel type="ノ" mode="AND" target="川" sid="wiki00023110-02" id="8"/>
++ 10D <rel type="ノ" target="川" sid="wiki00023110-02" id="6"/><rel type="ノ" mode="AND" target="川" sid="wiki00023110-02" id="8"/><体言>
 上流 じょうりゅう 上流 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ノ" target="川" sid="wiki00023110-02" id="6"/><rel type="ノ" mode="AND" target="川" sid="wiki00023110-02" id="8"/><rel type="ノ？" target="上流" sid="wiki00023110-02" id="9"/>
++ 13D <rel type="ノ" target="川" sid="wiki00023110-02" id="6"/><rel type="ノ" mode="AND" target="川" sid="wiki00023110-02" id="8"/><rel type="ノ？" target="上流" sid="wiki00023110-02" id="9"/><体言>
 域 いき 域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
@@ -135,28 +135,28 @@ EOS
 メソポタミア めそぽたみあ メソポタミア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 14D <体言><rel type="=" target="域" sid="wiki00023110-02" id="10"/><rel type="ノ" target="メソポタミア" sid="wiki00023110-02" id="12"/>
++ 14D <rel type="=" target="域" sid="wiki00023110-02" id="10"/><rel type="ノ" target="メソポタミア" sid="wiki00023110-02" id="12"/><体言>
 北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 19P <用言:動><節-主辞><節-区切><rel type="ガ" target="アッシリア" sid="wiki00023110-02" id="4"/><rel type="ヲ" target="北部" sid="wiki00023110-02" id="13"/>
++ 19P <rel type="ガ" target="アッシリア" sid="wiki00023110-02" id="4"/><rel type="ヲ" target="北部" sid="wiki00023110-02" id="13"/><用言:動><節-主辞><節-区切>
 指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 16D <体言><NE:LOCATION:メソポタミア><rel type="=" target="メソポタミア" sid="wiki00023110-02" id="12"/>
++ 16D <rel type="=" target="メソポタミア" sid="wiki00023110-02" id="12"/><体言><NE:LOCATION:メソポタミア>
 メソポタミア めそぽたみあ メソポタミア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 19D <体言><rel type="ノ" target="メソポタミア" sid="wiki00023110-02" id="15"/>
++ 19D <rel type="ノ" target="メソポタミア" sid="wiki00023110-02" id="15"/><体言>
 南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13D
 + 19D
 一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 13D
-+ 19D <体言><NE:LOCATION:バビロニア><rel type="=構" target="南部" sid="wiki00023110-02" id="16"/>
++ 19D <rel type="=構" target="南部" sid="wiki00023110-02" id="16"/><体言><NE:LOCATION:バビロニア>
 バビロニア ばびろにあ バビロニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="南部" sid="wiki00023110-02" id="16"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="バビロニア" sid="wiki00023110-02" id="18"/>
++ -1D <rel type="ガ" target="南部" sid="wiki00023110-02" id="16"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="バビロニア" sid="wiki00023110-02" id="18"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -177,33 +177,33 @@ EOS
 エジプト えじぷと エジプト 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="帝国" sid="wiki00023110-03-01" id="6"/><rel type="ヲ" target="エジプト" sid="wiki00023110-03-01" id="3"/><rel type="ヲ" mode="AND" target="シリア" sid="wiki00023110-03-01" id="2"/><rel type="ヲ" mode="AND" target="メソポタミア" sid="wiki00023110-03-01" id="1"/>
++ 6D <rel type="ガ" target="帝国" sid="wiki00023110-03-01" id="6"/><rel type="ヲ" target="エジプト" sid="wiki00023110-03-01" id="3"/><rel type="ヲ" mode="AND" target="シリア" sid="wiki00023110-03-01" id="2"/><rel type="ヲ" mode="AND" target="メソポタミア" sid="wiki00023110-03-01" id="1"/><用言:動><時制:非過去><節-主辞>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 * 4D
 + 6D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="=" target="帝国" sid="wiki00023110-01" id="3"/><rel type="修飾" target="世界" sid="wiki00023110-03-01" id="5"/>
++ 7D <rel type="=" target="帝国" sid="wiki00023110-01" id="3"/><rel type="修飾" target="世界" sid="wiki00023110-03-01" id="5"/><体言>
 帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 17P <用言:動><節-主辞><節-区切><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ヲ" target="帝国" sid="wiki00023110-03-01" id="6"/>
++ 17P <rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ヲ" target="帝国" sid="wiki00023110-03-01" id="6"/><用言:動><節-主辞><節-区切>
 築き きずき 築く 動詞 2 * 0 子音動詞カ行 2 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 9D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 12D <体言><rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/>
++ 12D <rel type="ノ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><体言>
 遺産 いさん 遺産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 11D <体言><NE:PERSON:ハカーマニシュ><memo text="アケメネスの古代ペルシア語読み"/>
++ 11D <memo text="アケメネスの古代ペルシア語読み"/><体言><NE:PERSON:ハカーマニシュ>
 ハカーマニシュ はかーまにしゅ ハカーマニシュ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ 12D <体言><rel type="ノ？" target="ハカーマニシュ" sid="wiki00023110-03-01" id="10"/>
++ 12D <rel type="ノ？" target="ハカーマニシュ" sid="wiki00023110-03-01" id="10"/><体言>
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 17D <用言:動><節-主辞><節-区切><rel type="ガ" target="遺産" sid="wiki00023110-03-01" id="9"/><rel type="ニ" target="朝" sid="wiki00023110-03-01" id="12"/>
++ 17D <rel type="ガ" target="遺産" sid="wiki00023110-03-01" id="9"/><rel type="ニ" target="朝" sid="wiki00023110-03-01" id="11"/><用言:動><節-主辞><節-区切>
 受け うけ 受ける 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 継が つが 継ぐ 動詞 2 * 0 子音動詞ガ行 4 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -211,32 +211,32 @@ EOS
 + 15D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 11P
-+ 15P <体言><rel type="ノ？" target="朝" sid="wiki00023110-03-01" id="12"/>
++ 15P <rel type="ノ？" target="朝" sid="wiki00023110-03-01" id="11"/><体言>
 王権 おうけん 王権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 17D <体言><rel type="ノ？" target="朝" sid="wiki00023110-03-01" id="12"/>
++ 17D <rel type="ノ？" target="朝" sid="wiki00023110-03-01" id="11"/><体言>
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 17D <体言><非用言格解析:動><rel type="ニ" target="王権" sid="wiki00023110-03-01" id="15"/><rel type="ニ" mode="AND" target="社会" sid="wiki00023110-03-01" id="16"/><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/>
++ 17D <rel type="ニ" target="王権" sid="wiki00023110-03-01" id="14"/><rel type="ニ" mode="AND" target="社会" sid="wiki00023110-03-01" id="15"/><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><体言><非用言格解析:動>
 影響 えいきょう 影響 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ニ" target="王権" sid="wiki00023110-03-01" id="15"/><rel type="ニ" mode="AND" target="社会" sid="wiki00023110-03-01" id="16"/><rel type="ヲ" target="影響" sid="wiki00023110-03-01" id="17"/>
++ -1D <rel type="ガ" target="アッシリア" sid="wiki00023110-00-01" id="0"/><rel type="ニ" target="王権" sid="wiki00023110-03-01" id="14"/><rel type="ニ" mode="AND" target="社会" sid="wiki00023110-03-01" id="15"/><rel type="ヲ" target="影響" sid="wiki00023110-03-01" id="16"/><用言:動><時制:過去><節-主辞><節-区切>
 与えた あたえた 与える 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023110-03-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/15 MEMO:
 * 1D
-+ 1D <体言><NE:PERSON:アケメネス><rel type="=" target="ハカーマニシュ" sid="wiki00023110-03-01" id="10"/>
++ 1D <rel type="=" target="ハカーマニシュ" sid="wiki00023110-03-01" id="10"/><体言><NE:PERSON:アケメネス>
 アケメネス あけめねす アケメネス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ 3D <体言><rel type="=" target="朝" sid="wiki00023110-03-01" id="11"/><rel type="ノ？" target="アケメネス" sid="wiki00023110-03-02" id="0"/>
++ 3D <rel type="=" target="朝" sid="wiki00023110-03-01" id="11"/><rel type="ノ？" target="アケメネス" sid="wiki00023110-03-02" id="0"/><体言>
 朝 ちょう 朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 3D <体言>
 ペルシア ぺるしあ ペルシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <NE:LOCATION:ペルシア帝国><体言><rel type="=≒" target="朝" sid="wiki00023110-03-01" id="11"/>
++ -1D <rel type="=≒" target="朝" sid="wiki00023110-03-01" id="11"/><NE:LOCATION:ペルシア帝国><体言>
 帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS

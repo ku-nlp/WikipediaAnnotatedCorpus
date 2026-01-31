@@ -1,8 +1,8 @@
 # S-ID:wiki00024179-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:46.00000 MOD:2025/05/22 MEMO:
 * 8D
-+ 1D <体言><非用言格解析:形><rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/>
++ 1D <rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/><体言><非用言格解析:形>
 不法 ふほう 不法だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="不法" sid="wiki00024179-00-01" id="0"/>
++ 9D <rel type="修飾" target="不法" sid="wiki00024179-00-01" id="0"/><体言>
 行為 こうい 行為 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -23,18 +23,18 @@
 権利 けんり 権利 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ないし ないし ないし 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="ノ？" target="他人" sid="wiki00024179-00-01" id="4"/>
++ 8D <rel type="ノ？" target="他人" sid="wiki00024179-00-01" id="4"/><体言>
 利益 りえき 利益 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <用言:形><時制:非過去><rel type="ガ" target="侵害する" sid="wiki00024179-00-01" id="8"/>
++ 8D <rel type="ガ" target="侵害する" sid="wiki00024179-00-01" id="8"/><用言:形><時制:非過去>
 違法に いほうに 違法だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 8D
-+ 9D <rel type="ガ" target="者" sid="wiki00024179-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="権利" sid="wiki00024179-00-01" id="5"/><rel type="ヲ" mode="AND" target="利益" sid="wiki00024179-00-01" id="6"/><rel type="外の関係" target="行為" sid="wiki00024179-00-01" id="9"/>
++ 9D <rel type="ガ" target="者" sid="wiki00024179-00-01" id="3"/><rel type="ヲ" target="権利" sid="wiki00024179-00-01" id="5"/><rel type="ヲ" mode="AND" target="利益" sid="wiki00024179-00-01" id="6"/><rel type="外の関係" target="行為" sid="wiki00024179-00-01" id="9"/><用言:動><時制:非過去><節-主辞>
 侵害 しんがい 侵害 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="トイウ" target="侵害する" sid="wiki00024179-00-01" id="8"/><rel type="=構" target="行為" sid="wiki00024179-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/><rel type="トイウ" target="侵害する" sid="wiki00024179-00-01" id="8"/><rel type="=構" target="行為" sid="wiki00024179-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 行為 こうい 行為 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -60,7 +60,7 @@ EOS
 * 4D
 + 4D <体言>
 加害 かがい 加害 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="加害" sid="wiki00024179-01" id="3"/><rel type="=" target="者" sid="wiki00024179-00-01" id="3"/>
++ 5D <rel type="ノ？" target="加害" sid="wiki00024179-01" id="3"/><rel type="=" target="者" sid="wiki00024179-00-01" id="3"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -69,30 +69,30 @@ EOS
 * 6D
 + 7D <体言>
 被害 ひがい 被害 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=" target="他人" sid="wiki00024179-00-01" id="4"/><rel type="ノ？" target="被害" sid="wiki00024179-01" id="6"/>
++ 8D <rel type="=" target="他人" sid="wiki00024179-00-01" id="4"/><rel type="ノ？" target="被害" sid="wiki00024179-01" id="6"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <体言><非用言格解析:動><rel type="ノ？" target="者" sid="wiki00024179-01" id="7"/>
++ 9D <rel type="ノ？" target="者" sid="wiki00024179-01" id="7"/><体言><非用言格解析:動>
 損害 そんがい 損害 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="者" sid="wiki00024179-01" id="4"/><rel type="ヲ" target="損害" sid="wiki00024179-01" id="8"/><rel type="ニ" target="者" sid="wiki00024179-01" id="7"/><用言:動><節-主辞><rel type="外の関係" target="債務" sid="wiki00024179-01" id="10"/>
++ 10D <rel type="ガ" target="者" sid="wiki00024179-01" id="4"/><rel type="ヲ" target="損害" sid="wiki00024179-01" id="8"/><rel type="ニ" target="者" sid="wiki00024179-01" id="7"/><rel type="外の関係" target="債務" sid="wiki00024179-01" id="10"/><用言:動><節-主辞>
 賠償 ばいしょう 賠償 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 す す する 動詞 2 * 0 サ変動詞 16 文語基本形 18 NIL
 べき べき べし 助動詞 5 * 0 助動詞く型 30 文語連体形 4 NIL
 * 9D
-+ 11D <体言><rel type="修飾" target="賠償すべき" sid="wiki00024179-01" id="9"/>
++ 11D <rel type="修飾" target="賠償すべき" sid="wiki00024179-01" id="9"/><体言>
 債務 さいむ 債務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="債務" sid="wiki00024179-01" id="10"/><用言:動><時制:非過去><節-主辞><rel type="ニタイシテ" target="者" sid="wiki00024179-01" id="4"/><rel type="外の関係" target="制度" sid="wiki00024179-01" id="13"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="債務" sid="wiki00024179-01" id="10"/><rel type="ニタイシテ" target="者" sid="wiki00024179-01" id="4"/><rel type="外の関係" target="制度" sid="wiki00024179-01" id="13"/><用言:動><時制:非過去><節-主辞>
 負わ おわ 負う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
 + 13D <体言>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="行為" sid="wiki00024179-00-01" id="1"/><rel type="トイウ" target="負わせる" sid="wiki00024179-01" id="11"/><rel type="ノ？" target="法" sid="wiki00024179-01" id="12"/>
++ -1D <rel type="ガ" target="行為" sid="wiki00024179-00-01" id="1"/><rel type="=構" target="行為" sid="wiki00024179-00-01" id="1"/><rel type="トイウ" target="負わせる" sid="wiki00024179-01" id="11"/><rel type="ノ？" target="法" sid="wiki00024179-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -16,15 +16,15 @@ A えー A 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 6P <体言><非用言格解析:動><rel type="ト" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ト" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/><rel type="=" target="M" sid="wiki00039229-00-01" id="0"/><rel type="ガ" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ガ" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/>
++ 6P <rel type="ト" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ト" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/><rel type="=" target="M" sid="wiki00039229-00-01" id="0"/><rel type="ガ" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ガ" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/><体言><非用言格解析:動>
 合併 がっぺい 合併 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <体言><非用言格解析:動><rel type="ヲ" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/><rel type="=" target="A" sid="wiki00039229-00-01" id="2"/><rel type="ガ" target="企業" sid="wiki00039229-00-01" id="3"/>
++ 7D <rel type="ヲ" target="企業" sid="wiki00039229-00-01" id="3"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00039229-00-01" id="4"/><rel type="=" target="A" sid="wiki00039229-00-01" id="2"/><rel type="ガ" target="企業" sid="wiki00039229-00-01" id="3"/><体言><非用言格解析:動>
 買収 ばいしゅう 買収 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="A" sid="wiki00039229-00-01" id="2"/><rel type="ノ" target="買収" sid="wiki00039229-00-01" id="6"/><rel type="ノ" mode="AND" target="合併" sid="wiki00039229-00-01" id="5"/><rel type="=構" target="A" sid="wiki00039229-00-01" id="2"/>
++ -1D <rel type="ガ" target="A" sid="wiki00039229-00-01" id="2"/><rel type="ノ" target="買収" sid="wiki00039229-00-01" id="6"/><rel type="ノ" mode="AND" target="合併" sid="wiki00039229-00-01" id="5"/><rel type="=構" target="A" sid="wiki00039229-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -39,13 +39,13 @@ EOS
 エー えー エー 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><rel type="=" target="M" sid="wiki00039229-00-01" id="0"/>
++ 4D <rel type="=" target="M" sid="wiki00039229-00-01" id="0"/><体言>
 Mergers Mergers Mergers 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><非用言格解析:動><rel type="=" target="合併" sid="wiki00039229-00-01" id="5"/><rel type="=" mode="AND" target="Mergers" sid="wiki00039229-00-02" id="3"/>
++ 7D <rel type="=" target="合併" sid="wiki00039229-00-01" id="5"/><rel type="=" mode="AND" target="Mergers" sid="wiki00039229-00-02" id="3"/><体言><非用言格解析:動>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
 合併 がっぺい 合併 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
-+ 6D <体言><rel type="=" target="&" sid="wiki00039229-00-01" id="1"/>
++ 6D <rel type="=" target="&" sid="wiki00039229-00-01" id="1"/><体言>
 and and and 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 7D <rel type="=" target="A" sid="wiki00039229-00-01" id="2"/><体言>

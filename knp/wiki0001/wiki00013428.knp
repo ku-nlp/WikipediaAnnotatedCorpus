@@ -1,19 +1,19 @@
 # S-ID:wiki00013428-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/12/01 MEMO:
 * 3D
-+ 1D <体言><memo text="陽電子"/>
++ 1D <memo text="陽電子"/><体言>
 ポジトロン ぽじとろん ポジトロン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="修飾" target="ポジトロン" sid="wiki00013428-00-01" id="0"/>
++ 2D <rel type="修飾" target="ポジトロン" sid="wiki00013428-00-01" id="0"/><体言>
 断層 だんそう 断層 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ" target="断層" sid="wiki00013428-00-01" id="1"/>
++ 10D <rel type="ノ" target="断層" sid="wiki00013428-00-01" id="1"/><体言>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 4D <体言>
 陽 よう 陽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="陽" sid="wiki00013428-00-01" id="3"/><rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/>
++ 5D <rel type="修飾" target="陽" sid="wiki00013428-00-01" id="3"/><rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/><体言>
 電子 でんし 電子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:物"/><rel type="ヲ" target="電子" sid="wiki00013428-00-01" id="4"/>
++ 6D <rel type="ガ" target="不特定:物"/><rel type="ヲ" target="電子" sid="wiki00013428-00-01" id="4"/><体言><非用言格解析:動>
 検出 けんしゅつ 検出 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -23,18 +23,18 @@
 * -1D
 + 9D <体言>
 コンピューター こんぴゅーたー コンピューター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="=" target="断層" sid="wiki00013428-00-01" id="1"/>
++ 9D <rel type="=" target="断層" sid="wiki00013428-00-01" id="1"/><体言>
 断層 だんそう 断層 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="修飾" target="コンピューター" sid="wiki00013428-00-01" id="7"/><rel type="修飾" mode="AND" target="断層" sid="wiki00013428-00-01" id="8"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="修飾" target="コンピューター" sid="wiki00013428-00-01" id="7"/><rel type="修飾" mode="AND" target="断層" sid="wiki00013428-00-01" id="8"/><体言><非用言格解析:動>
 撮影 さつえい 撮影 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="法" sid="wiki00013428-00-01" id="2"/><rel type="=構" target="法" sid="wiki00013428-00-01" id="2"/><rel type="ノ？" target="撮影" sid="wiki00013428-00-01" id="9"/>
++ -1D <rel type="ガ" target="法" sid="wiki00013428-00-01" id="2"/><rel type="=構" target="法" sid="wiki00013428-00-01" id="2"/><rel type="ノ？" target="撮影" sid="wiki00013428-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 技術 ぎじゅつ 技術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013428-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-7.00000 MOD:2025/12/01 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/>
++ 1D <rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/><体言>
 ポジトロン ぽじとろん ポジトロン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="断層" sid="wiki00013428-00-01" id="1"/><体言>
 だんそう だんそう だんそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -42,7 +42,7 @@ EOS
 ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/>
++ 4D <rel type="=" target="ポジトロン" sid="wiki00013428-00-01" id="0"/><体言>
 positron positron positron 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 5D <memo text="排出"/><体言>
@@ -51,7 +51,7 @@ emission emission emission 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞
 + 6D <rel type="=" target="法" sid="wiki00013428-00-01" id="2"/><memo text="断層撮影"/><体言>
 tomography tomography tomography 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="法" sid="wiki00013428-00-01" id="2"/><rel type="=" mode="AND" target="tomography" sid="wiki00013428-00-02" id="5"/>
++ -1D <rel type="=" target="法" sid="wiki00013428-00-01" id="2"/><rel type="=" mode="AND" target="tomography" sid="wiki00013428-00-02" id="5"/><体言>
 PET PET/ぺっと PET 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013428-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:128.00000 MOD:2025/12/01 MEMO:
@@ -67,54 +67,54 @@ MRI MRI MRI 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 4D
-+ 4D <体言><非用言格解析:動><rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/>
++ 4D <rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/><体言><非用言格解析:動>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <体言><rel type="ノ" target="組織" sid="wiki00013428-01" id="3"/>
++ 5D <rel type="ノ" target="組織" sid="wiki00013428-01" id="3"/><体言>
 形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <用言:動><時制:非過去><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="形態" sid="wiki00013428-01" id="4"/><rel type="外の関係" target="ため" sid="wiki00013428-01" id="6"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="形態" sid="wiki00013428-01" id="4"/><rel type="外の関係" target="ため" sid="wiki00013428-01" id="6"/><用言:動><時制:非過去>
 観察 かんさつ 観察 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 8D <体言><rel type="ノ" target="観察する" sid="wiki00013428-01" id="5"/>
++ 8D <rel type="ノ" target="観察する" sid="wiki00013428-01" id="5"/><体言>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 18P
-+ 8D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
 検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <用言:判><体言><時制:非過去><節-主辞><rel type="ガ" target="CT" sid="wiki00013428-01" id="0"/><rel type="ガ" mode="AND" target="MRI" sid="wiki00013428-01" id="1"/><rel type="修飾" target="ため" sid="wiki00013428-01" id="6"/><rel type="ノ？" target="検査" sid="wiki00013428-01" id="7"/><rel type="=構" target="CT" sid="wiki00013428-01" id="0"/><rel type="=構" mode="AND" target="MRI" sid="wiki00013428-01" id="1"/><rel type="外の関係" target="の" sid="wiki00013428-01" id="9"/>
++ 9D <rel type="ガ" target="CT" sid="wiki00013428-01" id="0"/><rel type="ガ" mode="AND" target="MRI" sid="wiki00013428-01" id="1"/><rel type="修飾" target="ため" sid="wiki00013428-01" id="6"/><rel type="ノ？" target="検査" sid="wiki00013428-01" id="7"/><rel type="=構" target="CT" sid="wiki00013428-01" id="0"/><rel type="=構" mode="AND" target="MRI" sid="wiki00013428-01" id="1"/><rel type="外の関係" target="の" sid="wiki00013428-01" id="9"/><用言:判><体言><時制:非過去><節-主辞>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
-+ 23P <体言><rel type="トイウ" target="法である" sid="wiki00013428-01" id="8"/>
++ 23P <rel type="トイウ" target="法である" sid="wiki00013428-01" id="8"/><体言>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 対し たいし 対する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18D
-+ 23D <体言><rel type="=" target="PET" sid="wiki00013428-00-02" id="6"/>
++ 23D <rel type="=" target="PET" sid="wiki00013428-00-02" id="6"/><体言>
 PET PET/ぺっと PET 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
-+ 15D <体言><memo text="単一光子放射断層撮影"/>
++ 15D <memo text="単一光子放射断層撮影"/><体言>
 SPECT すぺくと SPECT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
-+ 15D <体言><rel type="ノ" target="PET" sid="wiki00013428-01" id="10"/>
++ 15D <rel type="ノ" target="PET" sid="wiki00013428-01" id="10"/><体言>
 他 た/ほか 他 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
 + 14D <体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="修飾" target="核" sid="wiki00013428-01" id="13"/>
++ 15D <rel type="修飾" target="核" sid="wiki00013428-01" id="13"/><体言>
 医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 16D <体言><非用言格解析:動><rel type="=≒" target="SPECT" sid="wiki00013428-01" id="11"/><rel type="修飾" target="他" sid="wiki00013428-01" id="12"/><rel type="修飾" mode="AND" target="医学" sid="wiki00013428-01" id="14"/>
++ 16D <rel type="=≒" target="SPECT" sid="wiki00013428-01" id="11"/><rel type="修飾" target="他" sid="wiki00013428-01" id="12"/><rel type="修飾" mode="AND" target="医学" sid="wiki00013428-01" id="14"/><体言><非用言格解析:動>
 検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 21D <用言:形><時制:非過去><rel type="ト" target="検査" sid="wiki00013428-01" id="15"/><rel type="ガ" target="特化した" sid="wiki00013428-01" id="21"/>
++ 21D <rel type="ト" target="検査" sid="wiki00013428-01" id="15"/><rel type="ガ" target="特化した" sid="wiki00013428-01" id="21"/><用言:形><時制:非過去>
 同様に どうように 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
@@ -122,25 +122,25 @@ SPECT すぺくと SPECT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 生体 せいたい 生体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 19D <体言><非用言格解析:動><rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/><rel type="ガ" target="生体" sid="wiki00013428-01" id="17"/>
++ 19D <rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/><rel type="ガ" target="生体" sid="wiki00013428-01" id="17"/><体言><非用言格解析:動>
 機能 きのう 機能 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 20D <用言:動><時制:非過去><節-主辞><rel type="ヲ" target="機能" sid="wiki00013428-01" id="18"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00013428-01" id="20"/>
++ 20D <rel type="ヲ" target="機能" sid="wiki00013428-01" id="18"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="こと" sid="wiki00013428-01" id="20"/><用言:動><時制:非過去><節-主辞>
 観察 かんさつ 観察 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 17D
-+ 21D <体言><rel type="トイウ" target="観察する" sid="wiki00013428-01" id="19"/>
++ 21D <rel type="トイウ" target="観察する" sid="wiki00013428-01" id="19"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 23D <用言:動><時制:過去><節-主辞><rel type="ニ" target="こと" sid="wiki00013428-01" id="20"/><rel type="ガ" target="法" sid="wiki00013428-01" id="23"/>
++ 23D <rel type="ニ" target="こと" sid="wiki00013428-01" id="20"/><rel type="ガ" target="法" sid="wiki00013428-01" id="23"/><用言:動><時制:過去><節-主辞>
 特化 とっか 特化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 23D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="検査" sid="wiki00013428-01" id="7"/>
++ 23D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><rel type="=" target="検査" sid="wiki00013428-01" id="7"/><体言><非用言格解析:動>
 検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ニタイシテ" target="の" sid="wiki00013428-01" id="9"/><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="修飾" target="特化した" sid="wiki00013428-01" id="21"/><rel type="ノ？" target="検査" sid="wiki00013428-01" id="22"/><rel type="=構" target="PET" sid="wiki00013428-01" id="10"/>
++ -1D <rel type="ニタイシテ" target="の" sid="wiki00013428-01" id="9"/><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="修飾" target="特化した" sid="wiki00013428-01" id="21"/><rel type="ノ？" target="検査" sid="wiki00013428-01" id="22"/><rel type="=構" target="PET" sid="wiki00013428-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -152,26 +152,26 @@ EOS
 * 2D
 + 2D <体言>
 中枢 ちゅうすう 中枢 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="修飾" target="中枢" sid="wiki00013428-02" id="1"/>
++ 3D <rel type="修飾" target="中枢" sid="wiki00013428-02" id="1"/><体言>
 神経 しんけい 神経 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/><rel type="ノ" mode="AND" target="神経" sid="wiki00013428-02" id="2"/>
++ 5D <rel type="ノ" target="生体" sid="wiki00013428-01" id="17"/><rel type="ノ" mode="AND" target="神経" sid="wiki00013428-02" id="2"/><体言>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 5D <体言><非用言格解析:動>
 代謝 たいしゃ 代謝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="=≒" target="機能" sid="wiki00013428-01" id="18"/><rel type="ノ？" target="系" sid="wiki00013428-02" id="3"/><rel type="修飾" target="代謝" sid="wiki00013428-02" id="4"/>
++ 6D <rel type="=≒" target="機能" sid="wiki00013428-01" id="18"/><rel type="ノ？" target="系" sid="wiki00013428-02" id="3"/><rel type="修飾" target="代謝" sid="wiki00013428-02" id="4"/><体言>
 レベル れべる レベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="レベル" sid="wiki00013428-02" id="5"/><rel type="外の関係" target="の" sid="wiki00013428-02" id="7"/><rel type="=≒" target="観察する" sid="wiki00013428-01" id="19"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="レベル" sid="wiki00013428-02" id="5"/><rel type="外の関係" target="の" sid="wiki00013428-02" id="7"/><rel type="=≒" target="観察する" sid="wiki00013428-01" id="19"/><用言:動><時制:非過去><節-主辞>
 観察 かんさつ 観察 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 + 8D <rel type="トイウ" target="観察する" sid="wiki00013428-02" id="6"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15P
-+ 22P <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="の" sid="wiki00013428-02" id="7"/>
++ 22P <rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="の" sid="wiki00013428-02" id="7"/><用言:動><時制:過去><節-主辞><節-区切>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10 NIL
@@ -193,36 +193,36 @@ EOS
 * 9D
 + 14D <体言>
 糖 とう 糖 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><非用言格解析:動><rel type="=≒" target="代謝" sid="wiki00013428-02" id="4"/><rel type="ノ？" target="糖" sid="wiki00013428-02" id="13"/>
++ 15D <rel type="=≒" target="代謝" sid="wiki00013428-02" id="4"/><rel type="ノ？" target="糖" sid="wiki00013428-02" id="13"/><体言><非用言格解析:動>
 代謝 たいしゃ 代謝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 16D <体言><rel type="ニオイテ" target="組織" sid="wiki00013428-02" id="11"/><rel type="=≒" target="レベル" sid="wiki00013428-02" id="5"/><rel type="修飾" target="代謝" sid="wiki00013428-02" id="14"/>
++ 16D <rel type="ニオイテ" target="組織" sid="wiki00013428-02" id="11"/><rel type="=≒" target="レベル" sid="wiki00013428-02" id="5"/><rel type="修飾" target="代謝" sid="wiki00013428-02" id="14"/><体言>
 レベル れべる レベル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 17D <体言><非用言格解析:動><rel type="ガ" target="レベル" sid="wiki00013428-02" id="15"/>
++ 17D <rel type="ガ" target="レベル" sid="wiki00013428-02" id="15"/><体言><非用言格解析:動>
 上昇 じょうしょう 上昇 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 18D <用言:動><時制:非過去><節-主辞><rel type="ヲ" target="上昇" sid="wiki00013428-02" id="16"/><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="外の関係" target="こと" sid="wiki00013428-02" id="18"/>
++ 18D <rel type="ヲ" target="上昇" sid="wiki00013428-02" id="16"/><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="外の関係" target="こと" sid="wiki00013428-02" id="18"/><用言:動><時制:非過去><節-主辞>
 検出 けんしゅつ 検出 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 12D
-+ 19D <体言><rel type="トイウ" target="検出する" sid="wiki00013428-02" id="17"/>
++ 19D <rel type="トイウ" target="検出する" sid="wiki00013428-02" id="17"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 22D <用言:動>
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 14D
-+ 21D <体言><rel type="=≒" target="腫瘍" sid="wiki00013428-02" id="10"/>
++ 21D <rel type="=≒" target="腫瘍" sid="wiki00013428-02" id="10"/><体言>
 癌 がん 癌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 22D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="癌" sid="wiki00013428-02" id="20"/>
++ 22D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="癌" sid="wiki00013428-02" id="20"/><体言><非用言格解析:動>
 診断 しんだん 診断 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="時間" target="近年" sid="wiki00013428-02" id="9"/><rel type="ニヨッテ" target="こと" sid="wiki00013428-02" id="18"/><rel type="ニ" target="診断" sid="wiki00013428-02" id="21"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ -1D <rel type="ガ" target="PET" sid="wiki00013428-01" id="10"/><rel type="時間" target="近年" sid="wiki00013428-02" id="9"/><rel type="ニヨッテ" target="こと" sid="wiki00013428-02" id="18"/><rel type="ニ" target="診断" sid="wiki00013428-02" id="21"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切>
 利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -237,41 +237,41 @@ EOS
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/>
++ 2D <rel type="ガ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><体言><非用言格解析:動>
 被曝 ひばく 被曝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="被曝" sid="wiki00013428-03" id="1"/><rel type="ヘ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/>
++ 5D <rel type="ノ？" target="被曝" sid="wiki00013428-03" id="1"/><rel type="ヘ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><体言>
 量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="=" target="CT" sid="wiki00013428-01" id="0"/>
++ 4D <rel type="=" target="CT" sid="wiki00013428-01" id="0"/><体言>
 CT CT CT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <用言:動>
 比べて くらべて 比べる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 8P
-+ 11P <用言:形><時制:非過去><節-主辞><節-区切><rel type="ガ" target="量" sid="wiki00013428-03" id="2"/><rel type="ニクラベテ" target="CT" sid="wiki00013428-03" id="3"/>
++ 11P <rel type="ガ" target="量" sid="wiki00013428-03" id="2"/><rel type="ニクラベテ" target="CT" sid="wiki00013428-03" id="3"/><用言:形><時制:非過去><節-主辞><節-区切>
 少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D <体言>
 医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="医療" sid="wiki00013428-03" id="6"/>
++ 9D <rel type="修飾" target="医療" sid="wiki00013428-03" id="6"/><体言>
 スタッフ すたっふ スタッフ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <体言><非用言格解析:動><rel type="ガ" target="スタッフ" sid="wiki00013428-03" id="7"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><rel type="=" target="被曝" sid="wiki00013428-03" id="1"/>
++ 9D <rel type="ガ" target="スタッフ" sid="wiki00013428-03" id="7"/><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><rel type="=" target="被曝" sid="wiki00013428-03" id="1"/><体言><非用言格解析:動>
 被曝 ひばく 被曝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><rel type="ノ？" target="被曝" sid="wiki00013428-03" id="8"/><rel type="ノ？" mode="AND" target="スタッフ" sid="wiki00013428-03" id="7"/><rel type="=≒" target="量" sid="wiki00013428-03" id="2"/>
++ 11D <rel type="ニヨッテ" target="PET" sid="wiki00013428-00-02" id="6"/><rel type="ノ？" target="被曝" sid="wiki00013428-03" id="8"/><rel type="ノ？" mode="AND" target="スタッフ" sid="wiki00013428-03" id="7"/><rel type="=≒" target="量" sid="wiki00013428-03" id="2"/><体言>
 量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <体言><非用言格解析:動><rel type="ニ" target="量" sid="wiki00013428-03" id="9"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="スタッフ" sid="wiki00013428-03" id="7"/>
++ 11D <rel type="ニ" target="量" sid="wiki00013428-03" id="9"/><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="スタッフ" sid="wiki00013428-03" id="7"/><体言><非用言格解析:動>
 注意 ちゅうい 注意 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:形><時制:非過去><節-主辞><節-区切><rel type="ガ" target="注意" sid="wiki00013428-03" id="10"/><rel type="ニ" target="量" sid="wiki00013428-03" id="9"/>
++ -1D <rel type="ガ" target="注意" sid="wiki00013428-03" id="10"/><rel type="ニ" target="量" sid="wiki00013428-03" id="9"/><用言:形><時制:非過去><節-主辞><節-区切>
 必要である ひつようである 必要だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -281,38 +281,38 @@ EOS
 ただし ただし ただし 接続詞 10 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <用言:動><時制:非過去><rel type="ガ" target="著者"/>
++ 14D <rel type="ガ" target="著者"/><用言:動><時制:非過去>
 下述 かじゅつ 下述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 3D
-+ 3P <体言><rel type="=" target="PET" sid="wiki00013428-00-02" id="6"/>
++ 3P <rel type="=" target="PET" sid="wiki00013428-00-02" id="6"/><体言>
 PET ぺっと PET 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 / / / 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=" target="CT" sid="wiki00013428-03" id="3"/>
++ 4D <rel type="=" target="CT" sid="wiki00013428-03" id="3"/><体言>
 CT CT CT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="PET" sid="wiki00013428-04" id="2"/><rel type="修飾" mode="AND" target="CT" sid="wiki00013428-04" id="3"/><memo text="PETとCTを一体化したPET-CT装置"/>
++ 5D <rel type="修飾" target="PET" sid="wiki00013428-04" id="2"/><rel type="修飾" mode="AND" target="CT" sid="wiki00013428-04" id="3"/><memo text="PETとCTを一体化したPET-CT装置"/><体言>
 装置 そうち 装置 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <用言:動><時制:過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ニ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ヲ" target="装置" sid="wiki00013428-04" id="4"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ヲ" target="装置" sid="wiki00013428-04" id="4"/><用言:動><時制:過去><節-主辞>
 用いた もちいた 用いる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 5D
-+ 7D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="患者" sid="wiki00013428-03" id="0"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="患者" sid="wiki00013428-03" id="0"/><体言><非用言格解析:動>
 検査 けんさ 検査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <体言><rel type="ノ" target="検査" sid="wiki00013428-04" id="6"/>
++ 9D <rel type="ノ" target="検査" sid="wiki00013428-04" id="6"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 9D <体言><非用言格解析:動><rel type="ニヨッテ" target="装置" sid="wiki00013428-04" id="4"/><rel type="ガ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ガ" mode="？" target="スタッフ" sid="wiki00013428-03" id="7"/>
++ 9D <rel type="ニヨッテ" target="装置" sid="wiki00013428-04" id="4"/><rel type="ガ" target="患者" sid="wiki00013428-03" id="0"/><rel type="ガ" mode="？" target="スタッフ" sid="wiki00013428-03" id="7"/><体言><非用言格解析:動>
 被曝 ひばく 被曝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="時間" target="場合" sid="wiki00013428-04" id="7"/><rel type="ニヨッテ" target="装置" sid="wiki00013428-04" id="4"/><rel type="ノ？" target="被曝" sid="wiki00013428-04" id="8"/><rel type="ノ？" mode="？" target="下述する" sid="wiki00013428-04" id="1"/>
++ 14D <rel type="時間" target="場合" sid="wiki00013428-04" id="7"/><rel type="ニヨッテ" target="装置" sid="wiki00013428-04" id="4"/><rel type="ノ？" target="被曝" sid="wiki00013428-04" id="8"/><rel type="ノ？" mode="？" target="下述する" sid="wiki00013428-04" id="1"/><体言>
 量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 11D <体言><rel type="=" target="CT" sid="wiki00013428-03" id="3"/>
++ 11D <rel type="=" target="CT" sid="wiki00013428-03" id="3"/><体言>
 CT CT CT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -320,15 +320,15 @@ CT CT CT 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 比べて くらべて 比べる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 13D <用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞><rel type="ニクラベテ" target="CT" sid="wiki00013428-04" id="10"/><rel type="ガ" target="量" sid="wiki00013428-04" id="9"/><rel type="外の関係" target="場合" sid="wiki00013428-04" id="13"/><rel type="=≒" target="少ない" sid="wiki00013428-03" id="5"/>
++ 13D <rel type="ニクラベテ" target="CT" sid="wiki00013428-04" id="10"/><rel type="ガ" target="量" sid="wiki00013428-04" id="9"/><rel type="外の関係" target="場合" sid="wiki00013428-04" id="13"/><rel type="=≒" target="少ない" sid="wiki00013428-03" id="5"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞>
 大きく おおきく 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本連用形 7 NIL <基本句-主辞>
 なる なる なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
 * 11D
-+ 14D <体言><rel type="トイウ" target="大きくなる" sid="wiki00013428-04" id="12"/>
++ 14D <rel type="トイウ" target="大きくなる" sid="wiki00013428-04" id="12"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-区切><rel type="ガ" target="場合" sid="wiki00013428-04" id="13"/><rel type="外の関係" target="量" sid="wiki00013428-04" id="9"/>
++ -1D <rel type="ガ" target="場合" sid="wiki00013428-04" id="13"/><rel type="外の関係" target="量" sid="wiki00013428-04" id="9"/><用言:動><時制:非過去><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

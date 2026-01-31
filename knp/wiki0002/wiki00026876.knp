@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言><非用言格解析:形>
 有限 ゆうげん 有限だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="有限" sid="wiki00026876-00-01" id="0"/>
++ 9D <rel type="修飾" target="有限" sid="wiki00026876-00-01" id="0"/><体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -23,18 +23,18 @@
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="設立" sid="wiki00026876-00-01" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="ニオイテ" target="日本" sid="wiki00026876-00-01" id="2"/><rel type="時間" target="過去" sid="wiki00026876-00-01" id="4"/>
++ 8D <rel type="ガ" target="設立" sid="wiki00026876-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="日本" sid="wiki00026876-00-01" id="2"/><rel type="時間" target="過去" sid="wiki00026876-00-01" id="4"/><用言:動><時制:過去><節-主辞>
 認め みとめ 認める 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 7D
-+ 8D <体言><rel type="=≒" target="会社" sid="wiki00026876-00-01" id="1"/>
++ 8D <rel type="=≒" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="会社" sid="wiki00026876-00-01" id="7"/><体言><rel type="=≒" target="会社" sid="wiki00026876-00-01" id="1"/>
++ 9D <rel type="ノ" target="会社" sid="wiki00026876-00-01" id="7"/><rel type="=≒" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00026876-00-01" id="1"/><rel type="ノ" target="形態" sid="wiki00026876-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="会社" sid="wiki00026876-00-01" id="1"/><rel type="=構" mode="AND" target="形態" sid="wiki00026876-00-01" id="8"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00026876-00-01" id="1"/><rel type="ノ" target="形態" sid="wiki00026876-00-01" id="8"/><rel type="=構" target="会社" sid="wiki00026876-00-01" id="1"/><rel type="=構" mode="AND" target="形態" sid="wiki00026876-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
@@ -44,7 +44,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="有限" sid="wiki00026876-00-01" id="0"/><体言><非用言格解析:形>
 ゆうげん ゆうげん ゆうげんだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="会社" sid="wiki00026876-00-01" id="1"/>
++ -1D <rel type="=" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 がいしゃ がいしゃ がいしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00026876-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2025/06/10 MEMO:
@@ -62,30 +62,30 @@ EOS
 * 2D
 + 4D <体言>
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 5D <体言><NE:ARTIFACT:会社法><rel type="ニツイテ" target="会社" sid="wiki00026876-01-01" id="3"/>
++ 5D <rel type="ニツイテ" target="会社" sid="wiki00026876-01-01" id="3"/><体言><NE:ARTIFACT:会社法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="法" sid="wiki00026876-01-01" id="4"/><rel type="時間" target="1日" sid="wiki00026876-01-01" id="2"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="法" sid="wiki00026876-01-01" id="4"/><rel type="時間" target="1日" sid="wiki00026876-01-01" id="2"/><体言><非用言格解析:動>
 施行 しこう 施行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 12D <用言:動>
 伴い ともない 伴う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL <基本句-主辞>
 * 4D
-+ 8D <体言><rel type="ノ" target="会社" sid="wiki00026876-00-01" id="1"/>
++ 8D <rel type="ノ" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 根拠 こんきょ 根拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="修飾" target="根拠" sid="wiki00026876-01-01" id="7"/>
++ 11D <rel type="修飾" target="根拠" sid="wiki00026876-01-01" id="7"/><体言>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D <体言><非用言格解析:形><rel type="=" target="有限" sid="wiki00026876-00-01" id="0"/>
++ 10D <rel type="=" target="有限" sid="wiki00026876-00-01" id="0"/><体言><非用言格解析:形>
 有限 ゆうげん 有限だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 11D <体言><rel type="=" target="会社" sid="wiki00026876-00-01" id="1"/>
++ 11D <rel type="=" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 12D <体言><NE:ARTIFACT:有限会社法><rel type="修飾" target="法" sid="wiki00026876-01-01" id="8"/><rel type="=構" target="法" sid="wiki00026876-01-01" id="8"/><rel type="ニツイテ" target="会社" sid="wiki00026876-01-01" id="10"/>
++ 12D <rel type="修飾" target="法" sid="wiki00026876-01-01" id="8"/><rel type="=構" target="法" sid="wiki00026876-01-01" id="8"/><rel type="ニツイテ" target="会社" sid="wiki00026876-01-01" id="10"/><体言><NE:ARTIFACT:有限会社法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 18P <rel type="ガ" target="法" sid="wiki00026876-01-01" id="11"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ニトモナッテ" target="施行" sid="wiki00026876-01-01" id="5"/>
++ 18P <rel type="ガ" target="法" sid="wiki00026876-01-01" id="11"/><rel type="ニ" target="不特定:人"/><rel type="ニトモナッテ" target="施行" sid="wiki00026876-01-01" id="5"/><用言:動><節-主辞><節-区切>
 廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -98,7 +98,7 @@ EOS
 以降 いこう 以降 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 16D <体言><非用言格解析:形><rel type="=" target="有限" sid="wiki00026876-00-01" id="0"/>
++ 16D <rel type="=" target="有限" sid="wiki00026876-00-01" id="0"/><体言><非用言格解析:形>
 有限 ゆうげん 有限だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 + 17D <rel type="=" target="会社" sid="wiki00026876-00-01" id="1"/><体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -108,7 +108,7 @@ EOS
 新設 しんせつ 新設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="新設" sid="wiki00026876-01-01" id="17"/><用言:動><時制:過去><否定表現><節-区切><rel type="カラ" target="それ" sid="wiki00026876-01-01" id="13"/>
++ -1D <rel type="ガ" target="新設" sid="wiki00026876-01-01" id="17"/><rel type="カラ" target="それ" sid="wiki00026876-01-01" id="13"/><用言:動><時制:過去><否定表現><節-区切>
 でき でき できる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
@@ -118,7 +118,7 @@ EOS
 * -1D
 + 1D <体言>
 平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:平成18年><体言><rel type="=" target="2006年" sid="wiki00026876-01-01" id="0"/>
++ -1D <rel type="=" target="2006年" sid="wiki00026876-01-01" id="0"/><NE:DATE:平成18年><体言>
 18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

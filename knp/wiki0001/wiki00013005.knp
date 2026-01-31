@@ -2,7 +2,7 @@
 * 16D
 + 1D <体言>
 数値 すうち 数値 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="デ" target="数値" sid="wiki00013005-00-01" id="0"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/>
++ 20D <rel type="ガ" target="不特定:人"/><rel type="デ" target="数値" sid="wiki00013005-00-01" id="0"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/><体言><非用言格解析:動>
 解析 かいせき 解析 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,13 +13,13 @@
 * 3D
 + 4D <体言>
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ニカンシテ" target="物理" sid="wiki00013005-00-01" id="3"/>
++ 6D <rel type="ニカンシテ" target="物理" sid="wiki00013005-00-01" id="3"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16P
 + 6D <体言>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ 20P <rel type="ガ" target="解析" sid="wiki00013005-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ノ" target="学" sid="wiki00013005-00-01" id="4"/><rel type="ノ" mode="AND" target="数学" sid="wiki00013005-00-01" id="2"/><rel type="修飾" target="一" sid="wiki00013005-00-01" id="5"/>
++ 20P <rel type="ガ" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="=構" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ノ" target="学" sid="wiki00013005-00-01" id="4"/><rel type="ノ" mode="AND" target="数学" sid="wiki00013005-00-01" id="2"/><rel type="修飾" target="一" sid="wiki00013005-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -28,7 +28,7 @@
 代数 だいすう 代数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 7D
-+ 10D <体言><rel type="修飾" target="代数的な" sid="wiki00013005-00-01" id="7"/>
++ 10D <rel type="修飾" target="代数的な" sid="wiki00013005-00-01" id="7"/><体言>
 方法 ほうほう 方法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -42,18 +42,18 @@
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 不可能な ふかのうな 不可能だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 9D
-+ 12D <体言><非用言格解析:動><rel type="=≒" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ガ" target="不特定:人"/>
++ 12D <rel type="=≒" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 解析 かいせき 解析 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ニカンシテ" target="解析" sid="wiki00013005-00-01" id="11"/>
++ 13D <rel type="ニカンシテ" target="解析" sid="wiki00013005-00-01" id="11"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 17D <体言><rel type="トイウ" target="得ることが不可能な" sid="wiki00013005-00-01" id="10"/><rel type="修飾" target="学上" sid="wiki00013005-00-01" id="12"/>
++ 17D <rel type="トイウ" target="得ることが不可能な" sid="wiki00013005-00-01" id="10"/><rel type="修飾" target="学上" sid="wiki00013005-00-01" id="12"/><体言>
 問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/><体言><memo text="元テキスト（通常は有限精度の）数値を用いて"/>
++ 15D <rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/><memo text="元テキスト（通常は有限精度の）数値を用いて"/><体言>
 数値 すうち 数値 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
@@ -64,33 +64,33 @@
 近似 きんじ 近似 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 14D
-+ 18D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="問題" sid="wiki00013005-00-01" id="13"/><用言:動><時制:非過去><節-主辞><rel type="修飾" target="近似的に" sid="wiki00013005-00-01" id="16"/><rel type="=≒" target="得る" sid="wiki00013005-00-01" id="10"/><rel type="外の関係" target="手法" sid="wiki00013005-00-01" id="18"/>
++ 18D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="問題" sid="wiki00013005-00-01" id="13"/><rel type="修飾" target="近似的に" sid="wiki00013005-00-01" id="16"/><rel type="=≒" target="得る" sid="wiki00013005-00-01" id="10"/><rel type="外の関係" target="手法" sid="wiki00013005-00-01" id="18"/><用言:動><時制:非過去><節-主辞>
 解く とく 解く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 15D
-+ 19D <体言><rel type="トイウ" target="解く" sid="wiki00013005-00-01" id="17"/>
++ 19D <rel type="トイウ" target="解く" sid="wiki00013005-00-01" id="17"/><体言>
 手法 しゅほう 手法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
 + 20D <rel type="ニ" target="手法" sid="wiki00013005-00-01" id="18"/><用言:動><時制:非過去>
 関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="解析" sid="wiki00013005-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ニカンシテ" target="手法" sid="wiki00013005-00-01" id="18"/>
++ -1D <rel type="ガ" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="=構" target="解析" sid="wiki00013005-00-01" id="1"/><rel type="ニカンシテ" target="手法" sid="wiki00013005-00-01" id="18"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013005-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/>
++ 1D <rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/><体言>
 すうち すうち すうち 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 3P <rel type="=" target="解析" sid="wiki00013005-00-01" id="1"/><体言><非用言格解析:動>
 かいせき かいせき かいせき 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/>
++ 3D <rel type="=" target="数値" sid="wiki00013005-00-01" id="0"/><体言>
 Numerical Numerical Numerical 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="解析" sid="wiki00013005-00-01" id="1"/>
++ -1D <rel type="=" target="解析" sid="wiki00013005-00-01" id="1"/><体言>
 Analysis Analysis Analysis 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013005-00-03 括弧始:（ 括弧終:） 括弧位置:74 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/26 MEMO:
@@ -101,7 +101,7 @@ EOS
 * -1D
 + 2D <rel type="ガ" target="精度" sid="wiki00013005-00-03" id="2"/><体言><非用言格解析:形>
 有限 ゆうげん 有限だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ -1D <体言><rel type="修飾" target="有限" sid="wiki00013005-00-03" id="1"/><rel type="ノ" target="数値" sid="wiki00013005-00-01" id="14"/><memo text="元テキスト（通常は有限精度の）数値を用いて"/>
++ -1D <rel type="修飾" target="有限" sid="wiki00013005-00-03" id="1"/><rel type="ノ" target="数値" sid="wiki00013005-00-01" id="14"/><memo text="元テキスト（通常は有限精度の）数値を用いて"/><体言>
 精度 せいど 精度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 EOS

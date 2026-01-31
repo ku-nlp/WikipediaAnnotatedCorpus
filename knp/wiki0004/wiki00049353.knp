@@ -6,10 +6,10 @@
 独 どく 独 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 + 3D <体言>
 伊 い 伊 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 4D <体言><rel type="=≒" target="日" sid="wiki00049353-00-01" id="0"/><rel type="=≒" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="=≒" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><memo text="SE"/>
++ 4D <rel type="=≒" target="日" sid="wiki00049353-00-01" id="0"/><rel type="=≒" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="=≒" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><memo text="SE"/><体言>
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 国 ごく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 14D <体言><非用言格解析:動><rel type="ガ" target="三国" sid="wiki00049353-00-01" id="3"/><NE:OPTIONAL:日独伊三国同盟><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0><memo text="後出の「条約」が正式名だとのことなので"/>
++ 14D <rel type="ガ" target="三国" sid="wiki00049353-00-01" id="3"/><memo text="後出の「条約」が正式名だとのことなので"/><体言><非用言格解析:動><NE:OPTIONAL:日独伊三国同盟><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
 同盟 どうめい 同盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -25,24 +25,24 @@
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 9D <体言><NE:LOCATION:ベルリン><rel type="ノ？" target="独" sid="wiki00049353-00-01" id="1"/>
++ 9D <rel type="ノ？" target="独" sid="wiki00049353-00-01" id="1"/><体言><NE:LOCATION:ベルリン>
 ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 14D <用言:動><時制:過去><節-主辞><rel type="ガ" target="同盟" sid="wiki00049353-00-01" id="14"/><rel type="デ" target="ベルリン" sid="wiki00049353-00-01" id="8"/><rel type="時間" target="27日" sid="wiki00049353-00-01" id="7"/>
++ 14D <rel type="ガ" target="同盟" sid="wiki00049353-00-01" id="14"/><rel type="デ" target="ベルリン" sid="wiki00049353-00-01" id="8"/><rel type="時間" target="27日" sid="wiki00049353-00-01" id="7"/><用言:動><時制:過去><節-主辞>
 調印 ちょういん 調印 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5P
-+ 11P <体言><NE:LOCATION:日本><rel type="=" target="日" sid="wiki00049353-00-01" id="0"/>
++ 11P <rel type="=" target="日" sid="wiki00049353-00-01" id="0"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 12P <体言><NE:LOCATION:ドイツ><rel type="=" target="独" sid="wiki00049353-00-01" id="1"/>
++ 12P <rel type="=" target="独" sid="wiki00049353-00-01" id="1"/><体言><NE:LOCATION:ドイツ>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 14D <体言><NE:LOCATION:イタリア><rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/>
++ 14D <rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/><体言><NE:LOCATION:イタリア>
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -55,58 +55,58 @@
 EOS
 # S-ID:wiki00049353-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/16 MEMO:
 * -1D
-+ 1P <体言><rel type="=" target="日" sid="wiki00049353-00-01" id="0"/>
++ 1P <rel type="=" target="日" sid="wiki00049353-00-01" id="0"/><体言>
 にち にち にち 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2P <体言><rel type="=" target="独" sid="wiki00049353-00-01" id="1"/>
++ 2P <rel type="=" target="独" sid="wiki00049353-00-01" id="1"/><体言>
 どく どく どく 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 3D <体言><rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/>
++ 3D <rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/><体言>
 い い い 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <体言><rel type="=" target="三国" sid="wiki00049353-00-01" id="3"/>
++ 4D <rel type="=" target="三国" sid="wiki00049353-00-01" id="3"/><体言>
 さん さん さん 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 ごく ごく ごく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <体言><非用言格解析:動><rel type="=" target="同盟" sid="wiki00049353-00-01" id="4"/><NE:OPTIONAL:にちどくい　さんごく　どうめい><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
++ -1D <rel type="=" target="同盟" sid="wiki00049353-00-01" id="4"/><体言><非用言格解析:動><NE:OPTIONAL:にちどくい　さんごく　どうめい><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
 どうめい どうめい どうめい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00049353-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/12/27 MEMO:
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:昭和15年><体言><rel type="=" target="1940年" sid="wiki00049353-00-01" id="5"/>
++ -1D <rel type="=" target="1940年" sid="wiki00049353-00-01" id="5"/><NE:DATE:昭和15年><体言>
 15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00049353-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/16 MEMO:
 * 2D
-+ 1D <体言><非用言格解析:形><rel type="ガ" target="名称" sid="wiki00049353-01" id="1"/>
++ 1D <rel type="ガ" target="名称" sid="wiki00049353-01" id="1"/><体言><非用言格解析:形>
 正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ" target="同盟" sid="wiki00049353-00-01" id="4"/><rel type="修飾" target="正式" sid="wiki00049353-01" id="0"/>
++ 10D <rel type="ノ" target="同盟" sid="wiki00049353-00-01" id="4"/><rel type="修飾" target="正式" sid="wiki00049353-01" id="0"/><体言>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 3D <体言><rel type="=" target="日本" sid="wiki00049353-00-01" id="10"/>
++ 3D <rel type="=" target="日本" sid="wiki00049353-00-01" id="10"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 5P <体言><rel type="=" target="日" sid="wiki00049353-00-01" id="0"/>
++ 5P <rel type="=" target="日" sid="wiki00049353-00-01" id="0"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * -1D
-+ 5D <体言><rel type="=" target="ドイツ" sid="wiki00049353-00-01" id="11"/>
++ 5D <rel type="=" target="ドイツ" sid="wiki00049353-00-01" id="11"/><体言>
 独逸 どいつ 独逸 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 8P <体言><rel type="=" target="独" sid="wiki00049353-00-01" id="1"/>
++ 8P <rel type="=" target="独" sid="wiki00049353-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 8D <体言>
 及 および 及 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 8D <体言><rel type="=" target="イタリア" sid="wiki00049353-00-01" id="12"/>
++ 8D <rel type="=" target="イタリア" sid="wiki00049353-00-01" id="12"/><体言>
 伊太利 いたりー 伊太利 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 10D <体言><rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/>
++ 10D <rel type="=" target="伊" sid="wiki00049353-00-01" id="2"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 10D <体言><rel type="=" target="三国" sid="wiki00049353-00-01" id="3"/>
++ 10D <rel type="=" target="三国" sid="wiki00049353-00-01" id="3"/><体言>
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 国 ごく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="気持ち悪いが。"/><NE:ARTIFACT:日本国、独逸国及伊太利国間三国条約><rel type="ガ" target="名称" sid="wiki00049353-01" id="1"/><rel type="=構" target="名称" sid="wiki00049353-01" id="1"/><rel type="=" mode="AND" target="同盟" sid="wiki00049353-00-01" id="4"/>
++ -1D <rel type="ガ" target="名称" sid="wiki00049353-01" id="1"/><rel type="=構" target="名称" sid="wiki00049353-01" id="1"/><rel type="=" mode="AND" target="同盟" sid="wiki00049353-00-01" id="4"/><memo text="気持ち悪いが。"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:日本国、独逸国及伊太利国間三国条約>
 条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
@@ -116,19 +116,19 @@ EOS
 * 1P
 + 1D <体言><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4P <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="デ" target="ヨーロッパ" sid="wiki00049353-02-01" id="0"/>
++ 4P <rel type="ガ" target="不特定:人"/><rel type="デ" target="ヨーロッパ" sid="wiki00049353-02-01" id="0"/><体言><非用言格解析:動>
 戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3P <体言><NE:LOCATION:日><rel type="=" target="日" sid="wiki00049353-00-01" id="0"/>
++ 3P <rel type="=" target="日" sid="wiki00049353-00-01" id="0"/><体言><NE:LOCATION:日>
 日 にっ 日 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 4D <体言><NE:LOCATION:中>
 中 ちゅう 中 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="日" sid="wiki00049353-02-01" id="2"/><rel type="ト" target="中" sid="wiki00049353-02-01" id="3"/><memo text="ガト交替可"/>
++ 5D <rel type="ガ" target="日" sid="wiki00049353-02-01" id="2"/><rel type="ト" target="中" sid="wiki00049353-02-01" id="3"/><memo text="ガト交替可"/><体言><非用言格解析:動>
 戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <用言:動><時制:非過去><否定表現><節-主辞><rel type="ガ" target="国" sid="wiki00049353-02-01" id="6"/><rel type="ニ" target="戦争" sid="wiki00049353-02-01" id="4"/><rel type="ニ" mode="AND" target="戦争" sid="wiki00049353-02-01" id="1"/>
++ 6D <rel type="ガ" target="国" sid="wiki00049353-02-01" id="6"/><rel type="ニ" target="戦争" sid="wiki00049353-02-01" id="4"/><rel type="ニ" mode="AND" target="戦争" sid="wiki00049353-02-01" id="1"/><用言:動><時制:非過去><否定表現><節-主辞>
 参戦 さんせん 参戦 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
@@ -139,7 +139,7 @@ EOS
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <体言><非用言格解析:動><rel type="カラ" target="国" sid="wiki00049353-02-01" id="6"/><memo text="サレル"/><rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/>
++ 8D <rel type="カラ" target="国" sid="wiki00049353-02-01" id="6"/><rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><memo text="サレル"/><体言><非用言格解析:動>
 攻撃 こうげき 攻撃 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -148,11 +148,11 @@ EOS
 * 7D
 + 10D <体言>
 相互 そうご 相互 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><非用言格解析:動><rel type="ニタイシテ" target="攻撃" sid="wiki00049353-02-01" id="7"/><rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="ヲ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ヲ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ヲ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="修飾" target="相互" sid="wiki00049353-02-01" id="9"/>
++ 11D <rel type="ニタイシテ" target="攻撃" sid="wiki00049353-02-01" id="7"/><rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="ヲ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ヲ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ヲ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="修飾" target="相互" sid="wiki00049353-02-01" id="9"/><体言><非用言格解析:動>
 援助 えんじょ 援助 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="ヲ" target="援助" sid="wiki00049353-02-01" id="10"/><rel type="デ" target="条約" sid="wiki00049353-01" id="10"/>
++ -1D <rel type="ガ" target="日" sid="wiki00049353-00-01" id="0"/><rel type="ガ" mode="AND" target="独" sid="wiki00049353-00-01" id="1"/><rel type="ガ" mode="AND" target="伊" sid="wiki00049353-00-01" id="2"/><rel type="ヲ" target="援助" sid="wiki00049353-02-01" id="10"/><rel type="デ" target="条約" sid="wiki00049353-01" id="10"/><用言:動><時制:過去><節-主辞><節-区切>
 約した やくした 約す 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -185,44 +185,44 @@ EOS
 * 3D
 + 5D <体言>
 枢軸 すうじく 枢軸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="枢軸" sid="wiki00049353-03" id="4"/><rel type="ニオイテ" target="大戦" sid="wiki00049353-03" id="2"/>
++ 6D <rel type="ノ？" target="枢軸" sid="wiki00049353-03" id="4"/><rel type="ニオイテ" target="大戦" sid="wiki00049353-03" id="2"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <体言><rel type="ノ" target="国" sid="wiki00049353-03" id="5"/><rel type="=構" target="同盟" sid="wiki00049353-00-01" id="4"/>
++ 7D <rel type="ノ" target="国" sid="wiki00049353-03" id="5"/><rel type="=構" target="同盟" sid="wiki00049353-00-01" id="4"/><体言>
 原型 げんけい 原型 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11P
-+ 15P <用言:動><節-主辞><節-区切><rel type="ガ" target="同盟" sid="wiki00049353-00-01" id="4"/><rel type="ト" target="原型" sid="wiki00049353-03" id="6"/>
++ 15P <rel type="ガ" target="同盟" sid="wiki00049353-00-01" id="4"/><rel type="ト" target="原型" sid="wiki00049353-03" id="6"/><用言:動><節-主辞><節-区切>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 15D <体言><rel type="ノ" target="なり" sid="wiki00049353-03" id="7"/>
++ 15D <rel type="ノ" target="なり" sid="wiki00049353-03" id="7"/><体言>
 その後 そのご その後 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * 9D
 + 12D <体言>
 複数 ふくすう 複数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 11D <体言><rel type="=" target="国" sid="wiki00049353-03" id="5"/>
++ 11D <rel type="=" target="国" sid="wiki00049353-03" id="5"/><体言>
 枢軸 すうじく 枢軸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <用言:動><時制:過去><節-主辞><rel type="ガ" target="国" sid="wiki00049353-03" id="12"/><rel type="ニ" target="枢軸" sid="wiki00049353-03" id="10"/>
++ 12D <rel type="ガ" target="国" sid="wiki00049353-03" id="12"/><rel type="ニ" target="枢軸" sid="wiki00049353-03" id="10"/><用言:動><時制:過去><節-主辞>
 与した くみした 与する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 10P
-+ 14P <体言><rel type="修飾" target="複数" sid="wiki00049353-03" id="9"/>
++ 14P <rel type="修飾" target="複数" sid="wiki00049353-03" id="9"/><体言>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
 + 14D <体言>
 友好 ゆうこう 友好 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ノ？" target="友好" sid="wiki00049353-03" id="13"/><rel type="ノ" target="三国" sid="wiki00049353-00-01" id="3"/>
++ 15D <rel type="ノ？" target="友好" sid="wiki00049353-03" id="13"/><rel type="ノ" target="三国" sid="wiki00049353-00-01" id="3"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="その後" sid="wiki00049353-03" id="8"/><rel type="ガ" target="国" sid="wiki00049353-03" id="14"/><rel type="ガ" mode="AND" target="国" sid="wiki00049353-03" id="12"/><rel type="ニ" target="同盟" sid="wiki00049353-00-01" id="4"/><memo text="これまた気持ち悪いが。"/>
++ -1D <rel type="時間" target="その後" sid="wiki00049353-03" id="8"/><rel type="ガ" target="国" sid="wiki00049353-03" id="14"/><rel type="ガ" mode="AND" target="国" sid="wiki00049353-03" id="12"/><rel type="ニ" target="同盟" sid="wiki00049353-00-01" id="4"/><memo text="これまた気持ち悪いが。"/><用言:動><時制:過去><節-主辞><節-区切>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言>
 土佐 とさの 土佐 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 9D <体言><NE:LOCATION:土佐国><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/>
++ 9D <rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><体言><NE:LOCATION:土佐国>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -14,28 +14,28 @@
 日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/>
++ 5D <rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><体言>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="地方" sid="wiki00014623-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/>
++ 6D <rel type="修飾" target="地方" sid="wiki00014623-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ガ" target="国" sid="wiki00014623-00-01" id="8"/><用言:判><体言><時制:過去><rel type="時間" target="かつて" sid="wiki00014623-00-01" id="2"/><rel type="ノ？" target="行政" sid="wiki00014623-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00014623-00-01" id="3"/>
++ 8D <rel type="ガ" target="国" sid="wiki00014623-00-01" id="8"/><rel type="時間" target="かつて" sid="wiki00014623-00-01" id="2"/><rel type="ノ？" target="行政" sid="wiki00014623-00-01" id="5"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00014623-00-01" id="3"/><用言:判><体言><時制:過去>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
 * 5D
 + 8D <体言>
 令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="令制" sid="wiki00014623-00-01" id="7"/><rel type="=構" target="区分" sid="wiki00014623-00-01" id="6"/><rel type="=≒" mode="AND" target="国" sid="wiki00014623-00-01" id="1"/>
++ 9D <rel type="ノ？" target="令制" sid="wiki00014623-00-01" id="7"/><rel type="=構" target="区分" sid="wiki00014623-00-01" id="6"/><rel type="=≒" mode="AND" target="国" sid="wiki00014623-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00014623-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00014623-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="国" sid="wiki00014623-00-01" id="1"/><rel type="=構" mode="AND" target="国" sid="wiki00014623-00-01" id="8"/>
++ -1D <rel type="ガ" target="国" sid="wiki00014623-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00014623-00-01" id="8"/><rel type="=構" target="国" sid="wiki00014623-00-01" id="1"/><rel type="=構" mode="AND" target="国" sid="wiki00014623-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014623-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/09/15 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="土佐" sid="wiki00014623-00-01" id="0"/>
++ 1D <rel type="=" target="土佐" sid="wiki00014623-00-01" id="0"/><体言>
 とさ とさ とさ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
 + -1D <rel type="=" target="国" sid="wiki00014623-00-01" id="1"/><体言><NE:LOCATION:とさのくに>
@@ -45,7 +45,7 @@ EOS
 * 1D
 + 1D <体言>
 南海 なんかい 南海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言><NE:LOCATION:南海道><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><rel type="=≒" target="国" sid="wiki00014623-00-01" id="1"/>
++ 2D <rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><rel type="=≒" target="国" sid="wiki00014623-00-01" id="1"/><体言><NE:LOCATION:南海道>
 道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -55,7 +55,7 @@ EOS
 EOS
 # S-ID:wiki00014623-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/14 MEMO:
 * 1D
-+ 1D <体言><NE:LOCATION:高知県><rel type="=構" target="国" sid="wiki00014623-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/>
++ 1D <rel type="=構" target="国" sid="wiki00014623-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00014623-00-01" id="3"/><体言><NE:LOCATION:高知県>
 高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL

@@ -15,7 +15,7 @@ NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞
 * -1D
 + 4D <体言>
 ドキュメンタリー どきゅめんたりー ドキュメンタリー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ノ？" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="修飾" target="ドキュメンタリー" sid="wiki00059333-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="=構" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ノ？" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="修飾" target="ドキュメンタリー" sid="wiki00059333-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 番組 ばんぐみ 番組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -28,14 +28,14 @@ EOS
 EOS
 # S-ID:wiki00059333-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/22 MEMO:
 * 1D
-+ 2D <体言><非用言格解析:動><rel type="ノ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ト" target="スペ" sid="wiki00059333-01" id="2"/>
++ 2D <rel type="ノ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ト" target="スペ" sid="wiki00059333-01" id="2"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><memo text="品詞"/><rel type="=" target="NHK" sid="wiki00059333-00-01" id="0"/>
++ 2D <rel type="=" target="NHK" sid="wiki00059333-00-01" id="0"/><memo text="品詞"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 N えぬ N 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ -1D <rel type="ガ" target="略称" sid="wiki00059333-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:Nスペ><rel type="=" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="=構" mode="AND" target="略称" sid="wiki00059333-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00059333-01" id="0"/><rel type="=" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="=構" mode="AND" target="略称" sid="wiki00059333-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:Nスペ>
 スペ すぺ スペ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -46,21 +46,21 @@ EOS
 単発 たんぱつ 単発 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="ドキュメンタリー" sid="wiki00059333-00-01" id="3"/><体言><rel type="修飾" target="単発" sid="wiki00059333-02" id="0"/>
++ 3D <rel type="=" target="ドキュメンタリー" sid="wiki00059333-00-01" id="3"/><rel type="修飾" target="単発" sid="wiki00059333-02" id="0"/><体言>
 ドキュメンタリー どきゅめんたりー ドキュメンタリー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3P <rel type="ヲ" target="ドキュメンタリー" sid="wiki00059333-02" id="1"/><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="デ" target="特集" sid="wiki00059333-02" id="5"/><用言:動><時制:過去>
 制作 せいさく 制作 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="ヲ" target="ドキュメンタリー" sid="wiki00059333-02" id="1"/><用言:動><時制:過去><節-主辞><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="デ" target="特集" sid="wiki00059333-02" id="5"/>
++ 5D <rel type="ヲ" target="ドキュメンタリー" sid="wiki00059333-02" id="1"/><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="デ" target="特集" sid="wiki00059333-02" id="5"/><用言:動><時制:過去><節-主辞>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
 + 5D <rel type="=" target="NHK" sid="wiki00059333-00-01" id="0"/><体言>
 NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 6D <体言><非用言格解析:動><NE:ARTIFACT:NHK特集><rel type="修飾" target="制作" sid="wiki00059333-02" id="2"/><rel type="修飾" mode="AND" target="放送していた" sid="wiki00059333-02" id="3"/>
++ 6D <rel type="修飾" target="制作" sid="wiki00059333-02" id="2"/><rel type="修飾" mode="AND" target="放送していた" sid="wiki00059333-02" id="3"/><体言><非用言格解析:動><NE:ARTIFACT:NHK特集>
 特集 とくしゅう 特集 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -80,7 +80,7 @@ NHK えぬえいちけい NHK 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞
 * -1D
 + 11D <rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ヲ" target="放送" sid="wiki00059333-02" id="10"/><用言:動><体言><節-主辞><節-区切><rel type="ニカワッテ" target="特集" sid="wiki00059333-02" id="5"/><rel type="時間" target="2日" sid="wiki00059333-02" id="9"/><memo text="PO:する"/><rel type="ガ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ガ" mode="？" target="NHK" sid="wiki00059333-00-01" id="2"/>
++ -1D <rel type="ヲ" target="放送" sid="wiki00059333-02" id="10"/><rel type="ニカワッテ" target="特集" sid="wiki00059333-02" id="5"/><rel type="時間" target="2日" sid="wiki00059333-02" id="9"/><rel type="ガ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="ガ" mode="？" target="NHK" sid="wiki00059333-00-01" id="2"/><memo text="PO:する"/><用言:動><体言><節-主辞><節-区切>
 開始 かいし 開始 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -96,7 +96,7 @@ EOS
 日曜日 にちようび 日曜日 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <体言><rel type="時間" target="日曜日" sid="wiki00059333-03" id="2"/><NE:TIME:21:00>
++ 4D <rel type="時間" target="日曜日" sid="wiki00059333-03" id="2"/><体言><NE:TIME:21:00>
 21 にじゅういちじ 21 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:TIME:head>
 : : : 特殊 1 記号 5 * 0 * 0 NIL <NE:TIME:middle>
 00 　 00 名詞 6 数詞 7 * 0 * 0 NIL <NE:TIME:tail>
@@ -104,39 +104,39 @@ EOS
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 9D
-+ 5D <体言><rel type="時間" target="日曜日" sid="wiki00059333-03" id="2"/><NE:TIME:21:50><rel type="カラ" target="21:00" sid="wiki00059333-03" id="3"/>
++ 5D <rel type="時間" target="日曜日" sid="wiki00059333-03" id="2"/><rel type="カラ" target="21:00" sid="wiki00059333-03" id="3"/><体言><NE:TIME:21:50>
 21 にじゅういちじ 21 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:TIME:head>
 : : : 特殊 1 記号 5 * 0 * 0 NIL <NE:TIME:middle>
 50 ごじゅっぷん 50 名詞 6 数詞 7 * 0 * 0 NIL <NE:TIME:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="=" target="放送" sid="wiki00059333-02" id="10"/><rel type="時間" target="21:00" sid="wiki00059333-03" id="3"/><rel type="時間" mode="OR" target="21:50" sid="wiki00059333-03" id="4"/>
++ 12D <rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="=" target="放送" sid="wiki00059333-02" id="10"/><rel type="時間" target="21:00" sid="wiki00059333-03" id="3"/><rel type="時間" mode="OR" target="21:50" sid="wiki00059333-03" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
 + 7D <体言>
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ" target="時間" sid="wiki00059333-03" id="6"/><rel type="ノ" mode="AND" target="放送する" sid="wiki00059333-03" id="5"/><rel type="ノ" mode="AND" target="スペシャル" sid="wiki00059333-00-01" id="1"/>
++ 8D <rel type="ノ" target="時間" sid="wiki00059333-03" id="6"/><rel type="ノ" mode="AND" target="放送する" sid="wiki00059333-03" id="5"/><rel type="ノ" mode="AND" target="スペシャル" sid="wiki00059333-00-01" id="1"/><体言>
 枠 わく 枠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12P <rel type="ヲ" target="枠" sid="wiki00059333-03" id="10"/><用言:動><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/>
++ 12P <rel type="ヲ" target="枠" sid="wiki00059333-03" id="7"/><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><用言:動>
 拡大 かくだい 拡大 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 したり したり する 動詞 2 * 0 サ変動詞 16 タ系連用タリ形 15 NIL
 * 9D
-+ 11D <体言><rel type="ノ" target="日曜日" sid="wiki00059333-03" id="2"/><rel type="ノ" mode="AND" target="21:00" sid="wiki00059333-03" id="3"/><rel type="ノ" mode="OR" target="21:50" sid="wiki00059333-03" id="4"/>
++ 11D <rel type="ノ" target="日曜日" sid="wiki00059333-03" id="2"/><rel type="ノ" mode="AND" target="21:00" sid="wiki00059333-03" id="3"/><rel type="ノ" mode="OR" target="21:50" sid="wiki00059333-03" id="4"/><体言>
 他 ほか 他 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11P <体言><rel type="修飾" target="他" sid="wiki00059333-03" id="9"/>
++ 11P <rel type="修飾" target="他" sid="wiki00059333-03" id="9"/><体言>
 曜日 ようび 曜日 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <体言><rel type="修飾" target="他" sid="wiki00059333-03" id="9"/>
++ 12D <rel type="修飾" target="他" sid="wiki00059333-03" id="9"/><体言>
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><用言:動><モダリティ-評価:弱><時制:非過去><節-主辞><節-区切><rel type="時間" target="曜日" sid="wiki00059333-03" id="10"/><rel type="時間" mode="AND" target="時間" sid="wiki00059333-03" id="11"/><rel type="=≒" target="放送する" sid="wiki00059333-03" id="5"/>
++ -1D <rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="時間" target="曜日" sid="wiki00059333-03" id="10"/><rel type="時間" mode="AND" target="時間" sid="wiki00059333-03" id="11"/><rel type="=≒" target="放送する" sid="wiki00059333-03" id="5"/><用言:動><モダリティ-評価:弱><時制:非過去><節-主辞><節-区切>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -148,7 +148,7 @@ EOS
 * 2D
 + 1D
 再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><体言><非用言格解析:動><rel type="修飾" target="再" sid="wiki00059333-04" id="0"/><rel type="=≒" target="放送する" sid="wiki00059333-03" id="5"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><rel type="修飾" target="再" sid="wiki00059333-04" id="0"/><rel type="=≒" target="放送する" sid="wiki00059333-03" id="5"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -159,19 +159,19 @@ EOS
 + 4D <体言>
 水曜 すいよう 水曜 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="放送" sid="wiki00059333-04" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="時間" target="火曜" sid="wiki00059333-04" id="2"/><rel type="時間" mode="AND" target="水曜" sid="wiki00059333-04" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="放送" sid="wiki00059333-04" id="1"/><rel type="時間" target="火曜" sid="wiki00059333-04" id="2"/><rel type="時間" mode="AND" target="水曜" sid="wiki00059333-04" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 深夜 しんや 深夜 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059333-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/22 MEMO:
 * 1D
-+ 2D <体言><rel type="ノ" target="スペシャル" sid="wiki00059333-00-01" id="1"/>
++ 2D <rel type="ノ" target="スペシャル" sid="wiki00059333-00-01" id="1"/><体言>
 多く おおく 多く 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><memo text="Hi-vision"/>
++ 2D <memo text="Hi-vision"/><体言>
 ハイビジョン はいびじょん ハイビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ニヨッテ" target="ハイビジョン" sid="wiki00059333-05" id="1"/><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="多く" sid="wiki00059333-05" id="0"/><rel type="判ガ" target="多く" sid="wiki00059333-05" id="0"/>
++ -1D <rel type="ニヨッテ" target="ハイビジョン" sid="wiki00059333-05" id="1"/><rel type="ガ" target="NHK" sid="wiki00059333-00-01" id="2"/><rel type="ヲ" target="多く" sid="wiki00059333-05" id="0"/><rel type="判ガ" target="多く" sid="wiki00059333-05" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

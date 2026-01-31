@@ -2,19 +2,19 @@
 * 7D
 + 1D <体言>
 高架 こうか 高架 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="修飾" target="高架" sid="wiki00052237-00-01" id="0"/>
++ 11D <rel type="修飾" target="高架" sid="wiki00052237-00-01" id="0"/><体言>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="ノ" target="駅" sid="wiki00052237-00-01" id="3"/>
++ 4D <rel type="ノ" target="駅" sid="wiki00052237-00-01" id="3"/><体言>
 プラットホーム ぷらっとほーむ プラットホーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 4D <体言><rel type="=≒" target="駅" sid="wiki00052237-00-01" id="1"/>
++ 4D <rel type="=≒" target="駅" sid="wiki00052237-00-01" id="1"/><体言>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><非用言格解析:動><rel type="ノ？" target="駅" sid="wiki00052237-00-01" id="3"/><rel type="=≒" target="プラットホーム" sid="wiki00052237-00-01" id="2"/><rel type="ガ" target="不特定:人"/>
++ 8D <rel type="ノ？" target="駅" sid="wiki00052237-00-01" id="3"/><rel type="=≒" target="プラットホーム" sid="wiki00052237-00-01" id="2"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 設備 せつび 設備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -24,22 +24,22 @@
 * 5D
 + 7D <体言>
 構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="構造" sid="wiki00052237-00-01" id="6"/><rel type="修飾" target="高架" sid="wiki00052237-00-01" id="5"/>
++ 8D <rel type="ノ？" target="構造" sid="wiki00052237-00-01" id="6"/><rel type="修飾" target="高架" sid="wiki00052237-00-01" id="5"/><体言>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ガ" target="設備" sid="wiki00052237-00-01" id="4"/><rel type="ニ" target="物上" sid="wiki00052237-00-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="駅" sid="wiki00052237-00-01" id="10"/>
++ 10D <rel type="ガ" target="設備" sid="wiki00052237-00-01" id="4"/><rel type="ニ" target="物上" sid="wiki00052237-00-01" id="7"/><rel type="外の関係" target="駅" sid="wiki00052237-00-01" id="10"/><用言:動><時制:非過去><節-主辞>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
 + 10D <体言>
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ノ？" target="鉄道" sid="wiki00052237-00-01" id="9"/><rel type="=構" target="駅" sid="wiki00052237-00-01" id="1"/><rel type="トイウ" target="存在する" sid="wiki00052237-00-01" id="8"/>
++ 11D <rel type="ノ？" target="鉄道" sid="wiki00052237-00-01" id="9"/><rel type="=構" target="駅" sid="wiki00052237-00-01" id="1"/><rel type="トイウ" target="存在する" sid="wiki00052237-00-01" id="8"/><体言>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="駅" sid="wiki00052237-00-01" id="1"/><rel type="ノ" target="駅" sid="wiki00052237-00-01" id="10"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="駅" sid="wiki00052237-00-01" id="1"/>
++ -1D <rel type="ガ" target="駅" sid="wiki00052237-00-01" id="1"/><rel type="ノ" target="駅" sid="wiki00052237-00-01" id="10"/><rel type="=構" target="駅" sid="wiki00052237-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

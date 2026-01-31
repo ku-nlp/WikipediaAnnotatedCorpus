@@ -11,7 +11,7 @@
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="ノ？" target="植物など" sid="wiki00019964-00-01" id="1"/>
++ 3D <rel type="ノ？" target="植物など" sid="wiki00019964-00-01" id="1"/><体言>
 繊維 せんい 繊維 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -20,23 +20,23 @@
 せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <用言:形><時制:非過去><rel type="ガ" target="繊維" sid="wiki00019964-00-01" id="2"/>
++ 6D <rel type="ガ" target="繊維" sid="wiki00019964-00-01" id="2"/><用言:形><時制:非過去>
 薄く うすく 薄い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * 6D
-+ 6D <用言:形><時制:非過去><rel type="ガ" target="繊維" sid="wiki00019964-00-01" id="2"/>
++ 6D <rel type="ガ" target="繊維" sid="wiki00019964-00-01" id="2"/><用言:形><時制:非過去>
 平に たいらに 平だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 8 NIL <基本句-主辞>
 * 7D
-+ 7D <rel type="ガ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="ヲ" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="外の関係" target="もの" sid="wiki00019964-00-01" id="7"/><rel type="修飾" target="薄く" sid="wiki00019964-00-01" id="4"/><rel type="修飾" mode="AND" target="平に" sid="wiki00019964-00-01" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="外の関係" target="もの" sid="wiki00019964-00-01" id="7"/><rel type="修飾" target="薄く" sid="wiki00019964-00-01" id="4"/><rel type="修飾" mode="AND" target="平に" sid="wiki00019964-00-01" id="5"/><用言:動><時制:過去><節-主辞>
 成形 せいけい 成形 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><用言:判><体言><時制:非過去><節-区切><rel type="=構" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="トイウ" target="成形した" sid="wiki00019964-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="=構" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="トイウ" target="成形した" sid="wiki00019964-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00019964-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/21 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="紙" sid="wiki00019964-00-01" id="0"/>
++ -1D <rel type="=" target="紙" sid="wiki00019964-00-01" id="0"/><体言>
 かみ かみ かみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00019964-00-03 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/21 MEMO:
@@ -50,7 +50,7 @@ EOS
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 + 2D <体言>
 工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 8D <体言><memo text="2019年、日本産業規格と改称"/><NE:ARTIFACT:日本工業規格>
++ 8D <memo text="2019年、日本産業規格と改称"/><体言><NE:ARTIFACT:日本工業規格>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -61,16 +61,16 @@ EOS
 + 4D <rel type="=" target="植物" sid="wiki00019964-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=≒" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="ノ" target="植物" sid="wiki00019964-01-01" id="3"/><memo text="繊維n/その他nのp　としたほうがいい？"/>
++ 5D <rel type="=≒" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="ノ" target="植物" sid="wiki00019964-01-01" id="3"/><memo text="繊維n/その他nのp　としたほうがいい？"/><体言>
 繊維 せんい 繊維 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 その他 そのた/そのほか その他 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <体言><rel type="=" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="修飾" target="繊維その他" sid="wiki00019964-01-01" id="4"/>
++ 6D <rel type="=" target="繊維" sid="wiki00019964-00-01" id="2"/><rel type="修飾" target="繊維その他" sid="wiki00019964-01-01" id="4"/><体言>
 繊維 せんい 繊維 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="繊維" sid="wiki00019964-01-01" id="5"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="繊維" sid="wiki00019964-01-01" id="5"/><用言:動><節-主辞><節-区切>
 膠着 こうちゃく 膠着 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せて せて せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -79,12 +79,12 @@ EOS
 製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6D
-+ 9D <体言><rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="=構" target="紙" sid="wiki00019964-00-01" id="0"/>
++ 9D <rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="=構" target="紙" sid="wiki00019964-00-01" id="0"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="規格" sid="wiki00019964-01-01" id="2"/><rel type="ト" target="もの" sid="wiki00019964-01-01" id="8"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="紙" sid="wiki00019964-00-01" id="0"/><rel type="デ" target="規格" sid="wiki00019964-01-01" id="2"/><rel type="ト" target="もの" sid="wiki00019964-01-01" id="8"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 定義 ていぎ 定義 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -93,6 +93,6 @@ EOS
 EOS
 # S-ID:wiki00019964-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/13 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="規格" sid="wiki00019964-01-01" id="2"/><NE:ARTIFACT:JIS>
++ -1D <rel type="=" target="規格" sid="wiki00019964-01-01" id="2"/><体言><NE:ARTIFACT:JIS>
 JIS JIS JIS 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 EOS

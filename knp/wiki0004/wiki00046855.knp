@@ -16,14 +16,14 @@
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="=" target="都市" sid="wiki00046855-00" id="0"/>
++ 5D <rel type="=" target="都市" sid="wiki00046855-00" id="0"/><体言>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11P
 + 5D <体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12P <rel type="ガ" target="人口" sid="wiki00046855-00" id="4"/><体言><非用言格解析:動><rel type="ヘ" target="都市" sid="wiki00046855-00" id="3"/><rel type="=構" target="都市化" sid="wiki00046855-00" id="0"/>
++ 12P <rel type="ガ" target="人口" sid="wiki00046855-00" id="4"/><rel type="ヘ" target="都市" sid="wiki00046855-00" id="3"/><rel type="=構" target="都市化" sid="wiki00046855-00" id="0"/><体言><非用言格解析:動>
 集中 しゅうちゅう 集中 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
@@ -31,11 +31,11 @@
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 8P <体言><rel type="ノ？" target="都市" sid="wiki00046855-00" id="6"/>
++ 8P <rel type="ノ？" target="都市" sid="wiki00046855-00" id="6"/><体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 11D <体言><rel type="ノ？" target="都市" sid="wiki00046855-00" id="6"/>
++ 11D <rel type="ノ？" target="都市" sid="wiki00046855-00" id="6"/><体言>
 習慣 しゅうかん 習慣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
@@ -43,14 +43,14 @@
 周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 11D <体言><rel type="=≒" target="都市" sid="wiki00046855-00" id="3"/>
++ 11D <rel type="=≒" target="都市" sid="wiki00046855-00" id="3"/><体言>
 農村 のうそん 農村 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 12D <用言:動><時制:非過去><節-主辞><rel type="ニ" target="農村" sid="wiki00046855-00" id="10"/><rel type="ニ" mode="AND" target="周辺" sid="wiki00046855-00" id="9"/><rel type="ガ" target="習慣" sid="wiki00046855-00" id="8"/><rel type="ガ" mode="AND" target="文化" sid="wiki00046855-00" id="7"/><rel type="外の関係" target="こと" sid="wiki00046855-00" id="12"/>
++ 12D <rel type="ニ" target="農村" sid="wiki00046855-00" id="10"/><rel type="ニ" mode="AND" target="周辺" sid="wiki00046855-00" id="9"/><rel type="ガ" target="習慣" sid="wiki00046855-00" id="8"/><rel type="ガ" mode="AND" target="文化" sid="wiki00046855-00" id="7"/><rel type="外の関係" target="こと" sid="wiki00046855-00" id="12"/><用言:動><時制:非過去><節-主辞>
 広がる ひろがる 広がる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="都市化" sid="wiki00046855-00" id="0"/><用言:判><体言><時制:非過去><節-区切><rel type="=構" target="都市化" sid="wiki00046855-00" id="0"/><memo text="CO"/><rel type="トイウ" target="広がる" sid="wiki00046855-00" id="11"/>
++ -1D <rel type="ガ" target="都市化" sid="wiki00046855-00" id="0"/><rel type="=構" target="都市化" sid="wiki00046855-00" id="0"/><rel type="トイウ" target="広がる" sid="wiki00046855-00" id="11"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -5,11 +5,11 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=≒" target="エタノール" sid="wiki00012437-00-01" id="0"/>
++ 2D <rel type="=≒" target="エタノール" sid="wiki00012437-00-01" id="0"/><体言>
 アルコール あるこーる アルコール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="ノ" target="アルコール" sid="wiki00012437-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=構" mode="AND" target="アルコール" sid="wiki00012437-00-01" id="1"/>
++ -1D <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="ノ" target="アルコール" sid="wiki00012437-00-01" id="1"/><rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=構" mode="AND" target="アルコール" sid="wiki00012437-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -27,7 +27,7 @@ EOS
 * 4P
 + 2D <体言>
 無色 むしょく 無色 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="修飾" target="揮発性" sid="wiki00012437-01" id="0"/><rel type="修飾" mode="AND" target="無色" sid="wiki00012437-01" id="1"/>
++ 5P <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="修飾" target="揮発性" sid="wiki00012437-01" id="0"/><rel type="修飾" mode="AND" target="無色" sid="wiki00012437-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 液体 えきたい 液体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -35,7 +35,7 @@ EOS
 + 4D <rel type="ガ" target="芳香" sid="wiki00012437-01" id="4"/><用言:形><時制:非過去>
 特有の とくゆうの 特有だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 4D
-+ 5D <体言><rel type="修飾" target="特有の" sid="wiki00012437-01" id="3"/>
++ 5D <rel type="修飾" target="特有の" sid="wiki00012437-01" id="3"/><体言>
 芳香 ほうこう 芳香 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -51,7 +51,7 @@ EOS
 * -1D
 + 2D <体言>
 エチル えちる エチル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="別名" sid="wiki00012437-02-01" id="0"/><memo text="CO"/><rel type="=構" target="別名" sid="wiki00012437-02-01" id="0"/><rel type="=" mode="AND" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=≒" mode="AND" target="アルコール" sid="wiki00012437-00-01" id="1"/>
++ -1D <rel type="ガ" target="別名" sid="wiki00012437-02-01" id="0"/><rel type="=構" target="別名" sid="wiki00012437-02-01" id="0"/><rel type="=" mode="AND" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=≒" mode="AND" target="アルコール" sid="wiki00012437-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 アルコール あるこーる アルコール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -70,24 +70,24 @@ EOS
 酒 さけ 酒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="成分" sid="wiki00012437-03-01" id="3"/><rel type="ヲ" target="酒" sid="wiki00012437-03-01" id="0"/><時制:非過去><節-主辞><用言:動><memo text="品詞？"/>
++ 3D <rel type="ガ" target="成分" sid="wiki00012437-03-01" id="3"/><rel type="ヲ" target="酒" sid="wiki00012437-03-01" id="0"/><memo text="品詞？"/><時制:非過去><節-主辞><用言:動>
 酒 さけ 酒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 たら たら る 助動詞 5 * 0 助動詞たり 1 未然形 13 NIL
 しめる しめる しめる 助動詞 5 * 0 助動詞しむ 1 連体形 2 NIL
 * 4P
 + 3D <体言>
 化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="修飾" target="化学" sid="wiki00012437-03-01" id="2"/>
++ 5P <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="修飾" target="化学" sid="wiki00012437-03-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 成分 せいぶん 成分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/>
++ 5D <rel type="=構" target="エタノール" sid="wiki00012437-00-01" id="0"/><体言>
 酒精 しゅせい 酒精 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="酒精" sid="wiki00012437-03-01" id="4"/>
++ -1D <rel type="ガ" target="エタノール" sid="wiki00012437-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="酒精" sid="wiki00012437-03-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -115,12 +115,12 @@ EOS
 なじみ なじみ なじむ 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
 やすい やすい やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 8D
-+ 5D <体言><rel type="=" target="エチル" sid="wiki00012437-02-01" id="1"/>
++ 5D <rel type="=" target="エチル" sid="wiki00012437-02-01" id="1"/><体言>
 エチル えちる エチル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="エチル" sid="wiki00012437-04" id="4"/>
++ 6D <rel type="ノ？" target="エチル" sid="wiki00012437-04" id="4"/><体言>
 基 き 基 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 12D <体言><rel type="=構" target="基" sid="wiki00012437-04" id="5"/><rel type="修飾" target="基" sid="wiki00012437-04" id="5"/>
++ 12D <rel type="=構" target="基" sid="wiki00012437-04" id="5"/><rel type="修飾" target="基" sid="wiki00012437-04" id="5"/><体言>
 CHCH CHCH CHCH 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 - - - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -130,30 +130,30 @@ CHCH CHCH CHCH 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 水 みず 水 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="基" sid="wiki00012437-04" id="11"/><rel type="ニ" target="水" sid="wiki00012437-04" id="8"/><用言:動><時制:非過去>
++ 10D <rel type="ガ" target="基" sid="wiki00012437-04" id="11"/><rel type="ニ" target="水" sid="wiki00012437-04" id="7"/><用言:動><時制:非過去>
 なじみ なじみ なじむ 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
 やすい やすい やすい 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 8D
 + 10D <体言>
 ヒドロキシ ひどろきし ヒドロキシ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ノ？" target="ヒドロキシ" sid="wiki00012437-04" id="9"/>
++ 11D <rel type="ノ？" target="ヒドロキシ" sid="wiki00012437-04" id="9"/><体言>
 基 き 基 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 12D <体言><rel type="=構" target="基" sid="wiki00012437-04" id="10"/><rel type="修飾" target="基" sid="wiki00012437-04" id="10"/>
++ 12D <rel type="=構" target="基" sid="wiki00012437-04" id="10"/><rel type="修飾" target="基" sid="wiki00012437-04" id="10"/><体言>
 - - - 特殊 1 記号 5 * 0 * 0 NIL
 OH OH OH 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <用言:動><時制:過去><節-主辞><rel type="外の関係" target="構造" sid="wiki00012437-04" id="13"/><rel type="ガ" target="-OH" sid="wiki00012437-04" id="11"/><rel type="ト" target="CHCH-" sid="wiki00012437-04" id="6"/>
++ 13D <rel type="外の関係" target="構造" sid="wiki00012437-04" id="13"/><rel type="ガ" target="-OH" sid="wiki00012437-04" id="11"/><rel type="ト" target="CHCH-" sid="wiki00012437-04" id="6"/><用言:動><時制:過去><節-主辞>
 結合 けつごう 結合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 10D
-+ 14D <体言><rel type="トイウ" target="結合した" sid="wiki00012437-04" id="12"/><rel type="ノ" target="分子" sid="wiki00012437-04" id="1"/>
++ 14D <rel type="トイウ" target="結合した" sid="wiki00012437-04" id="12"/><rel type="ノ" target="分子" sid="wiki00012437-04" id="1"/><体言>
 構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="分子" sid="wiki00012437-04" id="1"/><rel type="ヲ" target="構造" sid="wiki00012437-04" id="15"/><用言:動><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="分子" sid="wiki00012437-04" id="1"/><rel type="ヲ" target="構造" sid="wiki00012437-04" id="13"/><用言:動><時制:非過去><節-主辞><節-区切>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

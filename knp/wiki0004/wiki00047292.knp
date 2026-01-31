@@ -18,17 +18,17 @@ SUBARU すばる SUBARU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:O
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="会社" sid="wiki00047292-00-01" id="8"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="自動車など" sid="wiki00047292-00-01" id="4"/>
++ 8D <rel type="ガ" target="会社" sid="wiki00047292-00-01" id="8"/><rel type="ヲ" target="自動車など" sid="wiki00047292-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
 + 7D <体言>
 重 じゅう 重 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="重" sid="wiki00047292-00-01" id="6"/>
++ 8D <rel type="修飾" target="重" sid="wiki00047292-00-01" id="6"/><体言>
 工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="修飾" target="工業" sid="wiki00047292-00-01" id="7"/><rel type="ノ？" target="日本" sid="wiki00047292-00-01" id="3"/>
++ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="修飾" target="工業" sid="wiki00047292-00-01" id="7"/><rel type="ノ？" target="日本" sid="wiki00047292-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -63,15 +63,15 @@ EOS
 * 4D
 + 7D <体言>
 持分 もちぶん 持分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="持分" sid="wiki00047292-01" id="6"/>
++ 8D <rel type="ノ？" target="持分" sid="wiki00047292-01" id="6"/><体言>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ヲ" target="法" sid="wiki00047292-01" id="7"/><体言><非用言格解析:動><rel type="ガ" target="会社" sid="wiki00047292-01" id="5"/><rel type="ニ" target="会社" sid="wiki00047292-01" id="9"/>
++ 9D <rel type="ヲ" target="法" sid="wiki00047292-01" id="7"/><rel type="ガ" target="会社" sid="wiki00047292-01" id="5"/><rel type="ニ" target="会社" sid="wiki00047292-01" id="9"/><体言><非用言格解析:動>
 適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="ノ" target="会社" sid="wiki00047292-01" id="5"/>
++ 10D <rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="ノ" target="会社" sid="wiki00047292-01" id="5"/><体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="会社" sid="wiki00047292-01" id="9"/><rel type="カラ" target="6日" sid="wiki00047292-01" id="2"/>
++ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="ト" target="会社" sid="wiki00047292-01" id="9"/><rel type="カラ" target="6日" sid="wiki00047292-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -80,9 +80,9 @@ EOS
 * 1P
 + 1D <体言>
 日経 にっけい 日経 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="日経" sid="wiki00047292-02" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00047292-02" id="2"/>
++ 2D <rel type="ガ" target="日経" sid="wiki00047292-02" id="0"/><rel type="ヲ≒" target="株価" sid="wiki00047292-02" id="2"/><体言><非用言格解析:動>
 平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 5P <体言><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="修飾" target="平均" sid="wiki00047292-02" id="1"/>
++ 5P <rel type="修飾" target="平均" sid="wiki00047292-02" id="1"/><体言><NE:OPTIONAL:日経平均株価><NE-OPTIONAL:ARTIFACT,NONE:0>
 株価 かぶか 株価 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -95,13 +95,13 @@ Large らーじ Large 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle><�
 70 ななじゅう 70 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:tail><基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="銘柄" sid="wiki00047292-02" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="株価" sid="wiki00047292-02" id="2"/><rel type="ヲ" mode="AND" target="70" sid="wiki00047292-02" id="5"/>
++ 7D <rel type="ガ" target="銘柄" sid="wiki00047292-02" id="7"/><rel type="ヲ" target="株価" sid="wiki00047292-02" id="2"/><rel type="ヲ" mode="AND" target="70" sid="wiki00047292-02" id="5"/><体言><非用言格解析:動>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="構成" sid="wiki00047292-02" id="6"/>
++ 8D <rel type="修飾" target="構成" sid="wiki00047292-02" id="6"/><体言>
 銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="ノ" target="銘柄" sid="wiki00047292-02" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00047292-02" id="7"/><memo text="CO"/>
++ -1D <rel type="ガ" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="ノ" target="銘柄" sid="wiki00047292-02" id="7"/><rel type="=構" target="SUBARU" sid="wiki00047292-00-01" id="2"/><rel type="=構" mode="AND" target="銘柄" sid="wiki00047292-02" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

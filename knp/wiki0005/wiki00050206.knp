@@ -18,7 +18,7 @@
 + 4D <rel type="ガ" target="兵士" sid="wiki00050206-00-01" id="1"/><rel type="ヲ" target="歌" sid="wiki00050206-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 歌う うたう 歌う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="軍歌" sid="wiki00050206-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="軍歌" sid="wiki00050206-00-01" id="0"/>
++ -1D <rel type="ガ" target="軍歌" sid="wiki00050206-00-01" id="0"/><rel type="=構" target="軍歌" sid="wiki00050206-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 歌 うた 歌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -46,33 +46,33 @@ EOS
 軍隊 ぐんたい 軍隊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ノ？" target="軍隊" sid="wiki00050206-01" id="3"/>
++ 5D <rel type="ノ？" target="軍隊" sid="wiki00050206-01" id="3"/><体言>
 士気 しき 士気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 7P <rel type="ヲ" target="士気" sid="wiki00050206-01" id="4"/><体言><非用言格解析:動><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/>
++ 7P <rel type="ヲ" target="士気" sid="wiki00050206-01" id="4"/><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/><体言><非用言格解析:動>
 鼓舞 こぶ 鼓舞 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D <体言><rel type="ノ" target="不特定:人"/><rel type="ノ" mode="？" target="軍隊" sid="wiki00050206-01" id="3"/>
++ 7D <rel type="ノ" target="不特定:人"/><rel type="ノ" mode="？" target="軍隊" sid="wiki00050206-01" id="3"/><体言>
 戦意 せんい 戦意 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 10P <rel type="ヲ" target="戦意" sid="wiki00050206-01" id="6"/><体言><非用言格解析:動><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/>
++ 10P <rel type="ヲ" target="戦意" sid="wiki00050206-01" id="6"/><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/><体言><非用言格解析:動>
 高揚 こうよう 高揚 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 9D <体言><rel type="ヘ" target="日本" sid="wiki00050206-01" id="0"/>
++ 9D <rel type="ヘ" target="日本" sid="wiki00050206-01" id="0"/><体言>
 愛国 あいこく 愛国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="トイウ" target="愛国" sid="wiki00050206-01" id="8"/>
++ 10D <rel type="トイウ" target="愛国" sid="wiki00050206-01" id="8"/><体言>
 精神 せいしん 精神 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ヲ" target="精神" sid="wiki00050206-01" id="9"/><体言><非用言格解析:動><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/>
++ 12D <rel type="ヲ" target="精神" sid="wiki00050206-01" id="9"/><rel type="ガ" target="軍隊" sid="wiki00050206-01" id="3"/><rel type="ガ" mode="？" target="不特定:人"/><体言><非用言格解析:動>
 発揚 はつよう 発揚 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D <体言><rel type="=構" target="鼓舞" sid="wiki00050206-01" id="5"/><rel type="=構" mode="AND" target="高揚" sid="wiki00050206-01" id="7"/><rel type="=構" mode="AND" target="発揚" sid="wiki00050206-01" id="10"/><rel type="ノ" target="歌" sid="wiki00050206-01" id="14"/>
++ 12D <rel type="=構" target="鼓舞" sid="wiki00050206-01" id="5"/><rel type="=構" mode="AND" target="高揚" sid="wiki00050206-01" id="7"/><rel type="=構" mode="AND" target="発揚" sid="wiki00050206-01" id="10"/><rel type="ノ" target="歌" sid="wiki00050206-01" id="14"/><体言>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -91,16 +91,16 @@ EOS
 戦友 せんゆう 戦友 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 17D <体言><rel type="ノ？" target="戦友" sid="wiki00050206-01" id="15"/>
++ 17D <rel type="ノ？" target="戦友" sid="wiki00050206-01" id="15"/><体言>
 死 し 死 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
-+ 19D <体言><rel type="ヘ" target="死" sid="wiki00050206-01" id="16"/>
++ 19D <rel type="ヘ" target="死" sid="wiki00050206-01" id="16"/><体言>
 悲しみ かなしみ 悲しみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 19D <rel type="ノ" target="歌" sid="wiki00050206-01" id="20"/><体言><rel type="=構" target="悲しみ" sid="wiki00050206-01" id="17"/>
++ 19D <rel type="ノ" target="歌" sid="wiki00050206-01" id="20"/><rel type="=構" target="悲しみ" sid="wiki00050206-01" id="17"/><体言>
 題材 だいざい 題材 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D

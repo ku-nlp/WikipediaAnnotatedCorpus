@@ -8,7 +8,7 @@
 * 3P
 + 2D <体言>
 自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="修飾" target="自然" sid="wiki00014292-00-01" id="1"/>
++ 4P <rel type="修飾" target="自然" sid="wiki00014292-00-01" id="1"/><体言>
 現象 げんしょう 現象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
@@ -16,7 +16,7 @@
 人為 じんい 人為 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
-+ 5D <体言><非用言格解析:動><rel type="修飾" target="人為的な" sid="wiki00014292-00-01" id="3"/><rel type="ガ" target="不特定:人"/>
++ 5D <rel type="修飾" target="人為的な" sid="wiki00014292-00-01" id="3"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -30,7 +30,7 @@
 * 8D
 + 8D <体言>
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="修飾" target="社会" sid="wiki00014292-00-01" id="7"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="社会" sid="wiki00014292-00-01" id="7"/><体言><非用言格解析:動>
 生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -38,10 +38,10 @@
 被害 ひがい 被害 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="被害" sid="wiki00014292-00-01" id="9"/><用言:動><時制:非過去><節-主辞><rel type="ニヨッテ" target="原因" sid="wiki00014292-00-01" id="4"/><rel type="ニヨッテ" mode="AND" target="現象" sid="wiki00014292-00-01" id="2"/><rel type="外の関係" target="事態" sid="wiki00014292-00-01" id="11"/><rel type="ニ" target="人命" sid="wiki00014292-00-01" id="6"/><rel type="ニ" mode="AND" target="生活" sid="wiki00014292-00-01" id="8"/>
++ 11D <rel type="ガ" target="被害" sid="wiki00014292-00-01" id="9"/><rel type="ニヨッテ" target="原因" sid="wiki00014292-00-01" id="4"/><rel type="ニヨッテ" mode="AND" target="現象" sid="wiki00014292-00-01" id="2"/><rel type="外の関係" target="事態" sid="wiki00014292-00-01" id="11"/><rel type="ニ" target="人命" sid="wiki00014292-00-01" id="6"/><rel type="ニ" mode="AND" target="生活" sid="wiki00014292-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
 生じる しょうじる 生じる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 12D <体言><rel type="=構" target="災害" sid="wiki00014292-00-01" id="0"/><rel type="トイウ" target="生じる" sid="wiki00014292-00-01" id="10"/>
++ 12D <rel type="=構" target="災害" sid="wiki00014292-00-01" id="0"/><rel type="トイウ" target="生じる" sid="wiki00014292-00-01" id="10"/><体言>
 事態 じたい 事態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -51,14 +51,14 @@
 EOS
 # S-ID:wiki00014292-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/13 MEMO:
 * 1P
-+ 2P <体言><rel type="=" target="災害" sid="wiki00014292-00-01" id="0"/>
++ 2P <rel type="=" target="災害" sid="wiki00014292-00-01" id="0"/><体言>
 さいがい さいがい さいがい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="災害" sid="wiki00014292-00-01" id="0"/>
++ 2D <rel type="ノ" target="災害" sid="wiki00014292-00-01" id="0"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="デ" target="英" sid="wiki00014292-00-02" id="1"/><体言><rel type="=" target="災害" sid="wiki00014292-00-01" id="0"/><rel type="=構" mode="AND" target="英" sid="wiki00014292-00-02" id="1"/>
++ -1D <rel type="デ" target="英" sid="wiki00014292-00-02" id="1"/><rel type="=" target="災害" sid="wiki00014292-00-01" id="0"/><rel type="=構" mode="AND" target="英" sid="wiki00014292-00-02" id="1"/><体言>
 disaster disaster disaster 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

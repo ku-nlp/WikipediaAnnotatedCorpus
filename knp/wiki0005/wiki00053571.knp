@@ -2,7 +2,7 @@
 * 4D
 + 1D <体言>
 演歌 えんか 演歌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="演歌" sid="wiki00053571-00-01" id="0"/>
++ 5D <rel type="修飾" target="演歌" sid="wiki00053571-00-01" id="0"/><体言>
 歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,14 +11,14 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=" target="演歌" sid="wiki00053571-00-01" id="0"/><体言><rel type="修飾" target="日本" sid="wiki00053571-00-01" id="2"/>
++ 4D <rel type="=" target="演歌" sid="wiki00053571-00-01" id="0"/><rel type="修飾" target="日本" sid="wiki00053571-00-01" id="2"/><体言>
 演歌 えんか 演歌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <rel type="ガ" target="歌手" sid="wiki00053571-00-01" id="5"/><rel type="ヲ" target="演歌" sid="wiki00053571-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
 歌う うたう 歌う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="歌手" sid="wiki00053571-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="歌手" sid="wiki00053571-00-01" id="1"/><rel type="修飾" target="歌う" sid="wiki00053571-00-01" id="4"/>
++ -1D <rel type="ガ" target="歌手" sid="wiki00053571-00-01" id="1"/><rel type="=構" target="歌手" sid="wiki00053571-00-01" id="1"/><rel type="修飾" target="歌う" sid="wiki00053571-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -27,29 +27,29 @@ EOS
 * -1D
 + 1D <rel type="=" target="演歌" sid="wiki00053571-00-01" id="0"/><体言>
 えんか えんか えんか 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="歌手" sid="wiki00053571-00-01" id="1"/>
++ -1D <rel type="=" target="歌手" sid="wiki00053571-00-01" id="1"/><体言>
 かしゅ かしゅ かしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00053571-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2024/03/07 MEMO:
 * 3D
 + 1D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="本" sid="wiki00053571-01" id="0"/>
++ 5D <rel type="修飾" target="本" sid="wiki00053571-01" id="0"/><体言>
 項 こう 項 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="=" target="演歌" sid="wiki00053571-00-01" id="0"/>
++ 3D <rel type="=" target="演歌" sid="wiki00053571-00-01" id="0"/><体言>
 演歌 えんか 演歌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=" target="歌手" sid="wiki00053571-00-01" id="1"/>
++ 4D <rel type="=" target="歌手" sid="wiki00053571-00-01" id="1"/><体言>
 歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <体言><非用言格解析:動><rel type="ノ" target="歌手" sid="wiki00053571-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="歌手" sid="wiki00053571-01" id="3"/>
++ 5D <rel type="ノ" target="歌手" sid="wiki00053571-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="歌手" sid="wiki00053571-01" id="3"/><体言><非用言格解析:動>
 一覧 いちらん 一覧 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="一覧" sid="wiki00053571-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="項" sid="wiki00053571-01" id="1"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="一覧" sid="wiki00053571-01" id="4"/><rel type="デ" target="項" sid="wiki00053571-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 記す しるす 記す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -65,11 +65,11 @@ EOS
 * 3D
 + 3D <rel type="ノ" target="演歌" sid="wiki00053571-02" id="0"/>
 他 た 他 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="他" sid="wiki00053571-02" id="2"/>
++ 4D <rel type="修飾" target="他" sid="wiki00053571-02" id="2"/><体言>
 ジャンル じゃんる ジャンル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 16P <体言><rel type="修飾" target="ジャンル" sid="wiki00053571-02" id="3"/>
++ 16P <rel type="修飾" target="ジャンル" sid="wiki00053571-02" id="3"/><体言>
 歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
@@ -79,13 +79,13 @@ EOS
 * 6P
 + 7D <体言><NE:DATE:昭和>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
-+ 9P <体言><rel type="修飾" target="昭和" sid="wiki00053571-02" id="6"/><rel type="時間" target="初期" sid="wiki00053571-02" id="5"/>
++ 9P <rel type="修飾" target="昭和" sid="wiki00053571-02" id="6"/><rel type="時間" target="初期" sid="wiki00053571-02" id="5"/><体言>
 歌謡 かよう 歌謡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
 + 9D <体言>
 ムード むーど ムード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12P <体言><rel type="修飾" target="ムード" sid="wiki00053571-02" id="8"/>
++ 12P <rel type="修飾" target="ムード" sid="wiki00053571-02" id="8"/><体言>
 歌謡 かよう 歌謡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -93,20 +93,20 @@ EOS
 ニュー にゅー ニュー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <体言>
 アダルト あだると アダルト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="修飾" target="ニュー" sid="wiki00053571-02" id="10"/><rel type="修飾" mode="AND" target="アダルト" sid="wiki00053571-02" id="11"/>
++ 14D <rel type="修飾" target="ニュー" sid="wiki00053571-02" id="10"/><rel type="修飾" mode="AND" target="アダルト" sid="wiki00053571-02" id="11"/><体言>
 ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
 + 14D <体言>
 歌謡 かよう 歌謡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 16D <体言><rel type="=≒" target="歌謡" sid="wiki00053571-02" id="7"/><rel type="=≒" mode="AND" target="歌謡" sid="wiki00053571-02" id="9"/><rel type="=≒" mode="AND" target="ミュージック" sid="wiki00053571-02" id="12"/><rel type="修飾" target="歌謡" sid="wiki00053571-02" id="13"/>
++ 16D <rel type="=≒" target="歌謡" sid="wiki00053571-02" id="7"/><rel type="=≒" mode="AND" target="歌謡" sid="wiki00053571-02" id="9"/><rel type="=≒" mode="AND" target="ミュージック" sid="wiki00053571-02" id="12"/><rel type="修飾" target="歌謡" sid="wiki00053571-02" id="13"/><体言>
 曲 きょく 曲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 16D <体言><rel type="ノ" target="歌手" sid="wiki00053571-02" id="16"/>
++ 16D <rel type="ノ" target="歌手" sid="wiki00053571-02" id="16"/><体言>
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="修飾" target="一部" sid="wiki00053571-02" id="15"/><rel type="修飾" mode="AND" target="曲" sid="wiki00053571-02" id="14"/>
++ 17D <rel type="修飾" target="一部" sid="wiki00053571-02" id="15"/><rel type="修飾" mode="AND" target="曲" sid="wiki00053571-02" id="14"/><体言>
 歌手 かしゅ 歌手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D

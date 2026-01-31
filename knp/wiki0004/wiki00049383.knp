@@ -19,9 +19,9 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D <体言><rel type="=≒" target="新聞" sid="wiki00049383-00-01" id="4"/>
++ 8D <rel type="=≒" target="新聞" sid="wiki00049383-00-01" id="4"/><体言>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="日本" sid="wiki00049383-00-01" id="6"/><rel type="ノ？" mode="AND" target="新聞" sid="wiki00049383-00-01" id="7"/><rel type="=構" target="社" sid="wiki00049383-00-01" id="5"/>
++ -1D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ノ？" target="日本" sid="wiki00049383-00-01" id="6"/><rel type="ノ？" mode="AND" target="新聞" sid="wiki00049383-00-01" id="7"/><rel type="=構" target="社" sid="wiki00049383-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -39,16 +39,16 @@ EOS
 EOS
 # S-ID:wiki00049383-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2024/04/16 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="日本" sid="wiki00049383-00-01" id="2"/>
++ 1D <rel type="=" target="日本" sid="wiki00049383-00-01" id="2"/><体言>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <体言><rel type="=" target="経済" sid="wiki00049383-00-01" id="3"/>
++ 2D <rel type="=" target="経済" sid="wiki00049383-00-01" id="3"/><体言>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 3D <rel type="=" target="新聞" sid="wiki00049383-00-01" id="4"/><体言><NE:ARTIFACT:日本経済新聞>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="=≒" target="新聞" sid="wiki00049383-01" id="2"/><rel type="=" mode="AND" target="新聞" sid="wiki00049383-00-01" id="7"/>
++ 4D <rel type="=≒" target="新聞" sid="wiki00049383-01" id="2"/><rel type="=" mode="AND" target="新聞" sid="wiki00049383-00-01" id="7"/><体言>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ヲ" target="新聞" sid="wiki00049383-01" id="3"/><体言><非用言格解析:動>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -60,7 +60,7 @@ EOS
 * 4D
 + 7D <体言>
 デジタル でじたる デジタル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="デジタル" sid="wiki00049383-01" id="6"/>
++ 8D <rel type="修飾" target="デジタル" sid="wiki00049383-01" id="6"/><体言>
 媒体 ばいたい 媒体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
@@ -68,7 +68,7 @@ EOS
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 10P <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/>
++ 10P <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9P
@@ -78,7 +78,7 @@ EOS
 * 8P
 + 12D <体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13P <体言><rel type="ノ？" target="文化" sid="wiki00049383-01" id="11"/>
++ 13P <rel type="ノ？" target="文化" sid="wiki00049383-01" id="11"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
@@ -86,15 +86,15 @@ EOS
 賞 しょう 賞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 15P <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="賞" sid="wiki00049383-01" id="13"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00049383-01" id="12"/>
++ 15P <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ヲ" target="賞" sid="wiki00049383-01" id="13"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00049383-01" id="12"/><体言><非用言格解析:動>
 主催 しゅさい 主催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:人"/><rel type="デ" target="賞" sid="wiki00049383-01" id="13"/><rel type="デ" mode="AND" target="事業" sid="wiki00049383-01" id="12"/>
++ 16D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ヲ" target="不特定:人"/><rel type="デ" target="賞" sid="wiki00049383-01" id="13"/><rel type="デ" mode="AND" target="事業" sid="wiki00049383-01" id="12"/><体言><非用言格解析:動>
 表彰 ひょうしょう 表彰 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="表彰等" sid="wiki00049383-01" id="15"/><rel type="ヲ" mode="AND" target="主催" sid="wiki00049383-01" id="14"/><rel type="ヲ" mode="AND" target="放送" sid="wiki00049383-01" id="10"/><rel type="ヲ" mode="AND" target="出版" sid="wiki00049383-01" id="9"/><rel type="ヲ" mode="AND" target="運営" sid="wiki00049383-01" id="8"/><rel type="ヲ" mode="AND" target="発行" sid="wiki00049383-01" id="4"/>
++ -1D <rel type="ガ" target="社" sid="wiki00049383-00-01" id="5"/><rel type="ヲ" target="表彰等" sid="wiki00049383-01" id="15"/><rel type="ヲ" mode="AND" target="主催" sid="wiki00049383-01" id="14"/><rel type="ヲ" mode="AND" target="放送" sid="wiki00049383-01" id="10"/><rel type="ヲ" mode="AND" target="出版" sid="wiki00049383-01" id="9"/><rel type="ヲ" mode="AND" target="運営" sid="wiki00049383-01" id="8"/><rel type="ヲ" mode="AND" target="発行" sid="wiki00049383-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 行って おこなって 行う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

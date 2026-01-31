@@ -1,6 +1,6 @@
 # S-ID:wiki00053924-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/03/08 MEMO:
 * 3D
-+ 4D <体言><NE:LOCATION:ユタ州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:ユタ州>
 ユタ ゆた ユタ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -8,21 +8,21 @@
 * 2D
 + 2D <体言><NE:LOCATION:アメリカ合衆国>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><rel type="=≒" target="ユタ州" sid="wiki00053924-00" id="0"/>
++ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><rel type="=≒" target="ユタ州" sid="wiki00053924-00" id="0"/><体言>
 西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="州" sid="wiki00053924-00" id="4"/><rel type="ニ" target="西部" sid="wiki00053924-00" id="2"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="ある" sid="wiki00053924-00" id="3"/><rel type="=構" target="ユタ州" sid="wiki00053924-00" id="0"/>
++ -1D <rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="修飾" target="ある" sid="wiki00053924-00" id="3"/><rel type="=構" target="ユタ州" sid="wiki00053924-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00053924-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2024/03/08 MEMO:
 * 5D
-+ 7D <体言><rel type="=" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><NE:OPTIONAL:合衆国><NE-OPTIONAL:LOCATION,NONE:0>
++ 7D <rel type="=" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:OPTIONAL:合衆国><NE-OPTIONAL:LOCATION,NONE:0>
 合衆国 がっしゅうこく 合衆国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -38,27 +38,27 @@ EOS
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <体言><rel type="ノ≒" target="加盟した" sid="wiki00053924-01" id="7"/>
++ 5D <rel type="ノ≒" target="加盟した" sid="wiki00053924-01" id="7"/><体言>
 45 よんじゅうご 45 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="=構" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="修飾" target="45番目" sid="wiki00053924-01" id="4"/>
++ 6D <rel type="=構" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="修飾" target="45番目" sid="wiki00053924-01" id="4"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 7D <用言:動><時制:非過去>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="時間" target="4日" sid="wiki00053924-01" id="3"/><rel type="トシテ" target="州" sid="wiki00053924-01" id="5"/><rel type="ニ" target="合衆国" sid="wiki00053924-01" id="0"/>
++ -1D <rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="時間" target="4日" sid="wiki00053924-01" id="3"/><rel type="トシテ" target="州" sid="wiki00053924-01" id="5"/><rel type="ニ" target="合衆国" sid="wiki00053924-01" id="0"/><用言:動><時制:過去><節-主辞><節-区切>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00053924-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2024/03/08 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="ユタ州" sid="wiki00053924-00" id="0"/>
++ 1D <rel type="=" target="ユタ州" sid="wiki00053924-00" id="0"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -66,12 +66,12 @@ EOS
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3P <体言><NE:LOCATION:アイダホ州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 3P <rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:アイダホ州>
 アイダホ あいだほ アイダホ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <体言><NE:LOCATION:ワイオミング州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:ワイオミング州>
 ワイオミング わいおみんぐ ワイオミング 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -85,7 +85,7 @@ EOS
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8P
-+ 8P <体言><NE:LOCATION:コロラド州><rel type="ガ" target="東" sid="wiki00053924-02" id="5"/><rel type="ニ" target="コロラド州" sid="wiki00053924-02" id="6"/><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 8P <rel type="ガ" target="東" sid="wiki00053924-02" id="5"/><rel type="ニ" target="コロラド州" sid="wiki00053924-02" id="6"/><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:コロラド州>
 コロラド ころらど コロラド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -96,7 +96,7 @@ EOS
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10P
-+ 10P <体言><NE:LOCATION:ネバダ州><rel type="ガ" target="西" sid="wiki00053924-02" id="7"/><rel type="ニ" target="ネバダ州" sid="wiki00053924-02" id="8"/><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 10P <rel type="ガ" target="西" sid="wiki00053924-02" id="7"/><rel type="ニ" target="ネバダ州" sid="wiki00053924-02" id="8"/><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:ネバダ州>
 ネバダ ねばだ ネバダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -107,12 +107,12 @@ EOS
 側 がわ 側 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11D
-+ 11D <体言><NE:LOCATION:アリゾナ州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/>
++ 11D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><体言><NE:LOCATION:アリゾナ州>
 アリゾナ ありぞな アリゾナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="南側" sid="wiki00053924-02" id="9"/><rel type="ニ" target="アリゾナ州" sid="wiki00053924-02" id="10"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="=≒" target="接し" sid="wiki00053924-02" id="4"/>
++ -1D <rel type="ガ" target="南側" sid="wiki00053924-02" id="9"/><rel type="ニ" target="アリゾナ州" sid="wiki00053924-02" id="10"/><rel type="ガ２" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="=≒" target="接し" sid="wiki00053924-02" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -123,41 +123,41 @@ EOS
 南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D <体言><rel type="修飾" target="南東" sid="wiki00053924-03" id="0"/><rel type="ノ" target="ユタ州" sid="wiki00053924-00" id="0"/>
++ 10D <rel type="修飾" target="南東" sid="wiki00053924-03" id="0"/><rel type="ノ" target="ユタ州" sid="wiki00053924-00" id="0"/><体言>
 隅 すみ 隅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 3D <体言>
 フォー ふぉー フォー 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <体言><rel type="修飾" target="フォー" sid="wiki00053924-03" id="2"/><NE:OPTIONAL:フォー・コーナーズ><NE-OPTIONAL:LOCATION,NONE:0>
++ 4D <rel type="修飾" target="フォー" sid="wiki00053924-03" id="2"/><体言><NE:OPTIONAL:フォー・コーナーズ><NE-OPTIONAL:LOCATION,NONE:0>
 コーナーズ こーなーず コーナーズ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="コーナーズ" sid="wiki00053924-03" id="3"/><rel type="ガ" target="ポイント" sid="wiki00053924-03" id="10"/>
++ 10D <rel type="ニ" target="不特定:人"/><rel type="ト" target="コーナーズ" sid="wiki00053924-03" id="3"/><rel type="ガ" target="ポイント" sid="wiki00053924-03" id="10"/><用言:動><時制:非過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 6D <体言><rel type="=" target="フォー" sid="wiki00053924-03" id="2"/>
++ 6D <rel type="=" target="フォー" sid="wiki00053924-03" id="2"/><体言>
 4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <体言><rel type="修飾" target="4つ" sid="wiki00053924-03" id="5"/><rel type="=構" target="4つ" sid="wiki00053924-03" id="5"/><rel type="=≒" mode="AND" target="コロラド州" sid="wiki00053924-02" id="6"/><rel type="=≒" mode="AND" target="アリゾナ州" sid="wiki00053924-02" id="10"/><rel type="=≒" mode="AND" target="ユタ州" sid="wiki00053924-00" id="0"/>
++ 9D <rel type="修飾" target="4つ" sid="wiki00053924-03" id="5"/><rel type="=構" target="4つ" sid="wiki00053924-03" id="5"/><rel type="=≒" mode="AND" target="コロラド州" sid="wiki00053924-02" id="6"/><rel type="=≒" mode="AND" target="アリゾナ州" sid="wiki00053924-02" id="10"/><rel type="=≒" mode="AND" target="ユタ州" sid="wiki00053924-00" id="0"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 9D <rel type="ノ" target="州" sid="wiki00053924-03" id="6"/><体言><rel type="=≒" target="コーナーズ" sid="wiki00053924-03" id="3"/>
++ 9D <rel type="ノ" target="州" sid="wiki00053924-03" id="6"/><rel type="=≒" target="コーナーズ" sid="wiki00053924-03" id="3"/><体言>
 角 かど 角 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="州" sid="wiki00053924-03" id="6"/><rel type="ヲ" target="角" sid="wiki00053924-03" id="8"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="ポイント" sid="wiki00053924-03" id="10"/>
++ 10D <rel type="ガ" target="州" sid="wiki00053924-03" id="6"/><rel type="ヲ" target="角" sid="wiki00053924-03" id="8"/><rel type="デ" target="ポイント" sid="wiki00053924-03" id="10"/><用言:動><時制:非過去><節-主辞>
 接する せっする 接する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 12P
-+ 13P <rel type="ガ" target="隅" sid="wiki00053924-03" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="接する" sid="wiki00053924-03" id="9"/><rel type="=構" target="隅" sid="wiki00053924-03" id="1"/><rel type="=構" mode="AND" target="コーナーズ" sid="wiki00053924-03" id="3"/>
++ 13P <rel type="ガ" target="隅" sid="wiki00053924-03" id="1"/><rel type="修飾" target="接する" sid="wiki00053924-03" id="9"/><rel type="=構" target="隅" sid="wiki00053924-03" id="1"/><rel type="=構" mode="AND" target="コーナーズ" sid="wiki00053924-03" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ポイント ぽいんと ポイント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -166,13 +166,13 @@ EOS
 ここ ここ ここ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 13D <体言><NE:LOCATION:ニューメキシコ州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><rel type="=≒" target="州" sid="wiki00053924-03" id="6"/>
++ 13D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00053924-00" id="1"/><rel type="=≒" target="州" sid="wiki00053924-03" id="6"/><体言><NE:LOCATION:ニューメキシコ州>
 ニューメキシコ にゅーめきしこ ニューメキシコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="ここ" sid="wiki00053924-03" id="11"/><rel type="ト" target="ニューメキシコ州" sid="wiki00053924-03" id="12"/>
++ -1D <rel type="ガ" target="ユタ州" sid="wiki00053924-00" id="0"/><rel type="デ" target="ここ" sid="wiki00053924-03" id="11"/><rel type="ト" target="ニューメキシコ州" sid="wiki00053924-03" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
 接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
@@ -184,7 +184,7 @@ EOS
 * 1D
 + 1D <体言>
 夏 なつ 夏 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="時間" target="夏" sid="wiki00053924-04" id="0"/>
++ 2D <rel type="時間" target="夏" sid="wiki00053924-04" id="0"/><体言>
 時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

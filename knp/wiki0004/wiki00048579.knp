@@ -8,7 +8,7 @@
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 7D <用言:動><時制:過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学園" sid="wiki00048579-00" id="7"/><rel type="時間" target="12月" sid="wiki00048579-00" id="1"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学園" sid="wiki00048579-00" id="7"/><rel type="時間" target="12月" sid="wiki00048579-00" id="1"/><用言:動><時制:過去><節-主辞>
 創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 11D
@@ -25,9 +25,9 @@
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 10D <体言><rel type="=" target="国防" sid="wiki00048579-00" id="5"/>
++ 10D <rel type="=" target="国防" sid="wiki00048579-00" id="5"/><体言>
 国防 こくぼう 国防 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 10D <体言><rel type="=" target="理工" sid="wiki00048579-00" id="6"/>
++ 10D <rel type="=" target="理工" sid="wiki00048579-00" id="6"/><体言>
 理工 りこう 理工 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 + 11D <体言>
 科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
@@ -35,13 +35,13 @@
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 13D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00048579-00" id="11"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00048579-00" id="11"/><体言><非用言格解析:動>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><非用言格解析:動><rel type="ガ" target="学園" sid="wiki00048579-00" id="7"/><rel type="ヲ" target="設立" sid="wiki00048579-00" id="12"/>
++ 14D <rel type="ガ" target="学園" sid="wiki00048579-00" id="7"/><rel type="ヲ" target="設立" sid="wiki00048579-00" id="12"/><体言><非用言格解析:動>
 構想 こうそう 構想 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 15D <体言><rel type="ノ" target="構想" sid="wiki00048579-00" id="13"/>
++ 15D <rel type="ノ" target="構想" sid="wiki00048579-00" id="13"/><体言>
 一環 いっかん 一環 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -56,7 +56,7 @@
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 19D <体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 20D <体言><NE:ARTIFACT:旧・専門学校令><rel type="修飾" target="旧" sid="wiki00048579-00" id="16"/>
++ 20D <rel type="修飾" target="旧" sid="wiki00048579-00" id="16"/><体言><NE:ARTIFACT:旧・専門学校令>
 令 れい 令 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -82,7 +82,7 @@
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="学園" sid="wiki00048579-00" id="7"/><rel type="トシテ" target="一環" sid="wiki00048579-00" id="14"/><rel type="ヲ" target="学校" sid="wiki00048579-00" id="26"/><rel type="時間" target="４月" sid="wiki00048579-00" id="22"/><memo text="PO:する"/><rel type="ニヨッテ" target="令" sid="wiki00048579-00" id="19"/><用言:動><体言><節-主辞><節-区切><時制:過去>
++ -1D <rel type="ガ" target="学園" sid="wiki00048579-00" id="7"/><rel type="トシテ" target="一環" sid="wiki00048579-00" id="14"/><rel type="ヲ" target="学校" sid="wiki00048579-00" id="26"/><rel type="時間" target="４月" sid="wiki00048579-00" id="22"/><rel type="ニヨッテ" target="令" sid="wiki00048579-00" id="19"/><memo text="PO:する"/><用言:動><体言><節-主辞><節-区切><時制:過去>
 開設 かいせつ 開設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -94,13 +94,13 @@ EOS
 次 じ 次 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 + 2D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="第二次" sid="wiki00048579-01" id="0"/>
++ 4D <rel type="修飾" target="第二次" sid="wiki00048579-01" id="0"/><体言>
 大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="ノ？" target="大戦" sid="wiki00048579-01" id="2"/>
++ 4D <rel type="ノ？" target="大戦" sid="wiki00048579-01" id="2"/><体言>
 終戦 しゅうせん 終戦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="終戦" sid="wiki00048579-01" id="3"/><rel type="ノ" target="大戦" sid="wiki00048579-01" id="2"/>
++ 7D <rel type="ノ？" target="終戦" sid="wiki00048579-01" id="3"/><rel type="ノ" target="大戦" sid="wiki00048579-01" id="2"/><体言>
 日 び 日 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
@@ -110,15 +110,15 @@ EOS
 + 7D <体言>
 ８ はち ８ 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 18D <体言><NE:DATE:1945年８月15日><rel type="修飾" target="日" sid="wiki00048579-01" id="4"/><rel type="=構" target="日" sid="wiki00048579-01" id="4"/>
++ 18D <rel type="修飾" target="日" sid="wiki00048579-01" id="4"/><rel type="=構" target="日" sid="wiki00048579-01" id="4"/><体言><NE:DATE:1945年８月15日>
 15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 付 づけ 付 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <体言><非用言格解析:形><rel type="ト" target="学校" sid="wiki00048579-00" id="26"/><rel type="ガ" target="法人" sid="wiki00048579-01" id="9"/>
++ 9D <rel type="ト" target="学校" sid="wiki00048579-00" id="26"/><rel type="ガ" target="法人" sid="wiki00048579-01" id="9"/><体言><非用言格解析:形>
 同一 どういつ 同一だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 13D <体言><rel type="=" target="学園" sid="wiki00048579-00" id="7"/><rel type="修飾" target="同一" sid="wiki00048579-01" id="8"/>
++ 13D <rel type="=" target="学園" sid="wiki00048579-00" id="7"/><rel type="修飾" target="同一" sid="wiki00048579-01" id="8"/><体言>
 法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -127,44 +127,44 @@ EOS
 電波 でんぱ 電波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 13D <体言>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 13D <体言><rel type="=" target="専門" sid="wiki00048579-00" id="25"/>
++ 13D <rel type="=" target="専門" sid="wiki00048579-00" id="25"/><体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 14D <体言><rel type="ノ？" target="法人内" sid="wiki00048579-01" id="9"/><NE:ORGANIZATION:電波科学専門学校>
++ 14D <rel type="ノ？" target="法人内" sid="wiki00048579-01" id="9"/><体言><NE:ORGANIZATION:電波科学専門学校>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 18P <用言:動><節-主辞><節-区切><rel type="ガ" target="学校" sid="wiki00048579-00" id="26"/><rel type="ト" target="学校" sid="wiki00048579-01" id="13"/>
++ 18P <rel type="ガ" target="学校" sid="wiki00048579-00" id="26"/><rel type="ト" target="学校" sid="wiki00048579-01" id="13"/><用言:動><節-主辞><節-区切>
 合併 がっぺい 合併 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 7D
 + 17D <体言>
 東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 17D <体言><rel type="=" target="専門" sid="wiki00048579-01" id="12"/>
++ 17D <rel type="=" target="専門" sid="wiki00048579-01" id="12"/><体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 18D <体言><NE:ORGANIZATION:東海専門学校>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 26P <用言:動><節-主辞><節-区切><rel type="ガ" target="学校" sid="wiki00048579-00" id="26"/><rel type="ガ" mode="AND" target="学校" sid="wiki00048579-01" id="13"/><rel type="ト" target="学校" sid="wiki00048579-01" id="17"/><rel type="時間" target="15日" sid="wiki00048579-01" id="7"/>
++ 26P <rel type="ガ" target="学校" sid="wiki00048579-00" id="26"/><rel type="ガ" mode="AND" target="学校" sid="wiki00048579-01" id="13"/><rel type="ト" target="学校" sid="wiki00048579-01" id="17"/><rel type="時間" target="15日" sid="wiki00048579-01" id="7"/><用言:動><節-主辞><節-区切>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
 + 20D
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 21D <体言><rel type="=" target="1945年" sid="wiki00048579-01" id="5"/>
++ 21D <rel type="=" target="1945年" sid="wiki00048579-01" id="5"/><体言>
 年 ねん 年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 + 26D <体言><NE:DATE:10月>
 10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 23D <体言><rel type="=" target="東海" sid="wiki00048579-01" id="15"/>
++ 23D <rel type="=" target="東海" sid="wiki00048579-01" id="15"/><体言>
 東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 25D <体言><rel type="=≒" target="科学" sid="wiki00048579-01" id="11"/>
++ 25D <rel type="=≒" target="科学" sid="wiki00048579-01" id="11"/><体言>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 25D <体言><rel type="=" target="専門" sid="wiki00048579-01" id="16"/>
++ 25D <rel type="=" target="専門" sid="wiki00048579-01" id="16"/><体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 26D <体言><NE:ORGANIZATION:東海科学専門学校><rel type="=構" target="学校" sid="wiki00048579-01" id="17"/>
++ 26D <rel type="=構" target="学校" sid="wiki00048579-01" id="17"/><体言><NE:ORGANIZATION:東海科学専門学校>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -184,7 +184,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 3D <体言>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 4D <体言><NE:ARTIFACT:旧・大学令><rel type="修飾" target="旧" sid="wiki00048579-02" id="1"/><rel type="ノ" target="大学" sid="wiki00048579-02" id="2"/>
++ 4D <rel type="修飾" target="旧" sid="wiki00048579-02" id="1"/><rel type="ノ" target="大学" sid="wiki00048579-02" id="2"/><体言><NE:ARTIFACT:旧・大学令>
 令 れい 令 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -194,13 +194,13 @@ EOS
 * 4D
 + 7D <体言>
 旧制 きゅうせい 旧制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 7D <体言><rel type="=" target="東海" sid="wiki00048579-01" id="22"/>
++ 7D <rel type="=" target="東海" sid="wiki00048579-01" id="22"/><体言>
 東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8D <体言><NE:ORGANIZATION:旧制東海大学><rel type="修飾" target="旧制" sid="wiki00048579-02" id="5"/><rel type="=構" target="学校" sid="wiki00048579-01" id="25"/>
++ 8D <rel type="修飾" target="旧制" sid="wiki00048579-02" id="5"/><rel type="=構" target="学校" sid="wiki00048579-01" id="25"/><体言><NE:ORGANIZATION:旧制東海大学>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <memo text="PO:する"/><rel type="ガ" target="学校" sid="wiki00048579-01" id="25"/><rel type="ニ" target="大学" sid="wiki00048579-02" id="7"/><rel type="ニヨッテ" target="令" sid="wiki00048579-02" id="3"/><rel type="時間" target="1946年" sid="wiki00048579-02" id="0"/><用言:動><体言><節-主辞><節-区切><時制:過去>
++ -1D <rel type="ガ" target="学校" sid="wiki00048579-01" id="25"/><rel type="ニ" target="大学" sid="wiki00048579-02" id="7"/><rel type="ニヨッテ" target="令" sid="wiki00048579-02" id="3"/><rel type="時間" target="1946年" sid="wiki00048579-02" id="0"/><memo text="PO:する"/><用言:動><体言><節-主辞><節-区切><時制:過去>
 昇格 しょうかく 昇格 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -208,7 +208,7 @@ EOS
 * 1D
 + 1D <体言>
 学制 がくせい 学制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学制" sid="wiki00048579-03" id="0"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学制" sid="wiki00048579-03" id="0"/><体言><非用言格解析:動>
 改革 かいかく 改革 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -226,13 +226,13 @@ EOS
 * 4D
 + 7D <体言>
 新制 しんせい 新制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 7D <体言><rel type="=" target="東海" sid="wiki00048579-02" id="6"/>
++ 7D <rel type="=" target="東海" sid="wiki00048579-02" id="6"/><体言>
 東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8D <体言><NE:ORGANIZATION:新制東海大学><rel type="修飾" target="新制" sid="wiki00048579-03" id="5"/><rel type="=構" target="大学" sid="wiki00048579-02" id="7"/>
++ 8D <rel type="修飾" target="新制" sid="wiki00048579-03" id="5"/><rel type="=構" target="大学" sid="wiki00048579-02" id="7"/><体言><NE:ORGANIZATION:新制東海大学>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ニトモナッテ" target="改革" sid="wiki00048579-03" id="1"/><rel type="ガ" target="大学" sid="wiki00048579-02" id="7"/><rel type="ト" target="大学" sid="wiki00048579-03" id="7"/><rel type="時間" target="４月" sid="wiki00048579-03" id="4"/>
++ -1D <rel type="ニトモナッテ" target="改革" sid="wiki00048579-03" id="1"/><rel type="ガ" target="大学" sid="wiki00048579-02" id="7"/><rel type="ト" target="大学" sid="wiki00048579-03" id="7"/><rel type="時間" target="４月" sid="wiki00048579-03" id="4"/><用言:動><時制:過去><節-主辞><節-区切>
 なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

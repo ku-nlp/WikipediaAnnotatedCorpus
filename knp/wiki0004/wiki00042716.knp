@@ -2,7 +2,7 @@
 * 4D
 + 1D <体言><NE:OPTIONAL:モールス><NE-OPTIONAL:PERSON,NONE:0>
 モールス もーるす モールス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 8D <体言><rel type="修飾" target="モールス" sid="wiki00042716-00-01" id="0"/>
++ 8D <rel type="修飾" target="モールス" sid="wiki00042716-00-01" id="0"/><体言>
 符号 ふごう 符号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,7 +11,7 @@
 電信 でんしん 電信 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="コード" sid="wiki00042716-00-01" id="8"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="電信" sid="wiki00042716-00-01" id="2"/>
++ 8D <rel type="ガ" target="コード" sid="wiki00042716-00-01" id="8"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="電信" sid="wiki00042716-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -20,7 +20,7 @@
 可変 かへん 可変だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 + 6D <rel type="修飾" target="可変" sid="wiki00042716-00-01" id="4"/><体言>
 長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ニ" target="不特定:人"/><用言:動><時制:過去><rel type="修飾" target="長" sid="wiki00042716-00-01" id="5"/><rel type="ガ" target="コード" sid="wiki00042716-00-01" id="8"/>
++ 8D <rel type="ニ" target="不特定:人"/><rel type="修飾" target="長" sid="wiki00042716-00-01" id="5"/><rel type="ガ" target="コード" sid="wiki00042716-00-01" id="8"/><用言:動><時制:過去>
 符号 ふごう 符号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
@@ -28,27 +28,27 @@
 * -1D
 + 8D <体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="符号" sid="wiki00042716-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="符号" sid="wiki00042716-00-01" id="1"/><rel type="ノ？" target="文字" sid="wiki00042716-00-01" id="7"/>
++ -1D <rel type="ガ" target="符号" sid="wiki00042716-00-01" id="1"/><rel type="=構" target="符号" sid="wiki00042716-00-01" id="1"/><rel type="ノ？" target="文字" sid="wiki00042716-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 コード こーど コード 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042716-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/05 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="モールス" sid="wiki00042716-00-01" id="0"/><NE:OPTIONAL:モールス><NE-OPTIONAL:PERSON,NONE:0>
++ 1D <rel type="=" target="モールス" sid="wiki00042716-00-01" id="0"/><体言><NE:OPTIONAL:モールス><NE-OPTIONAL:PERSON,NONE:0>
 モールス もーるす モールス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <体言><rel type="=" target="符号" sid="wiki00042716-00-01" id="1"/>
++ -1D <rel type="=" target="符号" sid="wiki00042716-00-01" id="1"/><体言>
 ふごう ふごう ふごう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00042716-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2024/03/05 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="モールス" sid="wiki00042716-00-01" id="0"/><NE:OPTIONAL:モールス><NE-OPTIONAL:PERSON,NONE:0>
++ 1D <rel type="=" target="モールス" sid="wiki00042716-00-01" id="0"/><体言><NE:OPTIONAL:モールス><NE-OPTIONAL:PERSON,NONE:0>
 モールス もーるす モールス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 2D <体言><rel type="=" target="符号" sid="wiki00042716-00-01" id="1"/>
++ 2D <rel type="=" target="符号" sid="wiki00042716-00-01" id="1"/><体言>
 符号 ふごう 符号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="符号" sid="wiki00042716-01" id="1"/><rel type="ニ" target="信号" sid="wiki00042716-01" id="3"/><用言:動><節-主辞><時制:非過去><memo text="時制？　性質で非過去？　非過去に（nikaido）"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="符号" sid="wiki00042716-01" id="1"/><rel type="ニ" target="信号" sid="wiki00042716-01" id="3"/><memo text="時制？　性質で非過去？　非過去に（nikaido）"/><用言:動><節-主辞><時制:非過去>
 使った つかった 使う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 4D
 + 6D <体言>
@@ -61,7 +61,7 @@ EOS
 信号 しんごう 信号 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="信号" sid="wiki00042716-01" id="3"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="信号" sid="wiki00042716-01" id="5"/>
++ -1D <rel type="ガ" target="信号" sid="wiki00042716-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="信号" sid="wiki00042716-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -14,13 +14,13 @@
 音高 おんこう 音高 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="数" sid="wiki00033241-00-01" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="音高" sid="wiki00033241-00-01" id="2"/>
++ 5D <rel type="ガ" target="数" sid="wiki00033241-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="音高" sid="wiki00033241-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
 + 5D <体言>
 周波 しゅうは 周波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ" target="周波" sid="wiki00033241-00-01" id="4"/><体言><rel type="=構" target="音高" sid="wiki00033241-00-01" id="2"/>
++ 6D <rel type="ノ" target="周波" sid="wiki00033241-00-01" id="4"/><rel type="=構" target="音高" sid="wiki00033241-00-01" id="2"/><体言>
 数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -33,26 +33,26 @@
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 8D
-+ 9D <体言><rel type="修飾" target="2以上" sid="wiki00033241-00-01" id="7"/>
++ 9D <rel type="修飾" target="2以上" sid="wiki00033241-00-01" id="7"/><体言>
 整数 せいすう 整数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 11D <体言><rel type="ニタイシテ" target="数" sid="wiki00033241-00-01" id="5"/><rel type="修飾" target="整数" sid="wiki00033241-00-01" id="8"/><NE:OPTIONAL:2以上の整数倍><NE-OPTIONAL:PERCENT,NONE:0>
++ 11D <rel type="ニタイシテ" target="数" sid="wiki00033241-00-01" id="5"/><rel type="修飾" target="整数" sid="wiki00033241-00-01" id="8"/><体言><NE:OPTIONAL:2以上の整数倍><NE-OPTIONAL:PERCENT,NONE:0>
 倍 ばい 倍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <体言><rel type="=" target="周波" sid="wiki00033241-00-01" id="4"/>
++ 11D <rel type="=" target="周波" sid="wiki00033241-00-01" id="4"/><体言>
 周波 しゅうは 周波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ノ" target="周波" sid="wiki00033241-00-01" id="10"/><体言><rel type="修飾" target="倍" sid="wiki00033241-00-01" id="9"/>
++ 12D <rel type="ノ" target="周波" sid="wiki00033241-00-01" id="10"/><rel type="修飾" target="倍" sid="wiki00033241-00-01" id="9"/><体言>
 数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ガ" target="音" sid="wiki00033241-00-01" id="13"/><rel type="ヲ" target="数" sid="wiki00033241-00-01" id="11"/><用言:動><時制:非過去><節-主辞><rel type="ニタイシテ" target="数" sid="wiki00033241-00-01" id="5"/>
++ 13D <rel type="ガ" target="音" sid="wiki00033241-00-01" id="13"/><rel type="ヲ" target="数" sid="wiki00033241-00-01" id="11"/><rel type="ニタイシテ" target="数" sid="wiki00033241-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 * 11D
 + 14D <体言>
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="倍音" sid="wiki00033241-00-01" id="0"/><rel type="ノ" target="音" sid="wiki00033241-00-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="倍音" sid="wiki00033241-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="倍音" sid="wiki00033241-00-01" id="0"/><rel type="ノ" target="音" sid="wiki00033241-00-01" id="13"/><rel type="=構" target="倍音" sid="wiki00033241-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 成分 せいぶん 成分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -68,7 +68,7 @@ EOS
 倍 ばい 倍 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <体言><rel type="修飾" target="1倍" sid="wiki00033241-01" id="0"/>
++ 6D <rel type="修飾" target="1倍" sid="wiki00033241-01" id="0"/><体言>
 音 おと 音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
@@ -83,19 +83,19 @@ EOS
 音高 おんこう 音高 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="成分" sid="wiki00033241-01" id="6"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="=" target="される" sid="wiki00033241-00-01" id="3"/><rel type="ト" target="音高" sid="wiki00033241-01" id="4"/>
++ 6D <rel type="ガ" target="成分" sid="wiki00033241-01" id="6"/><rel type="ニ" target="不特定:人"/><rel type="=" target="される" sid="wiki00033241-00-01" id="3"/><rel type="ト" target="音高" sid="wiki00033241-01" id="4"/><用言:動><時制:非過去><節-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 8D <体言><rel type="=構" target="音" sid="wiki00033241-01" id="1"/>
++ 8D <rel type="=構" target="音" sid="wiki00033241-01" id="1"/><体言>
 成分 せいぶん 成分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 8D <体言><rel type="=構" target="成分" sid="wiki00033241-01" id="6"/>
++ 8D <rel type="=構" target="成分" sid="wiki00033241-01" id="6"/><体言>
 基音 きおん 基音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="成分" sid="wiki00033241-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="基音" sid="wiki00033241-01" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="成分" sid="wiki00033241-01" id="6"/><rel type="ト" target="基音" sid="wiki00033241-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -2,14 +2,14 @@
 * 1P
 + 1D <体言>
 スンナ すんな スンナ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 3P <体言><rel type="ノ" target="スンナ" sid="wiki00014733-00-01" id="0"/><memo text="NE OPTIONALがいい？"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><NE:OPTIONAL:スンナ派><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 3P <rel type="ノ" target="スンナ" sid="wiki00014733-00-01" id="0"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><memo text="NE OPTIONALがいい？"/><体言><NE:OPTIONAL:スンナ派><NE-OPTIONAL:ORGANIZATION,NONE:0>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
 * 5D
-+ 3D <体言><rel type="=" target="スンナ" sid="wiki00014733-00-01" id="0"/>
++ 3D <rel type="=" target="スンナ" sid="wiki00014733-00-01" id="0"/><体言>
 スンニ すんに スンニ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 10D <体言><rel type="ノ" target="スンニ" sid="wiki00014733-00-01" id="2"/><rel type="=" target="派" sid="wiki00014733-00-01" id="1"/><memo text="NE OPTIONALがいい？"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><NE:OPTIONAL:スンニ派><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 10D <rel type="ノ" target="スンニ" sid="wiki00014733-00-01" id="2"/><rel type="=" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><memo text="NE OPTIONALがいい？"/><体言><NE:OPTIONAL:スンニ派><NE-OPTIONAL:ORGANIZATION,NONE:0>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -24,16 +24,16 @@
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="修飾" target="二" sid="wiki00014733-00-01" id="6"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="大" sid="wiki00014733-00-01" id="7"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><rel type="=≒" target="派" sid="wiki00014733-00-01" id="1"/>
++ 9D <rel type="修飾" target="大" sid="wiki00014733-00-01" id="7"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><rel type="=≒" target="派" sid="wiki00014733-00-01" id="1"/><体言>
 宗派 しゅうは 宗派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <体言><rel type="ノ" target="宗派" sid="wiki00014733-00-01" id="8"/><rel type="=構" target="派" sid="wiki00014733-00-01" id="1"/><rel type="=構" mode="AND" target="宗派" sid="wiki00014733-00-01" id="8"/>
++ 10D <rel type="ノ" target="宗派" sid="wiki00014733-00-01" id="8"/><rel type="=構" target="派" sid="wiki00014733-00-01" id="1"/><rel type="=構" mode="AND" target="宗派" sid="wiki00014733-00-01" id="8"/><体言>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ト" target="ひとつ" sid="wiki00014733-00-01" id="9"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="ガ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ト" target="ひとつ" sid="wiki00014733-00-01" id="9"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -42,20 +42,20 @@ EOS
 * -1D
 + 1D <体言>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ノ？" target="ラテン" sid="wiki00014733-00-02" id="0"/>
++ 2D <rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ノ？" target="ラテン" sid="wiki00014733-00-02" id="0"/><体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニ" target="文字" sid="wiki00014733-00-02" id="1"/><rel type="ヲ" target="派" sid="wiki00014733-00-01" id="1"/>
++ 5D <rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ニ" target="文字" sid="wiki00014733-00-02" id="1"/><rel type="ヲ" target="派" sid="wiki00014733-00-01" id="1"/><体言><非用言格解析:動>
 転写 てんしゃ 転写 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言>
 Ahl Ahl Ahl 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 5D <体言><rel type="=" target="派" sid="wiki00014733-00-01" id="1"/><NE:OPTIONAL:Ahl　as-Sunnah><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 5D <rel type="=" target="派" sid="wiki00014733-00-01" id="1"/><体言><NE:OPTIONAL:Ahl　as-Sunnah><NE-OPTIONAL:ORGANIZATION,NONE:0>
 as as as 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 Sunnah Sunnah Sunnah 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=構" target="転写" sid="wiki00014733-00-02" id="2"/><rel type="=" mode="AND" target="派" sid="wiki00014733-00-01" id="1"/><memo text="NE:OPTIONAL　画面が長すぎて選択入力できず"/>
++ -1D <rel type="=構" target="転写" sid="wiki00014733-00-02" id="2"/><rel type="=" mode="AND" target="派" sid="wiki00014733-00-01" id="1"/><memo text="NE:OPTIONAL　画面が長すぎて選択入力できず"/><体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
 wa wa wa 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ’ ’ ’ 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
@@ -73,12 +73,12 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <体言><rel type="=" target="派" sid="wiki00014733-00-01" id="3"/>
++ 4D <rel type="=" target="派" sid="wiki00014733-00-01" id="3"/><体言>
 こちら こちら こちら 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -86,42 +86,42 @@ EOS
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="日本" sid="wiki00014733-00-03" id="0"/><rel type="デ" mode="AND" target="報道など" sid="wiki00014733-00-03" id="1"/><rel type="ガ" target="こちら" sid="wiki00014733-00-03" id="2"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="デ" target="日本" sid="wiki00014733-00-03" id="0"/><rel type="デ" mode="AND" target="報道など" sid="wiki00014733-00-03" id="1"/><rel type="ガ" target="こちら" sid="wiki00014733-00-03" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 EOS
 # S-ID:wiki00014733-00-04 括弧始:（ 括弧終:） 括弧位置:81 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/09/22 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="教" sid="wiki00014733-00-01" id="5"/>
++ -1D <rel type="=" target="教" sid="wiki00014733-00-01" id="5"/><体言>
 イスラーム いすらーむ イスラーム 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00014733-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/01/14 MEMO:
 * 1D
-+ 1D <体言><rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/>
++ 1D <rel type="ノ" target="派" sid="wiki00014733-00-01" id="1"/><体言>
 他 た/ほか 他 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="修飾" target="他" sid="wiki00014733-01" id="0"/><rel type="ノ" target="宗派" sid="wiki00014733-00-01" id="8"/>
++ 3D <rel type="修飾" target="他" sid="wiki00014733-01" id="0"/><rel type="ノ" target="宗派" sid="wiki00014733-00-01" id="8"/><体言>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 3D <体言>
 シーア しーあ シーア 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="シーア" sid="wiki00014733-01" id="2"/><rel type="ガ" target="ひとつ" sid="wiki00014733-01" id="1"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><rel type="=構" target="ひとつ" sid="wiki00014733-01" id="1"/><rel type="=≒" mode="AND" target="宗派" sid="wiki00014733-00-01" id="8"/>
++ -1D <rel type="ノ" target="シーア" sid="wiki00014733-01" id="2"/><rel type="ガ" target="ひとつ" sid="wiki00014733-01" id="1"/><rel type="ノ？" target="教" sid="wiki00014733-00-01" id="5"/><rel type="=構" target="ひとつ" sid="wiki00014733-01" id="1"/><rel type="=≒" mode="AND" target="宗派" sid="wiki00014733-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014733-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2026/01/14 MEMO:
 * 1D
-+ 2D <体言><rel type="=" target="イスラーム" sid="wiki00014733-00-04" id="0"/>
++ 2D <rel type="=" target="イスラーム" sid="wiki00014733-00-04" id="0"/><体言>
 イスラーム いすらーむ イスラーム 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 2D
 各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="イスラーム" sid="wiki00014733-02" id="0"/><rel type="修飾" target="各" sid="wiki00014733-02" id="1"/><rel type="=≒" target="宗派" sid="wiki00014733-00-01" id="8"/>
++ 7D <rel type="ノ？" target="イスラーム" sid="wiki00014733-02" id="0"/><rel type="修飾" target="各" sid="wiki00014733-02" id="1"/><rel type="=≒" target="宗派" sid="wiki00014733-00-01" id="8"/><体言>
 宗派 しゅうは 宗派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -131,17 +131,17 @@ EOS
 + 4D <用言:形><時制:非過去>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 4P
-+ 6P <体言><rel type="修飾" target="最大の" sid="wiki00014733-02" id="3"/>
++ 6P <rel type="修飾" target="最大の" sid="wiki00014733-02" id="3"/><体言>
 勢力 せいりょく 勢力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 6D <体言>
 多数 たすう 多数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="多数" sid="wiki00014733-02" id="5"/>
++ 7D <rel type="ノ？" target="多数" sid="wiki00014733-02" id="5"/><体言>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ヲ" target="勢力" sid="wiki00014733-02" id="4"/><rel type="ヲ" mode="AND" target="派" sid="wiki00014733-02" id="6"/><rel type="デ" target="宗派間" sid="wiki00014733-02" id="2"/>
++ -1D <rel type="ガ" target="派" sid="wiki00014733-00-01" id="1"/><rel type="ヲ" target="勢力" sid="wiki00014733-02" id="4"/><rel type="ヲ" mode="AND" target="派" sid="wiki00014733-02" id="6"/><rel type="デ" target="宗派間" sid="wiki00014733-02" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -161,7 +161,7 @@ EOS
 所 しょ/じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 18D <体言><非用言格解析:動><rel type="時間" target="2009年" sid="wiki00014733-03" id="0"/><rel type="ガ" target="所" sid="wiki00014733-03" id="3"/>
++ 18D <rel type="時間" target="2009年" sid="wiki00014733-03" id="0"/><rel type="ガ" target="所" sid="wiki00014733-03" id="3"/><体言><非用言格解析:動>
 調査 ちょうさ 調査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -171,56 +171,56 @@ EOS
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="=" target="イスラーム" sid="wiki00014733-00-04" id="0"/>
++ 7D <rel type="=" target="イスラーム" sid="wiki00014733-00-04" id="0"/><体言>
 イスラム いすらむ イスラム 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="世界" sid="wiki00014733-03" id="5"/><rel type="ノ" target="イスラム" sid="wiki00014733-03" id="6"/>
++ 8D <rel type="ノ？" target="世界" sid="wiki00014733-03" id="5"/><rel type="ノ" target="イスラム" sid="wiki00014733-03" id="6"/><体言>
 教徒 きょうと 教徒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 9D <体言><rel type="ノ" target="教徒" sid="wiki00014733-03" id="7"/><rel type="=構" target="教徒" sid="wiki00014733-03" id="7"/>
++ 9D <rel type="ノ" target="教徒" sid="wiki00014733-03" id="7"/><rel type="=構" target="教徒" sid="wiki00014733-03" id="7"/><体言>
 15億7000万 じゅうごおくななせんまん 15億7000万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <体言><rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/>
++ 15D <rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 11D <体言><rel type="=" target="スンナ" sid="wiki00014733-00-01" id="0"/>
++ 11D <rel type="=" target="スンナ" sid="wiki00014733-00-01" id="0"/><体言>
 スンナ すんな スンナ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="=" target="派" sid="wiki00014733-00-01" id="1"/>
++ 12D <rel type="=" target="派" sid="wiki00014733-00-01" id="1"/><体言>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 15D <体言><rel type="修飾" target="派" sid="wiki00014733-03" id="11"/><rel type="=構" target="派" sid="wiki00014733-03" id="11"/><rel type="=≒" mode="AND" target="教徒" sid="wiki00014733-03" id="7"/>
++ 15D <rel type="修飾" target="派" sid="wiki00014733-03" id="11"/><rel type="=構" target="派" sid="wiki00014733-03" id="11"/><rel type="=≒" mode="AND" target="教徒" sid="wiki00014733-03" id="7"/><体言>
 信者 しんじゃ 信者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10P
-+ 14P <体言><NE:PERCENT:87％><rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/>
++ 14P <rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/><体言><NE:PERCENT:87％>
 87 はちじゅうなな 87 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
 ％ ぱーせんと ％ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <体言><NE:PERCENT:90％><rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/>
++ 15D <rel type="ノ" target="15億7000万人" sid="wiki00014733-03" id="8"/><体言><NE:PERCENT:90％>
 90 きゅうじゅっ/きゅうじっ 90 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
 ％ ぱーせんと ％ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 18P <用言:動><節-主辞><節-区切><rel type="ガ" target="信者" sid="wiki00014733-03" id="12"/><rel type="ヲ" target="87％" sid="wiki00014733-03" id="13"/><rel type="ヲ" mode="OR" target="90％" sid="wiki00014733-03" id="14"/><rel type="デ" target="調査" sid="wiki00014733-03" id="4"/>
++ 18P <rel type="ガ" target="信者" sid="wiki00014733-03" id="12"/><rel type="ヲ" target="87％" sid="wiki00014733-03" id="13"/><rel type="ヲ" mode="OR" target="90％" sid="wiki00014733-03" id="14"/><rel type="デ" target="調査" sid="wiki00014733-03" id="4"/><用言:動><節-主辞><節-区切>
 占め しめ 占める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 17D <体言><rel type="=≒" target="90％" sid="wiki00014733-03" id="14"/>
++ 17D <rel type="=≒" target="90％" sid="wiki00014733-03" id="14"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 14億 じゅうよんおく 14億 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ほど ほど ほど 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 18D <体言><rel type="修飾" target="約14億人" sid="wiki00014733-03" id="16"/><rel type="ノ？" target="派" sid="wiki00014733-03" id="11"/><rel type="=構" target="約14億人" sid="wiki00014733-03" id="16"/><rel type="=" mode="AND" target="信者" sid="wiki00014733-03" id="12"/>
++ 18D <rel type="修飾" target="約14億人" sid="wiki00014733-03" id="16"/><rel type="ノ？" target="派" sid="wiki00014733-03" id="11"/><rel type="=構" target="約14億人" sid="wiki00014733-03" id="16"/><rel type="=" mode="AND" target="信者" sid="wiki00014733-03" id="12"/><体言>
 信徒 しんと 信徒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="派" sid="wiki00014733-03" id="11"/><rel type="ヲ" target="信徒" sid="wiki00014733-03" id="17"/><rel type="デ" target="調査" sid="wiki00014733-03" id="4"/>
++ -1D <rel type="ガ" target="派" sid="wiki00014733-03" id="11"/><rel type="ヲ" target="信徒" sid="wiki00014733-03" id="17"/><rel type="デ" target="調査" sid="wiki00014733-03" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL

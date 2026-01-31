@@ -7,53 +7,53 @@
 * 2D
 + 2D <体言>
 ネコ ねこ ネコ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ" target="ネコ" sid="wiki00058159-00-01" id="1"/>
++ 4D <rel type="ノ" target="ネコ" sid="wiki00058159-00-01" id="1"/><体言>
 目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言>
 イヌ いぬ イヌ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ" target="イヌ" sid="wiki00058159-00-01" id="3"/><rel type="ノ" mode="AND" target="目" sid="wiki00058159-00-01" id="2"/>
++ 6D <rel type="ノ" target="イヌ" sid="wiki00058159-00-01" id="3"/><rel type="ノ" mode="AND" target="目" sid="wiki00058159-00-01" id="2"/><体言>
 科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <体言>
 イヌ いぬ イヌ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ" target="イヌ" sid="wiki00058159-00-01" id="5"/><rel type="ノ" mode="AND" target="科" sid="wiki00058159-00-01" id="4"/>
++ 7D <rel type="ノ" target="イヌ" sid="wiki00058159-00-01" id="5"/><rel type="ノ" mode="AND" target="科" sid="wiki00058159-00-01" id="4"/><体言>
 属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 9D <rel type="ガ" target="動物" sid="wiki00058159-00-01" id="8"/><rel type="ニ" target="属" sid="wiki00058159-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
++ 9D <rel type="ガ" target="動物" sid="wiki00058159-00-01" id="9"/><rel type="ニ" target="属" sid="wiki00058159-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 9D <体言><非用言格解析:動><rel type="ガ" target="動物" sid="wiki00058159-00-01" id="9"/>
++ 9D <rel type="ガ" target="動物" sid="wiki00058159-00-01" id="9"/><体言><非用言格解析:動>
 哺乳 ほにゅう 哺乳 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="哺乳" sid="wiki00058159-00-01" id="8"/><rel type="=構" target="オオカミ" sid="wiki00058159-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="修飾" target="哺乳" sid="wiki00058159-00-01" id="8"/><rel type="=構" target="オオカミ" sid="wiki00058159-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00058159-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/01/23 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="オオカミ" sid="wiki00058159-00-01" id="0"/>
++ -1D <rel type="=" target="オオカミ" sid="wiki00058159-00-01" id="0"/><体言>
 狼 おおかみ 狼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00058159-00-03 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/10 MEMO:
 * -1D
 + 1D <体言>
 食肉 しょくにく 食肉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="目" sid="wiki00058159-00-01" id="2"/><rel type="ノ" target="食肉" sid="wiki00058159-00-03" id="0"/>
++ -1D <rel type="=" target="目" sid="wiki00058159-00-01" id="2"/><rel type="ノ" target="食肉" sid="wiki00058159-00-03" id="0"/><体言>
 目 もく 目 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00058159-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:76.00000 MOD:2024/05/10 MEMO:
 * 2D
-+ 3D <体言><rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/>
++ 3D <rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><体言>
 広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/>
++ 2D <rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><体言>
 近縁 きんえん 近縁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="ノ？" target="近縁" sid="wiki00058159-01-01" id="1"/>
++ 3D <rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="ノ？" target="近縁" sid="wiki00058159-01-01" id="1"/><体言>
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="種" sid="wiki00058159-01-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="オオカミ" sid="wiki00058159-00-01" id="0"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="種" sid="wiki00058159-01-01" id="2"/><rel type="ニ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 含める ふくめる 含める 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -65,9 +65,9 @@ EOS
 通常 つうじょう 通常 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 6D <体言><memo text="タイリク/オオカミとする？"/><rel type="=" target="オオカミ" sid="wiki00058159-00-01" id="0"/>
++ 6D <rel type="=" target="オオカミ" sid="wiki00058159-00-01" id="0"/><memo text="タイリク/オオカミとする？"/><体言>
 タイリクオオカミ たいりくおおかみ タイリクオオカミ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/><rel type="=構" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="=構" mode="AND" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/>
++ 7D <rel type="ノ" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/><rel type="=構" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="=構" mode="AND" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/><体言>
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -78,7 +78,7 @@ EOS
 EOS
 # S-ID:wiki00058159-01-02 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/10 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/><memo text="ハイイロ/オオカミとする？"/>
++ -1D <rel type="=" target="タイリクオオカミ" sid="wiki00058159-01-01" id="5"/><memo text="ハイイロ/オオカミとする？"/><体言>
 ハイイロオオカミ はいいろおおかみ ハイイロオオカミ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00058159-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/05/10 MEMO:
@@ -87,7 +87,7 @@ EOS
 多数 たすう 多数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="修飾" target="多数" sid="wiki00058159-02" id="0"/>
++ 2D <rel type="ノ" target="オオカミ" sid="wiki00058159-00-01" id="0"/><rel type="修飾" target="多数" sid="wiki00058159-02" id="0"/><体言>
 亜種 あしゅ 亜種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -101,13 +101,13 @@ EOS
 * 1D
 + 1D
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="=" target="属" sid="wiki00058159-00-01" id="5"/><体言>
++ 3D <rel type="=" target="属" sid="wiki00058159-00-01" id="6"/><体言>
 属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="ノ" target="属" sid="wiki00058159-03-01" id="1"/>
++ 3D <rel type="ノ" target="属" sid="wiki00058159-03-01" id="1"/><体言>
 近縁 きんえん 近縁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="=" target="種" sid="wiki00058159-01-01" id="2"/><体言><rel type="ノ" target="属" sid="wiki00058159-03-01" id="1"/><rel type="ノ？" target="近縁" sid="wiki00058159-03-01" id="2"/>
++ 4D <rel type="=" target="種" sid="wiki00058159-01-01" id="2"/><rel type="ノ" target="属" sid="wiki00058159-03-01" id="1"/><rel type="ノ？" target="近縁" sid="wiki00058159-03-01" id="2"/><体言>
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -116,28 +116,28 @@ EOS
 * 4P
 + 6D <体言><NE:LOCATION:アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 7P <体言><rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/>
++ 7P <rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/><体言>
 アカオオカミ あかおおかみ アカオオカミ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 9P <体言><rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/>
++ 9P <rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/><体言>
 コヨーテ こよーて コヨーテ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D <体言><NE:OPTIONAL:アビシニア><NE-OPTIONAL:LOCATION,NONE:0><memo text="ヨーロッパ人によるエチオピアの呼称"/>
++ 9D <memo text="ヨーロッパ人によるエチオピアの呼称"/><体言><NE:OPTIONAL:アビシニア><NE-OPTIONAL:LOCATION,NONE:0>
 アビシニア あびしにあ アビシニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 10D <体言><rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/>
++ 10D <rel type="=構" target="種" sid="wiki00058159-03-01" id="3"/><体言>
 ジャッカル じゃっかる ジャッカル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="アカオオカミ" sid="wiki00058159-03-01" id="6"/><rel type="ガ" mode="AND" target="コヨーテ" sid="wiki00058159-03-01" id="7"/><rel type="ガ" mode="AND" target="ジャッカルなど" sid="wiki00058159-03-01" id="9"/><rel type="トシテ" target="種" sid="wiki00058159-03-01" id="3"/>
++ -1D <rel type="ガ" target="アカオオカミ" sid="wiki00058159-03-01" id="6"/><rel type="ガ" mode="AND" target="コヨーテ" sid="wiki00058159-03-01" id="7"/><rel type="ガ" mode="AND" target="ジャッカルなど" sid="wiki00058159-03-01" id="9"/><rel type="トシテ" target="種" sid="wiki00058159-03-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 いる いる いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00058159-03-02 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/10 MEMO:
 * -1D
-+ 1D <体言><NE:LOCATION:エチオピア><rel type="=" target="アビシニア" sid="wiki00058159-03-01" id="8"/>
++ 1D <rel type="=" target="アビシニア" sid="wiki00058159-03-01" id="8"/><体言><NE:LOCATION:エチオピア>
 エチオピア えちおぴあ エチオピア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + -1D <rel type="=" target="ジャッカル" sid="wiki00058159-03-01" id="9"/><体言>
 オオカミ おおかみ オオカミ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>

@@ -30,7 +30,7 @@
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><用言:動><時制:過去><節-主辞><rel type="ニヨッテ" target="ワーノック" sid="wiki00012957-00" id="2"/><rel type="ニヨッテ" mode="AND" target="ゲシキ" sid="wiki00012957-00" id="4"/><rel type="時間" target="12月" sid="wiki00012957-00" id="7"/>
++ 16D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="ニヨッテ" target="ワーノック" sid="wiki00012957-00" id="2"/><rel type="ニヨッテ" mode="AND" target="ゲシキ" sid="wiki00012957-00" id="4"/><rel type="時間" target="12月" sid="wiki00012957-00" id="7"/><用言:動><時制:過去><節-主辞>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -38,10 +38,10 @@
 * 8D
 + 10D <体言>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 11D <体言><rel type="ノ？" target="アメリカ合衆国" sid="wiki00012957-00" id="9"/>
++ 11D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00012957-00" id="9"/><体言>
 カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 13D <体言><NE:LOCATION:アメリカ合衆国カリフォルニア州サンノゼ市><rel type="ノ？" target="カリフォルニア州" sid="wiki00012957-00" id="10"/>
++ 13D <rel type="ノ？" target="カリフォルニア州" sid="wiki00012957-00" id="10"/><体言><NE:LOCATION:アメリカ合衆国カリフォルニア州サンノゼ市>
 サンノゼ さんのぜ サンノゼ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -56,16 +56,16 @@
 + 15D <体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <体言><rel type="修飾" target="コンピュータ" sid="wiki00012957-00" id="14"/>
++ 16D <rel type="修飾" target="コンピュータ" sid="wiki00012957-00" id="14"/><体言>
 ソフトウェア そふとうぇあ ソフトウェア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="ソフトウェア" sid="wiki00012957-00" id="15"/><rel type="=構" target="アドビ" sid="wiki00012957-00" id="0"/>
++ -1D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="ノ？" target="ソフトウェア" sid="wiki00012957-00" id="15"/><rel type="=構" target="アドビ" sid="wiki00012957-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00012957-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/11/25 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="1982年" sid="wiki00012957-00" id="6"/>
++ 1D <rel type="=" target="1982年" sid="wiki00012957-00" id="6"/><体言>
 1982 せんきゅうひゃくはちじゅうに 1982 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 4P <rel type="=" target="12月" sid="wiki00012957-00" id="7"/><体言><NE:DATE:1982年12月>
@@ -85,20 +85,20 @@ EOS
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="=" target="アドビ" sid="wiki00012957-00" id="0"/><体言><memo text="adobe creekという小川の名前から"/>
++ 6D <rel type="=" target="アドビ" sid="wiki00012957-00" id="0"/><memo text="adobe creekという小川の名前から"/><体言>
 Adobe Adobe Adobe 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 7D <体言>
 Systems Systems Systems 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <NE:ORGANIZATION:Adobe　Systems　Incorporated><体言><rel type="=" target="アドビ" sid="wiki00012957-00" id="0"/>
++ 8D <rel type="=" target="アドビ" sid="wiki00012957-00" id="0"/><NE:ORGANIZATION:Adobe　Systems　Incorporated><体言>
 Incorporated Incorporated Incorporated 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 9D <用言:動><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="=構" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="トイウ" target="Incorporated" sid="wiki00012957-01" id="7"/><rel type="ノ" target="アドビ" sid="wiki00012957-00" id="0"/><用言:判><体言><節-主辞><節-区切><時制:過去><rel type="カラ" target="12月" sid="wiki00012957-01" id="1"/><rel type="マデ" target="3日" sid="wiki00012957-01" id="4"/>
++ -1D <rel type="ガ" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="=構" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="トイウ" target="Incorporated" sid="wiki00012957-01" id="7"/><rel type="ノ" target="アドビ" sid="wiki00012957-00" id="0"/><rel type="カラ" target="12月" sid="wiki00012957-01" id="1"/><rel type="マデ" target="3日" sid="wiki00012957-01" id="4"/><用言:判><体言><節-主辞><節-区切><時制:過去>
 社名 しゃめい 社名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -111,7 +111,7 @@ EOS
 * 2D
 + 2D <rel type="ノ" target="アドビ" sid="wiki00012957-00" id="0"/><体言>
 社長 しゃちょう 社長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ガ" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="ヲ" target="CEO" sid="wiki00012957-02-01" id="3"/><memo text="ガヲ交替可"/>
++ 3D <rel type="ガ" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="ヲ" target="CEO" sid="wiki00012957-02-01" id="3"/><memo text="ガヲ交替可"/><体言>
 兼 けん 兼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <rel type="ノ" target="アドビ" sid="wiki00012957-00" id="0"/><体言>
 CEO CEO CEO 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -120,13 +120,13 @@ CEO CEO CEO 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <体言>
 シャンタヌ しゃんたぬ シャンタヌ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:シャンタヌ・ナラヤン><rel type="ガ" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="ガ" mode="AND" target="会長" sid="wiki00012957-02-01" id="0"/><rel type="ガ" mode="AND" target="CEO" sid="wiki00012957-02-01" id="3"/><rel type="=構" target="CEO" sid="wiki00012957-02-01" id="3"/><rel type="=構" mode="AND" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="=構" mode="AND" target="会長" sid="wiki00012957-02-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="ガ" mode="AND" target="会長" sid="wiki00012957-02-01" id="0"/><rel type="ガ" mode="AND" target="CEO" sid="wiki00012957-02-01" id="3"/><rel type="=構" target="CEO" sid="wiki00012957-02-01" id="3"/><rel type="=構" mode="AND" target="社長" sid="wiki00012957-02-01" id="1"/><rel type="=構" mode="AND" target="会長" sid="wiki00012957-02-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:シャンタヌ・ナラヤン>
 ナラヤン ならやん ナラヤン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00012957-02-02 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ -1D <体言><NE:DATE:2007年><rel type="カラ" target="2007年" sid="wiki00012957-02-02" id="0"/>
++ -1D <rel type="カラ" target="2007年" sid="wiki00012957-02-02" id="0"/><体言><NE:DATE:2007年>
 2007 にせんなな/にせんしち 2007 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL

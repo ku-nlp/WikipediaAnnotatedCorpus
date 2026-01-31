@@ -26,7 +26,7 @@
 * 5D
 + 9D <体言>
 商用 しょうよう 商用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ？" target="商用" sid="wiki00047039-00-01" id="8"/><rel type="=≒" target="トラック" sid="wiki00047039-00-01" id="5"/><rel type="=≒" mode="AND" target="バス" sid="wiki00047039-00-01" id="6"/><rel type="=≒" mode="AND" target="自動車" sid="wiki00047039-00-01" id="1"/>
++ 10D <rel type="ノ？" target="商用" sid="wiki00047039-00-01" id="8"/><rel type="=≒" target="トラック" sid="wiki00047039-00-01" id="5"/><rel type="=≒" mode="AND" target="バス" sid="wiki00047039-00-01" id="6"/><rel type="=≒" mode="AND" target="自動車" sid="wiki00047039-00-01" id="1"/><体言>
 車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -38,9 +38,9 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 13D <体言><rel type="=≒" target="自動車" sid="wiki00047039-00-01" id="1"/>
++ 13D <rel type="=≒" target="自動車" sid="wiki00047039-00-01" id="1"/><体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00047039-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="ノ？" target="自動車" sid="wiki00047039-00-01" id="12"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00047039-00-01" id="11"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="=構" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="ノ？" target="自動車" sid="wiki00047039-00-01" id="12"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00047039-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 メーカー めーかー メーカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -49,7 +49,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="日野" sid="wiki00047039-00-01" id="0"/><体言>
 ひの ひの ひの 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:ひのじどうしゃ><体言><rel type="=" target="自動車" sid="wiki00047039-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/>
++ -1D <rel type="=" target="自動車" sid="wiki00047039-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/><NE:ORGANIZATION:ひのじどうしゃ><体言>
 じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00047039-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/01 MEMO:
@@ -57,7 +57,7 @@ EOS
 + 1D <rel type="ノ" target="会社" sid="wiki00047039-00-01" id="3"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 3P
-+ 4P <体言><rel type="ガ" target="通称" sid="wiki00047039-01" id="0"/><NE:ORGANIZATION:日野><rel type="=構" target="通称" sid="wiki00047039-01" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="=" mode="AND" target="日野" sid="wiki00047039-00-01" id="0"/>
++ 4P <rel type="ガ" target="通称" sid="wiki00047039-01" id="0"/><rel type="=構" target="通称" sid="wiki00047039-01" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="=" mode="AND" target="日野" sid="wiki00047039-00-01" id="0"/><体言><NE:ORGANIZATION:日野>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 日野 ひの 日野 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -65,11 +65,11 @@ EOS
 * 3D
 + 3D <体言>
 ローマ字 ろーまじ ローマ字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="日野" sid="wiki00047039-01" id="1"/><rel type="デ" target="ローマ字" sid="wiki00047039-01" id="2"/><rel type="修飾" target="ローマ字" sid="wiki00047039-01" id="2"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="日野" sid="wiki00047039-01" id="1"/><rel type="デ" target="ローマ字" sid="wiki00047039-01" id="2"/><rel type="修飾" target="ローマ字" sid="wiki00047039-01" id="2"/><体言><非用言格解析:動>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="表記" sid="wiki00047039-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:HINO><rel type="=構" target="表記" sid="wiki00047039-01" id="3"/><rel type="=" mode="AND" target="日野" sid="wiki00047039-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="表記" sid="wiki00047039-01" id="3"/><rel type="=構" target="表記" sid="wiki00047039-01" id="3"/><rel type="=" mode="AND" target="日野" sid="wiki00047039-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:HINO>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 HINO ひの HINO 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -92,16 +92,16 @@ EOS
 + 5D <rel type="ノ" target="トヨタ" sid="wiki00047039-02" id="3"/><体言><NE:ORGANIZATION:トヨタグループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 * 4D
-+ 6D <体言><rel type="ノ" target="グループ" sid="wiki00047039-02" id="4"/><rel type="=構" target="グループ" sid="wiki00047039-02" id="4"/><rel type="=≒" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/>
++ 6D <rel type="ノ" target="グループ" sid="wiki00047039-02" id="4"/><rel type="=構" target="グループ" sid="wiki00047039-02" id="4"/><rel type="=≒" mode="AND" target="会社" sid="wiki00047039-00-01" id="3"/><体言>
 16 じゅうろく 16 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="ノ" target="16社" sid="wiki00047039-02" id="5"/>
++ 7D <rel type="ノ" target="16社" sid="wiki00047039-02" id="5"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00047039-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="16社" sid="wiki00047039-02" id="5"/><rel type="修飾" target="うち" sid="wiki00047039-02" id="6"/><rel type="=構" target="会社" sid="wiki00047039-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00047039-00-01" id="3"/><rel type="ノ" target="16社" sid="wiki00047039-02" id="5"/><rel type="修飾" target="うち" sid="wiki00047039-02" id="6"/><rel type="=構" target="会社" sid="wiki00047039-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

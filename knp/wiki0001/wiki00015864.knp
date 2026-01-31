@@ -3,7 +3,7 @@
 + 1D <体言>
 セントラル せんとらる セントラル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D <体言><rel type="ノ？" target="野球" sid="wiki00015864-00" id="4"/><rel type="ノ？" mode="AND" target="セントラル" sid="wiki00015864-00" id="0"/><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
++ 6D <rel type="ノ？" target="野球" sid="wiki00015864-00" id="4"/><rel type="ノ？" mode="AND" target="セントラル" sid="wiki00015864-00" id="0"/><体言><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -14,32 +14,32 @@
 * 3D
 + 4D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 5D <体言><rel type="修飾" target="プロ" sid="wiki00015864-00" id="3"/><NE:OPTIONAL:プロ野球><rel type="ノ？" target="日本" sid="wiki00015864-00" id="2"/><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
++ 5D <rel type="修飾" target="プロ" sid="wiki00015864-00" id="3"/><rel type="ノ？" target="日本" sid="wiki00015864-00" id="2"/><体言><NE:OPTIONAL:プロ野球><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 6D <体言><rel type="=≒" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ノ？" target="野球" sid="wiki00015864-00" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00015864-00" id="2"/>
++ 6D <rel type="=≒" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ノ？" target="野球" sid="wiki00015864-00" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00015864-00" id="2"/><体言>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ノ" target="リーグ" sid="wiki00015864-00" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="=構" mode="AND" target="リーグ" sid="wiki00015864-00" id="5"/>
++ -1D <rel type="ガ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ノ" target="リーグ" sid="wiki00015864-00" id="5"/><rel type="=構" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="=構" mode="AND" target="リーグ" sid="wiki00015864-00" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015864-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/11 MEMO:
 * 2D
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ノ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ヲ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ト" target="セ" sid="wiki00015864-01" id="3"/><rel type="ト" mode="AND" target="リーグ" sid="wiki00015864-01" id="2"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ノ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ヲ" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="ト" target="セ" sid="wiki00015864-01" id="3"/><rel type="ト" mode="AND" target="リーグ" sid="wiki00015864-01" id="2"/><体言><非用言格解析:動>
 呼称 こしょう 呼称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2D <体言><rel type="=" target="セントラル" sid="wiki00015864-00" id="0"/>
++ 2D <rel type="=" target="セントラル" sid="wiki00015864-00" id="0"/><体言>
 セ せ セ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3P <体言><rel type="=構" target="呼称" sid="wiki00015864-01" id="0"/><rel type="=" mode="AND" target="リーグ" sid="wiki00015864-00" id="1"/><NE:OPTIONAL:セ・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
++ 3P <rel type="=構" target="呼称" sid="wiki00015864-01" id="0"/><rel type="=" mode="AND" target="リーグ" sid="wiki00015864-00" id="1"/><体言><NE:OPTIONAL:セ・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 または または または 接続詞 10 * 0 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="呼称" sid="wiki00015864-01" id="0"/><体言><節-主辞><節-区切><用言:判><時制:非過去><memo text="CO"/><rel type="=構" target="呼称" sid="wiki00015864-01" id="0"/><rel type="=" mode="AND" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="=" mode="AND" target="セ" sid="wiki00015864-01" id="1"/><NE:OPTIONAL:セ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
++ -1D <rel type="ガ" target="呼称" sid="wiki00015864-01" id="0"/><rel type="=構" target="呼称" sid="wiki00015864-01" id="0"/><rel type="=" mode="AND" target="リーグ" sid="wiki00015864-00" id="1"/><rel type="=" mode="AND" target="セ" sid="wiki00015864-01" id="1"/><memo text="CO"/><体言><節-主辞><節-区切><用言:判><時制:非過去><NE:OPTIONAL:セ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 セ せ セ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

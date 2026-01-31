@@ -6,15 +6,15 @@
 * 6D
 + 2D <体言>
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ？" target="地質" sid="wiki00020544-00-01" id="1"/>
++ 3D <rel type="ノ？" target="地質" sid="wiki00020544-00-01" id="1"/><体言>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="更新世" sid="wiki00020544-00-01" id="0"/>
++ 4D <rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="更新世" sid="wiki00020544-00-01" id="0"/><体言>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9P <体言><時制:非過去><節-主辞><節-区切><用言:判><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="ノ" target="区分" sid="wiki00020544-00-01" id="3"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" mode="AND" target="区分" sid="wiki00020544-00-01" id="3"/>
++ 9P <rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="ノ" target="区分" sid="wiki00020544-00-01" id="3"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" mode="AND" target="区分" sid="wiki00020544-00-01" id="3"/><体言><時制:非過去><節-主辞><節-区切><用言:判>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -37,17 +37,17 @@
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <体言><用言:判><時制:非過去><節-主辞><節-区切><rel type="マデ" target="前" sid="wiki00020544-00-01" id="8"/><rel type="カラ" target="前" sid="wiki00020544-00-01" id="6"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/>
++ -1D <rel type="マデ" target="前" sid="wiki00020544-00-01" id="8"/><rel type="カラ" target="前" sid="wiki00020544-00-01" id="6"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020544-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/21 MEMO:
 * 1P
-+ 1P <体言><rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:こうしんせい><NE-OPTIONAL:DATE,NONE:0>
++ 1P <rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><体言><NE:OPTIONAL:こうしんせい><NE-OPTIONAL:DATE,NONE:0>
 こうしんせい こうしんせい こうしんせい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:Pleistocene><NE-OPTIONAL:DATE,NONE:0>
++ -1D <rel type="=" target="更新世" sid="wiki00020544-00-01" id="0"/><体言><NE:OPTIONAL:Pleistocene><NE-OPTIONAL:DATE,NONE:0>
 Pleistocene Pleistocene Pleistocene 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00020544-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/21 MEMO:
@@ -55,7 +55,7 @@ EOS
 + 1D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 3D <体言><rel type="修飾" target="第四" sid="wiki00020544-01" id="0"/><NE:OPTIONAL:第四紀><NE-OPTIONAL:DATE,NONE:0><rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="区分" sid="wiki00020544-00-01" id="3"/>
++ 3D <rel type="修飾" target="第四" sid="wiki00020544-01" id="0"/><rel type="ノ" target="時代" sid="wiki00020544-00-01" id="2"/><rel type="=≒" target="区分" sid="wiki00020544-00-01" id="3"/><体言><NE:OPTIONAL:第四紀><NE-OPTIONAL:DATE,NONE:0>
 紀 き 紀 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
@@ -64,7 +64,7 @@ EOS
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="紀" sid="wiki00020544-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="第一" sid="wiki00020544-01" id="2"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/>
++ -1D <rel type="ノ" target="紀" sid="wiki00020544-01" id="1"/><rel type="修飾" target="第一" sid="wiki00020544-01" id="2"/><rel type="ガ" target="更新世" sid="wiki00020544-00-01" id="0"/><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 世 せい 世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -74,7 +74,7 @@ EOS
 かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><NE:OPTIONAL:洪積世><NE-OPTIONAL:DATE,NONE:0>
++ 2D <rel type="=構" target="更新世" sid="wiki00020544-00-01" id="0"/><体言><NE:OPTIONAL:洪積世><NE-OPTIONAL:DATE,NONE:0>
 洪積世 こうせきせい 洪積世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -92,17 +92,17 @@ EOS
 * -1D
 + 6D <体言>
 氷河 ひょうが 氷河 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="ガ" target="ほとんど" sid="wiki00020544-02-01" id="4"/><rel type="=≒" target="洪積世" sid="wiki00020544-02-01" id="1"/><rel type="ノ？" target="氷河" sid="wiki00020544-02-01" id="5"/>
++ -1D <rel type="ガ" target="ほとんど" sid="wiki00020544-02-01" id="4"/><rel type="=≒" target="洪積世" sid="wiki00020544-02-01" id="1"/><rel type="ノ？" target="氷河" sid="wiki00020544-02-01" id="5"/><体言>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020544-02-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/21 MEMO:
 * 1P
-+ 1P <体言><rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><NE:OPTIONAL:こうせきせい><NE-OPTIONAL:DATE,NONE:0>
++ 1P <rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><体言><NE:OPTIONAL:こうせきせい><NE-OPTIONAL:DATE,NONE:0>
 こうせきせい こうせきせい こうせきせい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><NE:OPTIONAL:Diluvium><NE-OPTIONAL:DATE,NONE:0>
++ -1D <rel type="=" target="洪積世" sid="wiki00020544-02-01" id="1"/><体言><NE:OPTIONAL:Diluvium><NE-OPTIONAL:DATE,NONE:0>
 Diluvium Diluvium Diluvium 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS

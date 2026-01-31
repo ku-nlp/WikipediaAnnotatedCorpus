@@ -2,7 +2,7 @@
 * 11D
 + 1D <体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 16D <rel type="ガ" target="大気" sid="wiki00026870-00-01" id="0"/><体言><非用言格解析:動><rel type="修飾" target="大気" sid="wiki00026870-00-01" id="0"/>
++ 16D <rel type="ガ" target="大気" sid="wiki00026870-00-01" id="0"/><rel type="修飾" target="大気" sid="wiki00026870-00-01" id="0"/><体言><非用言格解析:動>
 汚染 おせん 汚染 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -16,7 +16,7 @@
 * 4P
 + 5D <体言>
 微 び 微 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8P <体言><rel type="修飾" target="微" sid="wiki00026870-00-01" id="4"/><rel type="修飾" mode="AND" target="中の" sid="wiki00026870-00-01" id="3"/>
++ 8P <rel type="修飾" target="微" sid="wiki00026870-00-01" id="4"/><rel type="修飾" mode="AND" target="中の" sid="wiki00026870-00-01" id="3"/><体言>
 粒子 りゅうし 粒子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -25,11 +25,11 @@
 * 5D
 + 8D <体言>
 気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="中の" sid="wiki00026870-00-01" id="3"/><rel type="修飾" mode="AND" target="有害な" sid="wiki00026870-00-01" id="6"/><rel type="ノ？" target="気体" sid="wiki00026870-00-01" id="7"/>
++ 9D <rel type="修飾" target="中の" sid="wiki00026870-00-01" id="3"/><rel type="修飾" mode="AND" target="有害な" sid="wiki00026870-00-01" id="6"/><rel type="ノ？" target="気体" sid="wiki00026870-00-01" id="7"/><体言>
 成分 せいぶん 成分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 15D <用言:動><節-主辞><節-区切><rel type="ガ" target="成分" sid="wiki00026870-00-01" id="8"/><rel type="ガ" mode="AND" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ニ" target="中" sid="wiki00026870-00-01" id="3"/>
++ 15D <rel type="ガ" target="成分" sid="wiki00026870-00-01" id="8"/><rel type="ガ" mode="AND" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ニ" target="中" sid="wiki00026870-00-01" id="3"/><用言:動><節-主辞><節-区切>
 増加 ぞうか 増加 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -38,24 +38,24 @@
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 12P <体言><非用言格解析:形><rel type="ガ" target="人" sid="wiki00026870-00-01" id="10"/>
++ 12P <rel type="ガ" target="人" sid="wiki00026870-00-01" id="10"/><体言><非用言格解析:形>
 健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 15D <体言><rel type="ノ？" target="人" sid="wiki00026870-00-01" id="10"/>
++ 15D <rel type="ノ？" target="人" sid="wiki00026870-00-01" id="10"/><体言>
 環境 かんきょう 環境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <体言><rel type="ガ" target="影響" sid="wiki00026870-00-01" id="14"/>
++ 14D <rel type="ガ" target="影響" sid="wiki00026870-00-01" id="14"/><体言>
 悪 あく 悪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><非用言格解析:動><rel type="修飾" target="悪" sid="wiki00026870-00-01" id="13"/><rel type="ニ" target="環境" sid="wiki00026870-00-01" id="12"/><rel type="ニ" mode="AND" target="健康" sid="wiki00026870-00-01" id="11"/><rel type="ガ" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ガ" mode="AND" target="成分" sid="wiki00026870-00-01" id="8"/>
++ 15D <rel type="修飾" target="悪" sid="wiki00026870-00-01" id="13"/><rel type="ニ" target="環境" sid="wiki00026870-00-01" id="12"/><rel type="ニ" mode="AND" target="健康" sid="wiki00026870-00-01" id="11"/><rel type="ガ" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ガ" mode="AND" target="成分" sid="wiki00026870-00-01" id="8"/><体言><非用言格解析:動>
 影響 えいきょう 影響 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D <rel type="ヲ" target="影響" sid="wiki00026870-00-01" id="14"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="健康" sid="wiki00026870-00-01" id="11"/><rel type="ニ" mode="AND" target="環境" sid="wiki00026870-00-01" id="12"/><rel type="ガ" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ガ" mode="AND" target="成分" sid="wiki00026870-00-01" id="8"/><rel type="外の関係" target="こと" sid="wiki00026870-00-01" id="16"/>
++ 16D <rel type="ヲ" target="影響" sid="wiki00026870-00-01" id="14"/><rel type="ニ" target="健康" sid="wiki00026870-00-01" id="11"/><rel type="ニ" mode="AND" target="環境" sid="wiki00026870-00-01" id="12"/><rel type="ガ" target="粒子" sid="wiki00026870-00-01" id="5"/><rel type="ガ" mode="AND" target="成分" sid="wiki00026870-00-01" id="8"/><rel type="外の関係" target="こと" sid="wiki00026870-00-01" id="16"/><用言:動><時制:非過去><節-主辞>
 もたらす もたらす もたらす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="汚染" sid="wiki00026870-00-01" id="1"/><用言:判><体言><時制:非過去><節-区切><rel type="=構" target="汚染" sid="wiki00026870-00-01" id="1"/><memo text="CO"/><rel type="トイウ" target="もたらす" sid="wiki00026870-00-01" id="15"/>
++ -1D <rel type="ガ" target="汚染" sid="wiki00026870-00-01" id="1"/><rel type="=構" target="汚染" sid="wiki00026870-00-01" id="1"/><rel type="トイウ" target="もたらす" sid="wiki00026870-00-01" id="15"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -63,7 +63,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="大気" sid="wiki00026870-00-01" id="0"/><体言>
 たいき たいき たいき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><非用言格解析:動><rel type="=" target="汚染" sid="wiki00026870-00-01" id="1"/>
++ -1D <rel type="=" target="汚染" sid="wiki00026870-00-01" id="1"/><体言><非用言格解析:動>
 おせん おせん おせん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00026870-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/06/10 MEMO:
@@ -72,7 +72,7 @@ EOS
 人間 にんげん 人間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2P <用言:形><rel type="ガ" target="活動" sid="wiki00026870-01" id="3"/>
++ 2P <rel type="ガ" target="活動" sid="wiki00026870-01" id="3"/><用言:形>
 経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -80,24 +80,24 @@ EOS
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
-+ 5D <rel type="ガ" target="人間" sid="wiki00026870-01" id="0"/><体言><非用言格解析:動><rel type="修飾" target="経済的" sid="wiki00026870-01" id="1"/><rel type="修飾" mode="AND" target="社会的な" sid="wiki00026870-01" id="2"/>
++ 5D <rel type="ガ" target="人間" sid="wiki00026870-01" id="0"/><rel type="修飾" target="経済的" sid="wiki00026870-01" id="1"/><rel type="修飾" mode="AND" target="社会的な" sid="wiki00026870-01" id="2"/><体言><非用言格解析:動>
 活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 5D <用言:形><時制:非過去>
 主な おもな 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="活動" sid="wiki00026870-01" id="3"/><rel type="ノ" target="汚染" sid="wiki00026870-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="活動" sid="wiki00026870-01" id="3"/>
++ -1D <rel type="ガ" target="活動" sid="wiki00026870-01" id="3"/><rel type="ノ" target="汚染" sid="wiki00026870-00-01" id="1"/><rel type="=構" target="活動" sid="wiki00026870-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026870-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:97.00000 MOD:2025/06/10 MEMO:
 * 1D
-+ 1D <用言:形><時制:非過去><rel type="ガ" target="発生する" sid="wiki00026870-02" id="1"/>
++ 1D <rel type="ガ" target="発生する" sid="wiki00026870-02" id="1"/><用言:形><時制:非過去>
 自然に しぜんに 自然だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL <基本句-主辞>
 * 4D
-+ 6D <用言:動><時制:非過去><rel type="ガ" target="噴火" sid="wiki00026870-02" id="3"/><rel type="ガ" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="ガ" mode="AND" target="火事など" sid="wiki00026870-02" id="6"/><rel type="修飾" target="自然に" sid="wiki00026870-02" id="0"/>
++ 6D <rel type="ガ" target="噴火" sid="wiki00026870-02" id="3"/><rel type="ガ" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="ガ" mode="AND" target="火事など" sid="wiki00026870-02" id="6"/><rel type="修飾" target="自然に" sid="wiki00026870-02" id="0"/><用言:動><時制:非過去>
 発生 はっせい 発生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3P
@@ -113,41 +113,41 @@ EOS
 * 6D
 + 6D <体言>
 山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="山" sid="wiki00026870-02" id="5"/>
++ 8D <rel type="修飾" target="山" sid="wiki00026870-02" id="5"/><体言>
 火事 かじ 火事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 8D <体言><非用言格解析:動><rel type="ノ" target="汚染" sid="wiki00026870-00-01" id="1"/><rel type="=≒" target="原因" sid="wiki00026870-01" id="5"/>
++ 8D <rel type="ノ" target="汚染" sid="wiki00026870-00-01" id="1"/><rel type="=≒" target="原因" sid="wiki00026870-01" id="5"/><体言><非用言格解析:動>
 原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 16D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="噴火" sid="wiki00026870-02" id="3"/><rel type="ガ" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="ガ" mode="AND" target="火事など" sid="wiki00026870-02" id="6"/><rel type="ト" target="原因" sid="wiki00026870-02" id="7"/>
++ 16D <rel type="ガ" target="噴火" sid="wiki00026870-02" id="3"/><rel type="ガ" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="ガ" mode="AND" target="火事など" sid="wiki00026870-02" id="6"/><rel type="ト" target="原因" sid="wiki00026870-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 10D <体言><rel type="=≒" target="自然に" sid="wiki00026870-02" id="0"/>
++ 10D <rel type="=≒" target="自然に" sid="wiki00026870-02" id="0"/><体言>
 自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><非用言格解析:動><rel type="ガ" target="自然" sid="wiki00026870-02" id="9"/>
++ 11D <rel type="ガ" target="自然" sid="wiki00026870-02" id="9"/><体言><非用言格解析:動>
 由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 14D <体言><rel type="修飾" target="由来" sid="wiki00026870-02" id="10"/><rel type="=≒" target="噴火" sid="wiki00026870-02" id="3"/><rel type="=≒" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="=≒" mode="AND" target="火事" sid="wiki00026870-02" id="6"/>
++ 14D <rel type="修飾" target="由来" sid="wiki00026870-02" id="10"/><rel type="=≒" target="噴火" sid="wiki00026870-02" id="3"/><rel type="=≒" mode="AND" target="砂嵐" sid="wiki00026870-02" id="4"/><rel type="=≒" mode="AND" target="火事" sid="wiki00026870-02" id="6"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 13D <体言><rel type="=" target="大気" sid="wiki00026870-00-01" id="0"/>
++ 13D <rel type="=" target="大気" sid="wiki00026870-00-01" id="0"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 14D <rel type="=" target="汚染" sid="wiki00026870-00-01" id="1"/><体言><非用言格解析:動>
 汚染 おせん 汚染 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00026870-02" id="11"/><rel type="ニ" target="汚染" sid="wiki00026870-02" id="13"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><否定表現><節-主辞><rel type="外の関係" target="場合" sid="wiki00026870-02" id="15"/>
++ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00026870-02" id="11"/><rel type="ニ" target="汚染" sid="wiki00026870-02" id="13"/><rel type="外の関係" target="場合" sid="wiki00026870-02" id="15"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><否定表現><節-主辞>
 含め ふくめ 含める 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 12D
-+ 16D <体言><rel type="ノ" target="含めない" sid="wiki00026870-02" id="14"/>
++ 16D <rel type="ノ" target="含めない" sid="wiki00026870-02" id="14"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

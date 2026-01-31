@@ -1,12 +1,12 @@
 # S-ID:wiki00020492-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/04/21 MEMO:
 * 1P
-+ 1D <体言><memo text="人工言語エスペラント及びイド語で「子供」ないし「成果」という意味（wikiから）"/>
++ 1D <memo text="人工言語エスペラント及びイド語で「子供」ないし「成果」という意味（wikiから）"/><体言>
 イド いど イド 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2P <体言><rel type="ノ？" target="イド" sid="wiki00020492-00-01" id="0"/><NE:OPTIONAL:イド語><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 2P <rel type="ノ？" target="イド" sid="wiki00020492-00-01" id="0"/><体言><NE:OPTIONAL:イド語><NE-OPTIONAL:ARTIFACT,NONE:0>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 12D <体言><rel type="=" target="語" sid="wiki00020492-00-01" id="1"/><NE:OPTIONAL:イード><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 12D <rel type="=" target="語" sid="wiki00020492-00-01" id="1"/><体言><NE:OPTIONAL:イード><NE-OPTIONAL:ARTIFACT,NONE:0>
 イード いーど イード 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -15,22 +15,22 @@
 * 3D
 + 4D <体言>
 人工 じんこう 人工 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="人工" sid="wiki00020492-00-01" id="3"/><rel type="=≒" target="語" sid="wiki00020492-00-01" id="1"/>
++ 5D <rel type="修飾" target="人工" sid="wiki00020492-00-01" id="3"/><rel type="=≒" target="語" sid="wiki00020492-00-01" id="1"/><体言>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 12P <rel type="ノ" target="言語" sid="wiki00020492-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="=構" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="ガ" target="語" sid="wiki00020492-00-01" id="1"/><rel type="ガ" mode="AND" target="イード" sid="wiki00020492-00-01" id="2"/>
++ 12P <rel type="ノ" target="言語" sid="wiki00020492-00-01" id="4"/><rel type="=構" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="=構" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="ガ" target="語" sid="wiki00020492-00-01" id="1"/><rel type="ガ" mode="AND" target="イード" sid="wiki00020492-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D <体言><memo text="人工言語　考案者のペンネームからエスペラントと呼ばれるようになった。エスペラントで「希望する人」の意味(wikiから)"/><NE:OPTIONAL:エスペラント><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 8D <memo text="人工言語　考案者のペンネームからエスペラントと呼ばれるようになった。エスペラントで「希望する人」の意味(wikiから)"/><体言><NE:OPTIONAL:エスペラント><NE-OPTIONAL:ARTIFACT,NONE:0>
 エスペラント えすぺらんと エスペラント 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="エスペラント" sid="wiki00020492-00-01" id="6"/><体言><非用言格解析:動>
 改修 かいしゅう 改修 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="改修" sid="wiki00020492-00-01" id="7"/><rel type="ノ" target="エスペラント" sid="wiki00020492-00-01" id="6"/>
++ 9D <rel type="ノ？" target="改修" sid="wiki00020492-00-01" id="7"/><rel type="ノ" target="エスペラント" sid="wiki00020492-00-01" id="6"/><体言>
 案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
@@ -42,18 +42,18 @@
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="もの" sid="wiki00020492-00-01" id="12"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="時間" target="1908年" sid="wiki00020492-00-01" id="10"/><rel type="トシテ" target="案" sid="wiki00020492-00-01" id="8"/>
++ 12D <rel type="ガ" target="もの" sid="wiki00020492-00-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1908年" sid="wiki00020492-00-01" id="10"/><rel type="トシテ" target="案" sid="wiki00020492-00-01" id="8"/><用言:動><時制:過去><節-主辞>
 発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-区切><rel type="ガ" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="ガ" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="=構" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="=構" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="=構" mode="AND" target="案" sid="wiki00020492-00-01" id="8"/>
++ -1D <rel type="ガ" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="ガ" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="=構" target="イード" sid="wiki00020492-00-01" id="2"/><rel type="=構" mode="AND" target="語" sid="wiki00020492-00-01" id="1"/><rel type="=構" mode="AND" target="案" sid="wiki00020492-00-01" id="8"/><用言:判><体言><時制:非過去><節-区切>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020492-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/21 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="イード" sid="wiki00020492-00-01" id="2"/><NE:OPTIONAL:Ido><NE-OPTIONAL:ARTIFACT,NONE:0>
++ -1D <rel type="=" target="イード" sid="wiki00020492-00-01" id="2"/><体言><NE:OPTIONAL:Ido><NE-OPTIONAL:ARTIFACT,NONE:0>
 Ido Ido Ido 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS

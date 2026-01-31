@@ -1,8 +1,8 @@
 # S-ID:wiki00053580-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/03/07 MEMO:
 * 5D
-+ 1D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="1"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:物"/><rel type="ニ" target="不特定:人"/>
++ 1D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="1"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:物"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
 報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="報道" sid="wiki00053580-00-01" id="0"/>
++ 6D <rel type="ノ？" target="報道" sid="wiki00053580-00-01" id="0"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -14,15 +14,15 @@
 + 4D <用言:動>
 対し たいし 対する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="5"/><用言:動><時制:非過去><rel type="ニタイシテ" target="大衆" sid="wiki00053580-00-01" id="2"/><rel type="=" target="報道" sid="wiki00053580-00-01" id="0"/>
++ 5D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="5"/><rel type="ニタイシテ" target="大衆" sid="wiki00053580-00-01" id="2"/><rel type="=" target="報道" sid="wiki00053580-00-01" id="0"/><用言:動><時制:非過去>
 報道 ほうどう 報道 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 6D <体言><rel type="=≒" target="機関" sid="wiki00053580-00-01" id="1"/>
++ 6D <rel type="=≒" target="機関" sid="wiki00053580-00-01" id="1"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki00053580-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="機関" sid="wiki00053580-00-01" id="1"/>
++ -1D <rel type="ガ" target="機関" sid="wiki00053580-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki00053580-00-01" id="5"/><rel type="=構" target="機関" sid="wiki00053580-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -45,38 +45,38 @@ EOS
 + 2D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5P
-+ 12P <rel type="ガ" target="マスメディア" sid="wiki00053580-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="マスメディア" sid="wiki00053580-01" id="0"/><rel type="ノ" target="機関" sid="wiki00053580-00-01" id="1"/>
++ 12P <rel type="ガ" target="マスメディア" sid="wiki00053580-01" id="0"/><rel type="=構" target="マスメディア" sid="wiki00053580-01" id="0"/><rel type="ノ" target="機関" sid="wiki00053580-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 俗称 ぞくしょう 俗称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
 + 4D <体言>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="ノ？" target="新聞" sid="wiki00053580-01" id="3"/>
++ 6P <rel type="ノ？" target="新聞" sid="wiki00053580-01" id="3"/><体言>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="局" sid="wiki00053580-01" id="6"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:物"/>
++ 6D <rel type="ガ" target="局" sid="wiki00053580-01" id="6"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:物"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8P <体言><rel type="ノ？" target="放送" sid="wiki00053580-01" id="5"/>
++ 8P <rel type="ノ？" target="放送" sid="wiki00053580-01" id="5"/><体言>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 8D <体言><非用言格解析:動><rel type="ガ" target="社" sid="wiki00053580-01" id="8"/><rel type="ヲ" target="不特定:物"/>
++ 8D <rel type="ガ" target="社" sid="wiki00053580-01" id="8"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10P <体言><rel type="ノ？" target="出版" sid="wiki00053580-01" id="7"/>
++ 10P <rel type="ノ？" target="出版" sid="wiki00053580-01" id="7"/><体言>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D <体言><非用言格解析:動><rel type="ガ" target="社" sid="wiki00053580-01" id="10"/><rel type="ヲ" target="不特定:物"/>
++ 10D <rel type="ガ" target="社" sid="wiki00053580-01" id="10"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="ノ？" target="通信" sid="wiki00053580-01" id="9"/>
++ 12D <rel type="ノ？" target="通信" sid="wiki00053580-01" id="9"/><体言>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 12D <体言><rel type="=" target="マスメディア" sid="wiki00053580-01" id="0"/>
++ 12D <rel type="=" target="マスメディア" sid="wiki00053580-01" id="0"/><体言>
 これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="これ" sid="wiki00053580-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="社" sid="wiki00053580-01" id="4"/><rel type="ガ" mode="AND" target="局" sid="wiki00053580-01" id="6"/><rel type="ガ" mode="AND" target="社" sid="wiki00053580-01" id="8"/><rel type="ガ" mode="AND" target="社など" sid="wiki00053580-01" id="10"/>
++ -1D <rel type="ニ" target="これ" sid="wiki00053580-01" id="11"/><rel type="ガ" target="社" sid="wiki00053580-01" id="4"/><rel type="ガ" mode="AND" target="局" sid="wiki00053580-01" id="6"/><rel type="ガ" mode="AND" target="社" sid="wiki00053580-01" id="8"/><rel type="ガ" mode="AND" target="社など" sid="wiki00053580-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
 該当 がいとう 該当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

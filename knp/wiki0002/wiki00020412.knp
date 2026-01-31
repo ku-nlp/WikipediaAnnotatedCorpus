@@ -6,9 +6,9 @@
 * 2D
 + 2D <体言>
 地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ？" target="地質" sid="wiki00020412-00-01" id="1"/>
++ 3D <rel type="ノ？" target="地質" sid="wiki00020412-00-01" id="1"/><体言>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="時代" sid="wiki00020412-00-01" id="2"/><rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="ノ？" target="時代" sid="wiki00020412-00-01" id="2"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="時代" sid="wiki00020412-00-01" id="2"/><rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="ノ？" target="時代" sid="wiki00020412-00-01" id="2"/><体言><非用言格解析:動>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -19,26 +19,26 @@
 + 6D
 最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 7D <rel type="ガ" target="時代" sid="wiki00020412-00-01" id="7"/><用言:形><時制:非過去><節-主辞><rel type="デ" target="うち" sid="wiki00020412-00-01" id="4"/>
++ 7D <rel type="ガ" target="時代" sid="wiki00020412-00-01" id="7"/><rel type="デ" target="うち" sid="wiki00020412-00-01" id="4"/><用言:形><時制:非過去><節-主辞>
 新しい あたらしい 新しい 形容詞 3 * 0 イ形容詞イ段 19 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="完新世" sid="wiki00020412-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="デ" target="うち" sid="wiki00020412-00-01" id="4"/><rel type="修飾" target="新しい" sid="wiki00020412-00-01" id="6"/>
++ -1D <rel type="ガ" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="=構" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="デ" target="うち" sid="wiki00020412-00-01" id="4"/><rel type="修飾" target="新しい" sid="wiki00020412-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020412-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
 * 1P
-+ 1P <体言><rel type="=" target="完新世" sid="wiki00020412-00-01" id="0"/><NE:DATE:かんしんせい>
++ 1P <rel type="=" target="完新世" sid="wiki00020412-00-01" id="0"/><体言><NE:DATE:かんしんせい>
 かんしんせい かんしんせい かんしんせい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="完新世" sid="wiki00020412-00-01" id="0"/><NE:DATE:Holocene>
++ -1D <rel type="=" target="完新世" sid="wiki00020412-00-01" id="0"/><体言><NE:DATE:Holocene>
 Holocene Holocene Holocene 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 EOS
 # S-ID:wiki00020412-00-03 括弧始:（ 括弧終:） 括弧位置:27 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/20 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="区分" sid="wiki00020412-00-01" id="3"/>
++ -1D <rel type="=" target="区分" sid="wiki00020412-00-01" id="3"/><体言>
 世 せい 世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00020412-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/18 MEMO:
@@ -46,7 +46,7 @@ EOS
 + 1D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:DATE:head>
 四 よん 四 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 3D <体言><rel type="=≒" target="区分" sid="wiki00020412-00-01" id="3"/><memo text="地質時代の「紀」による区分"/><NE:DATE:第四紀><rel type="ノ？" target="時代" sid="wiki00020412-00-01" id="2"/>
++ 3D <rel type="=≒" target="区分" sid="wiki00020412-00-01" id="3"/><rel type="ノ？" target="時代" sid="wiki00020412-00-01" id="2"/><memo text="地質時代の「紀」による区分"/><体言><NE:DATE:第四紀>
 紀 き 紀 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -55,14 +55,14 @@ EOS
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 5P <rel type="ガ" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="ノ" target="紀" sid="wiki00020412-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="第二" sid="wiki00020412-01" id="2"/><rel type="=構" target="完新世" sid="wiki00020412-00-01" id="0"/>
++ 5P <rel type="ガ" target="完新世" sid="wiki00020412-00-01" id="0"/><rel type="ノ" target="紀" sid="wiki00020412-01" id="1"/><rel type="修飾" target="第二" sid="wiki00020412-01" id="2"/><rel type="=構" target="完新世" sid="wiki00020412-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 世 せい 世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 同時に どうじに 同時に 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/>
++ 5D <rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/><体言>
 現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -76,7 +76,7 @@ EOS
 かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="修飾" target="かつて" sid="wiki00020412-02-01" id="0"/><rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/><NE:DATE:沖積世>
++ 4D <rel type="修飾" target="かつて" sid="wiki00020412-02-01" id="0"/><rel type="=≒" target="完新世" sid="wiki00020412-00-01" id="0"/><体言><NE:DATE:沖積世>
 沖積世 ちゅうせきせい 沖積世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -93,6 +93,6 @@ EOS
 EOS
 # S-ID:wiki00020412-02-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="沖積世" sid="wiki00020412-02-01" id="1"/><NE:DATE:Alluvium>
++ -1D <rel type="=" target="沖積世" sid="wiki00020412-02-01" id="1"/><体言><NE:DATE:Alluvium>
 Alluvium Alluvium Alluvium 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 EOS

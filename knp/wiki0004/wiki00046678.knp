@@ -20,7 +20,7 @@
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="デ" target="ヨーロッパ" sid="wiki00046678-00-01" id="5"/>
++ 7D <rel type="デ" target="ヨーロッパ" sid="wiki00046678-00-01" id="5"/><体言>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -29,7 +29,7 @@
 + 8D <rel type="ガ" target="大河" sid="wiki00046678-00-01" id="8"/><用言:形><時制:非過去><節-主辞>
 長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="川" sid="wiki00046678-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="川" sid="wiki00046678-00-01" id="1"/><rel type="修飾" target="長い" sid="wiki00046678-00-01" id="7"/>
++ -1D <rel type="ガ" target="川" sid="wiki00046678-00-01" id="1"/><rel type="=構" target="川" sid="wiki00046678-00-01" id="1"/><rel type="修飾" target="長い" sid="wiki00046678-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大河 たいが 大河 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -44,20 +44,20 @@ EOS
 * 2P
 + 3D <体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="ラテン" sid="wiki00046678-00-02" id="2"/>
++ 4D <rel type="ノ？" target="ラテン" sid="wiki00046678-00-02" id="2"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 7P <体言><rel type="=" target="川" sid="wiki00046678-00-01" id="1"/><rel type="デ" target="語" sid="wiki00046678-00-02" id="3"/><NE:LOCATION:Danubius>
++ 7P <rel type="=" target="川" sid="wiki00046678-00-01" id="1"/><rel type="デ" target="語" sid="wiki00046678-00-02" id="3"/><体言><NE:LOCATION:Danubius>
 Danubius Danubius Danubius 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
 + 6D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 7D <体言><rel type="ノ？" target="ドイツ" sid="wiki00046678-00-02" id="5"/>
++ 7D <rel type="ノ？" target="ドイツ" sid="wiki00046678-00-02" id="5"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="川" sid="wiki00046678-00-01" id="1"/><体言><rel type="デ" target="語" sid="wiki00046678-00-02" id="6"/><NE:LOCATION:Donau>
++ -1D <rel type="=" target="川" sid="wiki00046678-00-01" id="1"/><rel type="デ" target="語" sid="wiki00046678-00-02" id="6"/><体言><NE:LOCATION:Donau>
 Donau Donau Donau 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS

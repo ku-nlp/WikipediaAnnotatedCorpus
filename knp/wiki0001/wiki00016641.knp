@@ -2,7 +2,7 @@
 * 1D
 + 1D <体言>
 風俗 ふうぞく 風俗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="風俗" sid="wiki00016641-00-01" id="0"/><rel type="修飾" target="風俗" sid="wiki00016641-00-01" id="0"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="風俗" sid="wiki00016641-00-01" id="0"/><rel type="修飾" target="風俗" sid="wiki00016641-00-01" id="0"/><体言><非用言格解析:動>
 営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
@@ -11,20 +11,20 @@
 規制 きせい 規制 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 3D
-+ 4D <体言><rel type="ニカンシテ" target="営業" sid="wiki00016641-00-01" id="1"/>
++ 4D <rel type="ニカンシテ" target="営業" sid="wiki00016641-00-01" id="1"/><体言>
 業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 4D
-+ 5D <体言><非用言格解析:形><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="業務" sid="wiki00016641-00-01" id="3"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="業務" sid="wiki00016641-00-01" id="3"/><体言><非用言格解析:形>
 適正 てきせい 適正だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:middle>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 5D
-+ 6D <用言:動><時制:非過去><rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ニ" target="規制" sid="wiki00016641-00-01" id="2"/><rel type="ニ" mode="AND" target="適正化等" sid="wiki00016641-00-01" id="4"/>
++ 6D <rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ニ" target="規制" sid="wiki00016641-00-01" id="2"/><rel type="ニ" mode="AND" target="適正化等" sid="wiki00016641-00-01" id="4"/><用言:動><時制:非過去>
 関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞><NE:ARTIFACT:middle>
 * 7D
-+ 8D <体言><NE:ARTIFACT:風俗営業等の規制及び業務の適正化等に関する法律><rel type="ニカンシテ" target="規制" sid="wiki00016641-00-01" id="2"/><rel type="ニカンシテ" mode="AND" target="適正化等" sid="wiki00016641-00-01" id="4"/>
++ 8D <rel type="ニカンシテ" target="規制" sid="wiki00016641-00-01" id="2"/><rel type="ニカンシテ" mode="AND" target="適正化等" sid="wiki00016641-00-01" id="4"/><体言><NE:ARTIFACT:風俗営業等の規制及び業務の適正化等に関する法律>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -33,7 +33,7 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="日本" sid="wiki00016641-00-01" id="7"/><rel type="=構" target="法律" sid="wiki00016641-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ノ？" target="日本" sid="wiki00016641-00-01" id="7"/><rel type="=構" target="法律" sid="wiki00016641-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -41,36 +41,36 @@ EOS
 * 1D
 + 1D <rel type="=" target="風俗" sid="wiki00016641-00-01" id="0"/><体言>
 ふうぞく ふうぞく ふうぞく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <体言><非用言格解析:動><rel type="=" target="営業" sid="wiki00016641-00-01" id="1"/>
++ 2D <rel type="=" target="営業" sid="wiki00016641-00-01" id="1"/><体言><非用言格解析:動>
 えいぎょう えいぎょう えいぎょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 とう とう とう 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * -1P
-+ 4P <体言><非用言格解析:動><rel type="=" target="規制" sid="wiki00016641-00-01" id="2"/>
++ 4P <rel type="=" target="規制" sid="wiki00016641-00-01" id="2"/><体言><非用言格解析:動>
 きせい きせい きせい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * -1P
-+ 4D <体言><rel type="=" target="業務" sid="wiki00016641-00-01" id="3"/>
++ 4D <rel type="=" target="業務" sid="wiki00016641-00-01" id="3"/><体言>
 ぎょうむ ぎょうむ ぎょうむ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * -1P
-+ 5D <体言><非用言格解析:形><rel type="=" target="適正化" sid="wiki00016641-00-01" id="4"/>
++ 5D <rel type="=" target="適正化" sid="wiki00016641-00-01" id="4"/><体言><非用言格解析:形>
 てきせい てきせい てきせいだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:middle>
 か か か 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 とう とう とう 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * -1P
-+ 6D <用言:動><時制:非過去><rel type="=" target="関する" sid="wiki00016641-00-01" id="5"/>
++ 6D <rel type="=" target="関する" sid="wiki00016641-00-01" id="5"/><用言:動><時制:非過去>
 かんする かんする かんする 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞><NE:ARTIFACT:middle>
 * -1D
-+ -1D <体言><rel type="=" target="法律" sid="wiki00016641-00-01" id="6"/><NE:ARTIFACT:ふうぞくえいぎょうとうのきせいおよびぎょうむのてきせいかとうにかんするほうりつ>
++ -1D <rel type="=" target="法律" sid="wiki00016641-00-01" id="6"/><体言><NE:ARTIFACT:ふうぞくえいぎょうとうのきせいおよびぎょうむのてきせいかとうにかんするほうりつ>
 ほうりつ ほうりつ ほうりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00016641-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/17 MEMO:
 * 1D
-+ 1D <体言><rel type="=≒" target="法律" sid="wiki00016641-00-01" id="8"/>
++ 1D <rel type="=≒" target="法律" sid="wiki00016641-00-01" id="8"/><体言>
 法令 ほうれい 法令 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="法令" sid="wiki00016641-01-01" id="0"/><rel type="ノ" target="法律" sid="wiki00016641-00-01" id="6"/>
++ 5D <rel type="ノ？" target="法令" sid="wiki00016641-01-01" id="0"/><rel type="ノ" target="法律" sid="wiki00016641-00-01" id="6"/><体言>
 番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
@@ -87,7 +87,7 @@ EOS
 号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 7D <体言><rel type="=" target="23年" sid="wiki00016641-01-01" id="3"/>
++ 7D <rel type="=" target="23年" sid="wiki00016641-01-01" id="3"/><体言>
 1948 せんきゅうひゃくよんじゅうはち 1948 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 8D <体言>
@@ -98,7 +98,7 @@ EOS
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="10日" sid="wiki00016641-01-01" id="8"/><rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ニ" target="不特定:人1"/>
++ -1D <rel type="時間" target="10日" sid="wiki00016641-01-01" id="8"/><rel type="ガ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ニ" target="不特定:人1"/><用言:動><時制:過去><節-主辞><節-区切>
 公布 こうふ 公布 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -108,26 +108,26 @@ EOS
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:昭和23年><体言><rel type="=" target="1948年" sid="wiki00016641-01-01" id="6"/>
++ -1D <rel type="=" target="1948年" sid="wiki00016641-01-01" id="6"/><NE:DATE:昭和23年><体言>
 23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00016641-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/17 MEMO:
 * 2D
-+ 4D <体言><非用言格解析:動><rel type="ノ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ト" target="法など" sid="wiki00016641-02" id="4"/>
++ 4D <rel type="ノ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="法律" sid="wiki00016641-00-01" id="6"/><rel type="ト" target="法など" sid="wiki00016641-02" id="4"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 4P <体言><rel type="=構" target="略称" sid="wiki00016641-02" id="0"/><rel type="=" mode="AND" target="法律" sid="wiki00016641-00-01" id="6"/><NE:ARTIFACT:風法>
++ 4P <rel type="=構" target="略称" sid="wiki00016641-02" id="0"/><rel type="=" mode="AND" target="法律" sid="wiki00016641-00-01" id="6"/><体言><NE:ARTIFACT:風法>
 風法 ふうほう 風法 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="風俗" sid="wiki00016641-00-01" id="0"/>
++ 3D <rel type="=" target="風俗" sid="wiki00016641-00-01" id="0"/><体言>
 風俗 ふうぞく 風俗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 4D <体言><非用言格解析:動><rel type="=" target="営業" sid="wiki00016641-00-01" id="1"/>
++ 4D <rel type="=" target="営業" sid="wiki00016641-00-01" id="1"/><体言><非用言格解析:動>
 営業 えいぎょう 営業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ -1D <rel type="ガ" target="略称" sid="wiki00016641-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="略称" sid="wiki00016641-02" id="0"/><rel type="=" mode="AND" target="法律" sid="wiki00016641-00-01" id="6"/><NE:ARTIFACT:風俗営業法><memo text="CO"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00016641-02" id="0"/><rel type="=構" target="略称" sid="wiki00016641-02" id="0"/><rel type="=" mode="AND" target="法律" sid="wiki00016641-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:風俗営業法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

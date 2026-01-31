@@ -2,7 +2,7 @@
 * 18D
 + 1D <体言>
 自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/><rel type="修飾" target="自動" sid="wiki00022260-00-01" id="0"/>
++ 2D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="修飾" target="自動" sid="wiki00022260-00-01" id="0"/><体言><非用言格解析:動>
 販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 21D <rel type="ノ" target="販売" sid="wiki00022260-00-01" id="1"/><体言>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -13,11 +13,11 @@
 + 4D <体言><非用言格解析:動><否定表現>
 不 ふ 不 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
 特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="不特定" sid="wiki00022260-00-01" id="3"/>
++ 5D <rel type="修飾" target="不特定" sid="wiki00022260-00-01" id="3"/><体言>
 多数 たすう 多数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <体言><rel type="修飾" target="多数" sid="wiki00022260-00-01" id="4"/><rel type="修飾" mode="AND" target="不特定" sid="wiki00022260-00-01" id="3"/>
++ 12D <rel type="修飾" target="多数" sid="wiki00022260-00-01" id="4"/><rel type="修飾" mode="AND" target="不特定" sid="wiki00022260-00-01" id="3"/><体言>
 人間 にんげん 人間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
@@ -38,18 +38,18 @@
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="人間" sid="wiki00022260-00-01" id="5"/><用言:動><節-主辞><節-区切><rel type="ニ" target="機器" sid="wiki00022260-00-01" id="20"/><rel type="ヲ" target="カードなど" sid="wiki00022260-00-01" id="9"/><rel type="ヲ" mode="OR" target="通貨" sid="wiki00022260-00-01" id="6"/>
++ 12D <rel type="ガ" target="人間" sid="wiki00022260-00-01" id="5"/><rel type="ニ" target="機器" sid="wiki00022260-00-01" id="21"/><rel type="ヲ" target="カードなど" sid="wiki00022260-00-01" id="9"/><rel type="ヲ" mode="OR" target="通貨" sid="wiki00022260-00-01" id="6"/><用言:動><節-主辞><節-区切>
 投入 とうにゅう 投入 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 9D
-+ 12D <体言><rel type="ノ" target="購入" sid="wiki00022260-00-01" id="16"/><rel type="ノ" mode="AND" target="提供" sid="wiki00022260-00-01" id="18"/>
++ 12D <rel type="ノ" target="購入" sid="wiki00022260-00-01" id="16"/><rel type="ノ" mode="AND" target="提供" sid="wiki00022260-00-01" id="18"/><体言>
 対価 たいか 対価 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ガ" target="人間" sid="wiki00022260-00-01" id="5"/><rel type="ヲ" target="対価" sid="wiki00022260-00-01" id="11"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00022260-00-01" id="13"/><rel type="ニ" target="機器" sid="wiki00022260-00-01" id="20"/><rel type="ニ" mode="AND" target="不特定:人1"/><memo text="不特定人１:販売機を設置している事業者"/>
++ 13D <rel type="ガ" target="人間" sid="wiki00022260-00-01" id="5"/><rel type="ヲ" target="対価" sid="wiki00022260-00-01" id="11"/><rel type="外の関係" target="こと" sid="wiki00022260-00-01" id="13"/><rel type="ニ" target="機器" sid="wiki00022260-00-01" id="21"/><rel type="ニ" mode="AND" target="不特定:人1"/><memo text="不特定人１:販売機を設置している事業者"/><用言:動><時制:非過去><節-主辞>
 払う はらう 払う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 17D
-+ 20D <体言><rel type="トイウ" target="払う" sid="wiki00022260-00-01" id="12"/>
++ 20D <rel type="トイウ" target="払う" sid="wiki00022260-00-01" id="12"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
@@ -65,11 +65,11 @@
 購入 こうにゅう 購入 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 18D <体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><rel type="ガ" target="機器" sid="wiki00022260-00-01" id="20"/><rel type="ガ" mode="AND" target="不特定:人1"/><rel type="ニ" target="人間" sid="wiki00022260-00-01" id="5"/>
++ 18D <rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><rel type="ガ" target="機器" sid="wiki00022260-00-01" id="21"/><rel type="ガ" mode="AND" target="不特定:人1"/><rel type="ニ" target="人間" sid="wiki00022260-00-01" id="5"/><体言><非用言格解析:動>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 19D <rel type="ヲ" target="サービス" sid="wiki00022260-00-01" id="17"/><体言><非用言格解析:動><rel type="ガ" target="機器" sid="wiki00022260-00-01" id="20"/><rel type="ガ" mode="AND" target="不特定:人1"/><rel type="ニ" target="人間" sid="wiki00022260-00-01" id="5"/>
++ 19D <rel type="ヲ" target="サービス" sid="wiki00022260-00-01" id="17"/><rel type="ガ" target="機器" sid="wiki00022260-00-01" id="21"/><rel type="ガ" mode="AND" target="不特定:人1"/><rel type="ニ" target="人間" sid="wiki00022260-00-01" id="5"/><体言><非用言格解析:動>
 提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
@@ -83,51 +83,51 @@
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 した した する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="機" sid="wiki00022260-00-01" id="2"/><memo text="CO"/><rel type="トイウ" target="できるようにした" sid="wiki00022260-00-01" id="20"/>
++ -1D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><rel type="=構" target="機" sid="wiki00022260-00-01" id="2"/><rel type="トイウ" target="できるようにした" sid="wiki00022260-00-01" id="20"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機器 きき 機器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00022260-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/12 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="自動" sid="wiki00022260-00-01" id="0"/>
++ 1D <rel type="=" target="自動" sid="wiki00022260-00-01" id="0"/><体言>
 じどう じどう じどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><非用言格解析:動><rel type="=" target="販売" sid="wiki00022260-00-01" id="1"/>
++ 2D <rel type="=" target="販売" sid="wiki00022260-00-01" id="1"/><体言><非用言格解析:動>
 はんばい はんばい はんばい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="機" sid="wiki00022260-00-01" id="2"/>
++ -1D <rel type="=" target="機" sid="wiki00022260-00-01" id="2"/><体言>
 き き き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00022260-00-03 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/12 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="通貨" sid="wiki00022260-00-01" id="6"/>
++ -1D <rel type="=" target="通貨" sid="wiki00022260-00-01" id="6"/><体言>
 貨幣 かへい 貨幣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00022260-00-04 括弧始:（ 括弧終:） 括弧位置:67 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/07/09 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="商品" sid="wiki00022260-00-01" id="15"/>
++ -1D <rel type="=" target="商品" sid="wiki00022260-00-01" id="15"/><体言>
 物品 ぶっぴん 物品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00022260-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/12 MEMO:
 * 1D
-+ 1D <体言><rel type="=構" target="機" sid="wiki00022260-00-01" id="2"/>
++ 1D <rel type="=構" target="機" sid="wiki00022260-00-01" id="2"/><体言>
 自販機 じはんき 自販機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="自販機" sid="wiki00022260-01-01" id="0"/>
++ -1D <rel type="ガ" target="機" sid="wiki00022260-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="自販機" sid="wiki00022260-01-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00022260-01-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/07/09 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="自販機" sid="wiki00022260-01-01" id="0"/>
++ -1D <rel type="=" target="自販機" sid="wiki00022260-01-01" id="0"/><体言>
 じはんき じはんき じはんき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00022260-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/05/12 MEMO:
 * 1P
-+ 1D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニ" target="不特定:物"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:物"/><体言><非用言格解析:動>
 乗車 じょうしゃ 乗車 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 2P <体言><rel type="ノ？" target="乗車" sid="wiki00022260-02-01" id="0"/>
++ 2P <rel type="ノ？" target="乗車" sid="wiki00022260-02-01" id="0"/><体言>
 券 けん 券 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -136,7 +136,7 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="ノ？≒" target="券" sid="wiki00022260-02-01" id="1"/><rel type="ノ？≒" mode="AND" target="食券" sid="wiki00022260-02-01" id="2"/>
++ 4D <rel type="ノ？≒" target="券" sid="wiki00022260-02-01" id="1"/><rel type="ノ？≒" mode="AND" target="食券" sid="wiki00022260-02-01" id="2"/><体言>
 券 けん 券 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -144,7 +144,7 @@ EOS
 販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 6D <体言><rel type="=≒" target="機器" sid="wiki00022260-00-01" id="21"/>
++ 6D <rel type="=≒" target="機器" sid="wiki00022260-00-01" id="21"/><体言>
 機械 きかい 機械 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -152,19 +152,19 @@ EOS
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="=構" target="機械" sid="wiki00022260-02-01" id="5"/>
++ 8D <rel type="=構" target="機械" sid="wiki00022260-02-01" id="5"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 券売機 けんばいき 券売機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニツイテ" target="機械" sid="wiki00022260-02-01" id="5"/><rel type="ト" target="券売機" sid="wiki00022260-02-01" id="7"/><rel type="ヲ" target="機" sid="wiki00022260-00-01" id="2"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ニツイテ" target="機械" sid="wiki00022260-02-01" id="5"/><rel type="ト" target="券売機" sid="wiki00022260-02-01" id="7"/><rel type="ヲ" target="機" sid="wiki00022260-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00022260-02-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/12 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="自動" sid="wiki00022260-00-01" id="14"/><memo text="02-01（自動）券売機　「券売機」との関係については付けられず"/>
++ -1D <rel type="=" target="自動" sid="wiki00022260-00-01" id="14"/><memo text="02-01（自動）券売機　「券売機」との関係については付けられず"/><体言>
 自動 じどう 自動 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

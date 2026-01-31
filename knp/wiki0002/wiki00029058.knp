@@ -17,7 +17,7 @@
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="時間" target="1863年" sid="wiki00029058-00-01" id="4"/><rel type="ガ" target="政党" sid="wiki00029058-00-01" id="9"/>
++ 9D <rel type="ニ" target="不特定:人"/><rel type="時間" target="1863年" sid="wiki00029058-00-01" id="4"/><rel type="ガ" target="政党" sid="wiki00029058-00-01" id="9"/><用言:動><時制:過去><節-主辞>
 結成 けっせい 結成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -28,9 +28,9 @@
 * -1D
 + 8D <体言>
 中道 ちゅうどう 中道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="中道" sid="wiki00029058-00-01" id="7"/>
++ 9D <rel type="修飾" target="中道" sid="wiki00029058-00-01" id="7"/><体言>
 左派 さは 左派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="左派" sid="wiki00029058-00-01" id="8"/><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="=構" target="党" sid="wiki00029058-00-01" id="3"/><memo text="CO"/><rel type="ノ？" target="ドイツ" sid="wiki00029058-00-01" id="6"/>
++ -1D <rel type="修飾" target="左派" sid="wiki00029058-00-01" id="8"/><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="=構" target="党" sid="wiki00029058-00-01" id="3"/><rel type="ノ？" target="ドイツ" sid="wiki00029058-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -38,19 +38,19 @@ EOS
 * 2P
 + 3D <rel type="=" target="ドイツ" sid="wiki00029058-00-01" id="0"/><体言>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="=" target="社会" sid="wiki00029058-00-01" id="1"/>
++ 2D <rel type="=" target="社会" sid="wiki00029058-00-01" id="1"/><体言>
 しゃかい しゃかい しゃかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><rel type="=" target="民主" sid="wiki00029058-00-01" id="2"/>
++ 3D <rel type="=" target="民主" sid="wiki00029058-00-01" id="2"/><体言>
 みんしゅ みんしゅ みんしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8P <体言><rel type="=" target="党" sid="wiki00029058-00-01" id="3"/><NE:ORGANIZATION:ドイツしゃかいみんしゅとう>
++ 8P <rel type="=" target="党" sid="wiki00029058-00-01" id="3"/><体言><NE:ORGANIZATION:ドイツしゃかいみんしゅとう>
 とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="ノ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="ト" target="SPD" sid="wiki00029058-00-02" id="5"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="ノ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="ト" target="SPD" sid="wiki00029058-00-02" id="5"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 8D <体言><rel type="=" target="党" sid="wiki00029058-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00029058-00-02" id="4"/><NE:ORGANIZATION:SPD>
++ 8D <rel type="=" target="党" sid="wiki00029058-00-01" id="3"/><rel type="=構" mode="AND" target="略称" sid="wiki00029058-00-02" id="4"/><体言><NE:ORGANIZATION:SPD>
 SPD えすぺーでー SPD 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 * -1D
 + 7D <体言>
@@ -60,7 +60,7 @@ SPD えすぺーでー SPD 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><N
 + 8D <体言>
 ペー ぺー ペー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:エス・ペー・デー><rel type="=" target="SPD" sid="wiki00029058-00-02" id="5"/><体言>
++ -1D <rel type="=" target="SPD" sid="wiki00029058-00-02" id="5"/><NE:ORGANIZATION:エス・ペー・デー><体言>
 デー でー デー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
@@ -81,22 +81,22 @@ EOS
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 + 6D <rel type="修飾" target="二" sid="wiki00029058-01" id="4"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="ドイツ" sid="wiki00029058-00-01" id="6"/><rel type="修飾" target="大" sid="wiki00029058-01" id="5"/><rel type="=≒" target="同盟" sid="wiki00029058-01" id="3"/><rel type="=≒" mode="AND" target="党" sid="wiki00029058-00-01" id="3"/><memo text="SE"/>
++ 7D <rel type="ノ？" target="ドイツ" sid="wiki00029058-00-01" id="6"/><rel type="修飾" target="大" sid="wiki00029058-01" id="5"/><rel type="=≒" target="同盟" sid="wiki00029058-01" id="3"/><rel type="=≒" mode="AND" target="党" sid="wiki00029058-00-01" id="3"/><memo text="SE"/><体言>
 政党 せいとう 政党 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="政党" sid="wiki00029058-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><memo text="CO"/><rel type="=構" target="党" sid="wiki00029058-00-01" id="3"/>
++ -1D <rel type="ノ" target="政党" sid="wiki00029058-01" id="6"/><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><rel type="=構" target="党" sid="wiki00029058-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00029058-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/15 MEMO:
 * -1D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 1D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 進歩 しんぽ 進歩 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><非用言格解析:動><NE:ORGANIZATION:進歩同盟><rel type="ガ" target="不特定:人"/>
++ 2D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><NE:ORGANIZATION:進歩同盟>
 同盟 どうめい 同盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ -1D <rel type="ニ" target="同盟" sid="wiki00029058-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><memo text="CO　またはPO:する"/>
++ -1D <rel type="ニ" target="同盟" sid="wiki00029058-02" id="1"/><rel type="ガ" target="党" sid="wiki00029058-00-01" id="3"/><memo text="CO　またはPO:する"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

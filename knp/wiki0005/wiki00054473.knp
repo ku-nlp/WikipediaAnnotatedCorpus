@@ -17,7 +17,7 @@
 南方 なんぽう 南方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <体言><NE:LOCATION:地中海><rel type="修飾" target="南方" sid="wiki00054473-00-01" id="5"/>
++ 7D <rel type="修飾" target="南方" sid="wiki00054473-00-01" id="5"/><体言><NE:LOCATION:地中海>
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -28,10 +28,10 @@
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 10D <rel type="=" target="国" sid="wiki00054473-00-01" id="4"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="11"/><用言:形><時制:非過去><rel type="デ" target="国" sid="wiki00054473-00-01" id="9"/>
++ 11D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="11"/><rel type="デ" target="国" sid="wiki00054473-00-01" id="9"/><用言:形><時制:非過去>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><rel type="=" target="島" sid="wiki00054473-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/>
++ -1D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><rel type="=" target="島" sid="wiki00054473-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -42,7 +42,7 @@ EOS
 + 2D <rel type="=" target="島" sid="wiki00054473-00-01" id="1"/><NE:LOCATION:クレタとう><体言>
 とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
-+ -1D <体言><memo text="脱落しているが不適とせず"/>
++ -1D <memo text="脱落しているが不適とせず"/><体言>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 / / / 特殊 1 記号 5 * 0 * 0 NIL
 ; ; ; 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
@@ -52,16 +52,16 @@ EOS
 + 2D <体言><NE:DATE:古代>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 * 2D
-+ 2D <体言><memo text="伝説上のミノス王にちなむ"/>
++ 2D <memo text="伝説上のミノス王にちなむ"/><体言>
 ミノア みのあ ミノア 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ？" target="ミノア" sid="wiki00054473-01" id="1"/>
++ 3D <rel type="ノ？" target="ミノア" sid="wiki00054473-01" id="1"/><体言>
 文明 ぶんめい 文明 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="文明" sid="wiki00054473-01" id="2"/><用言:動><時制:過去><節-主辞><rel type="デ" target="土地" sid="wiki00054473-01" id="4"/><rel type="時間" target="古代" sid="wiki00054473-01" id="0"/>
++ 4D <rel type="ガ" target="文明" sid="wiki00054473-01" id="2"/><rel type="デ" target="土地" sid="wiki00054473-01" id="4"/><rel type="時間" target="古代" sid="wiki00054473-01" id="0"/><用言:動><時制:過去><節-主辞>
 栄えた さかえた 栄える 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 9P
-+ 11P <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="島" sid="wiki00054473-00-01" id="1"/><rel type="トイウ" target="栄えた" sid="wiki00054473-01" id="3"/>
++ 11P <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><rel type="=構" target="島" sid="wiki00054473-00-01" id="1"/><rel type="トイウ" target="栄えた" sid="wiki00054473-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 土地 とち 土地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -72,18 +72,18 @@ EOS
 宮殿 きゅうでん 宮殿 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="ノ" target="遺跡" sid="wiki00054473-01" id="10"/>
++ 8D <rel type="ノ" target="遺跡" sid="wiki00054473-01" id="10"/><体言>
 はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="遺跡" sid="wiki00054473-01" id="10"/><rel type="ヲ" target="宮殿" sid="wiki00054473-01" id="6"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="はじめ" sid="wiki00054473-01" id="7"/>
++ 10D <rel type="ガ" target="遺跡" sid="wiki00054473-01" id="10"/><rel type="ヲ" target="宮殿" sid="wiki00054473-01" id="6"/><rel type="ト" target="はじめ" sid="wiki00054473-01" id="7"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 8D
 + 10D <体言>
 多く おおく 多く 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <体言><rel type="=≒" target="宮殿" sid="wiki00054473-01" id="6"/><rel type="修飾" target="多く" sid="wiki00054473-01" id="9"/>
++ 11D <rel type="=≒" target="宮殿" sid="wiki00054473-01" id="6"/><rel type="修飾" target="多く" sid="wiki00054473-01" id="9"/><体言>
 遺跡 いせき 遺跡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -100,13 +100,13 @@ EOS
 + 2D <rel type="ガ" target="気候" sid="wiki00054473-02" id="2"/><用言:形><時制:非過去>
 温暖な おんだんな 温暖だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 3P
-+ 4P <体言><rel type="ノ？" target="島" sid="wiki00054473-00-01" id="1"/><rel type="修飾" target="温暖な" sid="wiki00054473-02" id="1"/>
++ 4P <rel type="ノ？" target="島" sid="wiki00054473-00-01" id="1"/><rel type="修飾" target="温暖な" sid="wiki00054473-02" id="1"/><体言>
 気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 4D <体言>
 自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="自然" sid="wiki00054473-02" id="3"/><rel type="ノ？" mode="AND" target="島" sid="wiki00054473-00-01" id="1"/>
++ 8D <rel type="ノ？" target="自然" sid="wiki00054473-02" id="3"/><rel type="ノ？" mode="AND" target="島" sid="wiki00054473-00-01" id="1"/><体言>
 景観 けいかん 景観 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -114,13 +114,13 @@ EOS
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <用言:形><時制:非過去><rel type="ガ" target="地" sid="wiki00054473-02" id="8"/><rel type="ヲ" target="地中海" sid="wiki00054473-02" id="5"/>
++ 8D <rel type="ガ" target="地" sid="wiki00054473-02" id="8"/><rel type="ヲ" target="地中海" sid="wiki00054473-02" id="5"/><用言:形><時制:非過去>
 代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * -1D
-+ 8D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="地" sid="wiki00054473-02" id="8"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地" sid="wiki00054473-02" id="8"/><体言><非用言格解析:動>
 観光 かんこう 観光 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="島" sid="wiki00054473-00-01" id="11"/><rel type="ノ？" target="地中海" sid="wiki00054473-02" id="5"/><rel type="カラ" target="気候" sid="wiki00054473-02" id="2"/><rel type="カラ" mode="AND" target="景観" sid="wiki00054473-02" id="4"/>
++ -1D <rel type="ガ" target="島" sid="wiki00054473-00-01" id="1"/><rel type="=構" target="島" sid="wiki00054473-00-01" id="11"/><rel type="ノ？" target="地中海" sid="wiki00054473-02" id="5"/><rel type="カラ" target="気候" sid="wiki00054473-02" id="2"/><rel type="カラ" mode="AND" target="景観" sid="wiki00054473-02" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

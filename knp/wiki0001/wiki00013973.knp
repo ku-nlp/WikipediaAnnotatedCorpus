@@ -2,9 +2,9 @@
 * 7D
 + 2D <体言><NE:LOCATION:アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="アメリカ" sid="wiki00013973-00-01" id="0"/><rel type="カラ" target="イギリス" sid="wiki00013973-00-01" id="9"/>
++ 2D <rel type="ガ" target="アメリカ" sid="wiki00013973-00-01" id="0"/><rel type="カラ" target="イギリス" sid="wiki00013973-00-01" id="9"/><体言><非用言格解析:動>
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="デ" target="アメリカ" sid="wiki00013973-00-01" id="0"/><rel type="修飾" target="独立" sid="wiki00013973-00-01" id="1"/>
++ 20D <rel type="ガ" target="不特定:人"/><rel type="デ" target="アメリカ" sid="wiki00013973-00-01" id="0"/><rel type="修飾" target="独立" sid="wiki00013973-00-01" id="1"/><体言><非用言格解析:動>
 戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -51,15 +51,15 @@
 * 6D
 + 16D <rel type="=" target="イギリス" sid="wiki00013973-00-01" id="9"/><体言><NE:LOCATION:イギリス>
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 19D <rel type="ノ" target="イギリス" sid="wiki00013973-00-01" id="15"/><体言><rel type="ノ？" target="沿岸" sid="wiki00013973-00-01" id="14"/>
++ 19D <rel type="ノ" target="イギリス" sid="wiki00013973-00-01" id="15"/><rel type="ノ？" target="沿岸" sid="wiki00013973-00-01" id="14"/><体言>
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 19D <体言>
 13 じゅうさん 13 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 19D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 植民 しょくみん 植民 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><rel type="ノ？" target="植民" sid="wiki00013973-00-01" id="18"/><rel type="修飾" target="13" sid="wiki00013973-00-01" id="17"/><rel type="修飾" mode="AND" target="領" sid="wiki00013973-00-01" id="16"/><rel type="=構" target="領" sid="wiki00013973-00-01" id="16"/>
++ 20D <rel type="ノ？" target="植民" sid="wiki00013973-00-01" id="18"/><rel type="修飾" target="13" sid="wiki00013973-00-01" id="17"/><rel type="修飾" mode="AND" target="領" sid="wiki00013973-00-01" id="16"/><rel type="=構" target="領" sid="wiki00013973-00-01" id="16"/><体言>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -72,7 +72,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="アメリカ" sid="wiki00013973-00-01" id="0"/><体言><NE:LOCATION:アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 2D <体言><非用言格解析:動><rel type="=" target="独立" sid="wiki00013973-00-01" id="1"/>
++ 2D <rel type="=" target="独立" sid="wiki00013973-00-01" id="1"/><体言><非用言格解析:動>
 どくりつ どくりつ どくりつ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + -1D <rel type="=" target="戦争" sid="wiki00013973-00-01" id="2"/><体言><非用言格解析:動>
 せんそう せんそう せんそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -83,6 +83,6 @@ EOS
 グレート ぐれーと グレート 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <体言>
 ブリテン ぶりてん ブリテン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <体言><NE:LOCATION:グレートブリテン王国><rel type="=" target="本国" sid="wiki00013973-00-01" id="10"/>
++ -1D <rel type="=" target="本国" sid="wiki00013973-00-01" id="10"/><体言><NE:LOCATION:グレートブリテン王国>
 王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS

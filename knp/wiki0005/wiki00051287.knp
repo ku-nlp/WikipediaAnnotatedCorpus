@@ -2,7 +2,7 @@
 * 3D
 + 1D <体言>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 4D <体言><NE:ORGANIZATION:アメリカ海軍><rel type="ノ？" target="アメリカ" sid="wiki00051287-00-01" id="0"/>
++ 4D <rel type="ノ？" target="アメリカ" sid="wiki00051287-00-01" id="0"/><体言><NE:ORGANIZATION:アメリカ海軍>
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -15,7 +15,7 @@
 保有 ほゆう 保有 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="海軍" sid="wiki00051287-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="海軍" sid="wiki00051287-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="海軍" sid="wiki00051287-00-01" id="1"/><rel type="=構" target="海軍" sid="wiki00051287-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -23,7 +23,7 @@ EOS
 * 2P
 + 1D <rel type="=" target="アメリカ" sid="wiki00051287-00-01" id="0"/><体言>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 6P <体言><NE:ORGANIZATION:アメリカかいぐん><rel type="=" target="海軍" sid="wiki00051287-00-01" id="1"/>
++ 6P <rel type="=" target="海軍" sid="wiki00051287-00-01" id="1"/><体言><NE:ORGANIZATION:アメリカかいぐん>
 かいぐん かいぐん かいぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -33,13 +33,13 @@ United United United 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:O
 + 4D <体言>
 States States States 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <体言><rel type="=" target="海軍" sid="wiki00051287-00-01" id="1"/><NE:ORGANIZATION:United　States　Navy>
++ 6P <rel type="=" target="海軍" sid="wiki00051287-00-01" id="1"/><体言><NE:ORGANIZATION:United　States　Navy>
 Navy Navy Navy 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="Navy" sid="wiki00051287-00-02" id="4"/><rel type="ト" target="USN" sid="wiki00051287-00-02" id="6"/><rel type="ノ" target="Navy" sid="wiki00051287-00-02" id="4"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="Navy" sid="wiki00051287-00-02" id="4"/><rel type="ト" target="USN" sid="wiki00051287-00-02" id="6"/><rel type="ノ" target="Navy" sid="wiki00051287-00-02" id="4"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <NE:ORGANIZATION:USN><rel type="ガ" target="略称" sid="wiki00051287-00-02" id="5"/><体言><rel type="=構" target="略称" sid="wiki00051287-00-02" id="5"/><rel type="=" mode="AND" target="Navy" sid="wiki00051287-00-02" id="4"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00051287-00-02" id="5"/><rel type="=構" target="略称" sid="wiki00051287-00-02" id="5"/><rel type="=" mode="AND" target="Navy" sid="wiki00051287-00-02" id="4"/><NE:ORGANIZATION:USN><体言>
 USN USN USN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS

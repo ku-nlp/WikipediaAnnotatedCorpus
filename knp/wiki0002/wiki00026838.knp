@@ -14,7 +14,7 @@
 分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人種" sid="wiki00026838-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="人種" sid="wiki00026838-00-01" id="0"/><rel type="ノ" target="分類" sid="wiki00026838-00-01" id="2"/><memo text="co"/>
++ -1D <rel type="ガ" target="人種" sid="wiki00026838-00-01" id="0"/><rel type="=構" target="人種" sid="wiki00026838-00-01" id="0"/><rel type="ノ" target="分類" sid="wiki00026838-00-01" id="2"/><memo text="co"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -24,10 +24,10 @@ EOS
 じんしゅ じんしゅ じんしゅ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="人種" sid="wiki00026838-00-01" id="0"/>
++ 2D <rel type="ノ" target="人種" sid="wiki00026838-00-01" id="0"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="デ" target="英語" sid="wiki00026838-00-02" id="1"/><体言><rel type="=" target="人種" sid="wiki00026838-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00026838-00-02" id="1"/>
++ -1D <rel type="デ" target="英語" sid="wiki00026838-00-02" id="1"/><rel type="=" target="人種" sid="wiki00026838-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00026838-00-02" id="1"/><体言>
 Race Race Race 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00026838-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/09 MEMO:
@@ -36,7 +36,7 @@ EOS
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><非用言格解析:動><rel type="トイウ" target="後文"/><rel type="ガ" target="人種" sid="wiki00026838-00-01" id="0"/>
++ 2D <rel type="トイウ" target="後文"/><rel type="ガ" target="人種" sid="wiki00026838-00-01" id="0"/><体言><非用言格解析:動>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

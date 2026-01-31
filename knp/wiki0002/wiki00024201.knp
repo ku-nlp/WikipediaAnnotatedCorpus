@@ -10,7 +10,7 @@
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="人" sid="wiki00024201-00-01" id="1"/><rel type="ヲ" target="不特定:物"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="ため" sid="wiki00024201-00-01" id="3"/>
++ 3D <rel type="ガ" target="人" sid="wiki00024201-00-01" id="1"/><rel type="ヲ" target="不特定:物"/><rel type="外の関係" target="ため" sid="wiki00024201-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
 食べる たべる 食べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 5D
 + 5D <rel type="ノ" target="食べる" sid="wiki00024201-00-01" id="2"/><体言><節-区切>
@@ -25,17 +25,17 @@
 できる できる できる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 7D <体言><rel type="=≒" target="食べる" sid="wiki00024201-00-01" id="2"/>
++ 7D <rel type="=≒" target="食べる" sid="wiki00024201-00-01" id="2"/><体言>
 食用 しょくよう 食用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 8D <用言:形><時制:非過去><rel type="トシテ" target="食用" sid="wiki00024201-00-01" id="6"/><rel type="=" target="使用できる" sid="wiki00024201-00-01" id="5"/><rel type="ガ" target="状態" sid="wiki00024201-00-01" id="8"/>
++ 8D <rel type="トシテ" target="食用" sid="wiki00024201-00-01" id="6"/><rel type="=" target="使用できる" sid="wiki00024201-00-01" id="5"/><rel type="ガ" target="状態" sid="wiki00024201-00-01" id="8"/><用言:形><時制:非過去>
 可能な かのうな 可能だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 9D
-+ 9D <体言><rel type="ノ" target="もの" sid="wiki00024201-00-01" id="9"/><rel type="トイウ" target="可能な" sid="wiki00024201-00-01" id="7"/>
++ 9D <rel type="ノ" target="もの" sid="wiki00024201-00-01" id="9"/><rel type="トイウ" target="可能な" sid="wiki00024201-00-01" id="7"/><体言>
 状態 じょうたい 状態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="食品" sid="wiki00024201-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="食品" sid="wiki00024201-00-01" id="0"/><rel type="修飾" target="状態" sid="wiki00024201-00-01" id="8"/><rel type="修飾" mode="AND" target="使用できる" sid="wiki00024201-00-01" id="5"/>
++ -1D <rel type="ガ" target="食品" sid="wiki00024201-00-01" id="0"/><rel type="=構" target="食品" sid="wiki00024201-00-01" id="0"/><rel type="修飾" target="状態" sid="wiki00024201-00-01" id="8"/><rel type="修飾" mode="AND" target="使用できる" sid="wiki00024201-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

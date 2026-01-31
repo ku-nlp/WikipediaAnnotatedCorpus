@@ -15,11 +15,11 @@
 * -1D
 + 7D <体言>
 大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:形><rel type="ガ" target="ストア" sid="wiki00037348-00" id="6"/>
++ 6D <rel type="ガ" target="ストア" sid="wiki00037348-00" id="6"/><体言><非用言格解析:形>
 コンビニエンス こんびにえんす コンビニエンスだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="コンビニエンス" sid="wiki00037348-00" id="5"/>
++ 7D <rel type="修飾" target="コンビニエンス" sid="wiki00037348-00" id="5"/><体言>
 ストア すとあ ストア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ローソン" sid="wiki00037348-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="修飾" target="大手" sid="wiki00037348-00" id="4"/><rel type="ノ？" target="ストア" sid="wiki00037348-00" id="6"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00037348-00" id="3"/>
++ -1D <rel type="ガ" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="修飾" target="大手" sid="wiki00037348-00" id="4"/><rel type="ノ？" target="ストア" sid="wiki00037348-00" id="6"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00037348-00" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 フランチャイザー ふらんちゃいざー フランチャイザー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -32,7 +32,7 @@ EOS
 商事 しょうじ 商事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ノ" target="商事" sid="wiki00037348-01-01" id="1"/><体言><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/>
++ 3D <rel type="ノ" target="商事" sid="wiki00037348-01-01" id="1"/><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/><体言>
 子会社 こがいしゃ 子会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -41,11 +41,11 @@ EOS
 * 4D
 + 5D <rel type="=" target="三菱" sid="wiki00037348-01-01" id="0"/><体言>
 三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 6D <rel type="ノ" target="三菱" sid="wiki00037348-01-01" id="4"/><体言><NE:ORGANIZATION:三菱グループ><rel type="=≒" target="ローソン" sid="wiki00037348-00" id="2"/>
++ 6D <rel type="ノ" target="三菱" sid="wiki00037348-01-01" id="4"/><rel type="=≒" target="ローソン" sid="wiki00037348-00" id="2"/><体言><NE:ORGANIZATION:三菱グループ>
 グループ ぐるーぷ グループ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="ニ" target="グループ" sid="wiki00037348-01-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="トシテ" target="子会社" sid="wiki00037348-01-01" id="2"/>
++ -1D <rel type="ガ" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="ニ" target="グループ" sid="wiki00037348-01-01" id="5"/><rel type="トシテ" target="子会社" sid="wiki00037348-01-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 属して ぞくして 属す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -54,9 +54,9 @@ EOS
 * 1D
 + 3D <rel type="=" target="三菱" sid="wiki00037348-01-01" id="4"/><体言>
 三菱 みつびし 三菱 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="委員" sid="wiki00037348-01-02" id="2"/><rel type="ヲ" target="三菱" sid="wiki00037348-01-02" id="0"/>
++ 2D <rel type="ガ" target="委員" sid="wiki00037348-01-02" id="2"/><rel type="ヲ" target="三菱" sid="wiki00037348-01-02" id="0"/><体言><非用言格解析:動>
 広報 こうほう 広報 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><rel type="ノ？" target="広報" sid="wiki00037348-01-02" id="1"/>
++ 3D <rel type="ノ？" target="広報" sid="wiki00037348-01-02" id="1"/><体言>
 委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5D <rel type="ノ" target="委員" sid="wiki00037348-01-02" id="2"/><体言><NE:ORGANIZATION:三菱広報委員会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -64,7 +64,7 @@ EOS
 * 2D
 + 5D <rel type="ノ" target="会" sid="wiki00037348-01-02" id="3"/><体言>
 会員 かいいん 会員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="会員" sid="wiki00037348-01-02" id="4"/><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="ノ" target="会" sid="wiki00037348-01-02" id="3"/>
++ 6D <rel type="修飾" target="会員" sid="wiki00037348-01-02" id="4"/><rel type="=構" target="ローソン" sid="wiki00037348-00" id="2"/><rel type="ノ" target="会" sid="wiki00037348-01-02" id="3"/><体言>
 企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

@@ -1,6 +1,6 @@
 # S-ID:wiki00053988-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/11/12 MEMO:
 * 4D
-+ 4D <体言><NE:LOCATION:高知市><rel type="ノ？" target="高知県" sid="wiki00053988-00-01" id="1"/>
++ 4D <rel type="ノ？" target="高知県" sid="wiki00053988-00-01" id="1"/><体言><NE:LOCATION:高知市>
 高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -19,7 +19,7 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="高知市" sid="wiki00053988-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><rel type="=構" target="高知市" sid="wiki00053988-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -38,20 +38,20 @@ EOS
 * 3P
 + 2D <rel type="ノ" target="高知県" sid="wiki00053988-01" id="0"/><体言>
 県庁 けんちょう 県庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ" target="県庁" sid="wiki00053988-01" id="1"/>
++ 3D <rel type="ノ" target="県庁" sid="wiki00053988-01" id="1"/><体言>
 所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><rel type="ノ？" target="所在" sid="wiki00053988-01" id="2"/><rel type="ノ？" mode="AND" target="高知県" sid="wiki00053988-01" id="0"/><体言><用言:判><節-主辞><節-区切><時制:非過去><rel type="=" target="高知市" sid="wiki00053988-00-01" id="0"/>
++ 6P <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><rel type="ノ？" target="所在" sid="wiki00053988-01" id="2"/><rel type="ノ？" mode="AND" target="高知県" sid="wiki00053988-01" id="0"/><rel type="=" target="高知市" sid="wiki00053988-00-01" id="0"/><体言><用言:判><節-主辞><節-区切><時制:非過去>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 5D <体言>
 中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="高知県" sid="wiki00053988-01" id="0"/><rel type="修飾" target="中核" sid="wiki00053988-01" id="4"/>
++ 6D <rel type="ノ？" target="高知県" sid="wiki00053988-01" id="0"/><rel type="修飾" target="中核" sid="wiki00053988-01" id="4"/><体言>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="市" sid="wiki00053988-01" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ -1D <rel type="ガ" target="高知市" sid="wiki00053988-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00053988-01" id="5"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL

@@ -12,22 +12,22 @@
 + 4D <rel type="ノ" target="動物" sid="wiki00027461-00-01" id="1"/><体言>
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 4P <体言><rel type="=≒" target="動物" sid="wiki00027461-00-01" id="1"/><rel type="修飾" target="うち" sid="wiki00027461-00-01" id="2"/>
++ 4P <rel type="=≒" target="動物" sid="wiki00027461-00-01" id="1"/><rel type="修飾" target="うち" sid="wiki00027461-00-01" id="2"/><体言>
 家畜 かちく 家畜 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D <体言><rel type="=≒" target="動物" sid="wiki00027461-00-01" id="1"/><rel type="修飾" target="うち" sid="wiki00027461-00-01" id="2"/>
++ 7D <rel type="=≒" target="動物" sid="wiki00027461-00-01" id="1"/><rel type="修飾" target="うち" sid="wiki00027461-00-01" id="2"/><体言>
 家禽 かきん 家禽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 6P <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="家畜" sid="wiki00027461-00-01" id="3"/><rel type="ヲ" mode="AND" target="家禽" sid="wiki00027461-00-01" id="4"/>
++ 6P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="家畜" sid="wiki00027461-00-01" id="3"/><rel type="ヲ" mode="AND" target="家禽" sid="wiki00027461-00-01" id="4"/><体言><非用言格解析:動>
 繁殖 はんしょく 繁殖 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 7P <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="家畜" sid="wiki00027461-00-01" id="3"/><rel type="ヲ" mode="AND" target="家禽" sid="wiki00027461-00-01" id="4"/>
++ 7P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="家畜" sid="wiki00027461-00-01" id="3"/><rel type="ヲ" mode="AND" target="家禽" sid="wiki00027461-00-01" id="4"/><体言><非用言格解析:動>
 飼育 しいく 飼育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 14D <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="家禽" sid="wiki00027461-00-01" id="4"/><rel type="ヲ" mode="AND" target="家畜" sid="wiki00027461-00-01" id="3"/>
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="家禽" sid="wiki00027461-00-01" id="4"/><rel type="ヲ" mode="AND" target="家畜" sid="wiki00027461-00-01" id="3"/><用言:動><節-主辞><節-区切>
 肥育 ひいく 肥育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -50,7 +50,7 @@
 * 12D
 + 13D <rel type="=" target="畜産" sid="wiki00027461-00-01" id="0"/><体言>
 畜産 ちくさん 畜産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="ノ？" target="畜産" sid="wiki00027461-00-01" id="12"/><rel type="=≒" target="乳製品" sid="wiki00027461-00-01" id="8"/><rel type="=≒" mode="AND" target="肉" sid="wiki00027461-00-01" id="9"/><rel type="=≒" mode="AND" target="卵" sid="wiki00027461-00-01" id="10"/><rel type="=≒" mode="AND" target="皮革" sid="wiki00027461-00-01" id="11"/>
++ 14D <rel type="ノ？" target="畜産" sid="wiki00027461-00-01" id="12"/><rel type="=≒" target="乳製品" sid="wiki00027461-00-01" id="8"/><rel type="=≒" mode="AND" target="肉" sid="wiki00027461-00-01" id="9"/><rel type="=≒" mode="AND" target="卵" sid="wiki00027461-00-01" id="10"/><rel type="=≒" mode="AND" target="皮革" sid="wiki00027461-00-01" id="11"/><体言>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
@@ -61,17 +61,17 @@
 生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 17D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00027461-00-01" id="13"/><rel type="ニ" target="生活" sid="wiki00027461-00-01" id="15"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="産業" sid="wiki00027461-00-01" id="17"/>
++ 17D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00027461-00-01" id="13"/><rel type="ニ" target="生活" sid="wiki00027461-00-01" id="15"/><rel type="外の関係" target="産業" sid="wiki00027461-00-01" id="17"/><用言:動><時制:非過去><節-主辞>
 役立てる やくだてる 役立てる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="畜産" sid="wiki00027461-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="畜産" sid="wiki00027461-00-01" id="0"/><rel type="トイウ" target="役立てる" sid="wiki00027461-00-01" id="16"/>
++ -1D <rel type="ガ" target="畜産" sid="wiki00027461-00-01" id="0"/><rel type="=構" target="畜産" sid="wiki00027461-00-01" id="0"/><rel type="トイウ" target="役立てる" sid="wiki00027461-00-01" id="16"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 産業 さんぎょう 産業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027461-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/01/06 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="畜産" sid="wiki00027461-00-01" id="0"/>
++ -1D <rel type="=" target="畜産" sid="wiki00027461-00-01" id="0"/><体言>
 ちくさん ちくさん ちくさん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00027461-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/06/12 MEMO:
@@ -84,44 +84,44 @@ EOS
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="生物" sid="wiki00027461-01" id="3"/>
++ 3D <rel type="ガ" target="生物" sid="wiki00027461-01" id="3"/><体言><非用言格解析:動>
 水棲 すいせい 水棲 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ガ" target="動物" sid="wiki00027461-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><rel type="修飾" target="水棲" sid="wiki00027461-01" id="2"/><rel type="=構" target="動物" sid="wiki00027461-01" id="1"/>
++ 4D <rel type="ガ" target="動物" sid="wiki00027461-01" id="1"/><rel type="修飾" target="水棲" sid="wiki00027461-01" id="2"/><rel type="=構" target="動物" sid="wiki00027461-01" id="1"/><用言:判><体言><時制:非過去><節-主辞>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 7D
-+ 8D <体言><節-区切><rel type="ノ" target="生物" sid="wiki00027461-01" id="3"/>
++ 8D <rel type="ノ" target="生物" sid="wiki00027461-01" id="3"/><体言><節-区切>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="生物" sid="wiki00027461-01" id="3"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="生物" sid="wiki00027461-01" id="3"/><体言><非用言格解析:動>
 養殖 ようしょく 養殖 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="養殖" sid="wiki00027461-01" id="5"/><rel type="外の関係" target="こと" sid="wiki00027461-01" id="7"/><rel type="ニ" target="場合" sid="wiki00027461-01" id="4"/><rel type="ニ" mode="？" target="なし"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ト" target="養殖" sid="wiki00027461-01" id="5"/><rel type="外の関係" target="こと" sid="wiki00027461-01" id="7"/><rel type="ニ" target="場合" sid="wiki00027461-01" id="4"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 8D <体言><rel type="トイウ" target="呼ぶ" sid="wiki00027461-01" id="6"/>
++ 8D <rel type="トイウ" target="呼ぶ" sid="wiki00027461-01" id="6"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="こと" sid="wiki00027461-01" id="7"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="時間" target="場合" sid="wiki00027461-01" id="4"/>
++ -1D <rel type="ガ" target="こと" sid="wiki00027461-01" id="7"/><rel type="時間" target="場合" sid="wiki00027461-01" id="4"/><用言:形><時制:非過去><節-主辞><節-区切>
 一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的である てきである 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 デアル列基本形 17 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027461-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/06/12 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="畜産" sid="wiki00027461-00-01" id="0"/>
++ 1D <rel type="=" target="畜産" sid="wiki00027461-00-01" id="0"/><体言>
 畜産 ちくさん 畜産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 2D <rel type="ガ" target="農家" sid="wiki00027461-02" id="2"/><rel type="ヲ" target="畜産" sid="wiki00027461-02" id="0"/><用言:動><時制:非過去><節-主辞>
 営む いとなむ 営む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 8D <体言><rel type="修飾" target="営む" sid="wiki00027461-02" id="1"/>
++ 8D <rel type="修飾" target="営む" sid="wiki00027461-02" id="1"/><体言>
 農家 のうか 農家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -129,19 +129,19 @@ EOS
 + 8D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5P
-+ 5D <体言><rel type="=" target="畜産" sid="wiki00027461-02" id="0"/>
++ 5D <rel type="=" target="畜産" sid="wiki00027461-02" id="0"/><体言>
 畜産 ちくさん 畜産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="=構" target="農家" sid="wiki00027461-02" id="2"/><rel type="修飾" target="畜産" sid="wiki00027461-02" id="4"/>
++ 7P <rel type="=構" target="農家" sid="wiki00027461-02" id="2"/><rel type="修飾" target="畜産" sid="wiki00027461-02" id="4"/><体言>
 農家 のうか 農家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
 + 7D <rel type="=" target="畜産" sid="wiki00027461-02" id="4"/><体言>
 畜産 ちくさん 畜産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="農家" sid="wiki00027461-02" id="2"/><rel type="ノ？" target="畜産" sid="wiki00027461-02" id="6"/>
++ 8D <rel type="=構" target="農家" sid="wiki00027461-02" id="2"/><rel type="ノ？" target="畜産" sid="wiki00027461-02" id="6"/><体言>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="農家" sid="wiki00027461-02" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="家" sid="wiki00027461-02" id="7"/><rel type="ト" mode="AND" target="農家" sid="wiki00027461-02" id="5"/>
++ -1D <rel type="ガ" target="農家" sid="wiki00027461-02" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="家" sid="wiki00027461-02" id="7"/><rel type="ト" mode="AND" target="農家" sid="wiki00027461-02" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

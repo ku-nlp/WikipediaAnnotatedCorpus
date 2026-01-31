@@ -20,11 +20,11 @@
 + 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機器" sid="wiki00050060-00-01" id="7"/><rel type="ニ" target="ロープ" sid="wiki00050060-00-01" id="3"/><用言:動><節-主辞><時制:非過去>
 吊り下げた つりさげた 吊り下げる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 8D
-+ 6D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="外の関係" target="用" sid="wiki00050060-00-01" id="6"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:人"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="用" sid="wiki00050060-00-01" id="6"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
 輸送 ゆそう 輸送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="ノ" target="輸送" sid="wiki00050060-00-01" id="5"/>
 用 よう 用 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="用" sid="wiki00050060-00-01" id="6"/>
++ 10D <rel type="修飾" target="用" sid="wiki00050060-00-01" id="6"/><体言>
 機器 きき 機器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
@@ -44,12 +44,12 @@
 輸送 ゆそう 輸送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ヲ" target="輸送" sid="wiki00050060-00-01" id="11"/><用言:動><時制:非過去><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="機関" sid="wiki00050060-00-01" id="14"/><rel type="デ" target="機器" sid="wiki00050060-00-01" id="7"/>
++ 14D <rel type="ヲ" target="輸送" sid="wiki00050060-00-01" id="11"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="機関" sid="wiki00050060-00-01" id="14"/><rel type="デ" target="機器" sid="wiki00050060-00-01" id="7"/><用言:動><時制:非過去>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
 + 14D <体言>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="索道" sid="wiki00050060-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="索道" sid="wiki00050060-00-01" id="0"/><rel type="トイウ" target="乗せ" sid="wiki00050060-00-01" id="10"/><rel type="トイウ" mode="AND" target="行う" sid="wiki00050060-00-01" id="12"/><rel type="ノ？" target="交通" sid="wiki00050060-00-01" id="13"/>
++ -1D <rel type="ガ" target="索道" sid="wiki00050060-00-01" id="0"/><rel type="=構" target="索道" sid="wiki00050060-00-01" id="0"/><rel type="トイウ" target="乗せ" sid="wiki00050060-00-01" id="10"/><rel type="トイウ" mode="AND" target="行う" sid="wiki00050060-00-01" id="12"/><rel type="ノ？" target="交通" sid="wiki00050060-00-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -73,21 +73,21 @@ EOS
 * 3D
 + 4D <体言>
 スキー すきー スキー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="スキー" sid="wiki00050060-01-01" id="3"/>
++ 5D <rel type="ノ？" target="スキー" sid="wiki00050060-01-01" id="3"/><体言>
 場 じょう 場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="修飾" target="場など" sid="wiki00050060-01-01" id="4"/>
++ 7D <rel type="修飾" target="場など" sid="wiki00050060-01-01" id="4"/><体言>
 リフト りふと リフト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="=" target="索道" sid="wiki00050060-00-01" id="0"/><rel type="=≒" mode="AND" target="ロープウェイ" sid="wiki00050060-01-01" id="0"/><rel type="=≒" mode="AND" target="リフト" sid="wiki00050060-01-01" id="2"/><rel type="=≒" mode="AND" target="リフト" sid="wiki00050060-01-01" id="5"/>
++ 7D <rel type="=" target="索道" sid="wiki00050060-00-01" id="0"/><rel type="=≒" mode="AND" target="ロープウェイ" sid="wiki00050060-01-01" id="0"/><rel type="=≒" mode="AND" target="リフト" sid="wiki00050060-01-01" id="2"/><rel type="=≒" mode="AND" target="リフト" sid="wiki00050060-01-01" id="5"/><体言>
 索道 さくどう 索道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="索道" sid="wiki00050060-01-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="ロープウェイ" sid="wiki00050060-01-01" id="0"/><rel type="ガ" mode="AND" target="リフト" sid="wiki00050060-01-01" id="2"/><rel type="ガ" mode="AND" target="リフトなど" sid="wiki00050060-01-01" id="5"/>
++ -1D <rel type="ニ" target="索道" sid="wiki00050060-01-01" id="6"/><rel type="ガ" target="ロープウェイ" sid="wiki00050060-01-01" id="0"/><rel type="ガ" mode="AND" target="リフト" sid="wiki00050060-01-01" id="2"/><rel type="ガ" mode="AND" target="リフトなど" sid="wiki00050060-01-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

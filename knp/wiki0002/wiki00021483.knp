@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言>
 絶対 ぜったい 絶対 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="絶対" sid="wiki00021483-00-01" id="0"/>
++ 8D <rel type="修飾" target="絶対" sid="wiki00021483-00-01" id="0"/><体言>
 王政 おうせい 王政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,15 +11,15 @@
 君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="権力" sid="wiki00021483-00-01" id="4"/><用言:形><時制:非過去><rel type="=" target="絶対" sid="wiki00021483-00-01" id="0"/>
++ 4D <rel type="ガ" target="権力" sid="wiki00021483-00-01" id="4"/><rel type="=" target="絶対" sid="wiki00021483-00-01" id="0"/><用言:形><時制:非過去>
 絶対 ぜったい 絶対 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 4D
-+ 5D <体言><rel type="ノ" target="君主" sid="wiki00021483-00-01" id="2"/>
++ 5D <rel type="ノ" target="君主" sid="wiki00021483-00-01" id="2"/><体言>
 権力 けんりょく 権力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="君主" sid="wiki00021483-00-01" id="2"/><rel type="ヲ" target="権力" sid="wiki00021483-00-01" id="4"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="形態" sid="wiki00021483-00-01" id="7"/>
++ 7D <rel type="ガ" target="君主" sid="wiki00021483-00-01" id="2"/><rel type="ヲ" target="権力" sid="wiki00021483-00-01" id="4"/><rel type="外の関係" target="形態" sid="wiki00021483-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 行使 こうし 行使 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
@@ -27,7 +27,7 @@
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ノ" target="政治" sid="wiki00021483-00-01" id="6"/><体言><rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="行使する" sid="wiki00021483-00-01" id="5"/>
++ 8D <rel type="ノ" target="政治" sid="wiki00021483-00-01" id="6"/><rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="行使する" sid="wiki00021483-00-01" id="5"/><体言>
 形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -37,9 +37,9 @@
 EOS
 # S-ID:wiki00021483-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/06/18 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="絶対" sid="wiki00021483-00-01" id="0"/>
++ 1D <rel type="=" target="絶対" sid="wiki00021483-00-01" id="0"/><体言>
 ぜったい ぜったい ぜったい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="王政" sid="wiki00021483-00-01" id="1"/>
++ -1D <rel type="=" target="王政" sid="wiki00021483-00-01" id="1"/><体言>
 おうせい おうせい おうせい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00021483-00-03 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/06/18 MEMO:
@@ -51,20 +51,20 @@ EOS
 * 1P
 + 1D <体言>
 絶対 ぜったい 絶対 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="絶対" sid="wiki00021483-01" id="0"/>
++ 4P <rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="絶対" sid="wiki00021483-01" id="0"/><体言>
 主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D <体言>
 絶対 ぜったい 絶対 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="=" target="君主" sid="wiki00021483-00-01" id="2"/><体言><rel type="修飾" target="絶対" sid="wiki00021483-01" id="2"/>
++ 4D <rel type="=" target="君主" sid="wiki00021483-00-01" id="2"/><rel type="修飾" target="絶対" sid="wiki00021483-01" id="2"/><体言>
 君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="君主" sid="wiki00021483-01" id="3"/><rel type="修飾" target="絶対" sid="wiki00021483-01" id="2"/>
++ 5D <rel type="=構" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="トイウ" target="君主" sid="wiki00021483-01" id="3"/><rel type="修飾" target="絶対" sid="wiki00021483-01" id="2"/><体言>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="主義" sid="wiki00021483-01" id="1"/><rel type="ト" mode="AND" target="制" sid="wiki00021483-01" id="4"/>
++ -1D <rel type="ガ" target="王政" sid="wiki00021483-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="主義" sid="wiki00021483-01" id="1"/><rel type="ト" mode="AND" target="制" sid="wiki00021483-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

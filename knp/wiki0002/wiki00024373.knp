@@ -5,9 +5,9 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動><rel type="デ" target="器" sid="wiki00024373-00-01" id="2"/><rel type="ガ" target="不特定:物"/><rel type="ガ" mode="AND" target="不特定:人"/>
++ 2D <rel type="ヲ" target="不特定:物"/><rel type="デ" target="器" sid="wiki00024373-00-01" id="2"/><rel type="ガ" target="不特定:物"/><rel type="ガ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
 消化 しょうか 消化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="=≒" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="ノ？" target="消化" sid="wiki00024373-00-01" id="1"/><rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="不特定:物"/>
++ 3D <rel type="=≒" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="ノ？" target="消化" sid="wiki00024373-00-01" id="1"/><rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="不特定:物"/><体言>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -15,19 +15,19 @@
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="胃" sid="wiki00024373-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="胃" sid="wiki00024373-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="構成する" sid="wiki00024373-00-01" id="3"/>
++ -1D <rel type="ガ" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="=構" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="修飾" target="構成する" sid="wiki00024373-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024373-00-02 括弧始:（ 括弧終:） 括弧位置:1 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/23 MEMO:
 * 1P
-+ 2P <体言><rel type="=" target="胃" sid="wiki00024373-00-01" id="0"/>
++ 2P <rel type="=" target="胃" sid="wiki00024373-00-01" id="0"/><体言>
 い い い 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="胃" sid="wiki00024373-00-01" id="0"/>
++ 2D <rel type="ノ" target="胃" sid="wiki00024373-00-01" id="0"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><rel type="デ" target="英語" sid="wiki00024373-00-02" id="1"/><rel type="=" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00024373-00-02" id="1"/>
++ -1D <rel type="デ" target="英語" sid="wiki00024373-00-02" id="1"/><rel type="=" target="胃" sid="wiki00024373-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00024373-00-02" id="1"/><体言>
 stomach stomach stomach 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

@@ -1,6 +1,6 @@
 # S-ID:wiki00028507-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/07/10 MEMO:
 * 2D
-+ 3D <体言><NE:LOCATION:メキシコシティ><rel type="ノ？" target="合衆国" sid="wiki00028507-00" id="2"/>
++ 3D <rel type="ノ？" target="合衆国" sid="wiki00028507-00" id="2"/><体言><NE:LOCATION:メキシコシティ>
 メキシコシティ めきしこしてぃ メキシコシティ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,7 +11,7 @@
 合衆国 がっしゅうこく 合衆国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><rel type="ノ" target="合衆国" sid="wiki00028507-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><rel type="ノ" target="合衆国" sid="wiki00028507-00" id="2"/><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -27,12 +27,12 @@ EOS
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
-+ 4D <体言><rel type="=≒" target="メキシコシティ" sid="wiki00028507-00" id="0"/>
++ 4D <rel type="=≒" target="メキシコシティ" sid="wiki00028507-00" id="0"/><体言>
 32 さんじゅうに 32 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><rel type="ノ" target="32州" sid="wiki00028507-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/>
++ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><rel type="ノ" target="32州" sid="wiki00028507-01" id="3"/><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -43,13 +43,13 @@ EOS
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <体言><NE:LOCATION:北アメリカ>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
-+ 4D <体言><rel type="デ" target="アメリカ" sid="wiki00028507-02" id="1"/>
++ 4D <rel type="デ" target="アメリカ" sid="wiki00028507-02" id="1"/><体言>
 屈指 くっし 屈指 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 4D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="修飾" target="屈指" sid="wiki00028507-02" id="2"/><rel type="修飾" mode="AND" target="世界" sid="wiki00028507-02" id="3"/><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/>
++ -1D <rel type="ガ" target="メキシコシティ" sid="wiki00028507-00" id="0"/><rel type="修飾" target="屈指" sid="wiki00028507-02" id="2"/><rel type="修飾" mode="AND" target="世界" sid="wiki00028507-02" id="3"/><rel type="=構" target="メキシコシティ" sid="wiki00028507-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

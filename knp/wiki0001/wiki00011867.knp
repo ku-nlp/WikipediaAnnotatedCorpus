@@ -12,7 +12,7 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5P <体言><NE:LOCATION:愛知県><rel type="=≒" target="名古屋" sid="wiki00011867-00-01" id="0"/>
++ 5P <rel type="=≒" target="名古屋" sid="wiki00011867-00-01" id="0"/><体言><NE:LOCATION:愛知県>
 愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
@@ -21,11 +21,11 @@
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <体言><rel type="ノ" target="会社" sid="wiki00011867-00-01" id="10"/><rel type="=構≒" target="愛知県" sid="wiki00011867-00-01" id="4"/><rel type="=構≒" mode="AND" target="岐阜県" sid="wiki00011867-00-01" id="5"/>
++ 7D <rel type="ノ" target="会社" sid="wiki00011867-00-01" id="10"/><rel type="=構≒" target="愛知県" sid="wiki00011867-00-01" id="4"/><rel type="=構≒" mode="AND" target="岐阜県" sid="wiki00011867-00-01" id="5"/><体言>
 基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ガ" target="会社" sid="wiki00011867-00-01" id="10"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="岐阜県" sid="wiki00011867-00-01" id="5"/><rel type="ヲ" mode="AND" target="愛知県" sid="wiki00011867-00-01" id="4"/><rel type="ト" target="基盤" sid="wiki00011867-00-01" id="6"/>
++ 10D <rel type="ガ" target="会社" sid="wiki00011867-00-01" id="10"/><rel type="ヲ" target="岐阜県" sid="wiki00011867-00-01" id="5"/><rel type="ヲ" mode="AND" target="愛知県" sid="wiki00011867-00-01" id="4"/><rel type="ト" target="基盤" sid="wiki00011867-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
 + 10D <体言>
@@ -34,7 +34,7 @@
 * -1D
 + 10D <rel type="=" target="鉄道" sid="wiki00011867-00-01" id="1"/><体言>
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00011867-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="会社" sid="wiki00011867-00-01" id="3"/><rel type="修飾" target="大手" sid="wiki00011867-00-01" id="8"/><rel type="ノ？" target="鉄道" sid="wiki00011867-00-01" id="9"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00011867-00-01" id="3"/><rel type="=構" target="会社" sid="wiki00011867-00-01" id="3"/><rel type="修飾" target="大手" sid="wiki00011867-00-01" id="8"/><rel type="ノ？" target="鉄道" sid="wiki00011867-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -52,7 +52,7 @@ EOS
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=" target="会社" sid="wiki00011867-00-01" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00011867-01-01" id="0"/><memo text="CO"/><rel type="ガ" target="通称" sid="wiki00011867-01-01" id="0"/><NE:ORGANIZATION:名鉄>
++ -1D <rel type="=" target="会社" sid="wiki00011867-00-01" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00011867-01-01" id="0"/><rel type="ガ" target="通称" sid="wiki00011867-01-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:名鉄>
 名鉄 めいてつ 名鉄 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -62,6 +62,6 @@ EOS
 めいてつ めいてつ めいてつ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><NE:ORGANIZATION:Meitetsu><rel type="=" target="名鉄" sid="wiki00011867-01-01" id="1"/>
++ -1D <rel type="=" target="名鉄" sid="wiki00011867-01-01" id="1"/><体言><NE:ORGANIZATION:Meitetsu>
 Meitetsu めいてつ Meitetsu 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS

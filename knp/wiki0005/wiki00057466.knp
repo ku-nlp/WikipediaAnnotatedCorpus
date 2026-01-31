@@ -17,21 +17,21 @@
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/><用言:動><時制:過去><節-主辞><rel type="時間" target="16日" sid="wiki00057466-00-01" id="4"/>
++ 7D <rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/><rel type="時間" target="16日" sid="wiki00057466-00-01" id="4"/><用言:動><時制:過去><節-主辞>
 開校 かいこう 開校 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
 + 7D <rel type="=" target="専修" sid="wiki00057466-00-01" id="0"/><体言><非用言格解析:動>
 専修 せんしゅう 専修 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 9D <体言><rel type="修飾" target="専修" sid="wiki00057466-00-01" id="6"/><NE:ORGANIZATION:専修学校>
++ 9D <rel type="修飾" target="専修" sid="wiki00057466-00-01" id="6"/><体言><NE:ORGANIZATION:専修学校>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <体言><rel type="=構" target="学校" sid="wiki00057466-00-01" id="7"/><rel type="ノ" target="大学" sid="wiki00057466-00-01" id="17"/>
++ 9D <rel type="=構" target="学校" sid="wiki00057466-00-01" id="7"/><rel type="ノ" target="大学" sid="wiki00057466-00-01" id="17"/><体言>
 前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 15P <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="17"/><rel type="ヲ" target="学校" sid="wiki00057466-00-01" id="7"/><用言:動><節-主辞><節-区切><rel type="ト" target="前身" sid="wiki00057466-00-01" id="8"/>
++ 15P <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="17"/><rel type="ヲ" target="学校" sid="wiki00057466-00-01" id="7"/><rel type="ト" target="前身" sid="wiki00057466-00-01" id="8"/><用言:動><節-主辞><節-区切>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
@@ -49,16 +49,16 @@
 + 14D <用言:動><時制:非過去>
 基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 15D <体言><rel type="ニモトヅイテ" target="令" sid="wiki00057466-00-01" id="12"/>
++ 15D <rel type="ニモトヅイテ" target="令" sid="wiki00057466-00-01" id="12"/><体言>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="17"/><用言:動><時制:過去><節-主辞><rel type="ト" target="大学" sid="wiki00057466-00-01" id="14"/><rel type="時間" target="1922年" sid="wiki00057466-00-01" id="10"/>
++ 17D <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="17"/><rel type="ト" target="大学" sid="wiki00057466-00-01" id="14"/><rel type="時間" target="1922年" sid="wiki00057466-00-01" id="10"/><用言:動><時制:過去><節-主辞>
 なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * -1D
 + 17D <体言>
 私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="私立" sid="wiki00057466-00-01" id="16"/><rel type="=構" target="大学" sid="wiki00057466-00-01" id="1"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00057466-00-01" id="1"/><rel type="修飾" target="私立" sid="wiki00057466-00-01" id="16"/><rel type="=構" target="大学" sid="wiki00057466-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -71,12 +71,12 @@ EOS
 * 2D
 + 2D <体言><非用言格解析:動>
 専修 せんしゅう 専修 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="修飾" target="現在" sid="wiki00057466-00-02" id="0"/><rel type="修飾" mode="AND" target="専修" sid="wiki00057466-00-02" id="1"/>
++ 3D <rel type="修飾" target="現在" sid="wiki00057466-00-02" id="0"/><rel type="修飾" mode="AND" target="専修" sid="wiki00057466-00-02" id="1"/><体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="学校" sid="wiki00057466-00-02" id="2"/>
++ -1D <rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/><rel type="ト" target="学校" sid="wiki00057466-00-02" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 異なる ことなる 異なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00057466-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/04/22 MEMO:
@@ -87,11 +87,11 @@ EOS
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 3D <体言>
 法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="大" sid="wiki00057466-01" id="1"/><rel type="修飾" mode="AND" target="法律" sid="wiki00057466-01" id="2"/><rel type="=≒" target="大学" sid="wiki00057466-00-01" id="1"/>
++ 4D <rel type="修飾" target="大" sid="wiki00057466-01" id="1"/><rel type="修飾" mode="AND" target="法律" sid="wiki00057466-01" id="2"/><rel type="=≒" target="大学" sid="wiki00057466-00-01" id="1"/><体言>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 5D <体言><rel type="ノ" target="学校" sid="wiki00057466-01" id="3"/><rel type="=構" target="学校" sid="wiki00057466-01" id="3"/><rel type="=構" mode="AND" target="学校" sid="wiki00057466-00-01" id="7"/>
++ 5D <rel type="ノ" target="学校" sid="wiki00057466-01" id="3"/><rel type="=構" target="学校" sid="wiki00057466-01" id="3"/><rel type="=構" mode="AND" target="学校" sid="wiki00057466-00-01" id="7"/><体言>
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 校 こう 校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -100,7 +100,7 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><rel type="トシテ" target="一校" sid="wiki00057466-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/>
++ -1D <rel type="トシテ" target="一校" sid="wiki00057466-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="学校" sid="wiki00057466-00-01" id="7"/><用言:動>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

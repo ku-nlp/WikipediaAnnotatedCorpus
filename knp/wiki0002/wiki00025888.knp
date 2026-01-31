@@ -2,7 +2,7 @@
 * 8D
 + 1D <体言>
 映画 えいが 映画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ？" target="映画" sid="wiki00025888-00-01" id="0"/>
++ 10D <rel type="ノ？" target="映画" sid="wiki00025888-00-01" id="0"/><体言>
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -17,27 +17,27 @@
 たち たち たち 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ヲ" target="映画" sid="wiki00025888-00-01" id="2"/><rel type="ニ" target="観客たち" sid="wiki00025888-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00025888-00-01" id="5"/><rel type="ガ" target="不特定:人"/>
++ 5D <rel type="ヲ" target="映画" sid="wiki00025888-00-01" id="2"/><rel type="ニ" target="観客たち" sid="wiki00025888-00-01" id="3"/><rel type="外の関係" target="こと" sid="wiki00025888-00-01" id="5"/><rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞>
 見せる みせる 見せる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 8D <体言><rel type="トイウ" target="見せる" sid="wiki00025888-00-01" id="4"/>
++ 8D <rel type="トイウ" target="見せる" sid="wiki00025888-00-01" id="4"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D
 主 しゅ 主 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="主" sid="wiki00025888-00-01" id="6"/><rel type="=構" target="こと" sid="wiki00025888-00-01" id="5"/><rel type="ノ" target="施設" sid="wiki00025888-00-01" id="9"/>
++ 8D <rel type="修飾" target="主" sid="wiki00025888-00-01" id="6"/><rel type="=構" target="こと" sid="wiki00025888-00-01" id="5"/><rel type="ノ" target="施設" sid="wiki00025888-00-01" id="9"/><体言>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="施設" sid="wiki00025888-00-01" id="9"/><rel type="ヲ" target="こと" sid="wiki00025888-00-01" id="5"/><用言:動><節-主辞><時制:非過去><rel type="ト" target="目的" sid="wiki00025888-00-01" id="7"/>
++ 9D <rel type="ガ" target="施設" sid="wiki00025888-00-01" id="9"/><rel type="ヲ" target="こと" sid="wiki00025888-00-01" id="5"/><rel type="ト" target="目的" sid="wiki00025888-00-01" id="7"/><用言:動><節-主辞><時制:非過去>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 8D
-+ 10D <体言><非用言格解析:動><rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/>
++ 10D <rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/><体言><非用言格解析:動>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ノ" target="施設" sid="wiki00025888-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ノ" target="施設" sid="wiki00025888-00-01" id="9"/><rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -45,16 +45,16 @@ EOS
 * -1D
 + 1D <rel type="=" target="映画" sid="wiki00025888-00-01" id="0"/><体言>
 えいが えいが えいが 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="館" sid="wiki00025888-00-01" id="1"/>
++ -1D <rel type="=" target="館" sid="wiki00025888-00-01" id="1"/><体言>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025888-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="映画" sid="wiki00025888-00-01" id="0"/>
++ 1D <rel type="=" target="映画" sid="wiki00025888-00-01" id="0"/><体言>
 映画 えいが 映画 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><時制:非過去><節-主辞><節-区切><用言:動><rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ト" target="劇場" sid="wiki00025888-01" id="1"/><memo text="PO:いう"/><rel type="修飾" target="映画" sid="wiki00025888-01" id="0"/>
++ -1D <rel type="=構" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="館" sid="wiki00025888-00-01" id="1"/><rel type="ト" target="劇場" sid="wiki00025888-01" id="1"/><rel type="修飾" target="映画" sid="wiki00025888-01" id="0"/><memo text="PO:いう"/><体言><時制:非過去><節-主辞><節-区切><用言:動>
 劇場 げきじょう 劇場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

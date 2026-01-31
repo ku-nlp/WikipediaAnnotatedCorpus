@@ -11,7 +11,7 @@
 + 3D <体言>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <体言><NE:LOCATION:大阪府大阪市><rel type="ノ？" target="大阪府" sid="wiki00025799-00-01" id="2"/>
++ 4D <rel type="ノ？" target="大阪府" sid="wiki00025799-00-01" id="2"/><体言><NE:LOCATION:大阪府大阪市>
 大阪 おおさか 大阪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 + 8D <rel type="ノ" target="大阪市" sid="wiki00025799-00-01" id="3"/><体言>
@@ -22,18 +22,18 @@
 元 もと 元 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="プロ" sid="wiki00025799-00-01" id="6"/>
++ 8D <rel type="修飾" target="プロ" sid="wiki00025799-00-01" id="6"/><体言>
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="英雄" sid="wiki00025799-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00025799-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="元" sid="wiki00025799-00-01" id="5"/><rel type="修飾" mode="AND" target="出身" sid="wiki00025799-00-01" id="4"/><rel type="=構" target="英雄" sid="wiki00025799-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="英雄" sid="wiki00025799-00-01" id="1"/><rel type="ノ" target="野球" sid="wiki00025799-00-01" id="7"/><rel type="修飾" target="元" sid="wiki00025799-00-01" id="5"/><rel type="修飾" mode="AND" target="出身" sid="wiki00025799-00-01" id="4"/><rel type="=構" target="英雄" sid="wiki00025799-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 選手 せんしゅ 選手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025799-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="野茂" sid="wiki00025799-00-01" id="0"/>
++ 1D <rel type="=" target="野茂" sid="wiki00025799-00-01" id="0"/><体言>
 のも のも のも 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6P <体言><NE:PERSON:のも　ひでお><rel type="=" target="英雄" sid="wiki00025799-00-01" id="1"/>
++ 6P <rel type="=" target="英雄" sid="wiki00025799-00-01" id="1"/><体言><NE:PERSON:のも　ひでお>
 ひでお ひでお ひでお 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -43,7 +43,7 @@ EOS
 + 4D <体言>
 〈 〈 〈 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 5D <体言><rel type="=" target="1968年" sid="wiki00025799-00-02" id="2"/>
++ 5D <rel type="=" target="1968年" sid="wiki00025799-00-02" id="2"/><体言>
 43 よんじゅうさん 43 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
@@ -58,14 +58,14 @@ EOS
 EOS
 # S-ID:wiki00025799-00-03 括弧始:（ 括弧終:） 括弧位置:51 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ -1D <体言><rel type="=≒" target="選手" sid="wiki00025799-00-01" id="8"/>
++ -1D <rel type="=≒" target="選手" sid="wiki00025799-00-01" id="8"/><体言>
 投手 とうしゅ 投手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00025799-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
 + 1P <体言>
 右投 みぎなげ 右 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <memo text="CO"/><rel type="ガ" target="英雄" sid="wiki00025799-00-01" id="1"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="英雄" sid="wiki00025799-00-01" id="1"/><memo text="CO"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
 右打 みぎうち 右打 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

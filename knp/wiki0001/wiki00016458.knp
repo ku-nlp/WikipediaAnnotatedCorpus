@@ -4,7 +4,7 @@
 名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 + 2D <体言>
 市営 しえい 市営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 7D <体言><rel type="修飾" target="市営" sid="wiki00016458-00-01" id="1"/><rel type="ノ？" target="名古屋" sid="wiki00016458-00-01" id="0"/><memo text="（サービス名）"/><NE:ARTIFACT:名古屋市営地下鉄>
++ 7D <rel type="修飾" target="市営" sid="wiki00016458-00-01" id="1"/><rel type="ノ？" target="名古屋" sid="wiki00016458-00-01" id="0"/><memo text="（サービス名）"/><体言><NE:ARTIFACT:名古屋市営地下鉄>
 地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -14,7 +14,7 @@
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 5D <体言><非用言格解析:動>
 交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 6D <体言><NE:ORGANIZATION:名古屋市交通局><rel type="ノ" target="交通" sid="wiki00016458-00-01" id="4"/><rel type="ノ" mode="AND" target="名古屋市" sid="wiki00016458-00-01" id="3"/>
++ 6D <rel type="ノ" target="交通" sid="wiki00016458-00-01" id="4"/><rel type="ノ" mode="AND" target="名古屋市" sid="wiki00016458-00-01" id="3"/><体言><NE:ORGANIZATION:名古屋市交通局>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -22,7 +22,7 @@
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="地下鉄" sid="wiki00016458-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="地下鉄" sid="wiki00016458-00-01" id="2"/><rel type="修飾" target="運営する" sid="wiki00016458-00-01" id="6"/>
++ -1D <rel type="ガ" target="地下鉄" sid="wiki00016458-00-01" id="2"/><rel type="=構" target="地下鉄" sid="wiki00016458-00-01" id="2"/><rel type="修飾" target="運営する" sid="wiki00016458-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

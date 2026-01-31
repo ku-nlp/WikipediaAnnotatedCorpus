@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言>
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ？" target="細胞" sid="wiki00023942-00-01" id="0"/>
++ 10D <rel type="ノ？" target="細胞" sid="wiki00023942-00-01" id="0"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,17 +10,17 @@
 * 2D
 + 3D
 真 しん 真 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="真" sid="wiki00023942-00-01" id="2"/>
++ 4D <rel type="修飾" target="真" sid="wiki00023942-00-01" id="2"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="核" sid="wiki00023942-00-01" id="3"/>
++ 5D <rel type="修飾" target="核" sid="wiki00023942-00-01" id="3"/><体言>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <体言><rel type="ノ" target="生物" sid="wiki00023942-00-01" id="4"/>
++ 6D <rel type="ノ" target="生物" sid="wiki00023942-00-01" id="4"/><体言>
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ヲ" target="細胞" sid="wiki00023942-00-01" id="5"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="器官" sid="wiki00023942-00-01" id="9"/>
++ 9D <rel type="ヲ" target="細胞" sid="wiki00023942-00-01" id="5"/><rel type="ガ" target="器官" sid="wiki00023942-00-01" id="9"/><用言:動><時制:非過去><節-主辞>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
@@ -28,11 +28,11 @@
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 9D
 小 しょう 小 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ" target="細胞" sid="wiki00023942-00-01" id="7"/><rel type="=≒" target="核" sid="wiki00023942-00-01" id="1"/><rel type="修飾" target="小" sid="wiki00023942-00-01" id="8"/><rel type="修飾" mode="AND" target="構成する" sid="wiki00023942-00-01" id="6"/>
++ 10D <rel type="ノ" target="細胞" sid="wiki00023942-00-01" id="7"/><rel type="=≒" target="核" sid="wiki00023942-00-01" id="1"/><rel type="修飾" target="小" sid="wiki00023942-00-01" id="8"/><rel type="修飾" mode="AND" target="構成する" sid="wiki00023942-00-01" id="6"/><体言>
 器官 きかん 器官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ノ" target="器官" sid="wiki00023942-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="核" sid="wiki00023942-00-01" id="1"/><rel type="=構" mode="AND" target="器官" sid="wiki00023942-00-01" id="9"/>
++ -1D <rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ノ" target="器官" sid="wiki00023942-00-01" id="9"/><rel type="=構" target="核" sid="wiki00023942-00-01" id="1"/><rel type="=構" mode="AND" target="器官" sid="wiki00023942-00-01" id="9"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -41,7 +41,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="細胞" sid="wiki00023942-00-01" id="0"/><体言>
 さいぼう さいぼう さいぼう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="核" sid="wiki00023942-00-01" id="1"/>
++ -1D <rel type="=" target="核" sid="wiki00023942-00-01" id="1"/><体言>
 かく かく かく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00023942-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/05/21 MEMO:
@@ -50,9 +50,9 @@ EOS
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:物"/><rel type="ニ" target="不特定:物"/>
++ 2D <rel type="ガ" target="不特定:物"/><rel type="ニ" target="不特定:物"/><体言><非用言格解析:動>
 遺伝 いでん 遺伝 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="細胞" sid="wiki00023942-01" id="0"/><rel type="ニカンシテ" target="遺伝" sid="wiki00023942-01" id="1"/>
++ 4D <rel type="ノ？" target="細胞" sid="wiki00023942-01" id="0"/><rel type="ニカンシテ" target="遺伝" sid="wiki00023942-01" id="1"/><体言>
 情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
@@ -60,22 +60,22 @@ EOS
 保存 ほぞん 保存 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ヲ" target="情報" sid="wiki00023942-01" id="2"/><体言><非用言格解析:動><節-主辞><rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ニ" target="不特定:物"/>
++ 5D <rel type="ヲ" target="情報" sid="wiki00023942-01" id="2"/><rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ニ" target="不特定:物"/><体言><非用言格解析:動><節-主辞>
 伝達 でんたつ 伝達 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P <rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><用言:動><節-区切><rel type="ヲ" target="伝達" sid="wiki00023942-01" id="4"/><rel type="ヲ" mode="AND" target="保存" sid="wiki00023942-01" id="3"/>
++ 9P <rel type="ガ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ヲ" target="伝達" sid="wiki00023942-01" id="4"/><rel type="ヲ" mode="AND" target="保存" sid="wiki00023942-01" id="3"/><用言:動><節-区切>
 行い おこない 行う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D
 ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 8D <体言><rel type="修飾" target="ほぼ" sid="wiki00023942-01" id="6"/>
++ 8D <rel type="修飾" target="ほぼ" sid="wiki00023942-01" id="6"/><体言>
 すべて すべて すべて 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="=" target="細胞" sid="wiki00023942-00-01" id="5"/><体言><rel type="修飾" target="すべて" sid="wiki00023942-01" id="7"/>
++ 9D <rel type="=" target="細胞" sid="wiki00023942-00-01" id="5"/><rel type="修飾" target="すべて" sid="wiki00023942-01" id="7"/><体言>
 細胞 さいぼう 細胞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -93,14 +93,14 @@ EOS
 + 2D
 単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 3D <体言><節-主辞><rel type="=構" target="核" sid="wiki00023942-00-01" id="1"/>
++ 3D <rel type="=構" target="核" sid="wiki00023942-00-01" id="1"/><体言><節-主辞>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="核" sid="wiki00023942-00-01" id="1"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><rel type="ト" target="核" sid="wiki00023942-02" id="2"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="核" sid="wiki00023942-00-01" id="1"/><rel type="ト" target="核" sid="wiki00023942-02" id="2"/><用言:動><モダリティ-認識-蓋然性><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 5D <体言><rel type="トイウ" target="いう" sid="wiki00023942-02" id="3"/>
++ 5D <rel type="トイウ" target="いう" sid="wiki00023942-02" id="3"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

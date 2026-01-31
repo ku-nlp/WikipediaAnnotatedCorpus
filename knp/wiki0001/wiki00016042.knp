@@ -12,15 +12,15 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><NE:ORGANIZATION:陸軍><rel type="ノ" target="日本" sid="wiki00016042-00-01" id="2"/>
++ 4D <rel type="ノ" target="日本" sid="wiki00016042-00-01" id="2"/><体言><NE:ORGANIZATION:陸軍>
 陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ 6P <体言><rel type="=構" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00016042-00-01" id="2"/><rel type="ノ？" mode="AND" target="陸軍" sid="wiki00016042-00-01" id="3"/>
++ 6P <rel type="=構" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00016042-00-01" id="2"/><rel type="ノ？" mode="AND" target="陸軍" sid="wiki00016042-00-01" id="3"/><体言>
 軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1P
 + 6D <体言>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="=構" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="政治" sid="wiki00016042-00-01" id="5"/><memo text="CO"/>
++ -1D <rel type="ガ" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="=構" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="政治" sid="wiki00016042-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -29,7 +29,7 @@ EOS
 + 1D <rel type="=" target="東条" sid="wiki00016042-00-01" id="0"/><体言>
 とうじょう とうじょう とうじょう 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 11P <体言><NE:PERSON:とうじょう　ひでき><rel type="=" target="英機" sid="wiki00016042-00-01" id="1"/>
++ 11P <rel type="=" target="英機" sid="wiki00016042-00-01" id="1"/><体言><NE:PERSON:とうじょう　ひでき>
 ひでき ひでき ひでき 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -39,11 +39,11 @@ EOS
 + 4D <体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 5D <体言><rel type="=" target="1884年" sid="wiki00016042-00-02" id="2"/>
++ 5D <rel type="=" target="1884年" sid="wiki00016042-00-02" id="2"/><体言>
 17 じゅうしち/じゅうなな 17 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 6D <体言><rel type="ノ" target="17年" sid="wiki00016042-00-02" id="4"/>
++ 6D <rel type="ノ" target="17年" sid="wiki00016042-00-02" id="4"/><体言>
 12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 + 11D <体言><NE:DATE:1884年（明治17年）12月30日>
@@ -59,55 +59,55 @@ EOS
 + 9D <体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 10D <体言><rel type="=" target="1948年" sid="wiki00016042-00-02" id="7"/>
++ 10D <rel type="=" target="1948年" sid="wiki00016042-00-02" id="7"/><体言>
 23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 11D <体言><rel type="ノ" target="1948年" sid="wiki00016042-00-02" id="7"/><rel type="ノ" mode="？" target="23年" sid="wiki00016042-00-02" id="9"/>
++ 11D <rel type="ノ" target="1948年" sid="wiki00016042-00-02" id="7"/><rel type="ノ" mode="？" target="23年" sid="wiki00016042-00-02" id="9"/><体言>
 12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <NE:DATE:1948年（昭和23年）12月23日><rel type="カラ" target="30日" sid="wiki00016042-00-02" id="6"/><体言>
++ -1D <rel type="カラ" target="30日" sid="wiki00016042-00-02" id="6"/><NE:DATE:1948年（昭和23年）12月23日><体言>
 23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00016042-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/14 MEMO:
 * 1D
-+ 2D <体言><rel type="ノ" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="陸軍" sid="wiki00016042-00-01" id="3"/>
++ 2D <rel type="ノ" target="英機" sid="wiki00016042-00-01" id="1"/><rel type="ノ？" target="陸軍" sid="wiki00016042-00-01" id="3"/><体言>
 階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><NE:ORGANIZATION:陸軍><rel type="=" target="陸軍" sid="wiki00016042-00-01" id="3"/>
++ 2D <rel type="=" target="陸軍" sid="wiki00016042-00-01" id="3"/><体言><NE:ORGANIZATION:陸軍>
 陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ -1D <rel type="ガ" target="階級" sid="wiki00016042-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="階級" sid="wiki00016042-01" id="0"/><memo text="CO"/><rel type="ノ？" target="陸軍" sid="wiki00016042-01" id="1"/>
++ -1D <rel type="ガ" target="階級" sid="wiki00016042-01" id="0"/><rel type="=構" target="階級" sid="wiki00016042-01" id="0"/><rel type="ノ？" target="陸軍" sid="wiki00016042-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大将 たいしょう 大将 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016042-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/14 MEMO:
 * 1D
-+ 5D <体言><rel type="ノ？" target="英機" sid="wiki00016042-00-01" id="1"/>
++ 5D <rel type="ノ？" target="英機" sid="wiki00016042-00-01" id="1"/><体言>
 栄典 えいてん 栄典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1P
-+ 3P <体言><rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/>
++ 3P <rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/><体言>
 従二位 じゅにい 従二位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 3D <体言>
 勲 くん 勲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="ノ" target="勲" sid="wiki00016042-02" id="2"/><rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/>
++ 5P <rel type="ノ" target="勲" sid="wiki00016042-02" id="2"/><rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/><体言>
 一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 + 5D <体言>
 功 こう 功 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><時制:非過去><体言><節-主辞><節-区切><rel type="ガ" target="栄典" sid="wiki00016042-02" id="0"/><rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/><memo text="CO"/><rel type="ノ" target="功" sid="wiki00016042-02" id="4"/>
++ -1D <rel type="ガ" target="栄典" sid="wiki00016042-02" id="0"/><rel type="=構≒" target="栄典" sid="wiki00016042-02" id="0"/><rel type="ノ" target="功" sid="wiki00016042-02" id="4"/><memo text="CO"/><用言:判><時制:非過去><体言><節-主辞><節-区切>
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 級 きゅう 級 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016042-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/14 MEMO:
 * -1D
-+ 1D <体言><NE:LOCATION:岩手県><rel type="ノ？" target="日本" sid="wiki00016042-00-01" id="2"/>
++ 1D <rel type="ノ？" target="日本" sid="wiki00016042-00-01" id="2"/><体言><NE:LOCATION:岩手県>
 岩手 いわて 岩手 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ノ" target="岩手県" sid="wiki00016042-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="英機" sid="wiki00016042-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ノ" target="岩手県" sid="wiki00016042-03" id="0"/><rel type="ガ" target="英機" sid="wiki00016042-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

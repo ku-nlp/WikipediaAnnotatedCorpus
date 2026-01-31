@@ -17,11 +17,11 @@
 征夷 せいい 征夷 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <体言>
 大 たい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="幕府" sid="wiki00011807-00-01" id="3"/>
++ 7D <rel type="ノ？" target="幕府" sid="wiki00011807-00-01" id="3"/><体言>
 将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="徳川氏" sid="wiki00011807-00-01" id="8"/><用言:動><時制:過去><節-主辞><rel type="ヲ" target="将軍" sid="wiki00011807-00-01" id="6"/>
++ 8D <rel type="ガ" target="徳川氏" sid="wiki00011807-00-01" id="8"/><rel type="ヲ" target="将軍" sid="wiki00011807-00-01" id="6"/><用言:動><時制:過去><節-主辞>
 世襲 せしゅう 世襲 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
@@ -30,7 +30,7 @@
 氏 し 氏 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ノ" target="徳川氏" sid="wiki00011807-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="将軍家" sid="wiki00011807-00-01" id="1"/>
++ -1D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ノ" target="徳川氏" sid="wiki00011807-00-01" id="8"/><rel type="=構" target="将軍家" sid="wiki00011807-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 宗家 そうけ 宗家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -38,7 +38,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="徳川" sid="wiki00011807-00-01" id="0"/><体言><NE:PERSON:とくがわ>
 とくがわ とくがわ とくがわ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ -1D <体言><rel type="=" target="将軍家" sid="wiki00011807-00-01" id="1"/>
++ -1D <rel type="=" target="将軍家" sid="wiki00011807-00-01" id="1"/><体言>
 しょうぐんけ しょうぐんけ しょうぐんけ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00011807-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/14 MEMO:
@@ -51,7 +51,7 @@ EOS
 後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="=" target="後" sid="wiki00011807-01-01" id="2"/><体言><rel type="修飾" target="後" sid="wiki00011807-01-01" id="2"/><NE:DATE:1884年>
++ 10D <rel type="=" target="後" sid="wiki00011807-01-01" id="2"/><rel type="修飾" target="後" sid="wiki00011807-01-01" id="2"/><体言><NE:DATE:1884年>
 1884 せんはっぴゃくはちじゅうよ 1884 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -61,11 +61,11 @@ EOS
 公爵 こうしゃく 公爵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="=構" target="公爵" sid="wiki00011807-01-01" id="4"/><rel type="トイウ" target="公爵" sid="wiki00011807-01-01" id="4"/>
++ 6D <rel type="=構" target="公爵" sid="wiki00011807-01-01" id="4"/><rel type="トイウ" target="公爵" sid="wiki00011807-01-01" id="4"/><体言>
 爵位 しゃくい 爵位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ヲ" target="爵位" sid="wiki00011807-01-01" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="時間" target="1884年" sid="wiki00011807-01-01" id="3"/>
++ 10D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ヲ" target="爵位" sid="wiki00011807-01-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1884年" sid="wiki00011807-01-01" id="3"/><用言:動><節-主辞><節-区切>
 授け さずけ 授ける 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 * 6D
@@ -73,11 +73,11 @@ EOS
 徳川 とくがわ 徳川 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 + 9D <rel type="=" target="公爵" sid="wiki00011807-01-01" id="4"/><体言>
 公爵 こうしゃく 公爵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ" target="公爵" sid="wiki00011807-01-01" id="8"/><体言><rel type="=構" target="将軍家" sid="wiki00011807-00-01" id="1"/>
++ 10D <rel type="ノ" target="公爵" sid="wiki00011807-01-01" id="8"/><rel type="=構" target="将軍家" sid="wiki00011807-00-01" id="1"/><体言>
 家 け 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="1884年" sid="wiki00011807-01-01" id="3"/><rel type="ト" target="家" sid="wiki00011807-01-01" id="9"/>
++ -1D <rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="時間" target="1884年" sid="wiki00011807-01-01" id="3"/><rel type="ト" target="家" sid="wiki00011807-01-01" id="9"/><用言:動><時制:過去><節-主辞><節-区切>
 なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -85,7 +85,7 @@ EOS
 * -1D
 + 1D <体言>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:明治17年><rel type="=" target="1884年" sid="wiki00011807-01-01" id="3"/><体言>
++ -1D <rel type="=" target="1884年" sid="wiki00011807-01-01" id="3"/><NE:DATE:明治17年><体言>
 17 じゅうなな/じゅうしち 17 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -93,9 +93,9 @@ EOS
 * 3D
 + 1D <体言>
 華族 かぞく 華族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ" target="華族" sid="wiki00011807-02-01" id="0"/>
++ 2D <rel type="ノ" target="華族" sid="wiki00011807-02-01" id="0"/><体言>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制度" sid="wiki00011807-02-01" id="1"/><体言><非用言格解析:動><rel type="外の関係" target="後" sid="wiki00011807-02-01" id="3"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="制度" sid="wiki00011807-02-01" id="1"/><rel type="外の関係" target="後" sid="wiki00011807-02-01" id="3"/><体言><非用言格解析:動>
 廃止 はいし 廃止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="ノ" target="廃止" sid="wiki00011807-02-01" id="2"/><体言>
 後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
@@ -107,11 +107,11 @@ EOS
 * 3D
 + 6D <rel type="=" target="徳川" sid="wiki00011807-01-01" id="7"/><体言><NE:PERSON:徳川>
 徳川 とくがわ 徳川 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ 7D <rel type="ノ" target="徳川" sid="wiki00011807-02-01" id="5"/><体言><rel type="=" target="宗家" sid="wiki00011807-00-01" id="9"/><rel type="=構" mode="AND" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="=構" mode="AND" target="家" sid="wiki00011807-01-01" id="9"/>
++ 7D <rel type="ノ" target="徳川" sid="wiki00011807-02-01" id="5"/><rel type="=" target="宗家" sid="wiki00011807-00-01" id="9"/><rel type="=構" mode="AND" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="=構" mode="AND" target="家" sid="wiki00011807-01-01" id="9"/><体言>
 宗家 そうけ 宗家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="時間" target="後" sid="wiki00011807-02-01" id="3"/><rel type="ト" target="宗家" sid="wiki00011807-02-01" id="6"/><rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ガ" mode="AND" target="家" sid="wiki00011807-01-01" id="9"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="時間" target="後" sid="wiki00011807-02-01" id="3"/><rel type="ト" target="宗家" sid="wiki00011807-02-01" id="6"/><rel type="ガ" target="将軍家" sid="wiki00011807-00-01" id="1"/><rel type="ガ" mode="AND" target="家" sid="wiki00011807-01-01" id="9"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言>
 岡山 おかやま 岡山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 3D <体言>
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
@@ -21,23 +21,23 @@
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/><rel type="=" target="放送" sid="wiki00028339-00-01" id="1"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="=" target="放送" sid="wiki00028339-00-01" id="1"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="ノ" target="放送" sid="wiki00028339-00-01" id="6"/><体言>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="=構" target="香川県" sid="wiki00028339-00-01" id="5"/><rel type="=構" mode="AND" target="岡山県" sid="wiki00028339-00-01" id="4"/><rel type="ノ？" target="対象" sid="wiki00028339-00-01" id="7"/>
++ 9D <rel type="=構" target="香川県" sid="wiki00028339-00-01" id="5"/><rel type="=構" mode="AND" target="岡山県" sid="wiki00028339-00-01" id="4"/><rel type="ノ？" target="対象" sid="wiki00028339-00-01" id="7"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 13P <rel type="ガ" target="者" sid="wiki00028339-00-01" id="19"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="香川県" sid="wiki00028339-00-01" id="5"/><rel type="ヲ" mode="AND" target="岡山県" sid="wiki00028339-00-01" id="4"/><rel type="ト" target="地域" sid="wiki00028339-00-01" id="8"/>
++ 13P <rel type="ガ" target="者" sid="wiki00028339-00-01" id="19"/><rel type="ヲ" target="香川県" sid="wiki00028339-00-01" id="5"/><rel type="ヲ" mode="AND" target="岡山県" sid="wiki00028339-00-01" id="4"/><rel type="ト" target="地域" sid="wiki00028339-00-01" id="8"/><用言:動><節-主辞><節-区切>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 11D <体言>
 テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニヨッテ" target="テレビジョン" sid="wiki00028339-00-01" id="10"/><rel type="=≒" target="放送" sid="wiki00028339-00-01" id="6"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="テレビジョン" sid="wiki00028339-00-01" id="10"/><rel type="=≒" target="放送" sid="wiki00028339-00-01" id="6"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ノ？" target="放送" sid="wiki00028339-00-01" id="11"/>
++ 13D <rel type="ノ？" target="放送" sid="wiki00028339-00-01" id="11"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -50,11 +50,11 @@
 地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 17D <体言>
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 18D <体言><非用言格解析:動><rel type="修飾" target="地上" sid="wiki00028339-00-01" id="15"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00028339-00-01" id="16"/><rel type="=≒" target="放送" sid="wiki00028339-00-01" id="6"/><rel type="ガ" target="不特定:人"/>
++ 18D <rel type="修飾" target="地上" sid="wiki00028339-00-01" id="15"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00028339-00-01" id="16"/><rel type="=≒" target="放送" sid="wiki00028339-00-01" id="6"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言><rel type="ノ？" target="放送" sid="wiki00028339-00-01" id="17"/>
++ 19D <rel type="ノ？" target="放送" sid="wiki00028339-00-01" id="17"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00028339-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="事業" sid="wiki00028339-00-01" id="18"/><rel type="=構" target="会社" sid="wiki00028339-00-01" id="3"/><rel type="修飾" target="特定" sid="wiki00028339-00-01" id="14"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00028339-00-01" id="3"/><rel type="ノ？" target="事業" sid="wiki00028339-00-01" id="18"/><rel type="=構" target="会社" sid="wiki00028339-00-01" id="3"/><rel type="修飾" target="特定" sid="wiki00028339-00-01" id="14"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -63,11 +63,11 @@ EOS
 * 1P
 + 1D <rel type="=" target="岡山" sid="wiki00028339-00-01" id="0"/><体言>
 おかやま おかやま おかやま 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 5P <体言><非用言格解析:動><NE:ORGANIZATION:おかやまほうそう><rel type="=" target="放送" sid="wiki00028339-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00028339-00-01" id="3"/>
++ 5P <rel type="=" target="放送" sid="wiki00028339-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00028339-00-01" id="3"/><体言><非用言格解析:動><NE:ORGANIZATION:おかやまほうそう>
 ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="岡山" sid="wiki00028339-00-01" id="0"/>
++ 3D <rel type="=" target="岡山" sid="wiki00028339-00-01" id="0"/><体言>
 Okayama おかやま Okayama 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 4D <体言>
@@ -78,7 +78,7 @@ Co Co Co 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 , , , 特殊 1 読点 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="会社" sid="wiki00028339-00-01" id="3"/><体言><NE:ORGANIZATION:Okayama　Broadcasting　Co.,　Ltd.><rel type="=" target="会社" sid="wiki00028339-00-01" id="3"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00028339-00-01" id="3"/><rel type="=" target="会社" sid="wiki00028339-00-01" id="3"/><体言><NE:ORGANIZATION:Okayama　Broadcasting　Co.,　Ltd.>
 Ltd Ltd Ltd 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

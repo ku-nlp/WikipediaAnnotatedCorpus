@@ -2,7 +2,7 @@
 * 2D
 + 1D <体言>
 玄武 げんぶ 玄武 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="玄武" sid="wiki00053360-00-01" id="0"/>
++ 5D <rel type="修飾" target="玄武" sid="wiki00053360-00-01" id="0"/><体言>
 岩 がん 岩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,11 +11,11 @@
 苦鉄質 くてつしつ 苦鉄質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言>
 火山 かざん 火山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=≒" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="修飾" target="火山" sid="wiki00053360-00-01" id="3"/><rel type="修飾" mode="AND" target="苦鉄質" sid="wiki00053360-00-01" id="2"/><memo text="火山活動により，地表付近で急に冷えて固まってできる"/>
++ 5D <rel type="=≒" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="修飾" target="火山" sid="wiki00053360-00-01" id="3"/><rel type="修飾" mode="AND" target="苦鉄質" sid="wiki00053360-00-01" id="2"/><memo text="火山活動により，地表付近で急に冷えて固まってできる"/><体言>
 岩 がん 岩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="ノ" target="岩" sid="wiki00053360-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="=構" mode="AND" target="岩" sid="wiki00053360-00-01" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="ノ" target="岩" sid="wiki00053360-00-01" id="5"/><rel type="=構" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="=構" mode="AND" target="岩" sid="wiki00053360-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -30,17 +30,17 @@ EOS
 * 1D
 + 1D <体言>
 深成 しんせい 深成 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="修飾" target="深成" sid="wiki00053360-01" id="0"/>
++ 3D <rel type="修飾" target="深成" sid="wiki00053360-01" id="0"/><体言>
 岩 がん 岩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 3D <体言>
 斑れい はんれい 斑れい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ" target="岩" sid="wiki00053360-01" id="1"/><rel type="修飾" target="斑れい" sid="wiki00053360-01" id="2"/><rel type="=構≒" target="岩" sid="wiki00053360-01" id="1"/><memo text="深成岩の一種　地下深部でゆっくり冷えて固まってできる"/>
++ 4D <rel type="ノ" target="岩" sid="wiki00053360-01" id="1"/><rel type="修飾" target="斑れい" sid="wiki00053360-01" id="2"/><rel type="=構≒" target="岩" sid="wiki00053360-01" id="1"/><memo text="深成岩の一種　地下深部でゆっくり冷えて固まってできる"/><体言>
 岩 がん 岩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="ニ" target="岩" sid="wiki00053360-01" id="3"/>
++ -1D <rel type="ガ" target="岩" sid="wiki00053360-00-01" id="1"/><rel type="ニ" target="岩" sid="wiki00053360-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 対応 たいおう 対応 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

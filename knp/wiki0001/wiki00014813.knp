@@ -15,19 +15,19 @@
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="階級" sid="wiki00014813-00-01" id="7"/><用言:動><時制:過去><節-主辞><rel type="カラ" target="1869年" sid="wiki00014813-00-01" id="1"/><rel type="マデ" target="1947年" sid="wiki00014813-00-01" id="2"/>
++ 7D <rel type="ガ" target="階級" sid="wiki00014813-00-01" id="7"/><rel type="カラ" target="1869年" sid="wiki00014813-00-01" id="1"/><rel type="マデ" target="1947年" sid="wiki00014813-00-01" id="2"/><用言:動><時制:過去><節-主辞>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
 + 5D <体言><NE:OPTIONAL:近代><NE-OPTIONAL:DATE,NONE:0>
 近代 きんだい 近代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 7D <体言><NE:LOCATION:日本><rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/>
++ 7D <rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <体言><rel type="=" target="華族" sid="wiki00014813-00-01" id="0"/>
++ 7D <rel type="=" target="華族" sid="wiki00014813-00-01" id="0"/><体言>
 貴族 きぞく 貴族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="華族" sid="wiki00014813-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="華族" sid="wiki00014813-00-01" id="0"/><rel type="修飾" target="貴族" sid="wiki00014813-00-01" id="6"/><rel type="ノ？" target="日本" sid="wiki00014813-00-01" id="5"/><rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/><memo text="CO"/>
++ -1D <rel type="ガ" target="華族" sid="wiki00014813-00-01" id="0"/><rel type="=構" target="華族" sid="wiki00014813-00-01" id="0"/><rel type="修飾" target="貴族" sid="wiki00014813-00-01" id="6"/><rel type="ノ？" target="日本" sid="wiki00014813-00-01" id="5"/><rel type="時間" target="近代" sid="wiki00014813-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -40,7 +40,7 @@ EOS
 * -1D
 + 1D <体言>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:明治2年><rel type="=" target="1869年" sid="wiki00014813-00-01" id="1"/><体言>
++ -1D <rel type="=" target="1869年" sid="wiki00014813-00-01" id="1"/><NE:DATE:明治2年><体言>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -48,7 +48,7 @@ EOS
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:昭和22年><体言><rel type="=" target="1947年" sid="wiki00014813-00-01" id="2"/>
++ -1D <rel type="=" target="1947年" sid="wiki00014813-00-01" id="2"/><NE:DATE:昭和22年><体言>
 22 にじゅうに 22 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

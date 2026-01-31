@@ -6,23 +6,23 @@
 * 6D
 + 2D <体言>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="海外" sid="wiki00056686-00-01" id="1"/><rel type="ノ" target="イギリス" sid="wiki00056686-00-01" id="0"/>
++ 12D <rel type="修飾" target="海外" sid="wiki00056686-00-01" id="1"/><rel type="ノ" target="イギリス" sid="wiki00056686-00-01" id="0"/><体言>
 領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 4P <体言><NE:LOCATION:イングランド><rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/>
++ 4P <rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/><体言><NE:LOCATION:イングランド>
 イングランド いんぐらんど イングランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5P <体言><NE:LOCATION:スコットランド><rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/>
++ 5P <rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/><体言><NE:LOCATION:スコットランド>
 スコットランド すこっとらんど スコットランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7P <体言><NE:LOCATION:ウェールズ><rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/>
++ 7P <rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/><体言><NE:LOCATION:ウェールズ>
 ウェールズ うぇーるず ウェールズ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 7D <体言>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 11D <NE:LOCATION:北アイルランド><体言><rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/>
++ 11D <rel type="=≒" target="イギリス" sid="wiki00056686-00-01" id="0"/><NE:LOCATION:北アイルランド><体言>
 アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -35,14 +35,14 @@
 + 10D <rel type="ガ" target="権限" sid="wiki00056686-00-01" id="10"/><体言><非用言格解析:形>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 11D <rel type="ノ" target="イギリス" sid="wiki00056686-00-01" id="8"/><体言><rel type="修飾" target="政治的" sid="wiki00056686-00-01" id="9"/>
++ 11D <rel type="ノ" target="イギリス" sid="wiki00056686-00-01" id="8"/><rel type="修飾" target="政治的" sid="wiki00056686-00-01" id="9"/><体言>
 権限 けんげん 権限 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ガ" target="権限" sid="wiki00056686-00-01" id="10"/><rel type="ニ" target="領域" sid="wiki00056686-00-01" id="12"/><用言:動><時制:非過去><節-主辞><rel type="ヲノゾイテ" target="イングランド" sid="wiki00056686-00-01" id="3"/><rel type="ヲノゾイテ" mode="AND" target="スコットランド" sid="wiki00056686-00-01" id="4"/><rel type="ヲノゾイテ" mode="AND" target="ウェールズ" sid="wiki00056686-00-01" id="5"/><rel type="ヲノゾイテ" mode="AND" target="アイルランド" sid="wiki00056686-00-01" id="7"/>
++ 12D <rel type="ガ" target="権限" sid="wiki00056686-00-01" id="10"/><rel type="ニ" target="領域" sid="wiki00056686-00-01" id="12"/><rel type="ヲノゾイテ" target="イングランド" sid="wiki00056686-00-01" id="3"/><rel type="ヲノゾイテ" mode="AND" target="スコットランド" sid="wiki00056686-00-01" id="4"/><rel type="ヲノゾイテ" mode="AND" target="ウェールズ" sid="wiki00056686-00-01" id="5"/><rel type="ヲノゾイテ" mode="AND" target="アイルランド" sid="wiki00056686-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 及ぶ およぶ 及ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="領土" sid="wiki00056686-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="領土" sid="wiki00056686-00-01" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00056686-00-01" id="8"/>
++ -1D <rel type="ガ" target="領土" sid="wiki00056686-00-01" id="2"/><rel type="=構" target="領土" sid="wiki00056686-00-01" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00056686-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -53,18 +53,18 @@ EOS
 イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=" target="海外" sid="wiki00056686-00-01" id="1"/>
++ 2D <rel type="=" target="海外" sid="wiki00056686-00-01" id="1"/><体言>
 かいがい かいがい かいがい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="=" target="領土" sid="wiki00056686-00-01" id="2"/>
++ 5P <rel type="=" target="領土" sid="wiki00056686-00-01" id="2"/><体言>
 りょうど りょうど りょうど 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 5D <体言><memo text="文節区切り　T→B"/>
++ 5D <memo text="文節区切り　T→B"/><体言>
 British British British 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 5D <体言>
 Overseas Overseas Overseas 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="領土" sid="wiki00056686-00-01" id="2"/>
++ -1D <rel type="=" target="領土" sid="wiki00056686-00-01" id="2"/><体言>
 Territories Territories Territories 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

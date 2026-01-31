@@ -2,7 +2,7 @@
 * 11D
 + 1D <体言>
 市町村 しちょうそん 市町村 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="0"/>
++ 13D <rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="0"/><体言>
 道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,12 +10,12 @@
 * 2D
 + 3D <体言>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 4D <体言><NE:ARTIFACT:道路法><rel type="ニカンシテ" target="道路" sid="wiki00019762-00-01" id="2"/>
++ 4D <rel type="ニカンシテ" target="道路" sid="wiki00019762-00-01" id="2"/><体言><NE:ARTIFACT:道路法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11P
-+ 13P <rel type="修飾" target="法上" sid="wiki00019762-00-01" id="3"/><体言><用言:判><時制:非過去><節-主辞><節-区切><rel type="ガ" target="道" sid="wiki00019762-00-01" id="1"/><rel type="=構" target="道" sid="wiki00019762-00-01" id="1"/>
++ 13P <rel type="修飾" target="法上" sid="wiki00019762-00-01" id="3"/><rel type="ガ" target="道" sid="wiki00019762-00-01" id="1"/><rel type="=構" target="道" sid="wiki00019762-00-01" id="1"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -24,7 +24,7 @@
 市町村 しちょうそん 市町村 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="5"/>
++ 7D <rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="5"/><体言>
 区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -40,7 +40,7 @@
 市町村 しちょうそん 市町村 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 12D <体言><rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="9"/>
++ 12D <rel type="ノ？" target="市町村" sid="wiki00019762-00-01" id="9"/><体言>
 議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -48,12 +48,12 @@
 路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="ガ" target="路線" sid="wiki00019762-00-01" id="11"/><用言:動><時制:過去><節-主辞><rel type="ニ" target="議会" sid="wiki00019762-00-01" id="10"/><rel type="外の関係" target="道路" sid="wiki00019762-00-01" id="13"/><rel type="デ" target="議会" sid="wiki00019762-00-01" id="10"/>
++ 13D <rel type="ガ" target="路線" sid="wiki00019762-00-01" id="11"/><rel type="ニ" target="議会" sid="wiki00019762-00-01" id="10"/><rel type="外の関係" target="道路" sid="wiki00019762-00-01" id="13"/><rel type="デ" target="議会" sid="wiki00019762-00-01" id="10"/><用言:動><時制:過去><節-主辞>
 認定 にんてい 認定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="道" sid="wiki00019762-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="トイウ" target="認定された" sid="wiki00019762-00-01" id="12"/><rel type="トイウ" mode="AND" target="あり" sid="wiki00019762-00-01" id="7"/><rel type="=構" target="道" sid="wiki00019762-00-01" id="1"/><rel type="=" mode="AND" target="道路" sid="wiki00019762-00-01" id="4"/>
++ -1D <rel type="ガ" target="道" sid="wiki00019762-00-01" id="1"/><rel type="トイウ" target="認定された" sid="wiki00019762-00-01" id="12"/><rel type="トイウ" mode="AND" target="あり" sid="wiki00019762-00-01" id="7"/><rel type="=構" target="道" sid="wiki00019762-00-01" id="1"/><rel type="=" mode="AND" target="道路" sid="wiki00019762-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -62,12 +62,12 @@ EOS
 * -1D
 + 1D <rel type="=" target="市町村" sid="wiki00019762-00-01" id="0"/><体言>
 しちょうそん しちょうそん しちょうそん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="道" sid="wiki00019762-00-01" id="1"/>
++ -1D <rel type="=" target="道" sid="wiki00019762-00-01" id="1"/><体言>
 どう どう どう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00019762-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2026/01/12 MEMO:
 * 5D
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="道" sid="wiki00019762-00-01" id="1"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="道" sid="wiki00019762-00-01" id="1"/><体言><非用言格解析:動>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -75,18 +75,18 @@ EOS
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 3D <体言><rel type="=" target="路線" sid="wiki00019762-00-01" id="11"/><rel type="=" mode="AND" target="道路" sid="wiki00019762-00-01" id="13"/>
++ 3D <rel type="=" target="路線" sid="wiki00019762-00-01" id="11"/><rel type="=" mode="AND" target="道路" sid="wiki00019762-00-01" id="13"/><体言>
 路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="路線" sid="wiki00019762-01" id="2"/><rel type="ニ" target="市町村" sid="wiki00019762-01" id="4"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 5D <rel type="=" target="市町村" sid="wiki00019762-00-01" id="5"/><体言><rel type="修飾" target="ある" sid="wiki00019762-01" id="3"/>
++ 5D <rel type="=" target="市町村" sid="wiki00019762-00-01" id="5"/><rel type="修飾" target="ある" sid="wiki00019762-01" id="3"/><体言>
 市町村 しちょうそん 市町村 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="管理" sid="wiki00019762-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="市町村" sid="wiki00019762-01" id="4"/>
++ -1D <rel type="ガ" target="管理" sid="wiki00019762-01" id="0"/><rel type="デ" target="市町村" sid="wiki00019762-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 行なわ おこなわ 行なう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

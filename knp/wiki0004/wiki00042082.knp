@@ -2,14 +2,14 @@
 * 9D
 + 1D <体言>
 宇宙 うちゅう 宇宙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ノ？" target="宇宙" sid="wiki00042082-00-01" id="0"/>
++ 11D <rel type="ノ？" target="宇宙" sid="wiki00042082-00-01" id="0"/><体言>
 船 せん 船 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="=" target="宇宙" sid="wiki00042082-00-01" id="0"/><体言>
 宇宙 うちゅう 宇宙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="宇宙" sid="wiki00042082-00-01" id="2"/><rel type="=≒" target="船" sid="wiki00042082-00-01" id="1"/>
++ 4D <rel type="ノ？" target="宇宙" sid="wiki00042082-00-01" id="2"/><rel type="=≒" target="船" sid="wiki00042082-00-01" id="1"/><体言>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -25,23 +25,23 @@
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="人" sid="wiki00042082-00-01" id="6"/><rel type="ニ" target="もの" sid="wiki00042082-00-01" id="10"/><用言:動><時制:非過去><rel type="外の関係" target="こと" sid="wiki00042082-00-01" id="8"/>
++ 8D <rel type="ガ" target="人" sid="wiki00042082-00-01" id="6"/><rel type="ニ" target="もの" sid="wiki00042082-00-01" id="10"/><rel type="外の関係" target="こと" sid="wiki00042082-00-01" id="8"/><用言:動><時制:非過去>
 乗る のる 乗る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 9D <体言><rel type="トイウ" target="乗る" sid="wiki00042082-00-01" id="7"/>
++ 9D <rel type="トイウ" target="乗る" sid="wiki00042082-00-01" id="7"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ヲ" target="こと" sid="wiki00042082-00-01" id="8"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="もの" sid="wiki00042082-00-01" id="10"/>
++ 10D <rel type="ヲ" target="こと" sid="wiki00042082-00-01" id="8"/><rel type="ガ" target="不特定:人"/><rel type="外の関係" target="もの" sid="wiki00042082-00-01" id="10"/><用言:動><時制:非過去><節-主辞>
 想定 そうてい 想定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 9D
-+ 11D <体言><rel type="デ" target="なか" sid="wiki00042082-00-01" id="4"/><rel type="=構" target="船" sid="wiki00042082-00-01" id="1"/><rel type="トイウ" target="想定している" sid="wiki00042082-00-01" id="9"/>
++ 11D <rel type="デ" target="なか" sid="wiki00042082-00-01" id="4"/><rel type="=構" target="船" sid="wiki00042082-00-01" id="1"/><rel type="トイウ" target="想定している" sid="wiki00042082-00-01" id="9"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00042082-00-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="船" sid="wiki00042082-00-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="もの" sid="wiki00042082-00-01" id="10"/><rel type="ト" target="船" sid="wiki00042082-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -54,11 +54,11 @@ EOS
 EOS
 # S-ID:wiki00042082-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/01 MEMO:
 * -1D
-+ 2D <体言><rel type="=≒" target="乗る" sid="wiki00042082-00-01" id="7"/>
++ 2D <rel type="=≒" target="乗る" sid="wiki00042082-00-01" id="7"/><体言>
 有人 ゆうじん 有人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="宇宙" sid="wiki00042082-00-01" id="2"/>
++ 2D <rel type="=" target="宇宙" sid="wiki00042082-00-01" id="2"/><体言>
 宇宙 うちゅう 宇宙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="船" sid="wiki00042082-00-01" id="1"/><rel type="ト" target="機" sid="wiki00042082-01" id="2"/><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="有人" sid="wiki00042082-01" id="0"/><rel type="ノ？" target="宇宙" sid="wiki00042082-01" id="1"/><rel type="=構" target="船" sid="wiki00042082-00-01" id="1"/><rel type="=≒" mode="AND" target="機" sid="wiki00042082-00-01" id="3"/><memo text="PO:言う、など"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="船" sid="wiki00042082-00-01" id="1"/><rel type="ト" target="機" sid="wiki00042082-01" id="2"/><rel type="修飾" target="有人" sid="wiki00042082-01" id="0"/><rel type="ノ？" target="宇宙" sid="wiki00042082-01" id="1"/><rel type="=構" target="船" sid="wiki00042082-00-01" id="1"/><rel type="=≒" mode="AND" target="機" sid="wiki00042082-00-01" id="3"/><memo text="PO:言う、など"/><体言><時制:非過去><節-主辞><節-区切>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

@@ -4,7 +4,7 @@
 期限 きげん 期限 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="ガ" target="期限" sid="wiki00051095-00-01" id="0"/><rel type="ニ" target="移籍" sid="wiki00051095-00-01" id="2"/><体言><非用言格解析:動>
 付き つき 付き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 18D <体言><非用言格解析:動><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="修飾" target="付き" sid="wiki00051095-00-01" id="1"/>
++ 18D <rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="修飾" target="付き" sid="wiki00051095-00-01" id="1"/><体言><非用言格解析:動>
 移籍 いせき 移籍 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -16,7 +16,7 @@
 * 14D
 + 5D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="=≒" target="サッカー" sid="wiki00051095-00-01" id="3"/><rel type="修飾" target="プロ" sid="wiki00051095-00-01" id="4"/>
++ 6D <rel type="=≒" target="サッカー" sid="wiki00051095-00-01" id="3"/><rel type="修飾" target="プロ" sid="wiki00051095-00-01" id="4"/><体言>
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -31,17 +31,17 @@
 + 9D <体言>
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 10D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="10"/><用言:動><時制:非過去><節-主辞><rel type="時間" target="現在" sid="wiki00051095-00-01" id="8"/>
++ 10D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="10"/><rel type="時間" target="現在" sid="wiki00051095-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
 所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 8D
-+ 11D <体言><rel type="修飾" target="スポーツ" sid="wiki00051095-00-01" id="5"/>
++ 11D <rel type="修飾" target="スポーツ" sid="wiki00051095-00-01" id="5"/><体言>
 クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><体言><非用言格解析:動><rel type="ト" target="クラブ" sid="wiki00051095-00-01" id="10"/>
++ 12D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ト" target="クラブ" sid="wiki00051095-00-01" id="10"/><体言><非用言格解析:動>
 契約 けいやく 契約 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
@@ -51,36 +51,36 @@
 まま まま まま 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ノ" target="移籍する" sid="wiki00051095-00-01" id="17"/><体言><rel type="=" target="期限" sid="wiki00051095-00-01" id="0"/>
++ 14D <rel type="ノ" target="移籍する" sid="wiki00051095-00-01" id="17"/><rel type="=" target="期限" sid="wiki00051095-00-01" id="0"/><体言>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 17D <rel type="ヲ" target="期間" sid="wiki00051095-00-01" id="13"/><用言:動><節-主辞><節-区切><rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ガ" mode="AND" target="クラブ" sid="wiki00051095-00-01" id="10"/><rel type="ガ" mode="AND" target="クラブ" sid="wiki00051095-00-01" id="16"/>
++ 17D <rel type="ヲ" target="期間" sid="wiki00051095-00-01" id="13"/><rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ガ" mode="AND" target="クラブ" sid="wiki00051095-00-01" id="10"/><rel type="ガ" mode="AND" target="クラブ" sid="wiki00051095-00-01" id="16"/><用言:動><節-主辞><節-区切>
 定めて さだめて 定める 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 13D
 + 16D <体言>
 他 た/ほか 他 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 17D <体言><rel type="=≒" target="クラブ" sid="wiki00051095-00-01" id="10"/><rel type="修飾" target="他" sid="wiki00051095-00-01" id="15"/>
++ 17D <rel type="=≒" target="クラブ" sid="wiki00051095-00-01" id="10"/><rel type="修飾" target="他" sid="wiki00051095-00-01" id="15"/><体言>
 クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 18D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><用言:動><時制:非過去><節-主辞><rel type="ニオイテ" target="スポーツ" sid="wiki00051095-00-01" id="5"/><rel type="時間" target="期間" sid="wiki00051095-00-01" id="13"/><rel type="外の関係" target="制度" sid="wiki00051095-00-01" id="18"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/>
++ 18D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><rel type="ニオイテ" target="スポーツ" sid="wiki00051095-00-01" id="5"/><rel type="時間" target="期間" sid="wiki00051095-00-01" id="13"/><rel type="外の関係" target="制度" sid="wiki00051095-00-01" id="18"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 移籍 いせき 移籍 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="移籍" sid="wiki00051095-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="トイウ" target="移籍する" sid="wiki00051095-00-01" id="17"/><memo text="CO"/>
++ -1D <rel type="ガ" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="=構" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="トイウ" target="移籍する" sid="wiki00051095-00-01" id="17"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00051095-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/14 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="期限" sid="wiki00051095-00-01" id="0"/>
++ 1D <rel type="=" target="期限" sid="wiki00051095-00-01" id="0"/><体言>
 きげん きげん きげん 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="付き" sid="wiki00051095-00-01" id="1"/><rel type="ガ" target="きげん" sid="wiki00051095-00-02" id="0"/><rel type="ニ" target="いせき" sid="wiki00051095-00-02" id="2"/><体言><非用言格解析:動>
 つき つき つき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><非用言格解析:動><rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/>
++ -1D <rel type="ガ" target="選手" sid="wiki00051095-00-01" id="7"/><rel type="ニ" target="クラブ" sid="wiki00051095-00-01" id="16"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/><体言><非用言格解析:動>
 いせき いせき いせき 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00051095-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2023/09/13 MEMO:
@@ -93,19 +93,19 @@ EOS
 + 2D <体言>
 loan loan loan 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 3D <体言><rel type="修飾" target="loan" sid="wiki00051095-01-01" id="1"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/>
++ 3D <rel type="修飾" target="loan" sid="wiki00051095-01-01" id="1"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/><体言>
 deal deal deal 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="ト" target="deal" sid="wiki00051095-01-01" id="2"/><rel type="デ" target="英語" sid="wiki00051095-01-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="ト" target="deal" sid="wiki00051095-01-01" id="2"/><rel type="デ" target="英語" sid="wiki00051095-01-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00051095-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/14 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="loan" sid="wiki00051095-01-01" id="1"/>
++ 1D <rel type="=" target="loan" sid="wiki00051095-01-01" id="1"/><体言>
 ローン ろーん ローン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><非用言格解析:動><rel type="=" target="deal" sid="wiki00051095-01-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/>
++ -1D <rel type="=" target="deal" sid="wiki00051095-01-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/><体言><非用言格解析:動>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00051095-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:206.00000 MOD:2024/02/14 MEMO:
@@ -118,7 +118,7 @@ EOS
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="ノ？" target="日本" sid="wiki00051095-02" id="1"/>
++ 8D <rel type="ノ？" target="日本" sid="wiki00051095-02" id="1"/><体言>
 メディア めでぃあ メディア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -126,26 +126,26 @@ EOS
 + 8D
 しばしば しばしば しばしば 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 レンタル れんたる レンタル 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:動><rel type="修飾" target="レンタル" sid="wiki00051095-02" id="4"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/>
++ 6D <rel type="修飾" target="レンタル" sid="wiki00051095-02" id="4"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/><体言><非用言格解析:動>
 移籍 いせき 移籍 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 7D <用言:動><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 8D <体言><非用言格解析:動><rel type="ガ" target="メディア" sid="wiki00051095-02" id="2"/><rel type="ト" target="移籍" sid="wiki00051095-02" id="5"/><rel type="ヲ" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="=構" target="移籍" sid="wiki00051095-02" id="5"/>
++ 8D <rel type="ガ" target="メディア" sid="wiki00051095-02" id="2"/><rel type="ト" target="移籍" sid="wiki00051095-02" id="5"/><rel type="ヲ" target="移籍" sid="wiki00051095-00-01" id="2"/><rel type="=構" target="移籍" sid="wiki00051095-02" id="5"/><体言><非用言格解析:動>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 24D <rel type="ガ" target="表現" sid="wiki00051095-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="メディア" sid="wiki00051095-02" id="2"/><rel type="ニ" target="不特定:人"/>
++ 24D <rel type="ガ" target="表現" sid="wiki00051095-02" id="7"/><rel type="デ" target="メディア" sid="wiki00051095-02" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
-+ 17D <体言><rel type="=" target="レンタル" sid="wiki00051095-02" id="4"/>
++ 17D <rel type="=" target="レンタル" sid="wiki00051095-02" id="4"/><体言>
 rental rental rental 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
@@ -156,18 +156,18 @@ rental rental rental 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 不動産 ふどうさん 不動産 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 14D <体言><rel type="=≒" target="動産" sid="wiki00051095-02" id="10"/><rel type="=≒" mode="AND" target="不動産" sid="wiki00051095-02" id="11"/>
++ 14D <rel type="=≒" target="動産" sid="wiki00051095-02" id="10"/><rel type="=≒" mode="AND" target="不動産" sid="wiki00051095-02" id="11"/><体言>
 物 もの 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 14D <体言><rel type="=構" target="物" sid="wiki00051095-02" id="12"/><rel type="ノ" target="貸与" sid="wiki00051095-02" id="15"/>
++ 14D <rel type="=構" target="物" sid="wiki00051095-02" id="12"/><rel type="ノ" target="貸与" sid="wiki00051095-02" id="15"/><体言>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 15D <rel type="ガ" target="貸与" sid="wiki00051095-02" id="15"/><rel type="ヲ" target="物" sid="wiki00051095-02" id="12"/><用言:動><節-主辞><rel type="ト" target="対象" sid="wiki00051095-02" id="13"/>
++ 15D <rel type="ガ" target="貸与" sid="wiki00051095-02" id="15"/><rel type="ヲ" target="物" sid="wiki00051095-02" id="12"/><rel type="ト" target="対象" sid="wiki00051095-02" id="13"/><用言:動><節-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 14D
-+ 16D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="物" sid="wiki00051095-02" id="12"/>
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00051095-02" id="12"/><体言><非用言格解析:動>
 貸与 たいよ 貸与 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
@@ -176,7 +176,7 @@ rental rental rental 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 22P
-+ 24P <rel type="ガ" target="rental" sid="wiki00051095-02" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="rental" sid="wiki00051095-02" id="9"/><rel type="修飾" target="使用される" sid="wiki00051095-02" id="16"/>
++ 24P <rel type="ガ" target="rental" sid="wiki00051095-02" id="9"/><rel type="=構" target="rental" sid="wiki00051095-02" id="9"/><rel type="修飾" target="使用される" sid="wiki00051095-02" id="16"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 言葉 ことば 言葉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -186,26 +186,26 @@ rental rental rental 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 19D
-+ 21D <体言><rel type="=≒" target="選手" sid="wiki00051095-00-01" id="7"/>
++ 21D <rel type="=≒" target="選手" sid="wiki00051095-00-01" id="7"/><体言>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 21D <体言><rel type="ノ≒" target="貸与" sid="wiki00051095-02" id="15"/>
++ 21D <rel type="ノ≒" target="貸与" sid="wiki00051095-02" id="15"/><体言>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
-+ 22D <rel type="ヲ" target="人" sid="wiki00051095-02" id="19"/><rel type="ト" target="対象" sid="wiki00051095-02" id="20"/><用言:動><節-主辞><rel type="ガ" target="移籍" sid="wiki00051095-02" id="22"/>
++ 22D <rel type="ヲ" target="人" sid="wiki00051095-02" id="19"/><rel type="ト" target="対象" sid="wiki00051095-02" id="20"/><rel type="ガ" target="移籍" sid="wiki00051095-02" id="22"/><用言:動><節-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 22D
-+ 24D <体言><非用言格解析:動><rel type="修飾" target="した" sid="wiki00051095-02" id="21"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/>
++ 24D <rel type="修飾" target="した" sid="wiki00051095-02" id="21"/><rel type="=" target="移籍" sid="wiki00051095-00-01" id="2"/><体言><非用言格解析:動>
 移籍 いせき 移籍 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 24D <体言><rel type="=" target="rental" sid="wiki00051095-02" id="9"/>
++ 24D <rel type="=" target="rental" sid="wiki00051095-02" id="9"/><体言>
 rental rental rental 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="rental" sid="wiki00051095-02" id="23"/><rel type="ニ" target="移籍" sid="wiki00051095-02" id="22"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切><rel type="デ" target="英語" sid="wiki00051095-02" id="18"/>
++ -1D <rel type="ガ" target="rental" sid="wiki00051095-02" id="23"/><rel type="ニ" target="移籍" sid="wiki00051095-02" id="22"/><rel type="デ" target="英語" sid="wiki00051095-02" id="18"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られ られ られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL

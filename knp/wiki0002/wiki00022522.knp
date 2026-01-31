@@ -8,34 +8,34 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="=" target="ロム" sid="wiki00022522-00-01" id="0"/>
++ 3D <rel type="=" target="ロム" sid="wiki00022522-00-01" id="0"/><体言>
 ROM ろむ ROM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="ROM等" sid="wiki00022522-00-01" id="1"/><用言:動><時制:過去><rel type="ニ" target="基板" sid="wiki00022522-00-01" id="3"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ 4D <rel type="ガ" target="ROM等" sid="wiki00022522-00-01" id="1"/><rel type="ニ" target="基板" sid="wiki00022522-00-01" id="4"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:過去>
 取り付け とりつけ 取り付ける 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 5D <体言><rel type="修飾" target="取り付けられた" sid="wiki00022522-00-01" id="3"/>
++ 5D <rel type="修飾" target="取り付けられた" sid="wiki00022522-00-01" id="3"/><体言>
 基板 きばん 基板 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="箱" sid="wiki00022522-00-01" id="7"/><rel type="ヲ" target="基板" sid="wiki00022522-00-01" id="3"/><用言:動><節-主辞><時制:非過去>
++ 8D <rel type="ガ" target="箱" sid="wiki00022522-00-01" id="8"/><rel type="ヲ" target="基板" sid="wiki00022522-00-01" id="4"/><用言:動><節-主辞><時制:非過去>
 内蔵 ないぞう 内蔵 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6D
 + 7D <体言>
 プラスチック ぷらすちっく プラスチック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ノ" target="プラスチック" sid="wiki00022522-00-01" id="5"/><体言>
++ 8D <rel type="ノ" target="プラスチック" sid="wiki00022522-00-01" id="6"/><体言>
 製 せい 製 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <体言><rel type="修飾" target="製" sid="wiki00022522-00-01" id="6"/><rel type="=" target="カセット" sid="wiki00022522-00-01" id="1"/>
++ 9D <rel type="修飾" target="製" sid="wiki00022522-00-01" id="7"/><rel type="=" target="カセット" sid="wiki00022522-00-01" id="1"/><体言>
 箱 はこ 箱 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="箱" sid="wiki00022522-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ロムカセット" sid="wiki00022522-00-01" id="0"/><memo text="CO"/><rel type="ガ" target="カセット" sid="wiki00022522-00-01" id="1"/>
++ -1D <rel type="ノ" target="箱" sid="wiki00022522-00-01" id="8"/><rel type="=構" target="ロムカセット" sid="wiki00022522-00-01" id="0"/><rel type="ガ" target="カセット" sid="wiki00022522-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -46,6 +46,6 @@ EOS
 * -1D
 + 2D <体言>
 マスク ますく マスク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=" target="ROM等" sid="wiki00022522-00-01" id="1"/><体言><rel type="修飾" target="マスク" sid="wiki00022522-00-02" id="1"/>
++ -1D <rel type="=" target="ROM等" sid="wiki00022522-00-01" id="1"/><rel type="修飾" target="マスク" sid="wiki00022522-00-02" id="1"/><体言>
 ROM ろむ ROM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

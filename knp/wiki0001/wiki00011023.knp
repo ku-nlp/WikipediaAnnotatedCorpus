@@ -2,7 +2,7 @@
 * 8D
 + 1D <体言>
 議院 ぎいん 議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="修飾" target="議院" sid="wiki00011023-00-01" id="0"/>
++ 2D <rel type="修飾" target="議院" sid="wiki00011023-00-01" id="0"/><体言>
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <rel type="ノ" target="内閣" sid="wiki00011023-00-01" id="1"/><体言>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -16,33 +16,33 @@
 権 けん 権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ" target="権" sid="wiki00011023-00-01" id="4"/><体言><rel type="ガ" target="内閣" sid="wiki00011023-00-01" id="6"/>
++ 6D <rel type="ノ" target="権" sid="wiki00011023-00-01" id="4"/><rel type="ガ" target="内閣" sid="wiki00011023-00-01" id="6"/><体言>
 主体 しゅたい 主体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 たる たる たる 助動詞 5 * 0 文語ラ行 10 連体形 2 NIL <基本句-主辞>
 * 7D
-+ 10D <体言><rel type="=構" target="主体" sid="wiki00011023-00-01" id="5"/>
++ 10D <rel type="=構" target="主体" sid="wiki00011023-00-01" id="5"/><体言>
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <体言><rel type="=" target="議院" sid="wiki00011023-00-01" id="0"/>
++ 8D <rel type="=" target="議院" sid="wiki00011023-00-01" id="0"/><体言>
 議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="議会" sid="wiki00011023-00-01" id="8"/><rel type="ヲ" target="内閣" sid="wiki00011023-00-01" id="7"/><体言><非用言格解析:動>
++ 9D <rel type="ガ" target="議会" sid="wiki00011023-00-01" id="7"/><rel type="ヲ" target="内閣" sid="wiki00011023-00-01" id="7"/><体言><非用言格解析:動>
 信任 しんにん 信任 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 10D <用言:動>
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 8D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="内閣" sid="wiki00011023-00-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="ニヨッテ" target="信任" sid="wiki00011023-00-01" id="8"/><rel type="外の関係" target="制度" sid="wiki00011023-00-01" id="12"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="内閣" sid="wiki00011023-00-01" id="7"/><rel type="ニヨッテ" target="信任" sid="wiki00011023-00-01" id="8"/><rel type="外の関係" target="制度" sid="wiki00011023-00-01" id="12"/><用言:動><時制:非過去><節-主辞>
 存立 そんりつ 存立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せる せる せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
 + 12D <体言>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="制" sid="wiki00011023-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="制" sid="wiki00011023-00-01" id="2"/><memo text="CO"/><rel type="ニカンシテ" target="政治" sid="wiki00011023-00-01" id="12"/><rel type="トイウ" target="存立させる" sid="wiki00011023-00-01" id="10"/>
++ -1D <rel type="ガ" target="制" sid="wiki00011023-00-01" id="2"/><rel type="=構" target="制" sid="wiki00011023-00-01" id="2"/><rel type="ニカンシテ" target="政治" sid="wiki00011023-00-01" id="11"/><rel type="トイウ" target="存立させる" sid="wiki00011023-00-01" id="10"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -60,6 +60,6 @@ EOS
 + 1D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <体言><rel type="=≒" target="議会" sid="wiki00011023-00-01" id="7"/><rel type="ノ" target="議会" sid="wiki00011023-00-01" id="7"/>
++ -1D <rel type="=≒" target="議会" sid="wiki00011023-00-01" id="7"/><rel type="ノ" target="議会" sid="wiki00011023-00-01" id="7"/><体言>
 下院 かいん 下院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

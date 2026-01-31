@@ -2,7 +2,7 @@
 * 3D
 + 1D <体言>
 公安 こうあん 公安 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニツイテ" target="公安" sid="wiki00019886-00-01" id="0"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ニツイテ" target="公安" sid="wiki00019886-00-01" id="0"/><体言><非用言格解析:動>
 調査 ちょうさ 調査 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 6D <体言><NE:ORGANIZATION:公安調査庁>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -15,11 +15,11 @@
 * 3D
 + 5D <体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00019886-00-01" id="4"/><rel type="=≒" target="庁" sid="wiki00019886-00-01" id="2"/>
++ 6D <rel type="ノ？" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00019886-00-01" id="4"/><rel type="=≒" target="庁" sid="wiki00019886-00-01" id="2"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ノ" target="機関" sid="wiki00019886-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="=構" mode="AND" target="機関" sid="wiki00019886-00-01" id="5"/><memo text="CO"/>
++ -1D <rel type="ガ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ノ" target="機関" sid="wiki00019886-00-01" id="5"/><rel type="=構" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="=構" mode="AND" target="機関" sid="wiki00019886-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -28,28 +28,28 @@ EOS
 * 1P
 + 1D <rel type="=" target="公安" sid="wiki00019886-00-01" id="0"/><体言>
 こうあん こうあん こうあん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><非用言格解析:動><rel type="=" target="調査" sid="wiki00019886-00-01" id="1"/>
++ 2D <rel type="=" target="調査" sid="wiki00019886-00-01" id="1"/><体言><非用言格解析:動>
 ちょうさ ちょうさ ちょうさ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 4P <rel type="=" target="庁" sid="wiki00019886-00-01" id="2"/><体言><NE:ORGANIZATION:こうあんちょうさちょう>
 ちょう ちょう ちょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><非用言格解析:動><rel type="ノ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ト" target="PSIA" sid="wiki00019886-00-02" id="4"/>
++ 4D <rel type="ノ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ト" target="PSIA" sid="wiki00019886-00-02" id="4"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=構" target="略称" sid="wiki00019886-00-02" id="3"/><rel type="=" mode="AND" target="庁" sid="wiki00019886-00-01" id="2"/><NE:ORGANIZATION:PSIA>
++ -1D <rel type="=構" target="略称" sid="wiki00019886-00-02" id="3"/><rel type="=" mode="AND" target="庁" sid="wiki00019886-00-01" id="2"/><体言><NE:ORGANIZATION:PSIA>
 PSIA PSIA PSIA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00019886-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2026/01/13 MEMO:
 * 1P
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:状況"/><体言><非用言格解析:動>
 破壊 はかい 破壊 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="修飾" target="破壊" sid="wiki00019886-01" id="0"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="破壊" sid="wiki00019886-01" id="0"/><体言><非用言格解析:動>
 活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 3D <rel type="ヲ" target="活動" sid="wiki00019886-01" id="1"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 3D <rel type="ヲ" target="活動" sid="wiki00019886-01" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 防止 ぼうし 防止 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 6P <体言><NE:ARTIFACT:破壊活動防止法><rel type="ニカンシテ" target="防止" sid="wiki00019886-01" id="2"/>
++ 6P <rel type="ニカンシテ" target="防止" sid="wiki00019886-01" id="2"/><体言><NE:ARTIFACT:破壊活動防止法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -57,7 +57,7 @@ EOS
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 + 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="団体" sid="wiki00019886-01" id="4"/><体言><非用言格解析:動>
 規制 きせい 規制 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 7D <体言><NE:ARTIFACT:団体規制法><rel type="ニカンシテ" target="規制" sid="wiki00019886-01" id="5"/>
++ 7D <rel type="ニカンシテ" target="規制" sid="wiki00019886-01" id="5"/><体言><NE:ARTIFACT:団体規制法>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -70,40 +70,40 @@ EOS
 公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D <体言><非用言格解析:形><rel type="ガ" target="公共" sid="wiki00019886-01" id="8"/><rel type="=" target="公安" sid="wiki00019886-00-01" id="0"/>
++ 10D <rel type="ガ" target="公共" sid="wiki00019886-01" id="8"/><rel type="=" target="公安" sid="wiki00019886-00-01" id="0"/><体言><非用言格解析:形>
 安全 あんぜん 安全だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ヲ" target="安全" sid="wiki00019886-01" id="9"/><体言><非用言格解析:動><rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/>
++ 11D <rel type="ヲ" target="安全" sid="wiki00019886-01" id="9"/><rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/><体言><非用言格解析:動>
 確保 かくほ 確保 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="ヲ" target="確保" sid="wiki00019886-01" id="10"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/><rel type="外の関係" target="こと" sid="wiki00019886-01" id="12"/>
++ 12D <rel type="ヲ" target="確保" sid="wiki00019886-01" id="10"/><rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/><rel type="外の関係" target="こと" sid="wiki00019886-01" id="12"/><用言:動><時制:非過去><節-主辞>
 図る はかる 図る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 14D <体言><rel type="トイウ" target="図る" sid="wiki00019886-01" id="11"/>
++ 14D <rel type="トイウ" target="図る" sid="wiki00019886-01" id="11"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 14D <体言><rel type="=構" target="こと" sid="wiki00019886-01" id="12"/><rel type="ノ" target="設置された" sid="wiki00019886-01" id="15"/><rel type="ノ" mode="AND" target="外局" sid="wiki00019886-01" id="18"/>
++ 14D <rel type="=構" target="こと" sid="wiki00019886-01" id="12"/><rel type="ノ" target="設置された" sid="wiki00019886-01" id="15"/><rel type="ノ" mode="AND" target="外局" sid="wiki00019886-01" id="18"/><体言>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 15D <用言:動><rel type="ヲ" target="こと" sid="wiki00019886-01" id="12"/><rel type="ト" target="目的" sid="wiki00019886-01" id="13"/>
++ 15D <rel type="ヲ" target="こと" sid="wiki00019886-01" id="12"/><rel type="ト" target="目的" sid="wiki00019886-01" id="13"/><用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 12D
-+ 18D <rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/><用言:動><時制:過去><rel type="ニ" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="トシテ" target="目的" sid="wiki00019886-01" id="13"/><rel type="ニモトヅイテ" target="法" sid="wiki00019886-01" id="3"/><rel type="ニモトヅイテ" mode="AND" target="法など" sid="wiki00019886-01" id="6"/>
++ 18D <rel type="ガ" target="外局" sid="wiki00019886-01" id="18"/><rel type="ニ" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="トシテ" target="目的" sid="wiki00019886-01" id="13"/><rel type="ニモトヅイテ" target="法" sid="wiki00019886-01" id="3"/><rel type="ニモトヅイテ" mode="AND" target="法など" sid="wiki00019886-01" id="6"/><用言:動><時制:過去>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 12D
 + 17D <体言>
 法務 ほうむ 法務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 18D <体言><NE:ORGANIZATION:法務省><rel type="ノ" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="ノ？" target="法務" sid="wiki00019886-01" id="16"/>
++ 18D <rel type="ノ" target="日本" sid="wiki00019886-00-01" id="3"/><rel type="ノ？" target="法務" sid="wiki00019886-01" id="16"/><体言><NE:ORGANIZATION:法務省>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ノ" target="省" sid="wiki00019886-01" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="庁" sid="wiki00019886-00-01" id="2"/>
++ -1D <rel type="ガ" target="庁" sid="wiki00019886-00-01" id="2"/><rel type="ノ" target="省" sid="wiki00019886-01" id="17"/><rel type="=構" target="庁" sid="wiki00019886-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 外局 がいきょく 外局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

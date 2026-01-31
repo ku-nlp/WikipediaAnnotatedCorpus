@@ -18,7 +18,7 @@
 走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="走行" sid="wiki00047243-00" id="3"/><rel type="ガ２" target="車両" sid="wiki00047243-00" id="5"/><用言:形><時制:非過去><rel type="修飾" target="法規上" sid="wiki00047243-00" id="1"/>
++ 5D <rel type="ガ" target="走行" sid="wiki00047243-00" id="3"/><rel type="ガ２" target="車両" sid="wiki00047243-00" id="5"/><rel type="修飾" target="法規上" sid="wiki00047243-00" id="1"/><用言:形><時制:非過去>
 可能な かのうな 可能だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 6D
 + 8D <体言>
@@ -27,16 +27,16 @@
 * 6D
 + 7D <体言>
 タイム たいむ タイム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><節-主辞><rel type="デ" target="車両" sid="wiki00047243-00" id="5"/><rel type="ニカンシテ" target="タイム" sid="wiki00047243-00" id="6"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="デ" target="車両" sid="wiki00047243-00" id="5"/><rel type="ニカンシテ" target="タイム" sid="wiki00047243-00" id="6"/><体言><非用言格解析:動><節-主辞>
 アタック あたっく アタック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アタック" sid="wiki00047243-00" id="7"/><用言:動><時制:非過去><rel type="デ" target="車両" sid="wiki00047243-00" id="5"/><rel type="外の関係" target="競技" sid="wiki00047243-00" id="10"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アタック" sid="wiki00047243-00" id="7"/><rel type="デ" target="車両" sid="wiki00047243-00" id="5"/><rel type="外の関係" target="競技" sid="wiki00047243-00" id="10"/><用言:動><時制:非過去>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 10D <体言><rel type="=≒" target="車両" sid="wiki00047243-00" id="5"/>
++ 10D <rel type="=≒" target="車両" sid="wiki00047243-00" id="5"/><体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="ラリー" sid="wiki00047243-00" id="0"/><rel type="=構" target="ラリー" sid="wiki00047243-00" id="0"/><rel type="ノ？" target="自動車" sid="wiki00047243-00" id="9"/><rel type="トイウ" target="する" sid="wiki00047243-00" id="8"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ラリー" sid="wiki00047243-00" id="0"/><rel type="=構" target="ラリー" sid="wiki00047243-00" id="0"/><rel type="ノ？" target="自動車" sid="wiki00047243-00" id="9"/><rel type="トイウ" target="する" sid="wiki00047243-00" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -49,7 +49,7 @@ EOS
 + 2D <rel type="ガ" target="ドライバー" sid="wiki00047243-01-01" id="2"/><rel type="ヲ" target="運転" sid="wiki00047243-01-01" id="0"/><用言:動><時制:非過去>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 6P
-+ 6P <体言><rel type="トイウ" target="する" sid="wiki00047243-01-01" id="1"/>
++ 6P <rel type="トイウ" target="する" sid="wiki00047243-01-01" id="1"/><体言>
 ドライバー どらいばー ドライバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -58,53 +58,53 @@ EOS
 道順 みちじゅん 道順 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><rel type="ヲ" target="道順" sid="wiki00047243-01-01" id="3"/><体言><非用言格解析:動><節-主辞><rel type="ニ" target="ドライバー" sid="wiki00047243-01-01" id="2"/>
++ 5D <rel type="ガ" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><rel type="ヲ" target="道順" sid="wiki00047243-01-01" id="3"/><rel type="ニ" target="ドライバー" sid="wiki00047243-01-01" id="2"/><体言><非用言格解析:動><節-主辞>
 指示 しじ 指示 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 6D <rel type="ガ" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><rel type="ヲ" target="指示" sid="wiki00047243-01-01" id="4"/><用言:動><時制:非過去>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 7D <体言><rel type="トイウ" target="する" sid="wiki00047243-01-01" id="5"/>
++ 7D <rel type="トイウ" target="する" sid="wiki00047243-01-01" id="5"/><体言>
 ナビゲーター なびげーたー ナビゲーター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 8D <体言><rel type="=≒" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><rel type="=≒" mode="AND" target="ドライバー" sid="wiki00047243-01-01" id="2"/><memo text="SE"/>
++ 8D <rel type="=≒" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><rel type="=≒" mode="AND" target="ドライバー" sid="wiki00047243-01-01" id="2"/><memo text="SE"/><体言>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 名 めい 名 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ 11D <体言><rel type="=構" target="2名" sid="wiki00047243-01-01" id="7"/><rel type="デ" target="2名" sid="wiki00047243-01-01" id="7"/>
++ 11D <rel type="=構" target="2名" sid="wiki00047243-01-01" id="7"/><rel type="デ" target="2名" sid="wiki00047243-01-01" id="7"/><体言>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 組 くみ 組 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <体言><非用言格解析:動><rel type="=≒" target="競技" sid="wiki00047243-00" id="10"/><rel type="ガ" target="不特定:人"/>
++ 10D <rel type="=≒" target="競技" sid="wiki00047243-00" id="10"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 11D <rel type="=" target="車両" sid="wiki00047243-00" id="5"/><体言><rel type="修飾" target="競技" sid="wiki00047243-01-01" id="9"/>
++ 11D <rel type="=" target="車両" sid="wiki00047243-00" id="5"/><rel type="修飾" target="競技" sid="wiki00047243-01-01" id="9"/><体言>
 車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 14P <rel type="ニ" target="車" sid="wiki00047243-01-01" id="11"/><用言:動><節-主辞><節-区切><rel type="ガ" target="1組" sid="wiki00047243-01-01" id="8"/>
++ 14P <rel type="ニ" target="車" sid="wiki00047243-01-01" id="10"/><rel type="ガ" target="1組" sid="wiki00047243-01-01" id="8"/><用言:動><節-主辞><節-区切>
 同乗 どうじょう 同乗 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="ニ" target="不特定:人"/><用言:動><時制:過去><rel type="ヲ" target="区間" sid="wiki00047243-01-01" id="13"/><rel type="ガ" target="不特定:人"/>
++ 13D <rel type="ニ" target="不特定:人"/><rel type="ヲ" target="区間" sid="wiki00047243-01-01" id="13"/><rel type="ガ" target="不特定:人"/><用言:動><時制:過去>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 12D
-+ 14D <体言><rel type="修飾" target="指定された" sid="wiki00047243-01-01" id="12"/><rel type="ノ？" target="公道" sid="wiki00047243-00" id="2"/>
++ 14D <rel type="修飾" target="指定された" sid="wiki00047243-01-01" id="12"/><rel type="ノ？" target="公道" sid="wiki00047243-00" id="2"/><体言>
 区間 くかん 区間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 22D <rel type="ヲ" target="区間" sid="wiki00047243-01-01" id="14"/><用言:動><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="=" target="走行" sid="wiki00047243-00" id="3"/>
++ 22D <rel type="ヲ" target="区間" sid="wiki00047243-01-01" id="13"/><rel type="ガ" target="不特定:人"/><rel type="=" target="走行" sid="wiki00047243-00" id="3"/><用言:動><節-主辞><節-区切>
 走行 そうこう 走行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
 + 16D <体言>
 総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="=≒" target="タイム" sid="wiki00047243-00" id="6"/><rel type="修飾" target="総合" sid="wiki00047243-01-01" id="15"/>
++ 17D <rel type="=≒" target="タイム" sid="wiki00047243-00" id="6"/><rel type="修飾" target="総合" sid="wiki00047243-01-01" id="15"/><体言>
 タイム たいむ タイム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17P
@@ -113,21 +113,21 @@ EOS
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 19D <rel type="ヲ" target="タイム" sid="wiki00047243-01-01" id="20"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="=≒" target="指定された" sid="wiki00047243-01-01" id="12"/><rel type="ニ" target="不特定:人"/>
++ 19D <rel type="ヲ" target="タイム" sid="wiki00047243-01-01" id="20"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="指定された" sid="wiki00047243-01-01" id="12"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><rel type="=≒" target="タイム" sid="wiki00047243-01-01" id="16"/>
++ 20D <rel type="=≒" target="タイム" sid="wiki00047243-01-01" id="16"/><体言>
 タイム たいむ タイム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
 + 21D <用言:動><時制:非過去>
 対する たいする 対する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 18D
-+ 22D <体言><非用言格解析:形><rel type="ニタイシテ" target="タイム" sid="wiki00047243-01-01" id="19"/><rel type="ガ" target="不特定:人"/>
++ 22D <rel type="ニタイシテ" target="タイム" sid="wiki00047243-01-01" id="19"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:形>
 正確 せいかく 正確だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="速さ" sid="wiki00047243-01-01" id="17"/><rel type="ヲ" mode="AND" target="正確性" sid="wiki00047243-01-01" id="21"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="速さ" sid="wiki00047243-01-01" id="17"/><rel type="ヲ" mode="AND" target="正確性" sid="wiki00047243-01-01" id="21"/><用言:動><時制:非過去><節-主辞><節-区切>
 競う きそう 競う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -136,6 +136,6 @@ EOS
 + 1D <体言>
 コ こ コ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><rel type="修飾" target="コ" sid="wiki00047243-01-02" id="0"/><rel type="=" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/>
++ -1D <rel type="修飾" target="コ" sid="wiki00047243-01-02" id="0"/><rel type="=" target="ナビゲーター" sid="wiki00047243-01-01" id="6"/><体言>
 ドライバー どらいばー ドライバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

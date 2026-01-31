@@ -1,6 +1,6 @@
 # S-ID:wiki00020229-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:83.00000 MOD:2025/04/18 MEMO:
 * 4D
-+ 1D <体言><memo text="JUMANに「平家（普通名詞）」あり"/>
++ 1D <memo text="JUMANに「平家（普通名詞）」あり"/><体言>
 『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL <NE:PERSON:tail>
 平家 へいけ 平家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 + 7D <NE:ARTIFACT:平家物語><体言>
@@ -15,11 +15,11 @@
 * 3D
 + 4D <体言>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 5D <体言><NE:DATE:鎌倉時代><rel type="ノ？" target="日本" sid="wiki00020229-00-01" id="2"/>
++ 5D <rel type="ノ？" target="日本" sid="wiki00020229-00-01" id="2"/><体言><NE:DATE:鎌倉時代>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="物語" sid="wiki00020229-00-01" id="7"/><用言:動><時制:過去><節-主辞><rel type="時間" target="時代" sid="wiki00020229-00-01" id="4"/><rel type="ニ" target="不特定:人"/>
++ 7D <rel type="ガ" target="物語" sid="wiki00020229-00-01" id="7"/><rel type="時間" target="時代" sid="wiki00020229-00-01" id="4"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞>
 成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -28,16 +28,16 @@
 * 10P
 + 7D <体言>
 軍記 ぐんき 軍記 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14P <rel type="ガ" target="物語" sid="wiki00020229-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="物語" sid="wiki00020229-00-01" id="1"/><rel type="修飾" target="軍記" sid="wiki00020229-00-01" id="6"/>
++ 14P <rel type="ガ" target="物語" sid="wiki00020229-00-01" id="1"/><rel type="=構" target="物語" sid="wiki00020229-00-01" id="1"/><rel type="修飾" target="軍記" sid="wiki00020229-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 物語 ものがたり 物語 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="=" target="平家" sid="wiki00020229-00-01" id="0"/><体言><NE:PERSON:平><memo text="NEこれでいいか。"/>
++ 10D <rel type="=" target="平家" sid="wiki00020229-00-01" id="0"/><memo text="NEこれでいいか。"/><体言><NE:PERSON:平>
 平家 へいけ 平家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 10P <体言><rel type="ノ？" target="平家" sid="wiki00020229-00-01" id="8"/>
++ 10P <rel type="ノ？" target="平家" sid="wiki00020229-00-01" id="8"/><体言>
 栄華 えいが 栄華 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
@@ -47,7 +47,7 @@
 * 9D
 + 12D <体言>
 武士 ぶし 武士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ノ？" target="武士" sid="wiki00020229-00-01" id="11"/>
++ 13D <rel type="ノ？" target="武士" sid="wiki00020229-00-01" id="11"/><体言>
 階級 かいきゅう 階級 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -56,7 +56,7 @@
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切><rel type="ヲ" target="栄華" sid="wiki00020229-00-01" id="9"/><rel type="ヲ" mode="AND" target="没落" sid="wiki00020229-00-01" id="10"/><rel type="ヲ" mode="AND" target="台頭など" sid="wiki00020229-00-01" id="13"/><rel type="デ" target="物語" sid="wiki00020229-00-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="栄華" sid="wiki00020229-00-01" id="9"/><rel type="ヲ" mode="AND" target="没落" sid="wiki00020229-00-01" id="10"/><rel type="ヲ" mode="AND" target="台頭など" sid="wiki00020229-00-01" id="13"/><rel type="デ" target="物語" sid="wiki00020229-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
 描いた えがいた 描く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -64,16 +64,16 @@ EOS
 * -1D
 + 1D <rel type="=" target="平家" sid="wiki00020229-00-01" id="0"/><体言>
 へいけ へいけ へいけ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ -1D <NE:ARTIFACT:へいけものがたり><rel type="=" target="物語" sid="wiki00020229-00-01" id="1"/><体言>
++ -1D <rel type="=" target="物語" sid="wiki00020229-00-01" id="1"/><NE:ARTIFACT:へいけものがたり><体言>
 ものがたり ものがたり ものがたり 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00020229-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/18 MEMO:
 * 1D
-+ 1D <体言><rel type="ノ" target="物語" sid="wiki00020229-00-01" id="1"/>
++ 1D <rel type="ノ" target="物語" sid="wiki00020229-00-01" id="1"/><体言>
 作者 さくしゃ 作者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="作者" sid="wiki00020229-01" id="0"/><用言:形><時制:非過去><節-主辞><節-区切><memo text="CO"/>
++ -1D <rel type="ガ" target="作者" sid="wiki00020229-01" id="0"/><memo text="CO"/><用言:形><時制:非過去><節-主辞><節-区切>
 不明 ふめい 不明だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

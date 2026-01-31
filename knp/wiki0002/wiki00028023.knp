@@ -1,6 +1,6 @@
 # S-ID:wiki00028023-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/06/17 MEMO:
 * 3D
-+ 1D <体言><memo text="『春秋左氏伝』第6巻僖公23年秋条の「吾以靖國也（吾以つて国を靖んずるなり）」を典拠として明治天皇が命名"/>
++ 1D <memo text="『春秋左氏伝』第6巻僖公23年秋条の「吾以靖國也（吾以つて国を靖んずるなり）」を典拠として明治天皇が命名"/><体言>
 靖国 やすくに 靖国 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 + 6D <体言><NE:OPTIONAL:靖国神社><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
 神社 じんじゃ 神社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
@@ -10,25 +10,25 @@
 + 3D <体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <体言><rel type="ノ？" target="東京都" sid="wiki00028023-00-01" id="2"/>
++ 4D <rel type="ノ？" target="東京都" sid="wiki00028023-00-01" id="2"/><体言>
 千代田 ちよだ 千代田 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:東京都千代田区九段北><rel type="ノ？" target="千代田区" sid="wiki00028023-00-01" id="3"/>
++ 5D <rel type="ノ？" target="千代田区" sid="wiki00028023-00-01" id="3"/><体言><NE:LOCATION:東京都千代田区九段北>
 九段北 くだんきた 九段北 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="神社" sid="wiki00028023-00-01" id="6"/><rel type="ニ" target="九段北" sid="wiki00028023-00-01" id="4"/>
++ 6D <rel type="ガ" target="神社" sid="wiki00028023-00-01" id="6"/><rel type="ニ" target="九段北" sid="wiki00028023-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="=構" target="神社" sid="wiki00028023-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="=構" target="神社" sid="wiki00028023-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 神社 じんじゃ 神社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028023-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/11 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="靖国" sid="wiki00028023-00-01" id="0"/>
++ 1D <rel type="=" target="靖国" sid="wiki00028023-00-01" id="0"/><体言>
 やすくに やすくに やすくに 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <体言><NE:OPTIONAL:やすくにじんじゃ><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0><rel type="=" target="神社" sid="wiki00028023-00-01" id="1"/>
++ -1D <rel type="=" target="神社" sid="wiki00028023-00-01" id="1"/><体言><NE:OPTIONAL:やすくにじんじゃ><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
 じんじゃ じんじゃ じんじゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00028023-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/06/17 MEMO:
@@ -38,7 +38,7 @@ EOS
 + 2D <体言><NE:DATE:慶応4年>
 4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 13D <体言><rel type="ノ" target="4年" sid="wiki00028023-01-01" id="1"/>
++ 13D <rel type="ノ" target="4年" sid="wiki00028023-01-01" id="1"/><体言>
 以降 いこう 以降 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -51,13 +51,13 @@ EOS
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 + 7D <体言>
 維新 いしん 維新 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 9D <体言><NE:DATE:戊辰戦争・明治維新期><rel type="ノ" target="戦争" sid="wiki00028023-01-01" id="4"/><rel type="ノ" mode="AND" target="維新" sid="wiki00028023-01-01" id="6"/>
++ 9D <rel type="ノ" target="戦争" sid="wiki00028023-01-01" id="4"/><rel type="ノ" mode="AND" target="維新" sid="wiki00028023-01-01" id="6"/><体言><NE:DATE:戊辰戦争・明治維新期>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9D <体言><非用言格解析:動><rel type="ガ" target="者" sid="wiki00028023-01-01" id="9"/>
++ 9D <rel type="ガ" target="者" sid="wiki00028023-01-01" id="9"/><体言><非用言格解析:動>
 戦没 せんぼつ 戦没 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="時間" target="期" sid="wiki00028023-01-01" id="7"/><rel type="ノ？" target="戦没" sid="wiki00028023-01-01" id="8"/>
++ 11D <rel type="時間" target="期" sid="wiki00028023-01-01" id="7"/><rel type="ノ？" target="戦没" sid="wiki00028023-01-01" id="8"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
@@ -65,15 +65,15 @@ EOS
 慰霊 いれい 慰霊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 12D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="者" sid="wiki00028023-01-01" id="9"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="者" sid="wiki00028023-01-01" id="9"/><用言:動><時制:非過去><節-主辞>
 顕彰 けんしょう 顕彰 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 13D <体言><rel type="トイウ" target="慰霊" sid="wiki00028023-01-01" id="10"/><rel type="トイウ" mode="AND" target="顕彰する" sid="wiki00028023-01-01" id="11"/>
++ 13D <rel type="トイウ" target="慰霊" sid="wiki00028023-01-01" id="10"/><rel type="トイウ" mode="AND" target="顕彰する" sid="wiki00028023-01-01" id="11"/><体言>
 動き うごき 動き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 22P <用言:動><節-主辞><節-区切><rel type="カラ" target="4年" sid="wiki00028023-01-01" id="1"/><rel type="ガ" target="動き" sid="wiki00028023-01-01" id="12"/>
++ 22P <rel type="カラ" target="4年" sid="wiki00028023-01-01" id="1"/><rel type="ガ" target="動き" sid="wiki00028023-01-01" id="12"/><用言:動><節-主辞><節-区切>
 活発に かっぱつに 活発だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 なり なり なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -81,23 +81,23 @@ EOS
 + 15D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 16D <体言><rel type="ノ" target="慰霊" sid="wiki00028023-01-01" id="10"/><rel type="ノ" mode="AND" target="顕彰する" sid="wiki00028023-01-01" id="11"/>
++ 16D <rel type="ノ" target="慰霊" sid="wiki00028023-01-01" id="10"/><rel type="ノ" mode="AND" target="顕彰する" sid="wiki00028023-01-01" id="11"/><体言>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 18D <用言:判><体言><時制:非過去><rel type="ガ" target="社" sid="wiki00028023-01-01" id="18"/><rel type="修飾" target="ため" sid="wiki00028023-01-01" id="15"/>
++ 18D <rel type="ガ" target="社" sid="wiki00028023-01-01" id="18"/><rel type="修飾" target="ため" sid="wiki00028023-01-01" id="15"/><用言:判><体言><時制:非過去>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 11D
 + 18D <体言>
 招魂 しょうこん 招魂 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 19D <体言><NE:OPTIONAL:招魂社><rel type="=構" target="施設" sid="wiki00028023-01-01" id="16"/><rel type="ノ？" target="招魂" sid="wiki00028023-01-01" id="17"/><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
++ 19D <rel type="=構" target="施設" sid="wiki00028023-01-01" id="16"/><rel type="ノ？" target="招魂" sid="wiki00028023-01-01" id="17"/><体言><NE:OPTIONAL:招魂社><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT:0>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 20D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="社" sid="wiki00028023-01-01" id="18"/>
++ 20D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="社" sid="wiki00028023-01-01" id="18"/><体言><非用言格解析:動>
 創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 22D <体言><rel type="トイウ" target="創立" sid="wiki00028023-01-01" id="19"/>
++ 22D <rel type="トイウ" target="創立" sid="wiki00028023-01-01" id="19"/><体言>
 動き うごき 動き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
@@ -105,24 +105,24 @@ EOS
 各地 かくち 各地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="動き" sid="wiki00028023-01-01" id="20"/><rel type="デ" target="各地" sid="wiki00028023-01-01" id="21"/>
++ -1D <rel type="ガ" target="動き" sid="wiki00028023-01-01" id="20"/><rel type="デ" target="各地" sid="wiki00028023-01-01" id="21"/><用言:動><時制:過去><節-主辞><節-区切>
 起きた おきた 起きる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028023-01-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/11 MEMO:
 * -1D
-+ -1D <体言><NE:DATE:1868年><rel type="=" target="4年" sid="wiki00028023-01-01" id="1"/>
++ -1D <rel type="=" target="4年" sid="wiki00028023-01-01" id="1"/><体言><NE:DATE:1868年>
 1868 せんはっぴゃくろくじゅうはち 1868 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00028023-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2025/06/17 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="活発になり" sid="wiki00028023-01-01" id="13"/><rel type="=" mode="AND" target="起きた" sid="wiki00028023-01-01" id="22"/>
++ 1D <rel type="=" target="活発になり" sid="wiki00028023-01-01" id="13"/><rel type="=" mode="AND" target="起きた" sid="wiki00028023-01-01" id="22"/><体言>
 それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 ら ら ら 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <用言:動><体言><rel type="ヲ" target="それら" sid="wiki00028023-02-01" id="0"/><rel type="ニ" target="背景" sid="wiki00028023-02-01" id="1"/><rel type="ノ" target="建てられた" sid="wiki00028023-02-01" id="8"/>
++ 8D <rel type="ヲ" target="それら" sid="wiki00028023-02-01" id="0"/><rel type="ニ" target="背景" sid="wiki00028023-02-01" id="1"/><rel type="ノ" target="建てられた" sid="wiki00028023-02-01" id="8"/><用言:動><体言>
 背景 はいけい 背景 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -132,7 +132,7 @@ EOS
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ニヨッテ" target="天皇" sid="wiki00028023-02-01" id="3"/>
++ 5D <rel type="ニヨッテ" target="天皇" sid="wiki00028023-02-01" id="3"/><体言>
 勅令 ちょくれい 勅令 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -146,60 +146,60 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <用言:動><時制:過去><節-主辞><rel type="ニヨッテ" target="勅令" sid="wiki00028023-02-01" id="4"/><rel type="ガ" target="社" sid="wiki00028023-02-01" id="10"/><rel type="時間" target="2年" sid="wiki00028023-02-01" id="7"/><rel type="ニ" target="不特定:人"/>
++ 10D <rel type="ニヨッテ" target="勅令" sid="wiki00028023-02-01" id="4"/><rel type="ガ" target="社" sid="wiki00028023-02-01" id="10"/><rel type="時間" target="2年" sid="wiki00028023-02-01" id="7"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞>
 建て たて 建てる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9D
-+ 10D <体言><rel type="=" target="招魂" sid="wiki00028023-01-01" id="17"/>
++ 10D <rel type="=" target="招魂" sid="wiki00028023-01-01" id="17"/><体言>
 招魂 しょうこん 招魂 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 12D <体言><NE:OPTIONAL:招魂社><NE-OPTIONAL:LOCATION,ARTIFACT:0><rel type="=≒" target="社" sid="wiki00028023-01-01" id="18"/><rel type="ノ？" target="招魂" sid="wiki00028023-02-01" id="9"/>
++ 12D <rel type="=≒" target="社" sid="wiki00028023-01-01" id="18"/><rel type="ノ？" target="招魂" sid="wiki00028023-02-01" id="9"/><体言><NE:OPTIONAL:招魂社><NE-OPTIONAL:LOCATION,ARTIFACT:0>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <体言><rel type="ノ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="=構" target="社" sid="wiki00028023-02-01" id="10"/>
++ 12D <rel type="ノ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="=構" target="社" sid="wiki00028023-02-01" id="10"/><体言>
 起源 きげん 起源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 19D <用言:動><節-主辞><節-区切><rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ニ" target="社" sid="wiki00028023-02-01" id="10"/><rel type="ヲ" target="起源" sid="wiki00028023-02-01" id="11"/>
++ 19D <rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ニ" target="社" sid="wiki00028023-02-01" id="10"/><rel type="ヲ" target="起源" sid="wiki00028023-02-01" id="11"/><用言:動><節-主辞><節-区切>
 発し はっし 発す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <体言><memo text="TY「の」脱字"/>
++ 14D <memo text="TY「の」脱字"/><体言>
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 12D
-+ 15D <体言><rel type="ノ" target="国家" sid="wiki00028023-02-01" id="13"/>
++ 15D <rel type="ノ" target="国家" sid="wiki00028023-02-01" id="13"/><体言>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 16D <用言:動><時制:過去><節-主辞><rel type="ガ" target="人" sid="wiki00028023-02-01" id="16"/><rel type="修飾" target="ため" sid="wiki00028023-02-01" id="14"/>
++ 16D <rel type="ガ" target="人" sid="wiki00028023-02-01" id="16"/><rel type="修飾" target="ため" sid="wiki00028023-02-01" id="14"/><用言:動><時制:過去><節-主辞>
 殉難 じゅんなん 殉難 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 14D
-+ 17D <体言><rel type="修飾" target="殉難した" sid="wiki00028023-02-01" id="15"/>
++ 17D <rel type="修飾" target="殉難した" sid="wiki00028023-02-01" id="15"/><体言>
 人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 18D <体言><rel type="ノ" target="人" sid="wiki00028023-02-01" id="16"/>
++ 18D <rel type="ノ" target="人" sid="wiki00028023-02-01" id="16"/><体言>
 霊 れい/たま 霊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 16D
-+ 19D <体言><rel type="ノ" target="霊" sid="wiki00028023-02-01" id="17"/><rel type="=構" target="霊" sid="wiki00028023-02-01" id="17"/>
++ 19D <rel type="ノ" target="霊" sid="wiki00028023-02-01" id="17"/><rel type="=構" target="霊" sid="wiki00028023-02-01" id="17"/><体言>
 246万6千余 にひゃくよんじゅうろくまんろくせんよ 246万6千余 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 柱 ばしら 柱 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><節-主辞><時制:非過去><節-区切><rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ヲ" target="246万6千余柱" sid="wiki00028023-02-01" id="18"/>
++ -1D <rel type="ガ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ヲ" target="246万6千余柱" sid="wiki00028023-02-01" id="18"/><用言:動><節-主辞><時制:非過去><節-区切>
 祀る まつる 祀る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028023-02-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/11 MEMO:
 * -1D
-+ -1D <体言><NE:DATE:1869年><rel type="=" target="2年" sid="wiki00028023-02-01" id="7"/>
++ -1D <rel type="=" target="2年" sid="wiki00028023-02-01" id="7"/><体言><NE:DATE:1869年>
 1869 せんはっぴゃくろくじゅうく/せんはっぴゃくろくじゅうきゅう 1869 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00028023-02-03 括弧始:（ 括弧終:） 括弧位置:57 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/11 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="霊" sid="wiki00028023-02-01" id="17"/>
++ -1D <rel type="=" target="霊" sid="wiki00028023-02-01" id="17"/><体言>
 英霊 えいれい 英霊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00028023-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/06/17 MEMO:
@@ -208,23 +208,23 @@ EOS
 全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="神社" sid="wiki00028023-03" id="3"/><rel type="ニ" target="全国" sid="wiki00028023-03" id="0"/>
++ 3D <rel type="ガ" target="神社" sid="wiki00028023-03" id="3"/><rel type="ニ" target="全国" sid="wiki00028023-03" id="0"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
 + 3D <体言>
 護国 ごこく 護国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="ある" sid="wiki00028023-03" id="1"/>
++ 6D <rel type="修飾" target="ある" sid="wiki00028023-03" id="1"/><体言>
 神社 じんじゃ 神社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <用言:形><時制:非過去><rel type="ガ" target="関わり" sid="wiki00028023-03" id="5"/>
++ 5D <rel type="ガ" target="関わり" sid="wiki00028023-03" id="5"/><用言:形><時制:非過去>
 深い ふかい 深い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 6D <体言><rel type="ノ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ト" target="神社" sid="wiki00028023-03" id="3"/><rel type="修飾" target="深い" sid="wiki00028023-03" id="4"/>
++ 6D <rel type="ノ" target="神社" sid="wiki00028023-00-01" id="1"/><rel type="ト" target="神社" sid="wiki00028023-03" id="3"/><rel type="修飾" target="深い" sid="wiki00028023-03" id="4"/><体言>
 関わり かかわり 関わり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="関わり" sid="wiki00028023-03" id="5"/><rel type="ト" target="神社" sid="wiki00028023-03" id="3"/><rel type="ガ２" target="神社" sid="wiki00028023-00-01" id="1"/>
++ -1D <rel type="ガ" target="関わり" sid="wiki00028023-03" id="5"/><rel type="ト" target="神社" sid="wiki00028023-03" id="3"/><rel type="ガ２" target="神社" sid="wiki00028023-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

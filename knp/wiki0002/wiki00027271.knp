@@ -7,15 +7,15 @@
 * 2D
 + 2D <rel type="=" target="バラ" sid="wiki00027271-00-01" id="0"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ" target="バラ" sid="wiki00027271-00-01" id="1"/>
++ 4D <rel type="ノ" target="バラ" sid="wiki00027271-00-01" id="1"/><体言>
 科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <rel type="=" target="バラ" sid="wiki00027271-00-01" id="1"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="バラ" sid="wiki00027271-00-01" id="3"/><体言><rel type="=" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ 5D <rel type="ノ" target="バラ" sid="wiki00027271-00-01" id="3"/><rel type="=" target="バラ" sid="wiki00027271-00-01" id="0"/><体言>
 属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="バラ" sid="wiki00027271-00-01" id="0"/><rel type="ノ" target="属" sid="wiki00027271-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ -1D <rel type="ガ" target="バラ" sid="wiki00027271-00-01" id="0"/><rel type="ノ" target="属" sid="wiki00027271-00-01" id="4"/><rel type="=構" target="バラ" sid="wiki00027271-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -39,30 +39,30 @@ EOS
 * 4D
 + 4D <体言>
 園芸 えんげい 園芸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="園芸" sid="wiki00027271-01-01" id="3"/><rel type="=" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ 5D <rel type="修飾" target="園芸" sid="wiki00027271-01-01" id="3"/><rel type="=" target="バラ" sid="wiki00027271-00-01" id="0"/><体言>
 種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="種" sid="wiki00027271-01-01" id="4"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="種" sid="wiki00027271-01-01" id="4"/><rel type="ト" target="バラ" sid="wiki00027271-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027271-01-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/11 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="園芸" sid="wiki00027271-01-01" id="3"/>
++ 1D <rel type="=" target="園芸" sid="wiki00027271-01-01" id="3"/><体言>
 園芸 えんげい 園芸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3P <体言><rel type="修飾" target="園芸" sid="wiki00027271-01-02" id="0"/><rel type="=" target="種" sid="wiki00027271-01-01" id="4"/><rel type="=" mode="AND" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ 3P <rel type="修飾" target="園芸" sid="wiki00027271-01-02" id="0"/><rel type="=" target="種" sid="wiki00027271-01-01" id="4"/><rel type="=" mode="AND" target="バラ" sid="wiki00027271-00-01" id="0"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="バラ" sid="wiki00027271-01-02" id="3"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バラ" sid="wiki00027271-01-02" id="3"/><体言><非用言格解析:動>
 栽培 さいばい 栽培 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="修飾" target="栽培" sid="wiki00027271-01-02" id="2"/><体言><rel type="=" target="種" sid="wiki00027271-01-01" id="4"/><rel type="=" mode="AND" target="バラ" sid="wiki00027271-00-01" id="0"/>
++ -1D <rel type="修飾" target="栽培" sid="wiki00027271-01-02" id="2"/><rel type="=" target="種" sid="wiki00027271-01-01" id="4"/><rel type="=" mode="AND" target="バラ" sid="wiki00027271-00-01" id="0"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00027271-01-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/06/11 MEMO:
 * 3D
-+ 4D <体言><rel type="ノ？" target="バラ" sid="wiki00027271-01-02" id="1"/><rel type="ノ？" mode="AND" target="バラ" sid="wiki00027271-01-02" id="3"/>
++ 4D <rel type="ノ？" target="バラ" sid="wiki00027271-01-02" id="1"/><rel type="ノ？" mode="AND" target="バラ" sid="wiki00027271-01-02" id="3"/><体言>
 花 はな 花 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2P
@@ -76,7 +76,7 @@ EOS
 食用 しょくよう 食用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="花" sid="wiki00027271-01-03" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="用" sid="wiki00027271-01-03" id="2"/><rel type="ト" mode="AND" target="食用" sid="wiki00027271-01-03" id="3"/>
++ -1D <rel type="ガ" target="花" sid="wiki00027271-01-03" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="用" sid="wiki00027271-01-03" id="2"/><rel type="ト" mode="AND" target="食用" sid="wiki00027271-01-03" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 EOS
@@ -84,28 +84,28 @@ EOS
 * 3D
 + 1D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="本" sid="wiki00027271-02" id="0"/>
++ 7D <rel type="修飾" target="本" sid="wiki00027271-02" id="0"/><体言>
 項 こう 項 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <体言><rel type="=" target="総称する" sid="wiki00027271-01-01" id="5"/>
++ 6D <rel type="=" target="総称する" sid="wiki00027271-01-01" id="5"/><体言>
 後者 こうしゃ 後者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="=" target="園芸" sid="wiki00027271-01-02" id="0"/>
++ 4D <rel type="=" target="園芸" sid="wiki00027271-01-02" id="0"/><体言>
 園芸 えんげい 園芸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="修飾" target="後者" sid="wiki00027271-02" id="2"/><rel type="=" target="バラ" sid="wiki00027271-01-02" id="1"/>
++ 6P <rel type="修飾" target="後者" sid="wiki00027271-02" id="2"/><rel type="=" target="バラ" sid="wiki00027271-01-02" id="1"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <体言><非用言格解析:動><rel type="=" target="栽培" sid="wiki00027271-01-02" id="2"/>
++ 6D <rel type="=" target="栽培" sid="wiki00027271-01-02" id="2"/><体言><非用言格解析:動>
 栽培 さいばい 栽培 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="後者" sid="wiki00027271-02" id="2"/><rel type="=" target="バラ" sid="wiki00027271-01-02" id="3"/>
++ 7D <rel type="修飾" target="後者" sid="wiki00027271-02" id="2"/><rel type="=" target="バラ" sid="wiki00027271-01-02" id="3"/><体言>
 バラ ばら バラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="項" sid="wiki00027271-02" id="1"/><rel type="ヲ" target="バラ" sid="wiki00027271-02" id="6"/><rel type="ヲ" mode="AND" target="バラ" sid="wiki00027271-02" id="4"/>
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="項" sid="wiki00027271-02" id="1"/><rel type="ヲ" target="バラ" sid="wiki00027271-02" id="6"/><rel type="ヲ" mode="AND" target="バラ" sid="wiki00027271-02" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL

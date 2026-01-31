@@ -1,6 +1,6 @@
 # S-ID:wiki00024940-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/05/28 MEMO:
 * 3D
-+ 5D <体言><NE:LOCATION:吉林省><rel type="ノ？" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/>
++ 5D <rel type="ノ？" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/><体言><NE:LOCATION:吉林省>
 吉林 きつりん 吉林 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -8,9 +8,9 @@
 * 2D
 + 3D <体言><NE:LOCATION:中華人民共和国>
 中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 3D <体言><rel type="ノ" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/>
++ 3D <rel type="ノ" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/><体言>
 東北 とうほく 東北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/><rel type="ノ？" target="東北" sid="wiki00024940-00-01" id="2"/>
++ 4D <rel type="ノ" target="中華人民共和国" sid="wiki00024940-00-01" id="1"/><rel type="ノ？" target="東北" sid="wiki00024940-00-01" id="2"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -18,31 +18,31 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="吉林省" sid="wiki00024940-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="吉林省" sid="wiki00024940-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="吉林省" sid="wiki00024940-00-01" id="0"/><rel type="=構" target="吉林省" sid="wiki00024940-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024940-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/28 MEMO:
 * 3P
-+ 9P <体言><rel type="=" target="吉林省" sid="wiki00024940-00-01" id="0"/>
++ 9P <rel type="=" target="吉林省" sid="wiki00024940-00-01" id="0"/><体言>
 きつりん きつりん きつりん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 しょう しょう しょう 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 2D <体言><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 3D <体言><rel type="ノ？" target="中国" sid="wiki00024940-00-02" id="1"/><rel type="ノ" target="吉林省" sid="wiki00024940-00-01" id="0"/>
++ 3D <rel type="ノ？" target="中国" sid="wiki00024940-00-02" id="1"/><rel type="ノ" target="吉林省" sid="wiki00024940-00-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 6P <体言><rel type="デ" target="語" sid="wiki00024940-00-02" id="2"/><rel type="=" target="吉林省" sid="wiki00024940-00-01" id="0"/><rel type="=構" mode="AND" target="語" sid="wiki00024940-00-02" id="2"/><NE:LOCATION:吉林省>
++ 6P <rel type="デ" target="語" sid="wiki00024940-00-02" id="2"/><rel type="=" target="吉林省" sid="wiki00024940-00-01" id="0"/><rel type="=構" mode="AND" target="語" sid="wiki00024940-00-02" id="2"/><体言><NE:LOCATION:吉林省>
 吉林 きつりん 吉林 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 6D <体言><rel type="ノ？" target="語" sid="wiki00024940-00-02" id="2"/>
++ 6D <rel type="ノ？" target="語" sid="wiki00024940-00-02" id="2"/><体言>
 拼音 ぴんいん 拼音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <体言><rel type="デ" target="拼音" sid="wiki00024940-00-02" id="4"/><rel type="=" target="吉林省" sid="wiki00024940-00-02" id="3"/><rel type="=構" mode="AND" target="拼音" sid="wiki00024940-00-02" id="4"/>
++ 6D <rel type="デ" target="拼音" sid="wiki00024940-00-02" id="4"/><rel type="=" target="吉林省" sid="wiki00024940-00-02" id="3"/><rel type="=構" mode="AND" target="拼音" sid="wiki00024940-00-02" id="4"/><体言>
 Jílín Jílín Jílín 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
 + 9P <NE:LOCATION:Jílín　Shěng>
@@ -50,24 +50,24 @@ Shěng Shěng Shěng 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 9D <体言><memo text="満州語表記の転写"/>
++ 9D <memo text="満州語表記の転写"/><体言>
 転写 てんしゃ 転写 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
 + 9D <体言>
 girin girin girin 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <体言><rel type="デ" target="転写" sid="wiki00024940-00-02" id="7"/><NE:LOCATION:girin　golo><rel type="=" target="吉林省" sid="wiki00024940-00-02" id="3"/><rel type="=構" mode="AND" target="転写" sid="wiki00024940-00-02" id="7"/>
++ -1D <rel type="デ" target="転写" sid="wiki00024940-00-02" id="7"/><rel type="=" target="吉林省" sid="wiki00024940-00-02" id="3"/><rel type="=構" mode="AND" target="転写" sid="wiki00024940-00-02" id="7"/><体言><NE:LOCATION:girin　golo>
 golo golo golo 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00024940-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/28 MEMO:
 * 1D
 + 1D <rel type="=" target="省" sid="wiki00024940-00-01" id="5"/><体言>
 省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ" target="省" sid="wiki00024940-01" id="0"/><rel type="ノ" mode="AND" target="吉林省" sid="wiki00024940-00-01" id="0"/>
++ 2D <rel type="ノ" target="省" sid="wiki00024940-01" id="0"/><rel type="ノ" mode="AND" target="吉林省" sid="wiki00024940-00-01" id="0"/><体言>
 都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="都" sid="wiki00024940-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:長春市><rel type="=構" target="都" sid="wiki00024940-01" id="1"/><memo text="CO"/><rel type="ノ？" target="吉林省" sid="wiki00024940-00-01" id="0"/>
++ -1D <rel type="ガ" target="都" sid="wiki00024940-01" id="1"/><rel type="=構" target="都" sid="wiki00024940-01" id="1"/><rel type="ノ？" target="吉林省" sid="wiki00024940-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:長春市>
 長春 ちょうしゅん/ちゃんちゅん 長春 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,8 +1,8 @@
 # S-ID:wiki00012128-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/18 MEMO:
 * 3D
-+ 1D <体言><rel type="ノ？" target="東京" sid="wiki00012128-00-01" id="2"/>
++ 1D <rel type="ノ？" target="東京" sid="wiki00012128-00-01" id="2"/><体言>
 丸ノ内 まるのうち 丸ノ内 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 6D <体言><NE:LOCATION:丸ノ内線><rel type="修飾" target="地下鉄" sid="wiki00012128-00-01" id="3"/>
++ 6D <rel type="修飾" target="地下鉄" sid="wiki00012128-00-01" id="3"/><体言><NE:LOCATION:丸ノ内線>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,56 +13,56 @@
 地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="地下鉄" sid="wiki00012128-00-01" id="3"/><rel type="ヲ" target="路線" sid="wiki00012128-00-01" id="6"/>
++ 6D <rel type="ガ" target="地下鉄" sid="wiki00012128-00-01" id="3"/><rel type="ヲ" target="路線" sid="wiki00012128-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + 6D <体言>
 鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="鉄道" sid="wiki00012128-00-01" id="5"/><rel type="ガ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="=構" target="線" sid="wiki00012128-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ノ？" target="鉄道" sid="wiki00012128-00-01" id="5"/><rel type="ガ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="=構" target="線" sid="wiki00012128-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00012128-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="丸ノ内" sid="wiki00012128-00-01" id="0"/>
++ 1D <rel type="=" target="丸ノ内" sid="wiki00012128-00-01" id="0"/><体言>
 まるのうち まるのうち まるのうち 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <体言><NE:LOCATION:まるのうちせん><rel type="=" target="線" sid="wiki00012128-00-01" id="1"/>
++ -1D <rel type="=" target="線" sid="wiki00012128-00-01" id="1"/><体言><NE:LOCATION:まるのうちせん>
 せん せん せん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00012128-00-03 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="東京" sid="wiki00012128-00-01" id="2"/>
++ 1D <rel type="=" target="東京" sid="wiki00012128-00-01" id="2"/><体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:東京メトロ><rel type="=" target="地下鉄" sid="wiki00012128-00-01" id="3"/><体言>
++ -1D <rel type="=" target="地下鉄" sid="wiki00012128-00-01" id="3"/><NE:ORGANIZATION:東京メトロ><体言>
 メトロ めとろ メトロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00012128-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/18 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="東京" sid="wiki00012128-00-01" id="2"/>
++ 1D <rel type="=" target="東京" sid="wiki00012128-00-01" id="2"/><体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3D <体言><NE:LOCATION:東京都豊島区><rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/>
++ 3D <rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/><体言><NE:LOCATION:東京都豊島区>
 豊島 としま 豊島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="ノ？" target="豊島区" sid="wiki00012128-01-01" id="1"/>
++ 3D <rel type="ノ？" target="豊島区" sid="wiki00012128-01-01" id="1"/><体言>
 池袋 いけぶくろ 池袋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 6P <体言><NE:LOCATION:池袋駅><rel type="ノ？" target="豊島区" sid="wiki00012128-01-01" id="1"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 6P <rel type="ノ？" target="豊島区" sid="wiki00012128-01-01" id="1"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言><NE:LOCATION:池袋駅>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 3D
-+ 6D <体言><NE:LOCATION:杉並区><rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/>
++ 6D <rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/><体言><NE:LOCATION:杉並区>
 杉並 すぎなみ 杉並 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="4"/>
++ 6D <rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="4"/><体言>
 荻窪 おぎくぼ 荻窪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 7D <体言><NE:LOCATION:荻窪駅><rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="4"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 7D <rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="4"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言><NE:LOCATION:荻窪駅>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 + 8D <rel type="ノ" target="駅" sid="wiki00012128-01-01" id="6"/><rel type="ト" target="駅" sid="wiki00012128-01-01" id="3"/><memo text="トノ交替可"/>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -71,49 +71,49 @@ EOS
 + 9D <rel type="ガ" target="本線" sid="wiki00012128-01-01" id="9"/><rel type="ヲ" target="間" sid="wiki00012128-01-01" id="7"/><用言:動><時制:非過去><節-主辞>
 結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 11P
-+ 20P <体言><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 20P <rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言>
 本線 ほんせん 本線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 13D <体言><NE:LOCATION:中野区><rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/>
++ 13D <rel type="ノ？" target="東京都" sid="wiki00012128-01-01" id="0"/><体言><NE:LOCATION:中野区>
 中野 なかの 中野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <体言><rel type="ノ？" target="中野区" sid="wiki00012128-01-01" id="10"/>
++ 12D <rel type="ノ？" target="中野区" sid="wiki00012128-01-01" id="10"/><体言>
 中野 なかの 中野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 13D <体言><memo text="品詞nに"/>
++ 13D <memo text="品詞nに"/><体言>
 坂上 さかうえ 坂上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 16P <体言><NE:LOCATION:中野坂上駅><rel type="ノ？" target="中野区" sid="wiki00012128-01-01" id="10"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 16P <rel type="ノ？" target="中野区" sid="wiki00012128-01-01" id="10"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言><NE:LOCATION:中野坂上駅>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 9D
-+ 16D <体言><NE:LOCATION:杉並区><rel type="=" target="杉並区" sid="wiki00012128-01-01" id="4"/>
++ 16D <rel type="=" target="杉並区" sid="wiki00012128-01-01" id="4"/><体言><NE:LOCATION:杉並区>
 杉並 すぎなみ 杉並 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 16D <体言><rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="14"/>
++ 16D <rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="14"/><体言>
 方南町 ほうなんちょう 方南町 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 17D <体言><NE:LOCATION:方南町駅><rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="14"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 17D <rel type="ノ？" target="杉並区" sid="wiki00012128-01-01" id="14"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言><NE:LOCATION:方南町駅>
 駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 + 18D <rel type="ト" target="駅" sid="wiki00012128-01-01" id="13"/><rel type="ノ" target="駅" sid="wiki00012128-01-01" id="16"/><memo text="トノ交替可"/>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 20D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="線" sid="wiki00012128-01-01" id="20"/><rel type="ヲ" target="間" sid="wiki00012128-01-01" id="17"/><rel type="=" target="結ぶ" sid="wiki00012128-01-01" id="8"/>
++ 20D <rel type="ガ" target="線" sid="wiki00012128-01-01" id="20"/><rel type="ヲ" target="間" sid="wiki00012128-01-01" id="17"/><rel type="=" target="結ぶ" sid="wiki00012128-01-01" id="8"/><用言:動><時制:非過去><節-主辞>
 結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 12D
-+ 20D <体言><非用言格解析:動><rel type="ガ" target="線" sid="wiki00012128-01-01" id="20"/><rel type="カラ" target="本線" sid="wiki00012128-01-01" id="9"/>
++ 20D <rel type="ガ" target="線" sid="wiki00012128-01-01" id="20"/><rel type="カラ" target="本線" sid="wiki00012128-01-01" id="9"/><体言><非用言格解析:動>
 分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 21D <体言><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="修飾" target="分岐" sid="wiki00012128-01-01" id="19"/>
++ 21D <rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="修飾" target="分岐" sid="wiki00012128-01-01" id="19"/><体言>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="カラ" target="本線" sid="wiki00012128-01-01" id="9"/><rel type="カラ" mode="AND" target="線" sid="wiki00012128-01-01" id="20"/>
++ -1D <rel type="ガ" target="線" sid="wiki00012128-00-01" id="1"/><rel type="カラ" target="本線" sid="wiki00012128-01-01" id="9"/><rel type="カラ" mode="AND" target="線" sid="wiki00012128-01-01" id="20"/><用言:動><時制:非過去><節-主辞><節-区切>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -121,13 +121,13 @@ EOS
 EOS
 # S-ID:wiki00012128-01-02 括弧始:（ 括弧終:） 括弧位置:55 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
 * -1D
-+ 2D <体言><rel type="ノ" target="線" sid="wiki00012128-01-01" id="20"/>
++ 2D <rel type="ノ" target="線" sid="wiki00012128-01-01" id="20"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="方南町" sid="wiki00012128-01-01" id="15"/>
++ 2D <rel type="=" target="方南町" sid="wiki00012128-01-01" id="15"/><体言>
 方南 ほうなん 方南 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 町 ちょう 町 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <NE:LOCATION:方南町支線><体言><rel type="=構" target="通称" sid="wiki00012128-01-02" id="0"/><rel type="=" mode="AND" target="線" sid="wiki00012128-01-01" id="20"/>
++ -1D <rel type="=構" target="通称" sid="wiki00012128-01-02" id="0"/><rel type="=" mode="AND" target="線" sid="wiki00012128-01-01" id="20"/><NE:LOCATION:方南町支線><体言>
 支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00012128-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/18 MEMO:
@@ -141,7 +141,7 @@ EOS
 + 3D <用言:動><時制:非過去>
 おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 13D <体言><rel type="ニオイテ" target="要覧" sid="wiki00012128-02" id="1"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/>
++ 13D <rel type="ニオイテ" target="要覧" sid="wiki00012128-02" id="1"/><rel type="ノ" target="線" sid="wiki00012128-00-01" id="1"/><体言>
 名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
@@ -152,7 +152,7 @@ EOS
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + 7D <体言>
 丸ノ内 まるのうち 丸ノ内 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 13P <体言><NE:LOCATION:4号線丸ノ内線><rel type="ガ" target="名称" sid="wiki00012128-02" id="3"/><rel type="=" target="本線" sid="wiki00012128-01-01" id="9"/><rel type="=構" mode="AND" target="名称" sid="wiki00012128-02" id="3"/>
++ 13P <rel type="ガ" target="名称" sid="wiki00012128-02" id="3"/><rel type="=" target="本線" sid="wiki00012128-01-01" id="9"/><rel type="=構" mode="AND" target="名称" sid="wiki00012128-02" id="3"/><体言><NE:LOCATION:4号線丸ノ内線>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -165,9 +165,9 @@ EOS
 丸ノ内 まるのうち 丸ノ内 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + 13D <体言>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 13D <体言><非用言格解析:動><rel type="=" target="分岐" sid="wiki00012128-01-01" id="19"/>
++ 13D <rel type="=" target="分岐" sid="wiki00012128-01-01" id="19"/><体言><非用言格解析:動>
 分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:4号線丸ノ内線分岐線><rel type="ガ" target="名称" sid="wiki00012128-02" id="3"/><rel type="=" target="線" sid="wiki00012128-01-01" id="20"/><rel type="=構" mode="AND" target="名称" sid="wiki00012128-02" id="3"/><rel type="ノ" target="線" sid="wiki00012128-02" id="11"/>
++ -1D <rel type="ガ" target="名称" sid="wiki00012128-02" id="3"/><rel type="=" target="線" sid="wiki00012128-01-01" id="20"/><rel type="=構" mode="AND" target="名称" sid="wiki00012128-02" id="3"/><rel type="ノ" target="線" sid="wiki00012128-02" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:4号線丸ノ内線分岐線>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -178,25 +178,25 @@ EOS
 なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <体言><NE:LOCATION:新宿><rel type="ノ？" target="東京" sid="wiki00012128-00-01" id="2"/>
++ 2P <rel type="ノ？" target="東京" sid="wiki00012128-00-01" id="2"/><体言><NE:LOCATION:新宿>
 新宿 しんじゅく 新宿 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 3D <体言><NE:LOCATION:荻窪><rel type="=" target="駅" sid="wiki00012128-01-01" id="6"/>
++ 3D <rel type="=" target="駅" sid="wiki00012128-01-01" id="6"/><体言><NE:LOCATION:荻窪>
 荻窪 おぎくぼ 荻窪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 7P <rel type="ト" target="新宿" sid="wiki00012128-03-01" id="1"/><rel type="ノ" target="荻窪" sid="wiki00012128-03-01" id="2"/><memo text="トノ交替可"/><rel type="ノ？" target="本線" sid="wiki00012128-01-01" id="9"/>
++ 7P <rel type="ト" target="新宿" sid="wiki00012128-03-01" id="1"/><rel type="ノ" target="荻窪" sid="wiki00012128-03-01" id="2"/><rel type="ノ？" target="本線" sid="wiki00012128-01-01" id="9"/><memo text="トノ交替可"/>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 5D <体言>
 中野 なかの 中野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 6P <体言><NE:LOCATION:中野坂上><rel type="=" target="駅" sid="wiki00012128-01-01" id="13"/>
++ 6P <rel type="=" target="駅" sid="wiki00012128-01-01" id="13"/><体言><NE:LOCATION:中野坂上>
 坂上 さかうえ 坂上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 7D <体言><NE:LOCATION:方南町><rel type="=" target="駅" sid="wiki00012128-01-01" id="16"/>
++ 7D <rel type="=" target="駅" sid="wiki00012128-01-01" id="16"/><体言><NE:LOCATION:方南町>
 方南町 ほうなんちょう 方南町 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 15D <rel type="=" target="間" sid="wiki00012128-01-01" id="17"/><rel type="ト" target="坂上" sid="wiki00012128-03-01" id="5"/><rel type="ノ" target="方南町" sid="wiki00012128-03-01" id="6"/><memo text="トノ交替可"/>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -207,23 +207,23 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 10D <体言><rel type="=" target="荻窪" sid="wiki00012128-03-01" id="2"/>
++ 10D <rel type="=" target="荻窪" sid="wiki00012128-03-01" id="2"/><体言>
 荻窪 おぎくぼ 荻窪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 14P <体言><NE:LOCATION:荻窪線><rel type="=構" target="間" sid="wiki00012128-03-01" id="3"/>
++ 14P <rel type="=構" target="間" sid="wiki00012128-03-01" id="3"/><体言><NE:LOCATION:荻窪線>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 12D <体言><rel type="=" target="荻窪" sid="wiki00012128-03-01" id="9"/>
++ 12D <rel type="=" target="荻窪" sid="wiki00012128-03-01" id="9"/><体言>
 荻窪 おぎくぼ 荻窪 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 14D <体言><rel type="=" target="線" sid="wiki00012128-03-01" id="10"/>
++ 14D <rel type="=" target="線" sid="wiki00012128-03-01" id="10"/><体言>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 14D <体言><非用言格解析:動><rel type="=" target="分岐" sid="wiki00012128-01-01" id="19"/>
++ 14D <rel type="=" target="分岐" sid="wiki00012128-01-01" id="19"/><体言><非用言格解析:動>
 分岐 ぶんき 分岐 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 15D <体言><NE:LOCATION:荻窪線分岐線><rel type="=構" target="間" sid="wiki00012128-03-01" id="7"/>
++ 15D <rel type="=構" target="間" sid="wiki00012128-03-01" id="7"/><体言><NE:LOCATION:荻窪線分岐線>
 線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="マデ" target="1972年" sid="wiki00012128-03-01" id="8"/><rel type="ガ" target="間" sid="wiki00012128-03-01" id="7"/><rel type="ガ" mode="AND" target="間" sid="wiki00012128-03-01" id="3"/><rel type="ト" target="線" sid="wiki00012128-03-01" id="10"/><rel type="ト" mode="AND" target="線" sid="wiki00012128-03-01" id="14"/><rel type="ニ" target="不特定:人"/>
++ -1D <rel type="マデ" target="1972年" sid="wiki00012128-03-01" id="8"/><rel type="ガ" target="間" sid="wiki00012128-03-01" id="7"/><rel type="ガ" mode="AND" target="間" sid="wiki00012128-03-01" id="3"/><rel type="ト" target="線" sid="wiki00012128-03-01" id="10"/><rel type="ト" mode="AND" target="線" sid="wiki00012128-03-01" id="14"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -233,14 +233,14 @@ EOS
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <体言><NE:DATE:昭和47年><rel type="=" target="1972年" sid="wiki00012128-03-01" id="8"/>
++ -1D <rel type="=" target="1972年" sid="wiki00012128-03-01" id="8"/><体言><NE:DATE:昭和47年>
 47 よんじゅうしち/よんじゅうなな 47 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00012128-03-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/18 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="荻窪" sid="wiki00012128-03-01" id="9"/>
++ 1D <rel type="=" target="荻窪" sid="wiki00012128-03-01" id="9"/><体言>
 おぎくぼ おぎくぼ おぎくぼ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <体言><NE:LOCATION:おぎくぼせん><rel type="=" target="線" sid="wiki00012128-03-01" id="10"/>
++ -1D <rel type="=" target="線" sid="wiki00012128-03-01" id="10"/><体言><NE:LOCATION:おぎくぼせん>
 せん せん せん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

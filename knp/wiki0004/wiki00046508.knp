@@ -2,14 +2,14 @@
 * 6D
 + 1D <体言>
 ブラック ぶらっく ブラック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 7D <体言><NE:OPTIONAL:ブラックアフリカ><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="ブラック" sid="wiki00046508-00-01" id="0"/>
++ 7D <rel type="修飾" target="ブラック" sid="wiki00046508-00-01" id="0"/><体言><NE:OPTIONAL:ブラックアフリカ><NE-OPTIONAL:LOCATION,NONE:0>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:LOCATION:アフリカ><rel type="=≒" target="アフリカ" sid="wiki00046508-00-01" id="1"/>
++ 3D <rel type="=≒" target="アフリカ" sid="wiki00046508-00-01" id="1"/><体言><NE:LOCATION:アフリカ>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -20,21 +20,21 @@
 ネグロイド ねぐろいど ネグロイド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <用言:形><時制:非過去><rel type="ガ" target="ネグロイド" sid="wiki00046508-00-01" id="4"/>
++ 6D <rel type="ガ" target="ネグロイド" sid="wiki00046508-00-01" id="4"/><用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 6D
 + 7D <rel type="ガ" target="ネグロイド" sid="wiki00046508-00-01" id="4"/><rel type="ニ" target="地域" sid="wiki00046508-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 居住 きょじゅう 居住 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ノ？" target="アフリカ" sid="wiki00046508-00-01" id="2"/>
++ -1D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="=構" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ノ？" target="アフリカ" sid="wiki00046508-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00046508-00-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/20 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="ネグロイド" sid="wiki00046508-00-01" id="4"/>
++ -1D <rel type="=" target="ネグロイド" sid="wiki00046508-00-01" id="4"/><体言>
 黒人 こくじん 黒人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00046508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2024/03/27 MEMO:
@@ -43,19 +43,19 @@ EOS
 コーカソイド こーかそいど コーカソイド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <用言:形><rel type="ガ" target="コーカソイド" sid="wiki00046508-01-01" id="0"/>
++ 2D <rel type="ガ" target="コーカソイド" sid="wiki00046508-01-01" id="0"/><用言:形>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 3D
-+ 4D <rel type="ガ" target="コーカソイド" sid="wiki00046508-01-01" id="0"/><rel type="ニ" target="アフリカ" sid="wiki00046508-01-01" id="4"/><用言:動><時制:非過去><節-主辞><rel type="=≒" target="居住する" sid="wiki00046508-00-01" id="6"/>
++ 4D <rel type="ガ" target="コーカソイド" sid="wiki00046508-01-01" id="0"/><rel type="ニ" target="アフリカ" sid="wiki00046508-01-01" id="4"/><rel type="=≒" target="居住する" sid="wiki00046508-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 住む すむ 住む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 * 4D
 + 4D <体言>
 ホワイト ほわいと ホワイト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 5D <体言><NE:OPTIONAL:ホワイトアフリカ><NE-OPTIONAL:LOCATION,NONE:0><rel type="=≒" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="修飾" target="ホワイト" sid="wiki00046508-01-01" id="3"/>
++ 5D <rel type="=≒" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="修飾" target="ホワイト" sid="wiki00046508-01-01" id="3"/><体言><NE:OPTIONAL:ホワイトアフリカ><NE-OPTIONAL:LOCATION,NONE:0>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="アフリカ" sid="wiki00046508-01-01" id="4"/><rel type="外の関係" target="時" sid="wiki00046508-01-01" id="6"/>
++ 6D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="アフリカ" sid="wiki00046508-01-01" id="4"/><rel type="外の関係" target="時" sid="wiki00046508-01-01" id="6"/><用言:動><時制:非過去><節-主辞>
 対比 たいひ 対比 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -64,30 +64,30 @@ EOS
 時 とき 時 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><rel type="外の関係" target="ケース" sid="wiki00046508-01-01" id="8"/><rel type="時間" target="時" sid="wiki00046508-01-01" id="6"/>
++ 8D <rel type="ガ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="ケース" sid="wiki00046508-01-01" id="8"/><rel type="時間" target="時" sid="wiki00046508-01-01" id="6"/><用言:動><時制:非過去>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 9D
-+ 10D <体言><rel type="トイウ" target="使われる" sid="wiki00046508-01-01" id="7"/>
++ 10D <rel type="トイウ" target="使われる" sid="wiki00046508-01-01" id="7"/><体言>
 ケース けーす ケース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9D
 + 10D <rel type="ガ" target="ケース" sid="wiki00046508-01-01" id="8"/><用言:形>
 多く おおく 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="ケース" sid="wiki00046508-01-01" id="8"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="アフリカ" sid="wiki00046508-00-01" id="1"/>
++ -1D <rel type="ガ" target="ケース" sid="wiki00046508-01-01" id="8"/><rel type="ニ" target="アフリカ" sid="wiki00046508-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00046508-01-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/20 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="コーカソイド" sid="wiki00046508-01-01" id="0"/>
++ -1D <rel type="=" target="コーカソイド" sid="wiki00046508-01-01" id="0"/><体言>
 白人 はくじん 白人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00046508-01-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/27 MEMO:
 * -1D
 + 1D <体言>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <NE:LOCATION:北アフリカ><rel type="=" target="アフリカ" sid="wiki00046508-01-01" id="4"/><rel type="修飾" target="北" sid="wiki00046508-01-03" id="0"/><体言>
++ -1D <rel type="=" target="アフリカ" sid="wiki00046508-01-01" id="4"/><rel type="修飾" target="北" sid="wiki00046508-01-03" id="0"/><NE:LOCATION:北アフリカ><体言>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS

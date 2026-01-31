@@ -2,44 +2,44 @@
 * 5D
 + 1D <体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="動物" sid="wiki00054508-00-01" id="0"/>
++ 2D <rel type="ガ" target="動物" sid="wiki00054508-00-01" id="0"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ニカンシテ" target="行動" sid="wiki00054508-00-01" id="1"/>
++ 9D <rel type="ニカンシテ" target="行動" sid="wiki00054508-00-01" id="1"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="=≒" target="動物" sid="wiki00054508-00-01" id="0"/>
++ 4D <rel type="=≒" target="動物" sid="wiki00054508-00-01" id="0"/><体言>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="生物" sid="wiki00054508-00-01" id="3"/><rel type="=≒" target="行動" sid="wiki00054508-00-01" id="1"/>
++ 5D <rel type="ガ" target="生物" sid="wiki00054508-00-01" id="3"/><rel type="=≒" target="行動" sid="wiki00054508-00-01" id="1"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行動" sid="wiki00054508-00-01" id="4"/><rel type="外の関係" target="学" sid="wiki00054508-00-01" id="7"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行動" sid="wiki00054508-00-01" id="4"/><rel type="外の関係" target="学" sid="wiki00054508-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
 + 7D <体言>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ニカンシテ" target="生物" sid="wiki00054508-00-01" id="6"/><rel type="トイウ" target="研究する" sid="wiki00054508-00-01" id="5"/><rel type="=≒" target="学" sid="wiki00054508-00-01" id="2"/>
++ 9D <rel type="ニカンシテ" target="生物" sid="wiki00054508-00-01" id="6"/><rel type="トイウ" target="研究する" sid="wiki00054508-00-01" id="5"/><rel type="=≒" target="学" sid="wiki00054508-00-01" id="2"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 9D <体言>
 一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="学" sid="wiki00054508-00-01" id="2"/><rel type="ノ" target="学" sid="wiki00054508-00-01" id="7"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/><memo text="CO"/><rel type="修飾" target="一" sid="wiki00054508-00-01" id="8"/>
++ -1D <rel type="ガ" target="学" sid="wiki00054508-00-01" id="2"/><rel type="ノ" target="学" sid="wiki00054508-00-01" id="7"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/><rel type="修飾" target="一" sid="wiki00054508-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054508-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/11/20 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/>
++ 1D <rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/><体言>
 どうぶつ どうぶつ どうぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/>
++ 2D <rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/><体言>
 こうどう こうどう こうどう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="学" sid="wiki00054508-00-01" id="2"/>
++ -1D <rel type="=" target="学" sid="wiki00054508-00-01" id="2"/><体言>
 がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00054508-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:105.00000 MOD:2024/03/25 MEMO:
@@ -49,45 +49,45 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 5D <用言:形><時制:非過去><rel type="ガ" target="訳されている" sid="wiki00054508-01-01" id="5"/>
++ 5D <rel type="ガ" target="訳されている" sid="wiki00054508-01-01" id="5"/><用言:形><時制:非過去>
 伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 3D
-+ 3D <体言><rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/>
++ 3D <rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/><体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="動物" sid="wiki00054508-01-01" id="2"/><rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/>
++ 4D <rel type="ガ" target="動物" sid="wiki00054508-01-01" id="2"/><rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=" target="学" sid="wiki00054508-00-01" id="2"/>
++ 5D <rel type="=" target="学" sid="wiki00054508-00-01" id="2"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 16D <用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="日本" sid="wiki00054508-01-01" id="0"/><rel type="ト" target="学" sid="wiki00054508-01-01" id="4"/><rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="修飾" target="伝統的に" sid="wiki00054508-01-01" id="1"/><rel type="修飾" mode="？" target="なし"/>
++ 16D <rel type="デ" target="日本" sid="wiki00054508-01-01" id="0"/><rel type="ト" target="学" sid="wiki00054508-01-01" id="4"/><rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="修飾" target="伝統的に" sid="wiki00054508-01-01" id="1"/><rel type="修飾" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞><節-区切>
 訳さ やくさ 訳す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="ノ" target="学" sid="wiki00054508-01-01" id="4"/>
++ 7D <rel type="ノ" target="学" sid="wiki00054508-01-01" id="4"/><体言>
 原語 げんご 原語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 16D <体言><rel type="修飾" target="原語" sid="wiki00054508-01-01" id="6"/><rel type="=構" target="原語" sid="wiki00054508-01-01" id="6"/><rel type="=" mode="AND" target="分野" sid="wiki00054508-00-01" id="9"/>
++ 16D <rel type="修飾" target="原語" sid="wiki00054508-01-01" id="6"/><rel type="=構" target="原語" sid="wiki00054508-01-01" id="6"/><rel type="=" mode="AND" target="分野" sid="wiki00054508-00-01" id="9"/><体言>
 エソロジー えそろじー エソロジー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 9D <体言><NE:OPTIONAL:ギリシャ><NE-OPTIONAL:LOCATION,NONE:0>
 ギリシャ ぎりしゃ ギリシャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 10D <体言><rel type="ノ？" target="ギリシャ" sid="wiki00054508-01-01" id="8"/>
++ 10D <rel type="ノ？" target="ギリシャ" sid="wiki00054508-01-01" id="8"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 8D
-+ 11D <体言><rel type="修飾" target="語" sid="wiki00054508-01-01" id="9"/><rel type="=構" target="語" sid="wiki00054508-01-01" id="9"/>
++ 11D <rel type="修飾" target="語" sid="wiki00054508-01-01" id="9"/><rel type="=構" target="語" sid="wiki00054508-01-01" id="9"/><体言>
 ethos ethos ethos 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 16D <用言:動><節-主辞><節-区切><時制:非過去><rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="ニ" target="ethos" sid="wiki00054508-01-01" id="10"/>
++ 16D <rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="ニ" target="ethos" sid="wiki00054508-01-01" id="10"/><用言:動><節-主辞><節-区切><時制:非過去>
 由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -95,32 +95,32 @@ ethos ethos ethos 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 14D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 11D
-+ 14D <体言><rel type="=" target="動物" sid="wiki00054508-01-01" id="2"/>
++ 14D <rel type="=" target="動物" sid="wiki00054508-01-01" id="2"/><体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 15D <用言:動><時制:非過去><節-主辞><rel type="ニ" target="動物" sid="wiki00054508-01-01" id="13"/><rel type="外の関係" target="ニュアンス" sid="wiki00054508-01-01" id="15"/><rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/>
++ 15D <rel type="ニ" target="動物" sid="wiki00054508-01-01" id="13"/><rel type="外の関係" target="ニュアンス" sid="wiki00054508-01-01" id="15"/><rel type="ガ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><用言:動><時制:非過去><節-主辞>
 限定 げんてい 限定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13D
-+ 16D <体言><rel type="トイウ" target="限定する" sid="wiki00054508-01-01" id="14"/><rel type="ノ" target="エソロジー" sid="wiki00054508-01-01" id="7"/>
++ 16D <rel type="トイウ" target="限定する" sid="wiki00054508-01-01" id="14"/><rel type="ノ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><体言>
 ニュアンス にゅあんす ニュアンス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:形><時制:非過去><節-主辞><節-区切><rel type="ガ" target="ニュアンス" sid="wiki00054508-01-01" id="15"/><rel type="ニ" target="エソロジー" sid="wiki00054508-01-01" id="7"/>
++ -1D <rel type="ガ" target="ニュアンス" sid="wiki00054508-01-01" id="15"/><rel type="ニ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><用言:形><時制:非過去><節-主辞><節-区切>
 ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054508-01-02 括弧始:（ 括弧終:） 括弧位置:43 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/21 MEMO:
 * 1P
-+ 2D <体言><rel type="=" target="ethos" sid="wiki00054508-01-01" id="10"/>
++ 2D <rel type="=" target="ethos" sid="wiki00054508-01-01" id="10"/><体言>
 エートス えーとす エートス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 2P <体言><rel type="=" target="エートス" sid="wiki00054508-01-02" id="0"/>
++ 2P <rel type="=" target="エートス" sid="wiki00054508-01-02" id="0"/><体言>
 特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="エートス" sid="wiki00054508-01-02" id="0"/>
++ -1D <rel type="=" target="エートス" sid="wiki00054508-01-02" id="0"/><体言>
 気質 きしつ 気質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00054508-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:74.00000 MOD:2024/03/25 MEMO:
@@ -128,32 +128,32 @@ EOS
 + 1D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 19D
-+ 25D <体言><rel type="ノ" target="ない" sid="wiki00054508-01-01" id="16"/>
++ 25D <rel type="ノ" target="ない" sid="wiki00054508-01-01" id="16"/><体言>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 * 4P
-+ 4D <体言><非用言格解析:動><rel type="=" target="行動" sid="wiki00054508-00-01" id="4"/><rel type="ガ" target="生物" sid="wiki00054508-02-01" id="3"/>
++ 4D <rel type="=" target="行動" sid="wiki00054508-00-01" id="4"/><rel type="ガ" target="生物" sid="wiki00054508-02-01" id="3"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="ニカンシテ" target="生物" sid="wiki00054508-02-01" id="3"/><rel type="ニカンシテ" mode="AND" target="行動" sid="wiki00054508-02-01" id="2"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/>
++ 7P <rel type="ニカンシテ" target="生物" sid="wiki00054508-02-01" id="3"/><rel type="ニカンシテ" mode="AND" target="行動" sid="wiki00054508-02-01" id="2"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 7D
 単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 7D <体言><非用言格解析:動><rel type="ガ" target="生物" sid="wiki00054508-02-01" id="3"/><rel type="=" target="行動" sid="wiki00054508-02-01" id="2"/>
++ 7D <rel type="ガ" target="生物" sid="wiki00054508-02-01" id="3"/><rel type="=" target="行動" sid="wiki00054508-02-01" id="2"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ニカンシテ" target="行動" sid="wiki00054508-02-01" id="6"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/>
++ 8D <rel type="ニカンシテ" target="行動" sid="wiki00054508-02-01" id="6"/><rel type="=構" target="学" sid="wiki00054508-00-01" id="2"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 9D <用言:動><時制:非過去><節-主辞><rel type="ト" target="学" sid="wiki00054508-02-01" id="4"/><rel type="ト" mode="AND" target="学" sid="wiki00054508-02-01" id="7"/><rel type="外の関係" target="ほか" sid="wiki00054508-02-01" id="9"/><rel type="ガ" target="学" sid="wiki00054508-00-01" id="2"/>
++ 9D <rel type="ト" target="学" sid="wiki00054508-02-01" id="4"/><rel type="ト" mode="AND" target="学" sid="wiki00054508-02-01" id="7"/><rel type="外の関係" target="ほか" sid="wiki00054508-02-01" id="9"/><rel type="ガ" target="学" sid="wiki00054508-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 19D
-+ 25D <体言><節-区切><rel type="ノ" target="呼ばれる" sid="wiki00054508-02-01" id="8"/>
++ 25D <rel type="ノ" target="呼ばれる" sid="wiki00054508-02-01" id="8"/><体言><節-区切>
 ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
@@ -161,55 +161,55 @@ EOS
 時 とき 時 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行動" sid="wiki00054508-02-01" id="12"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="行動" sid="wiki00054508-02-01" id="12"/><体言><非用言格解析:動>
 比較 ひかく 比較 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><非用言格解析:動><rel type="=" target="行動" sid="wiki00054508-02-01" id="6"/>
++ 13D <rel type="=" target="行動" sid="wiki00054508-02-01" id="6"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="ニカンシテ" target="行動" sid="wiki00054508-02-01" id="12"/>
++ 14D <rel type="ニカンシテ" target="行動" sid="wiki00054508-02-01" id="12"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 15D <体言><rel type="トイウ" target="学" sid="wiki00054508-02-01" id="13"/><rel type="ノ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="=構" target="学" sid="wiki00054508-02-01" id="13"/>
++ 15D <rel type="トイウ" target="学" sid="wiki00054508-02-01" id="13"/><rel type="ノ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="=構" target="学" sid="wiki00054508-02-01" id="13"/><体言>
 訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19P
-+ 25P <用言:動><節-主辞><節-区切><時制:非過去><rel type="ガ" target="訳語" sid="wiki00054508-02-01" id="14"/><rel type="ニ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="ニ" mode="？" target="分野" sid="wiki00054508-00-01" id="9"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ 25P <rel type="ガ" target="訳語" sid="wiki00054508-02-01" id="14"/><rel type="ニ" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="ニ" mode="？" target="分野" sid="wiki00054508-00-01" id="9"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><節-主辞><節-区切><時制:非過去>
 当て あて 当てる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られたり られたり られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用タリ形 15 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 17D <体言><rel type="=" target="エソロジー" sid="wiki00054508-01-01" id="7"/>
++ 17D <rel type="=" target="エソロジー" sid="wiki00054508-01-01" id="7"/><体言>
 訳語 やくご 訳語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 18D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="訳語" sid="wiki00054508-02-01" id="16"/>
++ 18D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="訳語" sid="wiki00054508-02-01" id="16"/><体言><非用言格解析:動>
 混乱 こんらん 混乱 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 23D <用言:動><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="混乱" sid="wiki00054508-02-01" id="17"/>
++ 23D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="混乱" sid="wiki00054508-02-01" id="17"/><用言:動><節-主辞><節-区切>
 嫌って きらって 嫌う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL <基本句-主辞>
 * 15D
-+ 20D <体言><NE:OPTIONAL:欧><NE-OPTIONAL:LOCATION,NONE:0><rel type="=≒" target="語" sid="wiki00054508-01-01" id="9"/>
++ 20D <rel type="=≒" target="語" sid="wiki00054508-01-01" id="9"/><体言><NE:OPTIONAL:欧><NE-OPTIONAL:LOCATION,NONE:0>
 欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 21D <体言><rel type="ノ？" target="欧" sid="wiki00054508-02-01" id="19"/>
++ 21D <rel type="ノ？" target="欧" sid="wiki00054508-02-01" id="19"/><体言>
 名 めい 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
-+ 23D <体言><rel type="ノ" target="名" sid="wiki00054508-02-01" id="20"/>
++ 23D <rel type="ノ" target="名" sid="wiki00054508-02-01" id="20"/><体言>
 まま まま まま 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 * 17D
-+ 23D <体言><rel type="=" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="=構" mode="AND" target="名" sid="wiki00054508-02-01" id="20"/>
++ 23D <rel type="=" target="エソロジー" sid="wiki00054508-01-01" id="7"/><rel type="=構" mode="AND" target="名" sid="wiki00054508-02-01" id="20"/><体言>
 エソロジー えそろじー エソロジー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 24D <用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ト" target="エソロジー" sid="wiki00054508-02-01" id="22"/><rel type="ヲ" target="分野" sid="wiki00054508-00-01" id="9"/><rel type="修飾" target="まま" sid="wiki00054508-02-01" id="21"/><rel type="外の関係" target="場合" sid="wiki00054508-02-01" id="24"/>
++ 24D <rel type="ガ" target="不特定:人"/><rel type="ト" target="エソロジー" sid="wiki00054508-02-01" id="22"/><rel type="ヲ" target="分野" sid="wiki00054508-00-01" id="9"/><rel type="修飾" target="まま" sid="wiki00054508-02-01" id="21"/><rel type="外の関係" target="場合" sid="wiki00054508-02-01" id="24"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 19D
-+ 25D <体言><rel type="修飾" target="呼ぶ" sid="wiki00054508-02-01" id="23"/>
++ 25D <rel type="修飾" target="呼ぶ" sid="wiki00054508-02-01" id="23"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="場合" sid="wiki00054508-02-01" id="24"/>
++ -1D <rel type="ガ" target="場合" sid="wiki00054508-02-01" id="24"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -220,54 +220,54 @@ EOS
 * -1D
 + 2D <体言>
 医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ノ" target="医学" sid="wiki00054508-02-02" id="1"/><rel type="ガ" target="学" sid="wiki00054508-02-01" id="4"/><体言><時制:非過去><節-主辞><節-区切><用言:判><rel type="ニオイテ" target="領域" sid="wiki00054508-02-02" id="2"/><memo text="？ 文としてタグ付け"/>
++ -1D <rel type="ノ" target="医学" sid="wiki00054508-02-02" id="1"/><rel type="ガ" target="学" sid="wiki00054508-02-01" id="4"/><rel type="ニオイテ" target="領域" sid="wiki00054508-02-02" id="2"/><memo text="？ 文としてタグ付け"/><体言><時制:非過去><節-主辞><節-区切><用言:判>
 領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00054508-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2024/03/25 MEMO:
 * 5D
-+ 7D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="=≒" target="欧" sid="wiki00054508-02-01" id="19"/>
++ 7D <rel type="=≒" target="欧" sid="wiki00054508-02-01" id="19"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="=" target="エソロジー" sid="wiki00054508-02-01" id="22"/>
++ 2D <rel type="=" target="エソロジー" sid="wiki00054508-02-01" id="22"/><体言>
 エソロジー えそろじー エソロジー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="エソロジー" sid="wiki00054508-03-01" id="1"/><rel type="デ" target="英語" sid="wiki00054508-03-01" id="0"/><rel type="ノ" target="エソロジー" sid="wiki00054508-03-01" id="1"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="エソロジー" sid="wiki00054508-03-01" id="1"/><rel type="デ" target="英語" sid="wiki00054508-03-01" id="0"/><rel type="ノ" target="エソロジー" sid="wiki00054508-03-01" id="1"/><体言><非用言格解析:動>
 説明 せつめい 説明 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 7D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 5D <体言><rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/>
++ 5D <rel type="=" target="動物" sid="wiki00054508-00-01" id="0"/><体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="動物" sid="wiki00054508-03-01" id="4"/><rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/>
++ 6D <rel type="ガ" target="動物" sid="wiki00054508-03-01" id="4"/><rel type="=" target="行動" sid="wiki00054508-00-01" id="1"/><体言><非用言格解析:動>
 行動 こうどう 行動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="=" target="学" sid="wiki00054508-00-01" id="2"/><rel type="=構" mode="AND" target="エソロジー" sid="wiki00054508-03-01" id="1"/>
++ 7D <rel type="=" target="学" sid="wiki00054508-00-01" id="2"/><rel type="=構" mode="AND" target="エソロジー" sid="wiki00054508-03-01" id="1"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="トシテ" target="説明" sid="wiki00054508-03-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="英語" sid="wiki00054508-03-01" id="0"/><rel type="ト" target="学" sid="wiki00054508-03-01" id="6"/>
++ -1D <rel type="トシテ" target="説明" sid="wiki00054508-03-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="英語" sid="wiki00054508-03-01" id="0"/><rel type="ト" target="学" sid="wiki00054508-03-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054508-03-02 括弧始:（ 括弧終:） 括弧位置:20 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="学" sid="wiki00054508-03-01" id="6"/>
++ 1D <rel type="=" target="学" sid="wiki00054508-03-01" id="6"/><体言>
 study study study 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 4D <体言>
 of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 4D <体言><rel type="=" target="動物" sid="wiki00054508-03-01" id="4"/>
++ 4D <rel type="=" target="動物" sid="wiki00054508-03-01" id="4"/><体言>
 animal animal animal 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 4D <体言>
 behavioral behavioral behavioral 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="学" sid="wiki00054508-03-01" id="6"/><rel type="=" mode="AND" target="行動" sid="wiki00054508-03-01" id="5"/>
++ -1D <rel type="=" target="学" sid="wiki00054508-03-01" id="6"/><rel type="=" mode="AND" target="行動" sid="wiki00054508-03-01" id="5"/><体言>
 patterns patterns patterns 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

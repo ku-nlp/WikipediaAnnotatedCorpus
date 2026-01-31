@@ -14,7 +14,7 @@
 マーケット まーけっと マーケット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5D <rel type="ガ" target="会" sid="wiki00013552-00-01" id="5"/><rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="3"/><体言><非用言格解析:動>
 準備 じゅんび 準備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 6D <体言><NE:ORGANIZATION:コミックマーケット準備会><rel type="ノ？" target="準備" sid="wiki00013552-00-01" id="4"/>
++ 6D <rel type="ノ？" target="準備" sid="wiki00013552-00-01" id="4"/><体言><NE:ORGANIZATION:コミックマーケット準備会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -24,26 +24,26 @@
 * 4D
 + 8D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="会" sid="wiki00013552-00-01" id="12"/><用言:形><時制:非過去><rel type="デ" target="世界" sid="wiki00013552-00-01" id="7"/>
++ 12D <rel type="ガ" target="会" sid="wiki00013552-00-01" id="12"/><rel type="デ" target="世界" sid="wiki00013552-00-01" id="7"/><用言:形><時制:非過去>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
 + 10D <体言>
 同人 どうじん 同人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ノ？" target="同人" sid="wiki00013552-00-01" id="9"/>
++ 11D <rel type="ノ？" target="同人" sid="wiki00013552-00-01" id="9"/><体言>
 誌 し 誌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="誌" sid="wiki00013552-00-01" id="10"/><体言><非用言格解析:動><rel type="デ" target="会" sid="wiki00013552-00-01" id="12"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="誌" sid="wiki00013552-00-01" id="10"/><rel type="デ" target="会" sid="wiki00013552-00-01" id="12"/><体言><非用言格解析:動>
 即売 そくばい 即売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="マーケット" sid="wiki00013552-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="最大の" sid="wiki00013552-00-01" id="8"/><rel type="=構" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ノ？" target="即売" sid="wiki00013552-00-01" id="11"/>
++ -1D <rel type="ガ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="修飾" target="最大の" sid="wiki00013552-00-01" id="8"/><rel type="=構" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ノ？" target="即売" sid="wiki00013552-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013552-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/05 MEMO:
 * 1P
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ト" target="コミケ" sid="wiki00013552-00-02" id="1"/><rel type="ト" mode="AND" target="コミケット" sid="wiki00013552-00-02" id="2"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ト" target="コミケ" sid="wiki00013552-00-02" id="1"/><rel type="ト" mode="AND" target="コミケット" sid="wiki00013552-00-02" id="2"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 2P <体言><rel type="=構" target="略称" sid="wiki00013552-00-02" id="0"/><rel type="=" mode="AND" target="マーケット" sid="wiki00013552-00-01" id="1"/><NE:OPTIONAL:コミケ><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 2P <rel type="=構" target="略称" sid="wiki00013552-00-02" id="0"/><rel type="=" mode="AND" target="マーケット" sid="wiki00013552-00-01" id="1"/><体言><NE:OPTIONAL:コミケ><NE-OPTIONAL:ARTIFACT,NONE:0>
 コミケ こみけ コミケ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -63,32 +63,32 @@ EOS
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="コミック" sid="wiki00013552-00-01" id="0"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="コミック" sid="wiki00013552-00-01" id="0"/><体言><非用言格解析:動>
 批評 ひひょう 批評 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="批評" sid="wiki00013552-01" id="3"/>
++ 6D <rel type="ノ？" target="批評" sid="wiki00013552-01" id="3"/><体言>
 集団 しゅうだん 集団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 4D
 + 6D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 迷宮 めいきゅう/らびりんす 迷宮 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 9D <体言><rel type="=構" target="集団" sid="wiki00013552-01" id="4"/><rel type="修飾" target="集団" sid="wiki00013552-01" id="4"/><NE:ORGANIZATION:迷宮'75>
++ 9D <rel type="=構" target="集団" sid="wiki00013552-01" id="4"/><rel type="修飾" target="集団" sid="wiki00013552-01" id="4"/><体言><NE:ORGANIZATION:迷宮'75>
 ' ' ' 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 75 ななじゅうご 75 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9D <用言:形><時制:非過去><rel type="ガ" target="企画" sid="wiki00013552-01" id="8"/><rel type="ガ" mode="AND" target="主催" sid="wiki00013552-01" id="9"/>
++ 9D <rel type="ガ" target="企画" sid="wiki00013552-01" id="8"/><rel type="ガ" mode="AND" target="主催" sid="wiki00013552-01" id="9"/><用言:形><時制:非過去>
 実質 じっしつ 実質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 5D
-+ 9P <rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><体言><非用言格解析:動><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/><rel type="修飾" target="実質的な" sid="wiki00013552-01" id="7"/>
++ 9P <rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/><rel type="修飾" target="実質的な" sid="wiki00013552-01" id="7"/><体言><非用言格解析:動>
 企画 きかく 企画 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D <rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><体言><非用言格解析:動><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/><rel type="修飾" target="実質的な" sid="wiki00013552-01" id="7"/>
++ 10D <rel type="ヲ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/><rel type="修飾" target="実質的な" sid="wiki00013552-01" id="7"/><体言><非用言格解析:動>
 主催 しゅさい 主催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 20D <体言><rel type="ノ" target="企画" sid="wiki00013552-01" id="8"/><rel type="ノ" mode="AND" target="主催" sid="wiki00013552-01" id="9"/>
++ 20D <rel type="ノ" target="企画" sid="wiki00013552-01" id="8"/><rel type="ノ" mode="AND" target="主催" sid="wiki00013552-01" id="9"/><体言>
 もと もと もと 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 7D
 + 15D
@@ -104,13 +104,13 @@ EOS
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 17D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 17D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 18D <rel type="ノ" target="ビル内" sid="wiki00013552-01" id="15"/><体言><rel type="ノ？" target="会議" sid="wiki00013552-01" id="16"/>
++ 18D <rel type="ノ" target="ビル内" sid="wiki00013552-01" id="15"/><rel type="ノ？" target="会議" sid="wiki00013552-01" id="16"/><体言>
 室 しつ 室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 20D <rel type="ヲ" target="室" sid="wiki00013552-01" id="17"/><用言:動><節-主辞><節-区切><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/>
++ 20D <rel type="ヲ" target="室" sid="wiki00013552-01" id="17"/><rel type="ガ" target="'75" sid="wiki00013552-01" id="6"/><用言:動><節-主辞><節-区切>
 借りて かりて 借りる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 10D
 + 20D <体言>
@@ -118,17 +118,17 @@ EOS
 サークル さーくる サークル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 25P <rel type="ニ" target="マーケット" sid="wiki00013552-00-01" id="1"/><用言:動><節-主辞><節-区切><rel type="修飾" target="もと" sid="wiki00013552-01" id="10"/><rel type="ガ" target="32サークル" sid="wiki00013552-01" id="19"/><rel type="時間" target="21日" sid="wiki00013552-01" id="2"/>
++ 25P <rel type="ニ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="修飾" target="もと" sid="wiki00013552-01" id="10"/><rel type="ガ" target="32サークル" sid="wiki00013552-01" id="19"/><rel type="時間" target="21日" sid="wiki00013552-01" id="2"/><用言:動><節-主辞><節-区切>
 出展 しゅってん 出展 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 12D
-+ 22D <rel type="ニ" target="マーケット" sid="wiki00013552-00-01" id="1"/><体言><非用言格解析:動><rel type="ガ" target="者" sid="wiki00013552-01" id="22"/>
++ 22D <rel type="ニ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ガ" target="者" sid="wiki00013552-01" id="22"/><体言><非用言格解析:動>
 参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 23D <体言><rel type="ノ？" target="参加" sid="wiki00013552-01" id="21"/><rel type="=≒" target="32サークル" sid="wiki00013552-01" id="19"/>
++ 23D <rel type="ノ？" target="参加" sid="wiki00013552-01" id="21"/><rel type="=≒" target="32サークル" sid="wiki00013552-01" id="19"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 * 13D
-+ 25D <体言><rel type="=構" target="者" sid="wiki00013552-01" id="22"/><rel type="ノ" target="者" sid="wiki00013552-01" id="22"/>
++ 25D <rel type="=構" target="者" sid="wiki00013552-01" id="22"/><rel type="ノ" target="者" sid="wiki00013552-01" id="22"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 700 ななひゃく 700 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
@@ -136,7 +136,7 @@ EOS
 * -1D
 + 25D
 初 はつ 初 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="21日" sid="wiki00013552-01" id="2"/><rel type="修飾" target="初" sid="wiki00013552-01" id="24"/><rel type="デ" target="約700人" sid="wiki00013552-01" id="23"/><rel type="デ" mode="？" target="なし"/>
++ -1D <rel type="ガ" target="マーケット" sid="wiki00013552-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="21日" sid="wiki00013552-01" id="2"/><rel type="修飾" target="初" sid="wiki00013552-01" id="24"/><rel type="デ" target="約700人" sid="wiki00013552-01" id="23"/><rel type="デ" mode="？" target="なし"/><用言:動><時制:過去><節-主辞><節-区切>
 開催 かいさい 開催 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

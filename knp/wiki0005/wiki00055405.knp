@@ -8,13 +8,13 @@
 * 2D
 + 2D <体言>
 人形 にんぎょう 人形 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><memo text="人形芝居と浄瑠璃が結びついたもの"/><rel type="修飾" target="人形" sid="wiki00055405-00-01" id="1"/>
++ 3D <rel type="修飾" target="人形" sid="wiki00055405-00-01" id="1"/><memo text="人形芝居と浄瑠璃が結びついたもの"/><体言>
 浄瑠璃 じょうるり 浄瑠璃 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ニヨッテ" target="浄瑠璃" sid="wiki00055405-00-01" id="2"/>
++ 4D <rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ニヨッテ" target="浄瑠璃" sid="wiki00055405-00-01" id="2"/><体言>
 文楽 ぶんらく 文楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ノ" target="文楽" sid="wiki00055405-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ノ" target="文楽" sid="wiki00055405-00-01" id="3"/><rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -35,20 +35,20 @@ EOS
 * 3D
 + 3D <rel type="ノ" target="浄瑠璃" sid="wiki00055405-01" id="6"/><体言>
 本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=構" target="大阪" sid="wiki00055405-01" id="0"/><rel type="修飾" target="本拠" sid="wiki00055405-01" id="2"/><rel type="ノ？" target="浄瑠璃" sid="wiki00055405-01" id="6"/>
++ 4D <rel type="=構" target="大阪" sid="wiki00055405-01" id="0"/><rel type="修飾" target="本拠" sid="wiki00055405-01" id="2"/><rel type="ノ？" target="浄瑠璃" sid="wiki00055405-01" id="6"/><体言>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="浄瑠璃" sid="wiki00055405-01" id="6"/><rel type="ヲ" target="大阪" sid="wiki00055405-01" id="0"/><rel type="ト" target="地" sid="wiki00055405-01" id="3"/>
++ 6D <rel type="ガ" target="浄瑠璃" sid="wiki00055405-01" id="6"/><rel type="ヲ" target="大阪" sid="wiki00055405-01" id="0"/><rel type="ト" target="地" sid="wiki00055405-01" id="3"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 6D <体言><rel type="=" target="人形" sid="wiki00055405-00-01" id="1"/>
++ 6D <rel type="=" target="人形" sid="wiki00055405-00-01" id="1"/><体言>
 人形 にんぎょう 人形 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="=" target="浄瑠璃" sid="wiki00055405-00-01" id="2"/><体言>
 浄瑠璃 じょうるり 浄瑠璃 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ノ" target="浄瑠璃" sid="wiki00055405-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/>
++ -1D <rel type="ガ" target="文楽" sid="wiki00055405-00-01" id="0"/><rel type="ノ" target="浄瑠璃" sid="wiki00055405-01" id="6"/><rel type="=構" target="文楽" sid="wiki00055405-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 系譜 けいふ 系譜 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

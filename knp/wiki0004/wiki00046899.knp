@@ -5,14 +5,14 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="不特定:物"/>
++ 2D <rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="不特定:物"/><体言>
 腎臓 じんぞう 腎臓 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 3D <用言:動>
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 5D
-+ 7D <rel type="ガ" target="物" sid="wiki00046899-00-01" id="7"/><用言:動><時制:非過去><rel type="ニヨッテ" target="腎臓" sid="wiki00046899-00-01" id="1"/>
++ 7D <rel type="ガ" target="物" sid="wiki00046899-00-01" id="7"/><rel type="ニヨッテ" target="腎臓" sid="wiki00046899-00-01" id="1"/><用言:動><時制:非過去>
 生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -23,9 +23,9 @@
 状 じょう 状 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <rel type="ヲ" target="物" sid="wiki00046899-00-01" id="7"/><体言><非用言格解析:動><rel type="ガ" target="不特定:物"/><rel type="ガ" mode="AND" target="不特定:人"/>
++ 7D <rel type="ヲ" target="物" sid="wiki00046899-00-01" id="7"/><rel type="ガ" target="不特定:物"/><rel type="ガ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
 排泄 はいせつ 排泄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="尿" sid="wiki00046899-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/><memo text="CO"/><rel type="ノ？" target="排泄" sid="wiki00046899-00-01" id="6"/><rel type="トイウ" target="生産される" sid="wiki00046899-00-01" id="3"/><rel type="修飾" target="状" sid="wiki00046899-00-01" id="5"/>
++ -1D <rel type="ガ" target="尿" sid="wiki00046899-00-01" id="0"/><rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/><rel type="ノ？" target="排泄" sid="wiki00046899-00-01" id="6"/><rel type="トイウ" target="生産される" sid="wiki00046899-00-01" id="3"/><rel type="修飾" target="状" sid="wiki00046899-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -40,29 +40,29 @@ EOS
 EOS
 # S-ID:wiki00046899-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/03/29 MEMO:
 * 3D
-+ 1D <体言><rel type="ノ" target="不特定:物"/><rel type="ノ" mode="AND" target="不特定:人"/>
++ 1D <rel type="ノ" target="不特定:物"/><rel type="ノ" mode="AND" target="不特定:人"/><体言>
 血液 けつえき 血液 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <rel type="ノ" target="血液" sid="wiki00046899-01" id="0"/><体言>
 中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 4P <体言><rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/>
++ 4P <rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/><体言>
 水分 すいぶん 水分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
 + 4D <rel type="ガ" target="物" sid="wiki00046899-01" id="4"/><体言><非用言格解析:形>
 不要 ふよう 不要だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 6P <体言><rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/><rel type="ノ？" mode="AND" target="不要" sid="wiki00046899-01" id="3"/>
++ 6P <rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/><rel type="ノ？" mode="AND" target="不要" sid="wiki00046899-01" id="3"/><体言>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ガ" target="物" sid="wiki00046899-01" id="6"/><体言><非用言格解析:動>
 老廃 ろうはい 老廃 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/><rel type="ノ？" mode="AND" target="老廃" sid="wiki00046899-01" id="5"/>
++ 7D <rel type="ノ？" target="中" sid="wiki00046899-01" id="1"/><rel type="ノ？" mode="AND" target="老廃" sid="wiki00046899-01" id="5"/><体言>
 物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="尿" sid="wiki00046899-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="カラ" target="物" sid="wiki00046899-01" id="6"/><rel type="カラ" mode="AND" target="物" sid="wiki00046899-01" id="4"/><rel type="カラ" mode="AND" target="水分" sid="wiki00046899-01" id="2"/>
++ -1D <rel type="ガ" target="尿" sid="wiki00046899-00-01" id="0"/><rel type="カラ" target="物" sid="wiki00046899-01" id="6"/><rel type="カラ" mode="AND" target="物" sid="wiki00046899-01" id="4"/><rel type="カラ" mode="AND" target="水分" sid="wiki00046899-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -70,7 +70,7 @@ EOS
 * 7D
 + 1D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 8D <体言><rel type="ノ？" target="日本" sid="wiki00046899-02-01" id="0"/>
++ 8D <rel type="ノ？" target="日本" sid="wiki00046899-02-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -79,12 +79,12 @@ EOS
 小便 しょうべん 小便 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 7P <体言><rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/>
++ 7P <rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/><体言>
 小水 しょうすい 小水 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 また また また 副詞 8 * 0 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ノ" target="尿" sid="wiki00046899-00-01" id="0"/>
++ 5D <rel type="ノ" target="尿" sid="wiki00046899-00-01" id="0"/><体言>
 俗語 ぞくご 俗語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -101,7 +101,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="尿" sid="wiki00046899-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="語" sid="wiki00046899-02-01" id="1"/><rel type="ト" target="小便" sid="wiki00046899-02-01" id="2"/><rel type="ト" mode="AND" target="小水" sid="wiki00046899-02-01" id="3"/><rel type="ト" mode="AND" target="おしっこ" sid="wiki00046899-02-01" id="6"/><rel type="ト" mode="AND" target="ションベンなど" sid="wiki00046899-02-01" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="尿" sid="wiki00046899-00-01" id="0"/><rel type="デ" target="語" sid="wiki00046899-02-01" id="1"/><rel type="ト" target="小便" sid="wiki00046899-02-01" id="2"/><rel type="ト" mode="AND" target="小水" sid="wiki00046899-02-01" id="3"/><rel type="ト" mode="AND" target="おしっこ" sid="wiki00046899-02-01" id="6"/><rel type="ト" mode="AND" target="ションベンなど" sid="wiki00046899-02-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -126,18 +126,18 @@ EOS
 古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <体言><rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/>
++ 2P <rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ゆばり ゆばり ゆばり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/>
++ 3D <rel type="=構" target="尿" sid="wiki00046899-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ゆまり ゆまり ゆまり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="尿" sid="wiki00046899-00-01" id="0"/><用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="古く" sid="wiki00046899-03-01" id="0"/><rel type="ト" target="ゆばり" sid="wiki00046899-03-01" id="1"/><rel type="ト" mode="AND" target="ゆまり" sid="wiki00046899-03-01" id="2"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="尿" sid="wiki00046899-00-01" id="0"/><rel type="時間" target="古く" sid="wiki00046899-03-01" id="0"/><rel type="ト" target="ゆばり" sid="wiki00046899-03-01" id="1"/><rel type="ト" mode="AND" target="ゆまり" sid="wiki00046899-03-01" id="2"/><用言:動><時制:過去><節-主辞><節-区切>
 言った いった 言う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

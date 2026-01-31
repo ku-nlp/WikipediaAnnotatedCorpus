@@ -17,19 +17,19 @@
 海軍 かいぐん 海軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペリー" sid="wiki00026103-00-01" id="2"/><rel type="ノ" target="海軍" sid="wiki00026103-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ペリー" sid="wiki00026103-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ペリー" sid="wiki00026103-00-01" id="2"/><rel type="ノ" target="海軍" sid="wiki00026103-00-01" id="4"/><rel type="=構" target="ペリー" sid="wiki00026103-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026103-00-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/04 MEMO:
 * 2P
-+ 1D <体言><rel type="=" target="マシュー" sid="wiki00026103-00-01" id="0"/>
++ 1D <rel type="=" target="マシュー" sid="wiki00026103-00-01" id="0"/><体言>
 Matthew Matthew Matthew 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2D <体言><rel type="=" target="カルブレイス" sid="wiki00026103-00-01" id="1"/>
++ 2D <rel type="=" target="カルブレイス" sid="wiki00026103-00-01" id="1"/><体言>
 Calbraith Calbraith Calbraith 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8P <体言><NE:PERSON:Matthew　Calbraith　Perry><rel type="=" target="ペリー" sid="wiki00026103-00-01" id="2"/>
++ 8P <rel type="=" target="ペリー" sid="wiki00026103-00-01" id="2"/><体言><NE:PERSON:Matthew　Calbraith　Perry>
 Perry Perry Perry 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -53,7 +53,7 @@ Perry Perry Perry 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tai
 + 8D <体言>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><NE:DATE:1858年3月4日><rel type="カラ" target="10日" sid="wiki00026103-00-02" id="5"/>
++ -1D <rel type="カラ" target="10日" sid="wiki00026103-00-02" id="5"/><体言><NE:DATE:1858年3月4日>
 4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -69,7 +69,7 @@ EOS
 + 3D <体言>
 ハザード はざーど ハザード 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <rel type="ガ" target="兄" sid="wiki00026103-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:オリバー・ハザード・ペリー><rel type="=構" target="兄" sid="wiki00026103-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="兄" sid="wiki00026103-01" id="0"/><rel type="=構" target="兄" sid="wiki00026103-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:オリバー・ハザード・ペリー>
 ペリー ぺりー ペリー 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

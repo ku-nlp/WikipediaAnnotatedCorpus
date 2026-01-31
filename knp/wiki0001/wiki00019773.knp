@@ -1,6 +1,6 @@
 # S-ID:wiki00019773-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2026/01/12 MEMO:
 * 9D
-+ 9D <体言><NE:LOCATION:東京府><rel type="ノ？" target="日本" sid="wiki00019773-00-01" id="4"/>
++ 9D <rel type="ノ？" target="日本" sid="wiki00019773-00-01" id="4"/><体言><NE:LOCATION:東京府>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -16,7 +16,7 @@
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="府県" sid="wiki00019773-00-01" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="カラ" target="1871年" sid="wiki00019773-00-01" id="1"/><rel type="マデ" target="1943年" sid="wiki00019773-00-01" id="2"/>
++ 5D <rel type="ガ" target="府県" sid="wiki00019773-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="カラ" target="1871年" sid="wiki00019773-00-01" id="1"/><rel type="マデ" target="1943年" sid="wiki00019773-00-01" id="2"/><用言:動><時制:過去><節-主辞>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -26,11 +26,11 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <体言><rel type="ノ？" target="日本" sid="wiki00019773-00-01" id="4"/><rel type="=≒" target="東京府" sid="wiki00019773-00-01" id="0"/>
++ 6D <rel type="ノ？" target="日本" sid="wiki00019773-00-01" id="4"/><rel type="=≒" target="東京府" sid="wiki00019773-00-01" id="0"/><体言>
 府県 ふけん 府県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 9P <rel type="ガ" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="ノ" target="府県" sid="wiki00019773-00-01" id="5"/><用言:判><体言><時制:非過去><rel type="=構" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="=構" mode="AND" target="府県" sid="wiki00019773-00-01" id="5"/>
++ 9P <rel type="ガ" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="ノ" target="府県" sid="wiki00019773-00-01" id="5"/><rel type="=構" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="=構" mode="AND" target="府県" sid="wiki00019773-00-01" id="5"/><用言:判><体言><時制:非過去>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -39,19 +39,19 @@
 現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 9D <体言><NE:LOCATION:東京都><rel type="時間" target="現在" sid="wiki00019773-00-01" id="7"/>
++ 9D <rel type="時間" target="現在" sid="wiki00019773-00-01" id="7"/><体言><NE:LOCATION:東京都>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="ノ" target="東京都" sid="wiki00019773-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="東京府" sid="wiki00019773-00-01" id="0"/>
++ -1D <rel type="ガ" target="東京府" sid="wiki00019773-00-01" id="0"/><rel type="ノ" target="東京都" sid="wiki00019773-00-01" id="8"/><rel type="=構" target="東京府" sid="wiki00019773-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00019773-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/26 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="東京府" sid="wiki00019773-00-01" id="0"/><NE:LOCATION:とうきょうふ>
++ -1D <rel type="=" target="東京府" sid="wiki00019773-00-01" id="0"/><体言><NE:LOCATION:とうきょうふ>
 とうきょう とうきょう とうきょう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ふ ふ ふ 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
@@ -59,7 +59,7 @@ EOS
 * -1D
 + 1D <体言>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:明治4年><体言><rel type="=" target="1871年" sid="wiki00019773-00-01" id="1"/>
++ -1D <rel type="=" target="1871年" sid="wiki00019773-00-01" id="1"/><NE:DATE:明治4年><体言>
 4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -67,23 +67,23 @@ EOS
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:昭和18年><体言><rel type="=" target="1943年" sid="wiki00019773-00-01" id="2"/>
++ -1D <rel type="=" target="1943年" sid="wiki00019773-00-01" id="2"/><NE:DATE:昭和18年><体言>
 18 じゅうはち 18 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00019773-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/01/12 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="東京府" sid="wiki00019773-00-01" id="0"/>
++ 1D <rel type="=" target="東京府" sid="wiki00019773-00-01" id="0"/><体言>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 3D <rel type="ノ" target="府" sid="wiki00019773-01" id="0"/><体言>
 庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 3D <体言>
 所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="庁" sid="wiki00019773-01" id="1"/><rel type="修飾" target="所在" sid="wiki00019773-01" id="2"/><rel type="ノ" target="東京府" sid="wiki00019773-00-01" id="0"/>
++ 4D <rel type="ノ？" target="庁" sid="wiki00019773-01" id="1"/><rel type="修飾" target="所在" sid="wiki00019773-01" id="2"/><rel type="ノ" target="東京府" sid="wiki00019773-00-01" id="0"/><体言>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="地" sid="wiki00019773-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:東京市><rel type="=構" target="地" sid="wiki00019773-01" id="3"/><memo text="CO"/><rel type="ノ？" target="東京府" sid="wiki00019773-00-01" id="0"/>
++ -1D <rel type="ガ" target="地" sid="wiki00019773-01" id="3"/><rel type="=構" target="地" sid="wiki00019773-01" id="3"/><rel type="ノ？" target="東京府" sid="wiki00019773-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:東京市>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

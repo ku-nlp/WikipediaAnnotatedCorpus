@@ -14,7 +14,7 @@
 * 3P
 + 4D <体言>
 小説 しょうせつ 小説 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="ノ？" target="日本" sid="wiki00039548-00-01" id="2"/><rel type="ノ？" mode="AND" target="小説" sid="wiki00039548-00-01" id="3"/><rel type="=構" target="春樹" sid="wiki00039548-00-01" id="1"/>
++ 7P <rel type="ノ？" target="日本" sid="wiki00039548-00-01" id="2"/><rel type="ノ？" mode="AND" target="小説" sid="wiki00039548-00-01" id="3"/><rel type="=構" target="春樹" sid="wiki00039548-00-01" id="1"/><体言>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -22,7 +22,7 @@
 文学 ぶんがく 文学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="ガ" target="家" sid="wiki00039548-00-01" id="7"/><rel type="ヲ" target="文学" sid="wiki00039548-00-01" id="5"/><体言><非用言格解析:動>
 翻訳 ほんやく 翻訳 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="春樹" sid="wiki00039548-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="春樹" sid="wiki00039548-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00039548-00-01" id="2"/><rel type="ノ？" mode="AND" target="翻訳" sid="wiki00039548-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="春樹" sid="wiki00039548-00-01" id="1"/><rel type="=構" target="春樹" sid="wiki00039548-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00039548-00-01" id="2"/><rel type="ノ？" mode="AND" target="翻訳" sid="wiki00039548-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -31,7 +31,7 @@ EOS
 + 1D <rel type="=" target="村上" sid="wiki00039548-00-01" id="0"/><体言>
 むらかみ むらかみ むらかみ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6P <体言><NE:PERSON:むらかみ　はるき><rel type="=" target="春樹" sid="wiki00039548-00-01" id="1"/>
++ 6P <rel type="=" target="春樹" sid="wiki00039548-00-01" id="1"/><体言><NE:PERSON:むらかみ　はるき>
 はるき はるき はるき 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -45,10 +45,10 @@ EOS
 24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 6D <体言><rel type="ノ" target="1949年" sid="wiki00039548-00-02" id="2"/><rel type="ノ" mode="？" target="24年" sid="wiki00039548-00-02" id="4"/>
++ 6D <rel type="ノ" target="1949年" sid="wiki00039548-00-02" id="2"/><rel type="ノ" mode="？" target="24年" sid="wiki00039548-00-02" id="4"/><体言>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><rel type="カラ" target="12日" sid="wiki00039548-00-02" id="6"/><NE:DATE:1949年（昭和24年）1月12日>
++ -1D <rel type="カラ" target="12日" sid="wiki00039548-00-02" id="6"/><体言><NE:DATE:1949年（昭和24年）1月12日>
 12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL

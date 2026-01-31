@@ -6,29 +6,29 @@
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 3D <体言>
 大修館 たいしゅうかん 大修館 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 13D <体言><NE:ORGANIZATION:株式会社大修館書店><memo text="[修学堂書店]と[大倉書店]の双方の頭文字から取ったという。 "/><rel type="修飾" target="会社" sid="wiki00029166-00-01" id="1"/>
++ 13D <rel type="修飾" target="会社" sid="wiki00029166-00-01" id="1"/><memo text="[修学堂書店]と[大倉書店]の双方の頭文字から取ったという。 "/><体言><NE:ORGANIZATION:株式会社大修館書店>
 書店 しょてん 書店 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D <体言>
 辞典 じてん 辞典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="ノ？" target="辞典" sid="wiki00029166-00-01" id="4"/>
++ 7P <rel type="ノ？" target="辞典" sid="wiki00029166-00-01" id="4"/><体言>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 7D <体言>
 教科 きょうか 教科 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9P <体言><rel type="修飾" target="教科" sid="wiki00029166-00-01" id="6"/>
++ 9P <rel type="修飾" target="教科" sid="wiki00029166-00-01" id="6"/><体言>
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 9D <体言>
 参考 さんこう 参考 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="参考" sid="wiki00029166-00-01" id="8"/>
++ 10D <rel type="修飾" target="参考" sid="wiki00029166-00-01" id="8"/><体言>
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 13D <rel type="ガ" target="社" sid="wiki00029166-00-01" id="13"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="類" sid="wiki00029166-00-01" id="5"/><rel type="ヲ" mode="AND" target="書" sid="wiki00029166-00-01" id="7"/><rel type="ヲ" mode="AND" target="書など" sid="wiki00029166-00-01" id="9"/>
++ 13D <rel type="ガ" target="社" sid="wiki00029166-00-01" id="13"/><rel type="ヲ" target="類" sid="wiki00029166-00-01" id="5"/><rel type="ヲ" mode="AND" target="書" sid="wiki00029166-00-01" id="7"/><rel type="ヲ" mode="AND" target="書など" sid="wiki00029166-00-01" id="9"/><用言:動><時制:非過去><節-主辞>
 刊行 かんこう 刊行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
@@ -36,9 +36,9 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 13D <体言><非用言格解析:動><rel type="ガ" target="社" sid="wiki00029166-00-01" id="13"/><rel type="ヲ" target="不特定:物"/>
++ 13D <rel type="ガ" target="社" sid="wiki00029166-00-01" id="13"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="書店" sid="wiki00029166-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="書店" sid="wiki00029166-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00029166-00-01" id="11"/><rel type="ノ？" mode="AND" target="出版" sid="wiki00029166-00-01" id="12"/>
++ -1D <rel type="ガ" target="書店" sid="wiki00029166-00-01" id="3"/><rel type="=構" target="書店" sid="wiki00029166-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00029166-00-01" id="11"/><rel type="ノ？" mode="AND" target="出版" sid="wiki00029166-00-01" id="12"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -46,6 +46,6 @@ EOS
 * -1D
 + 1D <rel type="=" target="大修館" sid="wiki00029166-00-01" id="2"/><体言>
 たいしゅうかん たいしゅうかん たいしゅうかん 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <体言><rel type="=" target="書店" sid="wiki00029166-00-01" id="3"/><NE:ORGANIZATION:たいしゅうかんしょてん>
++ -1D <rel type="=" target="書店" sid="wiki00029166-00-01" id="3"/><体言><NE:ORGANIZATION:たいしゅうかんしょてん>
 しょてん しょてん しょてん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

@@ -8,20 +8,20 @@
 * 2D
 + 2D <体言>
 障害 しょうがい 障害 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="障害" sid="wiki00059385-00-01" id="1"/>
++ 4D <rel type="ノ？" target="障害" sid="wiki00059385-00-01" id="1"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="者" sid="wiki00059385-00-01" id="2"/><体言><非用言格解析:動>
 生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><節-主辞><rel type="ヲ" target="生活" sid="wiki00059385-00-01" id="3"/><rel type="ヲ" mode="AND" target="者" sid="wiki00059385-00-01" id="2"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="生活" sid="wiki00059385-00-01" id="3"/><rel type="ヲ" mode="AND" target="者" sid="wiki00059385-00-01" id="2"/><体言><非用言格解析:動><節-主辞>
 支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="支援" sid="wiki00059385-00-01" id="4"/><用言:動><時制:非過去><rel type="外の関係" target="こと" sid="wiki00059385-00-01" id="6"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="支援" sid="wiki00059385-00-01" id="4"/><rel type="外の関係" target="こと" sid="wiki00059385-00-01" id="6"/><用言:動><時制:非過去>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="介護" sid="wiki00059385-00-01" id="0"/><用言:判><体言><時制:非過去><節-区切><rel type="トイウ" target="する" sid="wiki00059385-00-01" id="5"/><rel type="=構" target="介護" sid="wiki00059385-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="介護" sid="wiki00059385-00-01" id="0"/><rel type="トイウ" target="する" sid="wiki00059385-00-01" id="5"/><rel type="=構" target="介護" sid="wiki00059385-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -45,18 +45,18 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="者" sid="wiki00059385-01" id="2"/><rel type="ヲ" mode="AND" target="病人など" sid="wiki00059385-01" id="3"/><rel type="外の関係" target="こと" sid="wiki00059385-01" id="7"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/>
++ 6P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="者" sid="wiki00059385-01" id="2"/><rel type="ヲ" mode="AND" target="病人など" sid="wiki00059385-01" id="3"/><rel type="外の関係" target="こと" sid="wiki00059385-01" id="7"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/><用言:動><節-主辞><節-区切>
 介抱 かいほう 介抱 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 4D
-+ 6D <体言><非用言格解析:動><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="病人など" sid="wiki00059385-01" id="3"/><rel type="ヲ" mode="AND" target="者" sid="wiki00059385-01" id="2"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="病人など" sid="wiki00059385-01" id="3"/><rel type="ヲ" mode="AND" target="者" sid="wiki00059385-01" id="2"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/><体言><非用言格解析:動><節-主辞>
 世話 せわ 世話 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世話" sid="wiki00059385-01" id="5"/><用言:動><時制:非過去><rel type="外の関係" target="こと" sid="wiki00059385-01" id="7"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="世話" sid="wiki00059385-01" id="5"/><rel type="外の関係" target="こと" sid="wiki00059385-01" id="7"/><rel type="=≒" target="支援" sid="wiki00059385-00-01" id="4"/><用言:動><時制:非過去>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="介護" sid="wiki00059385-00-01" id="0"/><用言:判><体言><時制:非過去><節-区切><rel type="トイウ" target="する" sid="wiki00059385-01" id="6"/><rel type="トイウ" mode="AND" target="介抱し" sid="wiki00059385-01" id="4"/><memo text="CO"/><rel type="=構" target="介護" sid="wiki00059385-00-01" id="0"/>
++ -1D <rel type="ガ" target="介護" sid="wiki00059385-00-01" id="0"/><rel type="トイウ" target="する" sid="wiki00059385-01" id="6"/><rel type="トイウ" mode="AND" target="介抱し" sid="wiki00059385-01" id="4"/><rel type="=構" target="介護" sid="wiki00059385-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

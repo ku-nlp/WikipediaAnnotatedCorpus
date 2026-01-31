@@ -1,6 +1,6 @@
 # S-ID:wiki00020725-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/04/22 MEMO:
 * 6D
-+ 9D <体言><NE:LOCATION:明石市><rel type="ノ？" target="兵庫県" sid="wiki00020725-00-01" id="4"/>
++ 9D <rel type="ノ？" target="兵庫県" sid="wiki00020725-00-01" id="4"/><体言><NE:LOCATION:明石市>
 明石 あかし 明石 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -16,14 +16,14 @@
 中部 ちゅうぶ 中部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 5D <体言><NE:LOCATION:兵庫県><rel type="ノ？" target="地方" sid="wiki00020725-00-01" id="2"/>
++ 5D <rel type="ノ？" target="地方" sid="wiki00020725-00-01" id="2"/><体言><NE:LOCATION:兵庫県>
 兵庫 ひょうご 兵庫 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 + 9D <rel type="ノ" target="兵庫県" sid="wiki00020725-00-01" id="4"/><体言>
 南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="=≒" target="明石市" sid="wiki00020725-00-01" id="0"/>
++ 7D <rel type="=≒" target="明石市" sid="wiki00020725-00-01" id="0"/><体言>
 明石 あかし 明石 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 8D <体言><NE:LOCATION:明石海峡>
 海峡 かいきょう 海峡 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
@@ -32,13 +32,13 @@
 + 9D <rel type="ガ" target="都市" sid="wiki00020725-00-01" id="9"/><rel type="ニ" target="海峡" sid="wiki00020725-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="明石市" sid="wiki00020725-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="中部" sid="wiki00020725-00-01" id="3"/><rel type="修飾" mode="AND" target="南部" sid="wiki00020725-00-01" id="5"/><rel type="修飾" mode="AND" target="面する" sid="wiki00020725-00-01" id="8"/>
++ -1D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="=構" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="修飾" target="中部" sid="wiki00020725-00-01" id="3"/><rel type="修飾" mode="AND" target="南部" sid="wiki00020725-00-01" id="5"/><rel type="修飾" mode="AND" target="面する" sid="wiki00020725-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020725-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/28 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="明石市" sid="wiki00020725-00-01" id="0"/><NE:LOCATION:あかしし>
++ -1D <rel type="=" target="明石市" sid="wiki00020725-00-01" id="0"/><体言><NE:LOCATION:あかしし>
 あかし あかし あかし 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
@@ -49,15 +49,15 @@ EOS
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 2D <体言>
 東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><rel type="=≒" target="兵庫県" sid="wiki00020725-01" id="0"/>
++ 4D <rel type="=≒" target="兵庫県" sid="wiki00020725-01" id="0"/><体言>
 播磨 はりま 播磨 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><rel type="ノ" target="兵庫県" sid="wiki00020725-01" id="0"/>
++ 4D <rel type="ノ" target="兵庫県" sid="wiki00020725-01" id="0"/><体言>
 県民 けんみん 県民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><NE:ORGANIZATION:兵庫県東播磨県民局><rel type="ノ？" target="兵庫県" sid="wiki00020725-01" id="0"/><rel type="ノ？" mode="AND" target="播磨" sid="wiki00020725-01" id="2"/><rel type="ノ？" mode="AND" target="県民" sid="wiki00020725-01" id="3"/>
++ 5D <rel type="ノ？" target="兵庫県" sid="wiki00020725-01" id="0"/><rel type="ノ？" mode="AND" target="播磨" sid="wiki00020725-01" id="2"/><rel type="ノ？" mode="AND" target="県民" sid="wiki00020725-01" id="3"/><体言><NE:ORGANIZATION:兵庫県東播磨県民局>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><用言:動><節-主辞><節-区切><rel type="ニ" target="局" sid="wiki00020725-01" id="4"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ 8D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="ニ" target="局" sid="wiki00020725-01" id="4"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><節-主辞><節-区切>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -66,11 +66,11 @@ EOS
 * 3D
 + 7D <体言>
 中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="修飾" target="中核" sid="wiki00020725-01" id="6"/>
++ 8D <rel type="=構" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="修飾" target="中核" sid="wiki00020725-01" id="6"/><体言>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="市" sid="wiki00020725-01" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ -1D <rel type="ガ" target="明石市" sid="wiki00020725-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00020725-01" id="7"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL

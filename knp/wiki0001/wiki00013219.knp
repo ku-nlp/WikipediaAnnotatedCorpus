@@ -2,7 +2,7 @@
 * 3D
 + 1D <体言>
 モンゴル もんごる モンゴル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 8D <体言><NE:LOCATION:モンゴル国><rel type="ノ？" target="アジア" sid="wiki00013219-00-01" id="3"/>
++ 8D <rel type="ノ？" target="アジア" sid="wiki00013219-00-01" id="3"/><体言><NE:LOCATION:モンゴル国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -21,29 +21,29 @@
 * -1D
 + 7D <体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="共和" sid="wiki00013219-00-01" id="6"/>
++ 8D <rel type="ノ？" target="共和" sid="wiki00013219-00-01" id="6"/><体言>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="国" sid="wiki00013219-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="制" sid="wiki00013219-00-01" id="7"/>
++ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><rel type="=構" target="国" sid="wiki00013219-00-01" id="1"/><rel type="修飾" target="制" sid="wiki00013219-00-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013219-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/28 MEMO:
 * 1P
 + 1D <rel type="=" target="モンゴル" sid="wiki00013219-00-01" id="0"/><体言>
-モンゴル もんごる モンゴル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head><NE:OPTIONAL:tail>
+モンゴル もんごる モンゴル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 + 4P <rel type="=" target="国" sid="wiki00013219-00-01" id="1"/><体言><NE:LOCATION:モンゴルこく>
 こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/>
++ 4D <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 + 4D <rel type="=" target="モンゴル" sid="wiki00013219-00-01" id="0"/><体言>
 Mongolian Mongolian Mongolian 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <NE:LOCATION:Mongolian　State><rel type="デ" target="英語" sid="wiki00013219-00-02" id="2"/><rel type="=" target="国" sid="wiki00013219-00-01" id="1"/><rel type="=構" mode="AND" target="英語" sid="wiki00013219-00-02" id="2"/><体言>
++ -1D <rel type="デ" target="英語" sid="wiki00013219-00-02" id="2"/><rel type="=" target="国" sid="wiki00013219-00-01" id="1"/><rel type="=構" mode="AND" target="英語" sid="wiki00013219-00-02" id="2"/><NE:LOCATION:Mongolian　State><体言>
 State State State 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00013219-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/28 MEMO:
@@ -52,23 +52,23 @@ EOS
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00013219-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ウランバートル><rel type="=構" target="首都" sid="wiki00013219-01" id="0"/><rel type="ノ？" target="国" sid="wiki00013219-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="首都" sid="wiki00013219-01" id="0"/><rel type="=構" target="首都" sid="wiki00013219-01" id="0"/><rel type="ノ？" target="国" sid="wiki00013219-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ウランバートル>
 ウランバートル うらんばーとる ウランバートル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013219-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/28 MEMO:
 * 1P
-+ 1P <体言><rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/>
++ 1P <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><体言>
 東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/>
++ 3D <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><体言>
 南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 3D <体言>
 二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="=≒" target="東" sid="wiki00013219-02" id="0"/><rel type="=≒" mode="AND" target="南" sid="wiki00013219-02" id="1"/><memo text="SE"/><rel type="修飾" target="二" sid="wiki00013219-02" id="2"/>
++ 7D <rel type="=≒" target="東" sid="wiki00013219-02" id="0"/><rel type="=≒" mode="AND" target="南" sid="wiki00013219-02" id="1"/><rel type="修飾" target="二" sid="wiki00013219-02" id="2"/><memo text="SE"/><体言>
 方向 ほうこう 方向 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
@@ -78,7 +78,7 @@ EOS
 内モンゴル うちもんごる 内モンゴル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + 7D <体言>
 自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 11P <体言><NE:LOCATION:中国内モンゴル自治区><rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="方向" sid="wiki00013219-02" id="3"/><rel type="ト" target="区" sid="wiki00013219-02" id="7"/><rel type="ノ？" target="中国" sid="wiki00013219-02" id="4"/><rel type="ノ？" mode="AND" target="自治" sid="wiki00013219-02" id="6"/>
++ 11P <rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="方向" sid="wiki00013219-02" id="3"/><rel type="ト" target="区" sid="wiki00013219-02" id="7"/><rel type="ノ？" target="中国" sid="wiki00013219-02" id="4"/><rel type="ノ？" mode="AND" target="自治" sid="wiki00013219-02" id="6"/><体言><NE:LOCATION:中国内モンゴル自治区>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -91,11 +91,11 @@ EOS
 新疆ウイグル しんきょうういぐる 新疆ウイグル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 11D <体言>
 自治 じち 自治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 14P <体言><NE:LOCATION:新疆ウイグル自治区><rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="西" sid="wiki00013219-02" id="8"/><rel type="ト" target="区" sid="wiki00013219-02" id="11"/><rel type="ノ？" target="中国" sid="wiki00013219-02" id="4"/><rel type="ノ？" mode="AND" target="自治" sid="wiki00013219-02" id="10"/>
++ 14P <rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="西" sid="wiki00013219-02" id="8"/><rel type="ト" target="区" sid="wiki00013219-02" id="11"/><rel type="ノ？" target="中国" sid="wiki00013219-02" id="4"/><rel type="ノ？" mode="AND" target="自治" sid="wiki00013219-02" id="10"/><体言><NE:LOCATION:新疆ウイグル自治区>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7I
-+ 14I <体言><rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/>
++ 14I <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><体言>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
@@ -108,12 +108,12 @@ EOS
 + 16D
 それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 10D
-+ 18D <rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="北" sid="wiki00013219-02" id="12"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="連邦" sid="wiki00013219-02" id="14"/>
++ 18D <rel type="ガ" target="国" sid="wiki00013219-02" id="18"/><rel type="ヲ" target="北" sid="wiki00013219-02" id="12"/><rel type="ト" target="連邦" sid="wiki00013219-02" id="14"/><用言:動><時制:非過去><節-主辞>
 接する せっする 接する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
 + 18D <体言>
 内陸 ないりく 内陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=" target="国" sid="wiki00013219-00-01" id="1"/><rel type="修飾" target="接する" sid="wiki00013219-02" id="16"/><rel type="修飾" mode="AND" target="内陸" sid="wiki00013219-02" id="17"/>
++ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><rel type="=" target="国" sid="wiki00013219-00-01" id="1"/><rel type="修飾" target="接する" sid="wiki00013219-02" id="16"/><rel type="修飾" mode="AND" target="内陸" sid="wiki00013219-02" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -122,7 +122,7 @@ EOS
 * 1D
 + 1D <rel type="=" target="モンゴル" sid="wiki00013219-00-02" id="0"/><体言>
 モンゴル もんごる モンゴル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言><NE:LOCATION:モンゴル高原><rel type="ノ？" target="アジア" sid="wiki00013219-00-01" id="3"/>
++ 2D <rel type="ノ？" target="アジア" sid="wiki00013219-00-01" id="3"/><体言><NE:LOCATION:モンゴル高原>
 高原 こうげん 高原 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -132,21 +132,21 @@ EOS
 * 3D
 + 4D <体言>
 外 そと/がい 外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言><NE:LOCATION:外蒙古><rel type="修飾" target="外" sid="wiki00013219-03-01" id="3"/>
++ 5D <rel type="修飾" target="外" sid="wiki00013219-03-01" id="3"/><体言><NE:LOCATION:外蒙古>
 蒙古 もうこ 蒙古 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="ト" target="蒙古" sid="wiki00013219-03-01" id="4"/><rel type="ガ" target="一帯" sid="wiki00013219-03-01" id="8"/>
++ 8D <rel type="ニ" target="不特定:人"/><rel type="ト" target="蒙古" sid="wiki00013219-03-01" id="4"/><rel type="ガ" target="一帯" sid="wiki00013219-03-01" id="8"/><用言:動><時制:過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5D
-+ 7D <体言><NE:LOCATION:ゴビ砂漠><rel type="ノ？" target="高原" sid="wiki00013219-03-01" id="1"/>
++ 7D <rel type="ノ？" target="高原" sid="wiki00013219-03-01" id="1"/><体言><NE:LOCATION:ゴビ砂漠>
 ゴビ砂漠 ごびさばく ゴビ砂漠 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 8D <rel type="ノ" target="ゴビ砂漠" sid="wiki00013219-03-01" id="6"/><体言>
 以北 いほく 以北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <体言><rel type="修飾" target="以北" sid="wiki00013219-03-01" id="7"/><rel type="=構" target="蒙古" sid="wiki00013219-03-01" id="4"/><rel type="=" mode="AND" target="以北" sid="wiki00013219-03-01" id="7"/>
++ 10D <rel type="修飾" target="以北" sid="wiki00013219-03-01" id="7"/><rel type="=構" target="蒙古" sid="wiki00013219-03-01" id="4"/><rel type="=" mode="AND" target="以北" sid="wiki00013219-03-01" id="7"/><体言>
 一帯 いったい 一帯 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -157,27 +157,27 @@ EOS
 該当 がいとう 該当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 13D <体言><rel type="ノ？" target="高原" sid="wiki00013219-03-01" id="1"/><rel type="修飾" target="うち" sid="wiki00013219-03-01" id="2"/><rel type="=構" target="一帯" sid="wiki00013219-03-01" id="8"/>
++ 13D <rel type="ノ？" target="高原" sid="wiki00013219-03-01" id="1"/><rel type="修飾" target="うち" sid="wiki00013219-03-01" id="2"/><rel type="=構" target="一帯" sid="wiki00013219-03-01" id="8"/><体言>
 領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 13D <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><体言><rel type="=構" target="領域" sid="wiki00013219-03-01" id="11"/>
++ 13D <rel type="ノ" target="国" sid="wiki00013219-00-01" id="1"/><rel type="=構" target="領域" sid="wiki00013219-03-01" id="11"/><体言>
 国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><rel type="ヲ" target="領域" sid="wiki00013219-03-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="国土" sid="wiki00013219-03-01" id="12"/>
++ -1D <rel type="ガ" target="国" sid="wiki00013219-00-01" id="1"/><rel type="ヲ" target="領域" sid="wiki00013219-03-01" id="11"/><rel type="ト" target="国土" sid="wiki00013219-03-01" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013219-03-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/28 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="外" sid="wiki00013219-03-01" id="3"/>
++ 1D <rel type="=" target="外" sid="wiki00013219-03-01" id="3"/><体言>
 がい がい がい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 3P <rel type="=" target="蒙古" sid="wiki00013219-03-01" id="4"/><体言><NE:LOCATION:がいもうこ>
 もうこ もうこ もうこ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="外" sid="wiki00013219-03-01" id="3"/>
++ 3D <rel type="=" target="外" sid="wiki00013219-03-01" id="3"/><体言>
 そと そと そと 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + -1D <rel type="=" target="蒙古" sid="wiki00013219-03-01" id="4"/><体言><NE:LOCATION:そともうこ>
 もうこ もうこ もうこ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>

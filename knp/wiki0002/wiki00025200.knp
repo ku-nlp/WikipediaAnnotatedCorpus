@@ -2,9 +2,9 @@
 * 7D
 + 1D
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <rel type="ガ" target="人" sid="wiki00025200-00-01" id="4"/><体言><非用言格解析:動><rel type="時間" target="時代" sid="wiki00025200-00-01" id="2"/><rel type="修飾" target="大" sid="wiki00025200-00-01" id="0"/>
++ 2D <rel type="ガ" target="人" sid="wiki00025200-00-01" id="4"/><rel type="時間" target="時代" sid="wiki00025200-00-01" id="2"/><rel type="修飾" target="大" sid="wiki00025200-00-01" id="0"/><体言><非用言格解析:動>
 航海 こうかい 航海 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 14D <体言><NE:OPTIONAL:大航海時代><NE-OPTIONAL:DATE,NONE:0><rel type="修飾" target="航海" sid="wiki00025200-00-01" id="1"/>
++ 14D <rel type="修飾" target="航海" sid="wiki00025200-00-01" id="1"/><体言><NE:OPTIONAL:大航海時代><NE-OPTIONAL:DATE,NONE:0>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 * 2D
 + 4D <体言><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <体言><rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/>
++ 5D <rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -25,7 +25,7 @@
 + 9P <体言><NE:LOCATION:アジア>
 アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D <体言><memo text="係り受け：アフリカ、アジア、アメリカ全て「大陸」にかける？"/>
++ 9D <memo text="係り受け：アフリカ、アジア、アメリカ全て「大陸」にかける？"/><体言>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 12D <体言><NE:LOCATION:アメリカ大陸>
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
@@ -34,19 +34,19 @@
 * 5D
 + 11D <rel type="ガ" target="規模" sid="wiki00025200-00-01" id="11"/>
 大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><用言:判><体言><時制:非過去><rel type="=" target="大" sid="wiki00025200-00-01" id="0"/>
++ 12D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><rel type="=" target="大" sid="wiki00025200-00-01" id="0"/><用言:判><体言><時制:非過去>
 規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3 NIL
 * 6D
-+ 13D <rel type="ガ" target="人" sid="wiki00025200-00-01" id="4"/><rel type="=" target="航海" sid="wiki00025200-00-01" id="1"/><体言><非用言格解析:動><rel type="ヘ" target="アフリカ" sid="wiki00025200-00-01" id="6"/><rel type="ヘ" mode="AND" target="アジア" sid="wiki00025200-00-01" id="7"/><rel type="ヘ" mode="AND" target="大陸" sid="wiki00025200-00-01" id="9"/><rel type="修飾" target="規模" sid="wiki00025200-00-01" id="11"/>
++ 13D <rel type="ガ" target="人" sid="wiki00025200-00-01" id="4"/><rel type="=" target="航海" sid="wiki00025200-00-01" id="1"/><rel type="ヘ" target="アフリカ" sid="wiki00025200-00-01" id="6"/><rel type="ヘ" mode="AND" target="アジア" sid="wiki00025200-00-01" id="7"/><rel type="ヘ" mode="AND" target="大陸" sid="wiki00025200-00-01" id="9"/><rel type="修飾" target="規模" sid="wiki00025200-00-01" id="11"/><体言><非用言格解析:動>
 航海 こうかい 航海 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 14D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><用言:動><時制:過去><節-主辞><rel type="ニヨッテ" target="人" sid="wiki00025200-00-01" id="4"/><rel type="時間" target="時代" sid="wiki00025200-00-01" id="14"/>
++ 14D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><rel type="ニヨッテ" target="人" sid="wiki00025200-00-01" id="4"/><rel type="時間" target="時代" sid="wiki00025200-00-01" id="14"/><用言:動><時制:過去><節-主辞>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="時代" sid="wiki00025200-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="時代" sid="wiki00025200-00-01" id="2"/><rel type="トイウ" target="行われた" sid="wiki00025200-00-01" id="13"/><memo text="CO"/>
++ -1D <rel type="ガ" target="時代" sid="wiki00025200-00-01" id="2"/><rel type="=構" target="時代" sid="wiki00025200-00-01" id="2"/><rel type="トイウ" target="行われた" sid="wiki00025200-00-01" id="13"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -64,14 +64,14 @@ EOS
 + 1D <体言>
 15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 3P <rel type="ノ" target="15世紀" sid="wiki00025200-01" id="0"/><体言><NE:DATE:15世紀半ば><rel type="=≒" target="時代" sid="wiki00025200-00-01" id="2"/>
++ 3P <rel type="ノ" target="15世紀" sid="wiki00025200-01" id="0"/><rel type="=≒" target="時代" sid="wiki00025200-00-01" id="2"/><体言><NE:DATE:15世紀半ば>
 半ば なかば 半ば 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3D <体言>
 17 じゅうなな/しゅうしち 17 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 4D <rel type="ノ" target="17世紀" sid="wiki00025200-01" id="2"/><体言><NE:DATE:17世紀半ば><rel type="=≒" target="時代" sid="wiki00025200-00-01" id="2"/>
++ 4D <rel type="ノ" target="17世紀" sid="wiki00025200-01" id="2"/><rel type="=≒" target="時代" sid="wiki00025200-00-01" id="2"/><体言><NE:DATE:17世紀半ば>
 半ば なかば 半ば 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
@@ -82,18 +82,18 @@ EOS
 + 9D <用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 5P
-+ 7P <体言><NE:LOCATION:ポルトガル><rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/><rel type="=≒" target="人" sid="wiki00025200-00-01" id="4"/>
++ 7P <rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/><rel type="=≒" target="人" sid="wiki00025200-00-01" id="4"/><体言><NE:LOCATION:ポルトガル>
 ポルトガル ぽるとがる ポルトガル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <体言><NE:LOCATION:スペイン><rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/><rel type="=≒" target="人" sid="wiki00025200-00-01" id="4"/>
++ 8D <rel type="ノ？" target="ヨーロッパ" sid="wiki00025200-00-01" id="3"/><rel type="=≒" target="人" sid="wiki00025200-00-01" id="4"/><体言><NE:LOCATION:スペイン>
 スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 9D <用言:動>
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><用言:動><時制:過去><節-主辞><節-区切><rel type="=" target="行われた" sid="wiki00025200-00-01" id="13"/><rel type="ニヨッテ" target="ポルトガル" sid="wiki00025200-01" id="6"/><rel type="ニヨッテ" mode="AND" target="スペイン" sid="wiki00025200-01" id="7"/>
++ -1D <rel type="ガ" target="航海" sid="wiki00025200-00-01" id="12"/><rel type="=" target="行われた" sid="wiki00025200-00-01" id="13"/><rel type="ニヨッテ" target="ポルトガル" sid="wiki00025200-01" id="6"/><rel type="ニヨッテ" mode="AND" target="スペイン" sid="wiki00025200-01" id="7"/><用言:動><時制:過去><節-主辞><節-区切>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

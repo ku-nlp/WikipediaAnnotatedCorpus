@@ -11,7 +11,7 @@
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 7D <体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><rel type="=" target="スポーツ" sid="wiki00051859-00" id="0"/>
++ 5D <rel type="=" target="スポーツ" sid="wiki00051859-00" id="0"/><体言>
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 7D <rel type="=" target="ニッポン" sid="wiki00051859-00" id="1"/><体言>
 ニッポン にっぽん ニッポン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
@@ -27,7 +27,7 @@
 * -1D
 + 10D <rel type="=" target="スポーツ" sid="wiki00051859-00" id="0"/><体言>
 スポーツ すぽーつ スポーツ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ニッポン" sid="wiki00051859-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="スポーツ" sid="wiki00051859-00" id="9"/><rel type="=構" target="ニッポン" sid="wiki00051859-00" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00051859-00" id="6"/>
++ -1D <rel type="ガ" target="ニッポン" sid="wiki00051859-00" id="1"/><rel type="修飾" target="スポーツ" sid="wiki00051859-00" id="9"/><rel type="=構" target="ニッポン" sid="wiki00051859-00" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00051859-00" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -37,7 +37,7 @@ EOS
 + 1D <rel type="ノ" target="ニッポン" sid="wiki00051859-00" id="1"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="通称" sid="wiki00051859-01" id="0"/><rel type="=構" target="通称" sid="wiki00051859-01" id="0"/><rel type="=" mode="AND" target="ニッポン" sid="wiki00051859-00" id="1"/><NE:ARTIFACT:スポニチ><memo text="CO"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="通称" sid="wiki00051859-01" id="0"/><rel type="=構" target="通称" sid="wiki00051859-01" id="0"/><rel type="=" mode="AND" target="ニッポン" sid="wiki00051859-00" id="1"/><memo text="CO"/><NE:ARTIFACT:スポニチ><体言><用言:判><時制:非過去><節-主辞><節-区切>
 スポニチ すぽにち スポニチ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

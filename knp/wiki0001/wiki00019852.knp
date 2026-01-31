@@ -1,18 +1,18 @@
 # S-ID:wiki00019852-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/01/12 MEMO:
 * 2D
-+ 3D <体言><NE:LOCATION:ロサンゼルス><rel type="ノ？" target="カリフォルニア州" sid="wiki00019852-00" id="2"/>
++ 3D <rel type="ノ？" target="カリフォルニア州" sid="wiki00019852-00" id="2"/><体言><NE:LOCATION:ロサンゼルス>
 ロサンゼルス ろさんぜるす ロサンゼルス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 2D <体言>
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 3D <体言><NE:LOCATION:アメリカ合衆国カリフォルニア州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00019852-00" id="1"/>
++ 3D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00019852-00" id="1"/><体言><NE:LOCATION:アメリカ合衆国カリフォルニア州>
 カリフォルニア かりふぉるにあ カリフォルニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="カリフォルニア州" sid="wiki00019852-00" id="2"/><rel type="=構" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><rel type="ノ？" target="カリフォルニア州" sid="wiki00019852-00" id="2"/><rel type="=構" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -22,19 +22,19 @@ EOS
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="カリフォルニア州" sid="wiki00019852-00" id="2"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <rel type="ガ" target="都市" sid="wiki00019852-01" id="6"/><体言><非用言格解析:形><rel type="デ" target="州" sid="wiki00019852-01" id="1"/>
++ 4P <rel type="ガ" target="都市" sid="wiki00019852-01" id="6"/><rel type="デ" target="州" sid="wiki00019852-01" id="1"/><体言><非用言格解析:形>
 最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 かつ かつ かつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <体言><NE:LOCATION:北米><rel type="=≒" target="アメリカ合衆国" sid="wiki00019852-00" id="1"/>
++ 4D <rel type="=≒" target="アメリカ合衆国" sid="wiki00019852-00" id="1"/><体言><NE:LOCATION:北米>
 北米 ほくべい 北米 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 6D <体言><rel type="デ" target="北米" sid="wiki00019852-01" id="3"/>
++ 6D <rel type="デ" target="北米" sid="wiki00019852-01" id="3"/><体言>
 屈指 くっし 屈指 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 6D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="最大" sid="wiki00019852-01" id="2"/><rel type="修飾" mode="AND" target="屈指" sid="wiki00019852-01" id="4"/><rel type="修飾" mode="AND" target="世界" sid="wiki00019852-01" id="5"/><rel type="=構" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><rel type="修飾" target="最大" sid="wiki00019852-01" id="2"/><rel type="修飾" mode="AND" target="屈指" sid="wiki00019852-01" id="4"/><rel type="修飾" mode="AND" target="世界" sid="wiki00019852-01" id="5"/><rel type="=構" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -48,18 +48,18 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:LOCATION:ニューヨーク><rel type="ノ？" target="アメリカ" sid="wiki00019852-02" id="0"/>
++ 3D <rel type="ノ？" target="アメリカ" sid="wiki00019852-02" id="0"/><体言><NE:LOCATION:ニューヨーク>
 ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ニ" target="ニューヨーク" sid="wiki00019852-02" id="2"/><用言:動><節-主辞><節-区切><rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/>
++ 5D <rel type="ニ" target="ニューヨーク" sid="wiki00019852-02" id="2"/><rel type="ガ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><用言:動><節-主辞><節-区切>
 次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL <基本句-主辞>
 * 4D
 + 5D <rel type="ノ" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00019852-02" id="4"/><rel type="ガ２" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="ニツヅイテ" target="ニューヨーク" sid="wiki00019852-02" id="2"/>
++ -1D <rel type="ガ" target="人口" sid="wiki00019852-02" id="4"/><rel type="ガ２" target="ロサンゼルス" sid="wiki00019852-00" id="0"/><rel type="ニツヅイテ" target="ニューヨーク" sid="wiki00019852-02" id="2"/><用言:形><時制:非過去><節-主辞><節-区切>
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

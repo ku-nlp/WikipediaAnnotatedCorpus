@@ -2,7 +2,7 @@
 * 4D
 + 1D <体言>
 日向 ひゅうがの/ひむかの 日向 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 7D <体言><NE:LOCATION:日向国><rel type="ノ？" target="日本" sid="wiki00017105-00-01" id="3"/>
++ 7D <rel type="ノ？" target="日本" sid="wiki00017105-00-01" id="3"/><体言><NE:LOCATION:日向国>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -16,29 +16,29 @@
 * 4D
 + 5D <体言>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="地方" sid="wiki00017105-00-01" id="4"/>
++ 6D <rel type="ノ？" target="地方" sid="wiki00017105-00-01" id="4"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="7"/><用言:判><体言><時制:過去><rel type="時間" target="かつて" sid="wiki00017105-00-01" id="2"/><rel type="修飾" target="行政" sid="wiki00017105-00-01" id="5"/><rel type="ノ？" target="日本" sid="wiki00017105-00-01" id="3"/>
++ 7D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="7"/><rel type="時間" target="かつて" sid="wiki00017105-00-01" id="2"/><rel type="修飾" target="行政" sid="wiki00017105-00-01" id="5"/><rel type="ノ？" target="日本" sid="wiki00017105-00-01" id="3"/><用言:判><体言><時制:過去>
 区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="国" sid="wiki00017105-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00017105-00-01" id="6"/>
++ -1D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="1"/><rel type="=構" target="国" sid="wiki00017105-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00017105-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017105-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="日向" sid="wiki00017105-00-01" id="0"/>
++ 1D <rel type="=" target="日向" sid="wiki00017105-00-01" id="0"/><体言>
 ひむか ひむか ひむか 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 3P <体言><NE:LOCATION:ひむかのくに><rel type="=" target="国" sid="wiki00017105-00-01" id="1"/>
++ 3P <rel type="=" target="国" sid="wiki00017105-00-01" id="1"/><体言><NE:LOCATION:ひむかのくに>
 くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="日向" sid="wiki00017105-00-01" id="0"/>
++ 3D <rel type="=" target="日向" sid="wiki00017105-00-01" id="0"/><体言>
 ひゅうが ひゅうが ひゅうが 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <NE:LOCATION:ひゅうがのくに><体言><rel type="=" target="国" sid="wiki00017105-00-01" id="1"/>
++ -1D <rel type="=" target="国" sid="wiki00017105-00-01" id="1"/><NE:LOCATION:ひゅうがのくに><体言>
 くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00017105-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/19 MEMO:
@@ -54,16 +54,16 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <体言><NE:LOCATION:西海道><rel type="=≒" target="国" sid="wiki00017105-00-01" id="1"/>
++ 4D <rel type="=≒" target="国" sid="wiki00017105-00-01" id="1"/><体言><NE:LOCATION:西海道>
 西海道 さいかいどう/にしのみち 西海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 6D <rel type="ガ" target="国" sid="wiki00017105-01" id="6"/><rel type="ニ" target="西海道" sid="wiki00017105-01" id="3"/><用言:動><時制:非過去><節-主辞>
 属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 6D <体言><rel type="=" target="制" sid="wiki00017105-01" id="1"/>
++ 6D <rel type="=" target="制" sid="wiki00017105-01" id="1"/><体言>
 令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="国" sid="wiki00017105-00-01" id="1"/><rel type="時間" target="のち" sid="wiki00017105-01" id="2"/><rel type="ノ？" target="令制" sid="wiki00017105-01" id="5"/><rel type="修飾" target="属する" sid="wiki00017105-01" id="4"/>
++ -1D <rel type="ガ" target="国" sid="wiki00017105-00-01" id="1"/><rel type="=構" target="国" sid="wiki00017105-00-01" id="1"/><rel type="時間" target="のち" sid="wiki00017105-01" id="2"/><rel type="ノ？" target="令制" sid="wiki00017105-01" id="5"/><rel type="修飾" target="属する" sid="wiki00017105-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

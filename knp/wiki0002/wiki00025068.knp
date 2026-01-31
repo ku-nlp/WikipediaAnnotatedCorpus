@@ -6,25 +6,25 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="動物" sid="wiki00025068-00-01" id="2"/>
++ 2D <rel type="ガ" target="動物" sid="wiki00025068-00-01" id="2"/><体言><非用言格解析:動>
 野生 やせい 野生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="野生" sid="wiki00025068-00-01" id="1"/>
++ 6D <rel type="修飾" target="野生" sid="wiki00025068-00-01" id="1"/><体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D <用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 4D
-+ 6P <体言><rel type="=構≒" target="動物" sid="wiki00025068-00-01" id="2"/><rel type="修飾" target="動物" sid="wiki00025068-00-01" id="2"/>
++ 6P <rel type="=構≒" target="動物" sid="wiki00025068-00-01" id="2"/><rel type="修飾" target="動物" sid="wiki00025068-00-01" id="2"/><体言>
 鳥類 ちょうるい 鳥類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="不特定:物"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="AND" target="不特定:物"/><体言><非用言格解析:動>
 哺乳 ほにゅう 哺乳 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ノ" target="哺乳" sid="wiki00025068-00-01" id="5"/><体言><rel type="=構≒" target="動物" sid="wiki00025068-00-01" id="2"/><rel type="修飾" target="動物" sid="wiki00025068-00-01" id="2"/>
++ 7D <rel type="ノ" target="哺乳" sid="wiki00025068-00-01" id="5"/><rel type="=構≒" target="動物" sid="wiki00025068-00-01" id="2"/><rel type="修飾" target="動物" sid="wiki00025068-00-01" id="2"/><体言>
 類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="人間" sid="wiki00025068-00-01" id="8"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="鳥類" sid="wiki00025068-00-01" id="4"/><rel type="ヲ" mode="AND" target="類" sid="wiki00025068-00-01" id="6"/>
++ 9D <rel type="ガ" target="人間" sid="wiki00025068-00-01" id="8"/><rel type="ヲ" target="鳥類" sid="wiki00025068-00-01" id="4"/><rel type="ヲ" mode="AND" target="類" sid="wiki00025068-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 捕獲 ほかく 捕獲 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
@@ -32,11 +32,11 @@
 人間 にんげん 人間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <体言><rel type="トイウ" target="捕獲する" sid="wiki00025068-00-01" id="7"/><rel type="ノ" target="人間" sid="wiki00025068-00-01" id="8"/><rel type="=構" target="狩猟" sid="wiki00025068-00-01" id="0"/>
++ 10D <rel type="トイウ" target="捕獲する" sid="wiki00025068-00-01" id="7"/><rel type="ノ" target="人間" sid="wiki00025068-00-01" id="8"/><rel type="=構" target="狩猟" sid="wiki00025068-00-01" id="0"/><体言>
 行為 こうい 行為 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="狩猟" sid="wiki00025068-00-01" id="0"/><rel type="ノ" target="行為" sid="wiki00025068-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="狩猟" sid="wiki00025068-00-01" id="0"/>
++ -1D <rel type="ガ" target="狩猟" sid="wiki00025068-00-01" id="0"/><rel type="ノ" target="行為" sid="wiki00025068-00-01" id="9"/><rel type="=構" target="狩猟" sid="wiki00025068-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

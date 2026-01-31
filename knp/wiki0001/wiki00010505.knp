@@ -10,7 +10,7 @@
 + 3D
 かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 6D <rel type="ガ" target="機関" sid="wiki00010505-00-01" id="6"/><用言:動><時制:過去><rel type="時間" target="かつて" sid="wiki00010505-00-01" id="2"/>
++ 6D <rel type="ガ" target="機関" sid="wiki00010505-00-01" id="6"/><rel type="時間" target="かつて" sid="wiki00010505-00-01" id="2"/><用言:動><時制:過去>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 4D
@@ -18,13 +18,13 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <体言><rel type="ノ？" target="日本" sid="wiki00010505-00-01" id="4"/>
++ 6D <rel type="ノ？" target="日本" sid="wiki00010505-00-01" id="4"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="日本" sid="wiki00010505-00-01" id="4"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00010505-00-01" id="5"/><rel type="=≒" target="省" sid="wiki00010505-00-01" id="1"/>
++ 7D <rel type="ノ？" target="日本" sid="wiki00010505-00-01" id="4"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00010505-00-01" id="5"/><rel type="=≒" target="省" sid="wiki00010505-00-01" id="1"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="省" sid="wiki00010505-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki00010505-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="省" sid="wiki00010505-00-01" id="1"/><rel type="=構" mode="AND" target="機関" sid="wiki00010505-00-01" id="6"/><memo text="CO"/>
++ -1D <rel type="ガ" target="省" sid="wiki00010505-00-01" id="1"/><rel type="ノ" target="機関" sid="wiki00010505-00-01" id="6"/><rel type="=構" target="省" sid="wiki00010505-00-01" id="1"/><rel type="=構" mode="AND" target="機関" sid="wiki00010505-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -38,26 +38,26 @@ EOS
 EOS
 # S-ID:wiki00010505-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/05 MEMO:
 * 1P
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動>
 教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3P <体言><rel type="ニカンシテ" target="教育" sid="wiki00010505-01" id="0"/>
++ 3P <rel type="ニカンシテ" target="教育" sid="wiki00010505-01" id="0"/><体言>
 政策 せいさく 政策 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D <体言>
 学術 がくじゅつ 学術 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="ニカンシテ" target="学術" sid="wiki00010505-01" id="2"/>
++ 5P <rel type="ニカンシテ" target="学術" sid="wiki00010505-01" id="2"/><体言>
 政策 せいさく 政策 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 5D <体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ニカンシテ" target="文化" sid="wiki00010505-01" id="4"/>
++ 6D <rel type="ニカンシテ" target="文化" sid="wiki00010505-01" id="4"/><体言>
 政策 せいさく 政策 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="省" sid="wiki00010505-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切><rel type="ヲ" target="政策等" sid="wiki00010505-01" id="5"/><rel type="ヲ" mode="AND" target="政策" sid="wiki00010505-01" id="3"/><rel type="ヲ" mode="AND" target="政策" sid="wiki00010505-01" id="1"/>
++ -1D <rel type="ガ" target="省" sid="wiki00010505-00-01" id="1"/><rel type="ヲ" target="政策等" sid="wiki00010505-01" id="5"/><rel type="ヲ" mode="AND" target="政策" sid="wiki00010505-01" id="3"/><rel type="ヲ" mode="AND" target="政策" sid="wiki00010505-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
 所管 しょかん 所管 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

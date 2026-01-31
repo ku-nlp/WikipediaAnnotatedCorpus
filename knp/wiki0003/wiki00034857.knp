@@ -2,20 +2,20 @@
 * 7D
 + 1D <体言><NE:OPTIONAL:イディッシュ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 イディッシュ いでぃっしゅ イディッシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 11D <体言><rel type="ノ？" target="イディッシュ" sid="wiki00034857-00-01" id="0"/>
++ 11D <rel type="ノ？" target="イディッシュ" sid="wiki00034857-00-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <体言>
 東 とう 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言><NE:LOCATION:東欧><rel type="修飾" target="東" sid="wiki00034857-00-01" id="2"/>
++ 5D <rel type="修飾" target="東" sid="wiki00034857-00-01" id="2"/><体言><NE:LOCATION:東欧>
 欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <体言><memo text="NEマニュアル3.1.3.Dより"/><NE:OPTIONAL:ユダヤ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
++ 5D <memo text="NEマニュアル3.1.3.Dより"/><体言><NE:OPTIONAL:ユダヤ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 ユダヤ ゆだや ユダヤ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 6D <体言><rel type="ノ？" target="ユダヤ" sid="wiki00034857-00-01" id="4"/><rel type="ノ？" mode="AND" target="欧" sid="wiki00034857-00-01" id="3"/>
++ 6D <rel type="ノ？" target="ユダヤ" sid="wiki00034857-00-01" id="4"/><rel type="ノ？" mode="AND" target="欧" sid="wiki00034857-00-01" id="3"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -23,21 +23,21 @@
 間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="言葉" sid="wiki00034857-00-01" id="11"/><用言:動><時制:過去><節-主辞><rel type="ニ" target="不特定:人"/><rel type="デ" target="間" sid="wiki00034857-00-01" id="6"/><memo text="係先、ドイツ語？"/>
++ 11D <rel type="ガ" target="言葉" sid="wiki00034857-00-01" id="11"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="間" sid="wiki00034857-00-01" id="6"/><memo text="係先、ドイツ語？"/><用言:動><時制:過去><節-主辞>
 話さ はなさ 話す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
 + 9D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 10D <体言><rel type="ノ？" target="ドイツ" sid="wiki00034857-00-01" id="8"/>
++ 10D <rel type="ノ？" target="ドイツ" sid="wiki00034857-00-01" id="8"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 11D <rel type="ガ" target="言葉" sid="wiki00034857-00-01" id="11"/><rel type="ニ" target="語" sid="wiki00034857-00-01" id="9"/><用言:形><時制:非過去><節-主辞>
 近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="修飾" target="近い" sid="wiki00034857-00-01" id="10"/><rel type="修飾" mode="AND" target="話されていた" sid="wiki00034857-00-01" id="7"/>
++ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="修飾" target="近い" sid="wiki00034857-00-01" id="10"/><rel type="修飾" mode="AND" target="話されていた" sid="wiki00034857-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 言葉 ことば 言葉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -51,14 +51,14 @@ EOS
 EOS
 # S-ID:wiki00034857-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/08/21 MEMO:
 * 1D
-+ 1D <体言><NE:OPTIONAL:ユダヤ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><rel type="=" target="ユダヤ" sid="wiki00034857-00-01" id="4"/>
++ 1D <rel type="=" target="ユダヤ" sid="wiki00034857-00-01" id="4"/><体言><NE:OPTIONAL:ユダヤ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 ユダヤ ゆだや ユダヤ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 2D <体言><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ノ？" target="ユダヤ" sid="wiki00034857-01" id="0"/>
++ 2D <rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ノ？" target="ユダヤ" sid="wiki00034857-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="語" sid="wiki00034857-01" id="1"/>
++ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="語" sid="wiki00034857-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 称さ しょうさ 称す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -68,15 +68,15 @@ EOS
 + 1P <体言><NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
 インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <体言><NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0><rel type="=≒" target="欧" sid="wiki00034857-00-01" id="3"/>
++ 2D <rel type="=≒" target="欧" sid="wiki00034857-00-01" id="3"/><体言><NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 5D <体言><rel type="ノ？" target="インド" sid="wiki00034857-02" id="0"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00034857-02" id="1"/>
++ 5D <rel type="ノ？" target="インド" sid="wiki00034857-02" id="0"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00034857-02" id="1"/><体言>
 語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 4D <体言><NE:OPTIONAL:ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
 ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 5D <体言><rel type="ノ？" target="ゲルマン" sid="wiki00034857-02" id="3"/>
++ 5D <rel type="ノ？" target="ゲルマン" sid="wiki00034857-02" id="3"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ" target="語" sid="wiki00034857-02" id="4"/><rel type="ノ" mode="AND" target="語族" sid="wiki00034857-02" id="2"/>
++ 6D <rel type="ノ" target="語" sid="wiki00034857-02" id="4"/><rel type="ノ" mode="AND" target="語族" sid="wiki00034857-02" id="2"/><体言>
 派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
@@ -85,9 +85,9 @@ EOS
 * 3D
 + 8D <体言>
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 9D <体言><NE:OPTIONAL:西ゲルマン><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="西" sid="wiki00034857-02" id="7"/><rel type="=≒" target="ゲルマン" sid="wiki00034857-02" id="3"/>
++ 9D <rel type="修飾" target="西" sid="wiki00034857-02" id="7"/><rel type="=≒" target="ゲルマン" sid="wiki00034857-02" id="3"/><体言><NE:OPTIONAL:西ゲルマン><NE-OPTIONAL:LOCATION,NONE:0>
 ゲルマン げるまん ゲルマン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 10D <体言><rel type="ノ？" target="ゲルマン" sid="wiki00034857-02" id="8"/><rel type="ノ" target="派" sid="wiki00034857-02" id="5"/>
++ 10D <rel type="ノ？" target="ゲルマン" sid="wiki00034857-02" id="8"/><rel type="ノ" target="派" sid="wiki00034857-02" id="5"/><体言>
 語群 ごぐん 語群 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -96,13 +96,13 @@ EOS
 * 5D
 + 12D <体言>
 高地 こうち 高地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 13D <体言><NE:OPTIONAL:高地ドイツ><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="高地" sid="wiki00034857-02" id="11"/>
++ 13D <rel type="修飾" target="高地" sid="wiki00034857-02" id="11"/><体言><NE:OPTIONAL:高地ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
 ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 14D <体言><rel type="ノ？" target="ドイツ" sid="wiki00034857-02" id="12"/><rel type="=≒" target="語" sid="wiki00034857-00-01" id="1"/>
++ 14D <rel type="ノ？" target="ドイツ" sid="wiki00034857-02" id="12"/><rel type="=≒" target="語" sid="wiki00034857-00-01" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10P
-+ 23P <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00034857-02" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00034857-02" id="13"/>
++ 23P <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00034857-02" id="13"/><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00034857-02" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -119,20 +119,20 @@ EOS
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 19D <体言><NE:LOCATION:アシュケナージ><memo text="ヘブライ語でドイツのこと"/><rel type="=" target="ドイツ" sid="wiki00034857-00-01" id="8"/>
++ 19D <rel type="=" target="ドイツ" sid="wiki00034857-00-01" id="8"/><memo text="ヘブライ語でドイツのこと"/><体言><NE:LOCATION:アシュケナージ>
 アシュケナージ あしゅけなーじ アシュケナージ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 21D <rel type="ノ" target="アシュケナージ" sid="wiki00034857-02" id="18"/><体言>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 21D <体言><NE:OPTIONAL:ユダヤ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 ユダヤ ゆだや ユダヤ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 22D <体言><rel type="修飾" target="系" sid="wiki00034857-02" id="19"/><rel type="修飾" mode="AND" target="400万人" sid="wiki00034857-02" id="17"/><rel type="=構" target="400万人" sid="wiki00034857-02" id="17"/><rel type="ノ？" target="ユダヤ" sid="wiki00034857-02" id="20"/>
++ 22D <rel type="修飾" target="系" sid="wiki00034857-02" id="19"/><rel type="修飾" mode="AND" target="400万人" sid="wiki00034857-02" id="17"/><rel type="=構" target="400万人" sid="wiki00034857-02" id="17"/><rel type="ノ？" target="ユダヤ" sid="wiki00034857-02" id="20"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
 + 23D <用言:動>
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニヨッテ" target="人" sid="wiki00034857-02" id="21"/><rel type="デ" target="中" sid="wiki00034857-02" id="16"/>
++ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ニヨッテ" target="人" sid="wiki00034857-02" id="21"/><rel type="デ" target="中" sid="wiki00034857-02" id="16"/><用言:動><時制:非過去><節-主辞><節-区切>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -141,13 +141,13 @@ EOS
 EOS
 # S-ID:wiki00034857-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/07 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="イディッシュ" sid="wiki00034857-00-01" id="0"/><NE:OPTIONAL:イーディッシュ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
++ 1D <rel type="=" target="イディッシュ" sid="wiki00034857-00-01" id="0"/><体言><NE:OPTIONAL:イーディッシュ><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
 イーディッシュ いーでぃっしゅ イーディッシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 2D <体言><rel type="ノ？" target="イーディッシュ" sid="wiki00034857-03" id="0"/><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/>
++ 2D <rel type="ノ？" target="イーディッシュ" sid="wiki00034857-03" id="0"/><rel type="=構" target="語" sid="wiki00034857-00-01" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="語" sid="wiki00034857-03" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><モダリティ-認識-蓋然性><memo text="モダリティ保留？"/>
++ -1D <rel type="ガ" target="語" sid="wiki00034857-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="語" sid="wiki00034857-03" id="1"/><memo text="モダリティ保留？"/><用言:動><時制:非過去><節-主辞><節-区切><モダリティ-認識-蓋然性>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

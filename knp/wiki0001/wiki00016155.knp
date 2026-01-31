@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言><NE:OPTIONAL:ギリシア><NE-OPTIONAL:LOCATION,NONE:0>
 ギリシア ぎりしあ ギリシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 7D <体言><rel type="ノ？" target="ギリシア" sid="wiki00016155-00-01" id="0"/><rel type="ノ？" mode="AND" target="語" sid="wiki00016155-00-01" id="3"/>
++ 7D <rel type="ノ？" target="ギリシア" sid="wiki00016155-00-01" id="0"/><rel type="ノ？" mode="AND" target="語" sid="wiki00016155-00-01" id="3"/><体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,22 +10,22 @@
 * 2D
 + 3D <rel type="=" target="ギリシア" sid="wiki00016155-00-01" id="0"/><体言><NE:OPTIONAL:ギリシア><NE-OPTIONAL:LOCATION,NONE:0>
 ギリシア ぎりしあ ギリシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="ギリシア" sid="wiki00016155-00-01" id="2"/>
++ 4D <rel type="ノ？" target="ギリシア" sid="wiki00016155-00-01" id="2"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00016155-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="ため" sid="wiki00016155-00-01" id="5"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語" sid="wiki00016155-00-01" id="3"/><rel type="外の関係" target="ため" sid="wiki00016155-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
 書き表す かきあらわす 書き表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 4D
 + 6D <rel type="ノ" target="書き表す" sid="wiki00016155-00-01" id="4"/><体言><節-区切>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="7"/><用言:動><時制:非過去><rel type="ニ" target="不特定:人"/><rel type="修飾" target="ため" sid="wiki00016155-00-01" id="5"/>
++ 7D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="7"/><rel type="ニ" target="不特定:人"/><rel type="修飾" target="ため" sid="wiki00016155-00-01" id="5"/><用言:動><時制:非過去>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="修飾" target="用いられる" sid="wiki00016155-00-01" id="6"/>
++ -1D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="=構" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="修飾" target="用いられる" sid="wiki00016155-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -34,26 +34,26 @@ EOS
 * -1D
 + 1D <rel type="=" target="ギリシア" sid="wiki00016155-00-01" id="0"/><体言><NE:OPTIONAL:ギリシア><NE-OPTIONAL:LOCATION,NONE:0>
 ギリシア ぎりしあ ギリシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <体言><rel type="=" target="文字" sid="wiki00016155-00-01" id="1"/>
++ -1D <rel type="=" target="文字" sid="wiki00016155-00-01" id="1"/><体言>
 もじ もじ もじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00016155-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/11/14 MEMO:
 * 2D
 + 2D <体言>
 現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><NE:OPTIONAL:ギリシア><NE-OPTIONAL:LOCATION,NONE:0><rel type="=" target="ギリシア" sid="wiki00016155-00-01" id="2"/>
++ 2D <rel type="=" target="ギリシア" sid="wiki00016155-00-01" id="2"/><体言><NE:OPTIONAL:ギリシア><NE-OPTIONAL:LOCATION,NONE:0>
 ギリシア ぎりしあ ギリシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="ギリシア" sid="wiki00016155-01" id="1"/><rel type="=≒" target="語" sid="wiki00016155-00-01" id="3"/><rel type="時間" target="現代" sid="wiki00016155-01" id="0"/>
++ 4D <rel type="ノ？" target="ギリシア" sid="wiki00016155-01" id="1"/><rel type="=≒" target="語" sid="wiki00016155-00-01" id="3"/><rel type="時間" target="現代" sid="wiki00016155-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="ノ" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="=構" target="文字" sid="wiki00016155-00-01" id="1"/>
++ 4D <rel type="ノ" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="=構" target="文字" sid="wiki00016155-00-01" id="1"/><体言>
 24 にじゅうよん 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="カラ" target="24文字" sid="wiki00016155-01" id="3"/><rel type="デ" target="語" sid="wiki00016155-01" id="2"/>
++ -1D <rel type="ガ" target="文字" sid="wiki00016155-00-01" id="1"/><rel type="カラ" target="24文字" sid="wiki00016155-01" id="3"/><rel type="デ" target="語" sid="wiki00016155-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -2,7 +2,7 @@
 * 4D
 + 1D <体言>
 西武 せいぶ 西武 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 7D <体言><NE:OPTIONAL:西武ドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0><rel type="ノ？" target="所沢市" sid="wiki00015740-00-01" id="4"/>
++ 7D <rel type="ノ？" target="所沢市" sid="wiki00015740-00-01" id="4"/><体言><NE:OPTIONAL:西武ドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
 ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,10 +11,10 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="ノ？" target="日本" sid="wiki00015740-00-01" id="2"/>
++ 4D <rel type="ノ？" target="日本" sid="wiki00015740-00-01" id="2"/><体言>
 埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:埼玉県所沢市><rel type="ノ？" target="埼玉県" sid="wiki00015740-00-01" id="3"/>
++ 5D <rel type="ノ？" target="埼玉県" sid="wiki00015740-00-01" id="3"/><体言><NE:LOCATION:埼玉県所沢市>
 所沢 ところざわ 所沢 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -22,9 +22,9 @@
 + 7D <rel type="ガ" target="球場" sid="wiki00015740-00-01" id="7"/><rel type="ニ" target="所沢市" sid="wiki00015740-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 7D <体言><rel type="=≒" target="ドーム" sid="wiki00015740-00-01" id="1"/>
++ 7D <rel type="=≒" target="ドーム" sid="wiki00015740-00-01" id="1"/><体言>
 ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="修飾" target="ドーム" sid="wiki00015740-00-01" id="1"/>
++ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="=構" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="修飾" target="ドーム" sid="wiki00015740-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 球場 きゅうじょう 球場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -33,7 +33,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="西武" sid="wiki00015740-00-01" id="0"/><体言>
 せいぶ せいぶ せいぶ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <体言><rel type="=" target="ドーム" sid="wiki00015740-00-01" id="1"/><NE:OPTIONAL:せいぶドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
++ -1D <rel type="=" target="ドーム" sid="wiki00015740-00-01" id="1"/><体言><NE:OPTIONAL:せいぶドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
 ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00015740-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/08/22 MEMO:
@@ -45,13 +45,13 @@ EOS
 * 2D
 + 2D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><体言>
 南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><体言><rel type="ノ？" target="南西" sid="wiki00015740-01" id="1"/>
++ 4D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><rel type="ノ？" target="南西" sid="wiki00015740-01" id="1"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <体言>
 狭山 さやま 狭山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言><NE:LOCATION:狭山丘陵><rel type="修飾" target="部" sid="wiki00015740-01" id="2"/><rel type="ノ？" target="埼玉県" sid="wiki00015740-01" id="0"/>
++ 5D <rel type="修飾" target="部" sid="wiki00015740-01" id="2"/><rel type="ノ？" target="埼玉県" sid="wiki00015740-01" id="0"/><体言><NE:LOCATION:狭山丘陵>
 丘陵 きゅうりょう 丘陵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
@@ -60,7 +60,7 @@ EOS
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="ノ" target="ドーム" sid="wiki00015740-00-01" id="1"/>
++ 8D <rel type="ノ" target="ドーム" sid="wiki00015740-00-01" id="1"/><体言>
 周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -72,7 +72,7 @@ EOS
 囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 8D
-+ 10D <体言><rel type="トイウ" target="囲まれた" sid="wiki00015740-01" id="8"/>
++ 10D <rel type="トイウ" target="囲まれた" sid="wiki00015740-01" id="8"/><体言>
 ロケーション ろけーしょん ロケーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D

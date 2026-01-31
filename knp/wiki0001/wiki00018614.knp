@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言>
 国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="国立" sid="wiki00018614-00-01" id="0"/>
++ 7D <rel type="修飾" target="国立" sid="wiki00018614-00-01" id="0"/><体言>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,11 +10,11 @@
 * 2D
 + 3D <体言>
 自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ヲ" target="自然" sid="wiki00018614-00-01" id="2"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ノ" target="自然" sid="wiki00018614-00-01" id="2"/>
++ 4D <rel type="ヲ" target="自然" sid="wiki00018614-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ノ" target="自然" sid="wiki00018614-00-01" id="2"/><体言><非用言格解析:動>
 保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="トイウ" target="保護" sid="wiki00018614-00-01" id="3"/><rel type="ノ" target="公園" sid="wiki00018614-00-01" id="7"/><rel type="ノ？" target="国" sid="wiki00018614-00-01" id="5"/>
++ 6D <rel type="トイウ" target="保護" sid="wiki00018614-00-01" id="3"/><rel type="ノ" target="公園" sid="wiki00018614-00-01" id="7"/><rel type="ノ？" target="国" sid="wiki00018614-00-01" id="5"/><体言>
 目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -22,12 +22,12 @@
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="国" sid="wiki00018614-00-01" id="5"/><rel type="ヲ" target="公園" sid="wiki00018614-00-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="目的" sid="wiki00018614-00-01" id="4"/><rel type="デ" mode="？" target="なし"/><rel type="トシテ" target="公園" sid="wiki00018614-00-01" id="1"/>
++ 7D <rel type="ガ" target="国" sid="wiki00018614-00-01" id="5"/><rel type="ヲ" target="公園" sid="wiki00018614-00-01" id="7"/><rel type="デ" target="目的" sid="wiki00018614-00-01" id="4"/><rel type="デ" mode="？" target="なし"/><rel type="トシテ" target="公園" sid="wiki00018614-00-01" id="1"/><用言:動><時制:非過去><節-主辞>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="公園" sid="wiki00018614-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="公園" sid="wiki00018614-00-01" id="1"/><rel type="修飾" target="指定している" sid="wiki00018614-00-01" id="6"/>
++ -1D <rel type="ガ" target="公園" sid="wiki00018614-00-01" id="1"/><rel type="=構" target="公園" sid="wiki00018614-00-01" id="1"/><rel type="修飾" target="指定している" sid="wiki00018614-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -11,15 +11,15 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 7D <体言><NE:LOCATION:日本><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 7D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
 + 6D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="プロ" sid="wiki00010723-00-01" id="5"/>
++ 7D <rel type="修飾" target="プロ" sid="wiki00010723-00-01" id="5"/><体言>
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><memo text="CO"/><rel type="ノ？" target="日本" sid="wiki00010723-00-01" id="4"/><rel type="修飾" target="野球" sid="wiki00010723-00-01" id="6"/>
++ -1D <rel type="ガ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="=構" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="ノ？" target="日本" sid="wiki00010723-00-01" id="4"/><rel type="修飾" target="野球" sid="wiki00010723-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -27,11 +27,11 @@ EOS
 * -1D
 + 3D <rel type="=" target="北海道" sid="wiki00010723-00-01" id="0"/><体言>
 ほっかいどう ほっかいどう ほっかいどう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 2D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言>
 にっぽん にっぽん にっぽん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 3D <rel type="=" target="ハム" sid="wiki00010723-00-01" id="2"/><体言>
 ハム はむ ハム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:ほっかいどうにっぽんハムファイターズ><体言><rel type="=" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ -1D <rel type="=" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><NE:ORGANIZATION:ほっかいどうにっぽんハムファイターズ><体言>
 ファイターズ ふぁいたーず ファイターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00010723-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/06 MEMO:
@@ -51,31 +51,31 @@ EOS
 EOS
 # S-ID:wiki00010723-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/06 MEMO:
 * 4D
-+ 6D <体言><非用言格解析:動><rel type="ノ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="ト" target="ハム" sid="wiki00010723-02" id="2"/><rel type="ト" mode="AND" target="ハム" sid="wiki00010723-02" id="4"/><rel type="ト" mode="AND" target="ハム" sid="wiki00010723-02" id="5"/><rel type="ト" mode="AND" target="ファイターズ" sid="wiki00010723-02" id="6"/>
++ 6D <rel type="ノ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><rel type="ト" target="ハム" sid="wiki00010723-02" id="2"/><rel type="ト" mode="AND" target="ハム" sid="wiki00010723-02" id="4"/><rel type="ト" mode="AND" target="ハム" sid="wiki00010723-02" id="5"/><rel type="ト" mode="AND" target="ファイターズ" sid="wiki00010723-02" id="6"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2D <体言><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 2D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 4P <体言><NE:ORGANIZATION:日本ハム><rel type="=構" target="略称" sid="wiki00010723-02" id="0"/><rel type="=" mode="AND" target="ハム" sid="wiki00010723-00-01" id="2"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ 4P <rel type="=構" target="略称" sid="wiki00010723-02" id="0"/><rel type="=" mode="AND" target="ハム" sid="wiki00010723-00-01" id="2"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><体言><NE:ORGANIZATION:日本ハム>
 ハム はむ ハム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3P
-+ 4D <体言><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 4D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 5P <体言><NE:ORGANIZATION:日ハム><rel type="=" target="ハム" sid="wiki00010723-02" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ 5P <rel type="=" target="ハム" sid="wiki00010723-02" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><体言><NE:ORGANIZATION:日ハム>
 ハム はむ ハム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 4P
-+ 6P <体言><NE:ORGANIZATION:ハム><rel type="=" target="ハム" sid="wiki00010723-02" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ 6P <rel type="=" target="ハム" sid="wiki00010723-02" id="2"/><rel type="=構" mode="AND" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><体言><NE:ORGANIZATION:ハム>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ハム はむ ハム 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00010723-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ファイターズ><memo text="CO"/><rel type="=構" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" target="略称" sid="wiki00010723-02" id="0"/><rel type="=構" mode="AND" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ファイターズ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ファイターズ ふぁいたーず ファイターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -87,32 +87,32 @@ EOS
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 5D <体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><rel type="=" target="北海道" sid="wiki00010723-00-01" id="0"/>
++ 5D <rel type="=" target="北海道" sid="wiki00010723-00-01" id="0"/><体言>
 北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 4D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><rel type="=" target="ハム" sid="wiki00010723-00-01" id="2"/>
++ 5D <rel type="=" target="ハム" sid="wiki00010723-00-01" id="2"/><体言>
 ハム はむ ハム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 12D <体言><NE:ORGANIZATION:株式会社北海道日本ハムファイターズ><rel type="=≒" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ 12D <rel type="=≒" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><体言><NE:ORGANIZATION:株式会社北海道日本ハムファイターズ>
 ファイターズ ふぁいたーず ファイターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 9D <体言><rel type="=" target="北海道" sid="wiki00010723-00-01" id="0"/>
++ 9D <rel type="=" target="北海道" sid="wiki00010723-00-01" id="0"/><体言>
 北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 8D <体言><rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/>
++ 8D <rel type="=" target="日本" sid="wiki00010723-00-01" id="1"/><体言>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 9D <体言><rel type="=" target="ハム" sid="wiki00010723-00-01" id="2"/>
++ 9D <rel type="=" target="ハム" sid="wiki00010723-00-01" id="2"/><体言>
 ハム はむ ハム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 12D <体言><NE:ORGANIZATION:北海道日本ハムファイターズ><rel type="=" target="ファイターズ" sid="wiki00010723-00-01" id="3"/>
++ 12D <rel type="=" target="ファイターズ" sid="wiki00010723-00-01" id="3"/><体言><NE:ORGANIZATION:北海道日本ハムファイターズ>
 ファイターズ ふぁいたーず ファイターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D <体言><rel type="=" target="球団" sid="wiki00010723-00-01" id="7"/>
++ 11D <rel type="=" target="球団" sid="wiki00010723-00-01" id="7"/><体言>
 球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <rel type="ガ" target="会社" sid="wiki00010723-03" id="12"/><rel type="ヲ" target="球団" sid="wiki00010723-03" id="10"/><体言><非用言格解析:動>
 運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ファイターズ" sid="wiki00010723-03" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ファイターズ" sid="wiki00010723-03" id="5"/><rel type="ノ？" target="運営" sid="wiki00010723-03" id="11"/><rel type="ノ？" mode="AND" target="ファイターズ" sid="wiki00010723-03" id="9"/>
++ -1D <rel type="ガ" target="ファイターズ" sid="wiki00010723-03" id="5"/><rel type="=構" target="ファイターズ" sid="wiki00010723-03" id="5"/><rel type="ノ？" target="運営" sid="wiki00010723-03" id="11"/><rel type="ノ？" mode="AND" target="ファイターズ" sid="wiki00010723-03" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -10,16 +10,16 @@
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8P <rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="ノ？" target="計量" sid="wiki00020089-00-01" id="2"/><rel type="ノ？" mode="AND" target="長さ" sid="wiki00020089-00-01" id="1"/>
++ 8P <rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="=構" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="ノ？" target="計量" sid="wiki00020089-00-01" id="2"/><rel type="ノ？" mode="AND" target="長さ" sid="wiki00020089-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D <体言>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="国際" sid="wiki00020089-00-01" id="4"/><rel type="=≒" target="海里" sid="wiki00020089-00-01" id="0"/>
++ 6D <rel type="修飾" target="国際" sid="wiki00020089-00-01" id="4"/><rel type="=≒" target="海里" sid="wiki00020089-00-01" id="0"/><体言>
 海里 かいり 海里 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -31,7 +31,7 @@
 正確に せいかくに 正確だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <体言><用言:判><時制:非過去><節-主辞><節-区切><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="5"/><rel type="外の関係" target="場合" sid="wiki00020089-00-01" id="6"/>
++ -1D <rel type="ガ" target="海里" sid="wiki00020089-00-01" id="5"/><rel type="外の関係" target="場合" sid="wiki00020089-00-01" id="6"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
 1852 せんはっぴゃくごじゅうに 1852 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 m めーとる m 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
@@ -41,11 +41,11 @@ m めーとる m 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020089-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/30 MEMO:
 * 1P
-+ 1P <体言><rel type="=" target="海里" sid="wiki00020089-00-01" id="0"/>
++ 1P <rel type="=" target="海里" sid="wiki00020089-00-01" id="0"/><体言>
 かいり かいり かいり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="海里" sid="wiki00020089-00-01" id="0"/>
++ -1D <rel type="=" target="海里" sid="wiki00020089-00-01" id="0"/><体言>
 浬 かいり 浬 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00020089-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2025/04/16 MEMO:
@@ -60,18 +60,18 @@ EOS
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="ノ" target="地球上" sid="wiki00020089-01-01" id="1"/>
++ 3D <rel type="ノ" target="地球上" sid="wiki00020089-01-01" id="1"/><体言>
 緯度 いど 緯度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="緯度" sid="wiki00020089-01-01" id="2"/><rel type="=構" target="緯度" sid="wiki00020089-01-01" id="2"/>
++ 4D <rel type="修飾" target="緯度" sid="wiki00020089-01-01" id="2"/><rel type="=構" target="緯度" sid="wiki00020089-01-01" id="2"/><体言>
 1 いっ 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 分 ぷん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 5D <rel type="ニ" target="1分" sid="wiki00020089-01-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="長さ" sid="wiki00020089-01-01" id="5"/>
++ 5D <rel type="ニ" target="1分" sid="wiki00020089-01-01" id="3"/><rel type="ガ" target="長さ" sid="wiki00020089-01-01" id="5"/><用言:動><時制:非過去><節-主辞>
 相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6D
-+ 15D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="トイウ" target="相当する" sid="wiki00020089-01-01" id="4"/><rel type="=構" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="=≒" mode="AND" target="長さ" sid="wiki00020089-00-01" id="1"/>
++ 15D <rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="トイウ" target="相当する" sid="wiki00020089-01-01" id="4"/><rel type="=構" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="=≒" mode="AND" target="長さ" sid="wiki00020089-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL <基本句-主辞>
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 な な だ 判定詞 4 * 0 判定詞 25 ダ列基本連体形 3 NIL
@@ -83,7 +83,7 @@ EOS
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10P <rel type="ノ" target="海面上" sid="wiki00020089-01-01" id="6"/><体言><rel type="=≒" target="長さ" sid="wiki00020089-01-01" id="5"/>
++ 10P <rel type="ノ" target="海面上" sid="wiki00020089-01-01" id="6"/><rel type="=≒" target="長さ" sid="wiki00020089-01-01" id="5"/><体言>
 長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL <基本句-主辞>
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -93,25 +93,25 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 10D <体言>
 航空 こうくう 航空 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="ノ？" target="航海" sid="wiki00020089-01-01" id="8"/><rel type="ノ？" mode="AND" target="航空" sid="wiki00020089-01-01" id="9"/>
++ 11D <rel type="ノ？" target="航海" sid="wiki00020089-01-01" id="8"/><rel type="ノ？" mode="AND" target="航空" sid="wiki00020089-01-01" id="9"/><体言>
 距離 きょり 距離 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="長さ" sid="wiki00020089-01-01" id="7"/><rel type="ヲ" mode="AND" target="距離など" sid="wiki00020089-01-01" id="10"/><rel type="外の関係" target="の" sid="wiki00020089-01-01" id="12"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="長さ" sid="wiki00020089-01-01" id="7"/><rel type="ヲ" mode="AND" target="距離など" sid="wiki00020089-01-01" id="10"/><rel type="外の関係" target="の" sid="wiki00020089-01-01" id="12"/><用言:動><時制:非過去><節-主辞>
 表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 + 13D <rel type="トイウ" target="表す" sid="wiki00020089-01-01" id="11"/>
 の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ニ" target="の" sid="wiki00020089-01-01" id="12"/><用言:形><時制:非過去><節-主辞><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="外の関係" target="ため" sid="wiki00020089-01-01" id="14"/>
++ 14D <rel type="ニ" target="の" sid="wiki00020089-01-01" id="12"/><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="外の関係" target="ため" sid="wiki00020089-01-01" id="14"/><用言:形><時制:非過去><節-主辞>
 便利である べんりである 便利だ 形容詞 3 * 0 ナ形容詞 21 デアル列基本形 17 NIL <基本句-主辞>
 * -1D
 + 15D <rel type="ノ" target="便利である" sid="wiki00020089-01-01" id="13"/><体言><節-区切>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00020089-01-01" id="14"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="海里" sid="wiki00020089-00-01" id="0"/><rel type="修飾" target="ため" sid="wiki00020089-01-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -119,11 +119,11 @@ EOS
 EOS
 # S-ID:wiki00020089-01-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/16 MEMO:
 * 1D
-+ 1D <体言><rel type="=構" target="緯度" sid="wiki00020089-01-01" id="2"/><rel type="修飾" target="緯度" sid="wiki00020089-01-01" id="2"/>
++ 1D <rel type="=構" target="緯度" sid="wiki00020089-01-01" id="2"/><rel type="修飾" target="緯度" sid="wiki00020089-01-01" id="2"/><体言>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 度 ど 度 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="1度" sid="wiki00020089-01-02" id="0"/><体言><NE:PERCENT:60分の1><rel type="=" target="1分" sid="wiki00020089-01-01" id="3"/>
++ -1D <rel type="ノ" target="1度" sid="wiki00020089-01-02" id="0"/><rel type="=" target="1分" sid="wiki00020089-01-01" id="3"/><体言><NE:PERCENT:60分の1>
 60分の1 ろくじゅうぶんのいち 60分の1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:single>
 EOS

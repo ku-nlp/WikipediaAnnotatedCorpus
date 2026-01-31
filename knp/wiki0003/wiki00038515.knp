@@ -1,23 +1,23 @@
 # S-ID:wiki00038515-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2025/05/15 MEMO:
 * 8D
-+ 2D <体言><memo text="Charge-Coupled Device（CCD: 電荷結合素子）"/>
++ 2D <memo text="Charge-Coupled Device（CCD: 電荷結合素子）"/><体言>
 CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <体言>
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="修飾" target="CCD" sid="wiki00038515-00-01" id="0"/><rel type="修飾" mode="AND" target="イメージ" sid="wiki00038515-00-01" id="1"/>
++ 17D <rel type="修飾" target="CCD" sid="wiki00038515-00-01" id="0"/><rel type="修飾" mode="AND" target="イメージ" sid="wiki00038515-00-01" id="1"/><体言>
 センサ せんさ センサ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 5D <体言>
 固体 こたい 固体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><memo text="サ変？"/>
++ 5D <memo text="サ変？"/><体言>
 撮像 さつぞう 撮像 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="撮像" sid="wiki00038515-00-01" id="4"/><rel type="修飾" target="固体" sid="wiki00038515-00-01" id="3"/><rel type="=≒" target="センサ" sid="wiki00038515-00-01" id="2"/>
++ 6D <rel type="ノ？" target="撮像" sid="wiki00038515-00-01" id="4"/><rel type="修飾" target="固体" sid="wiki00038515-00-01" id="3"/><rel type="=≒" target="センサ" sid="wiki00038515-00-01" id="2"/><体言>
 素子 そし 素子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 17P <rel type="ガ" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="ノ" target="素子" sid="wiki00038515-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="=構" mode="AND" target="素子" sid="wiki00038515-00-01" id="5"/>
++ 17P <rel type="ガ" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="ノ" target="素子" sid="wiki00038515-00-01" id="5"/><rel type="=構" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="=構" mode="AND" target="素子" sid="wiki00038515-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -25,13 +25,13 @@ CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 4P
 + 8D <体言>
 ビデオ びでお ビデオ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10P <体言><rel type="修飾" target="ビデオ" sid="wiki00038515-00-01" id="7"/>
++ 10P <rel type="修飾" target="ビデオ" sid="wiki00038515-00-01" id="7"/><体言>
 カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
 + 10D <体言>
 デジタル でじたる デジタル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13P <体言><rel type="修飾" target="デジタル" sid="wiki00038515-00-01" id="9"/>
++ 13P <rel type="修飾" target="デジタル" sid="wiki00038515-00-01" id="9"/><体言>
 カメラ かめら カメラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
@@ -39,7 +39,7 @@ CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 光 ひかり 光 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 13D <rel type="ガ" target="器" sid="wiki00038515-00-01" id="13"/><rel type="ヲ" target="光" sid="wiki00038515-00-01" id="11"/><体言><非用言格解析:動>
 検出 けんしゅつ 検出 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ノ？" target="検出" sid="wiki00038515-00-01" id="12"/>
++ 15D <rel type="ノ？" target="検出" sid="wiki00038515-00-01" id="12"/><体言>
 器 き 器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -47,7 +47,7 @@ CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 15D <用言:形><時制:非過去>
 広く ひろく 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 * 8D
-+ 17D <rel type="ガ" target="素子" sid="wiki00038515-00-01" id="17"/><用言:動><時制:非過去><rel type="ニ" target="カメラ" sid="wiki00038515-00-01" id="10"/><rel type="ニ" mode="AND" target="器など" sid="wiki00038515-00-01" id="13"/><rel type="ニ" mode="AND" target="カメラ" sid="wiki00038515-00-01" id="8"/>
++ 17D <rel type="ガ" target="素子" sid="wiki00038515-00-01" id="17"/><rel type="ニ" target="カメラ" sid="wiki00038515-00-01" id="10"/><rel type="ニ" mode="AND" target="器など" sid="wiki00038515-00-01" id="13"/><rel type="ニ" mode="AND" target="カメラ" sid="wiki00038515-00-01" id="8"/><用言:動><時制:非過去>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
@@ -55,7 +55,7 @@ CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
 + 17D <体言>
 半導体 はんどうたい 半導体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="センサ" sid="wiki00038515-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="ノ？" target="半導体" sid="wiki00038515-00-01" id="16"/>
++ -1D <rel type="ガ" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="=構" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="ノ？" target="半導体" sid="wiki00038515-00-01" id="16"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 素子 そし 素子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -74,15 +74,15 @@ EOS
 + 2D
 単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <体言><rel type="=" target="CCD" sid="wiki00038515-00-01" id="0"/><rel type="=構" mode="AND" target="センサ" sid="wiki00038515-00-01" id="2"/>
++ 2D <rel type="=" target="CCD" sid="wiki00038515-00-01" id="0"/><rel type="=構" mode="AND" target="センサ" sid="wiki00038515-00-01" id="2"/><体言>
 CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="センサ" sid="wiki00038515-00-02" id="3"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="CCD" sid="wiki00038515-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00038515-01" id="3"/>
++ 3D <rel type="ガ" target="センサ" sid="wiki00038515-00-02" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="CCD" sid="wiki00038515-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00038515-01" id="3"/><用言:動><時制:非過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 4D
-+ 4D <体言><rel type="トイウ" target="呼ばれる" sid="wiki00038515-01" id="2"/>
++ 4D <rel type="トイウ" target="呼ばれる" sid="wiki00038515-01" id="2"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 22D
@@ -102,18 +102,18 @@ CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 16D
 + 8D <体言>
 頭字 とうじ 頭字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><rel type="修飾" target="頭字" sid="wiki00038515-01" id="7"/><rel type="トイウ" target="CCD" sid="wiki00038515-01" id="5"/><rel type="=構" target="CCD" sid="wiki00038515-01" id="5"/>
++ 20D <rel type="修飾" target="頭字" sid="wiki00038515-01" id="7"/><rel type="トイウ" target="CCD" sid="wiki00038515-01" id="5"/><rel type="=構" target="CCD" sid="wiki00038515-01" id="5"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 自体 じたい 自体 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 11D <体言><memo text="Complementary Metal-Oxide-Semiconductor; 相補型MOS"/>
++ 11D <memo text="Complementary Metal-Oxide-Semiconductor; 相補型MOS"/><体言>
 CMOS しーもす CMOS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 11D <体言>
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="修飾" target="CMOS" sid="wiki00038515-01" id="9"/><rel type="修飾" mode="AND" target="イメージ" sid="wiki00038515-01" id="10"/>
++ 13D <rel type="修飾" target="CMOS" sid="wiki00038515-01" id="9"/><rel type="修飾" mode="AND" target="イメージ" sid="wiki00038515-01" id="10"/><体言>
 センサ せんさ センサ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -123,18 +123,18 @@ CMOS しーもす CMOS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 14D <体言><rel type="ノ" target="センサ" sid="wiki00038515-01" id="11"/><rel type="トイウ" target="CMOS" sid="wiki00038515-01" id="12"/>
++ 14D <rel type="ノ" target="センサ" sid="wiki00038515-01" id="11"/><rel type="トイウ" target="CMOS" sid="wiki00038515-01" id="12"/><体言>
 部分 ぶぶん 部分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 20D <用言:形><時制:非過去><rel type="ガ" target="不特定:状況"/><rel type="ト" target="部分" sid="wiki00038515-01" id="13"/>
++ 20D <rel type="ガ" target="不特定:状況"/><rel type="ト" target="部分" sid="wiki00038515-01" id="13"/><用言:形><時制:非過去>
 同様に どうように 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
 + 16D <rel type="=" target="イメージ" sid="wiki00038515-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="=≒" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="修飾" target="イメージ" sid="wiki00038515-01" id="15"/>
++ 17D <rel type="=≒" target="センサ" sid="wiki00038515-00-01" id="2"/><rel type="修飾" target="イメージ" sid="wiki00038515-01" id="15"/><体言>
 センサ せんさ センサ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -160,19 +160,19 @@ CMOS しーもす CMOS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 実際 じっさい 実際 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 20D
-+ 23D <体言><rel type="=" target="イメージ" sid="wiki00038515-00-01" id="1"/>
++ 23D <rel type="=" target="イメージ" sid="wiki00038515-00-01" id="1"/><体言>
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 25D <体言><rel type="=" target="センサ" sid="wiki00038515-00-01" id="2"/>
++ 25D <rel type="=" target="センサ" sid="wiki00038515-00-01" id="2"/><体言>
 センサ せんさ センサ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 20D
-+ 25D <体言><rel type="=" target="CCD" sid="wiki00038515-01" id="5"/>
++ 25D <rel type="=" target="CCD" sid="wiki00038515-01" id="5"/><体言>
 CCD CCD CCD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 22D
-+ 27D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="CCD" sid="wiki00038515-01" id="24"/><体言><非用言格解析:動><rel type="ニ" target="センサ以外" sid="wiki00038515-01" id="23"/>
++ 27D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="CCD" sid="wiki00038515-01" id="24"/><rel type="ニ" target="センサ以外" sid="wiki00038515-01" id="23"/><体言><非用言格解析:動>
 応用 おうよう 応用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 22D

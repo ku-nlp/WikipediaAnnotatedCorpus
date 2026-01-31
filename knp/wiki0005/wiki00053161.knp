@@ -1,6 +1,6 @@
 # S-ID:wiki00053161-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/10/31 MEMO:
 * 4D
-+ 5D <体言><NE:LOCATION:八尾市><rel type="ノ？" target="大阪府" sid="wiki00053161-00-01" id="1"/>
++ 5D <rel type="ノ？" target="大阪府" sid="wiki00053161-00-01" id="1"/><体言><NE:LOCATION:八尾市>
 八尾 やお 八尾 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -13,7 +13,7 @@
 * 3D
 + 3D <体言><NE:LOCATION:中河内>
 中河内 なかかわち 中河内 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4D <rel type="ノ" target="中河内" sid="wiki00053161-00-01" id="2"/><体言><rel type="ノ？" target="大阪府" sid="wiki00053161-00-01" id="1"/><rel type="=≒" target="八尾市" sid="wiki00053161-00-01" id="0"/>
++ 4D <rel type="ノ" target="中河内" sid="wiki00053161-00-01" id="2"/><rel type="ノ？" target="大阪府" sid="wiki00053161-00-01" id="1"/><rel type="=≒" target="八尾市" sid="wiki00053161-00-01" id="0"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -21,13 +21,13 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="八尾市" sid="wiki00053161-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="八尾市" sid="wiki00053161-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="位置する" sid="wiki00053161-00-01" id="4"/>
++ -1D <rel type="ガ" target="八尾市" sid="wiki00053161-00-01" id="0"/><rel type="=構" target="八尾市" sid="wiki00053161-00-01" id="0"/><rel type="修飾" target="位置する" sid="wiki00053161-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00053161-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/31 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="八尾市" sid="wiki00053161-00-01" id="0"/><NE:LOCATION:やおし>
++ -1D <rel type="=" target="八尾市" sid="wiki00053161-00-01" id="0"/><体言><NE:LOCATION:やおし>
 やお やお やお 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
@@ -35,11 +35,11 @@ EOS
 * 1D
 + 1D <体言>
 中核 ちゅうかく 中核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=構" target="八尾市" sid="wiki00053161-00-01" id="0"/><rel type="修飾" target="中核" sid="wiki00053161-01" id="0"/>
++ 2D <rel type="=構" target="八尾市" sid="wiki00053161-00-01" id="0"/><rel type="修飾" target="中核" sid="wiki00053161-01" id="0"/><体言>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="八尾市" sid="wiki00053161-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="市" sid="wiki00053161-01" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="政令により指定　政令立案は総務大臣が行う"/>
++ -1D <rel type="ガ" target="八尾市" sid="wiki00053161-00-01" id="0"/><rel type="ニ" target="市" sid="wiki00053161-01" id="1"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="政令により指定　政令立案は総務大臣が行う"/><用言:動><時制:非過去><節-主辞><節-区切>
 指定 してい 指定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL

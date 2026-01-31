@@ -7,7 +7,7 @@
 * 3D
 + 2D <体言>
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 4P <体言><NE:ORGANIZATION:鎌倉幕府><rel type="ノ" target="鎌倉" sid="wiki00040587-00-01" id="1"/>
++ 4P <rel type="ノ" target="鎌倉" sid="wiki00040587-00-01" id="1"/><体言><NE:ORGANIZATION:鎌倉幕府>
 幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D <体言>
@@ -27,19 +27,19 @@
 * 4D
 + 9P <rel type="ガ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ガ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><rel type="ヲ" target="領" sid="wiki00040587-00-01" id="7"/><rel type="ヲ" mode="AND" target="荘園" sid="wiki00040587-00-01" id="5"/><rel type="外の関係" target="ため" sid="wiki00040587-00-01" id="10"/><用言:動><時制:非過去>
 管理 かんり 管理 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ガ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><rel type="ヲ" target="荘園" sid="wiki00040587-00-01" id="5"/><rel type="ヲ" mode="AND" target="領" sid="wiki00040587-00-01" id="7"/><rel type="外の関係" target="ため" sid="wiki00040587-00-01" id="10"/>
++ 10D <rel type="ガ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ガ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><rel type="ヲ" target="荘園" sid="wiki00040587-00-01" id="5"/><rel type="ヲ" mode="AND" target="領" sid="wiki00040587-00-01" id="7"/><rel type="外の関係" target="ため" sid="wiki00040587-00-01" id="10"/><用言:動><時制:非過去><節-主辞>
 支配 しはい 支配 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 11D <体言><節-区切><rel type="ノ" target="支配する" sid="wiki00040587-00-01" id="9"/><rel type="ノ" mode="AND" target="管理" sid="wiki00040587-00-01" id="8"/>
++ 11D <rel type="ノ" target="支配する" sid="wiki00040587-00-01" id="9"/><rel type="ノ" mode="AND" target="管理" sid="wiki00040587-00-01" id="8"/><体言><節-区切>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ヲ" target="職" sid="wiki00040587-00-01" id="12"/><用言:動><時制:過去><rel type="ガ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ガ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/>
++ 12D <rel type="ヲ" target="職" sid="wiki00040587-00-01" id="12"/><rel type="ガ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ガ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><用言:動><時制:過去>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="地頭" sid="wiki00040587-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="地頭" sid="wiki00040587-00-01" id="0"/>
++ -1D <rel type="ガ" target="地頭" sid="wiki00040587-00-01" id="0"/><rel type="=構" target="地頭" sid="wiki00040587-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -50,18 +50,18 @@ EOS
 EOS
 # S-ID:wiki00040587-00-03 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/25 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="領" sid="wiki00040587-00-01" id="7"/>
++ -1D <rel type="=" target="領" sid="wiki00040587-00-01" id="7"/><体言>
 公領 こうりょう 公領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00040587-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/02/14 MEMO:
 * 1D
 + 1D <rel type="=" target="地頭" sid="wiki00040587-00-01" id="0"/><体言>
 地頭 じとう 地頭 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="トイウ" target="地頭" sid="wiki00040587-01" id="0"/><rel type="=構" target="職" sid="wiki00040587-00-01" id="12"/>
++ 2D <rel type="トイウ" target="地頭" sid="wiki00040587-01" id="0"/><rel type="=構" target="職" sid="wiki00040587-00-01" id="12"/><体言>
 職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="職" sid="wiki00040587-00-01" id="12"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="職" sid="wiki00040587-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="職" sid="wiki00040587-00-01" id="12"/><rel type="ト" target="職" sid="wiki00040587-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -72,7 +72,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="守護" sid="wiki00040587-02" id="0"/><rel type="ガ" mode="AND" target="地頭" sid="wiki00040587-00-01" id="0"/><rel type="ニ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ニ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><rel type="=" target="設置した" sid="wiki00040587-00-01" id="11"/>
++ -1D <rel type="ガ" target="守護" sid="wiki00040587-02" id="0"/><rel type="ガ" mode="AND" target="地頭" sid="wiki00040587-00-01" id="0"/><rel type="ニ" target="幕府" sid="wiki00040587-00-01" id="4"/><rel type="ニ" mode="AND" target="幕府" sid="wiki00040587-00-01" id="2"/><rel type="=" target="設置した" sid="wiki00040587-00-01" id="11"/><用言:動><時制:過去><節-主辞><節-区切>
 設置 せっち 設置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

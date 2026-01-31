@@ -10,7 +10,7 @@
 + 3D <rel type="=" target="河北" sid="wiki00042935-00-01" id="0"/><体言>
 宮城 みやぎ 宮城 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:宮城県仙台市><rel type="ノ？" target="宮城県" sid="wiki00042935-00-01" id="2"/>
++ 5D <rel type="ノ？" target="宮城県" sid="wiki00042935-00-01" id="2"/><体言><NE:LOCATION:宮城県仙台市>
 仙台 せんだい 仙台 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -24,7 +24,7 @@
 * 5D
 + 7D <rel type="=" target="河北" sid="wiki00042935-00-01" id="0"/><体言>
 河北 かほく 河北 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 8D <体言><rel type="=" target="新報" sid="wiki00042935-00-01" id="1"/>
++ 8D <rel type="=" target="新報" sid="wiki00042935-00-01" id="1"/><体言>
 新報 しんぽう 新報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 9D <体言><NE:ORGANIZATION:河北新報社>
 社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -36,7 +36,7 @@
 * -1D
 + 11D <体言>
 日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="新報" sid="wiki00042935-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="日刊" sid="wiki00042935-00-01" id="10"/>
++ -1D <rel type="ガ" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="修飾" target="日刊" sid="wiki00042935-00-01" id="10"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -52,20 +52,20 @@ EOS
 + 2D <用言:形><時制:非過去>
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="=" target="宮城県" sid="wiki00042935-00-01" id="2"/><体言><NE:LOCATION:宮城県><rel type="ノ？" target="地方" sid="wiki00042935-01" id="6"/>
++ 2D <rel type="=" target="宮城県" sid="wiki00042935-00-01" id="2"/><rel type="ノ？" target="地方" sid="wiki00042935-01" id="6"/><体言><NE:LOCATION:宮城県>
 宮城 みやぎ 宮城 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="紙" sid="wiki00042935-01" id="4"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="宮城県" sid="wiki00042935-01" id="1"/>
++ 4D <rel type="ガ" target="紙" sid="wiki00042935-01" id="4"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="宮城県" sid="wiki00042935-01" id="1"/><用言:動><時制:非過去><節-主辞>
 購読 こうどく 購読 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 4D <体言><rel type="=≒" target="宮城県" sid="wiki00042935-01" id="1"/>
++ 4D <rel type="=≒" target="宮城県" sid="wiki00042935-01" id="1"/><体言>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ガ" target="新報" sid="wiki00042935-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="地方" sid="wiki00042935-01" id="3"/><rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/>
++ 10D <rel type="ガ" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="ノ？" target="地方" sid="wiki00042935-01" id="3"/><rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -73,13 +73,13 @@ EOS
 * 5D
 + 6D <体言><NE:LOCATION:東北>
 東北 とうほく 東北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 8D <体言><rel type="ノ？" target="東北" sid="wiki00042935-01" id="5"/>
++ 8D <rel type="ノ？" target="東北" sid="wiki00042935-01" id="5"/><体言>
 地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D <体言><非用言格解析:動><rel type="=≒" target="地方" sid="wiki00042935-01" id="6"/>
++ 8D <rel type="=≒" target="地方" sid="wiki00042935-01" id="6"/><体言><非用言格解析:動>
 ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="ノ？" target="ブロック" sid="wiki00042935-01" id="7"/><rel type="ノ？" mode="AND" target="地方" sid="wiki00042935-01" id="6"/>
++ 9D <rel type="=構" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="ノ？" target="ブロック" sid="wiki00042935-01" id="7"/><rel type="ノ？" mode="AND" target="地方" sid="wiki00042935-01" id="6"/><体言>
 紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -96,21 +96,21 @@ EOS
 EOS
 # S-ID:wiki00042935-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/08 MEMO:
 * 4D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="社" sid="wiki00042935-00-01" id="8"/><rel type="ヲ" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="外の関係" target="部数" sid="wiki00042935-02-01" id="1"/>
++ 1D <rel type="ガ" target="社" sid="wiki00042935-00-01" id="8"/><rel type="ヲ" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="外の関係" target="部数" sid="wiki00042935-02-01" id="1"/><体言><非用言格解析:動>
 発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="新報" sid="wiki00042935-00-01" id="1"/><体言><rel type="修飾" target="発行" sid="wiki00042935-02-01" id="0"/>
++ 5D <rel type="ノ" target="新報" sid="wiki00042935-00-01" id="1"/><rel type="修飾" target="発行" sid="wiki00042935-02-01" id="0"/><体言>
 部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 3D <rel type="ノ" target="新報" sid="wiki00042935-00-01" id="1"/><体言>
 朝刊 ちょうかん 朝刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 4P
-+ 5P <体言><rel type="ガ" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="ノ" target="朝刊" sid="wiki00042935-02-01" id="2"/><rel type="=構" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="=構" mode="AND" target="朝刊" sid="wiki00042935-02-01" id="2"/>
++ 5P <rel type="ガ" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="ノ" target="朝刊" sid="wiki00042935-02-01" id="2"/><rel type="=構" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="=構" mode="AND" target="朝刊" sid="wiki00042935-02-01" id="2"/><体言>
 41万2511 よんじゅういちまんにせんごひゃくじゅういち 41万2511 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ノ" target="新報" sid="wiki00042935-00-01" id="1"/>
++ 5D <rel type="ノ" target="新報" sid="wiki00042935-00-01" id="1"/><体言>
 夕刊 ゆうかん 夕刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
 + -1D <rel type="ガ" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="ノ" target="夕刊" sid="wiki00042935-02-01" id="4"/><rel type="=構" target="部数" sid="wiki00042935-02-01" id="1"/><rel type="=構" mode="AND" target="夕刊" sid="wiki00042935-02-01" id="4"/><memo text="CO"/><用言:判><体言><節-主辞><節-区切><時制:非過去>
@@ -137,9 +137,9 @@ EOS
 + 2D <体言>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 - から - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 3D <体言><NE:DATE:2020年1-6月><rel type="カラ" target="1" sid="wiki00042935-02-03" id="1"/>
++ 3D <rel type="カラ" target="1" sid="wiki00042935-02-03" id="1"/><体言><NE:DATE:2020年1-6月>
 6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ -1D <rel type="時間" target="6月" sid="wiki00042935-02-03" id="2"/><体言><非用言格解析:動><rel type="ヲ" target="部数" sid="wiki00042935-02-01" id="1"/>
++ -1D <rel type="時間" target="6月" sid="wiki00042935-02-03" id="2"/><rel type="ヲ" target="部数" sid="wiki00042935-02-01" id="1"/><体言><非用言格解析:動>
 平均 へいきん 平均 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

@@ -11,7 +11,7 @@
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3P <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 3P <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 立法 りっぽう 立法 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4P <体言>
@@ -23,7 +23,7 @@
 * 4D
 + 6D
 各 かく 各 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="行政" sid="wiki00046424-00-01" id="4"/><rel type="ノ？" mode="AND" target="司法" sid="wiki00046424-00-01" id="3"/><rel type="ノ？" mode="AND" target="立法" sid="wiki00046424-00-01" id="2"/><rel type="修飾" target="各" sid="wiki00046424-00-01" id="5"/>
++ 7D <rel type="ノ？" target="行政" sid="wiki00046424-00-01" id="4"/><rel type="ノ？" mode="AND" target="司法" sid="wiki00046424-00-01" id="3"/><rel type="ノ？" mode="AND" target="立法" sid="wiki00046424-00-01" id="2"/><rel type="修飾" target="各" sid="wiki00046424-00-01" id="5"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="ノ" target="機関" sid="wiki00046424-00-01" id="6"/><体言>
 すべて すべて すべて 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -36,14 +36,14 @@
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <体言><非用言格解析:動><rel type="ガ" target="国家" sid="wiki00046424-00-01" id="9"/><rel type="ガ" mode="？" target="機構全体" sid="wiki00046424-00-01" id="11"/><rel type="ヲ" target="国家" sid="wiki00046424-00-01" id="9"/><rel type="ヲ" mode="AND" target="不特定:人"/>
++ 11D <rel type="ガ" target="国家" sid="wiki00046424-00-01" id="9"/><rel type="ガ" mode="？" target="機構全体" sid="wiki00046424-00-01" id="11"/><rel type="ヲ" target="国家" sid="wiki00046424-00-01" id="9"/><rel type="ヲ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
 統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="=構" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="修飾" target="統治" sid="wiki00046424-00-01" id="10"/><rel type="ノ？" target="国家" sid="wiki00046424-00-01" id="9"/>
++ 12D <rel type="=構" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="修飾" target="統治" sid="wiki00046424-00-01" id="10"/><rel type="ノ？" target="国家" sid="wiki00046424-00-01" id="9"/><体言>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15P
-+ 22P <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ヲ" target="機構全体" sid="wiki00046424-00-01" id="11"/><用言:動><節-主辞><節-区切><rel type="トシテ" target="広義" sid="wiki00046424-00-01" id="1"/><rel type="トシテ" mode="？" target="なし"/>
++ 22P <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ヲ" target="機構全体" sid="wiki00046424-00-01" id="11"/><rel type="トシテ" target="広義" sid="wiki00046424-00-01" id="1"/><rel type="トシテ" mode="？" target="なし"/><用言:動><節-主辞><節-区切>
 指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
@@ -66,23 +66,23 @@
 * 13D
 + 18D <体言>
 官僚 かんりょう 官僚 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言><rel type="ノ？" target="官僚" sid="wiki00046424-00-01" id="17"/>
++ 19D <rel type="ノ？" target="官僚" sid="wiki00046424-00-01" id="17"/><体言>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 21D <rel type="ガ" target="府" sid="wiki00046424-00-01" id="21"/><用言:動><時制:非過去><節-主辞><rel type="カラ" target="内閣" sid="wiki00046424-00-01" id="14"/><rel type="カラ" mode="AND" target="機構" sid="wiki00046424-00-01" id="18"/>
++ 21D <rel type="ガ" target="府" sid="wiki00046424-00-01" id="21"/><rel type="カラ" target="内閣" sid="wiki00046424-00-01" id="14"/><rel type="カラ" mode="AND" target="機構" sid="wiki00046424-00-01" id="18"/><用言:動><時制:非過去><節-主辞>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 15D
-+ 21D <体言><rel type="=" target="行政" sid="wiki00046424-00-01" id="4"/>
++ 21D <rel type="=" target="行政" sid="wiki00046424-00-01" id="4"/><体言>
 行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 22D <体言><rel type="ノ？" target="行政" sid="wiki00046424-00-01" id="20"/><rel type="=構" target="政府" sid="wiki00046424-00-01" id="0"/>
++ 22D <rel type="ノ？" target="行政" sid="wiki00046424-00-01" id="20"/><rel type="=構" target="政府" sid="wiki00046424-00-01" id="0"/><体言>
 府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19P
-+ 26P <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ヲ" target="府" sid="wiki00046424-00-01" id="21"/><用言:動><節-主辞><節-区切><rel type="トシテ" target="狭義" sid="wiki00046424-00-01" id="13"/><rel type="トシテ" mode="？" target="なし"/>
++ 26P <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ヲ" target="府" sid="wiki00046424-00-01" id="21"/><rel type="トシテ" target="狭義" sid="wiki00046424-00-01" id="13"/><rel type="トシテ" mode="？" target="なし"/><用言:動><節-主辞><節-区切>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -92,14 +92,14 @@
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 19D
-+ 26D <体言><rel type="=" target="内閣" sid="wiki00046424-00-01" id="14"/><rel type="=≒" mode="AND" target="政府" sid="wiki00046424-00-01" id="0"/>
++ 26D <rel type="=" target="内閣" sid="wiki00046424-00-01" id="14"/><rel type="=≒" mode="AND" target="政府" sid="wiki00046424-00-01" id="0"/><体言>
 内閣 ないかく 内閣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
 + 26D
 ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ト" target="内閣" sid="wiki00046424-00-01" id="24"/><用言:判><時制:非過去><節-主辞><節-区切><rel type="トシテ" target="最狭義" sid="wiki00046424-00-01" id="23"/><rel type="トシテ" mode="？" target="なし"/>
++ -1D <rel type="ガ" target="政府" sid="wiki00046424-00-01" id="0"/><rel type="ト" target="内閣" sid="wiki00046424-00-01" id="24"/><rel type="トシテ" target="最狭義" sid="wiki00046424-00-01" id="23"/><rel type="トシテ" mode="？" target="なし"/><用言:判><時制:非過去><節-主辞><節-区切>
 同義 どうぎ 同義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

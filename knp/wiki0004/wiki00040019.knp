@@ -4,22 +4,22 @@
 原子 げんし 原子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="ノ" target="原子" sid="wiki00040019-00-01" id="0"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="修飾" target="核" sid="wiki00040019-00-01" id="1"/>
++ 3D <rel type="修飾" target="核" sid="wiki00040019-00-01" id="1"/><体言>
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 14D <rel type="ニカンシテ" target="物理" sid="wiki00040019-00-01" id="2"/>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 6D <rel type="ガ" target="作用" sid="wiki00040019-00-01" id="7"/><用言:形><時制:非過去>
++ 6D <rel type="ガ" target="作用" sid="wiki00040019-00-01" id="6"/><用言:形><時制:非過去>
 強い つよい 強い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 3D
 + 6D <体言>
 相互 そうご 相互 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><非用言格解析:動><rel type="ガ" target="不特定:物"/><rel type="修飾" target="相互" sid="wiki00040019-00-01" id="5"/><rel type="修飾" mode="AND" target="強い" sid="wiki00040019-00-01" id="4"/>
++ 7D <rel type="ガ" target="不特定:物"/><rel type="修飾" target="相互" sid="wiki00040019-00-01" id="5"/><rel type="修飾" mode="AND" target="強い" sid="wiki00040019-00-01" id="4"/><体言><非用言格解析:動>
 作用 さよう 作用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="粒子" sid="wiki00040019-00-01" id="9"/><rel type="ニ" target="作用" sid="wiki00040019-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
++ 8D <rel type="ガ" target="粒子" sid="wiki00040019-00-01" id="8"/><rel type="ニ" target="作用" sid="wiki00040019-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 従う したがう 従う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 5D
 + 11D <体言>
@@ -28,35 +28,35 @@
 * 6D
 + 10D <体言>
 多 た 多 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><rel type="修飾" target="多" sid="wiki00040019-00-01" id="9"/>
++ 11D <rel type="修飾" target="多" sid="wiki00040019-00-01" id="9"/><体言>
 体 たい 体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="ニカンシテ" target="体" sid="wiki00040019-00-01" id="10"/><rel type="ノ" target="粒子" sid="wiki00040019-00-01" id="8"/>
++ 12D <rel type="ニカンシテ" target="体" sid="wiki00040019-00-01" id="10"/><rel type="ノ" target="粒子" sid="wiki00040019-00-01" id="8"/><体言>
 問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="問題" sid="wiki00040019-00-01" id="12"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="領域" sid="wiki00040019-00-01" id="14"/>
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="問題" sid="wiki00040019-00-01" id="11"/><rel type="外の関係" target="領域" sid="wiki00040019-00-01" id="14"/><用言:動><時制:非過去><節-主辞>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
 + 14D <体言><非用言格解析:動>
 学問 がくもん 学問 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="学" sid="wiki00040019-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="学問" sid="wiki00040019-00-01" id="13"/><rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><memo text="CO"/><rel type="トイウ" target="研究する" sid="wiki00040019-00-01" id="12"/>
++ -1D <rel type="ガ" target="学" sid="wiki00040019-00-01" id="3"/><rel type="修飾" target="学問" sid="wiki00040019-00-01" id="13"/><rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><rel type="トイウ" target="研究する" sid="wiki00040019-00-01" id="12"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00040019-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/02/13 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="原子" sid="wiki00040019-00-01" id="0"/>
++ 1D <rel type="=" target="原子" sid="wiki00040019-00-01" id="0"/><体言>
 げんし げんし げんし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 + 2D <rel type="=" target="核" sid="wiki00040019-00-01" id="1"/>
 かく かく かく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="=" target="物理" sid="wiki00040019-00-01" id="2"/>
++ 3D <rel type="=" target="物理" sid="wiki00040019-00-01" id="2"/><体言>
 ぶつり ぶつり ぶつり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6P <rel type="=" target="学" sid="wiki00040019-00-01" id="3"/><体言>
 がく がく がく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 6D <体言><rel type="ノ" target="学" sid="wiki00040019-00-01" id="3"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
++ 6D <rel type="ノ" target="学" sid="wiki00040019-00-01" id="3"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 + 6D <体言>
@@ -71,12 +71,12 @@ physics physics physics 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 4D
 + 9D <rel type="=" target="核" sid="wiki00040019-00-01" id="1"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=" target="物理" sid="wiki00040019-00-01" id="2"/><rel type="=構" mode="AND" target="学" sid="wiki00040019-00-01" id="3"/>
++ 10D <rel type="=" target="物理" sid="wiki00040019-00-01" id="2"/><rel type="=構" mode="AND" target="学" sid="wiki00040019-00-01" id="3"/><体言>
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学" sid="wiki00040019-00-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="物理" sid="wiki00040019-00-02" id="9"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="学" sid="wiki00040019-00-01" id="3"/><rel type="ト" target="物理" sid="wiki00040019-00-02" id="9"/><用言:動><時制:非過去><節-主辞><節-区切>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00040019-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2024/02/13 MEMO:
@@ -84,51 +84,51 @@ EOS
 + 7D
 主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 3D
-+ 2D <体言><rel type="=" target="原子" sid="wiki00040019-00-01" id="0"/>
++ 2D <rel type="=" target="原子" sid="wiki00040019-00-01" id="0"/><体言>
 原子 げんし 原子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="=" target="核" sid="wiki00040019-00-01" id="1"/>
++ 6D <rel type="=" target="核" sid="wiki00040019-00-01" id="1"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 4D <体言><rel type="=" target="核" sid="wiki00040019-00-02" id="8"/>
++ 4D <rel type="=" target="核" sid="wiki00040019-00-02" id="8"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="ノ" target="核" sid="wiki00040019-01-01" id="2"/><rel type="修飾" target="核" sid="wiki00040019-01-01" id="3"/>
++ 6P <rel type="ノ" target="核" sid="wiki00040019-01-01" id="2"/><rel type="修飾" target="核" sid="wiki00040019-01-01" id="3"/><体言>
 構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D <体言><rel type="=" target="核" sid="wiki00040019-01-01" id="3"/>
++ 6D <rel type="=" target="核" sid="wiki00040019-01-01" id="3"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><非用言格解析:動><rel type="ガ" target="核" sid="wiki00040019-01-01" id="2"/><rel type="修飾" target="核" sid="wiki00040019-01-01" id="5"/>
++ 7D <rel type="ガ" target="核" sid="wiki00040019-01-01" id="2"/><rel type="修飾" target="核" sid="wiki00040019-01-01" id="5"/><体言><非用言格解析:動>
 反応 はんのう 反応 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="反応など" sid="wiki00040019-01-01" id="6"/><rel type="ヲ" mode="AND" target="構造" sid="wiki00040019-01-01" id="4"/><rel type="外の関係" target="分野" sid="wiki00040019-01-01" id="8"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="反応など" sid="wiki00040019-01-01" id="6"/><rel type="ヲ" mode="AND" target="構造" sid="wiki00040019-01-01" id="4"/><rel type="外の関係" target="分野" sid="wiki00040019-01-01" id="8"/><用言:動><時制:非過去><節-主辞>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 9D <体言><rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><rel type="トイウ" target="扱う" sid="wiki00040019-01-01" id="7"/>
++ 9D <rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><rel type="トイウ" target="扱う" sid="wiki00040019-01-01" id="7"/><体言>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="学" sid="wiki00040019-00-01" id="3"/><rel type="ノ" target="分野" sid="wiki00040019-01-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="学" sid="wiki00040019-00-01" id="3"/><rel type="ノ" target="分野" sid="wiki00040019-01-01" id="8"/><rel type="=構" target="学" sid="wiki00040019-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00040019-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/21 MEMO:
 * 1P
-+ 1D <体言><rel type="=" target="核" sid="wiki00040019-01-01" id="5"/>
++ 1D <rel type="=" target="核" sid="wiki00040019-01-01" id="5"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <rel type="ガ" target="核" sid="wiki00040019-01-02" id="0"/><体言><非用言格解析:動><rel type="外の関係" target="反応" sid="wiki00040019-01-02" id="2"/>
++ 2D <rel type="ガ" target="核" sid="wiki00040019-01-02" id="0"/><rel type="外の関係" target="反応" sid="wiki00040019-01-02" id="2"/><体言><非用言格解析:動>
 分裂 ぶんれつ 分裂 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><非用言格解析:動><rel type="=≒" target="反応" sid="wiki00040019-01-01" id="6"/><rel type="トイウ" target="分裂" sid="wiki00040019-01-02" id="1"/><rel type="ガ" target="核" sid="wiki00040019-01-02" id="0"/>
++ 5P <rel type="=≒" target="反応" sid="wiki00040019-01-01" id="6"/><rel type="トイウ" target="分裂" sid="wiki00040019-01-02" id="1"/><rel type="ガ" target="核" sid="wiki00040019-01-02" id="0"/><体言><非用言格解析:動>
 反応 はんのう 反応 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 4D <rel type="=" target="核" sid="wiki00040019-01-02" id="0"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><非用言格解析:動><rel type="ガ" target="核" sid="wiki00040019-01-02" id="3"/><rel type="外の関係" target="反応" sid="wiki00040019-01-02" id="5"/>
++ 5D <rel type="ガ" target="核" sid="wiki00040019-01-02" id="3"/><rel type="外の関係" target="反応" sid="wiki00040019-01-02" id="5"/><体言><非用言格解析:動>
 融合 ゆうごう 融合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ノ" target="融合" sid="wiki00040019-01-02" id="4"/><rel type="=≒" target="反応" sid="wiki00040019-01-01" id="6"/><rel type="トイウ" target="融合" sid="wiki00040019-01-02" id="4"/><体言><非用言格解析:動><rel type="ガ" target="核" sid="wiki00040019-01-02" id="3"/>
++ -1D <rel type="ノ" target="融合" sid="wiki00040019-01-02" id="4"/><rel type="=≒" target="反応" sid="wiki00040019-01-01" id="6"/><rel type="トイウ" target="融合" sid="wiki00040019-01-02" id="4"/><rel type="ガ" target="核" sid="wiki00040019-01-02" id="3"/><体言><非用言格解析:動>
 反応 はんのう 反応 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00040019-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2024/02/13 MEMO:
@@ -139,27 +139,27 @@ EOS
 * 2D
 + 2D <rel type="=" target="核" sid="wiki00040019-01-02" id="0"/><体言>
 核 かく 核 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="修飾" target="核" sid="wiki00040019-02" id="1"/><rel type="=構" target="核" sid="wiki00040019-02" id="1"/>
++ 4P <rel type="修飾" target="核" sid="wiki00040019-02" id="1"/><rel type="=構" target="核" sid="wiki00040019-02" id="1"/><体言>
 物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 4D <体言>
 ハドロン はどろん ハドロン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="修飾" target="ハドロン" sid="wiki00040019-02" id="3"/><rel type="=≒" target="物質" sid="wiki00040019-02" id="2"/><rel type="=構" mode="AND" target="ハドロン" sid="wiki00040019-02" id="3"/>
++ 5D <rel type="修飾" target="ハドロン" sid="wiki00040019-02" id="3"/><rel type="=≒" target="物質" sid="wiki00040019-02" id="2"/><rel type="=構" mode="AND" target="ハドロン" sid="wiki00040019-02" id="3"/><体言>
 物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <体言><rel type="ノ" target="物質" sid="wiki00040019-02" id="4"/><rel type="ノ" mode="AND" target="物質" sid="wiki00040019-02" id="2"/>
++ 6D <rel type="ノ" target="物質" sid="wiki00040019-02" id="4"/><rel type="ノ" mode="AND" target="物質" sid="wiki00040019-02" id="2"/><体言>
 性質 せいしつ 性質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="性質" sid="wiki00040019-02" id="5"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="学" sid="wiki00040019-02" id="9"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="性質" sid="wiki00040019-02" id="5"/><rel type="外の関係" target="学" sid="wiki00040019-02" id="9"/><用言:動><時制:非過去><節-主辞>
 調べる しらべる 調べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 8D <体言><rel type="=" target="ハドロン" sid="wiki00040019-02" id="3"/>
++ 8D <rel type="=" target="ハドロン" sid="wiki00040019-02" id="3"/><体言>
 ハドロン はどろん ハドロン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="ハドロン" sid="wiki00040019-02" id="7"/>
++ 9D <rel type="修飾" target="ハドロン" sid="wiki00040019-02" id="7"/><体言>
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="トイウ" target="調べる" sid="wiki00040019-02" id="6"/><rel type="ニカンシテ" target="物理" sid="wiki00040019-02" id="8"/>
++ 12D <rel type="トイウ" target="調べる" sid="wiki00040019-02" id="6"/><rel type="ニカンシテ" target="物理" sid="wiki00040019-02" id="8"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -167,11 +167,11 @@ EOS
 + 11D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 12D <体言><rel type="=" target="分野" sid="wiki00040019-01-01" id="8"/><rel type="=≒" mode="AND" target="学" sid="wiki00040019-02" id="9"/>
++ 12D <rel type="=" target="分野" sid="wiki00040019-01-01" id="8"/><rel type="=≒" mode="AND" target="学" sid="wiki00040019-02" id="9"/><体言>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="学" sid="wiki00040019-02" id="9"/><rel type="ノ" target="分野" sid="wiki00040019-02" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="学" sid="wiki00040019-02" id="9"/>
++ -1D <rel type="ガ" target="学" sid="wiki00040019-02" id="9"/><rel type="ノ" target="分野" sid="wiki00040019-02" id="11"/><rel type="=構" target="学" sid="wiki00040019-02" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

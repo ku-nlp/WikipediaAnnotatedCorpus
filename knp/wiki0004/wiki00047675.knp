@@ -2,7 +2,7 @@
 * 6D
 + 1D <体言>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 10D <体言><非用言格解析:動><NE:ORGANIZATION:アフリカ連合><rel type="ガ" target="アフリカ" sid="wiki00047675-00-01" id="0"/>
++ 10D <rel type="ガ" target="アフリカ" sid="wiki00047675-00-01" id="0"/><体言><非用言格解析:動><NE:ORGANIZATION:アフリカ連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -23,35 +23,35 @@
 * 5D
 + 7D <rel type="ガ" target="国" sid="wiki00047675-00-01" id="7"/><rel type="ニ" target="連合" sid="wiki00047675-00-01" id="1"/><体言><非用言格解析:動>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="修飾" target="55" sid="wiki00047675-00-01" id="5"/><rel type="=構" target="55" sid="wiki00047675-00-01" id="5"/><rel type="ノ？" target="加盟" sid="wiki00047675-00-01" id="6"/>
++ 8D <rel type="修飾" target="55" sid="wiki00047675-00-01" id="5"/><rel type="=構" target="55" sid="wiki00047675-00-01" id="5"/><rel type="ノ？" target="加盟" sid="wiki00047675-00-01" id="6"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ガ" target="連合" sid="wiki00047675-00-01" id="10"/><用言:動><時制:非過去><節-主辞><rel type="カラ" target="国" sid="wiki00047675-00-01" id="7"/>
++ 10D <rel type="ガ" target="連合" sid="wiki00047675-00-01" id="10"/><rel type="カラ" target="国" sid="wiki00047675-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 10D <体言><rel type="=" target="大陸" sid="wiki00047675-00-01" id="3"/>
++ 10D <rel type="=" target="大陸" sid="wiki00047675-00-01" id="3"/><体言>
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="連合" sid="wiki00047675-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="大陸" sid="wiki00047675-00-01" id="9"/><rel type="=構" target="連合" sid="wiki00047675-00-01" id="1"/>
++ -1D <rel type="ガ" target="連合" sid="wiki00047675-00-01" id="1"/><rel type="修飾" target="大陸" sid="wiki00047675-00-01" id="9"/><rel type="=構" target="連合" sid="wiki00047675-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00047675-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/05 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="アフリカ" sid="wiki00047675-00-01" id="0"/>
++ 1D <rel type="=" target="アフリカ" sid="wiki00047675-00-01" id="0"/><体言>
 African African African 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D <体言><rel type="=" target="連合" sid="wiki00047675-00-01" id="1"/><NE:ORGANIZATION:African　Union>
++ 2D <rel type="=" target="連合" sid="wiki00047675-00-01" id="1"/><体言><NE:ORGANIZATION:African　Union>
 Union Union Union 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=" target="連合" sid="wiki00047675-00-01" id="1"/><NE:ORGANIZATION:AU>
++ -1D <rel type="=" target="連合" sid="wiki00047675-00-01" id="1"/><体言><NE:ORGANIZATION:AU>
 AU AU AU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00047675-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2024/04/09 MEMO:
 * 9D
-+ 13D <体言><NE:ORGANIZATION:AU><rel type="=" target="AU" sid="wiki00047675-00-02" id="2"/>
++ 13D <rel type="=" target="AU" sid="wiki00047675-00-02" id="2"/><体言><NE:ORGANIZATION:AU>
 AU AU AU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -67,15 +67,15 @@ AU AU AU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:sin
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <体言><NE:LOCATION:リビア><rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/>
++ 5D <rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/><体言><NE:LOCATION:リビア>
 リビア りびあ リビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><NE:LOCATION:シルテ><rel type="ノ？" target="リビア" sid="wiki00047675-01" id="4"/>
++ 6D <rel type="ノ？" target="リビア" sid="wiki00047675-01" id="4"/><体言><NE:LOCATION:シルテ>
 シルテ しるて シルテ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="宣言" sid="wiki00047675-01" id="8"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="デ" target="シルテ" sid="wiki00047675-01" id="5"/><rel type="時間" target="9日" sid="wiki00047675-01" id="3"/>
++ 8D <rel type="ガ" target="宣言" sid="wiki00047675-01" id="8"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="シルテ" sid="wiki00047675-01" id="5"/><rel type="時間" target="9日" sid="wiki00047675-01" id="3"/><用言:動><時制:過去><節-主辞>
 行わ おこなわ 行う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9D
@@ -88,7 +88,7 @@ AU AU AU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:sin
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 10D <体言><rel type="=" target="アフリカ" sid="wiki00047675-00-01" id="0"/>
++ 10D <rel type="=" target="アフリカ" sid="wiki00047675-00-01" id="0"/><体言>
 アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 11D <rel type="=" target="連合" sid="wiki00047675-00-01" id="1"/><体言><非用言格解析:動><NE:ORGANIZATION:アフリカ連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -98,10 +98,10 @@ AU AU AU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:sin
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="ヲ" target="設立" sid="wiki00047675-01" id="11"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="デ" target="宣言" sid="wiki00047675-01" id="8"/>
++ 13D <rel type="ヲ" target="設立" sid="wiki00047675-01" id="11"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="不特定:人"/><rel type="デ" target="宣言" sid="wiki00047675-01" id="8"/><用言:動><節-主辞><節-区切>
 呼びかけて よびかけて 呼びかける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="AU" sid="wiki00047675-01" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切><rel type="デ" target="宣言" sid="wiki00047675-01" id="8"/>
++ -1D <rel type="ガ" target="AU" sid="wiki00047675-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="宣言" sid="wiki00047675-01" id="8"/><用言:動><時制:過去><節-主辞><節-区切>
 発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -120,15 +120,15 @@ EOS
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <体言><NE:LOCATION:エチオピア><rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/>
++ 4D <rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/><体言><NE:LOCATION:エチオピア>
 エチオピア えちおぴあ エチオピア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <体言><NE:LOCATION:アディスアベバ><rel type="ノ？" target="エチオピア" sid="wiki00047675-02" id="3"/>
++ 5D <rel type="ノ？" target="エチオピア" sid="wiki00047675-02" id="3"/><体言><NE:LOCATION:アディスアベバ>
 アディスアベバ あでぃすあべば アディスアベバ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 13P <rel type="ガ" target="連合" sid="wiki00047675-01" id="10"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="時間" target="26日" sid="wiki00047675-02" id="2"/><rel type="デ" target="アディスアベバ" sid="wiki00047675-02" id="4"/>
++ 13P <rel type="ガ" target="連合" sid="wiki00047675-01" id="10"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="26日" sid="wiki00047675-02" id="2"/><rel type="デ" target="アディスアベバ" sid="wiki00047675-02" id="4"/><用言:動><節-主辞><節-区切>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -149,15 +149,15 @@ EOS
 南アフリカ みなみあふりか 南アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 11D <体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 12D <体言><NE:LOCATION:南アフリカ共和国><rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/>
++ 12D <rel type="ノ？" target="大陸" sid="wiki00047675-00-01" id="3"/><体言><NE:LOCATION:南アフリカ共和国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 13D <体言><NE:LOCATION:ダーバン><rel type="ノ？" target="国" sid="wiki00047675-02" id="11"/>
++ 13D <rel type="ノ？" target="国" sid="wiki00047675-02" id="11"/><体言><NE:LOCATION:ダーバン>
 ダーバン だーばん ダーバン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="連合" sid="wiki00047675-01" id="10"/><用言:動><時制:過去><節-主辞><節-区切><rel type="デ" target="ダーバン" sid="wiki00047675-02" id="12"/><rel type="時間" target="9日" sid="wiki00047675-02" id="8"/>
++ -1D <rel type="ガ" target="連合" sid="wiki00047675-01" id="10"/><rel type="デ" target="ダーバン" sid="wiki00047675-02" id="12"/><rel type="時間" target="9日" sid="wiki00047675-02" id="8"/><用言:動><時制:過去><節-主辞><節-区切>
 発足 ほっそく 発足 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

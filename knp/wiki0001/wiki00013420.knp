@@ -13,13 +13,13 @@
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 5P <体言><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00013420-00-01" id="2"/>
++ 5P <rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00013420-00-01" id="2"/><体言>
 軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 5D <rel type="ノ" target="アメリカ" sid="wiki00013420-00-01" id="2"/><体言>
 陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ" target="陸軍" sid="wiki00013420-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
++ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ノ" target="陸軍" sid="wiki00013420-00-01" id="4"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 元帥 げんすい 元帥 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -52,15 +52,15 @@ EOS
 * 1P
 + 1D <rel type="ガ" target="国" sid="wiki00013420-01" id="1"/><体言><非用言格解析:動>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="ノ？" target="連合" sid="wiki00013420-01" id="0"/>
++ 2D <rel type="ノ？" target="連合" sid="wiki00013420-01" id="0"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5D <rel type="ノ" target="国" sid="wiki00013420-01" id="1"/><体言><NE:ORGANIZATION:連合国軍>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ 5D <体言><非用言格解析:形><rel type="ガ" target="官" sid="wiki00013420-01" id="5"/>
++ 5D <rel type="ガ" target="官" sid="wiki00013420-01" id="5"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="官" sid="wiki00013420-01" id="5"/><体言><非用言格解析:動><rel type="デ" target="軍" sid="wiki00013420-01" id="2"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="5"/>
++ 5D <rel type="ガ" target="官" sid="wiki00013420-01" id="5"/><rel type="デ" target="軍" sid="wiki00013420-01" id="2"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="5"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9P <rel type="ノ" target="軍" sid="wiki00013420-01" id="2"/><体言><rel type="ノ？" target="司令" sid="wiki00013420-01" id="4"/><rel type="=≒" target="元帥" sid="wiki00013420-00-01" id="5"/><rel type="=構" mode="AND" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
++ 9P <rel type="ノ" target="軍" sid="wiki00013420-01" id="2"/><rel type="ノ？" target="司令" sid="wiki00013420-01" id="4"/><rel type="=≒" target="元帥" sid="wiki00013420-00-01" id="5"/><rel type="=構" mode="AND" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><体言>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
@@ -68,13 +68,13 @@ EOS
 国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 9D <rel type="ノ" target="国連" sid="wiki00013420-01" id="6"/><体言><NE:ORGANIZATION:国連軍>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ 9D <体言><非用言格解析:動><rel type="ガ" target="官" sid="wiki00013420-01" id="9"/><rel type="デ" target="軍" sid="wiki00013420-01" id="7"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="9"/>
++ 9D <rel type="ガ" target="官" sid="wiki00013420-01" id="9"/><rel type="デ" target="軍" sid="wiki00013420-01" id="7"/><rel type="ヲ≒" target="官" sid="wiki00013420-01" id="9"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="ノ" target="軍" sid="wiki00013420-01" id="7"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
++ 10D <rel type="ノ" target="軍" sid="wiki00013420-01" id="7"/><rel type="=構" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><体言>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切><rel type="ヲ" target="官" sid="wiki00013420-01" id="9"/><rel type="ヲ" mode="AND" target="官" sid="wiki00013420-01" id="5"/>
++ -1D <rel type="ガ" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><rel type="ヲ" target="官" sid="wiki00013420-01" id="9"/><rel type="ヲ" mode="AND" target="官" sid="wiki00013420-01" id="5"/><用言:動><時制:過去><節-主辞><節-区切>
 務めた つとめた 務める 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -82,13 +82,13 @@ EOS
 * 2P
 + 1D <体言>
 コーン こーん コーン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="修飾" target="コーン" sid="wiki00013420-02" id="0"/>
++ 6P <rel type="修飾" target="コーン" sid="wiki00013420-02" id="0"/><体言>
 パイプ ぱいぷ パイプ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3D <体言>
 服装 ふくそう 服装 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ニカンシテ" target="服装" sid="wiki00013420-02" id="2"/>
++ 4D <rel type="ニカンシテ" target="服装" sid="wiki00013420-02" id="2"/><体言>
 規則 きそく 規則 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <rel type="ガ" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="ニ" target="規則" sid="wiki00013420-02" id="3"/><体言><非用言格解析:動>
 違反 いはん 違反 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -96,11 +96,11 @@ EOS
 * 3D
 + 6D <体言><NE:LOCATION:フィリピン>
 フィリピン ふぃりぴん フィリピン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 7D <体言><rel type="修飾" target="フィリピン" sid="wiki00013420-02" id="5"/><rel type="修飾" mode="AND" target="違反" sid="wiki00013420-02" id="4"/>
++ 7D <rel type="修飾" target="フィリピン" sid="wiki00013420-02" id="5"/><rel type="修飾" mode="AND" target="違反" sid="wiki00013420-02" id="4"/><体言>
 軍帽 ぐんぼう 軍帽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ガ" mode="AND" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" mode="AND" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ノ？" target="マッカーサー" sid="wiki00013420-00-01" id="1"/>
++ -1D <rel type="ガ" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ガ" mode="AND" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" target="軍帽" sid="wiki00013420-02" id="6"/><rel type="=構" mode="AND" target="パイプ" sid="wiki00013420-02" id="1"/><rel type="ノ？" target="マッカーサー" sid="wiki00013420-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 トレードマーク とれーどまーく トレードマーク 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であった であった だ 判定詞 4 * 0 判定詞 25 デアル列タ形 21 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

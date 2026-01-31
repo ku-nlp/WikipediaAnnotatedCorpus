@@ -14,7 +14,7 @@
 + 4D <用言:動>
 よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="ガ" target="王朝" sid="wiki00049027-00-01" id="6"/><用言:動><時制:過去><rel type="ニヨッテ" target="炎" sid="wiki00049027-00-01" id="2"/>
++ 6D <rel type="ガ" target="王朝" sid="wiki00049027-00-01" id="6"/><rel type="ニヨッテ" target="炎" sid="wiki00049027-00-01" id="2"/><用言:動><時制:過去>
 建て たて 建てる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5D
@@ -22,7 +22,7 @@
 中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="西晋" sid="wiki00049027-00-01" id="0"/><memo text="CO"/><rel type="ノ？" target="中国" sid="wiki00049027-00-01" id="5"/>
++ -1D <rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="=構" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="ノ？" target="中国" sid="wiki00049027-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 王朝 おうちょう 王朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -48,7 +48,7 @@ EOS
 * 4D
 + 1D <rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><体言><非用言格解析:動>
 成立 せいりつ 成立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ノ" target="成立" sid="wiki00049027-01" id="0"/><体言><rel type="=≒" target="265年" sid="wiki00049027-00-03" id="0"/>
++ 7D <rel type="ノ" target="成立" sid="wiki00049027-01" id="0"/><rel type="=≒" target="265年" sid="wiki00049027-00-03" id="0"/><体言>
 期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
@@ -58,13 +58,13 @@ EOS
 北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <体言><rel type="ノ" target="中国" sid="wiki00049027-01" id="2"/>
++ 5D <rel type="ノ" target="中国" sid="wiki00049027-01" id="2"/><体言>
 西南 せいなん 西南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ" target="中国" sid="wiki00049027-01" id="2"/><rel type="ノ？" target="西南" sid="wiki00049027-01" id="4"/>
++ 6D <rel type="ノ" target="中国" sid="wiki00049027-01" id="2"/><rel type="ノ？" target="西南" sid="wiki00049027-01" id="4"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="王朝" sid="wiki00049027-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="北部" sid="wiki00049027-01" id="3"/><rel type="ヲ" mode="AND" target="部" sid="wiki00049027-01" id="5"/>
++ 7D <rel type="ガ" target="王朝" sid="wiki00049027-01" id="7"/><rel type="ヲ" target="北部" sid="wiki00049027-01" id="3"/><rel type="ヲ" mode="AND" target="部" sid="wiki00049027-01" id="5"/><用言:動><時制:非過去><節-主辞>
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 13P
@@ -78,18 +78,18 @@ EOS
 呉 ご 呉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ヲ" target="呉" sid="wiki00049027-01" id="8"/><用言:動><節-主辞><節-区切><rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/>
++ 13D <rel type="ヲ" target="呉" sid="wiki00049027-01" id="8"/><rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><用言:動><節-主辞><節-区切>
 滅ぼして ほろぼして 滅ぼす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * 8D
 + 11D <体言>
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 12D <体言><rel type="=≒" target="呉" sid="wiki00049027-01" id="8"/>
++ 12D <rel type="=≒" target="呉" sid="wiki00049027-01" id="8"/><体言>
 国 ごく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 + 13D <rel type="ノ" target="国" sid="wiki00049027-01" id="11"/><体言><NE:DATE:三国時代>
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 21P <rel type="ヲ" target="時代" sid="wiki00049027-01" id="12"/><用言:動><節-主辞><節-区切><rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/>
++ 21P <rel type="ヲ" target="時代" sid="wiki00049027-01" id="12"/><rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><用言:動><節-主辞><節-区切>
 終焉 しゅうえん 終焉 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せ せ せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
@@ -99,10 +99,10 @@ EOS
 後漢 ごかん 後漢 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 + 16D <rel type="ノ" target="後漢" sid="wiki00049027-01" id="14"/><体言><NE:DATE:後漢末期>
 末期 まっき 末期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
-+ 17D <体言><rel type="ノ" target="末期" sid="wiki00049027-01" id="15"/>
++ 17D <rel type="ノ" target="末期" sid="wiki00049027-01" id="15"/><体言>
 以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞>
 * 11D
-+ 18D <rel type="ガ" target="中国" sid="wiki00049027-01" id="18"/><用言:動><時制:過去><節-主辞><rel type="カラ" target="末期" sid="wiki00049027-01" id="15"/>
++ 18D <rel type="ガ" target="中国" sid="wiki00049027-01" id="18"/><rel type="カラ" target="末期" sid="wiki00049027-01" id="15"/><用言:動><時制:過去><節-主辞>
 分裂 ぶんれつ 分裂 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -119,7 +119,7 @@ EOS
 * -1D
 + 21D
 再 さい 再 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="ヲ" target="中国" sid="wiki00049027-01" id="18"/><用言:動><時制:過去><節-主辞><節-区切><rel type="修飾" target="再" sid="wiki00049027-01" id="20"/><rel type="時間" target="100年振り" sid="wiki00049027-01" id="19"/>
++ -1D <rel type="ガ" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="ヲ" target="中国" sid="wiki00049027-01" id="18"/><rel type="修飾" target="再" sid="wiki00049027-01" id="20"/><rel type="時間" target="100年振り" sid="wiki00049027-01" id="19"/><用言:動><時制:過去><節-主辞><節-区切>
 統一 とういつ 統一 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -133,36 +133,36 @@ EOS
 + 2D
 単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 9D <rel type="ガ" target="国号" sid="wiki00049027-02-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="国号" sid="wiki00049027-02-01" id="0"/><rel type="=" mode="AND" target="西晋" sid="wiki00049027-00-01" id="0"/><NE:LOCATION:晋>
++ 9D <rel type="ガ" target="国号" sid="wiki00049027-02-01" id="0"/><rel type="=構" target="国号" sid="wiki00049027-02-01" id="0"/><rel type="=" mode="AND" target="西晋" sid="wiki00049027-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:晋>
 晋 しん 晋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 だ だ だ 判定詞 4 * 0 判定詞 25 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <体言><NE:LOCATION:建康><rel type="ノ？" target="中国" sid="wiki00049027-01" id="18"/>
++ 4D <rel type="ノ？" target="中国" sid="wiki00049027-01" id="18"/><体言><NE:LOCATION:建康>
 建康 けんこう 建康 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ニ" target="建康" sid="wiki00049027-02-01" id="3"/><用言:動><時制:過去><rel type="ガ" target="政権" sid="wiki00049027-02-01" id="6"/>
++ 6D <rel type="ニ" target="建康" sid="wiki00049027-02-01" id="3"/><rel type="ガ" target="政権" sid="wiki00049027-02-01" id="6"/><用言:動><時制:過去>
 遷都 せんと 遷都 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6D
-+ 6D <体言><rel type="ノ" target="西晋" sid="wiki00049027-00-01" id="0"/>
++ 6D <rel type="ノ" target="西晋" sid="wiki00049027-00-01" id="0"/><体言>
 後 のち 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 7D <体言><rel type="時間" target="後" sid="wiki00049027-02-01" id="5"/>
++ 7D <rel type="時間" target="後" sid="wiki00049027-02-01" id="5"/><体言>
 政権 せいけん 政権 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 9D <用言:動>
 対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 9D
-+ 9D <体言><NE:LOCATION:西晋><rel type="=" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="=構" mode="AND" target="晋" sid="wiki00049027-02-01" id="2"/>
++ 9D <rel type="=" target="西晋" sid="wiki00049027-00-01" id="0"/><rel type="=構" mode="AND" target="晋" sid="wiki00049027-02-01" id="2"/><体言><NE:LOCATION:西晋>
 西晋 せいしん 西晋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="西晋" sid="wiki00049027-02-01" id="8"/><rel type="ニタイシテ" target="政権" sid="wiki00049027-02-01" id="6"/><rel type="ガ" target="晋" sid="wiki00049027-02-01" id="2"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ト" target="西晋" sid="wiki00049027-02-01" id="8"/><rel type="ニタイシテ" target="政権" sid="wiki00049027-02-01" id="6"/><rel type="ガ" target="晋" sid="wiki00049027-02-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

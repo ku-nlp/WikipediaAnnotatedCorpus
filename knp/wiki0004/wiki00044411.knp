@@ -10,7 +10,7 @@
 * 6D
 + 4D <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><NE:LOCATION:パナマ><rel type="=" target="国" sid="wiki00044411-00-01" id="2"/><rel type="=" mode="AND" target="パナマ" sid="wiki00044411-00-01" id="0"/><rel type="=構" mode="AND" target="通称" sid="wiki00044411-00-01" id="3"/><rel type="修飾" target="通称" sid="wiki00044411-00-01" id="3"/>
++ 15D <rel type="=" target="国" sid="wiki00044411-00-01" id="2"/><rel type="=" mode="AND" target="パナマ" sid="wiki00044411-00-01" id="0"/><rel type="=構" mode="AND" target="通称" sid="wiki00044411-00-01" id="3"/><rel type="修飾" target="通称" sid="wiki00044411-00-01" id="3"/><体言><NE:LOCATION:パナマ>
 パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -31,7 +31,7 @@
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 12D <rel type="ノ" target="大陸" sid="wiki00044411-00-01" id="10"/><体言><rel type="ト" target="大陸" sid="wiki00044411-00-01" id="7"/>
++ 12D <rel type="ノ" target="大陸" sid="wiki00044411-00-01" id="10"/><rel type="ト" target="大陸" sid="wiki00044411-00-01" id="7"/><体言>
 境 さかい 境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -39,18 +39,18 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 14D <体言><rel type="=" target="共和" sid="wiki00044411-00-01" id="1"/>
++ 14D <rel type="=" target="共和" sid="wiki00044411-00-01" id="1"/><体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ノ" target="共和" sid="wiki00044411-00-01" id="13"/>
++ 15D <rel type="ノ" target="共和" sid="wiki00044411-00-01" id="13"/><体言>
 制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="制" sid="wiki00044411-00-01" id="14"/><rel type="ガ" target="パナマ" sid="wiki00044411-00-01" id="4"/><rel type="ガ" mode="？" target="国" sid="wiki00044411-00-01" id="2"/><rel type="=構" target="パナマ" sid="wiki00044411-00-01" id="4"/><rel type="=構" mode="AND" target="国" sid="wiki00044411-00-01" id="2"/>
++ -1D <rel type="修飾" target="制" sid="wiki00044411-00-01" id="14"/><rel type="ガ" target="パナマ" sid="wiki00044411-00-01" id="4"/><rel type="ガ" mode="？" target="国" sid="wiki00044411-00-01" id="2"/><rel type="=構" target="パナマ" sid="wiki00044411-00-01" id="4"/><rel type="=構" mode="AND" target="国" sid="wiki00044411-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00044411-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/18 MEMO:
 * -1D
-+ 2D <体言><rel type="=" target="パナマ" sid="wiki00044411-00-01" id="0"/>
++ 2D <rel type="=" target="パナマ" sid="wiki00044411-00-01" id="0"/><体言>
 パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <rel type="=" target="共和" sid="wiki00044411-00-01" id="1"/><体言>
 きょうわ きょうわ きょうわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
@@ -59,35 +59,35 @@ EOS
 EOS
 # S-ID:wiki00044411-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2024/03/18 MEMO:
 * 1I
-+ 1I <体言><rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 1I <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 北西 ほくせい 北西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 3P <体言><NE:LOCATION:コスタリカ><rel type="ニ" target="北西" sid="wiki00044411-01" id="0"/><rel type="ニ" mode="AND" target="コスタリカ" sid="wiki00044411-01" id="1"/><rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 3P <rel type="ニ" target="北西" sid="wiki00044411-01" id="0"/><rel type="ニ" mode="AND" target="コスタリカ" sid="wiki00044411-01" id="1"/><rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><体言><NE:LOCATION:コスタリカ>
 コスタリカ こすたりか コスタリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3I
-+ 3I <体言><rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 3I <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <体言><NE:LOCATION:コロンビア><rel type="ノ？" target="大陸" sid="wiki00044411-00-01" id="10"/>
++ 4D <rel type="ノ？" target="大陸" sid="wiki00044411-00-01" id="10"/><体言><NE:LOCATION:コロンビア>
 コロンビア ころんびあ コロンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 9P <rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><用言:動><節-主辞><節-区切><rel type="ニ" target="コロンビア" sid="wiki00044411-01" id="3"/><rel type="ニ" mode="AND" target="南東" sid="wiki00044411-01" id="2"/>
++ 9P <rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><rel type="ニ" target="コロンビア" sid="wiki00044411-01" id="3"/><rel type="ニ" mode="AND" target="南東" sid="wiki00044411-01" id="2"/><用言:動><節-主辞><節-区切>
 接し せっし 接する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6I
-+ 6I <体言><rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 6I <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8P
-+ 8P <体言><NE:LOCATION:カリブ海><rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><rel type="ニ" target="カリブ海" sid="wiki00044411-01" id="6"/><rel type="デ" target="北" sid="wiki00044411-01" id="5"/>
++ 8P <rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><rel type="ニ" target="カリブ海" sid="wiki00044411-01" id="6"/><rel type="デ" target="北" sid="wiki00044411-01" id="5"/><体言><NE:LOCATION:カリブ海>
 カリブ海 かりぶかい カリブ海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8I
-+ 8I <体言><rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 8I <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9D
@@ -95,17 +95,17 @@ EOS
 太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="太平洋" sid="wiki00044411-01" id="8"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><rel type="デ" target="南" sid="wiki00044411-01" id="7"/>
++ -1D <rel type="ニ" target="太平洋" sid="wiki00044411-01" id="8"/><rel type="ガ" target="国" sid="wiki00044411-00-01" id="2"/><rel type="デ" target="南" sid="wiki00044411-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00044411-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/18 MEMO:
 * 1D
-+ 1D <体言><rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/>
++ 1D <rel type="ノ" target="国" sid="wiki00044411-00-01" id="2"/><体言>
 首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00044411-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:パナマ市><rel type="=構" target="首都" sid="wiki00044411-02" id="0"/><rel type="ノ？" target="国" sid="wiki00044411-00-01" id="2"/><memo text="CO"/>
++ -1D <rel type="ガ" target="首都" sid="wiki00044411-02" id="0"/><rel type="=構" target="首都" sid="wiki00044411-02" id="0"/><rel type="ノ？" target="国" sid="wiki00044411-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:パナマ市>
 パナマ ぱなま パナマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -4,7 +4,7 @@
 中部 ちゅうぶ 中部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 2D <体言>
 日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 4D <体言>
 株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
@@ -13,66 +13,66 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 9D <体言><NE:LOCATION:日本><rel type="=≒" target="日本" sid="wiki00031009-00-01" id="1"/>
++ 9D <rel type="=≒" target="日本" sid="wiki00031009-00-01" id="1"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="会社" sid="wiki00031009-00-01" id="9"/><体言><非用言格解析:動><rel type="ト" target="会社" sid="wiki00031009-00-01" id="9"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="会社" sid="wiki00031009-00-01" id="9"/><rel type="ト" target="会社" sid="wiki00031009-00-01" id="9"/><体言><非用言格解析:動>
 認定 にんてい 認定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 9D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 9D <体言>
 持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="日本" sid="wiki00031009-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00031009-00-01" id="4"/><memo text="CO"/><rel type="修飾" target="持株" sid="wiki00031009-00-01" id="8"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00031009-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="修飾" target="持株" sid="wiki00031009-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031009-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/18 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="中部" sid="wiki00031009-00-01" id="0"/>
++ 1D <rel type="=" target="中部" sid="wiki00031009-00-01" id="0"/><体言>
 ちゅうぶ ちゅうぶ ちゅうぶ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="=" target="日本" sid="wiki00031009-00-01" id="1"/>
++ 2D <rel type="=" target="日本" sid="wiki00031009-00-01" id="1"/><体言>
 にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:ちゅうぶにっぽんほうそう><rel type="=" target="放送" sid="wiki00031009-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00031009-00-01" id="4"/><体言><rel type="ガ" target="不特定:人"/>
++ -1D <rel type="=" target="放送" sid="wiki00031009-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ガ" target="不特定:人"/><NE:ORGANIZATION:ちゅうぶにっぽんほうそう><体言>
 ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00031009-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/18 MEMO:
 * 1D
 + 1D <rel type="ノ" target="会社" sid="wiki00031009-00-01" id="4"/><体言>
 本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ" target="本社" sid="wiki00031009-01" id="0"/>
++ 2D <rel type="ノ" target="本社" sid="wiki00031009-01" id="0"/><体言>
 所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="所在" sid="wiki00031009-01" id="1"/><rel type="ノ？" mode="AND" target="本社" sid="wiki00031009-01" id="0"/>
++ 6D <rel type="ノ？" target="所在" sid="wiki00031009-01" id="1"/><rel type="ノ？" mode="AND" target="本社" sid="wiki00031009-01" id="0"/><体言>
 地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><rel type="ノ？" target="日本" sid="wiki00031009-00-01" id="5"/>
++ 4D <rel type="ノ？" target="日本" sid="wiki00031009-00-01" id="5"/><体言>
 愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><rel type="ノ？" target="愛知県" sid="wiki00031009-01" id="3"/>
++ 5D <rel type="ノ？" target="愛知県" sid="wiki00031009-01" id="3"/><体言>
 名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <体言><rel type="ノ？" target="名古屋市" sid="wiki00031009-01" id="4"/>
++ 6D <rel type="ノ？" target="名古屋市" sid="wiki00031009-01" id="4"/><体言>
 中 なか 中 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="地" sid="wiki00031009-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:愛知県名古屋市中区新栄><rel type="=構" target="地" sid="wiki00031009-01" id="2"/><memo text="CO"/><rel type="ノ？" target="中区" sid="wiki00031009-01" id="5"/>
++ -1D <rel type="ガ" target="地" sid="wiki00031009-01" id="2"/><rel type="=構" target="地" sid="wiki00031009-01" id="2"/><rel type="ノ？" target="中区" sid="wiki00031009-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:愛知県名古屋市中区新栄>
 新栄 しんさかえ 新栄 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031009-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:73.00000 MOD:2025/04/18 MEMO:
 * 1D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ト" target="CBC" sid="wiki00031009-02" id="1"/><rel type="ノ" target="会社" sid="wiki00031009-00-01" id="4"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ト" target="CBC" sid="wiki00031009-02" id="1"/><rel type="ノ" target="会社" sid="wiki00031009-00-01" id="4"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 15D <rel type="ガ" target="略称" sid="wiki00031009-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="略称" sid="wiki00031009-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00031009-00-01" id="4"/>
++ 15D <rel type="ガ" target="略称" sid="wiki00031009-02" id="0"/><rel type="=構" target="略称" sid="wiki00031009-02" id="0"/><rel type="=" mode="AND" target="会社" sid="wiki00031009-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 CBC CBC CBC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 3D <rel type="=" target="放送" sid="wiki00031009-00-01" id="7"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="放送" sid="wiki00031009-02" id="2"/><rel type="ノ" target="会社" sid="wiki00031009-00-01" id="4"/>
++ 4D <rel type="ノ？" target="放送" sid="wiki00031009-02" id="2"/><rel type="ノ" target="会社" sid="wiki00031009-00-01" id="4"/><体言>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
@@ -93,22 +93,22 @@ CBC CBC CBC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
 地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 10D <体言>
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="修飾" target="地上" sid="wiki00031009-02" id="8"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00031009-02" id="9"/>
++ 11D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="地上" sid="wiki00031009-02" id="8"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00031009-02" id="9"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="ノ？" target="放送" sid="wiki00031009-02" id="10"/>
++ 12D <rel type="ノ？" target="放送" sid="wiki00031009-02" id="10"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ノ？" target="事業" sid="wiki00031009-02" id="11"/><rel type="修飾" target="傘下" sid="wiki00031009-02" id="6"/><rel type="修飾" mode="AND" target="特定" sid="wiki00031009-02" id="7"/>
++ 15D <rel type="ノ？" target="事業" sid="wiki00031009-02" id="11"/><rel type="修飾" target="傘下" sid="wiki00031009-02" id="6"/><rel type="修飾" mode="AND" target="特定" sid="wiki00031009-02" id="7"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 14D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 15D <体言><非用言格解析:動><rel type="=" target="略称" sid="wiki00031009-02" id="0"/><rel type="=" mode="AND" target="CBC" sid="wiki00031009-02" id="1"/><rel type="トイウ" target="CBC" sid="wiki00031009-02" id="1"/><rel type="ガ" target="不特定:人"/>
++ 15D <rel type="=" target="略称" sid="wiki00031009-02" id="0"/><rel type="=" mode="AND" target="CBC" sid="wiki00031009-02" id="1"/><rel type="トイウ" target="CBC" sid="wiki00031009-02" id="1"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ヲ" target="略称" sid="wiki00031009-02" id="14"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="時間" target="後" sid="wiki00031009-02" id="5"/><rel type="ト" target="者" sid="wiki00031009-02" id="12"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ヲ" target="略称" sid="wiki00031009-02" id="14"/><rel type="時間" target="後" sid="wiki00031009-02" id="5"/><rel type="ト" target="者" sid="wiki00031009-02" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
 共用 きょうよう 共用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -128,11 +128,11 @@ EOS
 + 5D <rel type="ガ" target="者" sid="wiki00031009-03" id="5"/><rel type="ヲ" target="本社" sid="wiki00031009-03" id="1"/><rel type="ニ" target="名古屋市" sid="wiki00031009-03" id="0"/><用言:動><時制:非過去><節-主辞>
 置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="放送" sid="wiki00031009-03" id="3"/>
++ 5D <rel type="ノ？" target="放送" sid="wiki00031009-03" id="3"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="事業" sid="wiki00031009-03" id="4"/><rel type="=≒" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="=≒" mode="AND" target="者" sid="wiki00031009-02" id="12"/>
++ 6D <rel type="ノ？" target="事業" sid="wiki00031009-03" id="4"/><rel type="=≒" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="=≒" mode="AND" target="者" sid="wiki00031009-02" id="12"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -141,38 +141,38 @@ EOS
 唯一 ゆいいつ 唯一 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="=≒" target="名古屋市" sid="wiki00031009-03" id="0"/>
++ 8D <rel type="=≒" target="名古屋市" sid="wiki00031009-03" id="0"/><体言>
 名 めい 名 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 9D <体言><NE:ORGANIZATION:名証>
 証 しょう 証 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ 10D <体言><rel type="ノ" target="証" sid="wiki00031009-03" id="8"/>
++ 10D <rel type="ノ" target="証" sid="wiki00031009-03" id="8"/><体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 18D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><用言:動><節-主辞><節-区切><rel type="ニ" target="第1部" sid="wiki00031009-03" id="9"/>
++ 18D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="ニ" target="第1部" sid="wiki00031009-03" id="9"/><用言:動><節-主辞><節-区切>
 上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 14D <体言><rel type="=" target="名" sid="wiki00031009-03" id="7"/>
++ 14D <rel type="=" target="名" sid="wiki00031009-03" id="7"/><体言>
 名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 13D <体言><rel type="=" target="証" sid="wiki00031009-03" id="8"/>
++ 13D <rel type="=" target="証" sid="wiki00031009-03" id="8"/><体言>
 証券 しょうけん 証券 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 14D <体言><非用言格解析:動>
 取引 とりひき 取引 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 15D <体言><NE:ORGANIZATION:名古屋証券取引所><rel type="=" target="証" sid="wiki00031009-03" id="8"/>
++ 15D <rel type="=" target="証" sid="wiki00031009-03" id="8"/><体言><NE:ORGANIZATION:名古屋証券取引所>
 所 じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ 17D <rel type="ノ" target="所" sid="wiki00031009-03" id="15"/><体言>
++ 17D <rel type="ノ" target="所" sid="wiki00031009-03" id="14"/><体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 17D <体言>
 単独 たんどく 単独 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 18D <rel type="ガ" target="銘柄" sid="wiki00031009-03" id="19"/><rel type="ニ" target="第一部" sid="wiki00031009-03" id="16"/><体言><非用言格解析:動><rel type="デ" target="単独" sid="wiki00031009-03" id="16"/><rel type="デ" mode="？" target="なし"/><rel type="=" target="上場" sid="wiki00031009-03" id="10"/>
++ 18D <rel type="ガ" target="銘柄" sid="wiki00031009-03" id="18"/><rel type="ニ" target="第一部" sid="wiki00031009-03" id="15"/><rel type="デ" target="単独" sid="wiki00031009-03" id="16"/><rel type="デ" mode="？" target="なし"/><rel type="=" target="上場" sid="wiki00031009-03" id="10"/><体言><非用言格解析:動>
 上場 じょうじょう 上場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="修飾" target="上場" sid="wiki00031009-03" id="17"/>
++ -1D <rel type="ガ" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="=構" target="会社" sid="wiki00031009-00-01" id="4"/><rel type="修飾" target="上場" sid="wiki00031009-03" id="17"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 銘柄 めいがら 銘柄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

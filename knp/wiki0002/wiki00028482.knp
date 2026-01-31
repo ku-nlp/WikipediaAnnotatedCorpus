@@ -6,11 +6,11 @@
 * 10D
 + 2D <体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 3D <体言><rel type="ノ" target="人口" sid="wiki00028482-00-01" id="1"/>
++ 3D <rel type="ノ" target="人口" sid="wiki00028482-00-01" id="1"/><体言>
 密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 4D <体言><非用言格解析:形><rel type="ノ" target="密度" sid="wiki00028482-00-01" id="2"/>
++ 4D <rel type="ノ" target="密度" sid="wiki00028482-00-01" id="2"/><体言><非用言格解析:形>
 順 じゅん 順だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 16D <体言><NE:OPTIONAL:国の人口密度順リスト><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="修飾" target="順" sid="wiki00028482-00-01" id="3"/><rel type="ノ" target="国" sid="wiki00028482-00-01" id="0"/>
++ 16D <rel type="修飾" target="順" sid="wiki00028482-00-01" id="3"/><rel type="ノ" target="国" sid="wiki00028482-00-01" id="0"/><体言><NE:OPTIONAL:国の人口密度順リスト><NE-OPTIONAL:ARTIFACT,NONE:0>
 リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -19,17 +19,17 @@
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 10P <体言><rel type="修飾" target="世界" sid="wiki00028482-00-01" id="5"/>
++ 10P <rel type="修飾" target="世界" sid="wiki00028482-00-01" id="5"/><体言>
 国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 及び および 及び 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 8D <体言>
 海外 かいがい 海外 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="海外" sid="wiki00028482-00-01" id="7"/>
++ 10D <rel type="修飾" target="海外" sid="wiki00028482-00-01" id="7"/><体言>
 領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 10D <体言><非用言格解析:動><否定表現><rel type="ガ" target="地域" sid="wiki00028482-00-01" id="10"/>
++ 10D <rel type="ガ" target="地域" sid="wiki00028482-00-01" id="10"/><体言><非用言格解析:動><否定表現>
 非 ひ 非 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
 独立 どくりつ 独立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 12D <rel type="修飾" target="非独立" sid="wiki00028482-00-01" id="9"/><rel type="=≒" target="領土" sid="wiki00028482-00-01" id="8"/><体言>
@@ -38,37 +38,37 @@
 * 9D
 + 12D <体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ノ" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ？" target="地域" sid="wiki00028482-00-01" id="10"/><rel type="ノ？" mode="AND" target="国" sid="wiki00028482-00-01" id="6"/><rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
++ 15D <rel type="ノ" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ？" target="地域" sid="wiki00028482-00-01" id="10"/><rel type="ノ？" mode="AND" target="国" sid="wiki00028482-00-01" id="6"/><rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/><体言>
 密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D <用言:形><時制:非過去><rel type="ガ" target="密度" sid="wiki00028482-00-01" id="12"/>
++ 14D <rel type="ガ" target="密度" sid="wiki00028482-00-01" id="12"/><用言:形><時制:非過去>
 大きい おおきい 大きい 形容詞 3 * 0 イ形容詞イ段特殊 20 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 15D <用言:形><時制:非過去><rel type="修飾" target="大きい" sid="wiki00028482-00-01" id="13"/>
++ 15D <rel type="修飾" target="大きい" sid="wiki00028482-00-01" id="13"/><用言:形><時制:非過去>
 順に じゅんに 順だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 10D
-+ 16D <用言:動><時制:過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00028482-00-01" id="16"/>
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00028482-00-01" id="16"/><用言:動><時制:過去><節-主辞>
 並べた ならべた 並べる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-区切><rel type="ガ" target="リスト" sid="wiki00028482-00-01" id="4"/><memo text="CO"/><rel type="トイウ" target="並べた" sid="wiki00028482-00-01" id="15"/><rel type="=構" target="リスト" sid="wiki00028482-00-01" id="4"/>
++ -1D <rel type="ガ" target="リスト" sid="wiki00028482-00-01" id="4"/><rel type="トイウ" target="並べた" sid="wiki00028482-00-01" id="15"/><rel type="=構" target="リスト" sid="wiki00028482-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028482-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/25 MEMO:
 * 1D
-+ 4D <体言><rel type="=" target="国" sid="wiki00028482-00-01" id="0"/>
++ 4D <rel type="=" target="国" sid="wiki00028482-00-01" id="0"/><体言>
 くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 * -1D
-+ 2D <体言><rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/>
++ 2D <rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/><体言>
 じんこう じんこう じんこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 3D <体言><rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
++ 3D <rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/><体言>
 みつど みつど みつど 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 4D <体言><非用言格解析:形><rel type="=" target="順" sid="wiki00028482-00-01" id="3"/>
++ 4D <rel type="=" target="順" sid="wiki00028482-00-01" id="3"/><体言><非用言格解析:形>
 じゅん じゅん じゅんだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ -1D <体言><rel type="=" target="リスト" sid="wiki00028482-00-01" id="4"/><NE:OPTIONAL:くにのじんこうみつどじゅんリスト><NE-OPTIONAL:ARTIFACT,NONE:0>
++ -1D <rel type="=" target="リスト" sid="wiki00028482-00-01" id="4"/><体言><NE:OPTIONAL:くにのじんこうみつどじゅんリスト><NE-OPTIONAL:ARTIFACT,NONE:0>
 リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00028482-00-03 括弧始:（ 括弧終:） 括弧位置:52 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/27 MEMO:
@@ -77,10 +77,10 @@ EOS
 住民 じゅうみん 住民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 2D <体言><rel type="=" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ" target="住民" sid="wiki00028482-00-03" id="0"/>
++ 2D <rel type="=" target="人口" sid="wiki00028482-00-01" id="11"/><rel type="ノ" target="住民" sid="wiki00028482-00-03" id="0"/><体言>
 数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 / わる/ぱー / 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><memo text="助数辞とせず"/><rel type="=" target="密度" sid="wiki00028482-00-01" id="12"/>
++ -1D <rel type="=" target="密度" sid="wiki00028482-00-01" id="12"/><memo text="助数辞とせず"/><体言>
 km2 へいほうきろめーとる km2 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00028482-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:24.00000 MOD:2025/06/25 MEMO:
@@ -89,7 +89,7 @@ EOS
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="リスト" sid="wiki00028482-00-01" id="4"/><rel type="ノ" mode="AND" target="人口" sid="wiki00028482-01-01" id="0"/>
++ 2D <rel type="ノ" target="リスト" sid="wiki00028482-00-01" id="4"/><rel type="ノ" mode="AND" target="人口" sid="wiki00028482-01-01" id="0"/><体言>
 データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -103,16 +103,16 @@ EOS
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 5P
-+ 7D <体言><rel type="修飾" target="世界" sid="wiki00028482-01-01" id="3"/>
++ 7D <rel type="修飾" target="世界" sid="wiki00028482-01-01" id="3"/><体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 12D
 + 6D <体言>
 国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 7P <体言><rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/>
++ 7P <rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/><体言>
 ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 17P <NE:ARTIFACT:世界の人口　国別ランキング・推移><rel type="ガ" target="データ" sid="wiki00028482-01-01" id="1"/><rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/><memo text="TY「を」衍字と解釈（作業時でのWikipediaでは削除されている）"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="1"/><体言>
++ 17P <rel type="ガ" target="データ" sid="wiki00028482-01-01" id="1"/><rel type="ノ" target="人口" sid="wiki00028482-01-01" id="4"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="1"/><memo text="TY「を」衍字と解釈（作業時でのWikipediaでは削除されている）"/><NE:ARTIFACT:世界の人口　国別ランキング・推移><体言>
 推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -122,7 +122,7 @@ EOS
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D <体言><rel type="ノ" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" mode="AND" target="リスト" sid="wiki00028482-00-01" id="4"/>
++ 10D <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" mode="AND" target="リスト" sid="wiki00028482-00-01" id="4"/><体言>
 データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
@@ -138,28 +138,28 @@ EOS
 * 11D
 + 13D <体言>
 国土 こくど 国土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 16D <体言><rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" target="国土" sid="wiki00028482-01-01" id="12"/><rel type="修飾" target="世界" sid="wiki00028482-01-01" id="11"/>
++ 16D <rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/><rel type="ノ" target="国土" sid="wiki00028482-01-01" id="12"/><rel type="修飾" target="世界" sid="wiki00028482-01-01" id="11"/><体言>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 12D
 + 15D <体言>
 国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 16P <体言><rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/>
++ 16P <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/><体言>
 ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 17D <体言><非用言格解析:動><memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/><NE:ARTIFACT:世界の国土面積　国別ランキング・推移><rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/>
++ 17D <rel type="ノ" target="面積" sid="wiki00028482-01-01" id="13"/><memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/><体言><非用言格解析:動><NE:ARTIFACT:世界の国土面積　国別ランキング・推移>
 推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="推移" sid="wiki00028482-01-01" id="16"/><rel type="ガ" target="データ" sid="wiki00028482-01-01" id="9"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="9"/>
++ -1D <rel type="ノ" target="推移" sid="wiki00028482-01-01" id="16"/><rel type="ガ" target="データ" sid="wiki00028482-01-01" id="9"/><rel type="=構" target="データ" sid="wiki00028482-01-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028482-01-02 括弧始:（ 括弧終:） 括弧位置:29 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
 * -1D
-+ -1D <NE:ORGANIZATION:国連><体言><memo text="世界の人口国別ランキング推移　の出典は国連データ"/>
++ -1D <memo text="世界の人口国別ランキング推移　の出典は国連データ"/><NE:ORGANIZATION:国連><体言>
 国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00028482-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/03/26 MEMO:
@@ -171,7 +171,7 @@ EOS
 + 2D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 10D <体言><rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/>
++ 10D <rel type="=" target="面積" sid="wiki00028482-01-01" id="8"/><体言>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -183,15 +183,15 @@ EOS
 * 5D
 + 5D <体言>
 無人 むじん 無人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="無人" sid="wiki00028482-02-01" id="4"/>
++ 6D <rel type="修飾" target="無人" sid="wiki00028482-02-01" id="4"/><体言>
 島 とう 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <体言><rel type="ノ" target="南極" sid="wiki00028482-02-01" id="3"/><rel type="ノ" mode="AND" target="島" sid="wiki00028482-02-01" id="5"/><rel type="=≒" target="面積" sid="wiki00028482-02-01" id="2"/>
++ 7D <rel type="ノ" target="南極" sid="wiki00028482-02-01" id="3"/><rel type="ノ" mode="AND" target="島" sid="wiki00028482-02-01" id="5"/><rel type="=≒" target="面積" sid="wiki00028482-02-01" id="2"/><体言>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9P
-+ 10P <用言:動><時制:非過去><否定表現><節-主辞><節-区切><rel type="ガ" target="面積" sid="wiki00028482-02-01" id="6"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/>
++ 10P <rel type="ガ" target="面積" sid="wiki00028482-02-01" id="6"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 い い いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 未然形 3 NIL
@@ -203,11 +203,11 @@ EOS
 陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D <体言><rel type="修飾" target="陸上" sid="wiki00028482-02-01" id="8"/>
++ 10D <rel type="修飾" target="陸上" sid="wiki00028482-02-01" id="8"/><体言>
 水域 すいいき 水域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="水域" sid="wiki00028482-02-01" id="9"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/><rel type="=" target="含まれていない" sid="wiki00028482-02-01" id="7"/>
++ -1D <rel type="ガ" target="水域" sid="wiki00028482-02-01" id="9"/><rel type="ニ" target="面積" sid="wiki00028482-02-01" id="2"/><rel type="=" target="含まれていない" sid="wiki00028482-02-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -215,11 +215,11 @@ EOS
 EOS
 # S-ID:wiki00028482-02-02 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/26 MEMO:
 * 1P
-+ 1P <体言><rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/>
++ 1P <rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/><体言>
 湖 みずうみ 湖 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <体言><rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/>
++ 2P <rel type="=≒" target="水域" sid="wiki00028482-02-01" id="9"/><体言>
 沼 ぬま 沼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
@@ -235,9 +235,9 @@ EOS
 + 3D
 この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 3D <体言><rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/>
++ 3D <rel type="=" target="人口" sid="wiki00028482-00-01" id="1"/><体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/>
++ 10D <rel type="=" target="密度" sid="wiki00028482-00-01" id="2"/><体言>
 密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -249,41 +249,41 @@ EOS
 * 5D
 + 6D <体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 9D <体言><rel type="ノ" target="人口" sid="wiki00028482-03" id="5"/><rel type="修飾" target="世界" sid="wiki00028482-03" id="4"/>
++ 9D <rel type="ノ" target="人口" sid="wiki00028482-03" id="5"/><rel type="修飾" target="世界" sid="wiki00028482-03" id="4"/><体言>
 密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 6D
 + 8D <体言>
 国別 くにべつ 国別 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 9P <体言><rel type="修飾" target="国別" sid="wiki00028482-03" id="7"/><rel type="ノ" target="密度" sid="wiki00028482-03" id="6"/>
++ 9P <rel type="修飾" target="国別" sid="wiki00028482-03" id="7"/><rel type="ノ" target="密度" sid="wiki00028482-03" id="6"/><体言>
 ランキング らんきんぐ ランキング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 10D <体言><非用言格解析:動><NE:ARTIFACT:世界の人口密度　国別ランキング・推移><memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/>
++ 10D <memo text="GLOBAL NOTE グローバルノート – 国際統計データ専門サイトからのデータ"/><体言><非用言格解析:動><NE:ARTIFACT:世界の人口密度　国別ランキング・推移>
 推移 すいい 推移 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <用言:判><体言><時制:非過去><節-主辞><rel type="ガ" target="密度" sid="wiki00028482-03" id="3"/><rel type="ノ" target="推移" sid="wiki00028482-03" id="9"/><rel type="外の関係" target="ため" sid="wiki00028482-03" id="11"/>
++ 11D <rel type="ガ" target="密度" sid="wiki00028482-03" id="3"/><rel type="ノ" target="推移" sid="wiki00028482-03" id="9"/><rel type="外の関係" target="ため" sid="wiki00028482-03" id="11"/><用言:判><体言><時制:非過去><節-主辞>
 データ でーた データ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 11D
-+ 15D <体言><節-区切><rel type="ノ" target="データ" sid="wiki00028482-03" id="10"/>
++ 15D <rel type="ノ" target="データ" sid="wiki00028482-03" id="10"/><体言><節-区切>
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 13D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-03" id="3"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="密度" sid="wiki00028482-03" id="3"/><体言><非用言格解析:動>
 計算 けいさん 計算 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 14D <用言:動><モダリティ-認識-蓋然性><時制:非過去><否定表現><節-主辞><rel type="ガ" target="計算" sid="wiki00028482-03" id="12"/>
++ 14D <rel type="ガ" target="計算" sid="wiki00028482-03" id="12"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><否定表現><節-主辞>
 あわ あわ あう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 11D
-+ 15D <体言><rel type="ノ" target="あわない" sid="wiki00028482-03" id="13"/>
++ 15D <rel type="ノ" target="あわない" sid="wiki00028482-03" id="13"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="場合" sid="wiki00028482-03" id="14"/>
++ -1D <rel type="ガ" target="場合" sid="wiki00028482-03" id="14"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

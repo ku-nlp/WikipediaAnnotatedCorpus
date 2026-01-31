@@ -13,13 +13,13 @@
 * 3D
 + 4D <体言>
 スカンディナヴィア すかんでぃなゔぃあ スカンディナヴィア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言><NE:LOCATION:スカンディナヴィア半島><rel type="ノ？" target="北部" sid="wiki00026771-00" id="2"/>
++ 5D <rel type="ノ？" target="北部" sid="wiki00026771-00" id="2"/><体言><NE:LOCATION:スカンディナヴィア半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 + 6D <rel type="ノ" target="半島" sid="wiki00026771-00" id="4"/><体言>
 周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><memo text="CO"/><rel type="修飾" target="北部" sid="wiki00026771-00" id="2"/><rel type="修飾" mode="AND" target="周辺" sid="wiki00026771-00" id="5"/>
++ -1D <rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><rel type="修飾" target="北部" sid="wiki00026771-00" id="2"/><rel type="修飾" mode="AND" target="周辺" sid="wiki00026771-00" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -27,25 +27,25 @@ EOS
 * 4D
 + 1D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 5D <体言><rel type="ノ？" target="日本" sid="wiki00026771-01" id="0"/>
++ 5D <rel type="ノ？" target="日本" sid="wiki00026771-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 3P <体言><NE:LOCATION:スカンディナビア><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
++ 3P <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><体言><NE:LOCATION:スカンディナビア>
 スカンディナビア すかんでぃなびあ スカンディナビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 4P <体言><NE:LOCATION:スカンジナビア><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
++ 4P <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><体言><NE:LOCATION:スカンジナビア>
 スカンジナビア すかんじなびあ スカンジナビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><NE:LOCATION:スカンジナヴィア><rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
++ 5D <rel type="=構" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><体言><NE:LOCATION:スカンジナヴィア>
 スカンジナヴィア すかんじなゔぃあ スカンジナヴィア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="語" sid="wiki00026771-01" id="1"/><rel type="ト" target="スカンディナビア" sid="wiki00026771-01" id="2"/><rel type="ト" mode="AND" target="スカンジナビア" sid="wiki00026771-01" id="3"/><rel type="ト" mode="AND" target="スカンジナヴィア" sid="wiki00026771-01" id="4"/><rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="デ" target="語" sid="wiki00026771-01" id="1"/><rel type="ト" target="スカンディナビア" sid="wiki00026771-01" id="2"/><rel type="ト" mode="AND" target="スカンジナビア" sid="wiki00026771-01" id="3"/><rel type="ト" mode="AND" target="スカンジナヴィア" sid="wiki00026771-01" id="4"/><rel type="ガ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -58,15 +58,15 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="デ" target="英語" sid="wiki00026771-02" id="0"/><rel type="ヲ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="デ" target="英語" sid="wiki00026771-02" id="0"/><rel type="ヲ" target="スカンディナヴィア" sid="wiki00026771-00" id="0"/><体言><非用言格解析:動>
 発音 はつおん 発音 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 3D <体言><memo text="地名とせず"/>
++ 3D <memo text="地名とせず"/><体言>
 スキャンダネイヴィア すきゃんだねいゔぃあ スキャンダネイヴィア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="発音" sid="wiki00026771-02" id="1"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="ニ" target="スキャンダネイヴィア" sid="wiki00026771-02" id="2"/>
++ -1D <rel type="ガ" target="発音" sid="wiki00026771-02" id="1"/><rel type="ニ" target="スキャンダネイヴィア" sid="wiki00026771-02" id="2"/><用言:形><時制:非過去><節-主辞><節-区切>
 近い ちかい 近い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

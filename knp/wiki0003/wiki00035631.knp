@@ -4,15 +4,15 @@
 国連 こくれん 国連 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 4D <体言>
 難民 なんみん 難民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><非用言格解析:形><rel type="ガ" target="官" sid="wiki00035631-00-01" id="4"/>
++ 4D <rel type="ガ" target="官" sid="wiki00035631-00-01" id="4"/><体言><非用言格解析:形>
 高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 4D <体言>
 弁務 べんむ 弁務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><rel type="修飾" target="高等" sid="wiki00035631-00-01" id="2"/>
++ 5D <rel type="修飾" target="高等" sid="wiki00035631-00-01" id="2"/><体言>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 6D <体言>
 事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 16D <体言><NE:ORGANIZATION:国連難民高等弁務官事務所><rel type="ノ" target="国連" sid="wiki00035631-00-01" id="0"/>
++ 16D <rel type="ノ" target="国連" sid="wiki00035631-00-01" id="0"/><体言><NE:ORGANIZATION:国連難民高等弁務官事務所>
 所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -28,7 +28,7 @@
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 16D <rel type="ガ" target="機関" sid="wiki00035631-00-01" id="16"/><rel type="ニ" target="連合" sid="wiki00035631-00-01" id="12"/><用言:動><時制:過去><節-主辞><rel type="時間" target="14日" sid="wiki00035631-00-01" id="9"/>
++ 16D <rel type="ガ" target="機関" sid="wiki00035631-00-01" id="16"/><rel type="ニ" target="連合" sid="wiki00035631-00-01" id="12"/><rel type="時間" target="14日" sid="wiki00035631-00-01" id="9"/><用言:動><時制:過去><節-主辞>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -42,14 +42,14 @@
 * 5D
 + 14D <rel type="=" target="難民" sid="wiki00035631-00-01" id="1"/><体言>
 難民 なんみん 難民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="ニツイテ" target="難民" sid="wiki00035631-00-01" id="13"/>
++ 15D <rel type="ニツイテ" target="難民" sid="wiki00035631-00-01" id="13"/><体言>
 問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 16D <rel type="ガ" target="機関" sid="wiki00035631-00-01" id="16"/><用言:動><時制:非過去><rel type="ニ" target="問題" sid="wiki00035631-00-01" id="14"/>
++ 16D <rel type="ガ" target="機関" sid="wiki00035631-00-01" id="16"/><rel type="ニ" target="問題" sid="wiki00035631-00-01" id="14"/><用言:動><時制:非過去>
 関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="所" sid="wiki00035631-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="所" sid="wiki00035631-00-01" id="6"/><memo text="CO"/><rel type="ノ" target="連合" sid="wiki00035631-00-01" id="12"/><rel type="ニカンシテ" target="問題" sid="wiki00035631-00-01" id="14"/>
++ -1D <rel type="ガ" target="所" sid="wiki00035631-00-01" id="6"/><rel type="=構" target="所" sid="wiki00035631-00-01" id="6"/><rel type="ノ" target="連合" sid="wiki00035631-00-01" id="12"/><rel type="ニカンシテ" target="問題" sid="wiki00035631-00-01" id="14"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -57,17 +57,17 @@ EOS
 * -1D
 + 6D <rel type="=" target="国連" sid="wiki00035631-00-01" id="0"/><体言>
 こくれん こくれん こくれん 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 4D <体言><rel type="=" target="難民" sid="wiki00035631-00-01" id="1"/>
++ 4D <rel type="=" target="難民" sid="wiki00035631-00-01" id="1"/><体言>
 なんみん なんみん なんみん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><非用言格解析:形><rel type="=" target="高等" sid="wiki00035631-00-01" id="2"/>
++ 4D <rel type="=" target="高等" sid="wiki00035631-00-01" id="2"/><体言><非用言格解析:形>
 こうとう こうとう こうとうだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><rel type="=" target="弁務" sid="wiki00035631-00-01" id="3"/>
++ 4D <rel type="=" target="弁務" sid="wiki00035631-00-01" id="3"/><体言>
 べんむ べんむ べんむ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><rel type="=" target="官" sid="wiki00035631-00-01" id="4"/>
++ 5D <rel type="=" target="官" sid="wiki00035631-00-01" id="4"/><体言>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 6D <体言><rel type="=" target="事務" sid="wiki00035631-00-01" id="5"/>
++ 6D <rel type="=" target="事務" sid="wiki00035631-00-01" id="5"/><体言>
 じむ じむ じむ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <体言><rel type="=" target="所" sid="wiki00035631-00-01" id="6"/><NE:ORGANIZATION:こくれんなんみんこうとうべんむかんじむしょ>
++ -1D <rel type="=" target="所" sid="wiki00035631-00-01" id="6"/><体言><NE:ORGANIZATION:こくれんなんみんこうとうべんむかんじむしょ>
 しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00035631-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/05/08 MEMO:
@@ -78,14 +78,14 @@ EOS
 社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 + 3D <体言>
 理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 5D <体言><rel type="ノ" target="国連" sid="wiki00035631-00-01" id="0"/><NE:OPTIONAL:経済社会理事会><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 5D <rel type="ノ" target="国連" sid="wiki00035631-00-01" id="0"/><体言><NE:OPTIONAL:経済社会理事会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ガ" target="機関" sid="wiki00035631-01" id="8"/><体言><非用言格解析:動><rel type="ト" target="会" sid="wiki00035631-01" id="3"/>
++ 5D <rel type="ガ" target="機関" sid="wiki00035631-01" id="8"/><rel type="ト" target="会" sid="wiki00035631-01" id="3"/><体言><非用言格解析:動>
 連携 れんけい 連携 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><非用言格解析:動><rel type="ガ" target="機関" sid="wiki00035631-01" id="8"/><rel type="ト" target="会" sid="wiki00035631-01" id="3"/><rel type="修飾" target="連携" sid="wiki00035631-01" id="4"/>
++ 6D <rel type="ガ" target="機関" sid="wiki00035631-01" id="8"/><rel type="ト" target="会" sid="wiki00035631-01" id="3"/><rel type="修飾" target="連携" sid="wiki00035631-01" id="4"/><体言><非用言格解析:動>
 関係 かんけい 関係 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -94,7 +94,7 @@ EOS
 * 6D
 + 8D <体言>
 専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="専門" sid="wiki00035631-01" id="7"/><rel type="=≒" target="機関" sid="wiki00035631-00-01" id="16"/>
++ 12D <rel type="修飾" target="専門" sid="wiki00035631-01" id="7"/><rel type="=≒" target="機関" sid="wiki00035631-00-01" id="16"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -102,13 +102,13 @@ EOS
 総会 そうかい 総会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="機関" sid="wiki00035631-01" id="11"/><体言><非用言格解析:動><rel type="ヲ" target="総会" sid="wiki00035631-01" id="9"/>
++ 11D <rel type="ガ" target="機関" sid="wiki00035631-01" id="11"/><rel type="ヲ" target="総会" sid="wiki00035631-01" id="9"/><体言><非用言格解析:動>
 補助 ほじょ 補助 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="補助" sid="wiki00035631-01" id="10"/><rel type="=≒" target="機関" sid="wiki00035631-01" id="8"/><rel type="ノ" target="総会" sid="wiki00035631-01" id="9"/>
++ 12D <rel type="修飾" target="補助" sid="wiki00035631-01" id="10"/><rel type="=≒" target="機関" sid="wiki00035631-01" id="8"/><rel type="ノ" target="総会" sid="wiki00035631-01" id="9"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="所" sid="wiki00035631-00-01" id="6"/><用言:動><時制:過去><節-主辞><節-区切><rel type="カラ" target="機関" sid="wiki00035631-01" id="11"/><rel type="ニ" target="機関" sid="wiki00035631-01" id="11"/><rel type="ニ" mode="AND" target="連合" sid="wiki00035631-00-01" id="12"/><memo text="AG:連合"/>
++ -1D <rel type="ガ" target="所" sid="wiki00035631-00-01" id="6"/><rel type="カラ" target="機関" sid="wiki00035631-01" id="11"/><rel type="ニ" target="機関" sid="wiki00035631-01" id="11"/><rel type="ニ" mode="AND" target="連合" sid="wiki00035631-00-01" id="12"/><memo text="AG:連合"/><用言:動><時制:過去><節-主辞><節-区切>
 改組 かいそ 改組 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL

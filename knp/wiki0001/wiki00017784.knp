@@ -12,7 +12,7 @@
 + 4D <体言><NE:DATE:1881年>
 1881 せんはっぴゃくはちじゅういち 1881 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 7D <体言><非用言格解析:動><rel type="時間" target="1881年" sid="wiki00017784-00-01" id="3"/><rel type="ヲ" target="学校" sid="wiki00017784-00-01" id="7"/><rel type="ガ" target="不特定:人"/>
++ 7D <rel type="時間" target="1881年" sid="wiki00017784-00-01" id="3"/><rel type="ヲ" target="学校" sid="wiki00017784-00-01" id="7"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -20,14 +20,14 @@
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 7D <体言>
 物理 ぶつり 物理 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 9D <体言><NE:ORGANIZATION:東京物理学校><rel type="修飾" target="創立" sid="wiki00017784-00-01" id="4"/>
++ 9D <rel type="修飾" target="創立" sid="wiki00017784-00-01" id="4"/><体言><NE:ORGANIZATION:東京物理学校>
 学校 がっこう 学校 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
 + 9D <用言:形><時制:非過去>
 主な おもな 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 6D
-+ 11D <体言><rel type="ヲ" target="学校" sid="wiki00017784-00-01" id="7"/><rel type="ノ" target="大学" sid="wiki00017784-00-01" id="24"/><rel type="=構" target="学校" sid="wiki00017784-00-01" id="7"/>
++ 11D <rel type="ヲ" target="学校" sid="wiki00017784-00-01" id="7"/><rel type="ノ" target="大学" sid="wiki00017784-00-01" id="24"/><rel type="=構" target="学校" sid="wiki00017784-00-01" id="7"/><体言>
 前身 ぜんしん 前身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -37,7 +37,7 @@
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 24D <rel type="ガ" target="大学" sid="wiki00017784-00-01" id="24"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="時間" target="1949年" sid="wiki00017784-00-01" id="10"/>
++ 24D <rel type="ガ" target="大学" sid="wiki00017784-00-01" id="24"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1949年" sid="wiki00017784-00-01" id="10"/><用言:動><時制:過去><節-主辞>
 設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -52,20 +52,20 @@
 + 16P <体言>
 薬学 やくがく 薬学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="ニカンシテ" target="経営" sid="wiki00017784-00-01" id="15"/>
++ 17D <rel type="ニカンシテ" target="経営" sid="wiki00017784-00-01" id="15"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 18D <体言><rel type="ヲ" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="ヲ" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/><rel type="ヲ" mode="AND" target="薬学" sid="wiki00017784-00-01" id="14"/><rel type="ヲ" mode="AND" target="学" sid="wiki00017784-00-01" id="16"/>
++ 18D <rel type="ヲ" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="ヲ" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/><rel type="ヲ" mode="AND" target="薬学" sid="wiki00017784-00-01" id="14"/><rel type="ヲ" mode="AND" target="学" sid="wiki00017784-00-01" id="16"/><体言>
 はじめ はじめ はじめ 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 19D <rel type="ガ" target="分野" sid="wiki00017784-00-01" id="19"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="はじめ" sid="wiki00017784-00-01" id="17"/>
++ 19D <rel type="ガ" target="分野" sid="wiki00017784-00-01" id="19"/><rel type="ト" target="はじめ" sid="wiki00017784-00-01" id="17"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 11D
-+ 20D <体言><rel type="=≒" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="=≒" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/><rel type="=≒" mode="AND" target="薬学" sid="wiki00017784-00-01" id="14"/><rel type="=≒" mode="AND" target="学" sid="wiki00017784-00-01" id="16"/>
++ 20D <rel type="=≒" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="=≒" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/><rel type="=≒" mode="AND" target="薬学" sid="wiki00017784-00-01" id="14"/><rel type="=≒" mode="AND" target="学" sid="wiki00017784-00-01" id="16"/><体言>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
@@ -73,13 +73,13 @@
 包括 ほうかつ 包括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 22D <体言><rel type="=≒" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="=≒" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/>
++ 22D <rel type="=≒" target="理学" sid="wiki00017784-00-01" id="12"/><rel type="=≒" mode="AND" target="工学" sid="wiki00017784-00-01" id="13"/><体言>
 理工 りこう 理工 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 24D <rel type="ノ" target="理工" sid="wiki00017784-00-01" id="21"/><体言>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 24D <体言><非用言格解析:動><rel type="=≒" target="包括する" sid="wiki00017784-00-01" id="20"/>
++ 24D <rel type="=≒" target="包括する" sid="wiki00017784-00-01" id="20"/><体言><非用言格解析:動>
 総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="大学" sid="wiki00017784-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="大学" sid="wiki00017784-00-01" id="2"/><rel type="修飾" target="系" sid="wiki00017784-00-01" id="22"/><rel type="修飾" mode="AND" target="総合" sid="wiki00017784-00-01" id="23"/><rel type="修飾" mode="AND" target="設立された" sid="wiki00017784-00-01" id="11"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00017784-00-01" id="2"/><rel type="=構" target="大学" sid="wiki00017784-00-01" id="2"/><rel type="修飾" target="系" sid="wiki00017784-00-01" id="22"/><rel type="修飾" mode="AND" target="総合" sid="wiki00017784-00-01" id="23"/><rel type="修飾" mode="AND" target="設立された" sid="wiki00017784-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -88,7 +88,7 @@ EOS
 * -1D
 + 1D <体言>
 明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:明治14年><体言><rel type="=" target="1881年" sid="wiki00017784-00-01" id="3"/>
++ -1D <rel type="=" target="1881年" sid="wiki00017784-00-01" id="3"/><NE:DATE:明治14年><体言>
 14 じゅうよ 14 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -96,7 +96,7 @@ EOS
 * -1D
 + 1D <体言>
 昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <NE:DATE:昭和24年><体言><rel type="=" target="1949年" sid="wiki00017784-00-01" id="10"/>
++ -1D <rel type="=" target="1949年" sid="wiki00017784-00-01" id="10"/><NE:DATE:昭和24年><体言>
 24 にじゅうよ 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

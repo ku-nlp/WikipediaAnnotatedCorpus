@@ -2,7 +2,7 @@
 * 5D
 + 1D <体言>
 インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニカンシテ" target="インターネット" sid="wiki00015167-00" id="0"/>
++ 2D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニカンシテ" target="インターネット" sid="wiki00015167-00" id="0"/><体言><非用言格解析:動>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 10D <rel type="ノ" target="サービス" sid="wiki00015167-00" id="1"/><体言>
 プロバイダ ぷろばいだ プロバイダ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -18,9 +18,9 @@
 * 3D
 + 6D <体言>
 電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="修飾" target="電気" sid="wiki00015167-00" id="5"/><rel type="ト" target="不特定:人"/>
++ 7D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="電気" sid="wiki00015167-00" id="5"/><rel type="ト" target="不特定:人"/><体言><非用言格解析:動>
 通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="トイウ" target="通信" sid="wiki00015167-00" id="6"/><rel type="ノ？" target="組織" sid="wiki00015167-00" id="9"/>
++ 8D <rel type="トイウ" target="通信" sid="wiki00015167-00" id="6"/><rel type="ノ？" target="組織" sid="wiki00015167-00" id="9"/><体言>
 役務 えきむ 役務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -28,38 +28,38 @@
 提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 10D <体言><非用言格解析:動><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ 10D <rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><体言><非用言格解析:動>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ノ" target="組織" sid="wiki00015167-00" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ -1D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ノ" target="組織" sid="wiki00015167-00" id="9"/><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015167-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/04 MEMO:
 * 1P
-+ 1P <体言><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ 1P <rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><体言>
 プロバイダ ぷろばいだ プロバイダ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ 3D <rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><体言>
 ISP ISP ISP 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="プロバイダ" sid="wiki00015167-00" id="2"/><用言:動><rel type="ト" target="プロバイダ" sid="wiki00015167-01" id="0"/><rel type="ト" mode="AND" target="ISPなど" sid="wiki00015167-01" id="1"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ト" target="プロバイダ" sid="wiki00015167-01" id="0"/><rel type="ト" mode="AND" target="ISPなど" sid="wiki00015167-01" id="1"/><用言:動>
 略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * 4D
-+ 4D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞><rel type="ト" target="プロバイダ" sid="wiki00015167-01" id="0"/><rel type="ト" mode="AND" target="ISPなど" sid="wiki00015167-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00015167-01" id="4"/>
++ 4D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="プロバイダ" sid="wiki00015167-01" id="0"/><rel type="ト" mode="AND" target="ISPなど" sid="wiki00015167-01" id="1"/><rel type="外の関係" target="こと" sid="wiki00015167-01" id="4"/><用言:動><モダリティ-認識-蓋然性><時制:非過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 5D <体言><rel type="トイウ" target="呼ばれる" sid="wiki00015167-01" id="3"/>
++ 5D <rel type="トイウ" target="呼ばれる" sid="wiki00015167-01" id="3"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="こと" sid="wiki00015167-01" id="4"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="ガ２" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ -1D <rel type="ガ" target="こと" sid="wiki00015167-01" id="4"/><rel type="ガ２" target="プロバイダ" sid="wiki00015167-00" id="2"/><用言:形><時制:非過去><節-主辞><節-区切>
 多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -71,102 +71,102 @@ EOS
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 2D <体言><rel type="=" target="電気" sid="wiki00015167-00" id="5"/>
++ 2D <rel type="=" target="電気" sid="wiki00015167-00" id="5"/><体言>
 電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><非用言格解析:動><rel type="=" target="通信" sid="wiki00015167-00" id="6"/>
++ 3D <rel type="=" target="通信" sid="wiki00015167-00" id="6"/><体言><非用言格解析:動>
 通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ？" target="通信" sid="wiki00015167-02-01" id="2"/>
++ 4D <rel type="ノ？" target="通信" sid="wiki00015167-02-01" id="2"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11P <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="事業" sid="wiki00015167-02-01" id="3"/><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="デ" target="日本" sid="wiki00015167-02-01" id="0"/>
++ 11P <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ノ？" target="事業" sid="wiki00015167-02-01" id="3"/><rel type="=構" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="デ" target="日本" sid="wiki00015167-02-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D <rel type="=" target="インターネット" sid="wiki00015167-00" id="0"/><体言>
 インターネット いんたーねっと インターネット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="=" target="接続" sid="wiki00015167-00" id="4"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニ" target="インターネット" sid="wiki00015167-02-01" id="5"/>
++ 7D <rel type="=" target="接続" sid="wiki00015167-00" id="4"/><rel type="ガ" target="不特定:人"/><rel type="ニ" target="インターネット" sid="wiki00015167-02-01" id="5"/><体言><非用言格解析:動>
 接続 せつぞく 接続 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="ノ？" target="接続" sid="wiki00015167-02-01" id="6"/>
++ 8D <rel type="ノ？" target="接続" sid="wiki00015167-02-01" id="6"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="事業" sid="wiki00015167-02-01" id="7"/><rel type="=" target="者" sid="wiki00015167-02-01" id="4"/><rel type="=構" mode="AND" target="プロバイダ" sid="wiki00015167-00" id="2"/>
++ 9D <rel type="ノ？" target="事業" sid="wiki00015167-02-01" id="7"/><rel type="=" target="者" sid="wiki00015167-02-01" id="4"/><rel type="=構" mode="AND" target="プロバイダ" sid="wiki00015167-00" id="2"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="者" sid="wiki00015167-02-01" id="8"/><rel type="外の関係" target="こと" sid="wiki00015167-02-01" id="10"/>
++ 10D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="者" sid="wiki00015167-02-01" id="8"/><rel type="外の関係" target="こと" sid="wiki00015167-02-01" id="10"/><用言:動><時制:非過去><節-主辞>
 訳さ やくさ 訳する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
-+ 11D <体言><rel type="トイウ" target="訳される" sid="wiki00015167-02-01" id="9"/>
++ 11D <rel type="トイウ" target="訳される" sid="wiki00015167-02-01" id="9"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="こと" sid="wiki00015167-02-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="日本" sid="wiki00015167-02-01" id="0"/>
++ -1D <rel type="ガ" target="こと" sid="wiki00015167-02-01" id="10"/><rel type="デ" target="日本" sid="wiki00015167-02-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015167-02-02 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/04 MEMO:
 * 1D
-+ 3D <rel type="ガ" target="不特定:人"/><用言:動><rel type="ヲ" target="者" sid="wiki00015167-02-01" id="8"/><rel type="ト" target="者" sid="wiki00015167-02-02" id="3"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="者" sid="wiki00015167-02-01" id="8"/><rel type="ト" target="者" sid="wiki00015167-02-02" id="3"/><用言:動>
 略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
 + 2D <rel type="=" target="接続" sid="wiki00015167-02-01" id="6"/><体言><非用言格解析:動>
 接続 せつぞく 接続 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="=" target="事業" sid="wiki00015167-02-01" id="7"/>
++ 3D <rel type="=" target="事業" sid="wiki00015167-02-01" id="7"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + -1D <rel type="=" target="者" sid="wiki00015167-02-01" id="8"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00015167-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/11/04 MEMO:
 * 3D
-+ 1D <体言><rel type="ノ？" target="通信" sid="wiki00015167-02-01" id="2"/>
++ 1D <rel type="ノ？" target="通信" sid="wiki00015167-02-01" id="2"/><体言>
 回線 かいせん 回線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ？" target="回線" sid="wiki00015167-03" id="0"/>
++ 2D <rel type="ノ？" target="回線" sid="wiki00015167-03" id="0"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="事業" sid="wiki00015167-03" id="1"/><rel type="=≒" target="者" sid="wiki00015167-02-01" id="4"/>
++ 6D <rel type="ノ？" target="事業" sid="wiki00015167-03" id="1"/><rel type="=≒" target="者" sid="wiki00015167-02-01" id="4"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="=" target="プロバイダ" sid="wiki00015167-01" id="0"/>
++ 4D <rel type="=" target="プロバイダ" sid="wiki00015167-01" id="0"/><体言>
 プロバイダ ぷろばいだ プロバイダ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="プロバイダ" sid="wiki00015167-03" id="3"/>
++ 5D <rel type="ノ？" target="プロバイダ" sid="wiki00015167-03" id="3"/><体言>
 業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 6D <rel type="ガ" target="者" sid="wiki00015167-03" id="2"/><rel type="ヲ" target="業" sid="wiki00015167-03" id="4"/><用言:動><節-主辞><節-区切>
 兼ねて かねて 兼ねる 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 4D
-+ 7D <rel type="ガ" target="者" sid="wiki00015167-03" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="サービス" sid="wiki00015167-00" id="1"/><rel type="外の関係" target="会社" sid="wiki00015167-03" id="7"/><rel type="=" target="提供する" sid="wiki00015167-00" id="8"/>
++ 7D <rel type="ガ" target="者" sid="wiki00015167-03" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="サービス" sid="wiki00015167-00" id="1"/><rel type="外の関係" target="会社" sid="wiki00015167-03" id="7"/><rel type="=" target="提供する" sid="wiki00015167-00" id="8"/><用言:動><時制:非過去><節-主辞><節-区切>
 提供 ていきょう 提供 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 11P
-+ 17P <体言><rel type="トイウ" target="提供している" sid="wiki00015167-03" id="6"/>
++ 17P <rel type="トイウ" target="提供している" sid="wiki00015167-03" id="6"/><体言>
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <体言><rel type="=" target="回線" sid="wiki00015167-03" id="0"/>
++ 9D <rel type="=" target="回線" sid="wiki00015167-03" id="0"/><体言>
 回線 かいせん 回線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=" target="事業" sid="wiki00015167-03" id="1"/>
++ 10D <rel type="=" target="事業" sid="wiki00015167-03" id="1"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 11D <rel type="=" target="者" sid="wiki00015167-03" id="2"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 12D <体言><rel type="ノ？" target="者" sid="wiki00015167-03" id="10"/><rel type="=" target="回線" sid="wiki00015167-03" id="8"/>
++ 12D <rel type="ノ？" target="者" sid="wiki00015167-03" id="10"/><rel type="=" target="回線" sid="wiki00015167-03" id="8"/><体言>
 回線 かいせん 回線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
 + 16D <rel type="ガ" target="会社" sid="wiki00015167-03" id="17"/><rel type="ヲ" target="回線" sid="wiki00015167-03" id="11"/><用言:動><節-主辞><節-区切>
 使って つかって 使う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL <基本句-主辞>
 * 10D
-+ 14D <体言><rel type="=" target="プロバイダ" sid="wiki00015167-03" id="3"/>
++ 14D <rel type="=" target="プロバイダ" sid="wiki00015167-03" id="3"/><体言>
 プロバイダ ぷろばいだ プロバイダ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 16D <rel type="=" target="業" sid="wiki00015167-03" id="4"/><体言>
 業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 のみ のみ のみ 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 16D <体言><非用言格解析:動><rel type="=" target="サービス" sid="wiki00015167-00" id="1"/>
++ 16D <rel type="=" target="サービス" sid="wiki00015167-00" id="1"/><体言><非用言格解析:動>
 サービス さーびす サービス 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -178,7 +178,7 @@ EOS
 会社 かいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="会社" sid="wiki00015167-03" id="17"/><rel type="ニ" mode="AND" target="会社" sid="wiki00015167-03" id="7"/>
++ -1D <rel type="ガ" target="プロバイダ" sid="wiki00015167-00" id="2"/><rel type="ニ" target="会社" sid="wiki00015167-03" id="17"/><rel type="ニ" mode="AND" target="会社" sid="wiki00015167-03" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 分かれる わかれる 分かれる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

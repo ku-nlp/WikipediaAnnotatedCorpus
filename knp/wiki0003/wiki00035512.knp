@@ -1,8 +1,8 @@
 # S-ID:wiki00035512-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/13 MEMO:
 * 3D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 1D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 キック きっく キック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="キック" sid="wiki00035512-00" id="0"/>
++ 4D <rel type="修飾" target="キック" sid="wiki00035512-00" id="0"/><体言>
 ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,11 +11,11 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="ノ？" target="日本" sid="wiki00035512-00" id="2"/><rel type="=≒" target="ボクシング" sid="wiki00035512-00" id="1"/>
++ 4D <rel type="ノ？" target="日本" sid="wiki00035512-00" id="2"/><rel type="=≒" target="ボクシング" sid="wiki00035512-00" id="1"/><体言>
 格闘技 かくとうぎ 格闘技 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ボクシング" sid="wiki00035512-00" id="1"/><rel type="ノ" target="格闘技" sid="wiki00035512-00" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ボクシング" sid="wiki00035512-00" id="1"/><rel type="=構" mode="AND" target="格闘技" sid="wiki00035512-00" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ボクシング" sid="wiki00035512-00" id="1"/><rel type="ノ" target="格闘技" sid="wiki00035512-00" id="3"/><rel type="=構" target="ボクシング" sid="wiki00035512-00" id="1"/><rel type="=構" mode="AND" target="格闘技" sid="wiki00035512-00" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,6 +1,6 @@
 # S-ID:wiki00059149-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/05/22 MEMO:
 * 4D
-+ 6D <体言><NE:LOCATION:ビクトリア州><memo text="女王ヴィクトリアにちなむ"/><rel type="ノ？" target="連邦" sid="wiki00059149-00-01" id="2"/>
++ 6D <rel type="ノ？" target="連邦" sid="wiki00059149-00-01" id="2"/><memo text="女王ヴィクトリアにちなむ"/><体言><NE:LOCATION:ビクトリア州>
 ビクトリア びくとりあ ビクトリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -14,7 +14,7 @@
 * 3D
 + 4D <rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><体言>
 南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><rel type="ノ？" target="南東" sid="wiki00059149-00-01" id="3"/>
++ 5D <rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><rel type="ノ？" target="南東" sid="wiki00059149-00-01" id="3"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -22,7 +22,7 @@
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><rel type="=構" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -33,32 +33,32 @@ EOS
 しゅう しゅう しゅう 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言><NE:LOCATION:ヴィクトリア州><rel type="ト" target="ヴィクトリア州" sid="wiki00059149-00-02" id="1"/><memo text="PO:いう"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 3P <rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><rel type="ト" target="ヴィクトリア州" sid="wiki00059149-00-02" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><memo text="PO:いう"/><体言><NE:LOCATION:ヴィクトリア州>
 ヴィクトリア ゔぃくとりあ ヴィクトリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1P
-+ 3D <体言><rel type="ノ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 3D <rel type="ノ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言>
 略号 りゃくごう 略号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <memo text="品詞"/><体言><NE:LOCATION:VIC><rel type="ガ" target="略号" sid="wiki00059149-00-02" id="2"/><rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><rel type="=構" mode="AND" target="略号" sid="wiki00059149-00-02" id="2"/>
++ -1D <rel type="ガ" target="略号" sid="wiki00059149-00-02" id="2"/><rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><rel type="=構" mode="AND" target="略号" sid="wiki00059149-00-02" id="2"/><memo text="品詞"/><体言><NE:LOCATION:VIC>
 VIC VIC VIC 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00059149-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2024/05/22 MEMO:
 * 4D
-+ 5D <体言><rel type="ノ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 5D <rel type="ノ" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言>
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D <体言>
 大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><rel type="ノ？" target="大陸" sid="wiki00059149-01" id="1"/>
++ 3D <rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><rel type="ノ？" target="大陸" sid="wiki00059149-01" id="1"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="修飾" target="部" sid="wiki00059149-01" id="2"/><rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/>
++ 4D <rel type="修飾" target="部" sid="wiki00059149-01" id="2"/><rel type="ノ" target="連邦" sid="wiki00059149-00-01" id="2"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -66,7 +66,7 @@ EOS
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 13P <rel type="ガ" target="面積" sid="wiki00059149-01" id="0"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="デ" target="中" sid="wiki00059149-01" id="4"/>
++ 13P <rel type="ガ" target="面積" sid="wiki00059149-01" id="0"/><rel type="デ" target="中" sid="wiki00059149-01" id="4"/><用言:形><時制:非過去><節-主辞><節-区切>
 最小である さいしょうである 最小だ 形容詞 3 * 0 ナノ形容詞 22 デアル列基本形 18 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -75,29 +75,29 @@ EOS
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 13D <体言><rel type="ガ" target="人口" sid="wiki00059149-01" id="6"/><rel type="=構" target="人口" sid="wiki00059149-01" id="6"/><rel type="ガ２" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 13D <rel type="ガ" target="人口" sid="wiki00059149-01" id="6"/><rel type="=構" target="人口" sid="wiki00059149-01" id="6"/><rel type="ガ２" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 580万 ごひゃくはちじゅうまん 580万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10D
-+ 9D <体言><rel type="=" target="人口" sid="wiki00059149-01" id="6"/>
++ 9D <rel type="=" target="人口" sid="wiki00059149-01" id="6"/><体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <rel type="ノ" target="人口" sid="wiki00059149-01" id="8"/><体言><rel type="ノ？" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 13D <rel type="ノ" target="人口" sid="wiki00059149-01" id="8"/><rel type="ノ？" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言>
 密度 みつど 密度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
 + 11D
 同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="=" target="連邦" sid="wiki00059149-00-01" id="2"/>
++ 13D <rel type="=" target="連邦" sid="wiki00059149-00-01" id="2"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
 + 13D
 比較的 ひかくてき 比較的 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="密度" sid="wiki00059149-01" id="9"/><rel type="ガ２" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="デ" target="国" sid="wiki00059149-01" id="11"/>
++ -1D <rel type="ガ" target="密度" sid="wiki00059149-01" id="9"/><rel type="ガ２" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><rel type="デ" target="国" sid="wiki00059149-01" id="11"/><用言:形><時制:非過去><節-主辞><節-区切>
 高い たかい 高い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -107,30 +107,30 @@ EOS
 州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="州都" sid="wiki00059149-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:メルボルン><rel type="=構" target="州都" sid="wiki00059149-02" id="0"/><memo text="CO"/><rel type="ノ？" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ -1D <rel type="ガ" target="州都" sid="wiki00059149-02" id="0"/><rel type="=構" target="州都" sid="wiki00059149-02" id="0"/><rel type="ノ？" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:メルボルン>
 メルボルン めるぼるん メルボルン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059149-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2024/05/22 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/>
++ 1D <rel type="=" target="ビクトリア州" sid="wiki00059149-00-01" id="0"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <rel type="ノ" target="州" sid="wiki00059149-03" id="0"/><体言><rel type="=" target="人口" sid="wiki00059149-01" id="6"/>
++ 2D <rel type="ノ" target="州" sid="wiki00059149-03" id="0"/><rel type="=" target="人口" sid="wiki00059149-01" id="6"/><体言>
 人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <体言><NE:PERCENT:70%><rel type="ノ" target="人口" sid="wiki00059149-03" id="1"/>
++ 5D <rel type="ノ" target="人口" sid="wiki00059149-03" id="1"/><体言><NE:PERCENT:70%>
 70 ななじゅっ/ななじっ 70 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
 % ぱーせんと % 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:PERCENT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="=" target="メルボルン" sid="wiki00059149-02" id="1"/><NE:LOCATION:メルボルン>
++ 4D <rel type="=" target="メルボルン" sid="wiki00059149-02" id="1"/><体言><NE:LOCATION:メルボルン>
 メルボルン めるぼるん メルボルン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <体言><rel type="ノ" target="メルボルン" sid="wiki00059149-03" id="3"/>
++ 5D <rel type="ノ" target="メルボルン" sid="wiki00059149-03" id="3"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="地域" sid="wiki00059149-03" id="4"/><rel type="ガ" target="70％" sid="wiki00059149-03" id="2"/>
++ -1D <rel type="ニ" target="地域" sid="wiki00059149-03" id="4"/><rel type="ガ" target="70％" sid="wiki00059149-03" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 集中 しゅうちゅう 集中 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

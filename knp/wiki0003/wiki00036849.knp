@@ -2,7 +2,7 @@
 * 9D
 + 1D <体言>
 メイン めいん メイン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="修飾" target="メイン" sid="wiki00036849-00" id="0"/>
++ 13D <rel type="修飾" target="メイン" sid="wiki00036849-00" id="0"/><体言>
 フレーム ふれーむ フレーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -17,7 +17,7 @@
 + 5D <rel type="ガ" target="組織" sid="wiki00036849-00" id="5"/><用言:形><時制:非過去>
 巨大な きょだいな 巨大だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 5D
-+ 8D <体言><非用言格解析:動><rel type="=≒" target="企業" sid="wiki00036849-00" id="3"/><rel type="修飾" target="巨大な" sid="wiki00036849-00" id="4"/>
++ 8D <rel type="=≒" target="企業" sid="wiki00036849-00" id="3"/><rel type="修飾" target="巨大な" sid="wiki00036849-00" id="4"/><体言><非用言格解析:動>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -25,12 +25,12 @@
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <体言>
 情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="情報" sid="wiki00036849-00" id="7"/><rel type="修飾" target="基幹" sid="wiki00036849-00" id="6"/>
++ 9D <rel type="ノ？" target="情報" sid="wiki00036849-00" id="7"/><rel type="修飾" target="基幹" sid="wiki00036849-00" id="6"/><体言>
 システム しすてむ システム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="コンピュータ" sid="wiki00036849-00" id="11"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="システムなど" sid="wiki00036849-00" id="8"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ 11D <rel type="ガ" target="コンピュータ" sid="wiki00036849-00" id="11"/><rel type="ニ" target="システムなど" sid="wiki00036849-00" id="8"/><rel type="ニ" mode="AND" target="不特定:人"/><用言:動><時制:非過去><節-主辞>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -38,57 +38,57 @@
 * 8D
 + 11D <rel type="ガ" target="コンピュータ" sid="wiki00036849-00" id="11"/><体言><非用言格解析:形>
 大型 おおがた 大型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="大型" sid="wiki00036849-00" id="10"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/>
++ 12D <rel type="修飾" target="大型" sid="wiki00036849-00" id="10"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 13D <rel type="ガ" target="用語" sid="wiki00036849-00" id="13"/><rel type="ヲ" target="コンピュータ" sid="wiki00036849-00" id="11"/><用言:動><時制:非過去><節-主辞>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="フレーム" sid="wiki00036849-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><memo text="CO"/><rel type="修飾" target="指す" sid="wiki00036849-00" id="12"/>
++ -1D <rel type="ガ" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="修飾" target="指す" sid="wiki00036849-00" id="12"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 用語 ようご 用語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00036849-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/12 MEMO:
 * 1P
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="コンピュータ" sid="wiki00036849-01" id="1"/>
++ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="コンピュータ" sid="wiki00036849-01" id="1"/><体言><非用言格解析:動>
 汎用 はんよう 汎用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3P <体言><rel type="修飾" target="汎用" sid="wiki00036849-01" id="0"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/>
++ 3P <rel type="修飾" target="汎用" sid="wiki00036849-01" id="0"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機" sid="wiki00036849-01" id="3"/><rel type="=" target="汎用" sid="wiki00036849-01" id="0"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="機" sid="wiki00036849-01" id="3"/><rel type="=" target="汎用" sid="wiki00036849-01" id="0"/><体言><非用言格解析:動>
 汎用 はんよう 汎用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="修飾" target="汎用" sid="wiki00036849-01" id="2"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/>
++ 6P <rel type="修飾" target="汎用" sid="wiki00036849-01" id="2"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><体言>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 6D <体言><非用言格解析:形><rel type="=" target="大型" sid="wiki00036849-00" id="10"/>
++ 6D <rel type="=" target="大型" sid="wiki00036849-00" id="10"/><体言><非用言格解析:形>
 大型 おおがた 大型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 + 6D <rel type="=" target="汎用" sid="wiki00036849-01" id="0"/><体言><非用言格解析:動>
 汎用 はんよう 汎用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8P <体言><rel type="修飾" target="大型" sid="wiki00036849-01" id="4"/><rel type="修飾" mode="AND" target="汎用" sid="wiki00036849-01" id="5"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/>
++ 8P <rel type="修飾" target="大型" sid="wiki00036849-01" id="4"/><rel type="修飾" mode="AND" target="汎用" sid="wiki00036849-01" id="5"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
 + 8D <rel type="ガ" target="コンピュータ" sid="wiki00036849-01" id="8"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 ホスト ほすと ホスト 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 11P <体言><rel type="修飾" target="ホスト" sid="wiki00036849-01" id="7"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/>
++ 11P <rel type="修飾" target="ホスト" sid="wiki00036849-01" id="7"/><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 11D <体言><非用言格解析:形><rel type="=" target="大型" sid="wiki00036849-01" id="4"/>
++ 11D <rel type="=" target="大型" sid="wiki00036849-01" id="4"/><体言><非用言格解析:形>
 大型 おおがた 大型だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 + 11D <rel type="=" target="汎用" sid="wiki00036849-01" id="5"/><体言><非用言格解析:動>
 汎用 はんよう 汎用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="修飾" target="大型" sid="wiki00036849-01" id="9"/><rel type="修飾" mode="AND" target="汎用" sid="wiki00036849-01" id="10"/>
++ 12D <rel type="=構" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="修飾" target="大型" sid="wiki00036849-01" id="9"/><rel type="修飾" mode="AND" target="汎用" sid="wiki00036849-01" id="10"/><体言>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="コンピュータ" sid="wiki00036849-01" id="1"/><rel type="ト" mode="AND" target="機" sid="wiki00036849-01" id="3"/><rel type="ト" mode="AND" target="コンピュータ" sid="wiki00036849-01" id="6"/><rel type="ト" mode="AND" target="機など" sid="wiki00036849-01" id="11"/><rel type="ト" mode="AND" target="コンピュータ" sid="wiki00036849-01" id="8"/>
++ -1D <rel type="ガ" target="フレーム" sid="wiki00036849-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="コンピュータ" sid="wiki00036849-01" id="1"/><rel type="ト" mode="AND" target="機" sid="wiki00036849-01" id="3"/><rel type="ト" mode="AND" target="コンピュータ" sid="wiki00036849-01" id="6"/><rel type="ト" mode="AND" target="機など" sid="wiki00036849-01" id="11"/><rel type="ト" mode="AND" target="コンピュータ" sid="wiki00036849-01" id="8"/><用言:動><時制:非過去><節-主辞><節-区切>
 称さ しょうさ 称す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

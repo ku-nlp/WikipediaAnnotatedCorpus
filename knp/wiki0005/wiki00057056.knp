@@ -6,22 +6,22 @@
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 3D <体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 6P <体言><rel type="時間" target="古代" sid="wiki00057056-00-01" id="0"/><rel type="修飾" target="教会" sid="wiki00057056-00-01" id="1"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="2"/>
++ 6P <rel type="時間" target="古代" sid="wiki00057056-00-01" id="0"/><rel type="修飾" target="教会" sid="wiki00057056-00-01" id="1"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="2"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <体言><rel type="=" target="古代" sid="wiki00057056-00-01" id="0"/>
++ 6D <rel type="=" target="古代" sid="wiki00057056-00-01" id="0"/><体言>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 6D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 11D <rel type="=" target="語" sid="wiki00057056-00-01" id="3"/><体言><rel type="時間" target="古代" sid="wiki00057056-00-01" id="4"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="5"/>
++ 11D <rel type="=" target="語" sid="wiki00057056-00-01" id="3"/><rel type="時間" target="古代" sid="wiki00057056-00-01" id="4"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="5"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 8D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="5"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 8D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="5"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 9D <体言><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="7"/><rel type="=≒" target="語" sid="wiki00057056-00-01" id="6"/>
++ 9D <rel type="ノ？" target="スラヴ" sid="wiki00057056-00-01" id="7"/><rel type="=≒" target="語" sid="wiki00057056-00-01" id="6"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -31,7 +31,7 @@
 + 11D <rel type="ガ" target="文語" sid="wiki00057056-00-01" id="11"/><用言:形><時制:非過去>
 最古の さいこの 最古だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="語" sid="wiki00057056-00-01" id="6"/><rel type="ガ" mode="AND" target="語" sid="wiki00057056-00-01" id="3"/><rel type="=構" target="語" sid="wiki00057056-00-01" id="3"/><rel type="=構" mode="AND" target="語" sid="wiki00057056-00-01" id="6"/><rel type="修飾" target="最古の" sid="wiki00057056-00-01" id="10"/><rel type="ニヨッテ" target="語" sid="wiki00057056-00-01" id="8"/>
++ -1D <rel type="ガ" target="語" sid="wiki00057056-00-01" id="6"/><rel type="ガ" mode="AND" target="語" sid="wiki00057056-00-01" id="3"/><rel type="=構" target="語" sid="wiki00057056-00-01" id="3"/><rel type="=構" mode="AND" target="語" sid="wiki00057056-00-01" id="6"/><rel type="修飾" target="最古の" sid="wiki00057056-00-01" id="10"/><rel type="ニヨッテ" target="語" sid="wiki00057056-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 文語 ぶんご 文語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -40,21 +40,21 @@ EOS
 * -1D
 + 3D <rel type="=" target="古代" sid="wiki00057056-00-01" id="0"/><体言>
 こだい こだい こだい 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/>
++ 3D <rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/><体言>
 きょうかい きょうかい きょうかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 3D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <体言><rel type="=" target="語" sid="wiki00057056-00-01" id="3"/>
++ -1D <rel type="=" target="語" sid="wiki00057056-00-01" id="3"/><体言>
 ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00057056-00-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/04/19 MEMO:
 * -1D
-+ 2D <体言><rel type="=≒" target="古代" sid="wiki00057056-00-01" id="4"/>
++ 2D <rel type="=≒" target="古代" sid="wiki00057056-00-01" id="4"/><体言>
 古 こ 古 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="5"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 2D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="5"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <体言><rel type="=" target="語" sid="wiki00057056-00-01" id="6"/><rel type="時間" target="古" sid="wiki00057056-00-03" id="0"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-03" id="1"/>
++ -1D <rel type="=" target="語" sid="wiki00057056-00-01" id="6"/><rel type="時間" target="古" sid="wiki00057056-00-03" id="0"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-00-03" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 EOS
@@ -62,30 +62,30 @@ EOS
 * 3D
 + 1D <体言>
 正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 6D <体言><rel type="ノ？" target="地域" sid="wiki00057056-01" id="4"/><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 6D <rel type="ノ？" target="地域" sid="wiki00057056-01" id="4"/><体言><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="7"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 3D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="7"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="=" target="語" sid="wiki00057056-00-01" id="8"/>
++ 4D <rel type="=" target="語" sid="wiki00057056-00-01" id="8"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 5D <rel type="ノ" target="語" sid="wiki00057056-01" id="3"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="教会" sid="wiki00057056-01" id="1"/><rel type="ヲ" target="聖書" sid="wiki00057056-01" id="6"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="地域" sid="wiki00057056-01" id="4"/>
++ 6D <rel type="ガ" target="教会" sid="wiki00057056-01" id="1"/><rel type="ヲ" target="聖書" sid="wiki00057056-01" id="6"/><rel type="デ" target="地域" sid="wiki00057056-01" id="4"/><用言:動><時制:非過去><節-主辞>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 10D <体言><rel type="ノ？" target="教会" sid="wiki00057056-01" id="1"/>
++ 10D <rel type="ノ？" target="教会" sid="wiki00057056-01" id="1"/><体言>
 聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 9D <体言><rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/>
++ 9D <rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/><体言>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="=" target="スラヴ" sid="wiki00057056-01" id="2"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 9D <rel type="=" target="スラヴ" sid="wiki00057056-01" id="2"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 10D <体言><rel type="修飾" target="教会" sid="wiki00057056-01" id="7"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-01" id="8"/><rel type="=≒" target="語" sid="wiki00057056-01" id="3"/>
++ 10D <rel type="修飾" target="教会" sid="wiki00057056-01" id="7"/><rel type="ノ？" target="スラヴ" sid="wiki00057056-01" id="8"/><rel type="=≒" target="語" sid="wiki00057056-01" id="3"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
@@ -105,20 +105,20 @@ EOS
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 26D <rel type="ガ" target="奉神礼" sid="wiki00057056-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="言語" sid="wiki00057056-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="教会" sid="wiki00057056-01" id="1"/>
++ 26D <rel type="ガ" target="奉神礼" sid="wiki00057056-01" id="11"/><rel type="デ" target="言語" sid="wiki00057056-01" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="AND" target="教会" sid="wiki00057056-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 行なわ おこなわ 行なう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18D
-+ 18D <体言><rel type="=" target="古代" sid="wiki00057056-00-01" id="0"/>
++ 18D <rel type="=" target="古代" sid="wiki00057056-00-01" id="0"/><体言>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
-+ 18D <体言><rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/>
++ 18D <rel type="=" target="教会" sid="wiki00057056-00-01" id="1"/><体言>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 18D <体言><rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 18D <rel type="=" target="スラヴ" sid="wiki00057056-00-01" id="2"/><体言><NE:OPTIONAL:スラヴ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 スラヴ すらゔ スラヴ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 26D <体言><rel type="=" target="語" sid="wiki00057056-00-01" id="3"/>
++ 26D <rel type="=" target="語" sid="wiki00057056-00-01" id="3"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
@@ -132,7 +132,7 @@ EOS
 + 22D <rel type="ガ" target="言語" sid="wiki00057056-01" id="22"/><rel type="ニ" target="元" sid="wiki00057056-01" id="20"/><用言:動><節-主辞><時制:非過去>
 なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 * 18P
-+ 26P <rel type="ガ" target="語" sid="wiki00057056-01" id="18"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00057056-01" id="18"/><rel type="修飾" target="なった" sid="wiki00057056-01" id="21"/>
++ 26P <rel type="ガ" target="語" sid="wiki00057056-01" id="18"/><rel type="=構" target="語" sid="wiki00057056-01" id="18"/><rel type="修飾" target="なった" sid="wiki00057056-01" id="21"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -145,12 +145,12 @@ EOS
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
-+ 26D <体言><NE:DATE:11世紀><rel type="カラ" target="9世紀" sid="wiki00057056-01" id="24"/>
++ 26D <rel type="カラ" target="9世紀" sid="wiki00057056-01" id="24"/><体言><NE:DATE:11世紀>
 11 じゅういち/じゅういっ 11 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 世紀 せいき 世紀 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00057056-01" id="18"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="9世紀" sid="wiki00057056-01" id="24"/><rel type="時間" mode="OR" target="11世紀" sid="wiki00057056-01" id="25"/>
++ -1D <rel type="ガ" target="語" sid="wiki00057056-01" id="18"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="9世紀" sid="wiki00057056-01" id="24"/><rel type="時間" mode="OR" target="11世紀" sid="wiki00057056-01" id="25"/><用言:動><時制:過去><節-主辞><節-区切>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

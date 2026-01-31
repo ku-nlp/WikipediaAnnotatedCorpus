@@ -10,29 +10,29 @@
 * 2D
 + 3D <体言><NE:DATE:中世>
 中世 ちゅうせい 中世 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
-+ 4P <体言><NE:LOCATION:ヨーロッパ><rel type="時間" target="中世" sid="wiki00025737-00-01" id="2"/><memo text="「中世ヨーロッパ」で時代？"/>
++ 4P <rel type="時間" target="中世" sid="wiki00025737-00-01" id="2"/><memo text="「中世ヨーロッパ」で時代？"/><体言><NE:LOCATION:ヨーロッパ>
 ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D <体言><NE:LOCATION:イタリア><rel type="ノ？" target="ヨーロッパ" sid="wiki00025737-00-01" id="3"/>
++ 8D <rel type="ノ？" target="ヨーロッパ" sid="wiki00025737-00-01" id="3"/><体言><NE:LOCATION:イタリア>
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 6D <体言>
 神学 しんがく 神学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8P <体言><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="神学" sid="wiki00025737-00-01" id="5"/><rel type="ノ？" mode="AND" target="イタリア" sid="wiki00025737-00-01" id="4"/>
++ 8P <rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="神学" sid="wiki00025737-00-01" id="5"/><rel type="ノ？" mode="AND" target="イタリア" sid="wiki00025737-00-01" id="4"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 8D <体言>
 哲学 てつがく 哲学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><memo text="CO"/><rel type="ノ？" target="哲学" sid="wiki00025737-00-01" id="7"/><rel type="ノ？" mode="AND" target="イタリア" sid="wiki00025737-00-01" id="4"/>
++ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="哲学" sid="wiki00025737-00-01" id="7"/><rel type="ノ？" mode="AND" target="イタリア" sid="wiki00025737-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025737-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * 1D
-+ 3D <体言><rel type="=≒" target="中世" sid="wiki00025737-00-01" id="2"/><NE:DATE:1225年>
++ 3D <rel type="=≒" target="中世" sid="wiki00025737-00-01" id="2"/><体言><NE:DATE:1225年>
 1225 せんにひゃくにじゅうご 1225 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 頃 ころ/ごろ 頃 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
@@ -46,7 +46,7 @@ EOS
 + 3D <体言>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><rel type="=≒" target="中世" sid="wiki00025737-00-01" id="2"/><rel type="カラ" target="1225年頃" sid="wiki00025737-00-02" id="0"/><NE:DATE:1274年3月7日>
++ -1D <rel type="=≒" target="中世" sid="wiki00025737-00-01" id="2"/><rel type="カラ" target="1225年頃" sid="wiki00025737-00-02" id="0"/><体言><NE:DATE:1274年3月7日>
 7 なの 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -54,19 +54,19 @@ EOS
 * -1D
 + 1D <体言>
 シチリア しちりあ シチリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言><NE:LOCATION:シチリア王国><rel type="=≒" target="イタリア" sid="wiki00025737-00-01" id="4"/>
++ 2D <rel type="=≒" target="イタリア" sid="wiki00025737-00-01" id="4"/><体言><NE:LOCATION:シチリア王国>
 王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
-+ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ" target="王国" sid="wiki00025737-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/>
++ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ" target="王国" sid="wiki00025737-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 出身 しゅっしん 出身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025737-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ 1D <体言><memo text="ドミニクス・デ・グスマン（スペイン語）"/>
++ 1D <memo text="ドミニクス・デ・グスマン（スペイン語）"/><体言>
 ドミニコ どみにこ ドミニコ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 2D <体言><NE:ORGANIZATION:ドミニコ会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="ノ？" target="会" sid="wiki00025737-02" id="1"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="会" sid="wiki00025737-02" id="1"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 士 し 士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -75,18 +75,18 @@ EOS
 + 1D <rel type="=" target="神学" sid="wiki00025737-00-01" id="5"/><体言>
 『 『 『 特殊 1 括弧始 3 * 0 * 0 NIL
 神学 しんがく 神学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 2D <体言><NE:ARTIFACT:神学大全><rel type="ノ" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ 2D <rel type="ノ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><体言><NE:ARTIFACT:神学大全>
 大全 たいぜん 大全 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 』 』 』 特殊 1 括弧終 4 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="者" sid="wiki00025737-03" id="7"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="大全" sid="wiki00025737-03" id="1"/>
++ 7D <rel type="ガ" target="者" sid="wiki00025737-03" id="7"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="大全" sid="wiki00025737-03" id="1"/><用言:動><時制:非過去><節-主辞>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 3D
-+ 4D <体言><memo text="ラテン語の「scholasticus」に由来"/>
++ 4D <memo text="ラテン語の「scholasticus」に由来"/><体言>
 スコラ すこら スコラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ニカンシテ" target="神学" sid="wiki00025737-03" id="0"/><rel type="修飾" target="スコラ" sid="wiki00025737-03" id="3"/>
++ 7D <rel type="ニカンシテ" target="神学" sid="wiki00025737-03" id="0"/><rel type="修飾" target="スコラ" sid="wiki00025737-03" id="3"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -95,7 +95,7 @@ EOS
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
 + 7D <rel type="=" target="神学" sid="wiki00025737-00-01" id="5"/><体言>
 神学 しんがく 神学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="学" sid="wiki00025737-03" id="4"/><rel type="修飾" target="代表的" sid="wiki00025737-03" id="5"/><rel type="=" target="者" sid="wiki00025737-00-01" id="8"/><rel type="=構" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="学" sid="wiki00025737-03" id="4"/><rel type="修飾" target="代表的" sid="wiki00025737-03" id="5"/><rel type="=" target="者" sid="wiki00025737-00-01" id="8"/><rel type="=構" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -104,7 +104,7 @@ EOS
 * 1P
 + 1D <体言>
 カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2P <体言><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="修飾" target="カトリック" sid="wiki00025737-04" id="0"/>
++ 2P <rel type="修飾" target="カトリック" sid="wiki00025737-04" id="0"/><体言><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
@@ -113,13 +113,13 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7P
-+ 10P <体言><rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ニオイテ" target="聖公会" sid="wiki00025737-04" id="2"/><rel type="ニオイテ" mode="AND" target="教会" sid="wiki00025737-04" id="1"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ 10P <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ニオイテ" target="聖公会" sid="wiki00025737-04" id="2"/><rel type="ニオイテ" mode="AND" target="教会" sid="wiki00025737-04" id="1"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><体言>
 聖人 せいじん 聖人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D <体言><rel type="=" target="カトリック" sid="wiki00025737-04" id="0"/>
++ 5D <rel type="=" target="カトリック" sid="wiki00025737-04" id="0"/><体言>
 カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 8D <体言><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="=" target="教会" sid="wiki00025737-04" id="1"/>
++ 8D <rel type="=" target="教会" sid="wiki00025737-04" id="1"/><体言><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -128,9 +128,9 @@ EOS
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="=" target="教会" sid="wiki00025737-04" id="5"/>
++ 8D <rel type="=" target="教会" sid="wiki00025737-04" id="5"/><体言>
 教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="教会" sid="wiki00025737-04" id="5"/><rel type="修飾" target="33人" sid="wiki00025737-04" id="6"/><rel type="修飾" mode="AND" target="教会" sid="wiki00025737-04" id="7"/><rel type="=構" target="33人" sid="wiki00025737-04" id="6"/><rel type="=≒" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ 9D <rel type="ノ？" target="教会" sid="wiki00025737-04" id="5"/><rel type="修飾" target="33人" sid="wiki00025737-04" id="6"/><rel type="修飾" mode="AND" target="教会" sid="wiki00025737-04" id="7"/><rel type="=構" target="33人" sid="wiki00025737-04" id="6"/><rel type="=≒" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/><体言>
 博士 はかせ 博士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
@@ -138,7 +138,7 @@ EOS
 うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="博士" sid="wiki00025737-04" id="8"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="=構" mode="AND" target="博士" sid="wiki00025737-04" id="8"/><memo text="CO"/>
++ -1D <rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ" target="博士" sid="wiki00025737-04" id="8"/><rel type="=構" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="=構" mode="AND" target="博士" sid="wiki00025737-04" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 り 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -147,26 +147,26 @@ EOS
 * 1D
 + 1D <rel type="=" target="イタリア" sid="wiki00025737-00-01" id="4"/><体言><NE:OPTIONAL:イタリア><NE-OPTIONAL:LOCATION,NONE:0>
 イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 2D <体言><rel type="ノ？" target="イタリア" sid="wiki00025737-05-01" id="0"/>
++ 2D <rel type="ノ？" target="イタリア" sid="wiki00025737-05-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ニヨッテ" target="語" sid="wiki00025737-05-01" id="1"/><rel type="ト" target="ダクイーノ" sid="wiki00025737-05-01" id="4"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ノ？" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="ニヨッテ" target="語" sid="wiki00025737-05-01" id="1"/><rel type="ト" target="ダクイーノ" sid="wiki00025737-05-01" id="4"/><体言><非用言格解析:動>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><rel type="=" target="トマス" sid="wiki00025737-00-01" id="0"/>
++ 4D <rel type="=" target="トマス" sid="wiki00025737-00-01" id="0"/><体言>
 トンマーゾ とんまーぞ トンマーゾ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <NE:PERSON:トンマーゾ・ダクイーノ><memo text="CO"/><体言><節-主辞><節-区切><時制:非過去><用言:判><rel type="=" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="=構" mode="AND" target="表記" sid="wiki00025737-05-01" id="2"/><rel type="デ" target="表記" sid="wiki00025737-05-01" id="2"/><rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ -1D <rel type="=" target="アクィナス" sid="wiki00025737-00-01" id="1"/><rel type="=構" mode="AND" target="表記" sid="wiki00025737-05-01" id="2"/><rel type="デ" target="表記" sid="wiki00025737-05-01" id="2"/><rel type="ガ" target="アクィナス" sid="wiki00025737-00-01" id="1"/><memo text="CO"/><NE:PERSON:トンマーゾ・ダクイーノ><体言><節-主辞><節-区切><時制:非過去><用言:判>
 ダクイーノ だくいーの ダクイーノ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025737-05-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="トンマーゾ" sid="wiki00025737-05-01" id="3"/>
++ 1D <rel type="=" target="トンマーゾ" sid="wiki00025737-05-01" id="3"/><体言>
 Tommaso Tommaso Tommaso 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <体言><NE:PERSON:Tommaso　d'Aquino><rel type="=" target="ダクイーノ" sid="wiki00025737-05-01" id="4"/><rel type="=" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/>
++ -1D <rel type="=" target="ダクイーノ" sid="wiki00025737-05-01" id="4"/><rel type="=" mode="AND" target="アクィナス" sid="wiki00025737-00-01" id="1"/><体言><NE:PERSON:Tommaso　d'Aquino>
 d'Aquino d'Aquino d'Aquino 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 EOS

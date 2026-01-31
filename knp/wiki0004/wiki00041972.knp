@@ -15,26 +15,26 @@ WOWOW わうわう WOWOW 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:
 全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 7D <rel type="ノ" target="放送" sid="wiki00041972-00-01" id="5"/><体言>
 対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="全域" sid="wiki00041972-00-01" id="4"/><rel type="修飾" target="対象" sid="wiki00041972-00-01" id="6"/>
++ 8D <rel type="=構" target="全域" sid="wiki00041972-00-01" id="4"/><rel type="修飾" target="対象" sid="wiki00041972-00-01" id="6"/><体言>
 地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 13D <rel type="ガ" target="者" sid="wiki00041972-00-01" id="13"/><rel type="ヲ" target="全域" sid="wiki00041972-00-01" id="4"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="地域" sid="wiki00041972-00-01" id="7"/>
++ 13D <rel type="ガ" target="者" sid="wiki00041972-00-01" id="13"/><rel type="ヲ" target="全域" sid="wiki00041972-00-01" id="4"/><rel type="ト" target="地域" sid="wiki00041972-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
 + 11D <体言>
 衛星 えいせい 衛星 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 11D <体言>
 基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="修飾" target="衛星" sid="wiki00041972-00-01" id="9"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00041972-00-01" id="10"/><rel type="=" target="放送" sid="wiki00041972-00-01" id="5"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="衛星" sid="wiki00041972-00-01" id="9"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00041972-00-01" id="10"/><rel type="=" target="放送" sid="wiki00041972-00-01" id="5"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 13D <体言><rel type="ノ？" target="放送" sid="wiki00041972-00-01" id="11"/>
++ 13D <rel type="ノ？" target="放送" sid="wiki00041972-00-01" id="11"/><体言>
 事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="ノ？" target="事業" sid="wiki00041972-00-01" id="12"/><memo text="CO"/>
++ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="ノ？" target="事業" sid="wiki00041972-00-01" id="12"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -51,13 +51,13 @@ EOS
 * 2D
 + 2D <rel type="=" target="日本" sid="wiki00041972-00-01" id="3"/><体言><NE:LOCATION:日本>
 日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4D <体言><rel type="デ" target="日本" sid="wiki00041972-01" id="1"/>
++ 4D <rel type="デ" target="日本" sid="wiki00041972-01" id="1"/><体言>
 初 はつ 初 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 4D <体言>
 有料 ゆうりょう 有料 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="局" sid="wiki00041972-01" id="9"/><体言><非用言格解析:動><節-主辞><rel type="修飾" target="有料" sid="wiki00041972-01" id="3"/><rel type="修飾" mode="AND" target="初" sid="wiki00041972-01" id="2"/><rel type="=≒" target="放送" sid="wiki00041972-00-01" id="5"/><rel type="ヲ" target="不特定:物"/>
++ 5D <rel type="ガ" target="局" sid="wiki00041972-01" id="9"/><rel type="修飾" target="有料" sid="wiki00041972-01" id="3"/><rel type="修飾" mode="AND" target="初" sid="wiki00041972-01" id="2"/><rel type="=≒" target="放送" sid="wiki00041972-00-01" id="5"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動><節-主辞>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -70,14 +70,14 @@ EOS
 衛星 えいせい 衛星 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 9D <rel type="=" target="放送" sid="wiki00041972-00-01" id="5"/><体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ" target="放送" sid="wiki00041972-01" id="8"/><体言><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="修飾" target="民放" sid="wiki00041972-01" id="6"/>
++ 10D <rel type="ノ" target="放送" sid="wiki00041972-01" id="8"/><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="修飾" target="民放" sid="wiki00041972-01" id="6"/><体言>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 11D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><用言:動><時制:過去><節-主辞><節-区切><rel type="時間" target="当初" sid="wiki00041972-01" id="0"/><rel type="トシテ" target="局" sid="wiki00041972-01" id="9"/>
++ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="時間" target="当初" sid="wiki00041972-01" id="0"/><rel type="トシテ" target="局" sid="wiki00041972-01" id="9"/><用言:動><時制:過去><節-主辞><節-区切>
 開局 かいきょく 開局 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -87,7 +87,7 @@ EOS
 + 1D <体言><NE:DATE:2004年>
 2004 にせんよ 2004 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 6D <体言><rel type="ノ" target="2004年" sid="wiki00041972-02-01" id="0"/>
++ 6D <rel type="ノ" target="2004年" sid="wiki00041972-02-01" id="0"/><体言>
 以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -101,11 +101,11 @@ TBS TBS TBS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:
 * 4D
 + 5D <体言>
 上位 じょうい 上位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><体言><rel type="修飾" target="上位" sid="wiki00041972-02-01" id="4"/><rel type="=構" target="TBS" sid="wiki00041972-02-01" id="2"/><rel type="=構" mode="AND" target="フジテレビ" sid="wiki00041972-02-01" id="3"/>
++ 6D <rel type="ノ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="修飾" target="上位" sid="wiki00041972-02-01" id="4"/><rel type="=構" target="TBS" sid="wiki00041972-02-01" id="2"/><rel type="=構" mode="AND" target="フジテレビ" sid="wiki00041972-02-01" id="3"/><体言>
 株主 かぶぬし 株主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 21P <用言:動><節-主辞><節-区切><rel type="ガ" target="フジテレビ" sid="wiki00041972-02-01" id="3"/><rel type="ガ" mode="AND" target="TBS" sid="wiki00041972-02-01" id="2"/><rel type="ト" target="株主" sid="wiki00041972-02-01" id="5"/><rel type="カラ" target="2004年" sid="wiki00041972-02-01" id="0"/>
++ 21P <rel type="ガ" target="フジテレビ" sid="wiki00041972-02-01" id="3"/><rel type="ガ" mode="AND" target="TBS" sid="wiki00041972-02-01" id="2"/><rel type="ト" target="株主" sid="wiki00041972-02-01" id="5"/><rel type="カラ" target="2004年" sid="wiki00041972-02-01" id="0"/><用言:動><節-主辞><節-区切>
 なり なり なる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
@@ -125,7 +125,7 @@ TBS TBS TBS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:
 + 12D <体言>
 メディア めでぃあ メディア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 15P <体言><NE:ORGANIZATION:フジ・メディア・ホールディングス><rel type="=≒" target="フジテレビ" sid="wiki00041972-02-01" id="3"/>
++ 15P <rel type="=≒" target="フジテレビ" sid="wiki00041972-02-01" id="3"/><体言><NE:ORGANIZATION:フジ・メディア・ホールディングス>
 ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
@@ -133,23 +133,23 @@ TBS TBS TBS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 15D <体言><非用言格解析:動>
 放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 20D <体言><NE:ORGANIZATION:東京放送ホールディングス><rel type="=≒" target="TBS" sid="wiki00041972-02-01" id="2"/>
++ 20D <rel type="=≒" target="TBS" sid="wiki00041972-02-01" id="2"/><体言><NE:ORGANIZATION:東京放送ホールディングス>
 ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
 + 17D <体言>
 持分 もちぶん 持分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 18D <体言><rel type="ノ" target="持分" sid="wiki00041972-02-01" id="16"/>
++ 18D <rel type="ノ" target="持分" sid="wiki00041972-02-01" id="16"/><体言>
 法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <rel type="ヲ" target="法" sid="wiki00041972-02-01" id="17"/><rel type="ニ" target="会社" sid="wiki00041972-02-01" id="20"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 20D <rel type="ヲ" target="法" sid="wiki00041972-02-01" id="17"/><rel type="ニ" target="会社" sid="wiki00041972-02-01" id="20"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 適用 てきよう 適用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 20D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニ" target="会社" sid="wiki00041972-02-01" id="20"/>
++ 20D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="会社" sid="wiki00041972-02-01" id="20"/><体言><非用言格解析:動>
 関連 かんれん 関連 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 21D <体言><rel type="ノ" target="ホールディングス" sid="wiki00041972-02-01" id="12"/><rel type="ノ" mode="AND" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><rel type="修飾" target="適用" sid="wiki00041972-02-01" id="18"/><rel type="修飾" mode="AND" target="関連" sid="wiki00041972-02-01" id="19"/><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/>
++ 21D <rel type="ノ" target="ホールディングス" sid="wiki00041972-02-01" id="12"/><rel type="ノ" mode="AND" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><rel type="修飾" target="適用" sid="wiki00041972-02-01" id="18"/><rel type="修飾" mode="AND" target="関連" sid="wiki00041972-02-01" id="19"/><rel type="=構" target="WOWOW" sid="wiki00041972-00-01" id="2"/><体言>
 会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="時間" target="現在" sid="wiki00041972-02-01" id="9"/><rel type="ト" target="会社" sid="wiki00041972-02-01" id="20"/>
++ -1D <rel type="ガ" target="WOWOW" sid="wiki00041972-00-01" id="2"/><rel type="時間" target="現在" sid="wiki00041972-02-01" id="9"/><rel type="ト" target="会社" sid="wiki00041972-02-01" id="20"/><用言:動><時制:非過去><節-主辞><節-区切>
 なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -159,10 +159,10 @@ EOS
 + 2D
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ 2D <体言><rel type="=" target="フジ" sid="wiki00041972-02-01" id="10"/>
++ 2D <rel type="=" target="フジ" sid="wiki00041972-02-01" id="10"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 フジ ふじ フジ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:フジHD><体言><rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="12"/>
++ -1D <rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="12"/><NE:ORGANIZATION:フジHD><体言>
 HD ほーるでぃんぐす HD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
@@ -171,19 +171,19 @@ EOS
 + 2D <体言>
 現 げん 現 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <体言><rel type="=" target="TBS" sid="wiki00041972-02-01" id="2"/>
++ 2D <rel type="=" target="TBS" sid="wiki00041972-02-01" id="2"/><体言>
 TBS TBS TBS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 5P <体言><NE:ORGANIZATION:TBSホールディングス><rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><rel type="時間" target="現" sid="wiki00041972-02-03" id="0"/>
++ 5P <rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><rel type="時間" target="現" sid="wiki00041972-02-03" id="0"/><体言><NE:ORGANIZATION:TBSホールディングス>
 ホールディングス ほーるでぃんぐす ホールディングス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 5D
 以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ 5D <体言><rel type="=" target="TBS" sid="wiki00041972-02-01" id="2"/>
++ 5D <rel type="=" target="TBS" sid="wiki00041972-02-01" id="2"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 TBS TBS TBS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:TBSHD><rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><体言>
++ -1D <rel type="=" target="ホールディングス" sid="wiki00041972-02-01" id="15"/><NE:ORGANIZATION:TBSHD><体言>
 HD ほーるでぃんぐす HD 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS

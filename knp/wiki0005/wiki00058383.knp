@@ -17,7 +17,7 @@
 西南 せいなん 西南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <体言><NE:LOCATION:地中海><rel type="修飾" target="西南" sid="wiki00058383-00-01" id="4"/>
++ 6D <rel type="修飾" target="西南" sid="wiki00058383-00-01" id="4"/><体言><NE:LOCATION:地中海>
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -31,7 +31,7 @@
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="島" sid="wiki00058383-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="修飾" target="領" sid="wiki00058383-00-01" id="8"/><rel type="=構" target="島" sid="wiki00058383-00-01" id="1"/><rel type="=構" mode="AND" target="領" sid="wiki00058383-00-01" id="8"/>
++ -1D <rel type="ガ" target="島" sid="wiki00058383-00-01" id="1"/><rel type="修飾" target="領" sid="wiki00058383-00-01" id="8"/><rel type="=構" target="島" sid="wiki00058383-00-01" id="1"/><rel type="=構" mode="AND" target="領" sid="wiki00058383-00-01" id="8"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -39,29 +39,29 @@ EOS
 * 1P
 + 1D <rel type="=" target="シチリア" sid="wiki00058383-00-01" id="0"/><体言>
 シチリア しちりあ シチリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4P <体言><rel type="=" target="島" sid="wiki00058383-00-01" id="1"/><NE:LOCATION:シチリアとう>
++ 4P <rel type="=" target="島" sid="wiki00058383-00-01" id="1"/><体言><NE:LOCATION:シチリアとう>
 とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="シチリア" sid="wiki00058383-00-01" id="0"/><NE:OPTIONAL:シチリア><NE-OPTIONAL:LOCATION,NONE:0>
++ 3D <rel type="=" target="シチリア" sid="wiki00058383-00-01" id="0"/><体言><NE:OPTIONAL:シチリア><NE-OPTIONAL:LOCATION,NONE:0>
 シチリア しちりあ シチリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="シチリア" sid="wiki00058383-00-02" id="2"/>
++ 4D <rel type="ノ？" target="シチリア" sid="wiki00058383-00-02" id="2"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="デ" target="語" sid="wiki00058383-00-02" id="3"/><rel type="=" target="島" sid="wiki00058383-00-01" id="1"/><NE:LOCATION:Sicìlia>
++ -1D <rel type="デ" target="語" sid="wiki00058383-00-02" id="3"/><rel type="=" target="島" sid="wiki00058383-00-01" id="1"/><体言><NE:LOCATION:Sicìlia>
 Sicìlia Sicìlia Sicìlia 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00058383-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/05/14 MEMO:
 * 1D
 + 1D <rel type="=" target="地中海" sid="wiki00058383-00-01" id="5"/><体言><NE:LOCATION:地中海>
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 2D <用言:形><時制:非過去><rel type="デ" target="地中海" sid="wiki00058383-01" id="0"/><rel type="ガ" target="島" sid="wiki00058383-01" id="2"/>
++ 2D <rel type="デ" target="地中海" sid="wiki00058383-01" id="0"/><rel type="ガ" target="島" sid="wiki00058383-01" id="2"/><用言:形><時制:非過去>
 最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="島" sid="wiki00058383-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="島" sid="wiki00058383-00-01" id="1"/><rel type="修飾" target="最大の" sid="wiki00058383-01" id="1"/>
++ -1D <rel type="ガ" target="島" sid="wiki00058383-00-01" id="1"/><rel type="=構" target="島" sid="wiki00058383-00-01" id="1"/><rel type="修飾" target="最大の" sid="wiki00058383-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 島 しま 島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

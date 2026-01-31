@@ -2,7 +2,7 @@
 * 4D
 + 1D <体言>
 エーゲ えーげ エーゲ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言><NE:LOCATION:エーゲ海><rel type="ノ？" target="地中海" sid="wiki00012977-00-01" id="2"/>
++ 5D <rel type="ノ？" target="地中海" sid="wiki00012977-00-01" id="2"/><体言><NE:LOCATION:エーゲ海>
 海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -11,7 +11,7 @@
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="地中海" sid="wiki00012977-00-01" id="2"/><体言><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/>
++ 4D <rel type="ノ" target="地中海" sid="wiki00012977-00-01" id="2"/><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><体言>
 一部 いちぶ 一部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -19,7 +19,7 @@
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="海" sid="wiki00012977-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="構成する" sid="wiki00012977-00-01" id="4"/>
++ -1D <rel type="ガ" target="海" sid="wiki00012977-00-01" id="1"/><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><rel type="修飾" target="構成する" sid="wiki00012977-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 海域 かいいき 海域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -36,9 +36,9 @@ EOS
 地中海 ちちゅうかい 地中海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <体言><rel type="ノ" target="地中海" sid="wiki00012977-01-01" id="0"/>
++ 2D <rel type="ノ" target="地中海" sid="wiki00012977-01-01" id="0"/><体言>
 東北 とうほく 東北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ノ" target="地中海" sid="wiki00012977-01-01" id="0"/><体言><節-主辞><rel type="ノ？" target="東北" sid="wiki00012977-01-01" id="1"/><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/>
++ 3D <rel type="ノ" target="地中海" sid="wiki00012977-01-01" id="0"/><rel type="ノ？" target="東北" sid="wiki00012977-01-01" id="1"/><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><体言><節-主辞>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
@@ -46,27 +46,27 @@ EOS
 あたり あたり あたる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 5P <体言><rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/>
++ 5P <rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/><体言>
 西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5I
-+ 7I <体言><rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/>
++ 7I <rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/><体言>
 北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
 + 7D <体言>
 バルカン ばるかん バルカン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 10P <体言><NE:LOCATION:バルカン半島><rel type="ヲ" target="西" sid="wiki00012977-01-01" id="4"/><rel type="ヲ" mode="AND" target="北" sid="wiki00012977-01-01" id="5"/><rel type="ガ" target="海" sid="wiki00012977-01-01" id="14"/><rel type="ニ" target="半島" sid="wiki00012977-01-01" id="7"/>
++ 10P <rel type="ヲ" target="西" sid="wiki00012977-01-01" id="4"/><rel type="ヲ" mode="AND" target="北" sid="wiki00012977-01-01" id="5"/><rel type="ガ" target="海" sid="wiki00012977-01-01" id="14"/><rel type="ニ" target="半島" sid="wiki00012977-01-01" id="7"/><体言><NE:LOCATION:バルカン半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7I
-+ 10I <体言><rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/>
++ 10I <rel type="ノ" target="海" sid="wiki00012977-01-01" id="14"/><体言>
 東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 10D <体言>
 アナトリア あなとりあ アナトリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 11D <体言><rel type="ヲ" target="東" sid="wiki00012977-01-01" id="8"/><NE:LOCATION:アナトリア半島>
++ 11D <rel type="ヲ" target="東" sid="wiki00012977-01-01" id="8"/><体言><NE:LOCATION:アナトリア半島>
 半島 はんとう 半島 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -80,7 +80,7 @@ EOS
 状 じょう 状 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="海" sid="wiki00012977-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><rel type="修飾" target="状" sid="wiki00012977-01-01" id="13"/>
++ -1D <rel type="ガ" target="海" sid="wiki00012977-00-01" id="1"/><rel type="=構" target="海" sid="wiki00012977-00-01" id="1"/><rel type="修飾" target="状" sid="wiki00012977-01-01" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 海 うみ 海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -91,7 +91,7 @@ EOS
 ギリシャ ぎりしゃ ギリシャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <体言><NE:LOCATION:ギリシャ共和国><rel type="=≒" target="半島" sid="wiki00012977-01-01" id="7"/>
++ -1D <rel type="=≒" target="半島" sid="wiki00012977-01-01" id="7"/><体言><NE:LOCATION:ギリシャ共和国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00012977-01-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/26 MEMO:
@@ -100,6 +100,6 @@ EOS
 トルコ とるこ トルコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <体言>
 共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <体言><NE:LOCATION:トルコ共和国><rel type="=≒" target="半島" sid="wiki00012977-01-01" id="10"/>
++ -1D <rel type="=≒" target="半島" sid="wiki00012977-01-01" id="10"/><体言><NE:LOCATION:トルコ共和国>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS

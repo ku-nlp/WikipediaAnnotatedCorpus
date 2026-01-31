@@ -14,7 +14,7 @@
 * 6P
 + 4D <体言>
 中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10P <rel type="ノ" target="各国" sid="wiki00011289-00-01" id="2"/><体言><rel type="修飾" target="中央" sid="wiki00011289-00-01" id="3"/>
++ 10P <rel type="ノ" target="各国" sid="wiki00011289-00-01" id="2"/><rel type="修飾" target="中央" sid="wiki00011289-00-01" id="3"/><体言>
 政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -26,11 +26,11 @@
 * 5D
 + 8D <体言>
 債務 さいむ 債務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ヲ" target="債務" sid="wiki00011289-00-01" id="7"/><体言><非用言格解析:動><rel type="ガ" target="政府" sid="wiki00011289-00-01" id="6"/>
++ 9D <rel type="ヲ" target="債務" sid="wiki00011289-00-01" id="7"/><rel type="ガ" target="政府" sid="wiki00011289-00-01" id="6"/><体言><非用言格解析:動>
 保証 ほしょう 保証 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ガ" target="機関" sid="wiki00011289-00-01" id="10"/><rel type="ヲ" target="保証" sid="wiki00011289-00-01" id="8"/><用言:動><時制:過去><節-主辞><rel type="カラ" target="政府" sid="wiki00011289-00-01" id="6"/>
++ 10D <rel type="ガ" target="機関" sid="wiki00011289-00-01" id="10"/><rel type="ヲ" target="保証" sid="wiki00011289-00-01" id="8"/><rel type="カラ" target="政府" sid="wiki00011289-00-01" id="6"/><用言:動><時制:過去><節-主辞>
 受けた うけた 受ける 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 7D
 + 11D <体言>
@@ -44,12 +44,12 @@
 融資 ゆうし 融資 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 15D <rel type="ガ" target="機関" sid="wiki00011289-00-01" id="15"/><rel type="ヲ" target="融資" sid="wiki00011289-00-01" id="12"/><用言:動><時制:非過去><rel type="ニタイシテ" target="政府" sid="wiki00011289-00-01" id="4"/><rel type="ニタイシテ" mode="AND" target="機関" sid="wiki00011289-00-01" id="10"/>
++ 15D <rel type="ガ" target="機関" sid="wiki00011289-00-01" id="15"/><rel type="ヲ" target="融資" sid="wiki00011289-00-01" id="12"/><rel type="ニタイシテ" target="政府" sid="wiki00011289-00-01" id="4"/><rel type="ニタイシテ" mode="AND" target="機関" sid="wiki00011289-00-01" id="10"/><用言:動><時制:非過去>
 行う おこなう 行う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * -1D
 + 15D <体言>
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="銀行" sid="wiki00011289-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="銀行" sid="wiki00011289-00-01" id="1"/><rel type="修飾" target="国際" sid="wiki00011289-00-01" id="14"/>
++ -1D <rel type="ガ" target="銀行" sid="wiki00011289-00-01" id="1"/><rel type="=構" target="銀行" sid="wiki00011289-00-01" id="1"/><rel type="修飾" target="国際" sid="wiki00011289-00-01" id="14"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -58,7 +58,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="世界" sid="wiki00011289-00-01" id="0"/><体言>
 せかい せかい せかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <NE:ORGANIZATION:せかいぎんこう><rel type="=" target="銀行" sid="wiki00011289-00-01" id="1"/><体言>
++ -1D <rel type="=" target="銀行" sid="wiki00011289-00-01" id="1"/><NE:ORGANIZATION:せかいぎんこう><体言>
 ぎんこう ぎんこう ぎんこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00011289-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:49.00000 MOD:2025/11/11 MEMO:
@@ -71,7 +71,7 @@ EOS
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 3D <体言>
 ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="本部" sid="wiki00011289-01" id="0"/><rel type="ニ" target="D.C" sid="wiki00011289-01" id="3"/><memo text="PO:ある、など"/><NE:LOCATION:アメリカ合衆国ワシントンD.C.><体言><時制:非過去><節-主辞><節-区切><用言:動><rel type="ノ？" target="アメリカ合衆国" sid="wiki00011289-01" id="1"/>
++ -1D <rel type="ガ" target="本部" sid="wiki00011289-01" id="0"/><rel type="ニ" target="D.C" sid="wiki00011289-01" id="3"/><rel type="ノ？" target="アメリカ合衆国" sid="wiki00011289-01" id="1"/><memo text="PO:ある、など"/><NE:LOCATION:アメリカ合衆国ワシントンD.C.><体言><時制:非過去><節-主辞><節-区切><用言:動>
 D D D 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:LOCATION:middle>
 C C C 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
@@ -82,11 +82,11 @@ EOS
 * 1D
 + 1D <rel type="ガ" target="国" sid="wiki00011289-02" id="1"/><rel type="ニ" target="銀行" sid="wiki00011289-00-01" id="1"/><体言><非用言格解析:動>
 加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ？" target="加盟" sid="wiki00011289-02" id="0"/><rel type="ノ" target="銀行" sid="wiki00011289-00-01" id="1"/>
++ 2D <rel type="ノ？" target="加盟" sid="wiki00011289-02" id="0"/><rel type="ノ" target="銀行" sid="wiki00011289-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00011289-02" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="国" sid="wiki00011289-02" id="1"/>
++ -1D <rel type="ガ" target="国" sid="wiki00011289-02" id="1"/><rel type="=構" target="国" sid="wiki00011289-02" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 189 ひゃくはちじゅうきゅう 189 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 ヶ国 かこく ヶ国 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -95,17 +95,17 @@ EOS
 * 2D
 + 1D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 3D <体言><rel type="ノ？" target="日本" sid="wiki00011289-03-01" id="0"/>
++ 3D <rel type="ノ？" target="日本" sid="wiki00011289-03-01" id="0"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:ORGANIZATION:世銀><rel type="=構" target="銀行" sid="wiki00011289-00-01" id="1"/>
++ 3D <rel type="=構" target="銀行" sid="wiki00011289-00-01" id="1"/><体言><NE:ORGANIZATION:世銀>
 世銀 せぎん 世銀 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="銀行" sid="wiki00011289-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="世銀" sid="wiki00011289-03-01" id="2"/><rel type="デ" target="語" sid="wiki00011289-03-01" id="1"/>
++ -1D <rel type="ガ" target="銀行" sid="wiki00011289-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="世銀" sid="wiki00011289-03-01" id="2"/><rel type="デ" target="語" sid="wiki00011289-03-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

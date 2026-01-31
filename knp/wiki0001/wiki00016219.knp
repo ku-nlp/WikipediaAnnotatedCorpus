@@ -2,15 +2,15 @@
 * 5D
 + 1D <体言>
 プリンストン ぷりんすとん プリンストン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 8D <体言><NE:OPTIONAL:プリンストン大学><NE-OPTIONAL:ORGANIZATION,LOCATION:0><rel type="ノ？" target="プリンストン" sid="wiki00016219-00-01" id="3"/>
++ 8D <rel type="ノ？" target="プリンストン" sid="wiki00016219-00-01" id="3"/><体言><NE:OPTIONAL:プリンストン大学><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="ノ？" target="アメリカ" sid="wiki00016219-00-01" id="6"/>
++ 3D <rel type="ノ？" target="アメリカ" sid="wiki00016219-00-01" id="6"/><体言>
 ニュージャージー にゅーじゃーじー ニュージャージー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:ニュージャージー州プリンストン><rel type="ノ？" target="ニュージャージー州" sid="wiki00016219-00-01" id="2"/><rel type="=" target="プリンストン" sid="wiki00016219-00-01" id="0"/>
++ 5D <rel type="ノ？" target="ニュージャージー州" sid="wiki00016219-00-01" id="2"/><rel type="=" target="プリンストン" sid="wiki00016219-00-01" id="0"/><体言><NE:LOCATION:ニュージャージー州プリンストン>
 プリンストン ぷりんすとん プリンストン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -27,7 +27,7 @@
 * -1D
 + 8D <体言>
 私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="大学" sid="wiki00016219-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="アメリカ" sid="wiki00016219-00-01" id="6"/><rel type="=構" target="大学" sid="wiki00016219-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="私立" sid="wiki00016219-00-01" id="7"/>
++ -1D <rel type="ガ" target="大学" sid="wiki00016219-00-01" id="1"/><rel type="ノ？" target="アメリカ" sid="wiki00016219-00-01" id="6"/><rel type="=構" target="大学" sid="wiki00016219-00-01" id="1"/><rel type="修飾" target="私立" sid="wiki00016219-00-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -35,7 +35,7 @@ EOS
 * -1D
 + 1D <rel type="=" target="プリンストン" sid="wiki00016219-00-01" id="0"/><体言>
 プリンストン ぷりんすとん プリンストン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <NE:OPTIONAL:プリンストンだいがく><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><体言><rel type="=" target="大学" sid="wiki00016219-00-01" id="1"/>
++ -1D <rel type="=" target="大学" sid="wiki00016219-00-01" id="1"/><NE:OPTIONAL:プリンストンだいがく><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><体言>
 だいがく だいがく だいがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00016219-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
@@ -44,7 +44,7 @@ EOS
 1746 せんななひゃくよんじゅうろく 1746 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="時間" target="1746年" sid="wiki00016219-01" id="0"/><体言><時制:過去><節-主辞><節-区切><用言:動><memo text="PO:する"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00016219-00-01" id="1"/>
++ -1D <rel type="時間" target="1746年" sid="wiki00016219-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00016219-00-01" id="1"/><memo text="PO:する"/><体言><時制:過去><節-主辞><節-区切><用言:動>
 創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

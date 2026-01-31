@@ -5,13 +5,13 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="=≒" target="西洋" sid="wiki00025680-00-01" id="0"/>
++ 3D <rel type="=≒" target="西洋" sid="wiki00025680-00-01" id="0"/><体言>
 東洋 とうよう 東洋 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="ノ" target="東洋" sid="wiki00025680-00-01" id="1"/>
++ 3D <rel type="ノ" target="東洋" sid="wiki00025680-00-01" id="1"/><体言>
 対 つい 対 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="西洋" sid="wiki00025680-00-01" id="0"/><rel type="ノ" target="東洋" sid="wiki00025680-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="西洋" sid="wiki00025680-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="対" sid="wiki00025680-00-01" id="2"/>
++ -1D <rel type="ガ" target="西洋" sid="wiki00025680-00-01" id="0"/><rel type="ノ" target="東洋" sid="wiki00025680-00-01" id="1"/><rel type="=構" target="西洋" sid="wiki00025680-00-01" id="0"/><rel type="修飾" target="対" sid="wiki00025680-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -25,16 +25,16 @@ EOS
 + 1D <体言>
 the the the 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 3P <体言><rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/>
++ 3P <rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><体言>
 East East East 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 3P <体言><rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/>
++ 3P <rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><体言>
 Orient Orient Orient 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><memo text="JUMANで地名になっている"/><rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><rel type="=" mode="AND" target="Orient" sid="wiki00025680-00-03" id="2"/>
++ -1D <rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><rel type="=" mode="AND" target="Orient" sid="wiki00025680-00-03" id="2"/><memo text="JUMANで地名になっている"/><体言>
 オリエント おりえんと オリエント 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00025680-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:64.00000 MOD:2025/06/03 MEMO:
@@ -63,7 +63,7 @@ EOS
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ニ" target="数千年" sid="wiki00025680-01" id="5"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:状況"/>
++ 9D <rel type="ニ" target="数千年" sid="wiki00025680-01" id="5"/><rel type="ガ" target="不特定:状況"/><用言:動><時制:非過去><節-主辞>
 わたる わたる わたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
 + 9D <rel type="ノ" target="圏" sid="wiki00025680-01" id="9"/><体言>
@@ -73,11 +73,11 @@ EOS
 * 8D
 + 9D <体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ" target="文化" sid="wiki00025680-01" id="8"/><体言><rel type="=構" target="二つ" sid="wiki00025680-01" id="7"/><rel type="修飾" target="二つ" sid="wiki00025680-01" id="7"/><rel type="修飾" mode="AND" target="わたる" sid="wiki00025680-01" id="6"/>
++ 10D <rel type="ノ" target="文化" sid="wiki00025680-01" id="8"/><rel type="=構" target="二つ" sid="wiki00025680-01" id="7"/><rel type="修飾" target="二つ" sid="wiki00025680-01" id="7"/><rel type="修飾" mode="AND" target="わたる" sid="wiki00025680-01" id="6"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16P
-+ 21P <rel type="ガ" target="圏" sid="wiki00025680-01" id="9"/><用言:動><節-主辞><節-区切><rel type="ニ" target="東端" sid="wiki00025680-01" id="4"/><rel type="ニ" mode="AND" target="西端" sid="wiki00025680-01" id="3"/>
++ 21P <rel type="ガ" target="圏" sid="wiki00025680-01" id="9"/><rel type="ニ" target="東端" sid="wiki00025680-01" id="4"/><rel type="ニ" mode="AND" target="西端" sid="wiki00025680-01" id="3"/><用言:動><節-主辞><節-区切>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -86,7 +86,7 @@ EOS
 現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 13D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 21D <体言><rel type="時間" target="現代" sid="wiki00025680-01" id="11"/><rel type="ノ？" target="日本" sid="wiki00025680-01" id="12"/>
++ 21D <rel type="時間" target="現代" sid="wiki00025680-01" id="11"/><rel type="ノ？" target="日本" sid="wiki00025680-01" id="12"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -96,28 +96,28 @@ EOS
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 16D <体言><rel type="=" target="文化" sid="wiki00025680-01" id="8"/>
++ 16D <rel type="=" target="文化" sid="wiki00025680-01" id="8"/><体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 21D <rel type="=" target="圏" sid="wiki00025680-01" id="9"/><体言>
 圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 18P <体言><rel type="=" target="西洋" sid="wiki00025680-00-01" id="0"/><rel type="=≒" mode="AND" target="圏" sid="wiki00025680-01" id="16"/>
++ 18P <rel type="=" target="西洋" sid="wiki00025680-00-01" id="0"/><rel type="=≒" mode="AND" target="圏" sid="wiki00025680-01" id="16"/><体言>
 西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 19D <体言><rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><rel type="=≒" mode="AND" target="圏" sid="wiki00025680-01" id="16"/>
++ 19D <rel type="=" target="東洋" sid="wiki00025680-00-01" id="1"/><rel type="=≒" mode="AND" target="圏" sid="wiki00025680-01" id="16"/><体言>
 東洋 とうよう 東洋 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
 + 20D <用言:動><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 16D
-+ 21D <体言><rel type="トイウ" target="西洋" sid="wiki00025680-01" id="17"/><rel type="トイウ" mode="AND" target="東洋" sid="wiki00025680-01" id="18"/><rel type="=構" target="西洋" sid="wiki00025680-01" id="17"/><rel type="=構" mode="AND" target="東洋" sid="wiki00025680-01" id="18"/>
++ 21D <rel type="トイウ" target="西洋" sid="wiki00025680-01" id="17"/><rel type="トイウ" mode="AND" target="東洋" sid="wiki00025680-01" id="18"/><rel type="=構" target="西洋" sid="wiki00025680-01" id="17"/><rel type="=構" mode="AND" target="東洋" sid="wiki00025680-01" id="18"/><体言>
 概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="圏" sid="wiki00025680-01" id="16"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="概念" sid="wiki00025680-01" id="20"/><rel type="デ" mode="AND" target="語" sid="wiki00025680-01" id="13"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="圏" sid="wiki00025680-01" id="16"/><rel type="デ" target="概念" sid="wiki00025680-01" id="20"/><rel type="デ" mode="AND" target="語" sid="wiki00025680-01" id="13"/><用言:動><時制:非過去><節-主辞><節-区切>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -135,7 +135,7 @@ EOS
 * 3D
 + 3D <体言>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ニカンシテ" target="歴史" sid="wiki00025680-02" id="2"/>
++ 6D <rel type="ニカンシテ" target="歴史" sid="wiki00025680-02" id="2"/><体言>
 学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
@@ -143,18 +143,18 @@ EOS
 東西 とうざい 東西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="東西" sid="wiki00025680-02" id="4"/><体言><非用言格解析:動>
 比較 ひかく 比較 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニヨッテ" target="比較" sid="wiki00025680-02" id="5"/><rel type="ニオイテ" target="学" sid="wiki00025680-02" id="3"/><rel type="ヲ" target="歴史" sid="wiki00025680-02" id="2"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="比較" sid="wiki00025680-02" id="5"/><rel type="ニオイテ" target="学" sid="wiki00025680-02" id="3"/><rel type="ヲ" target="歴史" sid="wiki00025680-02" id="2"/><体言><非用言格解析:動>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <体言><rel type="=構" target="研究" sid="wiki00025680-02" id="6"/><rel type="ノ≒" target="研究" sid="wiki00025680-02" id="6"/>
++ 8D <rel type="=構" target="研究" sid="wiki00025680-02" id="6"/><rel type="ノ≒" target="研究" sid="wiki00025680-02" id="6"/><体言>
 テーマ てーま テーマ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="研究" sid="wiki00025680-02" id="6"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="テーマ" sid="wiki00025680-02" id="7"/><rel type="外の関係" target="場合" sid="wiki00025680-02" id="9"/><rel type="ノ" target="場合" sid="wiki00025680-02" id="9"/>
++ 9D <rel type="ガ" target="研究" sid="wiki00025680-02" id="6"/><rel type="ト" target="テーマ" sid="wiki00025680-02" id="7"/><rel type="外の関係" target="場合" sid="wiki00025680-02" id="9"/><rel type="ノ" target="場合" sid="wiki00025680-02" id="9"/><用言:動><時制:非過去><節-主辞>
 なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 17D <体言><節-区切><rel type="ノ" target="なる" sid="wiki00025680-02" id="8"/>
++ 17D <rel type="ノ" target="なる" sid="wiki00025680-02" id="8"/><体言><節-区切>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
@@ -169,7 +169,7 @@ EOS
 + 13D <用言:動><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 11D
-+ 14D <体言><非用言格解析:動><rel type="トイウ" target="西洋" sid="wiki00025680-02" id="10"/><rel type="トイウ" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="西洋" sid="wiki00025680-02" id="10"/><rel type="ト" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/>
++ 14D <rel type="トイウ" target="西洋" sid="wiki00025680-02" id="10"/><rel type="トイウ" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="西洋" sid="wiki00025680-02" id="10"/><rel type="ト" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/><体言><非用言格解析:動>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
@@ -177,15 +177,15 @@ EOS
 代わり かわり 代わり 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 16P <体言><rel type="=" target="西洋" sid="wiki00025680-02" id="10"/>
++ 16P <rel type="=" target="西洋" sid="wiki00025680-02" id="10"/><体言>
 西方 せいほう 西方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 17D <体言><rel type="=" target="東洋" sid="wiki00025680-02" id="11"/>
++ 17D <rel type="=" target="東洋" sid="wiki00025680-02" id="11"/><体言>
 東方 とうほう 東方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="中国" sid="wiki00025680-02" id="1"/><rel type="ト" target="西方" sid="wiki00025680-02" id="15"/><rel type="ト" mode="AND" target="東方" sid="wiki00025680-02" id="16"/><rel type="時間" target="場合" sid="wiki00025680-02" id="9"/><rel type="ヲ" target="西洋" sid="wiki00025680-02" id="10"/><rel type="ヲ" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="デ" target="中国" sid="wiki00025680-02" id="1"/><rel type="ト" target="西方" sid="wiki00025680-02" id="15"/><rel type="ト" mode="AND" target="東方" sid="wiki00025680-02" id="16"/><rel type="時間" target="場合" sid="wiki00025680-02" id="9"/><rel type="ヲ" target="西洋" sid="wiki00025680-02" id="10"/><rel type="ヲ" mode="AND" target="東洋" sid="wiki00025680-02" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
 表現 ひょうげん 表現 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

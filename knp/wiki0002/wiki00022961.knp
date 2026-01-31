@@ -1,8 +1,8 @@
 # S-ID:wiki00022961-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/05/14 MEMO:
 * 5D
-+ 1D <体言><NE:OPTIONAL:ハプスブルク><NE-OPTIONAL:PERSON,NONE:0><memo text="家祖の一人が築いたハプスブルク城に由来。品詞：人名？固有名詞？"/>
++ 1D <memo text="家祖の一人が築いたハプスブルク城に由来。品詞：人名？固有名詞？"/><体言><NE:OPTIONAL:ハプスブルク><NE-OPTIONAL:PERSON,NONE:0>
 ハプスブルク はぷすぶるく ハプスブルク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 8D <体言><rel type="ノ？" target="ハプスブルク" sid="wiki00022961-00-01" id="0"/>
++ 8D <rel type="ノ？" target="ハプスブルク" sid="wiki00022961-00-01" id="0"/><体言>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -13,7 +13,7 @@
 * 3D
 + 4D <体言><NE:LOCATION:スイス>
 スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <rel type="ノ" target="スイス" sid="wiki00022961-00-01" id="3"/><体言><rel type="時間" target="現在" sid="wiki00022961-00-01" id="2"/>
++ 5D <rel type="ノ" target="スイス" sid="wiki00022961-00-01" id="3"/><rel type="時間" target="現在" sid="wiki00022961-00-01" id="2"/><体言>
 領 りょう 領 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -28,7 +28,7 @@
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="家" sid="wiki00022961-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="系" sid="wiki00022961-00-01" id="7"/><rel type="=構" target="家" sid="wiki00022961-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="家" sid="wiki00022961-00-01" id="1"/><rel type="修飾" target="系" sid="wiki00022961-00-01" id="7"/><rel type="=構" target="家" sid="wiki00022961-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 貴族 きぞく 貴族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -36,6 +36,6 @@ EOS
 * -1D
 + 1D <体言><NE:LOCATION:アルザス>
 アルザス あるざす アルザス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ -1D <rel type="ノ" target="アルザス" sid="wiki00022961-00-02" id="0"/><体言><rel type="=≒" target="系" sid="wiki00022961-00-01" id="7"/><rel type="ノ？" target="系" sid="wiki00022961-00-01" id="7"/>
++ -1D <rel type="ノ" target="アルザス" sid="wiki00022961-00-02" id="0"/><rel type="=≒" target="系" sid="wiki00022961-00-01" id="7"/><rel type="ノ？" target="系" sid="wiki00022961-00-01" id="7"/><体言>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

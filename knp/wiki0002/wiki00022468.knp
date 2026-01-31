@@ -4,7 +4,7 @@
 インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 6D
-+ 8D <体言><NE:OPTIONAL:インドの歴史><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="ノ？" target="インド" sid="wiki00022468-00-01" id="0"/>
++ 8D <rel type="ノ？" target="インド" sid="wiki00022468-00-01" id="0"/><体言><NE:OPTIONAL:インドの歴史><NE-OPTIONAL:ARTIFACT,NONE:0>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 * 4D
 + 3D <体言><NE:LOCATION:インダス>
 インダス いんだす インダス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 4D <体言><rel type="ノ？" target="インダス" sid="wiki00022468-00-01" id="2"/>
++ 4D <rel type="ノ？" target="インダス" sid="wiki00022468-00-01" id="2"/><体言>
 文明 ぶんめい 文明 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <体言>
 以来 いらい 以来 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞>
@@ -22,14 +22,14 @@
 インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7D <体言><rel type="カラ" target="文明" sid="wiki00022468-00-01" id="3"/><rel type="=≒" target="歴史" sid="wiki00022468-00-01" id="1"/><rel type="ノ？" target="インド" sid="wiki00022468-00-01" id="5"/>
++ 7D <rel type="カラ" target="文明" sid="wiki00022468-00-01" id="3"/><rel type="=≒" target="歴史" sid="wiki00022468-00-01" id="1"/><rel type="ノ？" target="インド" sid="wiki00022468-00-01" id="5"/><体言>
 歴史 れきし 歴史 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 8D <用言:動>
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="著者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニツイテ" target="歴史" sid="wiki00022468-00-01" id="6"/><rel type="デ" target="歴史" sid="wiki00022468-00-01" id="1"/>
++ -1D <rel type="ガ" target="著者"/><rel type="ニツイテ" target="歴史" sid="wiki00022468-00-01" id="6"/><rel type="デ" target="歴史" sid="wiki00022468-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 略述 りゃくじゅつ 略述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -44,12 +44,12 @@ EOS
 れきし れきし れきし 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><rel type="=" target="歴史" sid="wiki00022468-00-01" id="6"/>
++ 3D <rel type="=" target="歴史" sid="wiki00022468-00-01" id="6"/><体言>
 History History History 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
 + 4D <体言>
 of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <体言><NE:OPTIONAL:History　of　India><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="=" target="歴史" sid="wiki00022468-00-01" id="1"/><rel type="=" mode="AND" target="インド" sid="wiki00022468-00-01" id="5"/>
++ -1D <rel type="=" target="歴史" sid="wiki00022468-00-01" id="1"/><rel type="=" mode="AND" target="インド" sid="wiki00022468-00-01" id="5"/><体言><NE:OPTIONAL:History　of　India><NE-OPTIONAL:ARTIFACT,NONE:0>
 India India India 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

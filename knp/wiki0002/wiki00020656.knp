@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言>
 レッド れっど レッド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 12D <体言><rel type="修飾" target="レッド" sid="wiki00020656-00-01" id="0"/><NE:OPTIONAL:レッドリスト><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 12D <rel type="修飾" target="レッド" sid="wiki00020656-00-01" id="0"/><体言><NE:OPTIONAL:レッドリスト><NE-OPTIONAL:ARTIFACT,NONE:0>
 リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,9 +12,9 @@
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 4D <体言>
 自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <rel type="ヲ" target="自然" sid="wiki00020656-00-01" id="3"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
++ 5D <rel type="ヲ" target="自然" sid="wiki00020656-00-01" id="3"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 保護 ほご 保護 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 6D <体言><非用言格解析:動><NE:ORGANIZATION:国際自然保護連合><rel type="修飾" target="国際" sid="wiki00020656-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="保護" sid="wiki00020656-00-01" id="4"/>
++ 6D <rel type="修飾" target="国際" sid="wiki00020656-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="保護" sid="wiki00020656-00-01" id="4"/><体言><非用言格解析:動><NE:ORGANIZATION:国際自然保護連合>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -26,20 +26,20 @@
 絶滅 ぜつめつ 絶滅 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <体言><rel type="ノ？" target="絶滅" sid="wiki00020656-00-01" id="7"/>
++ 9D <rel type="ノ？" target="絶滅" sid="wiki00020656-00-01" id="7"/><体言>
 おそれ おそれ おそれ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="おそれ" sid="wiki00020656-00-01" id="8"/><用言:動><時制:非過去><rel type="ニ" target="生物" sid="wiki00020656-00-01" id="11"/>
++ 11D <rel type="ガ" target="おそれ" sid="wiki00020656-00-01" id="8"/><rel type="ニ" target="生物" sid="wiki00020656-00-01" id="11"/><用言:動><時制:非過去>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
 + 11D <体言><非用言格解析:動>
 野生 やせい 野生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="ある" sid="wiki00020656-00-01" id="9"/><rel type="修飾" mode="AND" target="野生" sid="wiki00020656-00-01" id="10"/>
++ 12D <rel type="修飾" target="ある" sid="wiki00020656-00-01" id="9"/><rel type="修飾" mode="AND" target="野生" sid="wiki00020656-00-01" id="10"/><体言>
 生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="生物" sid="wiki00020656-00-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="ガ" target="リスト" sid="wiki00020656-00-01" id="1"/><rel type="=構" target="リスト" sid="wiki00020656-00-01" id="1"/>
++ -1D <rel type="ノ" target="生物" sid="wiki00020656-00-01" id="11"/><rel type="ガ" target="リスト" sid="wiki00020656-00-01" id="1"/><rel type="=構" target="リスト" sid="wiki00020656-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 リスト りすと リスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -73,11 +73,11 @@ of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:midd
 + 7D <体言>
 Threatened Threatened Threatened 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <体言><NE:ARTIFACT:The　IUCN　Red　List　of　Threatened　Species><rel type="=構" target="リスト" sid="wiki00020656-00-01" id="1"/>
++ 8D <rel type="=構" target="リスト" sid="wiki00020656-00-01" id="1"/><体言><NE:ARTIFACT:The　IUCN　Red　List　of　Threatened　Species>
 Species Species Species 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><節-主辞><節-区切><時制:非過去><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="リスト" sid="wiki00020656-00-01" id="1"/><rel type="ト" target="Species" sid="wiki00020656-01" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="リスト" sid="wiki00020656-00-01" id="1"/><rel type="ト" target="Species" sid="wiki00020656-01" id="7"/><用言:動><節-主辞><節-区切><時制:非過去>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -97,14 +97,14 @@ EOS
 + 4D <rel type="ガ" target="バージョン" sid="wiki00020656-02" id="4"/><用言:形><時制:非過去>
 最新の さいしんの 最新だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 3D
-+ 6D <体言><rel type="ノ" target="Species" sid="wiki00020656-01" id="7"/><rel type="修飾" target="最新の" sid="wiki00020656-02" id="3"/>
++ 6D <rel type="ノ" target="Species" sid="wiki00020656-01" id="7"/><rel type="修飾" target="最新の" sid="wiki00020656-02" id="3"/><体言>
 バージョン ばーじょん バージョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 6D <rel type="=" target="2017年" sid="wiki00020656-02" id="0"/><体言>
 2017 にせんじゅうなな/にせんじゅうしち 2017 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="バージョン" sid="wiki00020656-02" id="4"/><rel type="ノ" target="2017年" sid="wiki00020656-02" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="バージョン" sid="wiki00020656-02" id="4"/><rel type="時間" target="現在" sid="wiki00020656-02" id="2"/>
++ -1D <rel type="ガ" target="バージョン" sid="wiki00020656-02" id="4"/><rel type="ノ" target="2017年" sid="wiki00020656-02" id="5"/><rel type="=構" target="バージョン" sid="wiki00020656-02" id="4"/><rel type="時間" target="現在" sid="wiki00020656-02" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 版 ばん 版 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

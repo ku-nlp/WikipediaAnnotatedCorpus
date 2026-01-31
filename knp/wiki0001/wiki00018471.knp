@@ -2,7 +2,7 @@
 * 3D
 + 1D <体言>
 ブリティッシュ ぶりてぃっしゅ ブリティッシュ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4D <体言><NE:LOCATION:ブリティッシュコロンビア州><rel type="ノ？" target="カナダ" sid="wiki00018471-00" id="2"/>
++ 4D <rel type="ノ？" target="カナダ" sid="wiki00018471-00" id="2"/><体言><NE:LOCATION:ブリティッシュコロンビア州>
 コロンビア ころんびあ コロンビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,11 +12,11 @@
 カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言><rel type="=≒" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ノ？" target="カナダ" sid="wiki00018471-00" id="2"/>
++ 4D <rel type="=≒" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ノ？" target="カナダ" sid="wiki00018471-00" id="2"/><体言>
 州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ノ" target="州" sid="wiki00018471-00" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="州" sid="wiki00018471-00" id="3"/><rel type="=構" mode="AND" target="コロンビア州" sid="wiki00018471-00" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ノ" target="州" sid="wiki00018471-00" id="3"/><rel type="=構" target="州" sid="wiki00018471-00" id="3"/><rel type="=構" mode="AND" target="コロンビア州" sid="wiki00018471-00" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -34,7 +34,7 @@ EOS
 カナダ かなだ カナダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 + 4D
 最 さい 最 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="カナダ" sid="wiki00018471-01" id="2"/><体言><rel type="修飾" target="最" sid="wiki00018471-01" id="3"/><rel type="=≒" target="コロンビア州" sid="wiki00018471-00" id="1"/>
++ 5D <rel type="ノ" target="カナダ" sid="wiki00018471-01" id="2"/><rel type="修飾" target="最" sid="wiki00018471-01" id="3"/><rel type="=≒" target="コロンビア州" sid="wiki00018471-00" id="1"/><体言>
 西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -45,15 +45,15 @@ EOS
 EOS
 # S-ID:wiki00018471-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/12/01 MEMO:
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><用言:動><rel type="ヲ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ト" target="BC" sid="wiki00018471-02" id="1"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ト" target="BC" sid="wiki00018471-02" id="1"/><用言:動>
 略して りゃくして 略する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 2D
-+ 2D <体言><memo text="品詞"/><NE:OPTIONAL:BC><NE-OPTIONAL:LOCATION,NONE:0><rel type="=構" target="コロンビア州" sid="wiki00018471-00" id="1"/>
++ 2D <rel type="=構" target="コロンビア州" sid="wiki00018471-00" id="1"/><memo text="品詞"/><体言><NE:OPTIONAL:BC><NE-OPTIONAL:LOCATION,NONE:0>
 BC BC BC 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ト" target="BC" sid="wiki00018471-02" id="1"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="コロンビア州" sid="wiki00018471-00" id="1"/><rel type="ト" target="BC" sid="wiki00018471-02" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

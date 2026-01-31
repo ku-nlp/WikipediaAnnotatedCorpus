@@ -2,14 +2,14 @@
 * 4D
 + 1D <体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="ゲーム" sid="wiki00042897-00" id="0"/>
++ 6D <rel type="修飾" target="ゲーム" sid="wiki00042897-00" id="0"/><体言>
 ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="=" target="ゲーム" sid="wiki00042897-00" id="0"/><体言><rel type="修飾" target="コンピュータ" sid="wiki00042897-00" id="2"/>
++ 4D <rel type="=" target="ゲーム" sid="wiki00042897-00" id="0"/><rel type="修飾" target="コンピュータ" sid="wiki00042897-00" id="2"/><体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -17,11 +17,11 @@
 付随 ふずい 付随 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 6D <体言><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="修飾" target="付随する" sid="wiki00042897-00" id="4"/>
++ 6D <rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="修飾" target="付随する" sid="wiki00042897-00" id="4"/><体言>
 音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="ノ" target="音楽" sid="wiki00042897-00" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/>
++ -1D <rel type="ガ" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="ノ" target="音楽" sid="wiki00042897-00" id="5"/><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -30,26 +30,26 @@ EOS
 * 1P
 + 1D <rel type="=" target="ゲーム" sid="wiki00042897-00" id="0"/><体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/>
++ 4P <rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><体言>
 音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
 + 3D <体言>
 ビデオ びでお ビデオ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=" target="ゲーム" sid="wiki00042897-00" id="0"/><rel type="修飾" target="ビデオ" sid="wiki00042897-01-01" id="2"/>
++ 4D <rel type="=" target="ゲーム" sid="wiki00042897-00" id="0"/><rel type="修飾" target="ビデオ" sid="wiki00042897-01-01" id="2"/><体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <体言><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/>
++ 6P <rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><体言>
 ミュージック みゅーじっく ミュージック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <体言><rel type="=" target="ゲーム" sid="wiki00042897-01-01" id="0"/>
++ 6D <rel type="=" target="ゲーム" sid="wiki00042897-01-01" id="0"/><体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="ゲーム" sid="wiki00042897-01-01" id="5"/><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/>
++ 7D <rel type="修飾" target="ゲーム" sid="wiki00042897-01-01" id="5"/><rel type="=構" target="ミュージック" sid="wiki00042897-00" id="1"/><体言>
 BGM BGM BGM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="音楽" sid="wiki00042897-01-01" id="1"/><rel type="ト" mode="AND" target="ミュージック" sid="wiki00042897-01-01" id="4"/><rel type="ト" mode="AND" target="BGM" sid="wiki00042897-01-01" id="6"/>
++ -1D <rel type="ガ" target="ミュージック" sid="wiki00042897-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="音楽" sid="wiki00042897-01-01" id="1"/><rel type="ト" mode="AND" target="ミュージック" sid="wiki00042897-01-01" id="4"/><rel type="ト" mode="AND" target="BGM" sid="wiki00042897-01-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -57,6 +57,6 @@ BGM BGM BGM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00042897-01-02 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/07 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="ミュージック" sid="wiki00042897-01-01" id="4"/>
++ -1D <rel type="=" target="ミュージック" sid="wiki00042897-01-01" id="4"/><体言>
 VGM VGM VGM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

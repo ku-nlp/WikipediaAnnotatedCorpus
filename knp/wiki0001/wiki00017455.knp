@@ -2,50 +2,50 @@
 * 4D
 + 1D <体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
 和 わ 和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 5D <体言><rel type="ノ？" target="和" sid="wiki00017455-00-01" id="0"/>
++ 5D <rel type="ノ？" target="和" sid="wiki00017455-00-01" id="0"/><体言>
 楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <体言><NE:LOCATION:日本><rel type="=" target="和" sid="wiki00017455-00-01" id="0"/>
++ 4D <rel type="=" target="和" sid="wiki00017455-00-01" id="0"/><体言><NE:LOCATION:日本>
 日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <用言:形><時制:非過去><rel type="ガ" target="不特定:状況"/>
++ 4D <rel type="ガ" target="不特定:状況"/><用言:形><時制:非過去>
 伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 4D
-+ 5D <rel type="ガ" target="楽器" sid="wiki00017455-00-01" id="5"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><時制:非過去><rel type="デ" target="日本" sid="wiki00017455-00-01" id="2"/><rel type="修飾" target="伝統的に" sid="wiki00017455-00-01" id="3"/><rel type="修飾" mode="？" target="なし"/>
++ 5D <rel type="ガ" target="楽器" sid="wiki00017455-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="日本" sid="wiki00017455-00-01" id="2"/><rel type="修飾" target="伝統的に" sid="wiki00017455-00-01" id="3"/><rel type="修飾" mode="？" target="なし"/><用言:動><節-主辞><時制:非過去>
 使わ つかわ 使う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 きた きた くる 接尾辞 14 動詞性接尾辞 7 カ変動詞 14 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="楽器" sid="wiki00017455-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="楽器" sid="wiki00017455-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="使われてきた" sid="wiki00017455-00-01" id="4"/>
++ -1D <rel type="ガ" target="楽器" sid="wiki00017455-00-01" id="1"/><rel type="=構" target="楽器" sid="wiki00017455-00-01" id="1"/><rel type="修飾" target="使われてきた" sid="wiki00017455-00-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 楽器 がっき 楽器 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017455-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/25 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="和" sid="wiki00017455-00-01" id="0"/><NE:OPTIONAL:わ><NE-OPTIONAL:LOCATION,NONE:0>
++ 1D <rel type="=" target="和" sid="wiki00017455-00-01" id="0"/><体言><NE:OPTIONAL:わ><NE-OPTIONAL:LOCATION,NONE:0>
 わ わ わ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <体言><rel type="=" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ -1D <rel type="=" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 がっき がっき がっき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00017455-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:86.00000 MOD:2025/11/24 MEMO:
 * 8D
-+ 1D <体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0><rel type="=" target="和" sid="wiki00017455-00-01" id="0"/>
-和 わ 和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single><NE:OPTIONAL:single>
-+ 2P <体言><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 1D <rel type="=" target="和" sid="wiki00017455-00-01" id="0"/><体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
+和 わ 和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2P <rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 太鼓 だいこ 太鼓 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3P <体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 3P <rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言><NE:OPTIONAL:和><NE-OPTIONAL:LOCATION,NONE:0>
 和琴 わごん 和琴 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4P <体言><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 4P <rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 尺八 しゃくはち 尺八 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 14D <体言><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 14D <rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 三味線 しゃみせん 三味線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -60,20 +60,20 @@ EOS
 原形 げんけい 原形 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="原形" sid="wiki00017455-01" id="7"/><rel type="ニ" target="もの" sid="wiki00017455-01" id="9"/><用言:動><時制:非過去><節-主辞><rel type="時間" target="時代" sid="wiki00017455-01" id="6"/>
++ 9D <rel type="ガ" target="原形" sid="wiki00017455-01" id="7"/><rel type="ニ" target="もの" sid="wiki00017455-01" id="9"/><rel type="時間" target="時代" sid="wiki00017455-01" id="6"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6P
-+ 12P <体言><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 12P <rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
 + 11D <体言><NE:OPTIONAL:近世><NE-OPTIONAL:DATE,NONE:0>
 近世 きんせい 近世 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 12D <体言><rel type="ガ" target="もの" sid="wiki00017455-01" id="12"/><rel type="時間" target="近世" sid="wiki00017455-01" id="10"/>
++ 12D <rel type="ガ" target="もの" sid="wiki00017455-01" id="12"/><rel type="時間" target="近世" sid="wiki00017455-01" id="10"/><体言>
 生まれ うまれ 生まれ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 14D <体言><rel type="修飾" target="生まれ" sid="wiki00017455-01" id="11"/><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/>
++ 14D <rel type="修飾" target="生まれ" sid="wiki00017455-01" id="11"/><rel type="=≒" target="楽器" sid="wiki00017455-00-01" id="1"/><体言>
 もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -82,7 +82,7 @@ EOS
 種類 しゅるい 種類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="種類" sid="wiki00017455-01" id="13"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="ト" target="太鼓" sid="wiki00017455-01" id="1"/><rel type="ト" mode="AND" target="和琴" sid="wiki00017455-01" id="2"/><rel type="ト" mode="AND" target="尺八" sid="wiki00017455-01" id="3"/><rel type="ト" mode="AND" target="三味線など" sid="wiki00017455-01" id="4"/><memo text="間接ト格"/><rel type="カラ" target="もの" sid="wiki00017455-01" id="9"/><rel type="マデ" target="もの" sid="wiki00017455-01" id="12"/>
++ -1D <rel type="ガ" target="種類" sid="wiki00017455-01" id="13"/><rel type="ト" target="太鼓" sid="wiki00017455-01" id="1"/><rel type="ト" mode="AND" target="和琴" sid="wiki00017455-01" id="2"/><rel type="ト" mode="AND" target="尺八" sid="wiki00017455-01" id="3"/><rel type="ト" mode="AND" target="三味線など" sid="wiki00017455-01" id="4"/><rel type="カラ" target="もの" sid="wiki00017455-01" id="9"/><rel type="マデ" target="もの" sid="wiki00017455-01" id="12"/><memo text="間接ト格"/><用言:形><時制:非過去><節-主辞><節-区切>
 多種多様である たしゅたようである 多種多様だ 形容詞 3 * 0 ナ形容詞 21 デアル列基本形 17 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -10,7 +10,7 @@
 太古 たいこ 太古 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="時間" target="太古" sid="wiki00039142-00-01" id="1"/>
++ 5D <rel type="時間" target="太古" sid="wiki00039142-00-01" id="1"/><体言>
 植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -23,7 +23,7 @@
 分解 ぶんかい 分解 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 8D <体言><節-区切><rel type="ノ" target="分解する" sid="wiki00039142-00-01" id="5"/><rel type="ノ" mode="AND" target="腐敗" sid="wiki00039142-00-01" id="4"/>
++ 8D <rel type="ノ" target="分解する" sid="wiki00039142-00-01" id="5"/><rel type="ノ" mode="AND" target="腐敗" sid="wiki00039142-00-01" id="4"/><体言><節-区切>
 前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
@@ -31,7 +31,7 @@
 地中 ちちゅう 地中 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13P
-+ 15P <rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><rel type="ニ" target="地中" sid="wiki00039142-00-01" id="7"/><用言:動><節-主辞><節-区切><rel type="時間" target="前" sid="wiki00039142-00-01" id="6"/>
++ 15P <rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><rel type="ニ" target="地中" sid="wiki00039142-00-01" id="7"/><rel type="時間" target="前" sid="wiki00039142-00-01" id="6"/><用言:動><節-主辞><節-区切>
 埋もれ うもれ 埋もれる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
@@ -49,32 +49,32 @@
 * 12D
 + 13D <rel type="ガ" target="期間" sid="wiki00039142-00-01" id="13"/>
 長 ちょう 長 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="修飾" target="長" sid="wiki00039142-00-01" id="12"/>
++ 14D <rel type="修飾" target="長" sid="wiki00039142-00-01" id="12"/><体言>
 期間 きかん 期間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 * 13D
-+ 15D <rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="地熱" sid="wiki00039142-00-01" id="10"/><rel type="ヲ" mode="AND" target="地圧" sid="wiki00039142-00-01" id="11"/><rel type="時間" target="期間" sid="wiki00039142-00-01" id="13"/><rel type="デ" target="そこ" sid="wiki00039142-00-01" id="9"/>
++ 15D <rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><rel type="ヲ" target="地熱" sid="wiki00039142-00-01" id="10"/><rel type="ヲ" mode="AND" target="地圧" sid="wiki00039142-00-01" id="11"/><rel type="時間" target="期間" sid="wiki00039142-00-01" id="13"/><rel type="デ" target="そこ" sid="wiki00039142-00-01" id="9"/><用言:動><節-主辞><節-区切>
 受けて うけて 受ける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 14D
-+ 16D <用言:動><時制:過去><rel type="デ" target="そこ" sid="wiki00039142-00-01" id="9"/><rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><rel type="外の関係" target="こと" sid="wiki00039142-00-01" id="16"/>
++ 16D <rel type="デ" target="そこ" sid="wiki00039142-00-01" id="9"/><rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><rel type="外の関係" target="こと" sid="wiki00039142-00-01" id="16"/><用言:動><時制:過去>
 変質 へんしつ 変質 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 15D
-+ 17D <体言><rel type="トイウ" target="変質した" sid="wiki00039142-00-01" id="15"/><rel type="トイウ" mode="AND" target="埋もれ" sid="wiki00039142-00-01" id="8"/>
++ 17D <rel type="トイウ" target="変質した" sid="wiki00039142-00-01" id="15"/><rel type="トイウ" mode="AND" target="埋もれ" sid="wiki00039142-00-01" id="8"/><体言>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
 + 18D <用言:動>
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 17D
-+ 19D <rel type="ガ" target="物質" sid="wiki00039142-00-01" id="20"/><用言:動><時制:過去><rel type="ニヨッテ" target="こと" sid="wiki00039142-00-01" id="16"/>
++ 19D <rel type="ガ" target="物質" sid="wiki00039142-00-01" id="19"/><rel type="ニヨッテ" target="こと" sid="wiki00039142-00-01" id="16"/><用言:動><時制:過去>
 生成 せいせい 生成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 18D
-+ 20D <体言><rel type="=" target="石炭" sid="wiki00039142-00-01" id="0"/>
++ 20D <rel type="=" target="石炭" sid="wiki00039142-00-01" id="0"/><体言>
 物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="ノ" target="物質" sid="wiki00039142-00-01" id="20"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="石炭" sid="wiki00039142-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="ノ" target="物質" sid="wiki00039142-00-01" id="19"/><rel type="=構" target="石炭" sid="wiki00039142-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -92,12 +92,12 @@ EOS
 + 2D <体言>
 数億 すうおく 数億 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="ノ" target="数億年" sid="wiki00039142-00-03" id="1"/><rel type="ノ" mode="OR" target="数千万年" sid="wiki00039142-00-03" id="0"/><体言><NE:DATE:数千万年～数億年前><rel type="=" target="太古" sid="wiki00039142-00-01" id="1"/>
++ -1D <rel type="ノ" target="数億年" sid="wiki00039142-00-03" id="1"/><rel type="ノ" mode="OR" target="数千万年" sid="wiki00039142-00-03" id="0"/><rel type="=" target="太古" sid="wiki00039142-00-01" id="1"/><体言><NE:DATE:数千万年～数億年前>
 前 まえ 前 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 EOS
 # S-ID:wiki00039142-00-04 括弧始:（ 括弧終:） 括弧位置:63 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/16 MEMO:
 * -1D
-+ -1D <rel type="=" target="変質" sid="wiki00039142-00-01" id="15"/><体言><非用言格解析:動><rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/>
++ -1D <rel type="=" target="変質" sid="wiki00039142-00-01" id="15"/><rel type="ガ" target="植物" sid="wiki00039142-00-01" id="2"/><体言><非用言格解析:動>
 石炭 せきたん 石炭 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 EOS
@@ -112,7 +112,7 @@ EOS
 * -1D
 + 3D <rel type="=" target="植物" sid="wiki00039142-00-01" id="2"/><体言>
 植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="=構" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="修飾" target="植物" sid="wiki00039142-01" id="2"/>
++ -1D <rel type="ガ" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="=構" target="石炭" sid="wiki00039142-00-01" id="0"/><rel type="修飾" target="植物" sid="wiki00039142-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 化石 かせき 化石 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

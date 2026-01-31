@@ -11,11 +11,11 @@
 * 3D
 + 3D <rel type="ノ" target="天体" sid="wiki00023855-00" id="1"/><体言>
 極域 きょくいき 極域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ノ" target="極域" sid="wiki00023855-00" id="2"/><rel type="ノ" mode="AND" target="天体" sid="wiki00023855-00" id="1"/>
++ 4D <rel type="ノ" target="極域" sid="wiki00023855-00" id="2"/><rel type="ノ" mode="AND" target="天体" sid="wiki00023855-00" id="1"/><体言>
 近辺 きんぺん 近辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="現象" sid="wiki00023855-00" id="7"/><用言:動><時制:非過去><節-主辞><memo text="自発可能"/><rel type="ニ" target="近辺" sid="wiki00023855-00" id="3"/><rel type="ニ" mode="AND" target="不特定:人"/>
++ 7D <rel type="ガ" target="現象" sid="wiki00023855-00" id="7"/><rel type="ニ" target="近辺" sid="wiki00023855-00" id="3"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="自発可能"/><用言:動><時制:非過去><節-主辞>
 見 み 見る 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5D
@@ -23,27 +23,27 @@
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <体言><非用言格解析:動><rel type="ガ" target="大気" sid="wiki00023855-00" id="5"/><rel type="外の関係" target="現象" sid="wiki00023855-00" id="7"/>
++ 7D <rel type="ガ" target="大気" sid="wiki00023855-00" id="5"/><rel type="外の関係" target="現象" sid="wiki00023855-00" id="7"/><体言><非用言格解析:動>
 発光 はっこう 発光 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="オーロラ" sid="wiki00023855-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="トイウ" target="発光" sid="wiki00023855-00" id="6"/><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="ノ？" target="大気" sid="wiki00023855-00" id="5"/>
++ -1D <rel type="ガ" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="トイウ" target="発光" sid="wiki00023855-00" id="6"/><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="ノ？" target="大気" sid="wiki00023855-00" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 現象 げんしょう 現象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023855-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/08/26 MEMO:
 * 1D
-+ 1D <体言><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/>
++ 1D <rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><体言>
 極光 きょっこう 極光 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="オーロラ" sid="wiki00023855-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="極光" sid="wiki00023855-01-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="ト" target="極光" sid="wiki00023855-01-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023855-01-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/26 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="極光" sid="wiki00023855-01-01" id="0"/>
++ -1D <rel type="=" target="極光" sid="wiki00023855-01-01" id="0"/><体言>
 きょっこう きょっこう きょっこう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00023855-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/05/20 MEMO:
@@ -55,35 +55,35 @@ EOS
 + 6D <用言:動>
 より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * 3P
-+ 3D <体言><rel type="=≒" target="極域" sid="wiki00023855-00" id="2"/>
++ 3D <rel type="=≒" target="極域" sid="wiki00023855-00" id="2"/><体言>
 北極 ほっきょく 北極 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5P <rel type="ノ？" target="北極" sid="wiki00023855-02-01" id="2"/><体言><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="=≒" mode="AND" target="極光" sid="wiki00023855-01-01" id="0"/>
++ 5P <rel type="ノ？" target="北極" sid="wiki00023855-02-01" id="2"/><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="=≒" mode="AND" target="極光" sid="wiki00023855-01-01" id="0"/><体言>
 光 こう 光 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="=≒" target="極域" sid="wiki00023855-00" id="2"/><rel type="=≒" mode="AND" target="北極" sid="wiki00023855-02-01" id="2"/>
++ 5D <rel type="=≒" target="極域" sid="wiki00023855-00" id="2"/><rel type="=≒" mode="AND" target="北極" sid="wiki00023855-02-01" id="2"/><体言>
 南極 なんきょく 南極 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="ノ？" target="南極" sid="wiki00023855-02-01" id="4"/><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="=≒" mode="AND" target="光" sid="wiki00023855-02-01" id="3"/><rel type="=≒" mode="AND" target="極光" sid="wiki00023855-01-01" id="0"/>
++ 6D <rel type="ノ？" target="南極" sid="wiki00023855-02-01" id="4"/><rel type="=構" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="=≒" mode="AND" target="光" sid="wiki00023855-02-01" id="3"/><rel type="=≒" mode="AND" target="極光" sid="wiki00023855-01-01" id="0"/><体言>
 光 こう 光 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="オーロラ" sid="wiki00023855-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニヨッテ" target="極域" sid="wiki00023855-02-01" id="0"/><rel type="ト" target="光" sid="wiki00023855-02-01" id="3"/><rel type="ト" mode="AND" target="光" sid="wiki00023855-02-01" id="5"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="オーロラ" sid="wiki00023855-00" id="0"/><rel type="ニヨッテ" target="極域" sid="wiki00023855-02-01" id="0"/><rel type="ト" target="光" sid="wiki00023855-02-01" id="3"/><rel type="ト" mode="AND" target="光" sid="wiki00023855-02-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023855-02-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/20 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="北極" sid="wiki00023855-02-01" id="2"/>
++ 1D <rel type="=" target="北極" sid="wiki00023855-02-01" id="2"/><体言>
 ほっきょく ほっきょく ほっきょく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="光" sid="wiki00023855-02-01" id="3"/>
++ -1D <rel type="=" target="光" sid="wiki00023855-02-01" id="3"/><体言>
 こう こう こう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00023855-02-03 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/20 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="南極" sid="wiki00023855-02-01" id="4"/>
++ 1D <rel type="=" target="南極" sid="wiki00023855-02-01" id="4"/><体言>
 なんきょく なんきょく なんきょく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="光" sid="wiki00023855-02-01" id="5"/>
++ -1D <rel type="=" target="光" sid="wiki00023855-02-01" id="5"/><体言>
 こう こう こう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00023855-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000 MOD:2025/05/20 MEMO:
@@ -93,7 +93,7 @@ EOS
 * 8D
 + 2D
 本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="本" sid="wiki00023855-03" id="1"/>
++ 9D <rel type="修飾" target="本" sid="wiki00023855-03" id="1"/><体言>
 項 こう 項 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -101,7 +101,7 @@ EOS
 + 4D
 特に とくに 特に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ガ" target="著者"/><用言:動><時制:非過去><否定表現><節-主辞><rel type="ニ" target="不特定:人"/><rel type="ニツイテ" target="不特定:状況"/>
++ 5D <rel type="ガ" target="著者"/><rel type="ニ" target="不特定:人"/><rel type="ニツイテ" target="不特定:状況"/><用言:動><時制:非過去><否定表現><節-主辞>
 断ら ことわら 断る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 8D
@@ -109,18 +109,18 @@ EOS
 かぎり かぎり かぎり 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 7D <体言><rel type="=≒" target="天体" sid="wiki00023855-00" id="1"/>
++ 7D <rel type="=≒" target="天体" sid="wiki00023855-00" id="1"/><体言>
 地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="修飾" target="地球" sid="wiki00023855-03" id="6"/><rel type="=" target="オーロラ" sid="wiki00023855-00" id="0"/>
++ 8D <rel type="修飾" target="地球" sid="wiki00023855-03" id="6"/><rel type="=" target="オーロラ" sid="wiki00023855-00" id="0"/><体言>
 オーロラ おーろら オーロラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
 + 9D <用言:動>
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="著者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="項" sid="wiki00023855-03" id="2"/><rel type="ニツイテ" target="オーロラ" sid="wiki00023855-03" id="7"/>
++ -1D <rel type="ガ" target="著者"/><rel type="デ" target="項" sid="wiki00023855-03" id="2"/><rel type="ニツイテ" target="オーロラ" sid="wiki00023855-03" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 述べる のべる 述べる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,22 +1,22 @@
 # S-ID:wiki00017132-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2025/11/19 MEMO:
 * 9D
-+ 1D <体言><非用言格解析:動><rel type="ガ" target="国" sid="wiki00017132-00-01" id="1"/>
++ 1D <rel type="ガ" target="国" sid="wiki00017132-00-01" id="1"/><体言><非用言格解析:動>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 2D <体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5D <rel type="ノ" target="国" sid="wiki00017132-00-01" id="1"/><体言>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><非用言格解析:形><rel type="ガ" target="官" sid="wiki00017132-00-01" id="5"/>
++ 5D <rel type="ガ" target="官" sid="wiki00017132-00-01" id="5"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <rel type="ガ" target="官" sid="wiki00017132-00-01" id="5"/><体言><非用言格解析:動><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
++ 5D <rel type="ガ" target="官" sid="wiki00017132-00-01" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8D <体言><rel type="修飾" target="最高" sid="wiki00017132-00-01" id="3"/><rel type="ノ" target="軍" sid="wiki00017132-00-01" id="2"/>
++ 8D <rel type="修飾" target="最高" sid="wiki00017132-00-01" id="3"/><rel type="ノ" target="軍" sid="wiki00017132-00-01" id="2"/><体言>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 8D
 総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/>
++ 8D <rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 25D <体言><NE:ORGANIZATION:連合国軍最高司令官総司令部><rel type="ノ" target="官" sid="wiki00017132-00-01" id="5"/><rel type="ノ？" target="司令" sid="wiki00017132-00-01" id="7"/><rel type="修飾" target="総" sid="wiki00017132-00-01" id="6"/>
++ 25D <rel type="ノ" target="官" sid="wiki00017132-00-01" id="5"/><rel type="ノ？" target="司令" sid="wiki00017132-00-01" id="7"/><rel type="修飾" target="総" sid="wiki00017132-00-01" id="6"/><体言><NE:ORGANIZATION:連合国軍最高司令官総司令部>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -28,7 +28,7 @@
 次 じ 次 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 + 11D <体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="第二次" sid="wiki00017132-00-01" id="9"/>
++ 12D <rel type="修飾" target="第二次" sid="wiki00017132-00-01" id="9"/><体言>
 大戦 たいせん 大戦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 13D <rel type="ガ" target="大戦" sid="wiki00017132-00-01" id="11"/><体言><非用言格解析:動>
 終結 しゅうけつ 終結 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
@@ -39,11 +39,11 @@
 * 4D
 + 15D <体言>
 ポツダム ぽつだむ ポツダム 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 16D <体言><非用言格解析:動><NE:ARTIFACT:ポツダム宣言><rel type="ニトモナッテ" target="終結" sid="wiki00017132-00-01" id="12"/><rel type="ガ≒" target="国" sid="wiki00017132-00-01" id="1"/><rel type="デ" target="ポツダム" sid="wiki00017132-00-01" id="14"/>
++ 16D <rel type="ニトモナッテ" target="終結" sid="wiki00017132-00-01" id="12"/><rel type="ガ≒" target="国" sid="wiki00017132-00-01" id="1"/><rel type="デ" target="ポツダム" sid="wiki00017132-00-01" id="14"/><体言><非用言格解析:動><NE:ARTIFACT:ポツダム宣言>
 宣言 せんげん 宣言 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 17D <rel type="ヲ" target="宣言" sid="wiki00017132-00-01" id="15"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="ため" sid="wiki00017132-00-01" id="17"/><rel type="ガ" target="機関" sid="wiki00017132-00-01" id="25"/>
++ 17D <rel type="ヲ" target="宣言" sid="wiki00017132-00-01" id="15"/><rel type="外の関係" target="ため" sid="wiki00017132-00-01" id="17"/><rel type="ガ" target="機関" sid="wiki00017132-00-01" id="25"/><用言:動><時制:非過去><節-主辞>
 執行 しっこう 執行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 8D
@@ -55,81 +55,81 @@
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 20D <rel type="ガ" target="機関" sid="wiki00017132-00-01" id="24"/><rel type="ヲ" target="日本" sid="wiki00017132-00-01" id="18"/><体言><非用言格解析:動><rel type="外の関係" target="政策" sid="wiki00017132-00-01" id="20"/>
++ 20D <rel type="ガ" target="機関" sid="wiki00017132-00-01" id="25"/><rel type="ヲ" target="日本" sid="wiki00017132-00-01" id="18"/><rel type="外の関係" target="政策" sid="wiki00017132-00-01" id="20"/><体言><非用言格解析:動>
 占領 せんりょう 占領 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 21D <体言><rel type="ノ？" target="占領" sid="wiki00017132-00-01" id="19"/>
++ 21D <rel type="ノ？" target="占領" sid="wiki00017132-00-01" id="19"/><体言>
 政策 せいさく 政策 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 25D <rel type="ヲ" target="政策" sid="wiki00017132-00-01" id="20"/><用言:動><時制:過去><節-主辞><rel type="デ" target="日本" sid="wiki00017132-00-01" id="18"/><rel type="修飾" target="ため" sid="wiki00017132-00-01" id="17"/><rel type="ガ" target="機関" sid="wiki00017132-00-01" id="25"/>
++ 25D <rel type="ヲ" target="政策" sid="wiki00017132-00-01" id="20"/><rel type="デ" target="日本" sid="wiki00017132-00-01" id="18"/><rel type="修飾" target="ため" sid="wiki00017132-00-01" id="17"/><rel type="ガ" target="機関" sid="wiki00017132-00-01" id="25"/><用言:動><時制:過去><節-主辞>
 実施 じっし 実施 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 23D <体言><非用言格解析:動><rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/>
++ 23D <rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/><体言><非用言格解析:動>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 24D <体言><rel type="=" target="国" sid="wiki00017132-00-01" id="1"/>
++ 24D <rel type="=" target="国" sid="wiki00017132-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 25D <体言><rel type="=" target="軍" sid="wiki00017132-00-01" id="2"/><NE:ORGANIZATION:連合国軍>
++ 25D <rel type="=" target="軍" sid="wiki00017132-00-01" id="2"/><体言><NE:ORGANIZATION:連合国軍>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ -1D <rel type="ガ" target="部" sid="wiki00017132-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="軍" sid="wiki00017132-00-01" id="24"/><rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="修飾" target="実施した" sid="wiki00017132-00-01" id="21"/>
++ -1D <rel type="ガ" target="部" sid="wiki00017132-00-01" id="8"/><rel type="ノ？" target="軍" sid="wiki00017132-00-01" id="24"/><rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="修飾" target="実施した" sid="wiki00017132-00-01" id="21"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017132-00-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
 * -1D
-+ 1D <体言><非用言格解析:動><rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/>
++ 1D <rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/><体言><非用言格解析:動>
 れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="国" sid="wiki00017132-00-01" id="1"/>
++ 2D <rel type="=" target="国" sid="wiki00017132-00-01" id="1"/><体言>
 こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=" target="軍" sid="wiki00017132-00-01" id="2"/>
++ 5D <rel type="=" target="軍" sid="wiki00017132-00-01" id="2"/><体言>
 ぐん ぐん ぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D <体言><非用言格解析:形><rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/>
++ 5D <rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/><体言><非用言格解析:形>
 さいこう さいこう さいこうだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 5D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/>
++ 5D <rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/><体言><非用言格解析:動>
 しれい しれい しれい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=" target="官" sid="wiki00017132-00-01" id="5"/>
++ 8D <rel type="=" target="官" sid="wiki00017132-00-01" id="5"/><体言>
 かん かん かん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 + 8D <rel type="=" target="総" sid="wiki00017132-00-01" id="6"/>
 そう そう そう 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/>
++ 8D <rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/><体言><非用言格解析:動>
 しれい しれい しれい 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="部" sid="wiki00017132-00-01" id="8"/>
++ -1D <rel type="=" target="部" sid="wiki00017132-00-01" id="8"/><体言>
 ぶ ぶ ぶ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00017132-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
 * 1P
-+ 1D <体言><非用言格解析:動><rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/>
++ 1D <rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/><体言><非用言格解析:動>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="=" target="国" sid="wiki00017132-00-01" id="1"/>
++ 2D <rel type="=" target="国" sid="wiki00017132-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 5D <rel type="=" target="軍" sid="wiki00017132-00-01" id="2"/><体言>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><非用言格解析:形><rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/>
++ 5D <rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/>
++ 5D <rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 13P <体言><NE:ORGANIZATION:連合国軍最高司令部><rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="修飾" target="最高" sid="wiki00017132-01" id="3"/><rel type="ノ" target="軍" sid="wiki00017132-01" id="2"/><rel type="ノ？" target="司令" sid="wiki00017132-01" id="4"/>
++ 13P <rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="修飾" target="最高" sid="wiki00017132-01" id="3"/><rel type="ノ" target="軍" sid="wiki00017132-01" id="2"/><rel type="ノ？" target="司令" sid="wiki00017132-01" id="4"/><体言><NE:ORGANIZATION:連合国軍最高司令部>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 7D <体言><非用言格解析:動><rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/>
++ 7D <rel type="=" target="連合" sid="wiki00017132-00-01" id="0"/><体言><非用言格解析:動>
 連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 10D <体言><rel type="=" target="国" sid="wiki00017132-00-01" id="1"/>
++ 10D <rel type="=" target="国" sid="wiki00017132-00-01" id="1"/><体言>
 国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 10D <体言><非用言格解析:形><rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/>
++ 10D <rel type="=" target="最高" sid="wiki00017132-00-01" id="3"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 10D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/>
++ 10D <rel type="=" target="司令" sid="wiki00017132-00-01" id="4"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 13D <体言><rel type="=" target="官" sid="wiki00017132-00-01" id="5"/><rel type="ノ" target="国" sid="wiki00017132-01" id="7"/><rel type="修飾" target="最高" sid="wiki00017132-01" id="8"/><rel type="ノ？" target="司令" sid="wiki00017132-01" id="9"/>
++ 13D <rel type="=" target="官" sid="wiki00017132-00-01" id="5"/><rel type="ノ" target="国" sid="wiki00017132-01" id="7"/><rel type="修飾" target="最高" sid="wiki00017132-01" id="8"/><rel type="ノ？" target="司令" sid="wiki00017132-01" id="9"/><体言>
 官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 13D <rel type="=" target="総" sid="wiki00017132-00-01" id="6"/>
 総 そう 総 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 13D <体言><非用言格解析:動><rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/>
++ 13D <rel type="=" target="司令" sid="wiki00017132-00-01" id="7"/><体言><非用言格解析:動>
 司令 しれい 司令 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <NE:ORGANIZATION:連合国最高司令官総司令部><体言><時制:非過去><節-主辞><節-区切><用言:動><rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="ノ" target="官" sid="wiki00017132-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="部" sid="wiki00017132-00-01" id="8"/><rel type="ト" target="部" sid="wiki00017132-01" id="5"/><rel type="ト" mode="AND" target="部" sid="wiki00017132-01" id="13"/><memo text="PO:いう、呼ぶ等"/><rel type="修飾" target="総" sid="wiki00017132-01" id="11"/>
++ -1D <rel type="=構" target="部" sid="wiki00017132-00-01" id="8"/><rel type="ノ" target="官" sid="wiki00017132-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="部" sid="wiki00017132-00-01" id="8"/><rel type="ト" target="部" sid="wiki00017132-01" id="5"/><rel type="ト" mode="AND" target="部" sid="wiki00017132-01" id="13"/><rel type="修飾" target="総" sid="wiki00017132-01" id="11"/><memo text="PO:いう、呼ぶ等"/><NE:ORGANIZATION:連合国最高司令官総司令部><体言><時制:非過去><節-主辞><節-区切><用言:動>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

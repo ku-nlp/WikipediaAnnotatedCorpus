@@ -15,7 +15,7 @@
 中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 6D <体言>
 委員 いいん 委員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 7D <rel type="ノ" target="共産党" sid="wiki00048152-00-01" id="3"/><体言><NE:ORGANIZATION:日本共産党中央委員会><rel type="ノ？" target="委員" sid="wiki00048152-00-01" id="5"/>
++ 7D <rel type="ノ" target="共産党" sid="wiki00048152-00-01" id="3"/><rel type="ノ？" target="委員" sid="wiki00048152-00-01" id="5"/><体言><NE:ORGANIZATION:日本共産党中央委員会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
@@ -25,7 +25,7 @@
 * 4D
 + 9D <rel type="=" target="日本" sid="wiki00048152-00-01" id="2"/><体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:0>
 日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 12D <体言><rel type="ノ？" target="日本" sid="wiki00048152-00-01" id="8"/>
++ 12D <rel type="ノ？" target="日本" sid="wiki00048152-00-01" id="8"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
@@ -33,7 +33,7 @@
 日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="赤旗" sid="wiki00048152-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="語" sid="wiki00048152-00-01" id="9"/><rel type="修飾" mode="AND" target="日刊" sid="wiki00048152-00-01" id="10"/><rel type="ノ？" target="機関" sid="wiki00048152-00-01" id="11"/><rel type="=構" target="赤旗" sid="wiki00048152-00-01" id="1"/>
++ -1D <rel type="ガ" target="赤旗" sid="wiki00048152-00-01" id="1"/><rel type="修飾" target="語" sid="wiki00048152-00-01" id="9"/><rel type="修飾" mode="AND" target="日刊" sid="wiki00048152-00-01" id="10"/><rel type="ノ？" target="機関" sid="wiki00048152-00-01" id="11"/><rel type="=構" target="赤旗" sid="wiki00048152-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -53,12 +53,12 @@ EOS
 + 3D <rel type="ノ" target="赤旗" sid="wiki00048152-00-01" id="1"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 2P
-+ 3P <体言><NE:ARTIFACT:赤旗><rel type="=構" target="通称" sid="wiki00048152-01" id="1"/><rel type="=構" mode="AND" target="旧称" sid="wiki00048152-01" id="0"/><rel type="=" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/>
++ 3P <rel type="=構" target="通称" sid="wiki00048152-01" id="1"/><rel type="=構" mode="AND" target="旧称" sid="wiki00048152-01" id="0"/><rel type="=" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/><体言><NE:ARTIFACT:赤旗>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 赤旗 あかはた 赤旗 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <NE:ARTIFACT:アカハタ><rel type="ガ" target="旧称" sid="wiki00048152-01" id="0"/><rel type="ガ" mode="AND" target="通称" sid="wiki00048152-01" id="1"/><体言><用言:判><節-主辞><節-区切><時制:非過去><rel type="=構" target="通称" sid="wiki00048152-01" id="1"/><rel type="=構" mode="AND" target="旧称" sid="wiki00048152-01" id="0"/><rel type="=" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="旧称" sid="wiki00048152-01" id="0"/><rel type="ガ" mode="AND" target="通称" sid="wiki00048152-01" id="1"/><rel type="=構" target="通称" sid="wiki00048152-01" id="1"/><rel type="=構" mode="AND" target="旧称" sid="wiki00048152-01" id="0"/><rel type="=" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/><memo text="CO"/><NE:ARTIFACT:アカハタ><体言><用言:判><節-主辞><節-区切><時制:非過去>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 アカハタ あかはた アカハタ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -70,13 +70,13 @@ EOS
 初代 しょだい 初代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="赤旗" sid="wiki00048152-00-01" id="1"/><体言><非用言格解析:動>
 編集 へんしゅう 編集 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="初代" sid="wiki00048152-02" id="0"/><rel type="ノ" target="編集" sid="wiki00048152-02" id="1"/><rel type="ノ" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/>
++ 4D <rel type="修飾" target="初代" sid="wiki00048152-02" id="0"/><rel type="ノ" target="編集" sid="wiki00048152-02" id="1"/><rel type="ノ" mode="AND" target="赤旗" sid="wiki00048152-00-01" id="1"/><体言>
 長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
 + 4D <体言>
 水野 みずの 水野 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
-+ -1D <rel type="ガ" target="長" sid="wiki00048152-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:水野成夫><memo text="CO"/><rel type="=構" target="長" sid="wiki00048152-02" id="2"/>
++ -1D <rel type="ガ" target="長" sid="wiki00048152-02" id="2"/><rel type="=構" target="長" sid="wiki00048152-02" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:水野成夫>
 成夫 しげお 成夫 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

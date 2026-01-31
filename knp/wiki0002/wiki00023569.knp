@@ -1,6 +1,6 @@
 # S-ID:wiki00023569-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:127.00000 MOD:2025/05/19 MEMO:
 * 17D
-+ 19D <体言><非用言格解析:動><rel type="ガ" target="人" sid="wiki00023569-00-01" id="6"/>
++ 19D <rel type="ガ" target="人" sid="wiki00023569-00-01" id="6"/><体言><非用言格解析:動>
 帰化 きか 帰化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -22,7 +22,7 @@
 * 8D
 + 6D <体言>
 外国 がいこく 外国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="外国" sid="wiki00023569-00-01" id="5"/>
++ 9D <rel type="ノ？" target="外国" sid="wiki00023569-00-01" id="5"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -66,15 +66,15 @@
 国籍 こくせき 国籍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17D
-+ 19D <rel type="ガ" target="国家" sid="wiki00023569-00-01" id="11"/><rel type="ヲ" target="国籍" sid="wiki00023569-00-01" id="17"/><用言:動><時制:非過去><節-主辞><rel type="ニタイシテ" target="人" sid="wiki00023569-00-01" id="14"/><rel type="外の関係" target="こと" sid="wiki00023569-00-01" id="19"/>
++ 19D <rel type="ガ" target="国家" sid="wiki00023569-00-01" id="11"/><rel type="ヲ" target="国籍" sid="wiki00023569-00-01" id="17"/><rel type="ニタイシテ" target="人" sid="wiki00023569-00-01" id="14"/><rel type="外の関係" target="こと" sid="wiki00023569-00-01" id="19"/><用言:動><時制:非過去><節-主辞>
 認める みとめる 認める 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="帰化" sid="wiki00023569-00-01" id="0"/><用言:判><体言><時制:非過去><節-区切><rel type="トイウ" target="申請して" sid="wiki00023569-00-01" id="9"/><rel type="トイウ" mode="AND" target="認める" sid="wiki00023569-00-01" id="18"/><rel type="=構" target="帰化" sid="wiki00023569-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="帰化" sid="wiki00023569-00-01" id="0"/><rel type="トイウ" target="申請して" sid="wiki00023569-00-01" id="9"/><rel type="トイウ" mode="AND" target="認める" sid="wiki00023569-00-01" id="18"/><rel type="=構" target="帰化" sid="wiki00023569-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023569-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/19 MEMO:
 * -1D
-+ -1D <rel type="=" target="帰化" sid="wiki00023569-00-01" id="0"/><体言><非用言格解析:動><rel type="ガ" target="人" sid="wiki00023569-00-01" id="6"/>
++ -1D <rel type="=" target="帰化" sid="wiki00023569-00-01" id="0"/><rel type="ガ" target="人" sid="wiki00023569-00-01" id="6"/><体言><非用言格解析:動>
 きか きか きか 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

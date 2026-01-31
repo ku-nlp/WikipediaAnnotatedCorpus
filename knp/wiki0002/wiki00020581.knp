@@ -1,6 +1,6 @@
 # S-ID:wiki00020581-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/04/22 MEMO:
 * 5D
-+ 1D <体言><memo text="「王の」の意"/>
++ 1D <memo text="「王の」の意"/><体言>
 レアル れある レアル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 + 9D <体言><NE:ORGANIZATION:レアル・マドリード>
@@ -8,20 +8,20 @@
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="ノ？" target="スペイン" sid="wiki00020581-00" id="7"/>
++ 3D <rel type="ノ？" target="スペイン" sid="wiki00020581-00" id="7"/><体言>
 マドリード まどりーど マドリード 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <体言><NE:LOCATION:マドリード州マドリード><rel type="ノ？" target="マドリード州" sid="wiki00020581-00" id="2"/>
++ 6D <rel type="ノ？" target="マドリード州" sid="wiki00020581-00" id="2"/><体言><NE:LOCATION:マドリード州マドリード>
 マドリード まどりーど マドリード 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <体言><rel type="ノ" target="クラブ" sid="wiki00020581-00" id="9"/>
++ 5D <rel type="ノ" target="クラブ" sid="wiki00020581-00" id="9"/><体言>
 ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="=構" target="マドリード" sid="wiki00020581-00" id="3"/><rel type="ノ？" target="クラブ" sid="wiki00020581-00" id="9"/>
++ 6D <rel type="=構" target="マドリード" sid="wiki00020581-00" id="3"/><rel type="ノ？" target="クラブ" sid="wiki00020581-00" id="9"/><体言>
 タウン たうん タウン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="クラブ" sid="wiki00020581-00" id="9"/><rel type="ヲ" target="マドリード" sid="wiki00020581-00" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="タウン" sid="wiki00020581-00" id="5"/>
++ 9D <rel type="ガ" target="クラブ" sid="wiki00020581-00" id="9"/><rel type="ヲ" target="マドリード" sid="wiki00020581-00" id="3"/><rel type="ト" target="タウン" sid="wiki00020581-00" id="5"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
 + 9D <体言><NE:LOCATION:スペイン>
@@ -30,7 +30,7 @@
 * -1D
 + 9D <体言>
 サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="スペイン" sid="wiki00020581-00" id="7"/><rel type="ノ？" mode="AND" target="サッカー" sid="wiki00020581-00" id="8"/><rel type="=構" target="マドリード" sid="wiki00020581-00" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="ノ？" target="スペイン" sid="wiki00020581-00" id="7"/><rel type="ノ？" mode="AND" target="サッカー" sid="wiki00020581-00" id="8"/><rel type="=構" target="マドリード" sid="wiki00020581-00" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -40,9 +40,9 @@ EOS
 スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 2D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><rel type="修飾" target="プロ" sid="wiki00020581-01-01" id="1"/><rel type="ノ？" target="サッカー" sid="wiki00020581-00" id="8"/>
++ 3D <rel type="修飾" target="プロ" sid="wiki00020581-01-01" id="1"/><rel type="ノ？" target="サッカー" sid="wiki00020581-00" id="8"/><体言>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4D <体言><NE:ORGANIZATION:スペインプロリーグ機構><rel type="ノ？" target="スペイン" sid="wiki00020581-01-01" id="0"/>
++ 4D <rel type="ノ？" target="スペイン" sid="wiki00020581-01-01" id="0"/><体言><NE:ORGANIZATION:スペインプロリーグ機構>
 機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -56,7 +56,7 @@ EOS
 + 1D <体言>
 ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <体言><NE:OPTIONAL:ラ・リーガ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0><rel type="=" target="リーグ" sid="wiki00020581-01-01" id="2"/><memo text="プロリーグ機構が運営するリーグ名なので、2文目のリーグと＝、NE:OPTIONALにした"/>
++ -1D <rel type="=" target="リーグ" sid="wiki00020581-01-01" id="2"/><memo text="プロリーグ機構が運営するリーグ名なので、2文目のリーグと＝、NE:OPTIONALにした"/><体言><NE:OPTIONAL:ラ・リーガ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00020581-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:66.00000 MOD:2025/04/22 MEMO:
@@ -66,37 +66,37 @@ EOS
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言><NE:ORGANIZATION:レアル><rel type="=" target="マドリード" sid="wiki00020581-00" id="1"/>
++ 2D <rel type="=" target="マドリード" sid="wiki00020581-00" id="1"/><体言><NE:ORGANIZATION:レアル>
 レアル れある レアル 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <体言><rel type="=構" target="レアル" sid="wiki00020581-02-01" id="1"/><rel type="ノ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="トイウ" target="レアル" sid="wiki00020581-02-01" id="1"/>
++ 3D <rel type="=構" target="レアル" sid="wiki00020581-02-01" id="1"/><rel type="ノ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="トイウ" target="レアル" sid="wiki00020581-02-01" id="1"/><体言>
 愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="日本" sid="wiki00020581-02-01" id="0"/><rel type="デ" mode="AND" target="愛称" sid="wiki00020581-02-01" id="2"/>
++ 8D <rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="日本" sid="wiki00020581-02-01" id="0"/><rel type="デ" mode="AND" target="愛称" sid="wiki00020581-02-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D <体言><rel type="=" target="スペイン" sid="wiki00020581-00" id="7"/>
++ 5D <rel type="=" target="スペイン" sid="wiki00020581-00" id="7"/><体言>
 現地 げんち 現地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ノ" target="マドリード" sid="wiki00020581-00" id="1"/><体言><rel type="=≒" target="愛称" sid="wiki00020581-02-01" id="2"/><rel type="デ" target="現地" sid="wiki00020581-02-01" id="4"/>
++ 8D <rel type="ノ" target="マドリード" sid="wiki00020581-00" id="1"/><rel type="=≒" target="愛称" sid="wiki00020581-02-01" id="2"/><rel type="デ" target="現地" sid="wiki00020581-02-01" id="4"/><体言>
 愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7D
 + 7D <体言>
 エル える エル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <体言><NE:ORGANIZATION:エル・マドリー><rel type="=構" target="愛称" sid="wiki00020581-02-01" id="5"/><rel type="=" mode="AND" target="マドリード" sid="wiki00020581-00" id="1"/>
++ 8D <rel type="=構" target="愛称" sid="wiki00020581-02-01" id="5"/><rel type="=" mode="AND" target="マドリード" sid="wiki00020581-00" id="1"/><体言><NE:ORGANIZATION:エル・マドリー>
 マドリー まどりー マドリー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="マドリー" sid="wiki00020581-02-01" id="7"/><rel type="トシテ" target="愛称" sid="wiki00020581-02-01" id="5"/><rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ト" target="マドリー" sid="wiki00020581-02-01" id="7"/><rel type="トシテ" target="愛称" sid="wiki00020581-02-01" id="5"/><rel type="ガ" target="マドリード" sid="wiki00020581-00" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -104,9 +104,9 @@ EOS
 EOS
 # S-ID:wiki00020581-02-02 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="エル" sid="wiki00020581-02-01" id="6"/>
++ 1D <rel type="=" target="エル" sid="wiki00020581-02-01" id="6"/><体言>
 El El El 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <体言><NE:ORGANIZATION:El　Madrid><rel type="=" target="マドリー" sid="wiki00020581-02-01" id="7"/>
++ -1D <rel type="=" target="マドリー" sid="wiki00020581-02-01" id="7"/><体言><NE:ORGANIZATION:El　Madrid>
 Madrid Madrid Madrid 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS

@@ -7,11 +7,11 @@
 * 2D
 + 2D <体言>
 文芸 ぶんげい 文芸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="修飾" target="文芸" sid="wiki00059874-00" id="1"/>
++ 3D <rel type="修飾" target="文芸" sid="wiki00059874-00" id="1"/><体言>
 作品 さくひん 作品 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="作品" sid="wiki00059874-00" id="2"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="際" sid="wiki00059874-00" id="4"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="作品" sid="wiki00059874-00" id="2"/><rel type="外の関係" target="際" sid="wiki00059874-00" id="4"/><用言:動><時制:非過去><節-主辞>
 発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
@@ -19,7 +19,7 @@
 際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ガ" target="名" sid="wiki00059874-00" id="7"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="時間" target="際" sid="wiki00059874-00" id="4"/>
++ 7D <rel type="ガ" target="名" sid="wiki00059874-00" id="7"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="際" sid="wiki00059874-00" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -30,22 +30,22 @@
 以外 いがい 以外 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 8D <体言><rel type="修飾" target="本名以外" sid="wiki00059874-00" id="6"/><rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/>
++ 8D <rel type="修飾" target="本名以外" sid="wiki00059874-00" id="6"/><rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/><体言>
 名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペンネーム" sid="wiki00059874-00" id="0"/><rel type="ノ" target="名" sid="wiki00059874-00" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ペンネーム" sid="wiki00059874-00" id="0"/><rel type="ノ" target="名" sid="wiki00059874-00" id="7"/><rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059874-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/02/07 MEMO:
 * 1D
-+ 1D <体言><rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/>
++ 1D <rel type="=構" target="ペンネーム" sid="wiki00059874-00" id="0"/><体言>
 筆名 ひつめい 筆名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ペンネーム" sid="wiki00059874-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="筆名" sid="wiki00059874-01-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ペンネーム" sid="wiki00059874-00" id="0"/><rel type="ト" target="筆名" sid="wiki00059874-01-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -65,7 +65,7 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 3P <体言><rel type="=≒" target="小説" sid="wiki00059874-02" id="0"/><rel type="=≒" mode="AND" target="批評" sid="wiki00059874-02" id="1"/>
++ 3P <rel type="=≒" target="小説" sid="wiki00059874-02" id="0"/><rel type="=≒" mode="AND" target="批評" sid="wiki00059874-02" id="1"/><体言>
 文章 ぶんしょう 文章 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
@@ -74,14 +74,14 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <体言><rel type="ノ" target="文章" sid="wiki00059874-02" id="2"/><rel type="ノ" mode="AND" target="漫画など" sid="wiki00059874-02" id="3"/>
++ 5D <rel type="ノ" target="文章" sid="wiki00059874-02" id="2"/><rel type="ノ" mode="AND" target="漫画など" sid="wiki00059874-02" id="3"/><体言>
 作者 さくしゃ 作者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="作者" sid="wiki00059874-02" id="4"/><rel type="ヲ" target="ペンネーム" sid="wiki00059874-00" id="0"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="場合" sid="wiki00059874-02" id="6"/>
++ 6D <rel type="ガ" target="作者" sid="wiki00059874-02" id="4"/><rel type="ヲ" target="ペンネーム" sid="wiki00059874-00" id="0"/><rel type="外の関係" target="場合" sid="wiki00059874-02" id="6"/><用言:動><時制:非過去><節-主辞>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 7D
-+ 7D <体言><rel type="ノ" target="用いる" sid="wiki00059874-02" id="5"/>
++ 7D <rel type="ノ" target="用いる" sid="wiki00059874-02" id="5"/><体言>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
@@ -95,7 +95,7 @@ EOS
 * 10P
 + 10D <体言>
 実用 じつよう 実用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 11P <体言><rel type="ノ？" target="実用" sid="wiki00059874-02" id="9"/>
++ 11P <rel type="ノ？" target="実用" sid="wiki00059874-02" id="9"/><体言>
 書 しょ 書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
@@ -104,7 +104,7 @@ EOS
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペンネーム" sid="wiki00059874-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="書" sid="wiki00059874-02" id="10"/><rel type="デ" mode="AND" target="論文など" sid="wiki00059874-02" id="11"/>
++ -1D <rel type="ガ" target="ペンネーム" sid="wiki00059874-00" id="0"/><rel type="デ" target="書" sid="wiki00059874-02" id="10"/><rel type="デ" mode="AND" target="論文など" sid="wiki00059874-02" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
 見 み 見る 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

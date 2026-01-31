@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言>
 弾道 だんどう 弾道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="弾道" sid="wiki00020711-00-01" id="0"/>
++ 10D <rel type="修飾" target="弾道" sid="wiki00020711-00-01" id="0"/><体言>
 ミサイル みさいる ミサイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -29,38 +29,38 @@
 * 7D
 + 9D <体言>
 対地 たいち 対地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=構" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="修飾" target="対地" sid="wiki00020711-00-01" id="8"/><rel type="修飾" mode="AND" target="飛ぶ" sid="wiki00020711-00-01" id="7"/>
++ 10D <rel type="=構" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="修飾" target="対地" sid="wiki00020711-00-01" id="8"/><rel type="修飾" mode="AND" target="飛ぶ" sid="wiki00020711-00-01" id="7"/><体言>
 ミサイル みさいる ミサイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="ノ" target="ミサイル" sid="wiki00020711-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ミサイル" sid="wiki00020711-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="ノ" target="ミサイル" sid="wiki00020711-00-01" id="9"/><rel type="=構" target="ミサイル" sid="wiki00020711-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020711-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/28 MEMO:
 * -1D
-+ 1D <体言><rel type="=" target="弾道" sid="wiki00020711-00-01" id="0"/>
++ 1D <rel type="=" target="弾道" sid="wiki00020711-00-01" id="0"/><体言>
 だんどう だんどう だんどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <体言><rel type="=" target="ミサイル" sid="wiki00020711-00-01" id="1"/>
++ -1D <rel type="=" target="ミサイル" sid="wiki00020711-00-01" id="1"/><体言>
 ミサイル みさいる ミサイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00020711-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/22 MEMO:
 * 1D
 + 1D <rel type="=" target="弾道" sid="wiki00020711-00-01" id="0"/><体言>
 弾道 だんどう 弾道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=構" target="ミサイル" sid="wiki00020711-00-02" id="1"/><rel type="ノ？" target="弾道" sid="wiki00020711-01" id="0"/>
++ 2D <rel type="=構" target="ミサイル" sid="wiki00020711-00-02" id="1"/><rel type="ノ？" target="弾道" sid="wiki00020711-01" id="0"/><体言>
 弾 だん 弾 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="弾" sid="wiki00020711-01" id="1"/>
++ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="弾" sid="wiki00020711-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00020711-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:118.00000 MOD:2025/04/22 MEMO:
 * 14D
-+ 1D <体言><rel type="=" target="弾道" sid="wiki00020711-00-01" id="0"/>
++ 1D <rel type="=" target="弾道" sid="wiki00020711-00-01" id="0"/><体言>
 弾道 だんどう 弾道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 16D <rel type="=" target="ミサイル" sid="wiki00020711-00-01" id="1"/><体言>
 ミサイル みさいる ミサイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -69,16 +69,16 @@ EOS
 + 3D <用言:形><時制:非過去>
 最初の さいしょの 最初だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 3D
-+ 4D <体言><rel type="修飾" target="最初の" sid="wiki00020711-02" id="2"/>
++ 4D <rel type="修飾" target="最初の" sid="wiki00020711-02" id="2"/><体言>
 数 すう 数 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 分 ふん 分 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><rel type="ノ" target="数分" sid="wiki00020711-02" id="3"/>
++ 5D <rel type="ノ" target="数分" sid="wiki00020711-02" id="3"/><体言>
 間 あいだ 間 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 16P <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><用言:動><節-主辞><節-区切><rel type="時間" target="間" sid="wiki00020711-02" id="4"/>
++ 16P <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><rel type="時間" target="間" sid="wiki00020711-02" id="4"/><用言:動><節-主辞><節-区切>
 加速 かそく 加速 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -97,31 +97,31 @@ EOS
 + 11D
 いわゆる いわゆる いわゆる 連体詞 11 * 0 * 0 * 0 NIL <基本句-主辞>
 * 10D
-+ 11D <体言><rel type="=" target="弾道" sid="wiki00020711-02" id="0"/>
++ 11D <rel type="=" target="弾道" sid="wiki00020711-02" id="0"/><体言>
 弾道 だんどう 弾道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><非用言格解析:動><rel type="修飾" target="弾道" sid="wiki00020711-02" id="10"/><rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/>
++ 12D <rel type="修飾" target="弾道" sid="wiki00020711-02" id="10"/><rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><体言><非用言格解析:動>
 飛行 ひこう 飛行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 13D <rel type="ガ" target="軌道" sid="wiki00020711-02" id="13"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="飛行" sid="wiki00020711-02" id="11"/>
++ 13D <rel type="ガ" target="軌道" sid="wiki00020711-02" id="13"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="飛行" sid="wiki00020711-02" id="11"/><用言:動><時制:非過去><節-主辞>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 12D
-+ 14D <体言><rel type="=構" target="飛行" sid="wiki00020711-02" id="11"/>
++ 14D <rel type="=構" target="飛行" sid="wiki00020711-02" id="11"/><体言>
 軌道 きどう 軌道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 16P <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><rel type="ヲ" target="軌道" sid="wiki00020711-02" id="13"/><用言:動><節-主辞><節-区切><rel type="ニヨッテ" target="慣性" sid="wiki00020711-02" id="7"/><rel type="=≒" target="飛ぶ" sid="wiki00020711-00-01" id="7"/>
++ 16P <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><rel type="ヲ" target="軌道" sid="wiki00020711-02" id="13"/><rel type="ニヨッテ" target="慣性" sid="wiki00020711-02" id="7"/><rel type="=≒" target="飛ぶ" sid="wiki00020711-00-01" id="7"/><用言:動><節-主辞><節-区切>
 通過 つうか 通過 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14D
-+ 16D <体言><rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="ミサイル" sid="wiki00020711-02" id="1"/>
++ 16D <rel type="ノ" target="不特定:人"/><rel type="ノ" mode="AND" target="ミサイル" sid="wiki00020711-02" id="1"/><体言>
 目標 もくひょう 目標 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><rel type="ニ" target="目標" sid="wiki00020711-02" id="15"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニヨッテ" target="慣性" sid="wiki00020711-02" id="7"/>
++ -1D <rel type="ガ" target="ミサイル" sid="wiki00020711-02" id="1"/><rel type="ニ" target="目標" sid="wiki00020711-02" id="15"/><rel type="ニヨッテ" target="慣性" sid="wiki00020711-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 到達 とうたつ 到達 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

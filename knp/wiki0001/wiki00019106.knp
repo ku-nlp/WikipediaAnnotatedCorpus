@@ -13,7 +13,7 @@
 * 7D
 + 3D <体言>
 地下 ちか 地下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=≒" target="鉱物" sid="wiki00019106-00-01" id="1"/><rel type="修飾" target="地下" sid="wiki00019106-00-01" id="2"/>
++ 8D <rel type="=≒" target="鉱物" sid="wiki00019106-00-01" id="1"/><rel type="修飾" target="地下" sid="wiki00019106-00-01" id="2"/><体言>
 資源 しげん 資源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
@@ -25,17 +25,17 @@
 鉱石 こうせき 鉱石 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 7D <体言><rel type="=構" target="資源" sid="wiki00019106-00-01" id="3"/>
++ 7D <rel type="=構" target="資源" sid="wiki00019106-00-01" id="3"/><体言>
 資源 しげん 資源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 8D
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資源" sid="wiki00019106-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="トシテ" target="資源" sid="wiki00019106-00-01" id="6"/><rel type="カラ" target="鉱脈" sid="wiki00019106-00-01" id="4"/><rel type="カラ" mode="AND" target="鉱石" sid="wiki00019106-00-01" id="5"/><rel type="外の関係" target="産業" sid="wiki00019106-00-01" id="9"/>
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資源" sid="wiki00019106-00-01" id="3"/><rel type="トシテ" target="資源" sid="wiki00019106-00-01" id="6"/><rel type="カラ" target="鉱脈" sid="wiki00019106-00-01" id="4"/><rel type="カラ" mode="AND" target="鉱石" sid="wiki00019106-00-01" id="5"/><rel type="外の関係" target="産業" sid="wiki00019106-00-01" id="9"/><用言:動><時制:非過去><節-主辞>
 取り出す とりだす 取り出す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="トイウ" target="取り出す" sid="wiki00019106-00-01" id="8"/>
++ -1D <rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="=構" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="トイウ" target="取り出す" sid="wiki00019106-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 産業 さんぎょう 産業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -46,10 +46,10 @@ EOS
 こうぎょう こうぎょう こうぎょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="鉱業" sid="wiki00019106-00-01" id="0"/>
++ 2D <rel type="ノ" target="鉱業" sid="wiki00019106-00-01" id="0"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
 英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <体言><rel type="デ" target="英語" sid="wiki00019106-00-02" id="1"/><rel type="=" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00019106-00-02" id="1"/>
++ -1D <rel type="デ" target="英語" sid="wiki00019106-00-02" id="1"/><rel type="=" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="=構" mode="AND" target="英語" sid="wiki00019106-00-02" id="1"/><体言>
 mining mining mining 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00019106-00-03 括弧始:（ 括弧終:） 括弧位置:31 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2026/01/09 MEMO:
@@ -69,11 +69,11 @@ EOS
 + 4D <rel type="ガ" target="もの" sid="wiki00019106-00-03" id="4"/><rel type="ニ" target="地表" sid="wiki00019106-00-03" id="2"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 5D <体言><rel type="修飾" target="ある" sid="wiki00019106-00-03" id="3"/>
++ 5D <rel type="修飾" target="ある" sid="wiki00019106-00-03" id="3"/><体言>
 もの もの もの 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="もの" sid="wiki00019106-00-03" id="4"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニヨッテ" target="場合" sid="wiki00019106-00-03" id="0"/><rel type="ガ" target="資源" sid="wiki00019106-00-01" id="3"/>
++ -1D <rel type="ヲ" target="もの" sid="wiki00019106-00-03" id="4"/><rel type="ニヨッテ" target="場合" sid="wiki00019106-00-03" id="0"/><rel type="ガ" target="資源" sid="wiki00019106-00-01" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00019106-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/03 MEMO:
@@ -82,7 +82,7 @@ EOS
 卑金属 ひきんぞく 卑金属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 1P
-+ 2P <体言><rel type="=≒" target="卑金属" sid="wiki00019106-01" id="0"/>
++ 2P <rel type="=≒" target="卑金属" sid="wiki00019106-01" id="0"/><体言>
 貴金属 ききんぞく 貴金属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -100,7 +100,7 @@ EOS
 * 5P
 + 6D <体言>
 オイル おいる オイル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <体言><rel type="修飾" target="オイル" sid="wiki00019106-01" id="5"/>
++ 7P <rel type="修飾" target="オイル" sid="wiki00019106-01" id="5"/><体言>
 シェール しぇーる シェール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
@@ -110,12 +110,12 @@ EOS
 * 7P
 + 9D <体言>
 炭酸 たんさん 炭酸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="炭酸" sid="wiki00019106-01" id="8"/>
++ 10D <rel type="修飾" target="炭酸" sid="wiki00019106-01" id="8"/><体言>
 カリウム かりうむ カリウム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="卑金属" sid="wiki00019106-01" id="0"/><rel type="ガ" mode="AND" target="貴金属" sid="wiki00019106-01" id="1"/><rel type="ガ" mode="AND" target="鉄" sid="wiki00019106-01" id="2"/><rel type="ガ" mode="AND" target="ウラン" sid="wiki00019106-01" id="3"/><rel type="ガ" mode="AND" target="石炭" sid="wiki00019106-01" id="4"/><rel type="ガ" mode="AND" target="シェール" sid="wiki00019106-01" id="6"/><rel type="ガ" mode="AND" target="岩塩" sid="wiki00019106-01" id="7"/><rel type="ガ" mode="AND" target="カリウムなど" sid="wiki00019106-01" id="9"/><rel type="=" target="取り出す" sid="wiki00019106-00-01" id="8"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="卑金属" sid="wiki00019106-01" id="0"/><rel type="ガ" mode="AND" target="貴金属" sid="wiki00019106-01" id="1"/><rel type="ガ" mode="AND" target="鉄" sid="wiki00019106-01" id="2"/><rel type="ガ" mode="AND" target="ウラン" sid="wiki00019106-01" id="3"/><rel type="ガ" mode="AND" target="石炭" sid="wiki00019106-01" id="4"/><rel type="ガ" mode="AND" target="シェール" sid="wiki00019106-01" id="6"/><rel type="ガ" mode="AND" target="岩塩" sid="wiki00019106-01" id="7"/><rel type="ガ" mode="AND" target="カリウムなど" sid="wiki00019106-01" id="9"/><rel type="=" target="取り出す" sid="wiki00019106-00-01" id="8"/><用言:動><時制:非過去><節-主辞><節-区切>
 採取 さいしゅ 採取 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
@@ -127,19 +127,19 @@ EOS
 農業 のうぎょう 農業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="2"/><用言:動><時制:非過去><否定表現><節-主辞><rel type="デ" target="農業" sid="wiki00019106-02" id="0"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="2"/><rel type="デ" target="農業" sid="wiki00019106-02" id="0"/><用言:動><時制:非過去><否定表現><節-主辞>
 生産 せいさん 生産 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 でき でき できる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 7P
-+ 9P <体言><rel type="修飾" target="生産できない" sid="wiki00019106-02" id="1"/>
++ 9P <rel type="修飾" target="生産できない" sid="wiki00019106-02" id="1"/><体言>
 材料 ざいりょう 材料 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニツイテ" target="不特定:物"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ニツイテ" target="不特定:物"/><体言><非用言格解析:動>
 研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5P <体言><rel type="ノ？" target="研究" sid="wiki00019106-02" id="3"/>
++ 5P <rel type="ノ？" target="研究" sid="wiki00019106-02" id="3"/><体言>
 室 しつ 室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -149,22 +149,22 @@ EOS
 * 6D
 + 7D <体言>
 化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="デ" target="室" sid="wiki00019106-02" id="4"/><rel type="デ" mode="AND" target="工場" sid="wiki00019106-02" id="5"/><rel type="ヲ≒" target="材料" sid="wiki00019106-02" id="9"/><rel type="修飾" target="化学" sid="wiki00019106-02" id="6"/>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="デ" target="室" sid="wiki00019106-02" id="4"/><rel type="デ" mode="AND" target="工場" sid="wiki00019106-02" id="5"/><rel type="ヲ≒" target="材料" sid="wiki00019106-02" id="9"/><rel type="修飾" target="化学" sid="wiki00019106-02" id="6"/><体言><非用言格解析:動>
 合成 ごうせい 合成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <用言:動><時制:非過去><否定表現><節-主辞><rel type="デ" target="合成" sid="wiki00019106-02" id="7"/><rel type="デ" mode="AND" target="室" sid="wiki00019106-02" id="4"/><rel type="デ" mode="AND" target="工場" sid="wiki00019106-02" id="5"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="9"/><rel type="ガ" target="不特定:人"/>
++ 9D <rel type="デ" target="合成" sid="wiki00019106-02" id="7"/><rel type="デ" mode="AND" target="室" sid="wiki00019106-02" id="4"/><rel type="デ" mode="AND" target="工場" sid="wiki00019106-02" id="5"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="9"/><rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><否定表現><節-主辞>
 作れ つくれ 作れる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 * 9D
-+ 11D <体言><rel type="=≒" target="材料" sid="wiki00019106-02" id="2"/><rel type="修飾" target="作れない" sid="wiki00019106-02" id="8"/>
++ 11D <rel type="=≒" target="材料" sid="wiki00019106-02" id="2"/><rel type="修飾" target="作れない" sid="wiki00019106-02" id="8"/><体言>
 材料 ざいりょう 材料 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
 + 11D
 一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="2"/><rel type="ヲ" mode="AND" target="材料" sid="wiki00019106-02" id="9"/><rel type="=≒" target="採取される" sid="wiki00019106-01" id="10"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="材料" sid="wiki00019106-02" id="2"/><rel type="ヲ" mode="AND" target="材料" sid="wiki00019106-02" id="9"/><rel type="=≒" target="採取される" sid="wiki00019106-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
 採掘 さいくつ 採掘 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -174,7 +174,7 @@ EOS
 + 1D <rel type="ガ" target="意味" sid="wiki00019106-03" id="1"/><用言:形><時制:非過去>
 広い ひろい 広い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 12D
-+ 13D <体言><非用言格解析:動><rel type="修飾" target="広い" sid="wiki00019106-03" id="0"/><rel type="ノ" target="鉱業" sid="wiki00019106-00-01" id="0"/>
++ 13D <rel type="修飾" target="広い" sid="wiki00019106-03" id="0"/><rel type="ノ" target="鉱業" sid="wiki00019106-00-01" id="0"/><体言><非用言格解析:動>
 意味 いみ 意味 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -186,15 +186,15 @@ EOS
 再生 さいせい 再生 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 不可能な ふかのうな 不可能だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 5D
-+ 5D <体言><rel type="修飾" target="任意の" sid="wiki00019106-03" id="2"/><rel type="修飾" mode="AND" target="再生不可能な" sid="wiki00019106-03" id="3"/>
++ 5D <rel type="修飾" target="任意の" sid="wiki00019106-03" id="2"/><rel type="修飾" mode="AND" target="再生不可能な" sid="wiki00019106-03" id="3"/><体言>
 資源 しげん 資源 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資源" sid="wiki00019106-03" id="4"/><体言><非用言格解析:動><rel type="=≒" target="採取される" sid="wiki00019106-01" id="10"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資源" sid="wiki00019106-03" id="4"/><rel type="=≒" target="採取される" sid="wiki00019106-01" id="10"/><体言><非用言格解析:動>
 採取 さいしゅ 採取 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 13D <rel type="ヲ" target="採取" sid="wiki00019106-03" id="5"/><用言:動><節-主辞><節-区切><rel type="デ" target="意味" sid="wiki00019106-03" id="1"/><rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/>
++ 13D <rel type="ヲ" target="採取" sid="wiki00019106-03" id="5"/><rel type="デ" target="意味" sid="wiki00019106-03" id="1"/><rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/><用言:動><節-主辞><節-区切>
 含み ふくみ 含む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
@@ -212,15 +212,15 @@ EOS
 * 11D
 + 11D <体言><非用言格解析:動>
 化石 かせき 化石 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="化石" sid="wiki00019106-03" id="10"/>
++ 12D <rel type="修飾" target="化石" sid="wiki00019106-03" id="10"/><体言>
 水 すい 水 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 13D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="水" sid="wiki00019106-03" id="11"/><rel type="ヲ" mode="AND" target="石油" sid="wiki00019106-03" id="7"/><rel type="ヲ" mode="AND" target="天然ガス" sid="wiki00019106-03" id="8"/><rel type="=" target="採掘する" sid="wiki00019106-02" id="11"/>
++ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="水" sid="wiki00019106-03" id="11"/><rel type="ヲ" mode="AND" target="石油" sid="wiki00019106-03" id="7"/><rel type="ヲ" mode="AND" target="天然ガス" sid="wiki00019106-03" id="8"/><rel type="=" target="採掘する" sid="wiki00019106-02" id="11"/><体言><非用言格解析:動>
 採掘 さいくつ 採掘 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="採掘" sid="wiki00019106-03" id="12"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="デ" target="意味" sid="wiki00019106-03" id="1"/>
++ -1D <rel type="ヲ" target="採掘" sid="wiki00019106-03" id="12"/><rel type="ガ" target="鉱業" sid="wiki00019106-00-01" id="0"/><rel type="デ" target="意味" sid="wiki00019106-03" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

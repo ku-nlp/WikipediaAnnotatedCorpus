@@ -2,7 +2,7 @@
 * 15D
 + 1D <体言><NE:PERSON:ラグランジュ>
 ラグランジュ らぐらんじゅ ラグランジュ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ 22D <体言><rel type="修飾" target="ラグランジュ" sid="wiki00039577-00-01" id="0"/>
++ 22D <rel type="修飾" target="ラグランジュ" sid="wiki00039577-00-01" id="0"/><体言>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -10,7 +10,7 @@
 * 2D
 + 3D <体言>
 天体 てんたい 天体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="ニツイテ" target="天体" sid="wiki00039577-00-01" id="2"/>
++ 4D <rel type="ニツイテ" target="天体" sid="wiki00039577-00-01" id="2"/><体言>
 力学 りきがく 力学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -23,43 +23,43 @@
 制限 せいげん 制限 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 + 8D <体言>
 三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="三" sid="wiki00039577-00-01" id="7"/><rel type="=≒" target="天体" sid="wiki00039577-00-01" id="2"/>
++ 9D <rel type="修飾" target="三" sid="wiki00039577-00-01" id="7"/><rel type="=≒" target="天体" sid="wiki00039577-00-01" id="2"/><体言>
 体 たい 体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="ニオイテ" target="力学" sid="wiki00039577-00-01" id="3"/><rel type="ノ？" target="体" sid="wiki00039577-00-01" id="8"/><rel type="修飾" target="制限" sid="wiki00039577-00-01" id="6"/><rel type="修飾" mode="AND" target="円" sid="wiki00039577-00-01" id="5"/>
++ 12D <rel type="ニオイテ" target="力学" sid="wiki00039577-00-01" id="3"/><rel type="ノ？" target="体" sid="wiki00039577-00-01" id="8"/><rel type="修飾" target="制限" sid="wiki00039577-00-01" id="6"/><rel type="修飾" mode="AND" target="円" sid="wiki00039577-00-01" id="5"/><体言>
 問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 12D <体言><rel type="ノ" target="解" sid="wiki00039577-00-01" id="12"/>
++ 12D <rel type="ノ" target="解" sid="wiki00039577-00-01" id="12"/><体言>
 5 いつ 5 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 12D <体言><非用言格解析:動><rel type="ガ" target="不特定:物"/>
++ 12D <rel type="ガ" target="不特定:物"/><体言><非用言格解析:動>
 平衡 へいこう 平衡 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 22D <rel type="ノ" target="問題" sid="wiki00039577-00-01" id="9"/><体言><rel type="=構" target="点" sid="wiki00039577-00-01" id="1"/><rel type="=構" mode="AND" target="5つ" sid="wiki00039577-00-01" id="10"/><rel type="修飾" target="5つ" sid="wiki00039577-00-01" id="10"/><rel type="修飾" mode="AND" target="平衡" sid="wiki00039577-00-01" id="11"/>
++ 22D <rel type="ノ" target="問題" sid="wiki00039577-00-01" id="9"/><rel type="=構" target="点" sid="wiki00039577-00-01" id="1"/><rel type="=構" mode="AND" target="5つ" sid="wiki00039577-00-01" id="10"/><rel type="修飾" target="5つ" sid="wiki00039577-00-01" id="10"/><rel type="修飾" mode="AND" target="平衡" sid="wiki00039577-00-01" id="11"/><体言>
 解 かい 解 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
 + 22D
 すなわち すなわち すなわち 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 8P
-+ 15P <体言><rel type="=" target="天体" sid="wiki00039577-00-01" id="2"/><rel type="=≒" mode="AND" target="体" sid="wiki00039577-00-01" id="8"/>
++ 15P <rel type="=" target="天体" sid="wiki00039577-00-01" id="2"/><rel type="=≒" mode="AND" target="体" sid="wiki00039577-00-01" id="8"/><体言>
 天体 てんたい 天体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <体言><rel type="=" target="天体" sid="wiki00039577-00-01" id="14"/><rel type="=≒" mode="AND" target="体" sid="wiki00039577-00-01" id="8"/>
++ 16D <rel type="=" target="天体" sid="wiki00039577-00-01" id="14"/><rel type="=≒" mode="AND" target="体" sid="wiki00039577-00-01" id="8"/><体言>
 天体 てんたい 天体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 18D <体言><rel type="ノ" target="天体" sid="wiki00039577-00-01" id="15"/><rel type="ノ" mode="AND" target="天体" sid="wiki00039577-00-01" id="14"/>
++ 18D <rel type="ノ" target="天体" sid="wiki00039577-00-01" id="15"/><rel type="ノ" mode="AND" target="天体" sid="wiki00039577-00-01" id="14"/><体言>
 重力 じゅうりょく 重力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 18D <体言><rel type="ガ" target="重力" sid="wiki00039577-00-01" id="16"/>
++ 18D <rel type="ガ" target="重力" sid="wiki00039577-00-01" id="16"/><体言>
 釣り合い つりあい 釣り合い 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 22D <rel type="ガ" target="釣り合い" sid="wiki00039577-00-01" id="17"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="ポイント" sid="wiki00039577-00-01" id="22"/><rel type="デ" mode="AND" target="重力" sid="wiki00039577-00-01" id="16"/>
++ 22D <rel type="ガ" target="釣り合い" sid="wiki00039577-00-01" id="17"/><rel type="デ" target="ポイント" sid="wiki00039577-00-01" id="22"/><rel type="デ" mode="AND" target="重力" sid="wiki00039577-00-01" id="16"/><用言:動><時制:非過去><節-主辞>
 取れる とれる 取れる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 13D
 + 20D <体言>
@@ -71,11 +71,11 @@
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 15D
-+ 22D <rel type="ガ" target="ポイント" sid="wiki00039577-00-01" id="22"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="中" sid="wiki00039577-00-01" id="20"/>
++ 22D <rel type="ガ" target="ポイント" sid="wiki00039577-00-01" id="22"/><rel type="デ" target="中" sid="wiki00039577-00-01" id="20"/><用言:動><時制:非過去><節-主辞>
 安定 あんてい 安定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="点" sid="wiki00039577-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="安定する" sid="wiki00039577-00-01" id="21"/><rel type="=構" target="点" sid="wiki00039577-00-01" id="1"/><rel type="=構" mode="AND" target="解" sid="wiki00039577-00-01" id="12"/>
++ -1D <rel type="ガ" target="点" sid="wiki00039577-00-01" id="1"/><rel type="修飾" target="安定する" sid="wiki00039577-00-01" id="21"/><rel type="=構" target="点" sid="wiki00039577-00-01" id="1"/><rel type="=構" mode="AND" target="解" sid="wiki00039577-00-01" id="12"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 ポイント ぽいんと ポイント 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
@@ -89,25 +89,25 @@ EOS
 てん てん てん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="点" sid="wiki00039577-00-01" id="1"/><rel type="ト" target="点" sid="wiki00039577-00-02" id="4"/><rel type="ノ" target="点" sid="wiki00039577-00-01" id="1"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="点" sid="wiki00039577-00-01" id="1"/><rel type="ト" target="点" sid="wiki00039577-00-02" id="4"/><rel type="ノ" target="点" sid="wiki00039577-00-01" id="1"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 + 4D <rel type="=" target="ラグランジュ" sid="wiki00039577-00-02" id="0"/><体言>
 L L L 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <体言><rel type="=構" target="略称" sid="wiki00039577-00-02" id="2"/><rel type="=" mode="AND" target="点" sid="wiki00039577-00-01" id="1"/>
++ -1D <rel type="=構" target="略称" sid="wiki00039577-00-02" id="2"/><rel type="=" mode="AND" target="点" sid="wiki00039577-00-01" id="1"/><体言>
 点 てん 点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00039577-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2025/05/19 MEMO:
 * 7D
-+ 11D <体言><rel type="トイウ" target="点" sid="wiki00039577-00-01" id="1"/>
++ 11D <rel type="トイウ" target="点" sid="wiki00039577-00-01" id="1"/><体言>
 名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 7D <体言><非用言格解析:動><rel type="ノ" target="点" sid="wiki00039577-00-01" id="1"/><rel type="ガ" target="点" sid="wiki00039577-00-01" id="1"/>
++ 7D <rel type="ノ" target="点" sid="wiki00039577-00-01" id="1"/><rel type="ガ" target="点" sid="wiki00039577-00-01" id="1"/><体言><非用言格解析:動>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -126,7 +126,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ヲ" target="存在" sid="wiki00039577-01" id="2"/><用言:動><時制:過去><節-主辞><rel type="時間" target="後半" sid="wiki00039577-01" id="4"/><rel type="ガ" target="ラグランジュ" sid="wiki00039577-01" id="10"/><rel type="ガ" mode="AND" target="オイラー" sid="wiki00039577-01" id="6"/>
++ 10D <rel type="ヲ" target="存在" sid="wiki00039577-01" id="2"/><rel type="時間" target="後半" sid="wiki00039577-01" id="4"/><rel type="ガ" target="ラグランジュ" sid="wiki00039577-01" id="10"/><rel type="ガ" mode="AND" target="オイラー" sid="wiki00039577-01" id="6"/><用言:動><時制:過去><節-主辞>
 確認 かくにん 確認 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 7D
@@ -136,7 +136,7 @@ EOS
 + 10D <体言>
 ルイ るい ルイ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 11D <体言><NE:PERSON:ジョゼフ＝ルイ・ラグランジュ><rel type="=" target="ラグランジュ" sid="wiki00039577-00-01" id="0"/>
++ 11D <rel type="=" target="ラグランジュ" sid="wiki00039577-00-01" id="0"/><体言><NE:PERSON:ジョゼフ＝ルイ・ラグランジュ>
 ラグランジュ らぐらんじゅ ラグランジュ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

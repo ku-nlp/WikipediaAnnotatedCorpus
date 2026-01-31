@@ -4,7 +4,7 @@
 地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 7D <体言><rel type="ノ？" target="地球" sid="wiki00011420-00-01" id="0"/>
++ 7D <rel type="ノ？" target="地球" sid="wiki00011420-00-01" id="0"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -22,15 +22,15 @@
 層状 そうじょう 層状 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="気体" sid="wiki00011420-00-01" id="6"/><rel type="ヲ" target="表面" sid="wiki00011420-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="層状" sid="wiki00011420-00-01" id="4"/><rel type="ニ" mode="？" target="なし"/>
++ 6D <rel type="ガ" target="気体" sid="wiki00011420-00-01" id="6"/><rel type="ヲ" target="表面" sid="wiki00011420-00-01" id="3"/><rel type="ニ" target="層状" sid="wiki00011420-00-01" id="4"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞>
 覆って おおって 覆う 動詞 2 * 0 子音動詞ワ行 12 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 7D <体言><rel type="=構" target="大気" sid="wiki00011420-00-01" id="1"/>
++ 7D <rel type="=構" target="大気" sid="wiki00011420-00-01" id="1"/><体言>
 気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大気" sid="wiki00011420-00-01" id="1"/><rel type="ノ" target="気体" sid="wiki00011420-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="大気" sid="wiki00011420-00-01" id="1"/><memo text="CO"/>
++ -1D <rel type="ガ" target="大気" sid="wiki00011420-00-01" id="1"/><rel type="ノ" target="気体" sid="wiki00011420-00-01" id="6"/><rel type="=構" target="大気" sid="wiki00011420-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -47,13 +47,13 @@ EOS
 * 1D
 + 1D <rel type="=" target="地球" sid="wiki00011420-00-01" id="0"/><体言>
 地球 ちきゅう 地球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ニカンシテ" target="地球" sid="wiki00011420-01" id="0"/>
++ 3D <rel type="ニカンシテ" target="地球" sid="wiki00011420-01" id="0"/><体言>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
 + 3D
 諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="科学" sid="wiki00011420-01" id="1"/><体言><rel type="修飾" target="諸" sid="wiki00011420-01" id="2"/>
++ 9D <rel type="ノ" target="科学" sid="wiki00011420-01" id="1"/><rel type="修飾" target="諸" sid="wiki00011420-01" id="2"/><体言>
 分野 ぶんや 分野 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -62,7 +62,7 @@ EOS
 地表 ちひょう 地表 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="気体" sid="wiki00011420-01" id="6"/><rel type="ヲ" target="地表" sid="wiki00011420-01" id="4"/><用言:動><時制:非過去><節-主辞><rel type="=" target="覆っている" sid="wiki00011420-00-01" id="5"/>
++ 6D <rel type="ガ" target="気体" sid="wiki00011420-01" id="6"/><rel type="ヲ" target="地表" sid="wiki00011420-01" id="4"/><rel type="=" target="覆っている" sid="wiki00011420-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
 覆う おおう 覆う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 5D
 + 7D <rel type="=" target="気体" sid="wiki00011420-00-01" id="6"/><体言>
@@ -74,24 +74,24 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="大気" sid="wiki00011420-00-01" id="1"/><体言><rel type="トシテ" target="気体" sid="wiki00011420-01" id="6"/>
++ 9D <rel type="=" target="大気" sid="wiki00011420-00-01" id="1"/><rel type="トシテ" target="気体" sid="wiki00011420-01" id="6"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="8"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="分野" sid="wiki00011420-01" id="3"/><rel type="外の関係" target="場合" sid="wiki00011420-01" id="10"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="8"/><rel type="デ" target="分野" sid="wiki00011420-01" id="3"/><rel type="外の関係" target="場合" sid="wiki00011420-01" id="10"/><用言:動><時制:非過去><節-主辞>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 12D <体言><節-区切><rel type="トイウ" target="扱う" sid="wiki00011420-01" id="9"/>
++ 12D <rel type="トイウ" target="扱う" sid="wiki00011420-01" id="9"/><体言><節-区切>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 12D <体言><rel type="=構" target="大気" sid="wiki00011420-01" id="8"/>
++ 12D <rel type="=構" target="大気" sid="wiki00011420-01" id="8"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 23P
-+ 26P <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="大気" sid="wiki00011420-01" id="8"/><rel type="ト" target="大気" sid="wiki00011420-01" id="11"/>
++ 26P <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="8"/><rel type="ト" target="大気" sid="wiki00011420-01" id="11"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -105,11 +105,11 @@ EOS
 身近 みぢか 身近だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 16D <用言:動><時制:非過去><rel type="ガ" target="大気" sid="wiki00011420-01" id="16"/><rel type="ニ" target="身近" sid="wiki00011420-01" id="14"/>
++ 16D <rel type="ガ" target="大気" sid="wiki00011420-01" id="16"/><rel type="ニ" target="身近" sid="wiki00011420-01" id="14"/><用言:動><時制:非過去>
 存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 17P
-+ 20P <体言><rel type="=" target="大気" sid="wiki00011420-00-01" id="1"/>
++ 20P <rel type="=" target="大気" sid="wiki00011420-00-01" id="1"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -117,11 +117,11 @@ EOS
 + 18D <体言><非用言格解析:動>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 一定 いってい 一定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言><rel type="修飾" target="一定" sid="wiki00011420-01" id="17"/>
++ 19D <rel type="修飾" target="一定" sid="wiki00011420-01" id="17"/><体言>
 量 りょう 量 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 17D
-+ 20D <rel type="=" target="大気" sid="wiki00011420-01" id="16"/><体言><rel type="修飾" target="量" sid="wiki00011420-01" id="18"/>
++ 20D <rel type="=" target="大気" sid="wiki00011420-01" id="16"/><rel type="修飾" target="量" sid="wiki00011420-01" id="18"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 18D
@@ -135,24 +135,24 @@ EOS
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 20D
-+ 23D <rel type="=" target="大気" sid="wiki00011420-01" id="16"/><体言><rel type="トシテ" target="まとまり等" sid="wiki00011420-01" id="20"/><rel type="トシテ" mode="AND" target="大気" sid="wiki00011420-01" id="16"/>
++ 23D <rel type="=" target="大気" sid="wiki00011420-01" id="16"/><rel type="トシテ" target="まとまり等" sid="wiki00011420-01" id="20"/><rel type="トシテ" mode="AND" target="大気" sid="wiki00011420-01" id="16"/><体言>
 大気 たいき 大気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 24D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="22"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="場合" sid="wiki00011420-01" id="24"/>
++ 24D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="22"/><rel type="外の関係" target="場合" sid="wiki00011420-01" id="24"/><用言:動><時制:非過去><節-主辞>
 扱う あつかう 扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 * 23D
-+ 26D <体言><節-区切><rel type="トイウ" target="扱う" sid="wiki00011420-01" id="23"/>
++ 26D <rel type="トイウ" target="扱う" sid="wiki00011420-01" id="23"/><体言><節-区切>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 23D
-+ 26D <体言><rel type="=構" target="大気" sid="wiki00011420-01" id="22"/>
++ 26D <rel type="=構" target="大気" sid="wiki00011420-01" id="22"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 空気 くうき 空気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="22"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="空気" sid="wiki00011420-01" id="25"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大気" sid="wiki00011420-01" id="22"/><rel type="ト" target="空気" sid="wiki00011420-01" id="25"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ぶ よぶ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

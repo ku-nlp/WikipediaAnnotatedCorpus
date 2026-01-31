@@ -11,28 +11,28 @@
 海上 かいじょう 海上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="組織" sid="wiki00025668-00-01" id="7"/><体言><非用言格解析:動><rel type="ヲ" target="領域" sid="wiki00025668-00-01" id="4"/>
++ 4D <rel type="ガ" target="組織" sid="wiki00025668-00-01" id="7"/><rel type="ヲ" target="領域" sid="wiki00025668-00-01" id="4"/><体言><非用言格解析:動>
 担当 たんとう 担当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="=構" target="海上" sid="wiki00025668-00-01" id="2"/><rel type="修飾" target="担当" sid="wiki00025668-00-01" id="3"/>
++ 5D <rel type="=構" target="海上" sid="wiki00025668-00-01" id="2"/><rel type="修飾" target="担当" sid="wiki00025668-00-01" id="3"/><体言>
 領域 りょういき 領域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="組織" sid="wiki00025668-00-01" id="7"/><rel type="ヲ" target="海上" sid="wiki00025668-00-01" id="2"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="領域" sid="wiki00025668-00-01" id="4"/>
++ 7D <rel type="ガ" target="組織" sid="wiki00025668-00-01" id="7"/><rel type="ヲ" target="海上" sid="wiki00025668-00-01" id="2"/><rel type="ト" target="領域" sid="wiki00025668-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 6D
 + 7D <体言>
 軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><非用言格解析:動><rel type="=構" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="修飾" target="軍事" sid="wiki00025668-00-01" id="6"/>
++ 8D <rel type="=構" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="修飾" target="軍事" sid="wiki00025668-00-01" id="6"/><体言><非用言格解析:動>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="組織" sid="wiki00025668-00-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="海軍" sid="wiki00025668-00-01" id="0"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="組織" sid="wiki00025668-00-01" id="7"/><rel type="ト" target="海軍" sid="wiki00025668-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
 言う いう 言う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025668-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/10/22 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="海軍" sid="wiki00025668-00-01" id="0"/>
++ -1D <rel type="=" target="海軍" sid="wiki00025668-00-01" id="0"/><体言>
 かいぐん かいぐん かいぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00025668-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/06/03 MEMO:
@@ -43,12 +43,12 @@ EOS
 * 2D
 + 2D <体言>
 航空 こうくう 航空 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ？" target="航空" sid="wiki00025668-01" id="1"/>
++ 3D <rel type="ノ？" target="航空" sid="wiki00025668-01" id="1"/><体言>
 機 き 機 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 7P <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="艦艇" sid="wiki00025668-01" id="0"/><rel type="ヲ" mode="AND" target="機等" sid="wiki00025668-01" id="2"/>
++ 7P <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ヲ" target="艦艇" sid="wiki00025668-01" id="0"/><rel type="ヲ" mode="AND" target="機等" sid="wiki00025668-01" id="2"/><用言:動><節-主辞><節-区切>
 用い もちい 用いる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
@@ -57,7 +57,7 @@ EOS
 * 5D
 + 6D <rel type="=" target="軍事" sid="wiki00025668-00-01" id="6"/><体言>
 軍事 ぐんじ 軍事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ニカンシテ" target="軍事" sid="wiki00025668-01" id="5"/>
++ 7D <rel type="ニカンシテ" target="軍事" sid="wiki00025668-01" id="5"/><体言>
 作戦 さくせん 作戦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -74,18 +74,18 @@ EOS
 空軍 くうぐん 空軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><用言:動><節-主辞><節-区切><rel type="ト" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="ト" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/>
++ 5D <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ト" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="ト" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/><用言:動><節-主辞><節-区切>
 並び ならび 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 4D <rel type="ガ" target="軍種" sid="wiki00025668-02" id="4"/><用言:形><時制:非過去>
 主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 4D
-+ 5D <体言><rel type="=構" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="=構" mode="AND" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="=構" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/><rel type="修飾" target="主要な" sid="wiki00025668-02" id="3"/>
++ 5D <rel type="=構" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="=構" mode="AND" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="=構" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/><rel type="修飾" target="主要な" sid="wiki00025668-02" id="3"/><体言>
 軍種 ぐんしゅ 軍種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="軍種" sid="wiki00025668-02" id="4"/><rel type="ニナランデ" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="ニナランデ" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/>
++ -1D <rel type="ガ" target="海軍" sid="wiki00025668-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="軍種" sid="wiki00025668-02" id="4"/><rel type="ニナランデ" target="陸軍" sid="wiki00025668-02" id="0"/><rel type="ニナランデ" mode="AND" target="空軍" sid="wiki00025668-02" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

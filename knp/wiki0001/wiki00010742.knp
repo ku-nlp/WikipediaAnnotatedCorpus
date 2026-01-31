@@ -1,6 +1,6 @@
 # S-ID:wiki00010742-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/06 MEMO:
 * 5D
-+ 9D <体言><NE:LOCATION:板橋区><rel type="ノ？" target="東京都" sid="wiki00010742-00-01" id="1"/>
++ 9D <rel type="ノ？" target="東京都" sid="wiki00010742-00-01" id="1"/><体言><NE:LOCATION:板橋区>
 板橋 いたばし 板橋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -13,7 +13,7 @@
 * 3D
 + 3D <体言>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="ノ" target="東京都" sid="wiki00010742-00-01" id="1"/><体言><rel type="ノ？" target="区" sid="wiki00010742-00-01" id="2"/>
++ 4D <rel type="ノ" target="東京都" sid="wiki00010742-00-01" id="1"/><rel type="ノ？" target="区" sid="wiki00010742-00-01" id="2"/><体言>
 部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D <rel type="ノ" target="部" sid="wiki00010742-00-01" id="3"/><体言>
 北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -21,7 +21,7 @@
 * 4D
 + 6D <体言><NE:LOCATION:荒川>
 荒川 あらかわ 荒川 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 7D <体言><rel type="ノ？" target="北部" sid="wiki00010742-00-01" id="4"/>
++ 7D <rel type="ノ？" target="北部" sid="wiki00010742-00-01" id="4"/><体言>
 沿い ぞい 沿い 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
@@ -31,7 +31,7 @@
 * -1D
 + 9D <rel type="ガ" target="区" sid="wiki00010742-00-01" id="9"/><体言><非用言格解析:形>
 特別 とくべつ 特別だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="板橋区" sid="wiki00010742-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="特別" sid="wiki00010742-00-01" id="8"/><rel type="=構" target="板橋区" sid="wiki00010742-00-01" id="0"/><memo text="CO"/>
++ -1D <rel type="ガ" target="板橋区" sid="wiki00010742-00-01" id="0"/><rel type="修飾" target="特別" sid="wiki00010742-00-01" id="8"/><rel type="=構" target="板橋区" sid="wiki00010742-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 区 く 区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

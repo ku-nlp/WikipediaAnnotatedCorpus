@@ -1,10 +1,10 @@
 # S-ID:wiki00014372-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:16.00000 WARNING:Cannot detect consistent CS scopes MOD:2026/01/13 MEMO:
 * 8D
-+ 2D <体言><非用言格解析:形><rel type="ガ" target="自動車" sid="wiki00014372-00-01" id="1"/>
++ 2D <rel type="ガ" target="自動車" sid="wiki00014372-00-01" id="1"/><体言><非用言格解析:形>
 高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 + 2D <体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="修飾" target="高速" sid="wiki00014372-00-01" id="0"/><rel type="修飾" mode="AND" target="自動車" sid="wiki00014372-00-01" id="1"/>
++ 15D <rel type="修飾" target="高速" sid="wiki00014372-00-01" id="0"/><rel type="修飾" mode="AND" target="自動車" sid="wiki00014372-00-01" id="1"/><体言>
 国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -14,38 +14,38 @@
 日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 6P <体言><rel type="ノ" target="日本" sid="wiki00014372-00-01" id="3"/>
++ 6P <rel type="ノ" target="日本" sid="wiki00014372-00-01" id="3"/><体言>
 国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 かつ かつ かつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
 + 6D <rel type="=" target="自動車" sid="wiki00014372-00-01" id="1"/><体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ガ" target="自動車" sid="wiki00014372-00-01" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="道路" sid="wiki00014372-00-01" id="7"/>
++ 8D <rel type="ガ" target="自動車" sid="wiki00014372-00-01" id="5"/><rel type="ヲ" target="道路" sid="wiki00014372-00-01" id="7"/><体言><非用言格解析:動>
 専用 せんよう 専用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <体言><rel type="=≒" target="国道" sid="wiki00014372-00-01" id="2"/>
++ 8D <rel type="=≒" target="国道" sid="wiki00014372-00-01" id="2"/><体言>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 15P <rel type="ガ" target="国道" sid="wiki00014372-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="専用" sid="wiki00014372-00-01" id="6"/><rel type="修飾" mode="AND" target="国道" sid="wiki00014372-00-01" id="4"/><rel type="ノ" target="道路" sid="wiki00014372-00-01" id="7"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="=構" mode="AND" target="道路" sid="wiki00014372-00-01" id="7"/>
++ 15P <rel type="ガ" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="修飾" target="専用" sid="wiki00014372-00-01" id="6"/><rel type="修飾" mode="AND" target="国道" sid="wiki00014372-00-01" id="4"/><rel type="ノ" target="道路" sid="wiki00014372-00-01" id="7"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="=構" mode="AND" target="道路" sid="wiki00014372-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
 + 10D
 高 こう 高 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="高" sid="wiki00014372-00-01" id="9"/>
++ 12D <rel type="修飾" target="高" sid="wiki00014372-00-01" id="9"/><体言>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 12D <体言>
 幹線 かんせん 幹線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言><rel type="修飾" target="規格" sid="wiki00014372-00-01" id="10"/><rel type="修飾" mode="AND" target="幹線" sid="wiki00014372-00-01" id="11"/>
++ 14D <rel type="修飾" target="規格" sid="wiki00014372-00-01" id="10"/><rel type="修飾" mode="AND" target="幹線" sid="wiki00014372-00-01" id="11"/><体言>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 14D <体言>
 A A A 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ 15D <rel type="ノ" target="道路" sid="wiki00014372-00-01" id="12"/><体言><rel type="修飾" target="A" sid="wiki00014372-00-01" id="13"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/>
++ 15D <rel type="ノ" target="道路" sid="wiki00014372-00-01" id="12"/><rel type="修飾" target="A" sid="wiki00014372-00-01" id="13"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><体言>
 路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -58,25 +58,25 @@ EOS
 * -1D
 + 2D <rel type="=" target="高速" sid="wiki00014372-00-01" id="0"/><体言><非用言格解析:形>
 こうそく こうそく こうそくだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="自動車" sid="wiki00014372-00-01" id="1"/>
++ 2D <rel type="=" target="自動車" sid="wiki00014372-00-01" id="1"/><体言>
 じどうしゃ じどうしゃ じどうしゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + -1D <rel type="=" target="国道" sid="wiki00014372-00-01" id="2"/><体言>
 こくどう こくどう こくどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00014372-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/13 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="自動車" sid="wiki00014372-00-01" id="5"/>
++ 1D <rel type="=" target="自動車" sid="wiki00014372-00-01" id="5"/><体言>
 自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="専用" sid="wiki00014372-00-01" id="6"/><体言><非用言格解析:動>
 専用 せんよう 専用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="修飾" target="専用" sid="wiki00014372-01" id="1"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/>
++ 4D <rel type="修飾" target="専用" sid="wiki00014372-01" id="1"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><体言>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * -1D
 + 4D <rel type="=" target="高速" sid="wiki00014372-00-01" id="0"/><体言><非用言格解析:形>
 高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="国道" sid="wiki00014372-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="修飾" target="高速" sid="wiki00014372-01" id="3"/>
++ -1D <rel type="ガ" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="=構" target="国道" sid="wiki00014372-00-01" id="2"/><rel type="修飾" target="高速" sid="wiki00014372-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 道路 どうろ 道路 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

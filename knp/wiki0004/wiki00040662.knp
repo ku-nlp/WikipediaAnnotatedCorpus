@@ -13,9 +13,9 @@
 アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <体言><rel type="=" target="海兵" sid="wiki00040662-00-01" id="1"/>
++ 5D <rel type="=" target="海兵" sid="wiki00040662-00-01" id="1"/><体言>
 海兵 かいへい 海兵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="ノ？" target="海兵" sid="wiki00040662-00-01" id="4"/><rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/>
++ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="ノ？" target="海兵" sid="wiki00040662-00-01" id="4"/><rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 隊 たい 隊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -23,16 +23,16 @@ EOS
 * 1P
 + 2D <rel type="=" target="アメリカ" sid="wiki00040662-00-01" id="0"/><体言>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言><rel type="=" target="海兵" sid="wiki00040662-00-01" id="1"/>
++ 2D <rel type="=" target="海兵" sid="wiki00040662-00-01" id="1"/><体言>
 かいへい かいへい かいへい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 4P <rel type="=" target="隊" sid="wiki00040662-00-01" id="2"/><NE:ORGANIZATION:アメリカかいへいたい><体言>
 たい たい たい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="ト" target="USMC" sid="wiki00040662-00-02" id="4"/><rel type="ノ" target="隊" sid="wiki00040662-00-01" id="2"/>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="ト" target="USMC" sid="wiki00040662-00-02" id="4"/><rel type="ノ" target="隊" sid="wiki00040662-00-01" id="2"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="=構" target="略称" sid="wiki00040662-00-02" id="3"/><rel type="=" mode="AND" target="隊" sid="wiki00040662-00-01" id="2"/><NE:ORGANIZATION:USMC><体言><rel type="ガ" target="略称" sid="wiki00040662-00-02" id="3"/>
++ -1D <rel type="=構" target="略称" sid="wiki00040662-00-02" id="3"/><rel type="=" mode="AND" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="ガ" target="略称" sid="wiki00040662-00-02" id="3"/><NE:ORGANIZATION:USMC><体言>
 USMC USMC USMC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00040662-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2024/02/14 MEMO:
@@ -41,7 +41,7 @@ EOS
 沿岸 えんがん 沿岸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="ガ" target="隊" sid="wiki00040662-01" id="2"/><rel type="ヲ" target="沿岸" sid="wiki00040662-01" id="0"/><体言><非用言格解析:動>
 警備 けいび 警備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3D <体言><rel type="ノ？" target="警備" sid="wiki00040662-01" id="1"/>
++ 3D <rel type="ノ？" target="警備" sid="wiki00040662-01" id="1"/><体言>
 隊 たい 隊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -50,67 +50,67 @@ EOS
 * 3D
 + 5D <rel type="=" target="アメリカ合衆国" sid="wiki00040662-00-01" id="3"/><体言>
 アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 6D <体言><NE:ORGANIZATION:アメリカ軍><rel type="ノ" target="アメリカ" sid="wiki00040662-01" id="4"/>
++ 6D <rel type="ノ" target="アメリカ" sid="wiki00040662-01" id="4"/><体言><NE:ORGANIZATION:アメリカ軍>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ヲ" target="軍" sid="wiki00040662-01" id="5"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="6軍" sid="wiki00040662-01" id="7"/>
++ 7D <rel type="ヲ" target="軍" sid="wiki00040662-01" id="5"/><rel type="ガ" target="6軍" sid="wiki00040662-01" id="7"/><用言:動><時制:非過去><節-主辞>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 8D <体言><rel type="ヲフクメテ" target="隊" sid="wiki00040662-01" id="2"/><rel type="ノ" target="軍" sid="wiki00040662-01" id="5"/><rel type="=≒" target="隊" sid="wiki00040662-01" id="2"/><rel type="=≒" mode="AND" target="隊" sid="wiki00040662-00-01" id="2"/>
++ 8D <rel type="ヲフクメテ" target="隊" sid="wiki00040662-01" id="2"/><rel type="ノ" target="軍" sid="wiki00040662-01" id="5"/><rel type="=≒" target="隊" sid="wiki00040662-01" id="2"/><rel type="=≒" mode="AND" target="隊" sid="wiki00040662-00-01" id="2"/><体言>
 6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 9D <体言><rel type="ノ" target="6軍" sid="wiki00040662-01" id="7"/>
++ 9D <rel type="ノ" target="6軍" sid="wiki00040662-01" id="7"/><体言>
 2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 17P
-+ 24P <用言:形><時制:非過去><節-主辞><節-区切><rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="修飾" target="2番" sid="wiki00040662-01" id="8"/>
++ 24P <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="修飾" target="2番" sid="wiki00040662-01" id="8"/><用言:形><時制:非過去><節-主辞><節-区切>
 小さく ちいさく 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="位" sid="wiki00040662-01" id="12"/><体言><非用言格解析:形>
++ 11D <rel type="ガ" target="位" sid="wiki00040662-01" id="11"/><体言><非用言格解析:形>
 最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 12D <体言><rel type="修飾" target="最高" sid="wiki00040662-01" id="10"/><rel type="ノ" target="4軍" sid="wiki00040662-01" id="20"/>
++ 12D <rel type="修飾" target="最高" sid="wiki00040662-01" id="10"/><rel type="ノ" target="4軍" sid="wiki00040662-01" id="20"/><体言>
 位 い 位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 19D <体言><rel type="修飾" target="位" sid="wiki00040662-01" id="11"/>
++ 19D <rel type="修飾" target="位" sid="wiki00040662-01" id="11"/><体言>
 軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
 + 14D <体言><非用言格解析:動>
 統合 とうごう 統合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 15D <体言><rel type="修飾" target="統合" sid="wiki00040662-01" id="13"/>
++ 15D <rel type="修飾" target="統合" sid="wiki00040662-01" id="13"/><体言>
 参謀 さんぼう 参謀 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 17D <体言><rel type="ノ" target="参謀" sid="wiki00040662-01" id="14"/><rel type="ノ" mode="AND" target="軍" sid="wiki00040662-01" id="5"/>
++ 17D <rel type="ノ" target="参謀" sid="wiki00040662-01" id="14"/><rel type="ノ" mode="AND" target="軍" sid="wiki00040662-01" id="5"/><体言>
 本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="ガ" target="員" sid="wiki00040662-01" id="18"/><rel type="ヲ" target="本部" sid="wiki00040662-01" id="16"/><体言><非用言格解析:動>
++ 17D <rel type="ガ" target="員" sid="wiki00040662-01" id="17"/><rel type="ヲ" target="本部" sid="wiki00040662-01" id="15"/><体言><非用言格解析:動>
 構成 こうせい 構成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 18D <rel type="ノ" target="本部" sid="wiki00040662-01" id="16"/><体言><rel type="修飾" target="構成" sid="wiki00040662-01" id="16"/><rel type="=構" target="軍人" sid="wiki00040662-01" id="12"/>
++ 18D <rel type="ノ" target="本部" sid="wiki00040662-01" id="15"/><rel type="修飾" target="構成" sid="wiki00040662-01" id="16"/><rel type="=構" target="軍人" sid="wiki00040662-01" id="12"/><体言>
 員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
 + 19D <用言:動>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 13D
-+ 20D <rel type="ヲ" target="軍人" sid="wiki00040662-01" id="13"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="4軍" sid="wiki00040662-01" id="20"/><rel type="ニ" target="本部" sid="wiki00040662-01" id="15"/><rel type="トシテ" target="員" sid="wiki00040662-01" id="17"/>
++ 20D <rel type="ヲ" target="軍人" sid="wiki00040662-01" id="12"/><rel type="ガ" target="4軍" sid="wiki00040662-01" id="20"/><rel type="ニ" target="本部" sid="wiki00040662-01" id="15"/><rel type="トシテ" target="員" sid="wiki00040662-01" id="17"/><用言:動><時制:非過去><節-主辞>
 送り おくり 送る 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 込む こむ 込む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 14D
-+ 21D <体言><rel type="ノ" target="軍" sid="wiki00040662-01" id="5"/><rel type="=≒" target="隊" sid="wiki00040662-00-01" id="2"/>
++ 21D <rel type="ノ" target="軍" sid="wiki00040662-01" id="5"/><rel type="=≒" target="隊" sid="wiki00040662-00-01" id="2"/><体言>
 4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 軍 ぐん 軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 23D <体言><rel type="ノ" target="4軍" sid="wiki00040662-01" id="20"/>
++ 23D <rel type="ノ" target="4軍" sid="wiki00040662-01" id="20"/><体言>
 中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -118,10 +118,10 @@ EOS
 + 23D
 最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 17D
-+ 24D <rel type="ガ" target="組織" sid="wiki00040662-01" id="26"/><用言:形><時制:非過去><節-主辞><rel type="デ" target="中" sid="wiki00040662-01" id="21"/><rel type="修飾" target="最も" sid="wiki00040662-01" id="22"/><rel type="=" target="小さく" sid="wiki00040662-01" id="9"/>
++ 24D <rel type="ガ" target="組織" sid="wiki00040662-01" id="24"/><rel type="デ" target="中" sid="wiki00040662-01" id="21"/><rel type="修飾" target="最も" sid="wiki00040662-01" id="22"/><rel type="=" target="小さく" sid="wiki00040662-01" id="9"/><用言:形><時制:非過去><節-主辞>
 小さい ちいさい 小さい 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="隊" sid="wiki00040662-00-01" id="5"/>
++ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="=構" target="隊" sid="wiki00040662-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -135,7 +135,7 @@ EOS
 時点 じてん 時点 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <体言><rel type="ノ" target="将兵" sid="wiki00040662-02" id="4"/>
++ 4D <rel type="ノ" target="将兵" sid="wiki00040662-02" id="4"/><体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 18万 じゅうはちまん 18万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
@@ -143,7 +143,7 @@ EOS
 * 4P
 + 4D <体言>
 現役 げんえき 現役 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7P <rel type="ノ" target="隊" sid="wiki00040662-00-01" id="2"/><体言><rel type="=構" target="約18万人" sid="wiki00040662-02" id="2"/><rel type="修飾" target="現役" sid="wiki00040662-02" id="3"/>
++ 7P <rel type="ノ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="=構" target="約18万人" sid="wiki00040662-02" id="2"/><rel type="修飾" target="現役" sid="wiki00040662-02" id="3"/><体言>
 将兵 しょうへい 将兵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
@@ -155,18 +155,18 @@ EOS
 * 5D
 + 7D <体言>
 予備 よび 予備 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="約3万8,500人" sid="wiki00040662-02" id="5"/><rel type="ノ？" target="予備" sid="wiki00040662-02" id="6"/>
++ 8D <rel type="=構" target="約3万8,500人" sid="wiki00040662-02" id="5"/><rel type="ノ？" target="予備" sid="wiki00040662-02" id="6"/><体言>
 役 えき 役 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="時間" target="時点" sid="wiki00040662-02" id="1"/><rel type="ヲ" target="役" sid="wiki00040662-02" id="7"/><rel type="ヲ" mode="AND" target="将兵" sid="wiki00040662-02" id="4"/>
++ -1D <rel type="ガ" target="隊" sid="wiki00040662-00-01" id="2"/><rel type="時間" target="時点" sid="wiki00040662-02" id="1"/><rel type="ヲ" target="役" sid="wiki00040662-02" id="7"/><rel type="ヲ" mode="AND" target="将兵" sid="wiki00040662-02" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
 擁して ようして 擁する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00040662-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/09/25 MEMO:
 * 1P
-+ 2P <体言><NE:ORGANIZATION:Marines><rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/>
++ 2P <rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/><体言><NE:ORGANIZATION:Marines>
 Marines Marines Marines 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -174,7 +174,7 @@ Marines Marines Marines 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:O
 + 2D <体言>
 Devil Devil Devil 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <NE:ORGANIZATION:Devil　Dogs><rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/><体言>
++ 3D <rel type="=構" target="隊" sid="wiki00040662-00-01" id="2"/><NE:ORGANIZATION:Devil　Dogs><体言>
 Dogs Dogs Dogs 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL

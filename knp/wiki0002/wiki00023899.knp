@@ -18,23 +18,23 @@
 前期 ぜんき 前期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <体言><NE:LOCATION:日本><rel type="時間" target="前期" sid="wiki00023899-00-01" id="4"/><rel type="時間" mode="OR" target="幕末" sid="wiki00023899-00-01" id="2"/>
++ 10D <rel type="時間" target="前期" sid="wiki00023899-00-01" id="4"/><rel type="時間" mode="OR" target="幕末" sid="wiki00023899-00-01" id="2"/><体言><NE:LOCATION:日本>
 日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
-+ 8P <体言><rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00023899-00-01" id="5"/>
++ 8P <rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="日本" sid="wiki00023899-00-01" id="5"/><体言>
 武士 ぶし 武士 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
 + 8D <体言>
 政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10P <体言><rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="政治" sid="wiki00023899-00-01" id="7"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00023899-00-01" id="5"/>
++ 10P <rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="政治" sid="wiki00023899-00-01" id="7"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00023899-00-01" id="5"/><体言>
 家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 10D <体言><rel type="ノ" target="日本" sid="wiki00023899-00-01" id="5"/>
++ 10D <rel type="ノ" target="日本" sid="wiki00023899-00-01" id="5"/><体言>
 陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="隆盛" sid="wiki00023899-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="陸軍" sid="wiki00023899-00-01" id="9"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00023899-00-01" id="5"/><memo text="CO"/>
++ -1D <rel type="ガ" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="=構" target="隆盛" sid="wiki00023899-00-01" id="1"/><rel type="ノ？" target="陸軍" sid="wiki00023899-00-01" id="9"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00023899-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -43,7 +43,7 @@ EOS
 + 1D <rel type="=" target="西郷" sid="wiki00023899-00-01" id="0"/><体言>
 さいごう さいごう さいごう 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 13P <体言><NE:PERSON:さいごう　たかもり><rel type="=" target="隆盛" sid="wiki00023899-00-01" id="1"/>
++ 13P <rel type="=" target="隆盛" sid="wiki00023899-00-01" id="1"/><体言><NE:PERSON:さいごう　たかもり>
 たかもり たかもり たかもり 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
@@ -65,7 +65,7 @@ EOS
 + 8D <体言>
 1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 13P <体言><NE:DATE:1828年1月23日><rel type="=" target="7日" sid="wiki00023899-00-02" id="5"/>
++ 13P <rel type="=" target="7日" sid="wiki00023899-00-02" id="5"/><体言><NE:DATE:1828年1月23日>
 23 にじゅうさん 23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -83,10 +83,10 @@ EOS
 1877 せんはっぴゃくななじゅうなな/せんはっぴゃくななじゅうしち 1877 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 〉 〉 〉 特殊 1 括弧終 4 * 0 * 0 NIL
-+ 13D <体言><rel type="ノ" target="1877年" sid="wiki00023899-00-02" id="11"/><rel type="ノ" mode="？" target="10年" sid="wiki00023899-00-02" id="10"/>
++ 13D <rel type="ノ" target="1877年" sid="wiki00023899-00-02" id="11"/><rel type="ノ" mode="？" target="10年" sid="wiki00023899-00-02" id="10"/><体言>
 9 く 9 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><NE:DATE:9月24日><rel type="カラ" target="23日" sid="wiki00023899-00-02" id="8"/>
++ -1D <rel type="カラ" target="23日" sid="wiki00023899-00-02" id="8"/><体言><NE:DATE:9月24日>
 24 にじゅうよっ 24 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

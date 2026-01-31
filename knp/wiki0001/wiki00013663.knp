@@ -2,19 +2,19 @@
 * 4D
 + 1D <体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 6D <体言><rel type="ノ？" target="ラテン" sid="wiki00013663-00-01" id="0"/>
++ 6D <rel type="ノ？" target="ラテン" sid="wiki00013663-00-01" id="0"/><体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
 + 3D <体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <体言><rel type="ノ？" target="ラテン" sid="wiki00013663-00-01" id="2"/>
++ 4D <rel type="ノ？" target="ラテン" sid="wiki00013663-00-01" id="2"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><rel type="ヲ" target="語など" sid="wiki00013663-00-01" id="3"/><rel type="外の関係" target="ため" sid="wiki00013663-00-01" id="5"/>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="語など" sid="wiki00013663-00-01" id="3"/><rel type="外の関係" target="ため" sid="wiki00013663-00-01" id="5"/><用言:動><時制:非過去>
 表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
@@ -22,7 +22,7 @@
 ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="ため" sid="wiki00013663-00-01" id="5"/><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/>
++ -1D <rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="修飾" target="ため" sid="wiki00013663-00-01" id="5"/><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 アルファベット あるふぁべっと アルファベット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -35,9 +35,9 @@ EOS
 もじ もじ もじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D <体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0><rel type="=" target="ラテン" sid="wiki00013663-00-01" id="0"/>
++ 3D <rel type="=" target="ラテン" sid="wiki00013663-00-01" id="0"/><体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=" target="アルファベット" sid="wiki00013663-00-01" id="6"/><rel type="=" mode="AND" target="文字" sid="wiki00013663-00-01" id="1"/>
++ -1D <rel type="=" target="アルファベット" sid="wiki00013663-00-01" id="6"/><rel type="=" mode="AND" target="文字" sid="wiki00013663-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 アルファベット あるふぁべっと アルファベット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013663-00-03 括弧始:（ 括弧終:） 括弧位置:46 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2026/01/07 MEMO:
@@ -46,35 +46,35 @@ EOS
 それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <体言><rel type="ノ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="修飾" target="それぞれ" sid="wiki00013663-00-03" id="0"/>
++ 4D <rel type="ノ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="修飾" target="それぞれ" sid="wiki00013663-00-03" id="0"/><体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3P <体言><rel type="ノ？" target="語" sid="wiki00013663-00-01" id="3"/>
++ 3P <rel type="ノ？" target="語" sid="wiki00013663-00-01" id="3"/><体言>
 子音 しいん 子音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 か か か 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <体言><rel type="ノ？" target="語" sid="wiki00013663-00-01" id="3"/>
++ 4D <rel type="ノ？" target="語" sid="wiki00013663-00-01" id="3"/><体言>
 母音 ぼいん 母音 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="文字" sid="wiki00013663-00-03" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="子音" sid="wiki00013663-00-03" id="2"/><rel type="ヲ" mode="OR" target="母音" sid="wiki00013663-00-03" id="3"/>
++ -1D <rel type="ガ" target="文字" sid="wiki00013663-00-03" id="1"/><rel type="ヲ" target="子音" sid="wiki00013663-00-03" id="2"/><rel type="ヲ" mode="OR" target="母音" sid="wiki00013663-00-03" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
 表す あらわす 表す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00013663-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/07 MEMO:
 * 1P
 + 1D <体言><NE:OPTIONAL:ローマ><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT,NONE:0>
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single><NE:OPTIONAL:single>
-+ 2P <体言><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ノ？" target="ローマ" sid="wiki00013663-01" id="0"/>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2P <rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ノ？" target="ローマ" sid="wiki00013663-01" id="0"/><体言>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><NE:OPTIONAL:ローマ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 3D <rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><体言><NE:OPTIONAL:ローマ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ローマ字 ろーまじ ローマ字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ト" target="文字" sid="wiki00013663-01" id="1"/><rel type="ト" mode="AND" target="ローマ字" sid="wiki00013663-01" id="2"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ト" target="文字" sid="wiki00013663-01" id="1"/><rel type="ト" mode="AND" target="ローマ字" sid="wiki00013663-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -84,31 +84,31 @@ EOS
 + 3D
 元来 がんらい 元来 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <体言><rel type="=" target="ラテン" sid="wiki00013663-00-01" id="2"/><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 2D <rel type="=" target="ラテン" sid="wiki00013663-00-01" id="2"/><体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 3D <rel type="=" target="語" sid="wiki00013663-00-01" id="3"/><体言><rel type="ノ？" target="ラテン" sid="wiki00013663-02" id="1"/>
++ 3D <rel type="=" target="語" sid="wiki00013663-00-01" id="3"/><rel type="ノ？" target="ラテン" sid="wiki00013663-02" id="1"/><体言>
 語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 9P <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ノ？" target="語" sid="wiki00013663-02" id="2"/><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="修飾" target="元来" sid="wiki00013663-02" id="0"/>
++ 9P <rel type="ガ" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="ノ？" target="語" sid="wiki00013663-02" id="2"/><rel type="=構" target="文字" sid="wiki00013663-00-01" id="1"/><rel type="修飾" target="元来" sid="wiki00013663-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 文字 もじ 文字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 6D <体言><NE:DATE:古代>
 古代 こだい 古代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
-+ 6D <体言><rel type="=" target="ラテン" sid="wiki00013663-02" id="1"/><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
++ 6D <rel type="=" target="ラテン" sid="wiki00013663-02" id="1"/><体言><NE:OPTIONAL:ラテン><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ラテン らてん ラテン 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 8P <体言><rel type="ノ？" target="ラテン" sid="wiki00013663-02" id="5"/><rel type="修飾" target="古代" sid="wiki00013663-02" id="4"/><memo text="広義のローマ人"/>
++ 8P <rel type="ノ？" target="ラテン" sid="wiki00013663-02" id="5"/><rel type="修飾" target="古代" sid="wiki00013663-02" id="4"/><memo text="広義のローマ人"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 8D <rel type="=" target="ローマ" sid="wiki00013663-01" id="0"/><体言><NE:OPTIONAL:ローマ><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
 ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 9D <体言><rel type="ノ？" target="ローマ" sid="wiki00013663-02" id="7"/><rel type="=≒" target="人" sid="wiki00013663-02" id="6"/>
++ 9D <rel type="ノ？" target="ローマ" sid="wiki00013663-02" id="7"/><rel type="=≒" target="人" sid="wiki00013663-02" id="6"/><体言>
 人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="人" sid="wiki00013663-02" id="8"/><rel type="ガ" mode="AND" target="人" sid="wiki00013663-02" id="6"/><rel type="ヲ" target="文字" sid="wiki00013663-00-01" id="1"/>
++ -1D <rel type="ガ" target="人" sid="wiki00013663-02" id="8"/><rel type="ガ" mode="AND" target="人" sid="wiki00013663-02" id="6"/><rel type="ヲ" target="文字" sid="wiki00013663-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
 用いた もちいた 用いる 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

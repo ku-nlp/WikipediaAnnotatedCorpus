@@ -2,7 +2,7 @@
 * 7D
 + 1D <体言>
 キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="キャラクター" sid="wiki00047072-00-01" id="0"/><体言><非用言格解析:動><rel type="修飾" target="キャラクター" sid="wiki00047072-00-01" id="0"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="キャラクター" sid="wiki00047072-00-01" id="0"/><rel type="修飾" target="キャラクター" sid="wiki00047072-00-01" id="0"/><体言><非用言格解析:動>
 デザイン でざいん デザイン 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -16,18 +16,18 @@
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 5D <体言>
 コンピュータ こんぴゅーた コンピュータ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <体言><rel type="修飾" target="コンピュータ" sid="wiki00047072-00-01" id="4"/>
++ 6D <rel type="修飾" target="コンピュータ" sid="wiki00047072-00-01" id="4"/><体言>
 ゲーム げーむ ゲーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="ガ" target="人物" sid="wiki00047072-00-01" id="8"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="ゲームなど" sid="wiki00047072-00-01" id="5"/><rel type="ニ" mode="AND" target="映画" sid="wiki00047072-00-01" id="3"/><rel type="ニ" mode="AND" target="アニメ" sid="wiki00047072-00-01" id="2"/>
++ 8D <rel type="ガ" target="人物" sid="wiki00047072-00-01" id="8"/><rel type="ニ" target="ゲームなど" sid="wiki00047072-00-01" id="5"/><rel type="ニ" mode="AND" target="映画" sid="wiki00047072-00-01" id="3"/><rel type="ニ" mode="AND" target="アニメ" sid="wiki00047072-00-01" id="2"/><用言:動><時制:非過去><節-主辞>
 登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 8D <rel type="ガ" target="人物" sid="wiki00047072-00-01" id="8"/><体言><非用言格解析:動><rel type="ニ" target="アニメ" sid="wiki00047072-00-01" id="2"/><rel type="ニ" mode="AND" target="映画" sid="wiki00047072-00-01" id="3"/><rel type="ニ" mode="AND" target="ゲームなど" sid="wiki00047072-00-01" id="5"/><rel type="=" target="登場する" sid="wiki00047072-00-01" id="6"/>
++ 8D <rel type="ガ" target="人物" sid="wiki00047072-00-01" id="8"/><rel type="ニ" target="アニメ" sid="wiki00047072-00-01" id="2"/><rel type="ニ" mode="AND" target="映画" sid="wiki00047072-00-01" id="3"/><rel type="ニ" mode="AND" target="ゲームなど" sid="wiki00047072-00-01" id="5"/><rel type="=" target="登場する" sid="wiki00047072-00-01" id="6"/><体言><非用言格解析:動>
 登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="修飾" target="登場" sid="wiki00047072-00-01" id="7"/><rel type="=" target="キャラクター" sid="wiki00047072-00-01" id="0"/>
++ 10D <rel type="修飾" target="登場" sid="wiki00047072-00-01" id="7"/><rel type="=" target="キャラクター" sid="wiki00047072-00-01" id="0"/><体言>
 人物 じんぶつ 人物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5P
@@ -35,15 +35,15 @@
 外見 がいけん 外見 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ヲ" target="人物" sid="wiki00047072-00-01" id="8"/><体言><非用言格解析:動><rel type="ノ" target="人物" sid="wiki00047072-00-01" id="8"/><rel type="ガ" target="不特定:人"/>
++ 11D <rel type="ヲ" target="人物" sid="wiki00047072-00-01" id="8"/><rel type="ノ" target="人物" sid="wiki00047072-00-01" id="8"/><rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
 イメージ いめーじ イメージ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="外見" sid="wiki00047072-00-01" id="9"/><rel type="ヲ" mode="AND" target="イメージ" sid="wiki00047072-00-01" id="10"/><rel type="外の関係" target="こと" sid="wiki00047072-00-01" id="12"/>
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="外見" sid="wiki00047072-00-01" id="9"/><rel type="ヲ" mode="AND" target="イメージ" sid="wiki00047072-00-01" id="10"/><rel type="外の関係" target="こと" sid="wiki00047072-00-01" id="12"/><用言:動><時制:非過去><節-主辞>
 デザイン でざいん デザイン 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="デザイン" sid="wiki00047072-00-01" id="1"/><用言:判><体言><時制:非過去><節-区切><rel type="=構" target="デザイン" sid="wiki00047072-00-01" id="1"/><memo text="CO"/><rel type="トイウ" target="デザインする" sid="wiki00047072-00-01" id="11"/>
++ -1D <rel type="ガ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="=構" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="トイウ" target="デザインする" sid="wiki00047072-00-01" id="11"/><memo text="CO"/><用言:判><体言><時制:非過去><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -54,10 +54,10 @@ EOS
 EOS
 # S-ID:wiki00047072-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2023/11/27 MEMO:
 * 3D
-+ 3D <rel type="ガ" target="不特定:人"/><用言:動><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="ト" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="ト" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="ト" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="ト" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/><用言:動>
 略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * 2P
-+ 2P <体言><rel type="=構" target="デザイン" sid="wiki00047072-00-01" id="1"/>
++ 2P <rel type="=構" target="デザイン" sid="wiki00047072-00-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 キャラデザ きゃらでざ キャラデザ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -69,7 +69,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="キャラデ" sid="wiki00047072-01" id="2"/><rel type="ト" mode="AND" target="キャラデザ" sid="wiki00047072-01" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="ト" target="キャラデ" sid="wiki00047072-01" id="2"/><rel type="ト" mode="AND" target="キャラデザ" sid="wiki00047072-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 称する しょうする 称する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -82,13 +82,13 @@ EOS
 + 2D
 その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 4D <体言><rel type="ノ？" target="デザイン" sid="wiki00047072-00-01" id="1"/>
++ 4D <rel type="ノ？" target="デザイン" sid="wiki00047072-00-01" id="1"/><体言>
 業務 ぎょうむ 業務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
 + 4D <rel type="ガ" target="者" sid="wiki00047072-02" id="4"/><rel type="ヲ" target="業務" sid="wiki00047072-02" id="2"/><体言><非用言格解析:動>
 担当 たんとう 担当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <体言><rel type="ノ？" target="担当" sid="wiki00047072-02" id="3"/><rel type="ノ？" mode="AND" target="業務" sid="wiki00047072-02" id="2"/>
++ 5D <rel type="ノ？" target="担当" sid="wiki00047072-02" id="3"/><rel type="ノ？" mode="AND" target="業務" sid="wiki00047072-02" id="2"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
@@ -99,18 +99,18 @@ EOS
 + 7D <rel type="=" target="キャラクター" sid="wiki00047072-00-01" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="者" sid="wiki00047072-02" id="4"/><rel type="=構" mode="AND" target="こと" sid="wiki00047072-02" id="5"/><rel type="修飾" target="キャラクター" sid="wiki00047072-02" id="6"/>
++ 8D <rel type="=構" target="者" sid="wiki00047072-02" id="4"/><rel type="=構" mode="AND" target="こと" sid="wiki00047072-02" id="5"/><rel type="修飾" target="キャラクター" sid="wiki00047072-02" id="6"/><体言>
 デザイナー でざいなー デザイナー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00047072-02" id="5"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="デザイナー" sid="wiki00047072-02" id="7"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="こと" sid="wiki00047072-02" id="5"/><rel type="ト" target="デザイナー" sid="wiki00047072-02" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 称する しょうする 称する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00047072-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2024/04/01 MEMO:
 * 1D
-+ 1D <体言><rel type="=" target="キャラクター" sid="wiki00047072-02" id="6"/>
++ 1D <rel type="=" target="キャラクター" sid="wiki00047072-02" id="6"/><体言>
 キャラクター きゃらくたー キャラクター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 2D <rel type="=" target="デザイナー" sid="wiki00047072-02" id="7"/><体言>
 デザイナー でざいなー デザイナー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
@@ -120,15 +120,15 @@ EOS
 ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 4D <体言><非用言格解析:動><rel type="ガ" target="著者"/><rel type="ヲ" target="略称" sid="wiki00047072-03" id="4"/>
++ 4D <rel type="ガ" target="著者"/><rel type="ヲ" target="略称" sid="wiki00047072-03" id="4"/><体言><非用言格解析:動>
 前述 ぜんじゅつ 前述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <体言><非用言格解析:動><rel type="=≒" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="=≒" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/><rel type="修飾" target="前述" sid="wiki00047072-03" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="ト" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="ト" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/>
++ 5D <rel type="=≒" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="=≒" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/><rel type="修飾" target="前述" sid="wiki00047072-03" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="デザイン" sid="wiki00047072-00-01" id="1"/><rel type="ト" target="キャラデザ" sid="wiki00047072-01" id="1"/><rel type="ト" mode="AND" target="キャラデ" sid="wiki00047072-01" id="2"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="略称" sid="wiki00047072-03" id="4"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニツイテ" target="デザイナー" sid="wiki00047072-03" id="1"/>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="略称" sid="wiki00047072-03" id="4"/><rel type="ニツイテ" target="デザイナー" sid="wiki00047072-03" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
 用いる もちいる 用いる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL

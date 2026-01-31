@@ -4,7 +4,7 @@
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 3D <体言>
 ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/>
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="？" target="不特定:状況"/><体言><非用言格解析:動>
 評議 ひょうぎ 評議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 + 10D <体言><NE:ORGANIZATION:世界ボクシング評議会>
 会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
@@ -13,21 +13,21 @@
 * 2D
 + 5D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="修飾" target="プロ" sid="wiki00028678-00-01" id="4"/><rel type="=" target="ボクシング" sid="wiki00028678-00-01" id="1"/>
++ 9D <rel type="修飾" target="プロ" sid="wiki00028678-00-01" id="4"/><rel type="=" target="ボクシング" sid="wiki00028678-00-01" id="1"/><体言>
 ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
 + 7D <rel type="=" target="世界" sid="wiki00028678-00-01" id="0"/><体言>
 世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ノ" target="ボクシング" sid="wiki00028678-00-01" id="5"/><体言><rel type="ノ？" target="世界" sid="wiki00028678-00-01" id="6"/>
++ 8D <rel type="ノ" target="ボクシング" sid="wiki00028678-00-01" id="5"/><rel type="ノ？" target="世界" sid="wiki00028678-00-01" id="6"/><体言>
 王座 おうざ 王座 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 9D <rel type="ガ" target="団体" sid="wiki00028678-00-01" id="9"/><rel type="ヲ" target="王座" sid="wiki00028678-00-01" id="7"/><体言><非用言格解析:動>
 認定 にんてい 認定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=≒" target="会" sid="wiki00028678-00-01" id="3"/>
++ 10D <rel type="=≒" target="会" sid="wiki00028678-00-01" id="3"/><体言>
 団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会" sid="wiki00028678-00-01" id="3"/><rel type="ノ" target="団体" sid="wiki00028678-00-01" id="9"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="会" sid="wiki00028678-00-01" id="3"/><rel type="=構" mode="AND" target="団体" sid="wiki00028678-00-01" id="9"/>
++ -1D <rel type="ガ" target="会" sid="wiki00028678-00-01" id="3"/><rel type="ノ" target="団体" sid="wiki00028678-00-01" id="9"/><rel type="=構" target="会" sid="wiki00028678-00-01" id="3"/><rel type="=構" mode="AND" target="団体" sid="wiki00028678-00-01" id="9"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -38,15 +38,15 @@ EOS
 せかい せかい せかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 + 3D <rel type="=" target="ボクシング" sid="wiki00028678-00-01" id="1"/><体言>
 ボクシング ぼくしんぐ ボクシング 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><非用言格解析:動><rel type="=" target="評議" sid="wiki00028678-00-01" id="2"/>
++ 3D <rel type="=" target="評議" sid="wiki00028678-00-01" id="2"/><体言><非用言格解析:動>
 ひょうぎ ひょうぎ ひょうぎ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 4P <体言><NE:ORGANIZATION:せかいボクシングひょうぎかい><rel type="=" target="会" sid="wiki00028678-00-01" id="3"/>
++ 4P <rel type="=" target="会" sid="wiki00028678-00-01" id="3"/><体言><NE:ORGANIZATION:せかいボクシングひょうぎかい>
 かい かい かい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <体言><NE:ORGANIZATION:WBC><rel type="=" target="会" sid="wiki00028678-00-01" id="3"/>
++ -1D <rel type="=" target="会" sid="wiki00028678-00-01" id="3"/><体言><NE:ORGANIZATION:WBC>
 WBC WBC WBC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00028678-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/07/10 MEMO:
@@ -61,7 +61,7 @@ EOS
 * 3D
 + 3D <rel type="=" target="メキシコ" sid="wiki00028678-01" id="1"/><体言>
 メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4D <体言><NE:LOCATION:メキシコシティ><rel type="ノ？" target="メキシコ" sid="wiki00028678-01" id="1"/>
++ 4D <rel type="ノ？" target="メキシコ" sid="wiki00028678-01" id="1"/><体言><NE:LOCATION:メキシコシティ>
 シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D

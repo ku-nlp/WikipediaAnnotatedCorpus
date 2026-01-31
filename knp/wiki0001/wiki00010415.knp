@@ -9,7 +9,7 @@
 + 3D <体言>
 チャールズ ちゃーるず チャールズ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 7D <体言><NE:PERSON:アーサー・チャールズ・クラーク><rel type="修飾" target="サー" sid="wiki00010415-00-01" id="0"/>
++ 7D <rel type="修飾" target="サー" sid="wiki00010415-00-01" id="0"/><体言><NE:PERSON:アーサー・チャールズ・クラーク>
 クラーク くらーく クラーク 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -22,7 +22,7 @@
 * -1D
 + 7D <体言>
 SF SF SF 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="出身" sid="wiki00010415-00-01" id="5"/><rel type="修飾" target="SF" sid="wiki00010415-00-01" id="6"/><rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/><memo text="CO"/>
++ -1D <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="ノ？" target="出身" sid="wiki00010415-00-01" id="5"/><rel type="修飾" target="SF" sid="wiki00010415-00-01" id="6"/><rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 作家 さっか 作家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -47,7 +47,7 @@ EOS
 + 5D <体言>
 3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <NE:DATE:2008年3月19日><体言><rel type="カラ" target="16日" sid="wiki00010415-00-02" id="2"/>
++ -1D <rel type="カラ" target="16日" sid="wiki00010415-00-02" id="2"/><NE:DATE:2008年3月19日><体言>
 19 じゅうく 19 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
@@ -62,13 +62,13 @@ EOS
 代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
-+ 3D <体言><rel type="=" target="SF" sid="wiki00010415-00-01" id="6"/>
++ 3D <rel type="=" target="SF" sid="wiki00010415-00-01" id="6"/><体言>
 SF SF SF 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4D <体言><rel type="=≒" target="作家" sid="wiki00010415-00-01" id="7"/><rel type="=≒" mode="AND" target="クラーク" sid="wiki00010415-00-01" id="3"/>
++ 4D <rel type="=≒" target="作家" sid="wiki00010415-00-01" id="7"/><rel type="=≒" mode="AND" target="クラーク" sid="wiki00010415-00-01" id="3"/><体言>
 作家 さっか 作家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 9P <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="ノ" target="作家" sid="wiki00010415-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="=構" mode="AND" target="作家" sid="wiki00010415-01" id="3"/>
++ 9P <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="ノ" target="作家" sid="wiki00010415-01" id="3"/><rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="=構" mode="AND" target="作家" sid="wiki00010415-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 り 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
@@ -76,9 +76,9 @@ SF SF SF 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 5D
 + 6D <体言>
 科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ガ" target="者" sid="wiki00010415-01" id="7"/><rel type="ヲ" target="科学" sid="wiki00010415-01" id="5"/><体言><非用言格解析:動><rel type="ニ" target="不特定:人"/>
++ 7D <rel type="ガ" target="者" sid="wiki00010415-01" id="7"/><rel type="ヲ" target="科学" sid="wiki00010415-01" id="5"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
 解説 かいせつ 解説 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/>
++ 8D <rel type="=構" target="クラーク" sid="wiki00010415-00-01" id="3"/><体言>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -86,7 +86,7 @@ SF SF SF 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="トシテ" target="者" sid="wiki00010415-01" id="7"/>
++ -1D <rel type="ガ" target="クラーク" sid="wiki00010415-00-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="者" sid="wiki00010415-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切>
 知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL

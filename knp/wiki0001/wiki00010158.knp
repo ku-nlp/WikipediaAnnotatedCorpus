@@ -2,9 +2,9 @@
 * 5D
 + 1D <体言>
 蒸気 じょうき 蒸気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="ノ？" target="蒸気" sid="wiki00010158-00-01" id="0"/>
++ 2D <rel type="ノ？" target="蒸気" sid="wiki00010158-00-01" id="0"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="ノ？" target="機関" sid="wiki00010158-00-01" id="1"/>
++ 9D <rel type="ノ？" target="機関" sid="wiki00010158-00-01" id="1"/><体言>
 車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -12,24 +12,24 @@
 * 3D
 + 4D <rel type="=" target="蒸気" sid="wiki00010158-00-01" id="0"/><体言>
 蒸気 じょうき 蒸気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="=" target="機関" sid="wiki00010158-00-01" id="1"/><体言><rel type="ノ？" target="蒸気" sid="wiki00010158-00-01" id="3"/>
++ 6D <rel type="=" target="機関" sid="wiki00010158-00-01" id="1"/><rel type="ノ？" target="蒸気" sid="wiki00010158-00-01" id="3"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <体言><rel type="ノ" target="車" sid="wiki00010158-00-01" id="8"/>
++ 6D <rel type="ノ" target="車" sid="wiki00010158-00-01" id="8"/><体言>
 動力 どうりょく 動力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="車" sid="wiki00010158-00-01" id="8"/><rel type="ヲ" target="機関" sid="wiki00010158-00-01" id="4"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="動力" sid="wiki00010158-00-01" id="5"/>
++ 8D <rel type="ガ" target="車" sid="wiki00010158-00-01" id="8"/><rel type="ヲ" target="機関" sid="wiki00010158-00-01" id="4"/><rel type="ト" target="動力" sid="wiki00010158-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 8D <体言><rel type="=≒" target="機関" sid="wiki00010158-00-01" id="4"/>
++ 8D <rel type="=≒" target="機関" sid="wiki00010158-00-01" id="4"/><体言>
 機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <体言><rel type="=構" target="車" sid="wiki00010158-00-01" id="2"/><rel type="ノ？" target="機関" sid="wiki00010158-00-01" id="7"/>
++ 9D <rel type="=構" target="車" sid="wiki00010158-00-01" id="2"/><rel type="ノ？" target="機関" sid="wiki00010158-00-01" id="7"/><体言>
 車 しゃ 車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="車" sid="wiki00010158-00-01" id="2"/><rel type="ノ" target="車" sid="wiki00010158-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="車" sid="wiki00010158-00-01" id="2"/>
++ -1D <rel type="ガ" target="車" sid="wiki00010158-00-01" id="2"/><rel type="ノ" target="車" sid="wiki00010158-00-01" id="8"/><rel type="=構" target="車" sid="wiki00010158-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

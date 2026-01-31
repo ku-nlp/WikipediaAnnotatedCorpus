@@ -15,9 +15,9 @@ DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主�
 * -1D
 + 5D <体言>
 プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 6D <体言><rel type="修飾" target="プロ" sid="wiki00015869-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00015869-00-01" id="3"/><NE:OPTIONAL:プロ野球><NE-OPTIONAL:ORGANIZATION,NONE:0>
++ 6D <rel type="修飾" target="プロ" sid="wiki00015869-00-01" id="4"/><rel type="ノ？" target="日本" sid="wiki00015869-00-01" id="3"/><体言><NE:OPTIONAL:プロ野球><NE-OPTIONAL:ORGANIZATION,NONE:0>
 野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ -1D <rel type="ガ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="ノ？" target="日本" sid="wiki00015869-00-01" id="3"/><rel type="ノ？" mode="AND" target="野球" sid="wiki00015869-00-01" id="5"/><rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/>
++ -1D <rel type="ガ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00015869-00-01" id="3"/><rel type="ノ？" mode="AND" target="野球" sid="wiki00015869-00-01" id="5"/><rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 球団 きゅうだん 球団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -32,10 +32,10 @@ EOS
 + 3D <体言>
 エヌ えぬ エヌ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <体言><rel type="=" target="DeNA" sid="wiki00015869-00-01" id="1"/>
++ 4D <rel type="=" target="DeNA" sid="wiki00015869-00-01" id="1"/><体言>
 エー えー エー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <体言><rel type="=" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><NE:ORGANIZATION:よこはま　ディー・エヌ・エー　ベイスターズ>
++ -1D <rel type="=" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><体言><NE:ORGANIZATION:よこはま　ディー・エヌ・エー　ベイスターズ>
 ベイスターズ べいすたーず ベイスターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00015869-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/08/20 MEMO:
@@ -43,7 +43,7 @@ EOS
 + 1D <体言>
 セントラル せんとらる セントラル 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 2D <体言><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0><rel type="ノ？" target="野球" sid="wiki00015869-00-01" id="5"/><rel type="ノ？" mode="AND" target="セントラル" sid="wiki00015869-01" id="0"/>
++ 2D <rel type="ノ？" target="野球" sid="wiki00015869-00-01" id="5"/><rel type="ノ？" mode="AND" target="セントラル" sid="wiki00015869-01" id="0"/><体言><NE:OPTIONAL:セントラル・リーグ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
 リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -54,21 +54,21 @@ EOS
 EOS
 # S-ID:wiki00015869-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/11 MEMO:
 * 3D
-+ 3D <体言><非用言格解析:動><rel type="ノ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ト" target="横浜" sid="wiki00015869-02" id="1"/><rel type="ト" mode="AND" target="DeNA" sid="wiki00015869-02" id="2"/><rel type="ト" mode="AND" target="ベイスターズ" sid="wiki00015869-02" id="3"/>
++ 3D <rel type="ノ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ト" target="横浜" sid="wiki00015869-02" id="1"/><rel type="ト" mode="AND" target="DeNA" sid="wiki00015869-02" id="2"/><rel type="ト" mode="AND" target="ベイスターズ" sid="wiki00015869-02" id="3"/><体言><非用言格解析:動>
 略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <体言><NE:ORGANIZATION:横浜><rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/>
++ 2P <rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><体言><NE:ORGANIZATION:横浜>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 横浜 よこはま 横浜 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3P
-+ 3P <体言><NE:ORGANIZATION:DeNA><rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/>
++ 3P <rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><体言><NE:ORGANIZATION:DeNA>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 DeNA でぃーえぬえー DeNA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00015869-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><NE:ORGANIZATION:ベイスターズ><rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/>
++ -1D <rel type="ガ" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" target="略称" sid="wiki00015869-02" id="0"/><rel type="=構" mode="AND" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:ベイスターズ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ベイスターズ べいすたーず ベイスターズ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -80,12 +80,12 @@ EOS
 また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <体言><NE:ORGANIZATION:ハマ><rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="=≒" mode="AND" target="略称" sid="wiki00015869-02" id="0"/>
++ 2P <rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="=≒" mode="AND" target="略称" sid="wiki00015869-02" id="0"/><体言><NE:ORGANIZATION:ハマ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ハマ はま ハマ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 * 3D
-+ 3D <体言><NE:ORGANIZATION:ベイ><rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="=≒" mode="AND" target="略称" sid="wiki00015869-02" id="0"/>
++ 3D <rel type="=構" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="=≒" mode="AND" target="略称" sid="wiki00015869-02" id="0"/><体言><NE:ORGANIZATION:ベイ>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 ベイ べい ベイ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
@@ -93,7 +93,7 @@ EOS
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="ハマ" sid="wiki00015869-03" id="1"/><rel type="ト" mode="AND" target="ベイ" sid="wiki00015869-03" id="2"/>
++ -1D <rel type="ガ" target="ベイスターズ" sid="wiki00015869-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ハマ" sid="wiki00015869-03" id="1"/><rel type="ト" mode="AND" target="ベイ" sid="wiki00015869-03" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

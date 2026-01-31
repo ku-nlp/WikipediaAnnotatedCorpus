@@ -4,7 +4,7 @@
 農作物 のうさくぶつ/のうさくもつ 農作物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 8D <体言><rel type="=" target="農作物" sid="wiki00025715-00-01" id="0"/>
++ 8D <rel type="=" target="農作物" sid="wiki00025715-00-01" id="0"/><体言>
 作物 さくもつ 作物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -19,18 +19,18 @@
 田畑 たはた/でんぱた/でんばた 田畑 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="田畑" sid="wiki00025715-00-01" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="植物" sid="wiki00025715-00-01" id="6"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="田畑" sid="wiki00025715-00-01" id="3"/><rel type="ヲ" target="植物" sid="wiki00025715-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
 つくる つくる つくる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="植物" sid="wiki00025715-00-01" id="6"/><体言><非用言格解析:動><rel type="=" target="つくる" sid="wiki00025715-00-01" id="4"/>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="植物" sid="wiki00025715-00-01" id="6"/><rel type="=" target="つくる" sid="wiki00025715-00-01" id="4"/><体言><非用言格解析:動>
 栽培 さいばい 栽培 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="修飾" target="栽培" sid="wiki00025715-00-01" id="5"/><rel type="トイウ" target="つくる" sid="wiki00025715-00-01" id="4"/><rel type="=構" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="=構" mode="AND" target="作物" sid="wiki00025715-00-01" id="1"/>
++ 7D <rel type="修飾" target="栽培" sid="wiki00025715-00-01" id="5"/><rel type="トイウ" target="つくる" sid="wiki00025715-00-01" id="4"/><rel type="=構" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="=構" mode="AND" target="作物" sid="wiki00025715-00-01" id="1"/><体言>
 植物 しょくぶつ 植物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ノ" target="植物" sid="wiki00025715-00-01" id="6"/><体言><rel type="=構" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="=構" mode="AND" target="作物" sid="wiki00025715-00-01" id="1"/>
++ 8D <rel type="ノ" target="植物" sid="wiki00025715-00-01" id="6"/><rel type="=構" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="=構" mode="AND" target="作物" sid="wiki00025715-00-01" id="1"/><体言>
 全般 ぜんぱん 全般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="全般" sid="wiki00025715-00-01" id="7"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="作物" sid="wiki00025715-00-01" id="1"/><rel type="ガ" mode="AND" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="ニ" target="広義" sid="wiki00025715-00-01" id="2"/><rel type="ニ" mode="？" target="なし"/>
++ -1D <rel type="ヲ" target="全般" sid="wiki00025715-00-01" id="7"/><rel type="ガ" target="作物" sid="wiki00025715-00-01" id="1"/><rel type="ガ" mode="AND" target="農作物" sid="wiki00025715-00-01" id="0"/><rel type="ニ" target="広義" sid="wiki00025715-00-01" id="2"/><rel type="ニ" mode="？" target="なし"/><用言:動><時制:非過去><節-主辞><節-区切>
 指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -40,11 +40,11 @@ EOS
 のうさくぶつ のうさくぶつ のうさくぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <体言><rel type="=" target="農作物" sid="wiki00025715-00-01" id="0"/>
++ -1D <rel type="=" target="農作物" sid="wiki00025715-00-01" id="0"/><体言>
 のうさくもつ のうさくもつ のうさくもつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00025715-00-03 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ -1D <体言><rel type="=" target="作物" sid="wiki00025715-00-01" id="1"/>
++ -1D <rel type="=" target="作物" sid="wiki00025715-00-01" id="1"/><体言>
 さくもつ さくもつ さくもつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

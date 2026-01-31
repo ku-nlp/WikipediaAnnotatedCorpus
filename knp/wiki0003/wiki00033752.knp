@@ -1,10 +1,10 @@
 # S-ID:wiki00033752-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/04/30 MEMO:
 * 3D
-+ 2D <体言><rel type="ノ？" target="台東区" sid="wiki00033752-00-01" id="4"/>
++ 2D <rel type="ノ？" target="台東区" sid="wiki00033752-00-01" id="4"/><体言>
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 + 2D <体言>
 恩賜 おんし 恩賜 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 6D <体言><NE:LOCATION:上野恩賜公園><rel type="ノ？" target="台東区" sid="wiki00033752-00-01" id="4"/>
++ 6D <rel type="ノ？" target="台東区" sid="wiki00033752-00-01" id="4"/><体言><NE:LOCATION:上野恩賜公園>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -12,7 +12,7 @@
 + 4D <体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <体言><NE:LOCATION:東京都台東区><rel type="ノ？" target="東京都" sid="wiki00033752-00-01" id="3"/>
++ 5D <rel type="ノ？" target="東京都" sid="wiki00033752-00-01" id="3"/><体言><NE:LOCATION:東京都台東区>
 台東 たいとう 台東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -20,7 +20,7 @@
 + 6D <rel type="ガ" target="公園" sid="wiki00033752-00-01" id="6"/><rel type="ニ" target="台東区" sid="wiki00033752-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><memo text="CO"/><rel type="修飾" target="ある" sid="wiki00033752-00-01" id="5"/>
++ -1D <rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="修飾" target="ある" sid="wiki00033752-00-01" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -28,7 +28,7 @@ EOS
 * -1D
 + 2D <rel type="=" target="上野" sid="wiki00033752-00-01" id="0"/><体言>
 うえの うえの うえの 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言><rel type="=" target="恩賜" sid="wiki00033752-00-01" id="1"/>
++ 2D <rel type="=" target="恩賜" sid="wiki00033752-00-01" id="1"/><体言>
 おんし おんし おんし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 + -1D <rel type="=" target="公園" sid="wiki00033752-00-01" id="2"/><NE:LOCATION:うえのおんしこうえん><体言>
 こうえん こうえん こうえん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
@@ -37,9 +37,9 @@ EOS
 * -1D
 + 2D <rel type="ノ" target="公園" sid="wiki00033752-00-01" id="2"/><体言>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言><rel type="=" target="上野" sid="wiki00033752-00-01" id="0"/>
++ 2D <rel type="=" target="上野" sid="wiki00033752-00-01" id="0"/><体言>
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <rel type="ガ" target="通称" sid="wiki00033752-01" id="0"/><NE:LOCATION:上野公園><rel type="=構" target="通称" sid="wiki00033752-01" id="0"/><rel type="=" mode="AND" target="公園" sid="wiki00033752-00-01" id="2"/><体言>
++ -1D <rel type="ガ" target="通称" sid="wiki00033752-01" id="0"/><rel type="=構" target="通称" sid="wiki00033752-01" id="0"/><rel type="=" mode="AND" target="公園" sid="wiki00033752-00-01" id="2"/><NE:LOCATION:上野公園><体言>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
@@ -50,13 +50,13 @@ EOS
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 2D
-+ 2D <体言><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ノ？" target="上野" sid="wiki00033752-02" id="0"/><NE:OPTIONAL:上野の森><NE-OPTIONAL:LOCATION,NONE:0>
++ 2D <rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ノ？" target="上野" sid="wiki00033752-02" id="0"/><体言><NE:OPTIONAL:上野の森><NE-OPTIONAL:LOCATION,NONE:0>
 森 もり 森 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 11P
-+ 16P <rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ト" target="森" sid="wiki00033752-02" id="1"/>
++ 16P <rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="森" sid="wiki00033752-02" id="1"/><用言:動><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -73,13 +73,13 @@ EOS
 舌 ぜつ 舌 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 8D <rel type="ノ" target="舌" sid="wiki00033752-02" id="6"/><体言>
 状 じょう 状 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <体言><rel type="=構" target="末端" sid="wiki00033752-02" id="5"/><rel type="修飾" target="状" sid="wiki00033752-02" id="7"/><rel type="修飾" mode="AND" target="末端" sid="wiki00033752-02" id="5"/>
++ 10D <rel type="=構" target="末端" sid="wiki00033752-02" id="5"/><rel type="修飾" target="状" sid="wiki00033752-02" id="7"/><rel type="修飾" mode="AND" target="末端" sid="wiki00033752-02" id="5"/><体言>
 台地 だいち 台地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 7D
 + 10D <rel type="=" target="上野" sid="wiki00033752-02" id="0"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 12D <体言><rel type="=構" target="台地" sid="wiki00033752-02" id="8"/><rel type="修飾" target="台地" sid="wiki00033752-02" id="8"/><NE:LOCATION:上野台>
++ 12D <rel type="=構" target="台地" sid="wiki00033752-02" id="8"/><rel type="修飾" target="台地" sid="wiki00033752-02" id="8"/><体言><NE:LOCATION:上野台>
 台 だい 台 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -88,11 +88,11 @@ EOS
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ガ" target="公園" sid="wiki00033752-02" id="11"/><rel type="ニ" target="台" sid="wiki00033752-02" id="10"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00033752-02" id="13"/>
++ 13D <rel type="ガ" target="公園" sid="wiki00033752-02" id="11"/><rel type="ニ" target="台" sid="wiki00033752-02" id="10"/><rel type="外の関係" target="こと" sid="wiki00033752-02" id="13"/><用言:動><時制:非過去><節-主辞>
 位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 11D
-+ 16D <体言><節-区切><rel type="トイウ" target="位置する" sid="wiki00033752-02" id="12"/>
++ 16D <rel type="トイウ" target="位置する" sid="wiki00033752-02" id="12"/><体言><節-区切>
 こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
@@ -101,13 +101,13 @@ EOS
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 11D
-+ 16D <体言><rel type="ノ？" target="上野" sid="wiki00033752-02" id="14"/><NE:OPTIONAL:上野の山><NE-OPTIONAL:LOCATION,NONE:0><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/>
++ 16D <rel type="ノ？" target="上野" sid="wiki00033752-02" id="14"/><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><体言><NE:OPTIONAL:上野の山><NE-OPTIONAL:LOCATION,NONE:0>
 山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="カラ" target="こと" sid="wiki00033752-02" id="13"/><rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ト" target="山" sid="wiki00033752-02" id="15"/>
++ -1D <rel type="ニ" target="不特定:人"/><rel type="カラ" target="こと" sid="wiki00033752-02" id="13"/><rel type="ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ト" target="山" sid="wiki00033752-02" id="15"/><用言:動><時制:非過去><節-主辞><節-区切>
 呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -118,7 +118,7 @@ EOS
 面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="面積" sid="wiki00033752-03" id="0"/><rel type="=構" target="面積" sid="wiki00033752-03" id="0"/><用言:判><体言><節-主辞><節-区切><時制:非過去><rel type="ノ" target="面積" sid="wiki00033752-03" id="0"/>
++ -1D <rel type="ガ" target="面積" sid="wiki00033752-03" id="0"/><rel type="=構" target="面積" sid="wiki00033752-03" id="0"/><rel type="ノ" target="面積" sid="wiki00033752-03" id="0"/><用言:判><体言><節-主辞><節-区切><時制:非過去>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
 53 ごじゅうさん 53 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 ha へくたーる ha 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
@@ -130,19 +130,19 @@ EOS
 + 2D <rel type="=" target="東京都" sid="wiki00033752-00-01" id="3"/><体言>
 東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
 建設 けんせつ 建設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言><NE:ORGANIZATION:東京都建設局><rel type="ノ？" target="東京都" sid="wiki00033752-04" id="0"/><rel type="ノ" target="建設" sid="wiki00033752-04" id="1"/>
++ 3D <rel type="ノ？" target="東京都" sid="wiki00033752-04" id="0"/><rel type="ノ" target="建設" sid="wiki00033752-04" id="1"/><体言><NE:ORGANIZATION:東京都建設局>
 局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="局" sid="wiki00033752-04" id="2"/><rel type="ヲ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ノ" target="局" sid="wiki00033752-04" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="判ガ" target="公園" sid="wiki00033752-00-01" id="2"/><memo text="CO"/><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/>
++ -1D <rel type="ガ" target="局" sid="wiki00033752-04" id="2"/><rel type="ヲ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="ノ" target="局" sid="wiki00033752-04" id="2"/><rel type="判ガ" target="公園" sid="wiki00033752-00-01" id="2"/><rel type="=構" target="公園" sid="wiki00033752-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033752-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/04/30 MEMO:
 * 5D
-+ 8D <体言><rel type="=" target="公園" sid="wiki00033752-00-01" id="2"/>
++ 8D <rel type="=" target="公園" sid="wiki00033752-00-01" id="2"/><体言>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -150,13 +150,13 @@ EOS
 * 2P
 + 2D <体言>
 博物 はくぶつ 博物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <体言><rel type="ノ？" target="博物" sid="wiki00033752-05" id="1"/>
++ 4P <rel type="ノ？" target="博物" sid="wiki00033752-05" id="1"/><体言>
 館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 4D <体言>
 動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <体言><rel type="ノ？" target="動物" sid="wiki00033752-05" id="3"/>
++ 7D <rel type="ノ？" target="動物" sid="wiki00033752-05" id="3"/><体言>
 園 えん 園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 等 とう 等 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
@@ -167,7 +167,7 @@ EOS
 * 5D
 + 7D <体言>
 文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <体言><非用言格解析:動><rel type="=≒" target="館" sid="wiki00033752-05" id="2"/><rel type="=≒" mode="AND" target="園" sid="wiki00033752-05" id="4"/><rel type="修飾" target="多く" sid="wiki00033752-05" id="5"/><rel type="修飾" mode="AND" target="文化" sid="wiki00033752-05" id="6"/>
++ 8D <rel type="=≒" target="館" sid="wiki00033752-05" id="2"/><rel type="=≒" mode="AND" target="園" sid="wiki00033752-05" id="4"/><rel type="修飾" target="多く" sid="wiki00033752-05" id="5"/><rel type="修飾" mode="AND" target="文化" sid="wiki00033752-05" id="6"/><体言><非用言格解析:動>
 施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
@@ -178,10 +178,10 @@ EOS
 EOS
 # S-ID:wiki00033752-06 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/30 MEMO:
 * 2D
-+ 1D <体言><rel type="=" target="上野" sid="wiki00033752-01" id="1"/>
++ 1D <rel type="=" target="上野" sid="wiki00033752-01" id="1"/><体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 上野 うえの 上野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 3D <体言><NE:LOCATION:上野公園><rel type="=≒" target="公園" sid="wiki00033752-01" id="2"/><rel type="ノ？" target="台東区" sid="wiki00033752-06" id="2"/>
++ 3D <rel type="=≒" target="公園" sid="wiki00033752-01" id="2"/><rel type="ノ？" target="台東区" sid="wiki00033752-06" id="2"/><体言><NE:LOCATION:上野公園>
 公園 こうえん 公園 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
@@ -191,7 +191,7 @@ EOS
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="公園" sid="wiki00033752-06" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="台東区" sid="wiki00033752-06" id="2"/><rel type="=構" target="公園" sid="wiki00033752-06" id="1"/>
++ -1D <rel type="ガ" target="公園" sid="wiki00033752-06" id="1"/><rel type="ノ？" target="台東区" sid="wiki00033752-06" id="2"/><rel type="=構" target="公園" sid="wiki00033752-06" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
 町名 ちょうめい 町名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL

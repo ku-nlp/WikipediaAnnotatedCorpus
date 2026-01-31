@@ -1,124 +1,124 @@
 # S-ID:wiki00024025-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/05/21 MEMO:
 * 4D
-+ 5D <memo text="laissez-faire"/>
-レッセフェール れっせふぇーる レッセフェール 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><memo text="laissez-faire"/>
+レッセフェール れっせふぇーる レッセフェール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 2D <NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 5D <rel type="ノ？" target="フランス" sid="wiki00024025-00" id="1"/><rel type="=≒" target="レッセフェール" sid="wiki00024025-00" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 5D <体言><rel type="ノ？" target="フランス" sid="wiki00024025-00" id="1"/><rel type="=≒" target="レッセフェール" sid="wiki00024025-00" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/>
++ 4D <体言><rel type="ガ" target="不特定:人"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-なす なす なす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
+なす なす なす 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="なす" sid="wiki00024025-00" id="3"/><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/>
-任せよ まかせよ 任せる 動詞 2 * 0 母音動詞 1 文語命令形 18 NIL
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="なす" sid="wiki00024025-00" id="3"/><用言:動><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/>
+任せよ まかせよ 任せる 動詞 2 * 0 母音動詞 1 文語命令形 18 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="トイウ" target="任せよ" sid="wiki00024025-00" id="4"/><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="デ" target="語" sid="wiki00024025-00" id="2"/><memo text="CO"/>
-意 い 意 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="トイウ" target="任せよ" sid="wiki00024025-00" id="4"/><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="デ" target="語" sid="wiki00024025-00" id="2"/>
+意 い 意 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024025-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/05/21 MEMO:
 * 2D
-+ 1D
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ニツイテ" target="経済" sid="wiki00024025-01" id="0"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="ニツイテ" target="経済" sid="wiki00024025-01" id="0"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-頻繁に ひんぱんに 頻繁だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 3D <用言:形><時制:非過去>
+頻繁に ひんぱんに 頻繁だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 14P
-+ 16P <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="学" sid="wiki00024025-01" id="1"/>
-用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 16P <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="デ" target="学" sid="wiki00024025-01" id="1"/>
+用い もちい 用いる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
 + 5D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 14D
-+ 16D <rel type="ノ" target="用いられており" sid="wiki00024025-01" id="3"/>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 16D <体言><rel type="ノ" target="用いられており" sid="wiki00024025-01" id="3"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 14D
++ 14D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 8P
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <体言>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D
-個人 こじん 個人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+個人 こじん 個人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="=" target="経済" sid="wiki00024025-01" id="0"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ガ" target="個人" sid="wiki00024025-01" id="8"/><rel type="ガ" mode="AND" target="企業" sid="wiki00024025-01" id="7"/><rel type="ヲメグッテ" target="経済" sid="wiki00024025-01" id="9"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="=" target="経済" sid="wiki00024025-01" id="0"/><体言>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><非用言格解析:動><rel type="ガ" target="個人" sid="wiki00024025-01" id="8"/><rel type="ガ" mode="AND" target="企業" sid="wiki00024025-01" id="7"/><rel type="ヲメグッテ" target="経済" sid="wiki00024025-01" id="9"/>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 14P <rel type="ガ" target="政府" sid="wiki00024025-01" id="6"/><rel type="ニ" target="活動" sid="wiki00024025-01" id="10"/>
-干渉 かんしょう 干渉 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14P <rel type="ガ" target="政府" sid="wiki00024025-01" id="6"/><rel type="ニ" target="活動" sid="wiki00024025-01" id="10"/><用言:動><否定表現><節-主辞><節-区切>
+干渉 かんしょう 干渉 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 せ せ する 動詞 2 * 0 サ変動詞 16 文語未然形 19 NIL
 ず ず ぬ 助動詞 5 * 0 助動詞ぬ型 27 基本連用形 4 NIL
 * 11D
-+ 13D
-市場 しじょう 市場 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+市場 しじょう 市場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 14D <rel type="ノ" target="市場" sid="wiki00024025-01" id="12"/>
-はたらき はたらき はたらき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <rel type="ノ" target="市場" sid="wiki00024025-01" id="12"/><体言>
+はたらき はたらき はたらき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 15D <rel type="ガ" target="政府" sid="wiki00024025-01" id="6"/><rel type="ニ" target="はたらき" sid="wiki00024025-01" id="13"/><rel type="外の関係" target="こと" sid="wiki00024025-01" id="15"/>
-任せる まかせる 任せる 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 15D <rel type="ガ" target="政府" sid="wiki00024025-01" id="6"/><rel type="ニ" target="はたらき" sid="wiki00024025-01" id="13"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00024025-01" id="15"/>
+任せる まかせる 任せる 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 14D
-+ 16D <rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="トイウ" target="干渉せず" sid="wiki00024025-01" id="11"/><rel type="トイウ" mode="AND" target="任せる" sid="wiki00024025-01" id="14"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 16D <体言><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="トイウ" target="干渉せず" sid="wiki00024025-01" id="11"/><rel type="トイウ" mode="AND" target="任せる" sid="wiki00024025-01" id="14"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ヲ" target="こと" sid="wiki00024025-01" id="15"/>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ヲ" target="こと" sid="wiki00024025-01" id="15"/><用言:動><時制:非過去><節-主辞><節-区切>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024025-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/21 MEMO:
 * 2D
-+ 1P <rel type="ガ" target="不特定:状況"/>
-自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 2D <rel type="=" target="任せる" sid="wiki00024025-01" id="14"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:状況"/>
-放任 ほうにん 放任 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4D <rel type="トイウ" target="放任" sid="wiki00024025-02-01" id="1"/><rel type="トイウ" mode="AND" target="自由" sid="wiki00024025-02-01" id="0"/><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/>
-主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <体言><非用言格解析:形><rel type="ガ" target="不特定:状況"/>
+自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 2D <体言><非用言格解析:動><rel type="=" target="任せる" sid="wiki00024025-01" id="14"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:状況"/>
+放任 ほうにん 放任 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言><rel type="トイウ" target="放任" sid="wiki00024025-02-01" id="1"/><rel type="トイウ" mode="AND" target="自由" sid="wiki00024025-02-01" id="0"/><rel type="=構" target="レッセフェール" sid="wiki00024025-00" id="0"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D
-一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL
++ 4D <体言>
+一般に いっぱんに 一般に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="主義" sid="wiki00024025-02-01" id="2"/>
-訳さ やくさ 訳す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ガ" target="レッセフェール" sid="wiki00024025-00" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="主義" sid="wiki00024025-02-01" id="2"/>
+訳さ やくさ 訳す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024025-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/21 MEMO:
 * -1D
-+ 1P <rel type="=" target="自由" sid="wiki00024025-02-01" id="0"/>
-じゆう じゆう じゆうだだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 2D <rel type="=" target="放任" sid="wiki00024025-02-01" id="1"/>
-ほうにん ほうにん ほうにん 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="主義" sid="wiki00024025-02-01" id="2"/>
-しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <体言><非用言格解析:形><rel type="=" target="自由" sid="wiki00024025-02-01" id="0"/>
+じゆう じゆう じゆうだだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 2D <体言><非用言格解析:動><rel type="=" target="放任" sid="wiki00024025-02-01" id="1"/>
+ほうにん ほうにん ほうにん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="主義" sid="wiki00024025-02-01" id="2"/><体言>
+しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

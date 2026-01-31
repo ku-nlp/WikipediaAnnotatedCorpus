@@ -1,174 +1,174 @@
 # S-ID:wiki00038368-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:88.00000 MOD:2025/05/14 MEMO:
 * 6D
-+ 1D <NE:OPTIONAL:ロマンシュ><NE-OPTIONAL:LOCATION,NONE:0>
-ロマンシュ ろまんしゅ ロマンシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 15D <rel type="ノ？" target="ロマンシュ" sid="wiki00038368-00-01" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><NE:OPTIONAL:ロマンシュ><NE-OPTIONAL:LOCATION,NONE:0>
+ロマンシュ ろまんしゅ ロマンシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 15D <体言><rel type="ノ？" target="ロマンシュ" sid="wiki00038368-00-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3P <NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3P <体言><NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 5D <rel type="ノ？" target="インド" sid="wiki00038368-00-01" id="2"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00038368-00-01" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="語" sid="wiki00038368-00-01" id="4"/>
-系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 5D <体言><rel type="ノ？" target="インド" sid="wiki00038368-00-01" id="2"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00038368-00-01" id="3"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="語" sid="wiki00038368-00-01" id="4"/><体言>
+系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <NE:OPTIONAL:ロマンス><NE-OPTIONAL:LOCATION,NONE:0>
-ロマンス ろまんす ロマンス 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 8D <rel type="ノ？" target="ロマンス" sid="wiki00038368-00-01" id="6"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="語" sid="wiki00038368-00-01" id="7"/><rel type="ノ" mode="AND" target="系統" sid="wiki00038368-00-01" id="5"/>
-派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><NE:OPTIONAL:ロマンス><NE-OPTIONAL:LOCATION,NONE:0>
+ロマンス ろまんす ロマンス 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 8D <体言><rel type="ノ？" target="ロマンス" sid="wiki00038368-00-01" id="6"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ノ" target="語" sid="wiki00038368-00-01" id="7"/><rel type="ノ" mode="AND" target="系統" sid="wiki00038368-00-01" id="5"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 13D <rel type="ガ" target="群" sid="wiki00038368-00-01" id="13"/><rel type="ニ" target="派" sid="wiki00038368-00-01" id="8"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 13D <rel type="ガ" target="群" sid="wiki00038368-00-01" id="13"/><rel type="ニ" target="派" sid="wiki00038368-00-01" id="8"/><用言:動><時制:非過去><節-主辞>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 11D <NE:OPTIONAL:レト><NE-OPTIONAL:LOCATION,NONE:0>
-レト れと レト 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 11D <体言><NE:OPTIONAL:レト><NE-OPTIONAL:LOCATION,NONE:0>
+レト れと レト 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <rel type="=" target="ロマンス" sid="wiki00038368-00-01" id="6"/><NE:OPTIONAL:ロマンス><NE-OPTIONAL:LOCATION,NONE:0>
-ロマンス ろまんす ロマンス 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 13D <rel type="ノ？" target="レト" sid="wiki00038368-00-01" id="10"/><rel type="ノ？" mode="AND" target="ロマンス" sid="wiki00038368-00-01" id="11"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="語" sid="wiki00038368-00-01" id="12"/>
-群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="=" target="ロマンス" sid="wiki00038368-00-01" id="6"/><体言><NE:OPTIONAL:ロマンス><NE-OPTIONAL:LOCATION,NONE:0>
+ロマンス ろまんす ロマンス 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 13D <体言><rel type="ノ？" target="レト" sid="wiki00038368-00-01" id="10"/><rel type="ノ？" mode="AND" target="ロマンス" sid="wiki00038368-00-01" id="11"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="語" sid="wiki00038368-00-01" id="12"/><体言>
+群 ぐん 群 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 15D <rel type="ガ" target="言語" sid="wiki00038368-00-01" id="15"/><rel type="ニ" target="群" sid="wiki00038368-00-01" id="13"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 15D <rel type="ガ" target="言語" sid="wiki00038368-00-01" id="15"/><rel type="ニ" target="群" sid="wiki00038368-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><rel type="=構" target="語" sid="wiki00038368-00-01" id="1"/><rel type="修飾" target="属する" sid="wiki00038368-00-01" id="14"/><memo text="CO"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="語" sid="wiki00038368-00-01" id="1"/><rel type="修飾" target="属する" sid="wiki00038368-00-01" id="14"/>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00038368-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/14 MEMO:
 * 1D
-+ 1D <rel type="=" target="ロマンシュ" sid="wiki00038368-00-01" id="0"/><NE:OPTIONAL:ロマンシュ><NE-OPTIONAL:LOCATION,NONE:0>
-ロマンシュ ろまんしゅ ロマンシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2D <rel type="=" target="語" sid="wiki00038368-00-01" id="1"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="ロマンシュ" sid="wiki00038368-00-01" id="0"/><体言><NE:OPTIONAL:ロマンシュ><NE-OPTIONAL:LOCATION,NONE:0>
+ロマンシュ ろまんしゅ ロマンシュ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2D <rel type="=" target="語" sid="wiki00038368-00-01" id="1"/><体言>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="ご" sid="wiki00038368-00-02" id="1"/><NE:OPTIONAL:rumantsch><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
-rumantsch rumantsch rumantsch 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ご" sid="wiki00038368-00-02" id="1"/><NE:OPTIONAL:rumantsch><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0><体言>
+rumantsch rumantsch rumantsch 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00038368-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/05/14 MEMO:
 * 1D
-+ 1D
-スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <NE:LOCATION:スイス連邦>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:スイス連邦>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 13D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 4D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 6P <rel type="ノ？" target="ドイツ" sid="wiki00038368-01-01" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 6P <体言><rel type="ノ？" target="ドイツ" sid="wiki00038368-01-01" id="3"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 6D <NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 8P <rel type="ノ？" target="フランス" sid="wiki00038368-01-01" id="5"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><NE:OPTIONAL:フランス><NE-OPTIONAL:LOCATION,NONE:0>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 8P <体言><rel type="ノ？" target="フランス" sid="wiki00038368-01-01" id="5"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D <NE:OPTIONAL:イタリア><NE-OPTIONAL:LOCATION,NONE:0>
-イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 9D <rel type="ノ？" target="イタリア" sid="wiki00038368-01-01" id="7"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:OPTIONAL:イタリア><NE-OPTIONAL:LOCATION,NONE:0>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 9D <体言><rel type="ノ？" target="イタリア" sid="wiki00038368-01-01" id="7"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><rel type="ト" target="語" sid="wiki00038368-01-01" id="4"/><rel type="ト" mode="AND" target="語" sid="wiki00038368-01-01" id="6"/><rel type="ト" mode="AND" target="語" sid="wiki00038368-01-01" id="8"/>
-ならび ならび ならぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
++ 13D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><用言:動><節-主辞><節-区切><rel type="ト" target="語" sid="wiki00038368-01-01" id="4"/><rel type="ト" mode="AND" target="語" sid="wiki00038368-01-01" id="6"/><rel type="ト" mode="AND" target="語" sid="wiki00038368-01-01" id="8"/>
+ならび ならび ならぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 11D
++ 11D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL
+4 よん 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="修飾" target="第4" sid="wiki00038368-01-01" id="10"/><rel type="ノ" target="連邦" sid="wiki00038368-01-01" id="1"/><rel type="=構" target="語" sid="wiki00038368-00-01" id="1"/>
-国語 こくご 国語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><rel type="修飾" target="第4" sid="wiki00038368-01-01" id="10"/><rel type="ノ" target="連邦" sid="wiki00038368-01-01" id="1"/><rel type="=構" target="語" sid="wiki00038368-00-01" id="1"/>
+国語 こくご 国語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 13D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 13D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="連邦" sid="wiki00038368-01-01" id="1"/><rel type="トシテ" target="国語" sid="wiki00038368-01-01" id="11"/>
-認め みとめ 認める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00038368-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニオイテ" target="連邦" sid="wiki00038368-01-01" id="1"/><rel type="トシテ" target="国語" sid="wiki00038368-01-01" id="11"/>
+認め みとめ 認める 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られて られて られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00038368-01-02 括弧始:（ 括弧終:） 括弧位置:14 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/14 MEMO:
 * -1D
-+ 2D <rel type="=" target="連邦" sid="wiki00038368-01-01" id="1"/><NE:OPTIONAL:スイス><NE-OPTIONAL:LOCATION,NONE:0>
-スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2D <rel type="=" target="ドイツ" sid="wiki00038368-01-01" id="3"/><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="ノ？" target="ドイツ" sid="wiki00038368-01-02" id="1"/><rel type="ノ？" mode="AND" target="スイス" sid="wiki00038368-01-02" id="0"/><rel type="=" target="語" sid="wiki00038368-01-01" id="4"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:OPTIONAL:スイス><NE-OPTIONAL:LOCATION,NONE:0><rel type="=" target="連邦" sid="wiki00038368-01-01" id="1"/>
+スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,NONE:0><rel type="=" target="ドイツ" sid="wiki00038368-01-01" id="3"/>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="ノ？" target="ドイツ" sid="wiki00038368-01-02" id="1"/><rel type="ノ？" mode="AND" target="スイス" sid="wiki00038368-01-02" id="0"/><体言><rel type="=" target="語" sid="wiki00038368-01-01" id="4"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00038368-01-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/14 MEMO:
 * -1D
-+ 1D <NE:OPTIONAL:ロンバルド><NE-OPTIONAL:LOCATION,NONE:0>
-ロンバルド ろんばるど ロンバルド 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3P <rel type="ノ？" target="ロンバルド" sid="wiki00038368-01-03" id="0"/><rel type="=≒" target="語" sid="wiki00038368-01-01" id="8"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:ロンバルド><NE-OPTIONAL:LOCATION,NONE:0>
+ロンバルド ろんばるど ロンバルド 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3P <体言><rel type="ノ？" target="ロンバルド" sid="wiki00038368-01-03" id="0"/><rel type="=≒" target="語" sid="wiki00038368-01-01" id="8"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <memo text="スイス南部の州の名前"/><NE:OPTIONAL:ティチーノ><NE-OPTIONAL:LOCATION,NONE:0>
-ティチーノ てぃちーの ティチーノ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="ノ？" target="ティチーノ" sid="wiki00038368-01-03" id="2"/><rel type="=≒" target="語" sid="wiki00038368-01-01" id="8"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><memo text="スイス南部の州の名前"/><NE:OPTIONAL:ティチーノ><NE-OPTIONAL:LOCATION,NONE:0>
+ティチーノ てぃちーの ティチーノ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="ノ？" target="ティチーノ" sid="wiki00038368-01-03" id="2"/><体言><rel type="=≒" target="語" sid="wiki00038368-01-01" id="8"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00038368-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:119.00000 MOD:2025/05/14 MEMO:
 * 6D
-+ 9D <rel type="=" target="認められている" sid="wiki00038368-01-01" id="13"/>
-これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 9D <rel type="=" target="認められている" sid="wiki00038368-01-01" id="13"/><体言>
+これ これ これ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:DATE:2000年>
-2000 にせん 2000 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 2D <体言><NE:DATE:2000年>
+2000 にせん 2000 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="憲法" sid="wiki00038368-02" id="6"/><rel type="ニ" target="連邦" sid="wiki00038368-02" id="4"/><rel type="時間" target="2000年" sid="wiki00038368-02" id="1"/>
-制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="憲法" sid="wiki00038368-02" id="6"/><rel type="ニ" target="連邦" sid="wiki00038368-02" id="4"/><用言:動><時制:過去><節-主辞><rel type="時間" target="2000年" sid="wiki00038368-02" id="1"/>
+制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 4D <rel type="=" target="スイス" sid="wiki00038368-01-01" id="0"/>
-スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 6D <rel type="=" target="連邦" sid="wiki00038368-01-01" id="1"/>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 4D <体言><rel type="=" target="スイス" sid="wiki00038368-01-01" id="0"/>
+スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 6D <rel type="=" target="連邦" sid="wiki00038368-01-01" id="1"/><体言>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 + 6D
-新 しん 新 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 7D <rel type="ノ" target="連邦" sid="wiki00038368-02" id="4"/><rel type="修飾" target="新" sid="wiki00038368-02" id="5"/><NE:ARTIFACT:スイス連邦新憲法>
-憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
+新 しん 新 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 7D <rel type="ノ" target="連邦" sid="wiki00038368-02" id="4"/><体言><NE:ARTIFACT:スイス連邦新憲法><rel type="修飾" target="新" sid="wiki00038368-02" id="5"/>
+憲法 けんぽう 憲法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 9D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6D
-+ 9D
-変わり かわり 変わり 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+変わり かわり 変わり 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="変わり" sid="wiki00038368-02" id="8"/><rel type="ガ２" target="これ" sid="wiki00038368-02" id="0"/><rel type="ニオイテ" target="憲法" sid="wiki00038368-02" id="6"/>
-ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="変わり" sid="wiki00038368-02" id="8"/><rel type="ガ２" target="これ" sid="wiki00038368-02" id="0"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="ニオイテ" target="憲法" sid="wiki00038368-02" id="6"/>
+ない ない ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

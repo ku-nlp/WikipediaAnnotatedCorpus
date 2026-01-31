@@ -1,84 +1,84 @@
 # S-ID:wiki00010146-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/04 MEMO:
 * 8D
-+ 11D
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <体言><非用言格解析:動>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="社会" sid="wiki00010146-00-01" id="1"/>
-生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="修飾" target="社会" sid="wiki00010146-00-01" id="1"/>
+生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="生活" sid="wiki00010146-00-01" id="2"/><rel type="外の関係" target="際" sid="wiki00010146-00-01" id="4"/>
-営む いとなむ 営む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="生活" sid="wiki00010146-00-01" id="2"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="際" sid="wiki00010146-00-01" id="4"/>
+営む いとなむ 営む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ノ" target="営む" sid="wiki00010146-00-01" id="3"/>
-際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 5D <rel type="ノ" target="営む" sid="wiki00010146-00-01" id="3"/><体言><節-区切>
+際 さい 際 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="時間" target="際" sid="wiki00010146-00-01" id="4"/><rel type="ヲ" target="物" sid="wiki00010146-00-01" id="9"/><rel type="ヲ" mode="AND" target="物" sid="wiki00010146-00-01" id="7"/><rel type="ヲ" mode="AND" target="設備" sid="wiki00010146-00-01" id="11"/>
-利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><rel type="時間" target="際" sid="wiki00010146-00-01" id="4"/><rel type="ヲ" target="物" sid="wiki00010146-00-01" id="9"/><rel type="ヲ" mode="AND" target="物" sid="wiki00010146-00-01" id="7"/><rel type="ヲ" mode="AND" target="設備" sid="wiki00010146-00-01" id="11"/>
+利用 りよう 利用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 6P
-+ 7D
-構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9P <rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="ノ？" target="構造" sid="wiki00010146-00-01" id="6"/>
-物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+構造 こうぞう 構造 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9P <体言><rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="ノ？" target="構造" sid="wiki00010146-00-01" id="6"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8P
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00010146-00-01" id="9"/>
-建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11P <rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="ノ？" target="建築" sid="wiki00010146-00-01" id="8"/>
-物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物" sid="wiki00010146-00-01" id="9"/><体言><非用言格解析:動>
+建築 けんちく 建築 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11P <体言><rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="ノ？" target="建築" sid="wiki00010146-00-01" id="8"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
 + 11D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><rel type="ノ" target="物" sid="wiki00010146-00-01" id="9"/><memo text="CO"/>
-設備 せつび 設備 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="施設" sid="wiki00010146-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="施設" sid="wiki00010146-00-01" id="0"/><memo text="CO"/><rel type="ノ" target="物" sid="wiki00010146-00-01" id="9"/>
+設備 せつび 設備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010146-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/04 MEMO:
 * -1D
-+ -1D <rel type="=" target="施設" sid="wiki00010146-00-01" id="0"/>
-しせつ しせつ しせつ 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="=" target="施設" sid="wiki00010146-00-01" id="0"/><体言><非用言格解析:動>
+しせつ しせつ しせつ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00010146-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/04 MEMO:
 * 1D
-+ 1D
-国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+国民 こくみん 国民 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="国民" sid="wiki00010146-01" id="0"/><rel type="=≒" target="生活" sid="wiki00010146-00-01" id="2"/>
-生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="生活" sid="wiki00010146-01" id="1"/>
-向上 こうじょう 向上 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="国民" sid="wiki00010146-01" id="0"/><体言><非用言格解析:動><rel type="=≒" target="生活" sid="wiki00010146-00-01" id="2"/>
+生活 せいかつ 生活 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><非用言格解析:動><rel type="ガ" target="生活" sid="wiki00010146-01" id="1"/>
+向上 こうじょう 向上 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="施設" sid="wiki00010146-01" id="5"/><rel type="ニ" target="向上" sid="wiki00010146-01" id="2"/>
-必要な ひつような 必要だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
++ 5D <rel type="ガ" target="施設" sid="wiki00010146-01" id="5"/><rel type="ニ" target="向上" sid="wiki00010146-01" id="2"/><用言:形><時制:非過去><節-主辞>
+必要な ひつような 必要だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL <基本句-主辞>
 * 5D
-+ 5D
-公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="修飾" target="公共" sid="wiki00010146-01" id="4"/><rel type="=≒" target="施設" sid="wiki00010146-00-01" id="0"/>
-施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言>
+公共 こうきょう 公共 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><非用言格解析:動><rel type="修飾" target="公共" sid="wiki00010146-01" id="4"/><rel type="=≒" target="施設" sid="wiki00010146-00-01" id="0"/>
+施設 しせつ 施設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="=" target="社会" sid="wiki00010146-00-01" id="1"/>
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="=構" target="施設" sid="wiki00010146-01" id="5"/><rel type="ノ？" target="社会" sid="wiki00010146-01" id="6"/>
-資本 しほん 資本 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="=" target="社会" sid="wiki00010146-00-01" id="1"/><体言>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <体言><rel type="=構" target="施設" sid="wiki00010146-01" id="5"/><rel type="ノ？" target="社会" sid="wiki00010146-01" id="6"/>
+資本 しほん 資本 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D <rel type="=構" target="施設" sid="wiki00010146-01" id="5"/>
-インフラストラクチャー いんふらすとらくちゃー インフラストラクチャー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="=構" target="施設" sid="wiki00010146-01" id="5"/><体言>
+インフラストラクチャー いんふらすとらくちゃー インフラストラクチャー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00010146-01" id="5"/><rel type="ト" target="資本" sid="wiki00010146-01" id="7"/><rel type="ト" mode="AND" target="インフラストラクチャーなど" sid="wiki00010146-01" id="8"/>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="施設" sid="wiki00010146-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="資本" sid="wiki00010146-01" id="7"/><rel type="ト" mode="AND" target="インフラストラクチャーなど" sid="wiki00010146-01" id="8"/>
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

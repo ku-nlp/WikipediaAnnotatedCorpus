@@ -1,96 +1,96 @@
 # S-ID:wiki00010926-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2025/11/08 MEMO:
 * 12D
-+ 1D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="ガ" target="不特定:人"/>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3P <rel type="ヲ" target="不特定:人"/><rel type="ガ" target="不特定:人"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4P
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 22D <NE:ORGANIZATION:国際連合教育科学文化機関>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3P <rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4P <体言>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 22D <体言><NE:ORGANIZATION:国際連合教育科学文化機関>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 7D <rel type="=" target="国際" sid="wiki00010926-00-01" id="0"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <rel type="=" target="連合" sid="wiki00010926-00-01" id="1"/><rel type="ガ" target="不特定:人"/><NE:ORGANIZATION:国際連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <体言><rel type="=" target="国際" sid="wiki00010926-00-01" id="0"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11D <rel type="=" target="連合" sid="wiki00010926-00-01" id="1"/><体言><非用言格解析:動><NE:ORGANIZATION:国際連合><rel type="ガ" target="不特定:人"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 9P
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D
-理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <rel type="ノ" target="連合" sid="wiki00010926-00-01" id="7"/><rel type="ノ？" target="理事" sid="wiki00010926-00-01" id="10"/><NE:ORGANIZATION:経済社会理事会>
-会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9P <体言>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11D <体言>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言>
+理事 りじ 理事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12D <rel type="ノ" target="連合" sid="wiki00010926-00-01" id="7"/><体言><NE:ORGANIZATION:経済社会理事会><rel type="ノ？" target="理事" sid="wiki00010926-00-01" id="10"/>
+会 かい 会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 13D <rel type="ノ" target="会" sid="wiki00010926-00-01" id="11"/>
-下 した 下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ノ" target="会" sid="wiki00010926-00-01" id="11"/><体言>
+下 した 下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 22D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="ニ" target="下" sid="wiki00010926-00-01" id="12"/><rel type="ニ" mode="AND" target="不特定:人"/>
-おか おか おく 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
++ 22D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><用言:動><時制:過去><節-主辞><rel type="ニ" target="下" sid="wiki00010926-00-01" id="12"/><rel type="ニ" mode="AND" target="不特定:人"/>
+おか おか おく 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 15P <rel type="=" target="教育" sid="wiki00010926-00-01" id="2"/>
-教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15P <rel type="=" target="教育" sid="wiki00010926-00-01" id="2"/><体言><非用言格解析:動>
+教育 きょういく 教育 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 16P <rel type="=" target="科学" sid="wiki00010926-00-01" id="3"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16P <rel type="=" target="科学" sid="wiki00010926-00-01" id="3"/><体言>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 18D <rel type="=" target="文化" sid="wiki00010926-00-01" id="4"/>
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 18D <rel type="=" target="文化" sid="wiki00010926-00-01" id="4"/><体言>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 18P <rel type="ガ" target="文化" sid="wiki00010926-00-01" id="16"/><rel type="ガ" mode="AND" target="教育" sid="wiki00010926-00-01" id="14"/><rel type="ガ" mode="AND" target="科学" sid="wiki00010926-00-01" id="15"/>
-発展 はってん 発展 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 18P <体言><非用言格解析:動><rel type="ガ" target="文化" sid="wiki00010926-00-01" id="16"/><rel type="ガ" mode="AND" target="教育" sid="wiki00010926-00-01" id="14"/><rel type="ガ" mode="AND" target="科学" sid="wiki00010926-00-01" id="15"/>
+発展 はってん 発展 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 20D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="ヲ" target="教育" sid="wiki00010926-00-01" id="14"/><rel type="ヲ" mode="AND" target="科学" sid="wiki00010926-00-01" id="15"/><rel type="ヲ" mode="AND" target="文化" sid="wiki00010926-00-01" id="16"/>
-推進 すいしん 推進 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 20D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><体言><非用言格解析:動><rel type="ヲ" target="教育" sid="wiki00010926-00-01" id="14"/><rel type="ヲ" mode="AND" target="科学" sid="wiki00010926-00-01" id="15"/><rel type="ヲ" mode="AND" target="文化" sid="wiki00010926-00-01" id="16"/>
+推進 すいしん 推進 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 20D <rel type="ノ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="=構≒" target="発展" sid="wiki00010926-00-01" id="17"/><rel type="=構≒" mode="AND" target="推進" sid="wiki00010926-00-01" id="18"/>
-目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <体言><rel type="ノ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="=構≒" target="発展" sid="wiki00010926-00-01" id="17"/><rel type="=構≒" mode="AND" target="推進" sid="wiki00010926-00-01" id="18"/>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 22D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="ヲ" target="推進" sid="wiki00010926-00-01" id="18"/><rel type="ヲ" mode="AND" target="発展" sid="wiki00010926-00-01" id="17"/><rel type="ト" target="目的" sid="wiki00010926-00-01" id="19"/>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
++ 22D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="22"/><rel type="ヲ" target="推進" sid="wiki00010926-00-01" id="18"/><rel type="ヲ" mode="AND" target="発展" sid="wiki00010926-00-01" id="17"/><rel type="ト" target="目的" sid="wiki00010926-00-01" id="19"/><用言:動><節-主辞><時制:非過去>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * -1D
-+ 22D
-専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="5"/><rel type="=構" target="機関" sid="wiki00010926-00-01" id="5"/><rel type="修飾" target="専門" sid="wiki00010926-00-01" id="21"/><rel type="修飾" mode="AND" target="した" sid="wiki00010926-00-01" id="20"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <体言>
+専門 せんもん 専門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="機関" sid="wiki00010926-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="機関" sid="wiki00010926-00-01" id="5"/><rel type="修飾" target="専門" sid="wiki00010926-00-01" id="21"/><rel type="修飾" mode="AND" target="した" sid="wiki00010926-00-01" id="20"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010926-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/08 MEMO:
 * 1P
-+ 1D <rel type="=" target="国際" sid="wiki00010926-00-01" id="0"/>
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=" target="連合" sid="wiki00010926-00-01" id="1"/>
-れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3P <rel type="=" target="教育" sid="wiki00010926-00-01" id="2"/>
-きょういく きょういく きょういく 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4P <rel type="=" target="科学" sid="wiki00010926-00-01" id="3"/>
-かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="文化" sid="wiki00010926-00-01" id="4"/>
-ぶんか ぶんか ぶんか 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="機関" sid="wiki00010926-00-01" id="5"/><NE:ORGANIZATION:こくさいれんごうきょういくかがくぶんかきかん>
-きかん きかん きかん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言><rel type="=" target="国際" sid="wiki00010926-00-01" id="0"/>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=" target="連合" sid="wiki00010926-00-01" id="1"/><体言><非用言格解析:動>
+れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3P <rel type="=" target="教育" sid="wiki00010926-00-01" id="2"/><体言><非用言格解析:動>
+きょういく きょういく きょういく 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4P <rel type="=" target="科学" sid="wiki00010926-00-01" id="3"/><体言>
+かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <rel type="=" target="文化" sid="wiki00010926-00-01" id="4"/><体言>
+ぶんか ぶんか ぶんか 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="機関" sid="wiki00010926-00-01" id="5"/><NE:ORGANIZATION:こくさいれんごうきょういくかがくぶんかきかん><体言>
+きかん きかん きかん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="機関" sid="wiki00010926-00-01" id="5"/><NE:ORGANIZATION:ユネスコ>
-ユネスコ ゆねすこ ユネスコ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <NE:ORGANIZATION:ユネスコ><rel type="=" target="機関" sid="wiki00010926-00-01" id="5"/><体言>
+ユネスコ ゆねすこ ユネスコ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS

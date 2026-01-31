@@ -1,34 +1,34 @@
 # S-ID:wiki00015538-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/07 MEMO:
 * 3D
-+ 3D
-地形 ちけい 地形 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+地形 ちけい 地形 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-地表面 ちひょうめん 地表面 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+地表面 ちひょうめん 地表面 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="地表面" sid="wiki00015538-00-01" id="1"/><rel type="ノ" target="地表面" sid="wiki00015538-00-01" id="1"/>
-起伏 きふく 起伏 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="地表面" sid="wiki00015538-00-01" id="1"/><体言><非用言格解析:動><rel type="ノ" target="地表面" sid="wiki00015538-00-01" id="1"/>
+起伏 きふく 起伏 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="地形" sid="wiki00015538-00-01" id="0"/><rel type="=構" target="地形" sid="wiki00015538-00-01" id="0"/><rel type="ノ" target="起伏" sid="wiki00015538-00-01" id="2"/><rel type="ノ" mode="AND" target="地表面" sid="wiki00015538-00-01" id="1"/>
-形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="地形" sid="wiki00015538-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="地形" sid="wiki00015538-00-01" id="0"/><rel type="ノ" target="起伏" sid="wiki00015538-00-01" id="2"/><rel type="ノ" mode="AND" target="地表面" sid="wiki00015538-00-01" id="1"/>
+形態 けいたい 形態 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015538-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/07 MEMO:
 * 1P
-+ 1P <rel type="=" target="地形" sid="wiki00015538-00-01" id="0"/>
-ちけい ちけい ちけい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1P <体言><rel type="=" target="地形" sid="wiki00015538-00-01" id="0"/>
+ちけい ちけい ちけい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="地形" sid="wiki00015538-00-01" id="0"/><memo text="英語表記脱落"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="ノ" target="地形" sid="wiki00015538-00-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><memo text="英語表記脱落"/>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00015538-00-03 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/07 MEMO:
 * -1D
-+ -1D <rel type="=" target="起伏" sid="wiki00015538-00-01" id="2"/>
-凹凸 おうとつ 凹凸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="起伏" sid="wiki00015538-00-01" id="2"/><体言>
+凹凸 おうとつ 凹凸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

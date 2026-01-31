@@ -1,159 +1,159 @@
 # S-ID:wiki00016223-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/11/17 MEMO:
 * 1D
-+ 1D
-インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 7D
-+ 8D <rel type="ノ？" target="インドネシア" sid="wiki00016223-00-01" id="0"/><NE:OPTIONAL:インドネシアの音楽><NE-OPTIONAL:ARTIFACT,NONE:0>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 8D <体言><rel type="ノ？" target="インドネシア" sid="wiki00016223-00-01" id="0"/><NE:OPTIONAL:インドネシアの音楽><NE-OPTIONAL:ARTIFACT,NONE:0>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <memo text="3.2.J"/><NE:DATE:今日>
-今日 こんにち 今日 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:single>
++ 4D <体言><NE:DATE:今日><memo text="3.2.J"/>
+今日 こんにち 今日 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="0"/><NE:LOCATION:インドネシア>
-インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="インドネシア" sid="wiki00016223-00-01" id="3"/><rel type="時間" target="今日" sid="wiki00016223-00-01" id="2"/><rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="3"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="0"/><体言><NE:LOCATION:インドネシア>
+インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <rel type="ノ" target="インドネシア" sid="wiki00016223-00-01" id="3"/><体言><rel type="時間" target="今日" sid="wiki00016223-00-01" id="2"/><rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="3"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="国内" sid="wiki00016223-00-01" id="4"/>
-演奏 えんそう 演奏 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ガ" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="国内" sid="wiki00016223-00-01" id="4"/>
+演奏 えんそう 演奏 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 8D <rel type="修飾" target="演奏されている" sid="wiki00016223-00-01" id="5"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="1"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="修飾" target="演奏されている" sid="wiki00016223-00-01" id="5"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="1"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/>
-一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/><用言:動>
+一括 いっかつ 一括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="デ" target="音楽" sid="wiki00016223-00-01" id="1"/>
-取り扱う とりあつかう 取り扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="音楽" sid="wiki00016223-00-01" id="1"/>
+取り扱う とりあつかう 取り扱う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016223-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
 * 1D
-+ 1D <rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
-インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言><rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
+インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="=" target="音楽" sid="wiki00016223-00-01" id="1"/><NE:OPTIONAL:インドネシアのおんがく><NE-OPTIONAL:ARTIFACT,NONE:0>
-おんがく おんがく おんがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="音楽" sid="wiki00016223-00-01" id="1"/><体言><NE:OPTIONAL:インドネシアのおんがく><NE-OPTIONAL:ARTIFACT,NONE:0>
+おんがく おんがく おんがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00016223-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:64.00000 MOD:2025/11/17 MEMO:
 * 5D
-+ 1D <rel type="=" target="国内" sid="wiki00016223-00-01" id="4"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="国内" sid="wiki00016223-00-01" id="4"/><体言>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="国内" sid="wiki00016223-01" id="0"/>
-各地 かくち 各地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="国内" sid="wiki00016223-01" id="0"/><体言>
+各地 かくち 各地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
 + 3D <rel type="ノ" target="各地" sid="wiki00016223-01" id="1"/>
-それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL
+それぞれ それぞれ それぞれ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/><rel type="ニ" target="それぞれ" sid="wiki00016223-01" id="2"/><rel type="ニ" mode="？" target="なし"/>
-固有の こゆうの 固有だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 5D <用言:形><時制:非過去><rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/><rel type="ニ" target="それぞれ" sid="wiki00016223-01" id="2"/><rel type="ニ" mode="？" target="なし"/>
+固有の こゆうの 固有だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 4D
-+ 5D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/>
-伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/><用言:形><時制:非過去>
+伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 5D
-+ 6D <rel type="修飾" target="固有の" sid="wiki00016223-01" id="3"/><rel type="修飾" mode="AND" target="伝統的な" sid="wiki00016223-01" id="4"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="6"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><rel type="修飾" target="固有の" sid="wiki00016223-01" id="3"/><rel type="修飾" mode="AND" target="伝統的な" sid="wiki00016223-01" id="4"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="6"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12P
-+ 15P <rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/><rel type="ニ" target="各地" sid="wiki00016223-01" id="1"/><rel type="ニ" mode="AND" target="音楽" sid="wiki00016223-00-01" id="6"/>
-あれば あれば ある 動詞 2 * 0 子音動詞ラ行 10 基本条件形 7 NIL
++ 15P <rel type="ガ" target="音楽" sid="wiki00016223-01" id="5"/><用言:動><節-主辞><節-区切><rel type="ニ" target="各地" sid="wiki00016223-01" id="1"/><rel type="ニ" mode="AND" target="音楽" sid="wiki00016223-00-01" id="6"/>
+あれば あれば ある 動詞 2 * 0 子音動詞ラ行 10 基本条件形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 8P
-ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <体言>
+ラジオ らじお ラジオ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D
-テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+テレビ てれび テレビ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="ラジオ" sid="wiki00016223-01" id="7"/><rel type="ガ" mode="AND" target="テレビ" sid="wiki00016223-01" id="8"/><rel type="ニ" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
-普及 ふきゅう 普及 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <体言><非用言格解析:動><rel type="ガ" target="ラジオ" sid="wiki00016223-01" id="7"/><rel type="ガ" mode="AND" target="テレビ" sid="wiki00016223-01" id="8"/><rel type="ニ" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
+普及 ふきゅう 普及 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 12D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 10D
-+ 12D <rel type="ノ" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
-全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <用言:形><時制:非過去><rel type="ノ" target="インドネシア" sid="wiki00016223-00-01" id="0"/>
+全国 ぜんこく 全国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 11D
-+ 14D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="14"/><rel type="ニヨッテ" target="普及" sid="wiki00016223-01" id="9"/><rel type="修飾" target="全国的に" sid="wiki00016223-01" id="11"/>
-流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="14"/><用言:動><時制:非過去><rel type="ニヨッテ" target="普及" sid="wiki00016223-01" id="9"/><rel type="修飾" target="全国的に" sid="wiki00016223-01" id="11"/>
+流通 りゅうつう 流通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 ような ような ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 12D
-+ 14D
-大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="修飾" target="大衆" sid="wiki00016223-01" id="13"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言>
+大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="修飾" target="大衆" sid="wiki00016223-01" id="13"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="14"/><rel type="ニ" target="音楽" sid="wiki00016223-00-01" id="6"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="音楽" sid="wiki00016223-01" id="14"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="音楽" sid="wiki00016223-00-01" id="6"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016223-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2025/11/17 MEMO:
 * 8D
-+ 10D <rel type="=" target="音楽" sid="wiki00016223-00-01" id="1"/>
-ここ ここ ここ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="=" target="音楽" sid="wiki00016223-00-01" id="1"/>
+ここ ここ ここ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D
-大まかに おおまかに 大まかだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 6D <用言:形><時制:非過去>
+大まかに おおまかに 大まかだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 3P
-+ 3D <rel type="=" target="伝統的な" sid="wiki00016223-01" id="4"/>
++ 3D <体言><rel type="=" target="伝統的な" sid="wiki00016223-01" id="4"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5P <rel type="=≒" target="音楽" sid="wiki00016223-01" id="5"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
+伝統 でんとう 伝統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <体言><rel type="=≒" target="音楽" sid="wiki00016223-01" id="5"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=" target="大衆" sid="wiki00016223-01" id="13"/>
++ 5D <体言><rel type="=" target="大衆" sid="wiki00016223-01" id="13"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="音楽" sid="wiki00016223-01" id="14"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
+大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=" target="音楽" sid="wiki00016223-01" id="14"/><体言>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="ニ" target="音楽" sid="wiki00016223-02" id="3"/><rel type="ニ" mode="AND" target="音楽" sid="wiki00016223-02" id="5"/>
-大別 たいべつ 大別 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="著者"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="音楽" sid="wiki00016223-00-01" id="6"/><rel type="ニ" target="音楽" sid="wiki00016223-02" id="3"/><rel type="ニ" mode="AND" target="音楽" sid="wiki00016223-02" id="5"/>
+大別 たいべつ 大別 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="3"/><NE:LOCATION:インドネシア>
-インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <体言><NE:LOCATION:インドネシア><rel type="=" target="インドネシア" sid="wiki00016223-00-01" id="3"/>
+インドネシア いんどねしあ インドネシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="音楽" sid="wiki00016223-02" id="9"/>
-代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="音楽" sid="wiki00016223-02" id="9"/><用言:形><時制:非過去>
+代表 だいひょう 代表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 8D
-+ 10D <rel type="修飾" target="代表的な" sid="wiki00016223-02" id="8"/><rel type="ノ？" target="インドネシア" sid="wiki00016223-02" id="7"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="1"/>
-音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="修飾" target="代表的な" sid="wiki00016223-02" id="8"/><rel type="ノ？" target="インドネシア" sid="wiki00016223-02" id="7"/><rel type="=≒" target="音楽" sid="wiki00016223-00-01" id="1"/>
+音楽 おんがく 音楽 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-02" id="9"/><rel type="ニ" target="読者"/><rel type="デ" target="ここ" sid="wiki00016223-02" id="0"/>
-紹介 しょうかい 紹介 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><rel type="ヲ" target="音楽" sid="wiki00016223-02" id="9"/><rel type="ニ" target="読者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="デ" target="ここ" sid="wiki00016223-02" id="0"/>
+紹介 しょうかい 紹介 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

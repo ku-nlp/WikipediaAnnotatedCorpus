@@ -1,87 +1,87 @@
 # S-ID:wiki00015740-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/10 MEMO:
 * 4D
-+ 1D
-西武 せいぶ 西武 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <rel type="ノ？" target="所沢市" sid="wiki00015740-00-01" id="4"/><NE:OPTIONAL:西武ドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+西武 せいぶ 西武 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7D <体言><NE:OPTIONAL:西武ドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0><rel type="ノ？" target="所沢市" sid="wiki00015740-00-01" id="4"/>
+ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 4D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="日本" sid="wiki00015740-00-01" id="2"/>
-埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言><rel type="ノ？" target="日本" sid="wiki00015740-00-01" id="2"/>
+埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="埼玉県" sid="wiki00015740-00-01" id="3"/><NE:LOCATION:埼玉県所沢市>
-所沢 ところざわ 所沢 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 5D <体言><NE:LOCATION:埼玉県所沢市><rel type="ノ？" target="埼玉県" sid="wiki00015740-00-01" id="3"/>
+所沢 ところざわ 所沢 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ガ" target="球場" sid="wiki00015740-00-01" id="7"/><rel type="ニ" target="所沢市" sid="wiki00015740-00-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="球場" sid="wiki00015740-00-01" id="7"/><rel type="ニ" target="所沢市" sid="wiki00015740-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 7D <rel type="=≒" target="ドーム" sid="wiki00015740-00-01" id="1"/>
-ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="=構" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="修飾" target="ドーム" sid="wiki00015740-00-01" id="1"/>
-球場 きゅうじょう 球場 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><rel type="=≒" target="ドーム" sid="wiki00015740-00-01" id="1"/>
+ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="修飾" target="ドーム" sid="wiki00015740-00-01" id="1"/>
+球場 きゅうじょう 球場 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015740-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/22 MEMO:
 * -1D
-+ 1D <rel type="=" target="西武" sid="wiki00015740-00-01" id="0"/>
-せいぶ せいぶ せいぶ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="ドーム" sid="wiki00015740-00-01" id="1"/><NE:OPTIONAL:せいぶドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="西武" sid="wiki00015740-00-01" id="0"/><体言>
+せいぶ せいぶ せいぶ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <体言><rel type="=" target="ドーム" sid="wiki00015740-00-01" id="1"/><NE:OPTIONAL:せいぶドーム><NE-OPTIONAL:LOCATION,ARTIFACT:0>
+ドーム どーむ ドーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00015740-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/08/22 MEMO:
 * 1D
-+ 2D <rel type="=" target="埼玉県" sid="wiki00015740-00-01" id="3"/><NE:LOCATION:埼玉県>
-埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="埼玉県" sid="wiki00015740-00-01" id="3"/><体言><NE:LOCATION:埼玉県>
+埼玉 さいたま 埼玉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><rel type="ノ？" target="南西" sid="wiki00015740-01" id="1"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><体言>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="埼玉県" sid="wiki00015740-01" id="0"/><体言><rel type="ノ？" target="南西" sid="wiki00015740-01" id="1"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-狭山 さやま 狭山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <rel type="修飾" target="部" sid="wiki00015740-01" id="2"/><rel type="ノ？" target="埼玉県" sid="wiki00015740-01" id="0"/><NE:LOCATION:狭山丘陵>
-丘陵 きゅうりょう 丘陵 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <体言>
+狭山 さやま 狭山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:狭山丘陵><rel type="修飾" target="部" sid="wiki00015740-01" id="2"/><rel type="ノ？" target="埼玉県" sid="wiki00015740-01" id="0"/>
+丘陵 きゅうりょう 丘陵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 11P <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="ニ" target="丘陵" sid="wiki00015740-01" id="4"/>
-立地 りっち 立地 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11P <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="ニ" target="丘陵" sid="wiki00015740-01" id="4"/><用言:動><節-主辞><節-区切>
+立地 りっち 立地 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ノ" target="ドーム" sid="wiki00015740-00-01" id="1"/>
-周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="ノ" target="ドーム" sid="wiki00015740-00-01" id="1"/>
+周囲 しゅうい 周囲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D
-緑 みどり 緑 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+緑 みどり 緑 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ヲ" target="周囲" sid="wiki00015740-01" id="6"/><rel type="ニ" target="緑" sid="wiki00015740-01" id="7"/><rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="外の関係" target="ロケーション" sid="wiki00015740-01" id="9"/>
-囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
++ 9D <rel type="ヲ" target="周囲" sid="wiki00015740-01" id="6"/><rel type="ニ" target="緑" sid="wiki00015740-01" id="7"/><rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="外の関係" target="ロケーション" sid="wiki00015740-01" id="9"/><用言:動><節-主辞><時制:非過去>
+囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 8D
-+ 10D <rel type="トイウ" target="囲まれた" sid="wiki00015740-01" id="8"/>
-ロケーション ろけーしょん ロケーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="トイウ" target="囲まれた" sid="wiki00015740-01" id="8"/>
+ロケーション ろけーしょん ロケーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ノ" target="ロケーション" sid="wiki00015740-01" id="9"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 11D <rel type="ノ" target="ロケーション" sid="wiki00015740-01" id="9"/><体言>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="ニ" target="中" sid="wiki00015740-01" id="10"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ドーム" sid="wiki00015740-00-01" id="1"/><rel type="ニ" target="中" sid="wiki00015740-01" id="10"/><用言:動><時制:非過去><節-主辞><節-区切>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,140 +1,140 @@
 # S-ID:wiki00011061-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/10 MEMO:
 * 2D
-+ 1D
-足利 あしかが 足利 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+足利 あしかが 足利 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8D <NE:PERSON:足利　義満>
-義満 よしみつ 義満 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言><NE:PERSON:足利　義満>
+義満 よしみつ 義満 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-室町 むろまち 室町 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 4D
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
-+ 8D <rel type="ノ" target="時代" sid="wiki00011061-00-01" id="3"/><NE:DATE:室町時代前期>
-前期 ぜんき 前期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 3D <体言>
+室町 むろまち 室町 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 4D <体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 8D <rel type="ノ" target="時代" sid="wiki00011061-00-01" id="3"/><体言><NE:DATE:室町時代前期>
+前期 ぜんき 前期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="=" target="室町" sid="wiki00011061-00-01" id="2"/>
-室町 むろまち 室町 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 8D <rel type="ノ" target="室町" sid="wiki00011061-00-01" id="5"/><NE:ORGANIZATION:室町幕府>
-幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 8D <rel type="ノ" target="将軍" sid="wiki00011061-00-01" id="8"/>
++ 6D <体言><rel type="=" target="室町" sid="wiki00011061-00-01" id="2"/>
+室町 むろまち 室町 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 8D <rel type="ノ" target="室町" sid="wiki00011061-00-01" id="5"/><体言><NE:ORGANIZATION:室町幕府>
+幕府 ばくふ 幕府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 8D <体言><rel type="ノ" target="将軍" sid="wiki00011061-00-01" id="8"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ノ" target="幕府" sid="wiki00011061-00-01" id="6"/><rel type="=構" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="時間" target="前期" sid="wiki00011061-00-01" id="4"/><rel type="修飾" target="第3代" sid="wiki00011061-00-01" id="7"/>
-将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ノ" target="幕府" sid="wiki00011061-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="時間" target="前期" sid="wiki00011061-00-01" id="4"/><rel type="修飾" target="第3代" sid="wiki00011061-00-01" id="7"/>
+将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011061-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/10 MEMO:
 * -1D
-+ 1D <rel type="=" target="足利" sid="wiki00011061-00-01" id="0"/>
-あしかが あしかが あしかが 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <rel type="=" target="足利" sid="wiki00011061-00-01" id="0"/><体言>
+あしかが あしかが あしかが 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <rel type="=" target="義満" sid="wiki00011061-00-01" id="1"/><NE:PERSON:あしかが　よしみつ>
-よしみつ よしみつ よしみつ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ -1D <rel type="=" target="義満" sid="wiki00011061-00-01" id="1"/><体言><NE:PERSON:あしかが　よしみつ>
+よしみつ よしみつ よしみつ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 EOS
 # S-ID:wiki00011061-00-03 括弧始:（ 括弧終:） 括弧位置:34 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/10 MEMO:
 * -1P
-+ 2D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="カラ" target="1369年" sid="wiki00011061-00-03" id="1"/><rel type="マデ" target="1395年" sid="wiki00011061-00-03" id="2"/><rel type="トシテ" target="将軍" sid="wiki00011061-00-01" id="8"/>
-在職 ざいしょく 在職 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><体言><非用言格解析:動><rel type="カラ" target="1369年" sid="wiki00011061-00-03" id="1"/><rel type="マデ" target="1395年" sid="wiki00011061-00-03" id="2"/><rel type="トシテ" target="将軍" sid="wiki00011061-00-01" id="8"/>
+在職 ざいしょく 在職 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ 2P <NE:DATE:1369年>
-1369 せんさんびゃくろくじゅうきゅう/せんさんびゃくろくじゅうく 1369 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 2P <体言><NE:DATE:1369年>
+1369 せんさんびゃくろくじゅうきゅう/せんさんびゃくろくじゅうく 1369 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="カラ" target="1369年" sid="wiki00011061-00-03" id="1"/><NE:DATE:1395年>
-1395 せんさんびゃくきゅうじゅうご 1395 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ -1D <NE:DATE:1395年><体言><rel type="カラ" target="1369年" sid="wiki00011061-00-03" id="1"/>
+1395 せんさんびゃくきゅうじゅうご 1395 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00011061-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/11/10 MEMO:
 * 1D
-+ 1D
-将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ？" target="将軍" sid="wiki00011061-01" id="0"/>
-職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="ノ？" target="将軍" sid="wiki00011061-01" id="0"/>
+職 しょく 職 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ヲ" target="職" sid="wiki00011061-01" id="1"/><rel type="外の関係" target="後" sid="wiki00011061-01" id="3"/>
-辞した じした 辞する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
++ 3D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ヲ" target="職" sid="wiki00011061-01" id="1"/><用言:動><時制:過去><節-主辞><rel type="外の関係" target="後" sid="wiki00011061-01" id="3"/>
+辞した じした 辞する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 5D
-+ 8D <rel type="ノ" target="辞した" sid="wiki00011061-01" id="2"/>
-後 あと/のち 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 8D <rel type="ノ" target="辞した" sid="wiki00011061-01" id="2"/><体言><節-区切>
+後 あと/のち 後 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <NE:OPTIONAL:清和><NE-OPTIONAL:PERSON,NONE:0>
-清和 せいわ 清和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 6D
-源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><NE:OPTIONAL:清和><NE-OPTIONAL:PERSON,NONE:0>
+清和 せいわ 清和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 6D <体言>
+源氏 げんじ 源氏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="デ" target="源氏" sid="wiki00011061-01" id="5"/>
-初 はつ 初 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="デ" target="源氏" sid="wiki00011061-01" id="5"/>
+初 はつ 初 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D
-太政 だじょう/だいじょう 太政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="時間" target="後" sid="wiki00011061-01" id="3"/><rel type="=構" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ノ？" target="太政" sid="wiki00011061-01" id="7"/><rel type="修飾" target="初" sid="wiki00011061-01" id="6"/><memo text="CO"/>
-大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+太政 だじょう/だいじょう 太政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="義満" sid="wiki00011061-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="時間" target="後" sid="wiki00011061-01" id="3"/><rel type="=構" target="義満" sid="wiki00011061-00-01" id="1"/><rel type="ノ？" target="太政" sid="wiki00011061-01" id="7"/><memo text="CO"/><rel type="修飾" target="初" sid="wiki00011061-01" id="6"/>
+大臣 だいじん 大臣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011061-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/10 MEMO:
 * 1D
-+ 4D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/>
-父 ちち 父 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/><体言>
+父 ちち 父 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 2D <rel type="ノ" target="将軍" sid="wiki00011061-02" id="2"/>
++ 2D <体言><rel type="ノ" target="将軍" sid="wiki00011061-02" id="2"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 4D <rel type="修飾" target="第2代" sid="wiki00011061-02" id="1"/><rel type="ノ" target="幕府" sid="wiki00011061-00-01" id="6"/><rel type="=構" target="父" sid="wiki00011061-02" id="0"/>
-将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言><rel type="修飾" target="第2代" sid="wiki00011061-02" id="1"/><rel type="ノ" target="幕府" sid="wiki00011061-00-01" id="6"/><rel type="=構" target="父" sid="wiki00011061-02" id="0"/>
+将軍 しょうぐん 将軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-足利 あしかが 足利 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ 8P <rel type="ガ" target="父" sid="wiki00011061-02" id="0"/><rel type="修飾" target="将軍" sid="wiki00011061-02" id="2"/><rel type="=構" target="父" sid="wiki00011061-02" id="0"/><rel type="=構" mode="AND" target="将軍" sid="wiki00011061-02" id="2"/><NE:PERSON:足利義詮>
-義詮 よしあきら 義詮 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 4D <体言>
+足利 あしかが 足利 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 8P <体言><NE:PERSON:足利義詮><rel type="ガ" target="父" sid="wiki00011061-02" id="0"/><rel type="修飾" target="将軍" sid="wiki00011061-02" id="2"/><rel type="=構" target="父" sid="wiki00011061-02" id="0"/><rel type="=構" mode="AND" target="将軍" sid="wiki00011061-02" id="2"/>
+義詮 よしあきら 義詮 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/>
-母 はは 母 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/><体言>
+母 はは 母 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ノ" target="義詮" sid="wiki00011061-02" id="4"/>
-側室 そくしつ 側室 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="ノ" target="義詮" sid="wiki00011061-02" id="4"/>
+側室 そくしつ 側室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 8D
-紀 きの 紀 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="=構" target="母" sid="wiki00011061-02" id="5"/><rel type="=構" mode="AND" target="側室" sid="wiki00011061-02" id="6"/><rel type="ガ" target="母" sid="wiki00011061-02" id="5"/><rel type="修飾" target="側室" sid="wiki00011061-02" id="6"/><memo text="CO"/><NE:PERSON:紀良子>
-良子 りょうし/よしこ 良子 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言>
+紀 きの 紀 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <rel type="=構" target="母" sid="wiki00011061-02" id="5"/><rel type="=構" mode="AND" target="側室" sid="wiki00011061-02" id="6"/><rel type="ガ" target="母" sid="wiki00011061-02" id="5"/><rel type="修飾" target="側室" sid="wiki00011061-02" id="6"/><memo text="CO"/><NE:PERSON:紀良子><用言:判><体言><時制:非過去><節-主辞><節-区切>
+良子 りょうし/よしこ 良子 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011061-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/12/25 MEMO:
 * 1D
-+ 2D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/>
-姓名 せいめい 姓名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="義満" sid="wiki00011061-00-01" id="1"/><体言>
+姓名 せいめい 姓名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="源氏" sid="wiki00011061-01" id="5"/>
-源 みなもとの 源 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
-+ -1D <rel type="ガ" target="姓名" sid="wiki00011061-03-01" id="0"/><rel type="=構" target="姓名" sid="wiki00011061-03-01" id="0"/><rel type="=" mode="AND" target="義満" sid="wiki00011061-00-01" id="1"/><memo text="CO"/><NE:PERSON:源義満>
-義満 よしみつ 義満 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 2D <体言><rel type="=" target="源氏" sid="wiki00011061-01" id="5"/>
+源 みなもとの 源 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:PERSON:源義満><memo text="CO"/><rel type="ガ" target="姓名" sid="wiki00011061-03-01" id="0"/><rel type="=構" target="姓名" sid="wiki00011061-03-01" id="0"/><rel type="=" mode="AND" target="義満" sid="wiki00011061-00-01" id="1"/>
+義満 よしみつ 義満 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011061-03-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/10 MEMO:
 * -1D
-+ 1D <rel type="=" target="源" sid="wiki00011061-03-01" id="1"/>
-みなもと みなもと みなもと 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言><rel type="=" target="源" sid="wiki00011061-03-01" id="1"/>
+みなもと みなもと みなもと 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:PERSON:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ -1D <rel type="=" target="義満" sid="wiki00011061-03-01" id="2"/><NE:PERSON:みなもと　の　よしみつ>
-よしみつ よしみつ よしみつ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ -1D <rel type="=" target="義満" sid="wiki00011061-03-01" id="2"/><体言><NE:PERSON:みなもと　の　よしみつ>
+よしみつ よしみつ よしみつ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 EOS

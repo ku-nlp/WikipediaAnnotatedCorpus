@@ -1,84 +1,84 @@
 # S-ID:wiki00031974-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/04/23 MEMO:
 * 4D
-+ 1D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <rel type="ガ" target="不特定:人"/>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-児童 じどう 児童 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:国際連合児童基金>
-基金 ききん 基金 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+児童 じどう 児童 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12D <体言><NE:ORGANIZATION:国際連合児童基金>
+基金 ききん 基金 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 5D
-1946 せんきゅうひゃくよんじゅうろく 1946 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 5D <体言>
+1946 せんきゅうひゃくよんじゅうろく 1946 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 6D
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 6D <体言>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D <NE:DATE:1946年12月11日>
-11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 7D <体言><NE:DATE:1946年12月11日>
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 12D <rel type="ガ" target="機関" sid="wiki00031974-00-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="11日" sid="wiki00031974-00-01" id="6"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="ガ" target="機関" sid="wiki00031974-00-01" id="12"/><rel type="ニ" target="不特定:人"/><用言:動><時制:過去><節-主辞><rel type="時間" target="11日" sid="wiki00031974-00-01" id="6"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 9D <rel type="=" target="国際" sid="wiki00031974-00-01" id="0"/>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D <rel type="=" target="連合" sid="wiki00031974-00-01" id="1"/>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <rel type="ノ" target="連合" sid="wiki00031974-00-01" id="9"/><memo text="機関として位置付けられているので"/><NE:ORGANIZATION:国際連合総会>
-総会 そうかい 総会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <体言><rel type="=" target="国際" sid="wiki00031974-00-01" id="0"/>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <rel type="=" target="連合" sid="wiki00031974-00-01" id="1"/><体言><非用言格解析:動>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 12D <rel type="ノ" target="連合" sid="wiki00031974-00-01" id="9"/><体言><NE:ORGANIZATION:国際連合総会><memo text="機関として位置付けられているので"/>
+総会 そうかい 総会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 12D <rel type="ガ" target="機関" sid="wiki00031974-00-01" id="12"/><rel type="ヲ" target="総会" sid="wiki00031974-00-01" id="10"/>
-補助 ほじょ 補助 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="基金" sid="wiki00031974-00-01" id="3"/><rel type="修飾" target="補助" sid="wiki00031974-00-01" id="11"/><rel type="=構" target="基金" sid="wiki00031974-00-01" id="3"/><memo text="CO"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="機関" sid="wiki00031974-00-01" id="12"/><rel type="ヲ" target="総会" sid="wiki00031974-00-01" id="10"/><体言><非用言格解析:動>
+補助 ほじょ 補助 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="基金" sid="wiki00031974-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="補助" sid="wiki00031974-00-01" id="11"/><rel type="=構" target="基金" sid="wiki00031974-00-01" id="3"/><memo text="CO"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031974-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/31 MEMO:
 * -1D
-+ 1D <rel type="=" target="国際" sid="wiki00031974-00-01" id="0"/>
-こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D <rel type="=" target="連合" sid="wiki00031974-00-01" id="1"/>
-れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="児童" sid="wiki00031974-00-01" id="2"/>
-じどう じどう じどう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="基金" sid="wiki00031974-00-01" id="3"/><NE:ORGANIZATION:こくさいれんごうじどうききん>
-ききん ききん ききん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言><rel type="=" target="国際" sid="wiki00031974-00-01" id="0"/>
+こくさい こくさい こくさい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><rel type="=" target="連合" sid="wiki00031974-00-01" id="1"/>
+れんごう れんごう れんごう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><rel type="=" target="児童" sid="wiki00031974-00-01" id="2"/>
+じどう じどう じどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <体言><rel type="=" target="基金" sid="wiki00031974-00-01" id="3"/><NE:ORGANIZATION:こくさいれんごうじどうききん>
+ききん ききん ききん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00031974-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/04/23 MEMO:
 * 2D
-+ 2D <rel type="ノ" target="基金" sid="wiki00031974-00-01" id="3"/>
-本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="ノ" target="基金" sid="wiki00031974-00-01" id="3"/><体言>
+本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:ニューヨーク>
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:ニューヨーク>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="本部" sid="wiki00031974-01" id="0"/><rel type="ニ" target="ニューヨーク" sid="wiki00031974-01" id="1"/><rel type="ニ" mode="AND" target="基金" sid="wiki00031974-00-01" id="3"/><memo text="AG:基金"/>
-置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL
++ -1D <rel type="ガ" target="本部" sid="wiki00031974-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="ニューヨーク" sid="wiki00031974-01" id="1"/><rel type="ニ" mode="AND" target="基金" sid="wiki00031974-00-01" id="3"/><memo text="AG:基金"/>
+置か おか 置く 動詞 2 * 0 子音動詞カ行 2 未然形 3 NIL <基本句-主辞>
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031974-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/23 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="基金" sid="wiki00031974-00-01" id="3"/><rel type="ト" target="UNICEF" sid="wiki00031974-02-01" id="1"/><rel type="ノ" target="基金" sid="wiki00031974-00-01" id="3"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="基金" sid="wiki00031974-00-01" id="3"/><rel type="ト" target="UNICEF" sid="wiki00031974-02-01" id="1"/><rel type="ノ" target="基金" sid="wiki00031974-00-01" id="3"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00031974-02-01" id="0"/><rel type="=構" target="略称" sid="wiki00031974-02-01" id="0"/><rel type="=" mode="AND" target="基金" sid="wiki00031974-00-01" id="3"/><memo text="CO"/><NE:ORGANIZATION:UNICEF>
-UNICEF ゆにせふ UNICEF 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00031974-02-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="略称" sid="wiki00031974-02-01" id="0"/><rel type="=" mode="AND" target="基金" sid="wiki00031974-00-01" id="3"/><NE:ORGANIZATION:UNICEF><memo text="CO"/>
+UNICEF ゆにせふ UNICEF 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031974-02-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/23 MEMO:
 * -1D
-+ -1D <rel type="=" target="UNICEF" sid="wiki00031974-02-01" id="1"/><NE:ORGANIZATION:ユニセフ>
-ユニセフ ゆにせふ ユニセフ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <NE:ORGANIZATION:ユニセフ><rel type="=" target="UNICEF" sid="wiki00031974-02-01" id="1"/><体言>
+ユニセフ ゆにせふ ユニセフ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS

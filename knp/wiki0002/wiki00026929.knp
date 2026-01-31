@@ -1,113 +1,113 @@
 # S-ID:wiki00026929-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2025/06/10 MEMO:
 * 8D
-+ 1D <memo text="「砂漠」の意"/>
-サハラ さはら サハラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 13D <NE:LOCATION:サハラ砂漠>
-砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言><memo text="「砂漠」の意"/>
+サハラ さはら サハラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 13D <体言><NE:LOCATION:サハラ砂漠>
+砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <NE:LOCATION:アフリカ大陸>
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 5D <rel type="ノ" target="大陸" sid="wiki00026929-00-01" id="3"/>
-北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:アフリカ大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 5D <rel type="ノ" target="大陸" sid="wiki00026929-00-01" id="3"/><体言>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="6"/><rel type="ニ" target="北部" sid="wiki00026929-00-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 6D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="6"/><rel type="ニ" target="北部" sid="wiki00026929-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 8P
-+ 13P <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="修飾" target="ある" sid="wiki00026929-00-01" id="5"/>
-砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13P <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="修飾" target="ある" sid="wiki00026929-00-01" id="5"/>
+砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8D
-氷雪 ひょうせつ 氷雪 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ？" target="氷雪" sid="wiki00026929-00-01" id="7"/>
-気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+氷雪 ひょうせつ 氷雪 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ノ？" target="氷雪" sid="wiki00026929-00-01" id="7"/>
+気候 きこう 気候 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="修飾" target="気候" sid="wiki00026929-00-01" id="8"/><NE:OPTIONAL:南極><NE-OPTIONAL:LOCATION,NONE:0>
-南極 なんきょく 南極 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 10D <体言><rel type="修飾" target="気候" sid="wiki00026929-00-01" id="8"/><NE:OPTIONAL:南極><NE-OPTIONAL:LOCATION,NONE:0>
+南極 なんきょく 南極 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D
-除く のぞく 除く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 13D <用言:動><時制:非過去><節-主辞><節-区切>
+除く のぞく 除く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="13"/><rel type="デ" target="世界" sid="wiki00026929-00-01" id="11"/>
-最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 12D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="13"/><用言:形><時制:非過去><rel type="デ" target="世界" sid="wiki00026929-00-01" id="11"/>
+最大の さいだいの 最大だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="ヲノゾイテ" target="南極" sid="wiki00026929-00-01" id="9"/><rel type="修飾" target="最大の" sid="wiki00026929-00-01" id="12"/><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/>
-砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ヲノゾイテ" target="南極" sid="wiki00026929-00-01" id="9"/><rel type="修飾" target="最大の" sid="wiki00026929-00-01" id="12"/><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/>
+砂漠 さばく 砂漠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026929-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/10 MEMO:
 * -1D
-+ 1D <rel type="=" target="サハラ" sid="wiki00026929-00-01" id="0"/>
-サハラ さはら サハラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="砂漠" sid="wiki00026929-00-01" id="1"/><NE:LOCATION:サハラさばく>
-さばく さばく さばく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="サハラ" sid="wiki00026929-00-01" id="0"/><体言>
+サハラ さはら サハラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <体言><NE:LOCATION:サハラさばく><rel type="=" target="砂漠" sid="wiki00026929-00-01" id="1"/>
+さばく さばく さばく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00026929-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/10 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="北部" sid="wiki00026929-00-01" id="4"/>
-南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="北部" sid="wiki00026929-00-01" id="4"/>
+南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 2D <rel type="ニ" target="南北" sid="wiki00026929-01" id="0"/>
-1,700キロ せんななひゃくきろ/いっせんななひゃくきろ 1,700キロ 名詞 6 数詞 7 * 0 * 0 NIL
++ 2D <体言><rel type="ニ" target="南北" sid="wiki00026929-01" id="0"/>
+1,700キロ せんななひゃくきろ/いっせんななひゃくきろ 1,700キロ 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="ニ" target="1,700キロメートル" sid="wiki00026929-01" id="1"/>
-わたる わたる わたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="ニ" target="1,700キロメートル" sid="wiki00026929-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+わたる わたる わたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026929-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:77.00000 MOD:2025/06/10 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="砂漠" sid="wiki00026929-00-01" id="1"/>
-面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="砂漠" sid="wiki00026929-00-01" id="1"/><体言>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8P
-+ 9P <rel type="ガ" target="面積" sid="wiki00026929-02" id="0"/><rel type="=構" target="面積" sid="wiki00026929-02" id="0"/>
++ 9P <rel type="ガ" target="面積" sid="wiki00026929-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="面積" sid="wiki00026929-02" id="0"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-1,000万 せんまん/いっせんまん 1,000万 名詞 6 数詞 7 * 0 * 0 NIL
+1,000万 せんまん/いっせんまん 1,000万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 平方キロメートル へいほうきろめーとる 平方キロメートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="アフリカ" sid="wiki00026929-00-01" id="2"/>
-アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="=" target="大陸" sid="wiki00026929-00-01" id="3"/><NE:LOCATION:アフリカ大陸>
-大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言><rel type="=" target="アフリカ" sid="wiki00026929-00-01" id="2"/>
+アフリカ あふりか アフリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="=" target="大陸" sid="wiki00026929-00-01" id="3"/><体言><NE:LOCATION:アフリカ大陸>
+大陸 たいりく 大陸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ" target="大陸" sid="wiki00026929-02" id="3"/><NE:PERCENT:3分の1>
-3分の1 さんぶんのいち 3分の1 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:single>
++ 5D <rel type="ノ" target="大陸" sid="wiki00026929-02" id="3"/><体言><NE:PERCENT:3分の1>
+3分の1 さんぶんのいち 3分の1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:single>
 近く ちかく 近く 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 9P <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="ヲ" target="3分の1近く" sid="wiki00026929-02" id="4"/>
-占め しめ 占める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 9P <rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="ヲ" target="3分の1近く" sid="wiki00026929-02" id="4"/><用言:動><節-主辞><節-区切>
+占め しめ 占める 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 8D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
 + 8D
-ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL
+ほぼ ほぼ ほぼ 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 8D
-+ 9D <rel type="ガ" target="面積" sid="wiki00026929-02" id="9"/><rel type="ト" target="アメリカ合衆国" sid="wiki00026929-02" id="6"/><memo text="NO：ト格：面積"/>
-同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
++ 9D <rel type="ガ" target="面積" sid="wiki00026929-02" id="9"/><用言:形><時制:非過去><rel type="ト" target="アメリカ合衆国" sid="wiki00026929-02" id="6"/><memo text="NO：ト格：面積"/>
+同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="修飾" target="同じ" sid="wiki00026929-02" id="8"/><rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="=" mode="AND" target="面積" sid="wiki00026929-02" id="0"/>
-面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="同じ" sid="wiki00026929-02" id="8"/><rel type="ガ" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="=構" target="砂漠" sid="wiki00026929-00-01" id="1"/><rel type="=" mode="AND" target="面積" sid="wiki00026929-02" id="0"/>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

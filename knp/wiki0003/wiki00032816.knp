@@ -1,61 +1,61 @@
 # S-ID:wiki00032816-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2025/04/24 MEMO:
 * 9D
-+ 15D <NE:OPTIONAL:スターバックス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-スターバックス すたーばっくす スターバックス 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 15D <体言><NE:OPTIONAL:スターバックス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+スターバックス すたーばっくす スターバックス 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <NE:DATE:1971年>
-1971 せんきゅうひゃくななじゅういち 1971 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 5D <体言><NE:DATE:1971年>
+1971 せんきゅうひゃくななじゅういち 1971 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00032816-00" id="2"/>
-ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <体言>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <体言><rel type="ノ？" target="アメリカ合衆国" sid="wiki00032816-00" id="2"/>
+ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="ワシントン州" sid="wiki00032816-00" id="3"/><NE:LOCATION:アメリカ合衆国ワシントン州シアトル>
-シアトル しあとる シアトル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言><NE:LOCATION:アメリカ合衆国ワシントン州シアトル><rel type="ノ？" target="ワシントン州" sid="wiki00032816-00" id="3"/>
+シアトル しあとる シアトル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="デ" target="シアトル" sid="wiki00032816-00" id="4"/><rel type="時間" target="1971年" sid="wiki00032816-00" id="1"/><rel type="ガ" target="店" sid="wiki00032816-00" id="11"/>
-開業 かいぎょう 開業 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <用言:動><時制:過去><節-主辞><rel type="デ" target="シアトル" sid="wiki00032816-00" id="4"/><rel type="時間" target="1971年" sid="wiki00032816-00" id="1"/><rel type="ガ" target="店" sid="wiki00032816-00" id="11"/>
+開業 かいぎょう 開業 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="トイウ" target="世界" sid="wiki00032816-00" id="6"/>
-規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="トイウ" target="世界" sid="wiki00032816-00" id="6"/>
+規模 きぼ 規模 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="デ" target="規模" sid="wiki00032816-00" id="7"/><rel type="デ" mode="？" target="なし"/><rel type="ガ" target="店" sid="wiki00032816-00" id="11"/>
-展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <用言:動><時制:非過去><節-主辞><rel type="デ" target="規模" sid="wiki00032816-00" id="7"/><rel type="デ" mode="？" target="なし"/><rel type="ガ" target="店" sid="wiki00032816-00" id="11"/>
+展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 7D
-+ 11D
-コーヒー こーひー コーヒー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+コーヒー こーひー コーヒー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 11D
-チェーン ちぇーん チェーン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15P <rel type="修飾" target="展開する" sid="wiki00032816-00" id="8"/><rel type="修飾" mode="AND" target="チェーン" sid="wiki00032816-00" id="10"/><rel type="ノ？" target="コーヒー" sid="wiki00032816-00" id="9"/><rel type="=構" target="スターバックス" sid="wiki00032816-00" id="0"/><rel type="ガ" target="スターバックス" sid="wiki00032816-00" id="0"/>
-店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+チェーン ちぇーん チェーン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15P <体言><用言:判><節-区切><節-主辞><rel type="修飾" target="展開する" sid="wiki00032816-00" id="8"/><rel type="修飾" mode="AND" target="チェーン" sid="wiki00032816-00" id="10"/><rel type="ノ？" target="コーヒー" sid="wiki00032816-00" id="9"/><rel type="=構" target="スターバックス" sid="wiki00032816-00" id="0"/><rel type="ガ" target="スターバックス" sid="wiki00032816-00" id="0"/>
+店 てん 店 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 13D <rel type="=" target="シアトル" sid="wiki00032816-00" id="5"/><NE:LOCATION:シアトル>
-シアトル しあとる シアトル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 14D <rel type="ノ" target="シアトル" sid="wiki00032816-00" id="13"/>
-系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="修飾" target="系" sid="wiki00032816-00" id="13"/><rel type="=≒" target="コーヒー" sid="wiki00032816-00" id="9"/>
-コーヒー こーひー コーヒー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="=" target="シアトル" sid="wiki00032816-00" id="5"/><体言><NE:LOCATION:シアトル>
+シアトル しあとる シアトル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 14D <rel type="ノ" target="シアトル" sid="wiki00032816-00" id="13"/><体言>
+系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言><rel type="修飾" target="系" sid="wiki00032816-00" id="13"/><rel type="=≒" target="コーヒー" sid="wiki00032816-00" id="9"/>
+コーヒー こーひー コーヒー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="コーヒー" sid="wiki00032816-00" id="15"/><rel type="ガ" target="スターバックス" sid="wiki00032816-00" id="0"/><rel type="=構" target="スターバックス" sid="wiki00032816-00" id="0"/>
-元祖 がんそ 元祖 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="コーヒー" sid="wiki00032816-00" id="15"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="スターバックス" sid="wiki00032816-00" id="0"/><rel type="=構" target="スターバックス" sid="wiki00032816-00" id="0"/>
+元祖 がんそ 元祖 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

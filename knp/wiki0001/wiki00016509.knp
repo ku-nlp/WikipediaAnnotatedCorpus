@@ -1,88 +1,88 @@
 # S-ID:wiki00016509-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/07/30 MEMO:
 * 8D
-+ 8D
-感情 かんじょう 感情 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+感情 かんじょう 感情 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-ヒト ひと ヒト 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+ヒト ひと ヒト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="=≒" target="ヒト" sid="wiki00016509-00-01" id="1"/>
-動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><rel type="=≒" target="ヒト" sid="wiki00016509-00-01" id="1"/>
+動物 どうぶつ 動物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 4P
-ものごと ものごと ものごと 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <体言>
+ものごと ものごと ものごと 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D
-対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D
-対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 6D <用言:動>
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 7D
-+ 7D <rel type="ガ" target="動物" sid="wiki00016509-00-01" id="2"/><rel type="ヲ" target="気持ち" sid="wiki00016509-00-01" id="7"/><rel type="ニタイシテ" target="ものごと" sid="wiki00016509-00-01" id="3"/><rel type="ニタイシテ" mode="AND" target="対象" sid="wiki00016509-00-01" id="4"/>
-抱く いだく 抱く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 7D <rel type="ガ" target="動物" sid="wiki00016509-00-01" id="2"/><rel type="ヲ" target="気持ち" sid="wiki00016509-00-01" id="7"/><用言:動><時制:非過去><節-主辞><rel type="ニタイシテ" target="ものごと" sid="wiki00016509-00-01" id="3"/><rel type="ニタイシテ" mode="AND" target="対象" sid="wiki00016509-00-01" id="4"/>
+抱く いだく 抱く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 8D <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/><rel type="修飾" target="抱く" sid="wiki00016509-00-01" id="6"/>
-気持ち きもち 気持ち 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/><rel type="修飾" target="抱く" sid="wiki00016509-00-01" id="6"/>
+気持ち きもち 気持ち 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="感情" sid="wiki00016509-00-01" id="0"/><rel type="ノ" target="気持ち" sid="wiki00016509-00-01" id="7"/><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/><memo text="CO"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="ガ" target="感情" sid="wiki00016509-00-01" id="0"/><rel type="ノ" target="気持ち" sid="wiki00016509-00-01" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016509-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="感情" sid="wiki00016509-00-01" id="0"/>
-かんじょう かんじょう かんじょう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="=" target="感情" sid="wiki00016509-00-01" id="0"/>
+かんじょう かんじょう かんじょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00016509-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/11/17 MEMO:
 * 1P
-+ 1P <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-喜び よろこび 喜び 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+喜び よろこび 喜び 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-悲しみ かなしみ 悲しみ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+悲しみ かなしみ 悲しみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-怒り いかり 怒り 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3P <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+怒り いかり 怒り 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-諦め あきらめ 諦め 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+諦め あきらめ 諦め 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-驚き おどろき 驚き 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5P <体言><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+驚き おどろき 驚き 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 6P <rel type="ガ" target="不特定:人"/><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-嫌悪 けんお 嫌悪 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6P <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+嫌悪 けんお 嫌悪 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 7D <rel type="ガ" target="不特定:人"/><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
-恐怖 きょうふ 恐怖 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="=構" target="感情" sid="wiki00016509-00-01" id="0"/>
+恐怖 きょうふ 恐怖 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="感情" sid="wiki00016509-00-01" id="0"/><rel type="ガ" target="喜び" sid="wiki00016509-01-01" id="0"/><rel type="ガ" mode="AND" target="悲しみ" sid="wiki00016509-01-01" id="1"/><rel type="ガ" mode="AND" target="怒り" sid="wiki00016509-01-01" id="2"/><rel type="ガ" mode="AND" target="諦め" sid="wiki00016509-01-01" id="3"/><rel type="ガ" mode="AND" target="驚き" sid="wiki00016509-01-01" id="4"/><rel type="ガ" mode="AND" target="嫌悪" sid="wiki00016509-01-01" id="5"/><rel type="ガ" mode="AND" target="恐怖など" sid="wiki00016509-01-01" id="6"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ニ" target="感情" sid="wiki00016509-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="喜び" sid="wiki00016509-01-01" id="0"/><rel type="ガ" mode="AND" target="悲しみ" sid="wiki00016509-01-01" id="1"/><rel type="ガ" mode="AND" target="怒り" sid="wiki00016509-01-01" id="2"/><rel type="ガ" mode="AND" target="諦め" sid="wiki00016509-01-01" id="3"/><rel type="ガ" mode="AND" target="驚き" sid="wiki00016509-01-01" id="4"/><rel type="ガ" mode="AND" target="嫌悪" sid="wiki00016509-01-01" id="5"/><rel type="ガ" mode="AND" target="恐怖など" sid="wiki00016509-01-01" id="6"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016509-01-02 括弧始:（ 括弧終:） 括弧位置:26 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
 * 1D
-+ 1D <rel type="=" target="感情" sid="wiki00016509-00-01" id="0"/>
-感情 かんじょう 感情 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <rel type="=" target="感情" sid="wiki00016509-00-01" id="0"/><体言>
+感情 かんじょう 感情 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * -1D
-+ -1D <rel type="ノ" target="感情" sid="wiki00016509-01-02" id="0"/><rel type="ガ" target="不特定:人"/><memo text="wiki別項「感情の一覧」を参照　の意"/><NE:OPTIONAL:感情の一覧><NE-OPTIONAL:ARTIFACT,NONE:0>
-一覧 いちらん 一覧 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="ノ" target="感情" sid="wiki00016509-01-02" id="0"/><体言><非用言格解析:動><NE:OPTIONAL:感情の一覧><NE-OPTIONAL:ARTIFACT,NONE:0><memo text="wiki別項「感情の一覧」を参照　の意"/><rel type="ガ" target="不特定:人"/>
+一覧 いちらん 一覧 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

@@ -1,80 +1,80 @@
 # S-ID:wiki00056995-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/04/18 MEMO:
 * 5D
-+ 1D <memo text="プルーセンという民族名に由来するが、後にドイツ騎士団が作った国をプロイセンと呼ぶようになった"/>
-プロイセン ぷろいせん プロイセン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <NE:LOCATION:プロイセン王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言><memo text="プルーセンという民族名に由来するが、後にドイツ騎士団が作った国をプロイセンと呼ぶようになった"/>
+プロイセン ぷろいせん プロイセン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7D <体言><NE:LOCATION:プロイセン王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <NE:PERSON:ホーエンツォレルン>
-ホーエンツォレルン ほーえんつぉれるん ホーエンツォレルン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 4D <rel type="ノ" target="ホーエンツォレルン" sid="wiki00056995-00-01" id="2"/>
-家 け 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 3D <体言><NE:PERSON:ホーエンツォレルン>
+ホーエンツォレルン ほーえんつぉれるん ホーエンツォレルン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ 4D <rel type="ノ" target="ホーエンツォレルン" sid="wiki00056995-00-01" id="2"/><体言>
+家 け 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="修飾" target="家" sid="wiki00056995-00-01" id="3"/>
-君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="修飾" target="家" sid="wiki00056995-00-01" id="3"/>
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="君主" sid="wiki00056995-00-01" id="4"/><rel type="ヲ" target="王国" sid="wiki00056995-00-01" id="7"/>
-統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="君主" sid="wiki00056995-00-01" id="4"/><rel type="ヲ" target="王国" sid="wiki00056995-00-01" id="7"/><用言:動><時制:過去><節-主辞>
+統治 とうち 統治 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
-+ 7D <NE:LOCATION:ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <体言><NE:LOCATION:ヨーロッパ>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="王国" sid="wiki00056995-00-01" id="1"/><rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/><rel type="=構" target="王国" sid="wiki00056995-00-01" id="1"/><memo text="CO"/>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="王国" sid="wiki00056995-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/><rel type="=構" target="王国" sid="wiki00056995-00-01" id="1"/><memo text="CO"/>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00056995-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/01/09 MEMO:
 * -1D
-+ 1D <rel type="=" target="プロイセン" sid="wiki00056995-00-01" id="0"/>
-プロイセン ぷろいせん プロイセン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="王国" sid="wiki00056995-00-01" id="1"/><NE:LOCATION:プロイセンおうこく>
-おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <rel type="=" target="プロイセン" sid="wiki00056995-00-01" id="0"/><体言>
+プロイセン ぷろいせん プロイセン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <体言><NE:LOCATION:プロイセンおうこく><rel type="=" target="王国" sid="wiki00056995-00-01" id="1"/>
+おうこく おうこく おうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00056995-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2024/04/18 MEMO:
 * 2D
-+ 4D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 4D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 2D <rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/><NE:LOCATION:ドイツ>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4P <rel type="ノ" target="ドイツ" sid="wiki00056995-01" id="1"/><rel type="時間" target="現在" sid="wiki00056995-01" id="0"/>
-北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:ドイツ><rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4P <rel type="ノ" target="ドイツ" sid="wiki00056995-01" id="1"/><体言><rel type="時間" target="現在" sid="wiki00056995-01" id="0"/>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/><NE:LOCATION:ポーランド>
-ポーランド ぽーらんど ポーランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="ポーランド" sid="wiki00056995-01" id="3"/><rel type="時間" target="現在" sid="wiki00056995-01" id="0"/>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:LOCATION:ポーランド><rel type="ノ？" target="ヨーロッパ" sid="wiki00056995-00-01" id="6"/>
+ポーランド ぽーらんど ポーランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <rel type="ノ" target="ポーランド" sid="wiki00056995-01" id="3"/><体言><rel type="時間" target="現在" sid="wiki00056995-01" id="0"/>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ニ" target="西部" sid="wiki00056995-01" id="4"/><rel type="カラ" target="北部" sid="wiki00056995-01" id="2"/>
-かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 7D <rel type="ニ" target="西部" sid="wiki00056995-01" id="4"/><用言:動><rel type="カラ" target="北部" sid="wiki00056995-01" id="2"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ノ" target="王国" sid="wiki00056995-00-01" id="1"/><rel type="=構" target="かけて" sid="wiki00056995-01" id="5"/>
-領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ノ" target="王国" sid="wiki00056995-00-01" id="1"/><体言><rel type="=構" target="かけて" sid="wiki00056995-01" id="5"/>
+領土 りょうど 領土 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 10P <rel type="ガ" target="王国" sid="wiki00056995-00-01" id="1"/><rel type="ヲ" target="かけて" sid="wiki00056995-01" id="5"/><rel type="ト" target="領土" sid="wiki00056995-01" id="6"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 10P <rel type="ガ" target="王国" sid="wiki00056995-00-01" id="1"/><rel type="ヲ" target="かけて" sid="wiki00056995-01" id="5"/><rel type="ト" target="領土" sid="wiki00056995-01" id="6"/><用言:動><節-主辞><節-区切><時制:過去>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ノ" target="王国" sid="wiki00056995-00-01" id="1"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="王国" sid="wiki00056995-00-01" id="1"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ノ？" target="ドイツ" sid="wiki00056995-01" id="1"/><NE:LOCATION:ベルリン>
-ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:ベルリン><rel type="ノ？" target="ドイツ" sid="wiki00056995-01" id="1"/>
+ベルリン べるりん ベルリン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00056995-01" id="8"/><rel type="ニ" target="ベルリン" sid="wiki00056995-01" id="9"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <rel type="ガ" target="首都" sid="wiki00056995-01" id="8"/><rel type="ニ" target="ベルリン" sid="wiki00056995-01" id="9"/><用言:動><時制:過去><節-主辞><節-区切>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,140 +1,140 @@
 # S-ID:wiki00027825-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/06/16 MEMO:
 * 3D
-+ 1D <NE:OPTIONAL:アイルランド><NE-OPTIONAL:LOCATION,NONE:0>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 9D <rel type="ノ？" target="アイルランド" sid="wiki00027825-00-01" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:アイルランド><NE-OPTIONAL:LOCATION,NONE:0>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 9D <体言><rel type="ノ？" target="アイルランド" sid="wiki00027825-00-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3P <NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
-インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3P <体言><NE:OPTIONAL:インド><NE-OPTIONAL:LOCATION,NONE:0>
+インド いんど インド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D <NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 7D <rel type="ノ？" target="インド" sid="wiki00027825-00-01" id="2"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00027825-00-01" id="3"/>
-語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <memo text="NE？"/><NE:OPTIONAL:ケルト><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
-ケルト けると ケルト 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 7D <rel type="ノ？" target="ケルト" sid="wiki00027825-00-01" id="5"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="語" sid="wiki00027825-00-01" id="6"/>
-派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:OPTIONAL:ヨーロッパ><NE-OPTIONAL:LOCATION,NONE:0>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 7D <体言><rel type="ノ？" target="インド" sid="wiki00027825-00-01" id="2"/><rel type="ノ？" mode="AND" target="ヨーロッパ" sid="wiki00027825-00-01" id="3"/>
+語族 ごぞく 語族 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><memo text="NE？"/><NE:OPTIONAL:ケルト><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+ケルト けると ケルト 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 7D <体言><rel type="ノ？" target="ケルト" sid="wiki00027825-00-01" id="5"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="語" sid="wiki00027825-00-01" id="6"/><体言>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 9D <rel type="ガ" target="言語" sid="wiki00027825-00-01" id="9"/><rel type="ニ" target="派" sid="wiki00027825-00-01" id="7"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 9D <rel type="ガ" target="言語" sid="wiki00027825-00-01" id="9"/><rel type="ニ" target="派" sid="wiki00027825-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
-言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
+言語 げんご 言語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027825-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/16 MEMO:
 * 1P
-+ 1D <rel type="=" target="アイルランド" sid="wiki00027825-00-01" id="0"/><NE:OPTIONAL:アイルランド><NE-OPTIONAL:LOCATION,NONE:0>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 2P <rel type="ノ？" target="アイルランド" sid="wiki00027825-00-02" id="0"/><rel type="=" target="語" sid="wiki00027825-00-01" id="1"/>
-ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="アイルランド" sid="wiki00027825-00-01" id="0"/><体言><NE:OPTIONAL:アイルランド><NE-OPTIONAL:LOCATION,NONE:0>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 2P <体言><rel type="ノ？" target="アイルランド" sid="wiki00027825-00-02" id="0"/><rel type="=" target="語" sid="wiki00027825-00-01" id="1"/>
+ご ご ご 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="アイルランド" sid="wiki00027825-00-01" id="0"/><rel type="=" mode="AND" target="ご" sid="wiki00027825-00-02" id="1"/><memo text="原語脱落"/><NE:OPTIONAL:愛><NE-OPTIONAL:LOCATION,NONE:0>
-愛 あい 愛 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <体言><memo text="原語脱落"/><NE:OPTIONAL:愛><NE-OPTIONAL:LOCATION,NONE:0><rel type="=" target="アイルランド" sid="wiki00027825-00-01" id="0"/><rel type="=" mode="AND" target="ご" sid="wiki00027825-00-02" id="1"/>
+愛 あい 愛 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027825-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/06/16 MEMO:
 * 1D
-+ 2D <rel type="ガ" target="語" sid="wiki00027825-01" id="2"/>
-現存 げんそん 現存 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="語" sid="wiki00027825-01" id="2"/><用言:動><時制:非過去>
+現存 げんそん 現存 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 2D
-+ 2D <memo text="古アイルランド語でゲール語の話者（ゲール族、ゴイデル人）を指す Goidel に由来"/><NE:OPTIONAL:ゲール><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
-ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 3D <rel type="=≒" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="1"/><rel type="修飾" target="現存する" sid="wiki00027825-01" id="0"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><memo text="古アイルランド語でゲール語の話者（ゲール族、ゴイデル人）を指す Goidel に由来"/><NE:OPTIONAL:ゲール><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 3D <体言><rel type="=≒" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="1"/><rel type="修飾" target="現存する" sid="wiki00027825-01" id="0"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 13P <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00027825-01" id="2"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00027825-01" id="2"/>
++ 13P <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00027825-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="=構" mode="AND" target="語" sid="wiki00027825-01" id="2"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
 + 13D
-しばしば しばしば しばしば 副詞 8 * 0 * 0 * 0 NIL
+しばしば しばしば しばしば 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 5P
-+ 6D <rel type="=" target="アイルランド" sid="wiki00027825-00-02" id="0"/>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <rel type="=" target="アイルランド" sid="wiki00027825-00-02" id="0"/><体言>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D <rel type="修飾" target="アイルランド" sid="wiki00027825-01" id="5"/><rel type="=≒" target="ゲール" sid="wiki00027825-01" id="1"/><NE:OPTIONAL:アイルランド・ゲール><NE-OPTIONAL:LOCATION,NONE:0>
-ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 9P <rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="6"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><NE:OPTIONAL:アイルランド・ゲール><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="アイルランド" sid="wiki00027825-01" id="5"/><rel type="=≒" target="ゲール" sid="wiki00027825-01" id="1"/>
+ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 9P <体言><rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="6"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 9D
-アイリッシュ あいりっしゅ アイリッシュ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 9D <体言>
+アイリッシュ あいりっしゅ アイリッシュ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 12P <rel type="修飾" target="アイリッシュ" sid="wiki00027825-01" id="8"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="=" mode="AND" target="ゲール" sid="wiki00027825-01" id="6"/><NE:OPTIONAL:アイリッシュ・ゲール><NE-OPTIONAL:LOCATION,NONE:0>
-ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 12P <体言><NE:OPTIONAL:アイリッシュ・ゲール><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="アイリッシュ" sid="wiki00027825-01" id="8"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="=" mode="AND" target="ゲール" sid="wiki00027825-01" id="6"/>
+ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 あるいは あるいは あるいは 副詞 8 * 0 * 0 * 0 NIL
 * 7D
-+ 11D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 12D <rel type="修飾" target="西" sid="wiki00027825-01" id="10"/><rel type="=≒" target="ゲール" sid="wiki00027825-01" id="1"/><NE:OPTIONAL:西ゲール><NE-OPTIONAL:LOCATION,NONE:0>
-ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 13D <rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="11"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 12D <体言><NE:OPTIONAL:西ゲール><NE-OPTIONAL:LOCATION,NONE:0><rel type="修飾" target="西" sid="wiki00027825-01" id="10"/><rel type="=≒" target="ゲール" sid="wiki00027825-01" id="1"/>
+ゲール げーる ゲール 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 13D <体言><rel type="ノ？" target="ゲール" sid="wiki00027825-01" id="11"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="語" sid="wiki00027825-01" id="7"/><rel type="ト" mode="AND" target="ゲール" sid="wiki00027825-01" id="9"/><rel type="ト" mode="AND" target="語" sid="wiki00027825-01" id="12"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="語" sid="wiki00027825-01" id="7"/><rel type="ト" mode="AND" target="ゲール" sid="wiki00027825-01" id="9"/><rel type="ト" mode="AND" target="語" sid="wiki00027825-01" id="12"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027825-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2025/06/16 MEMO:
 * 1D
-+ 2D <rel type="=" target="アイルランド" sid="wiki00027825-01" id="5"/>
-アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="=≒" target="アイルランド" sid="wiki00027825-00-01" id="0"/><NE:LOCATION:アイルランド共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <rel type="=" target="アイルランド" sid="wiki00027825-01" id="5"/><体言>
+アイルランド あいるらんど アイルランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 5D <体言><NE:LOCATION:アイルランド共和国><rel type="=≒" target="アイルランド" sid="wiki00027825-00-01" id="0"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 5D
++ 5D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 5D
-公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00027825-02" id="2"/><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="修飾" target="公用" sid="wiki00027825-02" id="4"/><rel type="修飾" mode="AND" target="第一" sid="wiki00027825-02" id="3"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言>
+公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00027825-02" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="語" sid="wiki00027825-00-01" id="1"/><rel type="修飾" target="公用" sid="wiki00027825-02" id="4"/><rel type="修飾" mode="AND" target="第一" sid="wiki00027825-02" id="3"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D <NE:DATE:2007年>
-2007 にせんなな/にせんしち 2007 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 7D <体言><NE:DATE:2007年>
+2007 にせんなな/にせんしち 2007 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 12D <rel type="ノ" target="2007年" sid="wiki00027825-02" id="6"/>
-以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
++ 12D <体言><rel type="ノ" target="2007年" sid="wiki00027825-02" id="6"/>
+以降 いこう 以降 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 9D
-欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11D <NE:ORGANIZATION:欧州連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <体言>
+欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11D <体言><非用言格解析:動><NE:ORGANIZATION:欧州連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="=" target="公用" sid="wiki00027825-02" id="4"/>
-公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="連合" sid="wiki00027825-02" id="9"/><rel type="修飾" target="公用" sid="wiki00027825-02" id="10"/><rel type="=≒" target="語" sid="wiki00027825-00-01" id="1"/>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言><rel type="=" target="公用" sid="wiki00027825-02" id="4"/>
+公用 こうよう 公用 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="ノ" target="連合" sid="wiki00027825-02" id="9"/><rel type="修飾" target="公用" sid="wiki00027825-02" id="10"/><rel type="=≒" target="語" sid="wiki00027825-00-01" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00027825-02" id="11"/><rel type="カラ" target="2007年" sid="wiki00027825-02" id="6"/><rel type="=構" target="語" sid="wiki00027825-02" id="11"/><rel type="=構" mode="AND" target="語" sid="wiki00027825-00-01" id="1"/>
++ -1D <rel type="ガ" target="語" sid="wiki00027825-00-01" id="1"/><rel type="ノ" target="語" sid="wiki00027825-02" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="カラ" target="2007年" sid="wiki00027825-02" id="6"/><rel type="=構" target="語" sid="wiki00027825-02" id="11"/><rel type="=構" mode="AND" target="語" sid="wiki00027825-00-01" id="1"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

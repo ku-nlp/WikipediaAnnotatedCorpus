@@ -1,132 +1,132 @@
 # S-ID:wiki00042932-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2023/10/10 MEMO:
 * 6D
-+ 1D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 13D <NE:ARTIFACT:西日本新聞>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 13D <体言><NE:ARTIFACT:西日本新聞>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="ノ？" target="福岡県" sid="wiki00042932-00-01" id="3"/><NE:LOCATION:福岡県福岡市>
-福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <体言><NE:LOCATION:福岡県福岡市><rel type="ノ？" target="福岡県" sid="wiki00042932-00-01" id="3"/>
+福岡 ふくおか 福岡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ" target="社" sid="wiki00042932-00-01" id="10"/>
-本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="社" sid="wiki00042932-00-01" id="10"/><体言>
+本社 ほんしゃ 本社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="本社" sid="wiki00042932-00-01" id="5"/><rel type="ニ" target="福岡市" sid="wiki00042932-00-01" id="4"/>
-置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 10D <rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="本社" sid="wiki00042932-00-01" id="5"/><rel type="ニ" target="福岡市" sid="wiki00042932-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
+置く おく 置く 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 8D <rel type="=" target="西" sid="wiki00042932-00-01" id="0"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 9D <rel type="=" target="日本" sid="wiki00042932-00-01" id="1"/>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="=" target="新聞" sid="wiki00042932-00-01" id="2"/>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <NE:ORGANIZATION:西日本新聞社>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 8D <体言><rel type="=" target="西" sid="wiki00042932-00-01" id="0"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 9D <rel type="=" target="日本" sid="wiki00042932-00-01" id="1"/><体言>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <体言><rel type="=" target="新聞" sid="wiki00042932-00-01" id="2"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><NE:ORGANIZATION:西日本新聞社>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 13D <rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="新聞" sid="wiki00042932-00-01" id="13"/>
-発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="新聞" sid="wiki00042932-00-01" id="13"/><用言:動><時制:非過去><節-主辞>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 13D
-日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="修飾" target="日刊" sid="wiki00042932-00-01" id="12"/><rel type="=構" target="新聞" sid="wiki00042932-00-01" id="2"/>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+日刊 にっかん 日刊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="新聞" sid="wiki00042932-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="日刊" sid="wiki00042932-00-01" id="12"/><rel type="=構" target="新聞" sid="wiki00042932-00-01" id="2"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042932-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/10 MEMO:
 * -1D
-+ 1D <rel type="=" target="西" sid="wiki00042932-00-01" id="0"/>
-にし にし にし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D <rel type="=" target="日本" sid="wiki00042932-00-01" id="1"/>
-にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ -1D <rel type="=" target="新聞" sid="wiki00042932-00-01" id="9"/><NE:ARTIFACT:にしにっぽんしんぶん>
-しんぶん しんぶん しんぶん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言><rel type="=" target="西" sid="wiki00042932-00-01" id="0"/>
+にし にし にし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <体言><rel type="=" target="日本" sid="wiki00042932-00-01" id="1"/>
+にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ -1D <rel type="=" target="新聞" sid="wiki00042932-00-01" id="9"/><体言><NE:ARTIFACT:にしにっぽんしんぶん>
+しんぶん しんぶん しんぶん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00042932-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/10 MEMO:
 * -1D
-+ 1D
-ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="=≒" target="新聞" sid="wiki00042932-00-01" id="13"/><rel type="=構" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="ノ？" target="ブロック" sid="wiki00042932-00-03" id="0"/>
-紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=≒" target="新聞" sid="wiki00042932-00-01" id="13"/><rel type="=構" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="ノ？" target="ブロック" sid="wiki00042932-00-03" id="0"/><体言>
+紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00042932-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/03/08 MEMO:
 * 1P
-+ 1D
-北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 3P <NE:OPTIONAL:北海道新聞><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 3P <体言><NE:OPTIONAL:北海道新聞><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <memo text="もともとは「中部日本」らしい"/>
-中日 ちゅうにち 中日 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 8D <NE:OPTIONAL:中日新聞><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <体言><memo text="もともとは「中部日本」らしい"/>
+中日 ちゅうにち 中日 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 8D <体言><NE:OPTIONAL:中日新聞><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 共に ともに 共に 副詞 8 * 0 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="ブロック" sid="wiki00042932-00-03" id="0"/>
-ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="紙" sid="wiki00042932-00-03" id="1"/><rel type="ノ？" target="ブロック" sid="wiki00042932-01-01" id="4"/>
-紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="=≒" mode="AND" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ノ" target="紙" sid="wiki00042932-01-01" id="5"/><memo text="SE"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8D <rel type="ガ" target="3社" sid="wiki00042932-01-01" id="6"/><NE:ORGANIZATION:ブロック紙3社連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言><非用言格解析:動><rel type="=" target="ブロック" sid="wiki00042932-00-03" id="0"/>
+ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <rel type="=" target="紙" sid="wiki00042932-00-03" id="1"/><体言><rel type="ノ？" target="ブロック" sid="wiki00042932-01-01" id="4"/>
+紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <体言><rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="=≒" mode="AND" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ノ" target="紙" sid="wiki00042932-01-01" id="5"/><memo text="SE"/>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
+社 しゃ 社 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 8D <体言><非用言格解析:動><rel type="ガ" target="3社" sid="wiki00042932-01-01" id="6"/><NE:ORGANIZATION:ブロック紙3社連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="連合" sid="wiki00042932-01-01" id="7"/><rel type="ガ" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="ガ" mode="AND" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="ガ" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/>
-結成 けっせい 結成 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ヲ" target="連合" sid="wiki00042932-01-01" id="8"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="ガ" mode="AND" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="ガ" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/>
+結成 けっせい 結成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042932-01-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/08 MEMO:
 * -1D
-+ 1D
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ -1D <rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="3"/><memo text="中日新聞東京支社が出している"/><NE:ARTIFACT:東京新聞>
-新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ -1D <NE:ARTIFACT:東京新聞><体言><rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="3"/><memo text="中日新聞東京支社が出している"/>
+新聞 しんぶん 新聞 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00042932-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2024/03/08 MEMO:
 * 1D
-+ 1D <rel type="=" target="ブロック" sid="wiki00042932-01-01" id="4"/>
-ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="=" target="紙" sid="wiki00042932-01-01" id="5"/>
-紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/><memo text="SE"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
-紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><rel type="=" target="ブロック" sid="wiki00042932-01-01" id="4"/>
+ブロック ぶろっく ブロック 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="紙" sid="wiki00042932-01-01" id="5"/><体言>
+紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="=≒" target="新聞" sid="wiki00042932-01-01" id="3"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-01-01" id="1"/><rel type="=≒" mode="AND" target="新聞" sid="wiki00042932-00-01" id="2"/><memo text="SE"/>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+紙 し 紙 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="ノ" target="紙" sid="wiki00042932-02" id="1"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 7D <rel type="ノ" target="紙" sid="wiki00042932-02" id="3"/><体言>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
 + 7D <rel type="デ" target="中" sid="wiki00042932-02" id="3"/>
-最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL
+最も もっとも 最も 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 4D
-+ 6D <rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="外の関係" target="部数" sid="wiki00042932-02" id="6"/>
-販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="修飾" target="販売" sid="wiki00042932-02" id="5"/>
-部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動><rel type="ガ" target="社" sid="wiki00042932-00-01" id="10"/><rel type="ヲ" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="外の関係" target="部数" sid="wiki00042932-02" id="6"/>
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="修飾" target="販売" sid="wiki00042932-02" id="5"/>
+部数 ぶすう 部数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="部数" sid="wiki00042932-02" id="6"/><rel type="ガ２" target="新聞" sid="wiki00042932-00-01" id="2"/><rel type="デ" target="中" sid="wiki00042932-02" id="3"/>
-少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ -1D <rel type="ガ" target="部数" sid="wiki00042932-02" id="7"/><rel type="ガ２" target="新聞" sid="wiki00042932-00-01" id="2"/><用言:形><時制:非過去><節-主辞><節-区切><rel type="デ" target="中" sid="wiki00042932-02" id="3"/>
+少ない すくない 少ない 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

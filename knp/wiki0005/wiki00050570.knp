@@ -1,125 +1,125 @@
 # S-ID:wiki00050570-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2024/02/13 MEMO:
 * 11D
-+ 1D
-赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 21D <NE:OPTIONAL:赤十字社><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 21D <体言><NE:OPTIONAL:赤十字社><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4P <rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/>
-赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 5D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4P <rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/><体言>
+赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 5D
-赤新月 せきしんげつ 赤新月 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D <rel type="ガ" target="赤十字" sid="wiki00050570-00-01" id="3"/><rel type="ガ" mode="AND" target="赤新月" sid="wiki00050570-00-01" id="4"/><rel type="修飾" target="国際" sid="wiki00050570-00-01" id="2"/><NE:OPTIONAL:国際赤十字・赤新月運動><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 5D <体言>
+赤新月 せきしんげつ 赤新月 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言><非用言格解析:動><rel type="ガ" target="赤十字" sid="wiki00050570-00-01" id="3"/><rel type="ガ" mode="AND" target="赤新月" sid="wiki00050570-00-01" id="4"/><rel type="修飾" target="国際" sid="wiki00050570-00-01" id="2"/><NE:OPTIONAL:国際赤十字・赤新月運動><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 7D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 4D
-+ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="ニヨッテ" target="運動" sid="wiki00050570-00-01" id="5"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="21"/><用言:動><時制:非過去><rel type="ニヨッテ" target="運動" sid="wiki00050570-00-01" id="5"/>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 5P
-+ 9P <rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/>
-戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9P <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ト" target="不特定:人"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 10D
-天災 てんさい 天災 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ" target="天災" sid="wiki00050570-00-01" id="9"/><rel type="ノ" mode="AND" target="戦争" sid="wiki00050570-00-01" id="8"/>
-時 じ 時 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 10D <体言>
+天災 てんさい 天災 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><rel type="ノ" target="天災" sid="wiki00050570-00-01" id="9"/><rel type="ノ" mode="AND" target="戦争" sid="wiki00050570-00-01" id="8"/>
+時 じ 時 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 15D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 15D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 13D
-傷病 しょうびょう 傷病 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ？" target="傷病" sid="wiki00050570-00-01" id="12"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 15D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="ヲ" target="者" sid="wiki00050570-00-01" id="13"/><rel type="時間" target="時" sid="wiki00050570-00-01" id="10"/>
-救護 きゅうご 救護 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 17D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="時間" target="時" sid="wiki00050570-00-01" id="10"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 13D <体言>
+傷病 しょうびょう 傷病 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ？" target="傷病" sid="wiki00050570-00-01" id="12"/><体言>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="21"/><rel type="ヲ" target="者" sid="wiki00050570-00-01" id="14"/><体言><非用言格解析:動><rel type="時間" target="時" sid="wiki00050570-00-01" id="10"/>
+救護 きゅうご 救護 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="21"/><体言><非用言格解析:動><rel type="時間" target="時" sid="wiki00050570-00-01" id="10"/>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 17D <rel type="ノ" target="支援" sid="wiki00050570-00-01" id="19"/>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言><rel type="ノ" target="支援" sid="wiki00050570-00-01" id="19"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="ヲ" target="活動" sid="wiki00050570-00-01" id="15"/><rel type="ト" target="中心" sid="wiki00050570-00-01" id="16"/>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
++ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="21"/><rel type="ヲ" target="活動" sid="wiki00050570-00-01" id="16"/><rel type="ト" target="中心" sid="wiki00050570-00-01" id="16"/><用言:動><節-主辞><時制:非過去>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
 * 11D
-+ 19D
-人道 じんどう 人道 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="ヲ" target="不特定:人"/><rel type="修飾" target="人道" sid="wiki00050570-00-01" id="18"/><rel type="=≒" target="救護" sid="wiki00050570-00-01" id="14"/>
-支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 21D <rel type="ノ？" target="支援" sid="wiki00050570-00-01" id="19"/>
-団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <体言>
+人道 じんどう 人道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D <rel type="ガ" target="団体" sid="wiki00050570-00-01" id="21"/><rel type="ヲ" target="不特定:人"/><体言><非用言格解析:動><rel type="修飾" target="人道" sid="wiki00050570-00-01" id="18"/><rel type="=≒" target="救護" sid="wiki00050570-00-01" id="14"/>
+支援 しえん 支援 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 21D <体言><rel type="ノ？" target="支援" sid="wiki00050570-00-01" id="19"/>
+団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="社" sid="wiki00050570-00-01" id="1"/><rel type="ノ" target="団体" sid="wiki00050570-00-01" id="20"/><rel type="=構" target="社" sid="wiki00050570-00-01" id="1"/>
-総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="社" sid="wiki00050570-00-01" id="1"/><rel type="ノ" target="団体" sid="wiki00050570-00-01" id="21"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="社" sid="wiki00050570-00-01" id="1"/>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00050570-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
 * -1D
-+ 1D <rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/>
-せきじゅうじ せきじゅうじ せきじゅうじ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="社" sid="wiki00050570-00-01" id="1"/><NE:OPTIONAL:せきじゅうじしゃ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言><rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/>
+せきじゅうじ せきじゅうじ せきじゅうじ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="=" target="社" sid="wiki00050570-00-01" id="1"/><体言><NE:OPTIONAL:せきじゅうじしゃ><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+しゃ しゃ しゃ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00050570-00-03 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
 * -1D
-+ 1D <rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/>
++ 1D <体言><rel type="=" target="赤十字" sid="wiki00050570-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="ガ" target="赤十字" sid="wiki00050570-00-03" id="0"/><rel type="=" target="運動" sid="wiki00050570-00-01" id="5"/><NE:OPTIONAL:赤十字運動><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
+赤十字 せきじゅうじ 赤十字 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <体言><非用言格解析:動><rel type="ガ" target="赤十字" sid="wiki00050570-00-03" id="0"/><rel type="=" target="運動" sid="wiki00050570-00-01" id="5"/><NE:OPTIONAL:赤十字運動><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00050570-00-04 括弧始:（ 括弧終:） 括弧位置:51 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
 * -1D
-+ 1D
-自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="天災" sid="wiki00050570-00-01" id="9"/><rel type="修飾" target="自然" sid="wiki00050570-00-04" id="0"/>
-災害 さいがい 災害 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <体言><rel type="=" target="天災" sid="wiki00050570-00-01" id="9"/><rel type="修飾" target="自然" sid="wiki00050570-00-04" id="0"/>
+災害 さいがい 災害 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00050570-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/02/13 MEMO:
 * 1D
-+ 1D <NE:LOCATION:スイス>
-スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ？" target="スイス" sid="wiki00050570-01" id="0"/>
-人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="人" sid="wiki00050570-01" id="1"/><rel type="=構" target="人" sid="wiki00050570-01" id="1"/><rel type="ノ？" target="実業" sid="wiki00050570-01" id="2"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:スイス>
+スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <体言><rel type="ノ？" target="スイス" sid="wiki00050570-01" id="0"/>
+人 じん 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+実業 じつぎょう 実業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><rel type="修飾" target="人" sid="wiki00050570-01" id="1"/><rel type="=構" target="人" sid="wiki00050570-01" id="1"/><rel type="ノ？" target="実業" sid="wiki00050570-01" id="2"/>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 * 2D
-+ 5D
-アンリ あんり アンリ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 5D <体言>
+アンリ あんり アンリ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6D <rel type="=構" target="家" sid="wiki00050570-01" id="3"/><rel type="修飾" target="家" sid="wiki00050570-01" id="3"/><NE:PERSON:アンリ・デュナン>
-デュナン でゅなん デュナン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 6D <体言><NE:PERSON:アンリ・デュナン><rel type="=構" target="家" sid="wiki00050570-01" id="3"/><rel type="修飾" target="家" sid="wiki00050570-01" id="3"/>
+デュナン でゅなん デュナン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="デュナン" sid="wiki00050570-01" id="5"/><rel type="ヲ" target="団体" sid="wiki00050570-00-01" id="20"/>
-提唱 ていしょう 提唱 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="デュナン" sid="wiki00050570-01" id="5"/><体言><非用言格解析:動><rel type="ヲ" target="団体" sid="wiki00050570-00-01" id="20"/>
+提唱 ていしょう 提唱 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 8D <用言:動>
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ニヨッテ" target="提唱" sid="wiki00050570-01" id="6"/><rel type="ガ" target="社" sid="wiki00050570-00-01" id="1"/>
-創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ニヨッテ" target="提唱" sid="wiki00050570-01" id="6"/><rel type="ガ" target="社" sid="wiki00050570-00-01" id="1"/>
+創立 そうりつ 創立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

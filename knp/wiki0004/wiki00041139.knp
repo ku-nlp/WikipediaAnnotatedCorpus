@@ -1,100 +1,100 @@
 # S-ID:wiki00041139-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2023/09/27 MEMO:
 * 4D
 + 1D
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="ノ" target="帝国" sid="wiki00041139-00-01" id="2"/><NE:ORGANIZATION:大日本帝国陸軍>
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <rel type="ノ" target="帝国" sid="wiki00041139-00-01" id="2"/><体言><NE:ORGANIZATION:大日本帝国陸軍>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 5P <NE:DATE:1871年>
-1871 せんはっぴゃくななじゅういち 1871 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 5P <体言><NE:DATE:1871年>
+1871 せんはっぴゃくななじゅういち 1871 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-- から - 特殊 1 記号 5 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 4D
-+ 7D <NE:DATE:1945年>
-1945 せんきゅうひゃくよんじゅうご 1945 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 7D <体言><NE:DATE:1945年>
+1945 せんきゅうひゃくよんじゅうご 1945 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 まで まで まで 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/><体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="組織" sid="wiki00041139-00-01" id="9"/><rel type="ニ" target="日本" sid="wiki00041139-00-01" id="7"/><rel type="カラ" target="1871年" sid="wiki00041139-00-01" id="4"/><rel type="マデ" target="1945年" sid="wiki00041139-00-01" id="5"/>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="組織" sid="wiki00041139-00-01" id="10"/><rel type="ニ" target="日本" sid="wiki00041139-00-01" id="7"/><用言:動><時制:過去><節-主辞><rel type="カラ" target="1871年" sid="wiki00041139-00-01" id="4"/><rel type="マデ" target="1945年" sid="wiki00041139-00-01" id="5"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ 9D
-軍隊 ぐんたい 軍隊 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="陸軍" sid="wiki00041139-00-01" id="3"/><rel type="修飾" target="軍隊" sid="wiki00041139-00-01" id="8"/><rel type="=構" target="陸軍" sid="wiki00041139-00-01" id="3"/>
-組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <体言>
+軍隊 ぐんたい 軍隊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="陸軍" sid="wiki00041139-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="軍隊" sid="wiki00041139-00-01" id="8"/><rel type="=構" target="陸軍" sid="wiki00041139-00-01" id="3"/>
+組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00041139-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/27 MEMO:
 * 1P
-+ 1D <rel type="=" target="大" sid="wiki00041139-00-01" id="0"/>
-だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
-にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
-ていこく ていこく ていこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7P <rel type="=" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:だいにっぽんていこくりくぐん>
-りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言><rel type="=" target="大" sid="wiki00041139-00-01" id="0"/>
+だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
+にっぽん にっぽん にっぽん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
+ていこく ていこく ていこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7P <体言><rel type="=" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:だいにっぽんていこくりくぐん>
+りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="=" target="大" sid="wiki00041139-00-01" id="0"/>
-だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
-にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
-ていこく ていこく ていこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:だいにほんていこくりくぐん>
-りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言><rel type="=" target="大" sid="wiki00041139-00-01" id="0"/>
+だい だい だい 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言><rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <体言><rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
+ていこく ていこく ていこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <体言><rel type="=" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:だいにほんていこくりくぐん>
+りくぐん りくぐん りくぐん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00041139-00-03 括弧始:（ 括弧終:） 括弧位置:44 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/26 MEMO:
 * -1D
-+ 1D
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1871年" sid="wiki00041139-00-01" id="4"/><NE:DATE:明治4年>
-4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 1D <体言>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ -1D <NE:DATE:明治4年><rel type="=" target="1871年" sid="wiki00041139-00-01" id="4"/><体言>
+4 よ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00041139-00-04 括弧始:（ 括弧終:） 括弧位置:58 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/26 MEMO:
 * -1D
-+ 1D
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1945年" sid="wiki00041139-00-01" id="5"/><NE:DATE:昭和20年>
-20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 1D <体言>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ -1D <NE:DATE:昭和20年><rel type="=" target="1945年" sid="wiki00041139-00-01" id="5"/><体言>
+20 にじゅう 20 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00041139-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/02/26 MEMO:
 * 3D
-+ 5D <rel type="ノ" target="陸軍" sid="wiki00041139-00-01" id="3"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="陸軍" sid="wiki00041139-00-01" id="3"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2D <rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4P <rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:日本陸軍>
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言><rel type="=" target="日本" sid="wiki00041139-00-01" id="1"/>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4P <体言><rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><NE:ORGANIZATION:日本陸軍><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 4D <rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5P <rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/><NE:ORGANIZATION:帝国陸軍>
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4D <体言><rel type="=" target="帝国" sid="wiki00041139-00-01" id="2"/>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5P <体言><rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><NE:ORGANIZATION:帝国陸軍><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/><memo text="CO"/>
-陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="通称" sid="wiki00041139-01" id="0"/><rel type="=構" target="通称" sid="wiki00041139-01" id="0"/><rel type="=" mode="AND" target="陸軍" sid="wiki00041139-00-01" id="3"/><memo text="CO"/>
+陸軍 りくぐん 陸軍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

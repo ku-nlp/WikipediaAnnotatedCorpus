@@ -1,75 +1,75 @@
 # S-ID:wiki00056935-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/18 MEMO:
 * 2D
-+ 1D
-ワールド わーるど ワールド 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <NE:ORGANIZATION:ワールドアスレティックス>
-アスレティックス あすれてぃっくす アスレティックス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+ワールド わーるど ワールド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言><NE:ORGANIZATION:ワールドアスレティックス>
+アスレティックス あすれてぃっくす アスレティックス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="陸上" sid="wiki00056935-00" id="2"/><rel type="=≒" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ガ" target="不特定:人"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言>
+陸上 りくじょう 陸上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><非用言格解析:動><rel type="修飾" target="陸上" sid="wiki00056935-00" id="2"/><rel type="=≒" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ガ" target="不特定:人"/>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 6D <rel type="=≒" target="競技" sid="wiki00056935-00" id="3"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="=構" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="修飾" target="国際" sid="wiki00056935-00" id="4"/><rel type="修飾" mode="AND" target="競技" sid="wiki00056935-00" id="5"/><rel type="ノ？" target="競技" sid="wiki00056935-00" id="3"/><memo text="CO"/><NE:ORGANIZATION:国際競技連盟>
-連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 6D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D <体言><非用言格解析:動><rel type="=≒" target="競技" sid="wiki00056935-00" id="3"/>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:国際競技連盟><rel type="=構" target="アスレティックス" sid="wiki00056935-00" id="1"/><memo text="CO"/><rel type="修飾" target="国際" sid="wiki00056935-00" id="4"/><rel type="修飾" mode="AND" target="競技" sid="wiki00056935-00" id="5"/><rel type="ノ？" target="競技" sid="wiki00056935-00" id="3"/>
+連盟 れんめい 連盟 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00056935-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/04/18 MEMO:
 * 1D
-+ 1D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 2D <rel type="修飾" target="英語" sid="wiki00056935-01" id="0"/><rel type="ノ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ト" target="WA" sid="wiki00056935-01" id="2"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <体言><非用言格解析:動><rel type="修飾" target="英語" sid="wiki00056935-01" id="0"/><rel type="ノ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ト" target="WA" sid="wiki00056935-01" id="2"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00056935-01" id="1"/><rel type="=" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="=構" mode="AND" target="略称" sid="wiki00056935-01" id="1"/><memo text="CO"/><NE:ORGANIZATION:WA>
-WA WA WA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00056935-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="=構" mode="AND" target="略称" sid="wiki00056935-01" id="1"/><NE:ORGANIZATION:WA>
+WA WA WA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00056935-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/04/18 MEMO:
 * 1D
-+ 1D <rel type="=" target="競技" sid="wiki00056935-00" id="3"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="競技" sid="wiki00056935-02" id="0"/>
-規則 きそく 規則 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="競技" sid="wiki00056935-00" id="3"/><体言><非用言格解析:動>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="競技" sid="wiki00056935-02" id="0"/><体言>
+規則 きそく 規則 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 10P <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="規則" sid="wiki00056935-02" id="1"/>
-整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10P <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="規則" sid="wiki00056935-02" id="1"/><用言:動><節-主辞><節-区切><時制:非過去>
+整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 3D
-+ 4D <rel type="ガ" target="団体" sid="wiki00056935-02" id="4"/><rel type="ニ" target="アスレティックス" sid="wiki00056935-00" id="1"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="加盟" sid="wiki00056935-02" id="3"/>
-団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ガ" target="団体" sid="wiki00056935-02" id="4"/><rel type="ニ" target="アスレティックス" sid="wiki00056935-00" id="1"/><体言><非用言格解析:動>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><rel type="修飾" target="加盟" sid="wiki00056935-02" id="3"/>
+団体 だんたい 団体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 9P <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="団体" sid="wiki00056935-02" id="4"/>
-統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9P <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="団体" sid="wiki00056935-02" id="4"/><体言><非用言格解析:動>
+統括 とうかつ 統括 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ガ" target="大会" sid="wiki00056935-02" id="8"/><rel type="=≒" target="国際" sid="wiki00056935-00" id="4"/>
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ガ" target="大会" sid="wiki00056935-02" id="8"/><用言:形><時制:非過去><rel type="=≒" target="国際" sid="wiki00056935-00" id="4"/>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 6D
-+ 8D <rel type="=" target="競技" sid="wiki00056935-00" id="3"/>
-競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 9D <rel type="ノ？" target="競技" sid="wiki00056935-02" id="7"/><rel type="修飾" target="世界的な" sid="wiki00056935-02" id="6"/><rel type="修飾" mode="AND" target="統括" sid="wiki00056935-02" id="5"/>
-大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><非用言格解析:動><rel type="=" target="競技" sid="wiki00056935-00" id="3"/>
+競技 きょうぎ 競技 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ノ？" target="競技" sid="wiki00056935-02" id="7"/><rel type="修飾" target="世界的な" sid="wiki00056935-02" id="6"/><rel type="修飾" mode="AND" target="統括" sid="wiki00056935-02" id="5"/>
+大会 たいかい 大会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="大会" sid="wiki00056935-02" id="8"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="大会" sid="wiki00056935-02" id="8"/><体言><非用言格解析:動>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="運営" sid="wiki00056935-02" id="9"/>
-担う になう 担う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
++ -1D <rel type="ガ" target="アスレティックス" sid="wiki00056935-00" id="1"/><rel type="ヲ" target="運営" sid="wiki00056935-02" id="9"/><用言:動><時制:非過去><節-主辞><節-区切>
+担う になう 担う 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

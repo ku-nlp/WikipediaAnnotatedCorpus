@@ -1,285 +1,285 @@
 # S-ID:wiki00059431-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2024/05/24 MEMO:
 * 6D
-+ 1D
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ニタイシテ" target="法人" sid="wiki00059431-00-01" id="0"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ニタイシテ" target="法人" sid="wiki00059431-00-01" id="0"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="法人" sid="wiki00059431-00-01" id="2"/><rel type="ヲ" target="金額" sid="wiki00059431-00-01" id="4"/>
-所得 しょとく 所得 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="所得" sid="wiki00059431-00-01" id="3"/><rel type="ノ？" mode="AND" target="法人" sid="wiki00059431-00-01" id="2"/>
-金額 きんがく 金額 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><非用言格解析:動><rel type="ガ" target="法人" sid="wiki00059431-00-01" id="2"/><rel type="ヲ" target="金額" sid="wiki00059431-00-01" id="4"/>
+所得 しょとく 所得 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ？" target="所得" sid="wiki00059431-00-01" id="3"/><rel type="ノ？" mode="AND" target="法人" sid="wiki00059431-00-01" id="2"/>
+金額 きんがく 金額 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/>
-課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="=構≒" target="金額" sid="wiki00059431-00-01" id="4"/>
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニ" target="不特定:人"/>
+課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="=構≒" target="金額" sid="wiki00059431-00-01" id="4"/>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 8D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 9D <rel type="ガ" target="税金" sid="wiki00059431-00-01" id="9"/><rel type="=≒" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="トシテ" target="標準" sid="wiki00059431-00-01" id="6"/><rel type="ニ" target="法人" sid="wiki00059431-00-01" id="2"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="AG:不特定人"/>
-課さ かさ 課す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 9D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="税金" sid="wiki00059431-00-01" id="9"/><rel type="=≒" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="トシテ" target="標準" sid="wiki00059431-00-01" id="6"/><rel type="ニ" target="法人" sid="wiki00059431-00-01" id="2"/><rel type="ニ" mode="AND" target="不特定:人"/><memo text="AG:不特定人"/>
+課さ かさ 課す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/><memo text="CO"/>
-税金 ぜいきん 税金 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><memo text="CO"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/>
+税金 ぜいきん 税金 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059431-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/06 MEMO:
 * -1D
-+ 1D <rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
-ほうじん ほうじん ほうじん 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="税" sid="wiki00059431-00-01" id="1"/>
-ぜい ぜい ぜい 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
+ほうじん ほうじん ほうじん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <体言><rel type="=" target="税" sid="wiki00059431-00-01" id="1"/>
+ぜい ぜい ぜい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00059431-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/05/24 MEMO:
 * 1P
-+ 2P <rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/>
-国税 こくぜい 国税 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言><rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/>
+国税 こくぜい 国税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * 4P
-+ 2D
-直接 ちょくせつ 直接だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 6P <rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="修飾" target="直接" sid="wiki00059431-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/><memo text="CO"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><非用言格解析:形>
+直接 ちょくせつ 直接だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 6P <体言><rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="直接" sid="wiki00059431-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D
-広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+広義 こうぎ 広義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-所得 しょとく 所得 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ニタイシテ" target="所得" sid="wiki00059431-01" id="4"/><rel type="修飾" target="広義" sid="wiki00059431-01" id="3"/><rel type="=≒" target="税" sid="wiki00059431-00-01" id="1"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+所得 しょとく 所得 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="ニタイシテ" target="所得" sid="wiki00059431-01" id="4"/><rel type="修飾" target="広義" sid="wiki00059431-01" id="3"/><rel type="=≒" target="税" sid="wiki00059431-00-01" id="1"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="税" sid="wiki00059431-01" id="5"/><rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/><memo text="CO"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="税" sid="wiki00059431-01" id="5"/><memo text="CO"/><rel type="ガ" target="税" sid="wiki00059431-00-01" id="1"/><rel type="=構" target="税" sid="wiki00059431-00-01" id="1"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059431-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:200.00000 MOD:2024/05/24 MEMO:
 * 1D
-+ 1D
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="国家間" sid="wiki00059431-02" id="0"/>
-移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="国家間" sid="wiki00059431-02" id="0"/>
+移動 いどう 移動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="移動" sid="wiki00059431-02" id="1"/><rel type="外の関係" target="こと" sid="wiki00059431-02" id="3"/>
-容易に よういに 容易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 3D <用言:動><時制:過去><節-主辞><rel type="ガ" target="移動" sid="wiki00059431-02" id="1"/><rel type="外の関係" target="こと" sid="wiki00059431-02" id="3"/>
+容易に よういに 容易だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
 * 13D
-+ 24D <rel type="トイウ" target="容易になった" sid="wiki00059431-02" id="2"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 24D <体言><rel type="トイウ" target="容易になった" sid="wiki00059431-02" id="2"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 5D
-多 た 多 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="多" sid="wiki00059431-02" id="4"/>
-国籍 こくせき 国籍 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="修飾" target="国籍" sid="wiki00059431-02" id="5"/><rel type="=≒" target="法人" sid="wiki00059431-00-01" id="2"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+多 た 多 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="修飾" target="多" sid="wiki00059431-02" id="4"/>
+国籍 こくせき 国籍 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="修飾" target="国籍" sid="wiki00059431-02" id="5"/><rel type="=≒" target="法人" sid="wiki00059431-00-01" id="2"/>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 14D <用言:動><時制:非過去>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 7D
 + 11D <rel type="ガ" target="率" sid="wiki00059431-02" id="11"/>
-低 てい 低 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 10D <rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=" target="税" sid="wiki00059431-00-01" id="1"/><rel type="ニタイシテ" target="法人" sid="wiki00059431-02" id="9"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ノ" target="税" sid="wiki00059431-02" id="10"/>
-率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+低 てい 低 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <体言><rel type="=" target="法人" sid="wiki00059431-00-01" id="0"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><rel type="=" target="税" sid="wiki00059431-00-01" id="1"/><rel type="ニタイシテ" target="法人" sid="wiki00059431-02" id="9"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ノ" target="税" sid="wiki00059431-02" id="10"/><体言>
+率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="修飾" target="率" sid="wiki00059431-02" id="11"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言><rel type="修飾" target="率" sid="wiki00059431-02" id="11"/>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 14D <rel type="=" target="課税" sid="wiki00059431-00-01" id="5"/>
-課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 15P <rel type="ニヨッテ" target="企業" sid="wiki00059431-02" id="6"/><rel type="デ" target="国" sid="wiki00059431-02" id="11"/><rel type="ヲ" target="課税" sid="wiki00059431-02" id="13"/><rel type="ガ" target="企業" sid="wiki00059431-02" id="6"/>
-逃れ のがれ 逃れ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言><非用言格解析:動><rel type="=" target="課税" sid="wiki00059431-00-01" id="5"/>
+課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15P <rel type="ニヨッテ" target="企業" sid="wiki00059431-02" id="6"/><rel type="デ" target="国" sid="wiki00059431-02" id="11"/><体言><rel type="ヲ" target="課税" sid="wiki00059431-02" id="13"/><rel type="ガ" target="企業" sid="wiki00059431-02" id="6"/>
+逃れ のがれ 逃れ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <rel type="ガ" target="税金" sid="wiki00059431-00-01" id="9"/><rel type="ニ" target="国" sid="wiki00059431-02" id="12"/>
-流出 りゅうしゅつ 流出 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 24D <rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="逃れ" sid="wiki00059431-02" id="14"/><rel type="ヲ" mode="AND" target="流出" sid="wiki00059431-02" id="15"/>
-軽減 けいげん 軽減 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <体言><非用言格解析:動><rel type="ガ" target="税金" sid="wiki00059431-00-01" id="9"/><rel type="ニ" target="国" sid="wiki00059431-02" id="12"/>
+流出 りゅうしゅつ 流出 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 24D <用言:動><節-主辞><節-区切><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="逃れ" sid="wiki00059431-02" id="14"/><rel type="ヲ" mode="AND" target="流出" sid="wiki00059431-02" id="15"/>
+軽減 けいげん 軽減 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 せよう せよう せる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 意志形 4 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 18D <rel type="=" target="法人" sid="wiki00059431-02" id="9"/>
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D <rel type="=" target="税" sid="wiki00059431-02" id="10"/>
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D <rel type="=≒" target="率" sid="wiki00059431-02" id="11"/><rel type="ノ" target="税" sid="wiki00059431-02" id="18"/>
-率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 18D <体言><rel type="=" target="法人" sid="wiki00059431-02" id="9"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <体言><rel type="=" target="税" sid="wiki00059431-02" id="10"/>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <体言><rel type="=≒" target="率" sid="wiki00059431-02" id="11"/><rel type="ノ" target="税" sid="wiki00059431-02" id="18"/>
+率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 22D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 22D <用言:形><時制:非過去>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 13D
-+ 22D <rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="率" sid="wiki00059431-02" id="19"/>
-引き下げ ひきさげ 引き下げ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 24D <rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ニツイテ" target="引き下げ" sid="wiki00059431-02" id="21"/><rel type="ニツイテ" mode="AND" target="率" sid="wiki00059431-02" id="19"/>
-競争 きょうそう 競争 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 22D <体言><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="率" sid="wiki00059431-02" id="19"/>
+引き下げ ひきさげ 引き下げ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 24D <体言><非用言格解析:動><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ニツイテ" target="引き下げ" sid="wiki00059431-02" id="21"/><rel type="ニツイテ" mode="AND" target="率" sid="wiki00059431-02" id="19"/>
+競争 きょうそう 競争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 24D
-問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 24D <体言>
+問題 もんだい 問題 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 25D <rel type="デ" target="こと" sid="wiki00059431-02" id="3"/><rel type="ガ" target="競争" sid="wiki00059431-02" id="22"/><rel type="ニ" target="問題" sid="wiki00059431-02" id="23"/><rel type="外の関係" target="ため" sid="wiki00059431-02" id="25"/>
-なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 25D <用言:動><時制:過去><節-主辞><rel type="デ" target="こと" sid="wiki00059431-02" id="3"/><rel type="ガ" target="競争" sid="wiki00059431-02" id="22"/><rel type="ニ" target="問題" sid="wiki00059431-02" id="23"/><rel type="外の関係" target="ため" sid="wiki00059431-02" id="25"/>
+なって なって なる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 35D
-+ 60D <rel type="ノ" target="なっていた" sid="wiki00059431-02" id="24"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 60D <体言><節-区切><rel type="ノ" target="なっていた" sid="wiki00059431-02" id="24"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 16D
-+ 27D
-2021 にせんにじゅういち 2021 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 27D <体言>
+2021 にせんにじゅういち 2021 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 32D <NE:DATE:2021年6月>
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 32D <体言><NE:DATE:2021年6月>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 18P
-+ 29D
-G じー G 特殊 1 記号 5 * 0 * 0 NIL
-+ 31D
-7 せぶん 7 名詞 6 数詞 7 * 0 * 0 NIL
-+ 31D
-財務 ざいむ 財務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 32D <rel type="ノ" target="7" sid="wiki00059431-02" id="29"/><rel type="ノ？" target="財務" sid="wiki00059431-02" id="30"/>
-相 しょう 相 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 35P <rel type="ガ" target="相" sid="wiki00059431-02" id="31"/><rel type="時間" target="6月" sid="wiki00059431-02" id="27"/><rel type="デ" target="会合" sid="wiki00059431-02" id="32"/>
-会合 かいごう 会合 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 29D <体言>
+G じー G 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 31D <体言>
+7 せぶん 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 31D <体言>
+財務 ざいむ 財務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 32D <体言><rel type="ノ" target="7" sid="wiki00059431-02" id="29"/><rel type="ノ？" target="財務" sid="wiki00059431-02" id="30"/>
+相 しょう 相 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 35P <体言><非用言格解析:動><rel type="ガ" target="相" sid="wiki00059431-02" id="31"/><rel type="時間" target="6月" sid="wiki00059431-02" id="27"/><rel type="デ" target="会合" sid="wiki00059431-02" id="32"/>
+会合 かいごう 会合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18P
-+ 35I <rel type="ノ" target="2021年" sid="wiki00059431-02" id="26"/><NE:DATE:7月>
-7 しち/なな 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 35I <体言><NE:DATE:7月><rel type="ノ" target="2021年" sid="wiki00059431-02" id="26"/>
+7 しち/なな 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 20I
-+ 35D
-G じー G 特殊 1 記号 5 * 0 * 0 NIL
-+ 37P <rel type="時間" target="7月" sid="wiki00059431-02" id="33"/><rel type="デ" target="20" sid="wiki00059431-02" id="35"/><rel type="ガ" target="20" sid="wiki00059431-02" id="35"/>
-20 とぅえんてぃ 20 名詞 6 数詞 7 * 0 * 0 NIL
++ 35D <体言>
+G じー G 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 37P <体言><rel type="時間" target="7月" sid="wiki00059431-02" id="33"/><rel type="デ" target="20" sid="wiki00059431-02" id="35"/><rel type="ガ" target="20" sid="wiki00059431-02" id="35"/>
+20 とぅえんてぃ 20 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 20D
-+ 37I <rel type="ノ" target="2021年" sid="wiki00059431-02" id="26"/><NE:DATE:10月>
-10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 37I <体言><NE:DATE:10月><rel type="ノ" target="2021年" sid="wiki00059431-02" id="26"/>
+10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 30D
-+ 52D <NE:ORGANIZATION:OECD>
-OECD OECD OECD 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 52D <体言><NE:ORGANIZATION:OECD>
+OECD OECD OECD 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 39D <rel type="ガ" target="国" sid="wiki00059431-02" id="39"/><rel type="ニ" target="OECD" sid="wiki00059431-02" id="37"/>
++ 39D <体言><非用言格解析:動><否定表現><rel type="ガ" target="国" sid="wiki00059431-02" id="39"/><rel type="ニ" target="OECD" sid="wiki00059431-02" id="37"/>
 非 ひ 非 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 40D <rel type="ノ？" target="非加盟" sid="wiki00059431-02" id="38"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 40D <体言><rel type="ノ？" target="非加盟" sid="wiki00059431-02" id="38"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 23D
-+ 41D
-含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
++ 41D <用言:動><時制:非過去><節-主辞>
+含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 * 24D
-+ 42P <rel type="ヲフクメテ" target="国" sid="wiki00059431-02" id="39"/><rel type="=≒" target="国家" sid="wiki00059431-02" id="0"/><rel type="=≒" mode="AND" target="20" sid="wiki00059431-02" id="35"/>
-140 ひゃくよんじゅっ/ひゃくよんじっ 140 名詞 6 数詞 7 * 0 * 0 NIL
++ 42P <体言><rel type="ヲフクメテ" target="国" sid="wiki00059431-02" id="39"/><rel type="=≒" target="国家" sid="wiki00059431-02" id="0"/><rel type="=≒" mode="AND" target="20" sid="wiki00059431-02" id="35"/>
+140 ひゃくよんじゅっ/ひゃくよんじっ 140 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 カ国 かこく カ国 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 43D <rel type="=≒" target="国家" sid="wiki00059431-02" id="0"/><rel type="=≒" mode="AND" target="20" sid="wiki00059431-02" id="35"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 43D <体言><rel type="=≒" target="国家" sid="wiki00059431-02" id="0"/><rel type="=≒" mode="AND" target="20" sid="wiki00059431-02" id="35"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 30D
-+ 52D <rel type="デ" target="OECD" sid="wiki00059431-02" id="37"/><rel type="時間" target="10月" sid="wiki00059431-02" id="36"/><rel type="ガ" target="140カ国" sid="wiki00059431-02" id="41"/><rel type="ガ" mode="AND" target="地域" sid="wiki00059431-02" id="42"/>
-参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 52D <rel type="デ" target="OECD" sid="wiki00059431-02" id="37"/><rel type="時間" target="10月" sid="wiki00059431-02" id="36"/><rel type="ガ" target="140カ国" sid="wiki00059431-02" id="41"/><rel type="ガ" mode="AND" target="地域" sid="wiki00059431-02" id="42"/><用言:動><節-主辞><節-区切><時制:過去>
+参加 さんか 参加 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 28D
-+ 50D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 50D <用言:形><時制:非過去>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的に てきに 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連用形 7 NIL
 * 28D
-+ 48D <rel type="ガ" target="率" sid="wiki00059431-02" id="48"/>
++ 48D <体言><非用言格解析:形><rel type="ガ" target="率" sid="wiki00059431-02" id="48"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-最低 さいてい 最低だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 47D
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 48D
-税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL
+最低 さいてい 最低だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 47D <体言>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 48D <体言>
+税 ぜい 税 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 50D <rel type="修飾" target="最低" sid="wiki00059431-02" id="45"/><rel type="=" target="率" sid="wiki00059431-02" id="19"/>
-率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
+率 りつ 率 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 28D
-+ 50D <rel type="ノ" target="率" sid="wiki00059431-02" id="48"/><rel type="=構" target="率" sid="wiki00059431-02" id="48"/><NE:PERCENT:15%>
-15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
-% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
++ 50D <体言><NE:PERCENT:15%><rel type="ノ" target="率" sid="wiki00059431-02" id="48"/><rel type="=構" target="率" sid="wiki00059431-02" id="48"/>
+15 じゅうご 15 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
+% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:tail>
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 29D
-+ 51D <rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="率" sid="wiki00059431-02" id="48"/><rel type="ト" target="15%以上" sid="wiki00059431-02" id="49"/><rel type="外の関係" target="こと" sid="wiki00059431-02" id="51"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 51D <体言><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="率" sid="wiki00059431-02" id="48"/><rel type="ト" target="15%以上" sid="wiki00059431-02" id="49"/><rel type="外の関係" target="こと" sid="wiki00059431-02" id="51"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 30D
-+ 52D <rel type="トイウ" target="する" sid="wiki00059431-02" id="50"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 52D <体言><rel type="トイウ" target="する" sid="wiki00059431-02" id="50"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 35D
-+ 60P <rel type="ガ" target="こと" sid="wiki00059431-02" id="51"/><rel type="デ" target="OECD" sid="wiki00059431-02" id="37"/><rel type="時間" target="10月" sid="wiki00059431-02" id="36"/>
-決まり きまり 決まる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
++ 60P <rel type="ガ" target="こと" sid="wiki00059431-02" id="51"/><rel type="デ" target="OECD" sid="wiki00059431-02" id="37"/><rel type="時間" target="10月" sid="wiki00059431-02" id="36"/><用言:動><節-主辞><節-区切><時制:過去>
+決まり きまり 決まる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 33D
-+ 56D
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 55D
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 56D <rel type="ニタイシテ" target="法人" sid="wiki00059431-02" id="54"/><rel type="=" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ニ" target="法人" sid="wiki00059431-02" id="54"/>
-課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 58D <rel type="ノ" target="課税" sid="wiki00059431-02" id="55"/><rel type="修飾" target="国際" sid="wiki00059431-02" id="53"/>
-ルール るーる ルール 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 56D <体言>
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 55D <体言>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 56D <体言><非用言格解析:動><rel type="ニタイシテ" target="法人" sid="wiki00059431-02" id="54"/><rel type="=" target="課税" sid="wiki00059431-00-01" id="5"/><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ニ" target="法人" sid="wiki00059431-02" id="54"/>
+課税 かぜい 課税 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 58D <体言><rel type="ノ" target="課税" sid="wiki00059431-02" id="55"/><rel type="修飾" target="国際" sid="wiki00059431-02" id="53"/>
+ルール るーる ルール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 33D
-+ 58D <rel type="ガ" target="見直し" sid="wiki00059431-02" id="58"/>
-大幅な おおはばな 大幅だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 58D <用言:形><時制:非過去><rel type="ガ" target="見直し" sid="wiki00059431-02" id="58"/>
+大幅な おおはばな 大幅だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 35D
-+ 60D <rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="ルール" sid="wiki00059431-02" id="56"/><rel type="=≒" target="こと" sid="wiki00059431-02" id="51"/>
-見直し みなおし 見直し 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 60D <体言><rel type="ガ" target="国家" sid="wiki00059431-02" id="0"/><rel type="ヲ" target="ルール" sid="wiki00059431-02" id="56"/><rel type="=≒" target="こと" sid="wiki00059431-02" id="51"/>
+見直し みなおし 見直し 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 35D
-+ 60D
++ 60D <体言>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL
+100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ぶり ぶり ぶり 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="見直し" sid="wiki00059431-02" id="58"/><rel type="=" target="決まり" sid="wiki00059431-02" id="52"/><rel type="時間" target="約100年ぶり" sid="wiki00059431-02" id="59"/>
-決まった きまった 決まる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="見直し" sid="wiki00059431-02" id="58"/><rel type="=" target="決まり" sid="wiki00059431-02" id="52"/><rel type="時間" target="約100年ぶり" sid="wiki00059431-02" id="59"/>
+決まった きまった 決まる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,118 +1,118 @@
 # S-ID:wiki00010193-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/11/05 MEMO:
 * 1P
-+ 1D
-リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3P <NE:LOCATION:リヒテンシュタイン公国>
-公国 こうこく 公国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <体言><NE:LOCATION:リヒテンシュタイン公国>
+公国 こうこく 公国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 3D <rel type="ノ" target="国" sid="wiki00010193-00-01" id="2"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="=構" target="通称" sid="wiki00010193-00-01" id="2"/><rel type="=" mode="AND" target="公国" sid="wiki00010193-00-01" id="1"/><NE:LOCATION:リヒテンシュタイン>
-リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="ノ" target="国" sid="wiki00010193-00-01" id="2"/><体言>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <体言><NE:LOCATION:リヒテンシュタイン><rel type="=構" target="通称" sid="wiki00010193-00-01" id="2"/><rel type="=" mode="AND" target="公国" sid="wiki00010193-00-01" id="1"/>
+リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="修飾" target="中央" sid="wiki00010193-00-01" id="4"/><NE:LOCATION:中央ヨーロッパ>
-ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言><NE:LOCATION:中央ヨーロッパ><rel type="修飾" target="中央" sid="wiki00010193-00-01" id="4"/>
+ヨーロッパ よーろっぱ ヨーロッパ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ガ" target="国家" sid="wiki00010193-00-01" id="10"/><rel type="ニ" target="ヨーロッパ" sid="wiki00010193-00-01" id="5"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="国家" sid="wiki00010193-00-01" id="11"/><rel type="ニ" target="ヨーロッパ" sid="wiki00010193-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 9D
-立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D
-君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="君主" sid="wiki00010193-00-01" id="8"/><rel type="修飾" target="立憲" sid="wiki00010193-00-01" id="7"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="4"/><rel type="修飾" target="制" sid="wiki00010193-00-01" id="9"/><rel type="=構" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="3"/><memo text="CO"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+立憲 りっけん 立憲 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言>
+君主 くんしゅ 君主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="君主" sid="wiki00010193-00-01" id="9"/><体言><rel type="修飾" target="立憲" sid="wiki00010193-00-01" id="7"/>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="制" sid="wiki00010193-00-01" id="9"/><rel type="=構" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="3"/><memo text="CO"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010193-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/05 MEMO:
 * -1D
-+ 1D <rel type="=" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="0"/>
-リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="公国" sid="wiki00010193-00-01" id="1"/><NE:LOCATION:リヒテンシュタインこうこく>
-こうこく こうこく こうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言><rel type="=" target="リヒテンシュタイン" sid="wiki00010193-00-01" id="0"/>
+リヒテンシュタイン りひてんしゅたいん リヒテンシュタイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=" target="公国" sid="wiki00010193-00-01" id="1"/><体言><NE:LOCATION:リヒテンシュタインこうこく>
+こうこく こうこく こうこく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00010193-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/11/05 MEMO:
 * 1P
-+ 1P <NE:LOCATION:スイス>
-スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <体言><NE:LOCATION:スイス>
+スイス すいす スイス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:オーストリア>
-オーストリア おーすとりあ オーストリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:オーストリア>
+オーストリア おーすとりあ オーストリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="一つ" sid="wiki00010193-01" id="5"/><rel type="ニ" target="スイス" sid="wiki00010193-01" id="0"/><rel type="ニ" mode="AND" target="オーストリア" sid="wiki00010193-01" id="1"/>
-囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
++ 5D <rel type="ガ" target="一つ" sid="wiki00010193-01" id="5"/><rel type="ニ" target="スイス" sid="wiki00010193-01" id="0"/><rel type="ニ" mode="AND" target="オーストリア" sid="wiki00010193-01" id="1"/><用言:動><節-主辞><時制:非過去>
+囲ま かこま 囲む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 4D
-+ 4D
-ミニ みに ミニ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="ミニ" sid="wiki00010193-01" id="3"/><rel type="=≒" target="公国" sid="wiki00010193-00-01" id="1"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+ミニ みに ミニ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><rel type="修飾" target="ミニ" sid="wiki00010193-01" id="3"/><rel type="=≒" target="公国" sid="wiki00010193-00-01" id="1"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="国家" sid="wiki00010193-01" id="4"/><rel type="ガ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" mode="AND" target="国家" sid="wiki00010193-01" id="4"/><memo text="CO"/>
++ -1D <rel type="ノ" target="国家" sid="wiki00010193-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" mode="AND" target="国家" sid="wiki00010193-01" id="4"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010193-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/12/12 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="公国" sid="wiki00010193-00-01" id="1"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="公国" sid="wiki00010193-00-01" id="1"/>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00010193-02" id="0"/><rel type="=構" target="首都" sid="wiki00010193-02" id="0"/><rel type="ノ？" target="公国" sid="wiki00010193-00-01" id="1"/><memo text="CO"/><NE:LOCATION:ファドゥーツ>
-ファドゥーツ ふぁどぅーつ ファドゥーツ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="首都" sid="wiki00010193-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ファドゥーツ><rel type="=構" target="首都" sid="wiki00010193-02" id="0"/><rel type="ノ？" target="公国" sid="wiki00010193-00-01" id="1"/><memo text="CO"/>
+ファドゥーツ ふぁどぅーつ ファドゥーツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010193-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/05 MEMO:
 * -1D
-+ 3D <rel type="=≒" target="ヨーロッパ" sid="wiki00010193-00-01" id="5"/>
-欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="ガ" target="不特定:人"/>
-自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="ガ" target="不特定:人"/>
-貿易 ぼうえき 貿易 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4D <NE:ORGANIZATION:欧州自由貿易連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
-+ 5D <rel type="ガ" target="国" sid="wiki00010193-03-01" id="5"/><rel type="ニ" target="連合" sid="wiki00010193-03-01" id="3"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" target="公国" sid="wiki00010193-00-01" id="1"/><memo text="CO"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><rel type="=≒" target="ヨーロッパ" sid="wiki00010193-00-01" id="5"/>
+欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><非用言格解析:形><rel type="ガ" target="不特定:人"/>
+自由 じゆう 自由だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
+貿易 ぼうえき 貿易 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 4D <体言><非用言格解析:動><NE:ORGANIZATION:欧州自由貿易連合>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 5D <rel type="ガ" target="国" sid="wiki00010193-03-01" id="5"/><rel type="ニ" target="連合" sid="wiki00010193-03-01" id="3"/><体言><非用言格解析:動>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="=構" target="公国" sid="wiki00010193-00-01" id="1"/><memo text="CO"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00010193-03-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/12/12 MEMO:
 * -1D
-+ -1D <rel type="=" target="連合" sid="wiki00010193-03-01" id="3"/><NE:ORGANIZATION:EFTA>
-EFTA EFTA EFTA 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="連合" sid="wiki00010193-03-01" id="3"/><体言><NE:ORGANIZATION:EFTA>
+EFTA EFTA EFTA 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00010193-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/11/05 MEMO:
 * 1D
-+ 1D
-西 せい 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="修飾" target="西" sid="wiki00010193-04" id="0"/><rel type="=≒" target="欧州" sid="wiki00010193-03-01" id="0"/><NE:LOCATION:西欧>
-欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+西 せい 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:西欧><rel type="修飾" target="西" sid="wiki00010193-04" id="0"/><rel type="=≒" target="欧州" sid="wiki00010193-03-01" id="0"/>
+欧 おう 欧 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="欧" sid="wiki00010193-04" id="1"/><rel type="ヲ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="外の関係" target="見解" sid="wiki00010193-04" id="3"/>
-分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="欧" sid="wiki00010193-04" id="1"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="公国" sid="wiki00010193-00-01" id="1"/><rel type="外の関係" target="見解" sid="wiki00010193-04" id="3"/>
+分類 ぶんるい 分類 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 3D
-+ 4D <rel type="トイウ" target="分類する" sid="wiki00010193-04" id="2"/>
-見解 けんかい 見解 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><rel type="トイウ" target="分類する" sid="wiki00010193-04" id="2"/>
+見解 けんかい 見解 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="見解" sid="wiki00010193-04" id="3"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="見解" sid="wiki00010193-04" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,120 +1,120 @@
 # S-ID:wiki00029298-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/07/21 MEMO:
 * 6D
-+ 6D <rel type="ノ？" target="中国" sid="wiki00029298-00-01" id="1"/><NE:LOCATION:黄河>
-黄河 こうが 黄河 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:黄河><rel type="ノ？" target="中国" sid="wiki00029298-00-01" id="1"/>
+黄河 こうが 黄河 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="中国" sid="wiki00029298-00-01" id="1"/>
-北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="中国" sid="wiki00029298-00-01" id="1"/><体言>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="ガ" target="川" sid="wiki00029298-00-01" id="6"/><rel type="ヲ" target="北部" sid="wiki00029298-00-01" id="2"/>
-流れ ながれ 流れる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 5P <rel type="ガ" target="川" sid="wiki00029298-00-01" id="6"/><rel type="ヲ" target="北部" sid="wiki00029298-00-01" id="2"/><用言:動><節-主辞><節-区切>
+流れ ながれ 流れる 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D <NE:LOCATION:渤海>
-渤海 ぼっかい 渤海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <体言><NE:LOCATION:渤海>
+渤海 ぼっかい 渤海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 へ へ へ 助詞 9 格助詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="川" sid="wiki00029298-00-01" id="6"/><rel type="ヘ" target="渤海" sid="wiki00029298-00-01" id="4"/>
-注ぐ そそぐ 注ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL
++ 6D <rel type="ガ" target="川" sid="wiki00029298-00-01" id="6"/><用言:動><時制:非過去><節-主辞><rel type="ヘ" target="渤海" sid="wiki00029298-00-01" id="4"/>
+注ぐ そそぐ 注ぐ 動詞 2 * 0 子音動詞ガ行 4 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="修飾" target="流れ" sid="wiki00029298-00-01" id="3"/><rel type="修飾" mode="AND" target="注ぐ" sid="wiki00029298-00-01" id="5"/>
-川 かわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="修飾" target="流れ" sid="wiki00029298-00-01" id="3"/><rel type="修飾" mode="AND" target="注ぐ" sid="wiki00029298-00-01" id="5"/>
+川 かわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00029298-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:3.00000 MOD:2025/04/07 MEMO:
 * 1P
-+ 1P <rel type="=" target="黄河" sid="wiki00029298-00-01" id="0"/><NE:LOCATION:こうが>
-こうが こうが こうが 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1P <rel type="=" target="黄河" sid="wiki00029298-00-01" id="0"/><体言><NE:LOCATION:こうが>
+こうが こうが こうが 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="黄河" sid="wiki00029298-00-01" id="0"/><memo text="huang he"/><NE:LOCATION:ホワンホー>
-ホワンホー ほわんほー ホワンホー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="=" target="黄河" sid="wiki00029298-00-01" id="0"/><体言><memo text="huang he"/><NE:LOCATION:ホワンホー>
+ホワンホー ほわんほー ホワンホー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS
 # S-ID:wiki00029298-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:54.00000 MOD:2025/07/21 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="黄河" sid="wiki00029298-00-01" id="0"/>
-全長 ぜんちょう 全長 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="黄河" sid="wiki00029298-00-01" id="0"/>
+全長 ぜんちょう 全長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 14P
-+ 15P <rel type="ガ" target="全長" sid="wiki00029298-01-01" id="0"/><rel type="ガ２" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="=構" target="全長" sid="wiki00029298-01-01" id="0"/>
++ 15P <rel type="ガ" target="全長" sid="wiki00029298-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ２" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="=構" target="全長" sid="wiki00029298-01-01" id="0"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-5,464キロ ごせんよんひゃくろくじゅうよんきろ 5,464キロ 名詞 6 数詞 7 * 0 * 0 NIL
+5,464キロ ごせんよんひゃくろくじゅうよんきろ 5,464キロ 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 メートル めーとる メートル 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="=" target="中国" sid="wiki00029298-00-01" id="1"/><NE:LOCATION:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="=" target="中国" sid="wiki00029298-00-01" id="1"/><体言><NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ？" target="中国" sid="wiki00029298-01-01" id="2"/><NE:PERSON:長江>
-長江 ちょうこう 長江 名詞 6 地名 4 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <体言><NE:PERSON:長江><rel type="ノ？" target="中国" sid="wiki00029298-01-01" id="2"/>
+長江 ちょうこう 長江 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ニ" target="長江" sid="wiki00029298-01-01" id="3"/>
-次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL
++ 6D <rel type="ニ" target="長江" sid="wiki00029298-01-01" id="3"/><用言:動><節-主辞><節-区切>
+次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 6D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 15P <rel type="ニツヅイテ" target="長江" sid="wiki00029298-01-01" id="3"/><rel type="デ" target="中国" sid="wiki00029298-01-01" id="2"/><rel type="ニ" target="2番目" sid="wiki00029298-01-01" id="5"/><rel type="ニ" mode="？" target="なし"/><rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/>
-長く ながく 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
++ 15P <用言:形><時制:非過去><節-主辞><節-区切><rel type="ニツヅイテ" target="長江" sid="wiki00029298-01-01" id="3"/><rel type="デ" target="中国" sid="wiki00029298-01-01" id="2"/><rel type="ニ" target="2番目" sid="wiki00029298-01-01" id="5"/><rel type="ニ" mode="？" target="なし"/><rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/>
+長く ながく 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11I
-+ 12I <NE:LOCATION:アジア>
-アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 12I <体言><NE:LOCATION:アジア>
+アジア あじあ アジア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 9P
-+ 10P <rel type="=" target="長江" sid="wiki00029298-01-01" id="3"/><NE:LOCATION:長江>
-長江 ちょうこう 長江 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10P <rel type="=" target="長江" sid="wiki00029298-01-01" id="3"/><体言><NE:LOCATION:長江>
+長江 ちょうこう 長江 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 10D
-エニセイ えにせい エニセイ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <memo text="ロシアを流れる川"/><NE:LOCATION:エニセイ川>
-川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <体言>
+エニセイ えにせい エニセイ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <体言><NE:LOCATION:エニセイ川><memo text="ロシアを流れる川"/>
+川 がわ 川 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 12D <rel type="ニ" target="川" sid="wiki00029298-01-01" id="10"/><rel type="ニ" mode="AND" target="長江" sid="wiki00029298-01-01" id="8"/>
-次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL
++ 12D <用言:動><rel type="ニ" target="川" sid="wiki00029298-01-01" id="10"/><rel type="ニ" mode="AND" target="長江" sid="wiki00029298-01-01" id="8"/>
+次いで ついで 次ぐ 動詞 2 * 0 子音動詞ガ行 4 タ系連用テ形 14 NIL <基本句-主辞>
 * 13P
-+ 14P <rel type="ニツヅイテ" target="長江" sid="wiki00029298-01-01" id="8"/><rel type="ニツヅイテ" mode="AND" target="川" sid="wiki00029298-01-01" id="10"/><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="デ" target="アジア" sid="wiki00029298-01-01" id="7"/><rel type="修飾" target="3位" sid="wiki00029298-01-01" id="12"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 14P <体言><rel type="ニツヅイテ" target="長江" sid="wiki00029298-01-01" id="8"/><rel type="ニツヅイテ" mode="AND" target="川" sid="wiki00029298-01-01" id="10"/><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="デ" target="アジア" sid="wiki00029298-01-01" id="7"/><rel type="修飾" target="3位" sid="wiki00029298-01-01" id="12"/>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13I
-+ 14I
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14I <体言>
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 14D
-+ 15D <rel type="デ" target="世界" sid="wiki00029298-01-01" id="13"/>
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL
++ 15D <体言><rel type="デ" target="世界" sid="wiki00029298-01-01" id="13"/>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 番 ばん 番 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 目 め 目 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="修飾" target="6番目" sid="wiki00029298-01-01" id="14"/><rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/>
-長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="6番目" sid="wiki00029298-01-01" id="14"/><rel type="ガ" target="黄河" sid="wiki00029298-00-01" id="0"/><rel type="=構" target="黄河" sid="wiki00029298-00-01" id="0"/>
+長 なが 長い 形容詞 3 * 0 イ形容詞アウオ段 18 語幹 1 NIL <基本句-主辞>
 さ さ さ 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00029298-01-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/07/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="長江" sid="wiki00029298-01-01" id="3"/><NE:LOCATION:揚子江>
-揚子江 ようすこう 揚子江 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <体言><NE:LOCATION:揚子江><rel type="=" target="長江" sid="wiki00029298-01-01" id="3"/>
+揚子江 ようすこう 揚子江 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 EOS

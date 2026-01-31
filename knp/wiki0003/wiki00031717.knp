@@ -1,96 +1,96 @@
 # S-ID:wiki00031717-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/04/22 MEMO:
 * 5D
-+ 1D
-FC FC FC 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 9D <NE:ORGANIZATION:FCバルセロナ>
-バルセロナ ばるせろな バルセロナ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+FC FC FC 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 9D <体言><NE:ORGANIZATION:FCバルセロナ>
+バルセロナ ばるせろな バルセロナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ？" target="スペイン" sid="wiki00031717-00" id="7"/>
-カタルーニャ かたるーにゃ カタルーニャ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言><rel type="ノ？" target="スペイン" sid="wiki00031717-00" id="7"/>
+カタルーニャ かたるーにゃ カタルーニャ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="=≒" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ノ？" target="カタルーニャ州" sid="wiki00031717-00" id="2"/><NE:LOCATION:カタルーニャ州バルセロナ>
-バルセロナ ばるせろな バルセロナ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言><NE:LOCATION:カタルーニャ州バルセロナ><rel type="=≒" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ノ？" target="カタルーニャ州" sid="wiki00031717-00" id="2"/>
+バルセロナ ばるせろな バルセロナ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ" target="クラブ" sid="wiki00031717-00" id="9"/>
-ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="ホーム" sid="wiki00031717-00" id="4"/><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="3"/>
-タウン たうん タウン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="ノ" target="クラブ" sid="wiki00031717-00" id="9"/>
+ホーム ほーむ ホーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="修飾" target="ホーム" sid="wiki00031717-00" id="4"/><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="3"/>
+タウン たうん タウン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="クラブ" sid="wiki00031717-00" id="9"/><rel type="ヲ" target="バルセロナ" sid="wiki00031717-00" id="3"/><rel type="ト" target="タウン" sid="wiki00031717-00" id="5"/>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 9D <rel type="ガ" target="クラブ" sid="wiki00031717-00" id="9"/><rel type="ヲ" target="バルセロナ" sid="wiki00031717-00" id="3"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="タウン" sid="wiki00031717-00" id="5"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 9D <NE:LOCATION:スペイン>
-スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <体言><NE:LOCATION:スペイン>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 9D
-サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ノ" target="サッカー" sid="wiki00031717-00" id="8"/><rel type="ノ？" target="スペイン" sid="wiki00031717-00" id="7"/><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><memo text="CO"/>
-クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+サッカー さっかー サッカー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ノ" target="サッカー" sid="wiki00031717-00" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="スペイン" sid="wiki00031717-00" id="7"/><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><memo text="CO"/>
+クラブ くらぶ クラブ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031717-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/05/30 MEMO:
 * 4D
 + 4D
-単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL
+単に たんに 単に 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 2P
-+ 2P <rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><NE:ORGANIZATION:バルセロナ>
-バルセロナ ばるせろな バルセロナ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 2P <体言><NE:ORGANIZATION:バルセロナ><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/>
+バルセロナ ばるせろな バルセロナ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><NE:ORGANIZATION:バルサ>
-バルサ ばるさ バルサ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3D <体言><NE:ORGANIZATION:バルサ><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/>
+バルサ ばるさ バルサ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 4D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ニ" target="不特定:人"/><rel type="トシテ" target="バルセロナ" sid="wiki00031717-01-01" id="1"/><rel type="トシテ" mode="AND" target="バルサ" sid="wiki00031717-01-01" id="2"/>
-知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
++ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="トシテ" target="バルセロナ" sid="wiki00031717-01-01" id="1"/><rel type="トシテ" mode="AND" target="バルサ" sid="wiki00031717-01-01" id="2"/>
+知ら しら 知る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031717-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="バルセロナ" sid="wiki00031717-01-01" id="1"/><NE:ORGANIZATION:Barcelona>
-Barcelona Barcelona Barcelona 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><NE:ORGANIZATION:Barcelona><rel type="=" target="バルセロナ" sid="wiki00031717-01-01" id="1"/>
+Barcelona Barcelona Barcelona 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00031717-01-03 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/30 MEMO:
 * -1D
-+ -1D <rel type="=" target="バルサ" sid="wiki00031717-01-01" id="2"/><NE:ORGANIZATION:Barça>
-Barça Barça Barça 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="バルサ" sid="wiki00031717-01-01" id="2"/><体言><NE:ORGANIZATION:Barça>
+Barça Barça Barça 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00031717-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/04/22 MEMO:
 * 1D
-+ 3D <rel type="=" target="スペイン" sid="wiki00031717-00" id="7"/>
-スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="修飾" target="プロ" sid="wiki00031717-02-01" id="1"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 4D <rel type="ノ？" target="スペイン" sid="wiki00031717-02-01" id="0"/><NE:OPTIONAL:スペインプロリーグ機構><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <rel type="=" target="スペイン" sid="wiki00031717-00" id="7"/><体言>
+スペイン すぺいん スペイン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <体言><rel type="修飾" target="プロ" sid="wiki00031717-02-01" id="1"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 4D <体言><rel type="ノ？" target="スペイン" sid="wiki00031717-02-01" id="0"/><NE:OPTIONAL:スペインプロリーグ機構><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ガ" target="チーム" sid="wiki00031717-02-01" id="5"/><rel type="ニ" target="機構" sid="wiki00031717-02-01" id="3"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ガ" target="チーム" sid="wiki00031717-02-01" id="5"/><rel type="ニ" target="機構" sid="wiki00031717-02-01" id="3"/><用言:動><時制:非過去><節-主辞>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="修飾" target="所属する" sid="wiki00031717-02-01" id="4"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="バルセロナ" sid="wiki00031717-00" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="バルセロナ" sid="wiki00031717-00" id="1"/><rel type="修飾" target="所属する" sid="wiki00031717-02-01" id="4"/>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031717-02-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ 1D
-ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 1D <体言>
+ラ ら ラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="機構" sid="wiki00031717-02-01" id="3"/><NE:OPTIONAL:ラ・リーガ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ -1D <rel type="=" target="機構" sid="wiki00031717-02-01" id="3"/><体言><NE:OPTIONAL:ラ・リーガ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+リーガ りーが リーガ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS

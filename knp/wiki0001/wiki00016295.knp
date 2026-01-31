@@ -1,55 +1,55 @@
 # S-ID:wiki00016295-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000 MOD:2025/11/17 MEMO:
 * 5D
-+ 1D
-美作 みまさかの 美作 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 9D <rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/><NE:LOCATION:美作国>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+美作 みまさかの 美作 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 9D <体言><NE:LOCATION:美作国><rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
 + 6D
-かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL
+かつて かつて かつて 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 6D <NE:LOCATION:日本>
-日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:日本>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ？" target="地方" sid="wiki00016295-00-01" id="4"/>
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="8"/><rel type="時間" target="かつて" sid="wiki00016295-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00016295-00-01" id="5"/>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言><rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="ノ？" target="地方" sid="wiki00016295-00-01" id="4"/>
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="8"/><用言:判><体言><時制:過去><rel type="時間" target="かつて" sid="wiki00016295-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/><rel type="ノ？" mode="AND" target="行政" sid="wiki00016295-00-01" id="5"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 だった だった だ 判定詞 4 * 0 判定詞 25 ダ列タ形 8 NIL
 * 5D
-+ 8D
-令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=≒" target="国" sid="wiki00016295-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00016295-00-01" id="6"/><rel type="ノ？" target="令制" sid="wiki00016295-00-01" id="7"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+令制 りょうせい 令制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="=≒" target="国" sid="wiki00016295-00-01" id="1"/><rel type="=構" mode="AND" target="区分" sid="wiki00016295-00-01" id="6"/><rel type="ノ？" target="令制" sid="wiki00016295-00-01" id="7"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00016295-00-01" id="8"/><rel type="=構" target="国" sid="wiki00016295-00-01" id="1"/><rel type="=構" mode="AND" target="国" sid="wiki00016295-00-01" id="8"/><memo text="CO"/>
++ -1D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="1"/><rel type="ノ" target="国" sid="wiki00016295-00-01" id="8"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="国" sid="wiki00016295-00-01" id="1"/><rel type="=構" mode="AND" target="国" sid="wiki00016295-00-01" id="8"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00016295-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/17 MEMO:
 * -1D
-+ 1D <rel type="=" target="美作" sid="wiki00016295-00-01" id="0"/>
-みまさか みまさか みまさか 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言><rel type="=" target="美作" sid="wiki00016295-00-01" id="0"/>
+みまさか みまさか みまさか 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="国" sid="wiki00016295-00-01" id="1"/><NE:LOCATION:みまさかのくに>
-くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <体言><rel type="=" target="国" sid="wiki00016295-00-01" id="1"/><NE:LOCATION:みまさかのくに>
+くに くに くに 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00016295-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/17 MEMO:
 * 1D
-+ 1D
-山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/><rel type="=≒" target="国" sid="wiki00016295-00-01" id="1"/><NE:LOCATION:山陽道>
-道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+山陽 さんよう 山陽 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><NE:LOCATION:山陽道><rel type="ノ？" target="日本" sid="wiki00016295-00-01" id="3"/><rel type="=≒" target="国" sid="wiki00016295-00-01" id="1"/>
+道 どう 道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="1"/><rel type="ニ" target="道" sid="wiki00016295-01" id="1"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="国" sid="wiki00016295-00-01" id="1"/><rel type="ニ" target="道" sid="wiki00016295-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

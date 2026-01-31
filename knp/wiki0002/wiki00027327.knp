@@ -1,341 +1,341 @@
 # S-ID:wiki00027327-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/06/11 MEMO:
 * 2D
-+ 1D
-チャールズ ちゃーるず チャールズ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+チャールズ ちゃーるず チャールズ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2D
-ロバート ろばーと ロバート 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <体言>
+ロバート ろばーと ロバート 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6D <NE:PERSON:チャールズ・ロバート・ダーウィン>
-ダーウィン だーうぃん ダーウィン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 6D <体言><NE:PERSON:チャールズ・ロバート・ダーウィン>
+ダーウィン だーうぃん ダーウィン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 6D <NE:LOCATION:イギリス>
-イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <体言><NE:LOCATION:イギリス>
+イギリス いぎりす イギリス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D
-自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="自然" sid="wiki00027327-00-01" id="4"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ノ？" target="イギリス" sid="wiki00027327-00-01" id="3"/><rel type="ノ？" mode="AND" target="科学" sid="wiki00027327-00-01" id="5"/><memo text="CO"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 5D <体言>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="修飾" target="自然" sid="wiki00027327-00-01" id="4"/>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><memo text="CO"/><rel type="ノ？" target="イギリス" sid="wiki00027327-00-01" id="3"/><rel type="ノ？" mode="AND" target="科学" sid="wiki00027327-00-01" id="5"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027327-00-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/12 MEMO:
 * 2P
-+ 1D <rel type="=" target="チャールズ" sid="wiki00027327-00-01" id="0"/>
-Charles Charles Charles 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言><rel type="=" target="チャールズ" sid="wiki00027327-00-01" id="0"/>
+Charles Charles Charles 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2D <rel type="=" target="ロバート" sid="wiki00027327-00-01" id="1"/>
-Robert Robert Robert 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <体言><rel type="=" target="ロバート" sid="wiki00027327-00-01" id="1"/>
+Robert Robert Robert 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8P <rel type="=" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><NE:PERSON:Charles　Robert　Darwin>
-Darwin Darwin Darwin 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8P <体言><NE:PERSON:Charles　Robert　Darwin><rel type="=" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
+Darwin Darwin Darwin 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 2D
-+ 4D
-1809 せんはっぴゃくきゅう/せんはっぴゃくく 1809 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 4D <体言>
+1809 せんはっぴゃくきゅう/せんはっぴゃくく 1809 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 5D
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <体言>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 8D <NE:DATE:1809年2月12日>
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 8D <体言><NE:DATE:1809年2月12日>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 7D
-1882 せんはっぴゃくはちじゅうに 1882 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 7D <体言>
+1882 せんはっぴゃくはちじゅうに 1882 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 8D
-4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 8D <体言>
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="カラ" target="12日" sid="wiki00027327-00-02" id="5"/><NE:DATE:1882年4月19日>
-19 じゅうく 19 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <NE:DATE:1882年4月19日><体言><rel type="カラ" target="12日" sid="wiki00027327-00-02" id="5"/>
+19 じゅうく 19 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00027327-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/06/12 MEMO:
 * 1D
-+ 4D <rel type="ガ" target="学者" sid="wiki00027327-01" id="2"/><rel type="ガ" mode="AND" target="学者" sid="wiki00027327-01" id="4"/>
-卓越 たくえつ 卓越 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <用言:動><時制:過去><rel type="ガ" target="学者" sid="wiki00027327-01" id="2"/><rel type="ガ" mode="AND" target="学者" sid="wiki00027327-01" id="4"/>
+卓越 たくえつ 卓越 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6P
-+ 2D
-地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4P <rel type="ノ？" target="地質" sid="wiki00027327-01" id="1"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="修飾" target="卓越した" sid="wiki00027327-01" id="0"/>
-学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+地質 ちしつ 地質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4P <体言><rel type="ノ？" target="地質" sid="wiki00027327-01" id="1"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="修飾" target="卓越した" sid="wiki00027327-01" id="0"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 4D
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12P <rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ノ？" target="生物" sid="wiki00027327-01" id="3"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="修飾" target="卓越した" sid="wiki00027327-01" id="0"/>
-学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12P <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ノ？" target="生物" sid="wiki00027327-01" id="3"/><rel type="=構" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="修飾" target="卓越した" sid="wiki00027327-01" id="0"/>
+学者 がくしゃ 学者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D
-種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <体言>
+種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 4D
-+ 7D <rel type="ガ" target="種" sid="wiki00027327-01" id="5"/><memo text="サレル"/>
-形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ニツイテ" target="形成" sid="wiki00027327-01" id="6"/><NE:OPTIONAL:種の形成理論><NE-OPTIONAL:ARTIFACT,NONE:0>
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 7D <体言><非用言格解析:動><rel type="ガ" target="種" sid="wiki00027327-01" id="5"/><memo text="サレル"/>
+形成 けいせい 形成 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <体言><rel type="ニツイテ" target="形成" sid="wiki00027327-01" id="6"/><NE:OPTIONAL:種の形成理論><NE-OPTIONAL:ARTIFACT,NONE:0>
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 12P <rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ヲ" target="理論" sid="wiki00027327-01" id="7"/>
-構築 こうちく 構築 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12P <用言:動><節-主辞><節-区切><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ヲ" target="理論" sid="wiki00027327-01" id="7"/>
+構築 こうちく 構築 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 * 6D
-+ 11D <rel type="ガ" target="生物" sid="wiki00027327-01" id="10"/>
-進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 11D
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ニカンシテ" target="生物" sid="wiki00027327-01" id="10"/><rel type="ニカンシテ" mode="AND" target="進化" sid="wiki00027327-01" id="9"/><memo text="進化学とも呼ばれる"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 11D <体言><非用言格解析:動><rel type="ガ" target="生物" sid="wiki00027327-01" id="10"/>
+進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="ニカンシテ" target="生物" sid="wiki00027327-01" id="10"/><rel type="ニカンシテ" mode="AND" target="進化" sid="wiki00027327-01" id="9"/><memo text="進化学とも呼ばれる"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ヲ" target="学" sid="wiki00027327-01" id="11"/><memo text="「進化生物学を発表」？"/>
-発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/><rel type="ヲ" target="学" sid="wiki00027327-01" id="11"/><memo text="「進化生物学を発表」？"/>
+発表 はっぴょう 発表 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027327-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:110.00000 MOD:2025/06/12 MEMO:
 * 1D
-+ 2D
-全て すべて 全て 副詞 8 * 0 * 0 * 0 NIL
++ 2D <体言>
+全て すべて 全て 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 2D
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="生物" sid="wiki00027327-02" id="1"/><rel type="修飾" target="全て" sid="wiki00027327-02" id="0"/><rel type="=" target="種" sid="wiki00027327-01" id="5"/>
-種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><rel type="ノ" target="生物" sid="wiki00027327-02" id="1"/><rel type="修飾" target="全て" sid="wiki00027327-02" id="0"/><rel type="=" target="種" sid="wiki00027327-01" id="5"/>
+種 しゅ 種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="祖先" sid="wiki00027327-02" id="4"/><rel type="ニ" target="種" sid="wiki00027327-02" id="2"/>
-共通の きょうつうの 共通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 4D <用言:形><時制:非過去><rel type="ガ" target="祖先" sid="wiki00027327-02" id="4"/><rel type="ニ" target="種" sid="wiki00027327-02" id="2"/>
+共通の きょうつうの 共通だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 6D
-+ 7D <rel type="ノ" target="種" sid="wiki00027327-02" id="2"/><rel type="修飾" target="共通の" sid="wiki00027327-02" id="3"/>
-祖先 そせん 祖先 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><rel type="ノ" target="種" sid="wiki00027327-02" id="2"/><rel type="修飾" target="共通の" sid="wiki00027327-02" id="3"/>
+祖先 そせん 祖先 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="時間" sid="wiki00027327-02" id="6"/>
-長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 6D <用言:形><時制:非過去><rel type="ガ" target="時間" sid="wiki00027327-02" id="6"/>
+長い ながい 長い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 7D <rel type="修飾" target="長い" sid="wiki00027327-02" id="5"/>
-時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 7D <体言><rel type="修飾" target="長い" sid="wiki00027327-02" id="5"/>
+時間 じかん 時間 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 14D <rel type="ガ" target="不特定:状況"/><rel type="ヲ" target="時間" sid="wiki00027327-02" id="6"/><rel type="カラ" target="祖先" sid="wiki00027327-02" id="4"/>
-かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 14D <用言:動><節-主辞><節-区切><rel type="ガ" target="不特定:状況"/><rel type="ヲ" target="時間" sid="wiki00027327-02" id="6"/><rel type="カラ" target="祖先" sid="wiki00027327-02" id="4"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="=" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
-彼 かれ 彼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言><rel type="=" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
+彼 かれ 彼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="ガ" target="選択" sid="wiki00027327-02" id="10"/>
-自然 しぜん 自然だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 11D <rel type="修飾" target="自然" sid="wiki00027327-02" id="9"/><rel type="ガ" target="自然" sid="wiki00027327-02" id="9"/>
-選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <体言><非用言格解析:形><rel type="ガ" target="選択" sid="wiki00027327-02" id="10"/>
+自然 しぜん 自然だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 11D <体言><非用言格解析:動><rel type="修飾" target="自然" sid="wiki00027327-02" id="9"/><rel type="ガ" target="自然" sid="wiki00027327-02" id="9"/>
+選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ガ" target="彼" sid="wiki00027327-02" id="8"/><rel type="ヲ" target="プロセス" sid="wiki00027327-02" id="12"/><rel type="ト" target="選択" sid="wiki00027327-02" id="10"/>
-呼んだ よんだ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 タ形 10 NIL
++ 12D <用言:動><時制:過去><節-主辞><rel type="ガ" target="彼" sid="wiki00027327-02" id="8"/><rel type="ヲ" target="プロセス" sid="wiki00027327-02" id="12"/><rel type="ト" target="選択" sid="wiki00027327-02" id="10"/>
+呼んだ よんだ 呼ぶ 動詞 2 * 0 子音動詞バ行 8 タ形 10 NIL <基本句-主辞>
 * 11D
-+ 13D <rel type="=構" target="選択" sid="wiki00027327-02" id="10"/><rel type="トイウ" target="選択" sid="wiki00027327-02" id="10"/><rel type="ノ" target="進化" sid="wiki00027327-02" id="14"/>
-プロセス ぷろせす プロセス 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言><rel type="=構" target="選択" sid="wiki00027327-02" id="10"/><rel type="トイウ" target="選択" sid="wiki00027327-02" id="10"/><rel type="ノ" target="進化" sid="wiki00027327-02" id="14"/>
+プロセス ぷろせす プロセス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 14D
-通して とおして 通す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ 14D <用言:動>
+通して とおして 通す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * 13D
-+ 15D <rel type="ヲツウジテ" target="プロセス" sid="wiki00027327-02" id="12"/><rel type="ガ" target="種" sid="wiki00027327-02" id="2"/><rel type="外の関係" target="こと" sid="wiki00027327-02" id="15"/><rel type="カラ" target="祖先" sid="wiki00027327-02" id="4"/>
-進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <用言:動><時制:過去><節-主辞><rel type="ヲツウジテ" target="プロセス" sid="wiki00027327-02" id="12"/><rel type="ガ" target="種" sid="wiki00027327-02" id="2"/><rel type="外の関係" target="こと" sid="wiki00027327-02" id="15"/><rel type="カラ" target="祖先" sid="wiki00027327-02" id="4"/>
+進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 14D
-+ 16D <rel type="トイウ" target="進化した" sid="wiki00027327-02" id="14"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 16D <体言><rel type="トイウ" target="進化した" sid="wiki00027327-02" id="14"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="こと" sid="wiki00027327-02" id="15"/><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
-明らかに あきらかに 明らかだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ヲ" target="こと" sid="wiki00027327-02" id="15"/><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
+明らかに あきらかに 明らかだ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 した した する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027327-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:125.00000 MOD:2025/06/12 MEMO:
 * 1D
-+ 1D <rel type="=" target="進化した" sid="wiki00027327-02" id="14"/>
-進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><rel type="=" target="進化した" sid="wiki00027327-02" id="14"/>
+進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="ノ" target="進化" sid="wiki00027327-03" id="0"/>
-事実 じじつ 事実 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="ノ" target="進化" sid="wiki00027327-03" id="0"/>
+事実 じじつ 事実 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 3D <rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
-存命 ぞんめい 存命 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="存命" sid="wiki00027327-03" id="2"/>
-中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 3D <体言><非用言格解析:動><rel type="ガ" target="ダーウィン" sid="wiki00027327-00-01" id="2"/>
+存命 ぞんめい 存命 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="ノ" target="存命" sid="wiki00027327-03" id="2"/>
+中 ちゅう 中 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 5D <rel type="=≒" target="科学" sid="wiki00027327-00-01" id="5"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7P <rel type="ノ" target="科学" sid="wiki00027327-03" id="4"/>
-界 かい 界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="=≒" target="科学" sid="wiki00027327-00-01" id="5"/>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7P <体言><rel type="ノ" target="科学" sid="wiki00027327-03" id="4"/>
+界 かい 界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D
-一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="修飾" target="一般" sid="wiki00027327-03" id="6"/>
-大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+一般 いっぱん 一般 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="修飾" target="一般" sid="wiki00027327-03" id="6"/>
+大衆 たいしゅう 大衆 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="事実" sid="wiki00027327-03" id="1"/><rel type="ニ" target="界" sid="wiki00027327-03" id="5"/><rel type="ニ" mode="AND" target="大衆" sid="wiki00027327-03" id="7"/><rel type="時間" target="中" sid="wiki00027327-03" id="3"/><rel type="外の関係" target="一方" sid="wiki00027327-03" id="9"/>
-受け入れ うけいれ 受け入れる 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ 9D <用言:動><時制:過去><節-主辞><rel type="ガ" target="事実" sid="wiki00027327-03" id="1"/><rel type="ニ" target="界" sid="wiki00027327-03" id="5"/><rel type="ニ" mode="AND" target="大衆" sid="wiki00027327-03" id="7"/><rel type="時間" target="中" sid="wiki00027327-03" id="3"/><rel type="外の関係" target="一方" sid="wiki00027327-03" id="9"/>
+受け入れ うけいれ 受け入れる 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 13D
-+ 20D <rel type="ノ" target="受け入れられた" sid="wiki00027327-03" id="8"/>
-一方 いっぽう 一方 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 20D <用言:判><体言><時制:非過去><節-区切><rel type="ノ" target="受け入れられた" sid="wiki00027327-03" id="8"/>
+一方 いっぽう 一方 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="=" target="自然" sid="wiki00027327-02" id="9"/>
-自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 12D <rel type="=" target="選択" sid="wiki00027327-02" id="10"/>
-選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 11D <体言><rel type="=" target="自然" sid="wiki00027327-02" id="9"/>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 12D <体言><非用言格解析:動><rel type="=" target="選択" sid="wiki00027327-02" id="10"/>
+選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
 * 12D
-+ 17D <rel type="ノ" target="選択" sid="wiki00027327-03" id="11"/><NE:OPTIONAL:自然選択の理論><NE-OPTIONAL:ARTIFACT,NONE:0>
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 17D <体言><rel type="ノ" target="選択" sid="wiki00027327-03" id="11"/><NE:OPTIONAL:自然選択の理論><NE-OPTIONAL:ARTIFACT,NONE:0>
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D <rel type="=" target="進化" sid="wiki00027327-03" id="0"/>
-進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <体言><非用言格解析:動><rel type="=" target="進化" sid="wiki00027327-03" id="0"/>
+進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D
-主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 16D <用言:形><時制:非過去>
+主要な しゅような 主要だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 12D
-+ 16D
-原動 げんどう 原動 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 17D <rel type="ノ" target="進化" sid="wiki00027327-03" id="13"/><rel type="=構" target="選択" sid="wiki00027327-03" id="11"/><rel type="ノ？" target="原動" sid="wiki00027327-03" id="15"/><rel type="修飾" target="主要な" sid="wiki00027327-03" id="14"/>
-力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言>
+原動 げんどう 原動 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <体言><rel type="ノ" target="進化" sid="wiki00027327-03" id="13"/><rel type="=構" target="選択" sid="wiki00027327-03" id="11"/><rel type="ノ？" target="原動" sid="wiki00027327-03" id="15"/><rel type="修飾" target="主要な" sid="wiki00027327-03" id="14"/>
+力 りょく 力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 18D <rel type="ガ" target="理論" sid="wiki00027327-03" id="12"/><rel type="ト" target="力" sid="wiki00027327-03" id="16"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="の" sid="wiki00027327-03" id="18"/>
-見なさ みなさ 見なす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 18D <用言:動><時制:過去><節-主辞><rel type="ガ" target="理論" sid="wiki00027327-03" id="12"/><rel type="ト" target="力" sid="wiki00027327-03" id="16"/><rel type="ニ" target="不特定:人"/><rel type="外の関係" target="の" sid="wiki00027327-03" id="18"/>
+見なさ みなさ 見なす 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 ように ように ようだ 助動詞 5 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
 なった なった なる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 タ形 10 NIL
-+ 20D <rel type="トイウ" target="見なされるようになった" sid="wiki00027327-03" id="17"/>
-の の の 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 20D <時制:過去><rel type="トイウ" target="見なされるようになった" sid="wiki00027327-03" id="17"/>
+の の の 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 18P
-+ 20D
-1930 せんきゅうひゃくさんじゅう 1930 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 20D <体言>
+1930 せんきゅうひゃくさんじゅう 1930 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 29P <rel type="ガ" target="の" sid="wiki00027327-03" id="18"/><rel type="=構" target="の" sid="wiki00027327-03" id="18"/><NE:DATE:1930年代>
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <NE:DATE:tail>
++ 29P <用言:判><体言><時制:非過去><節-主辞><節-区切><NE:DATE:1930年代><rel type="ガ" target="の" sid="wiki00027327-03" id="18"/><rel type="=構" target="の" sid="wiki00027327-03" id="18"/>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 18D
-+ 22D <rel type="=" target="自然" sid="wiki00027327-03" id="10"/>
-自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 23D <rel type="=" target="選択" sid="wiki00027327-03" id="11"/>
-選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 29D <rel type="=" target="理論" sid="wiki00027327-03" id="12"/><rel type="ノ" target="選択" sid="wiki00027327-03" id="22"/><NE:OPTIONAL:自然選択説><NE-OPTIONAL:ARTIFACT,NONE:0>
-説 せつ 説 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 22D <体言><rel type="=" target="自然" sid="wiki00027327-03" id="10"/>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 23D <体言><非用言格解析:動><rel type="=" target="選択" sid="wiki00027327-03" id="11"/>
+選択 せんたく 選択 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 29D <体言><rel type="=" target="理論" sid="wiki00027327-03" id="12"/><NE:OPTIONAL:自然選択説><NE-OPTIONAL:ARTIFACT,NONE:0><rel type="ノ" target="選択" sid="wiki00027327-03" id="22"/>
+説 せつ 説 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 18D
-+ 29D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 29D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 でも でも でも 助詞 9 副助詞 2 * 0 * 0 NIL
 * 17D
-+ 27D <rel type="=" target="進化" sid="wiki00027327-01" id="9"/>
-進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 27D <rel type="=" target="生物" sid="wiki00027327-01" id="10"/>
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 28D <rel type="=" target="学" sid="wiki00027327-01" id="11"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 27D <体言><非用言格解析:動><rel type="=" target="進化" sid="wiki00027327-01" id="9"/>
+進化 しんか 進化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 27D <体言><rel type="=" target="生物" sid="wiki00027327-01" id="10"/>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 28D <体言><rel type="=" target="学" sid="wiki00027327-01" id="11"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 18D
-+ 29D <rel type="ノ" target="学" sid="wiki00027327-03" id="27"/><rel type="=≒" target="説" sid="wiki00027327-03" id="23"/>
-基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 29D <体言><rel type="ノ" target="学" sid="wiki00027327-03" id="27"/><rel type="=≒" target="説" sid="wiki00027327-03" id="23"/>
+基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="基盤" sid="wiki00027327-03" id="28"/><rel type="ガ" target="説" sid="wiki00027327-03" id="23"/><rel type="=構" target="基盤" sid="wiki00027327-03" id="28"/><rel type="=構" mode="AND" target="説" sid="wiki00027327-03" id="23"/><rel type="時間" target="現在" sid="wiki00027327-03" id="24"/>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="基盤" sid="wiki00027327-03" id="28"/><rel type="ガ" target="説" sid="wiki00027327-03" id="23"/><rel type="=構" target="基盤" sid="wiki00027327-03" id="28"/><rel type="=構" mode="AND" target="説" sid="wiki00027327-03" id="23"/><rel type="時間" target="現在" sid="wiki00027327-03" id="24"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00027327-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/06/12 MEMO:
 * 12D
 + 16D
-また また また 副詞 8 * 0 * 0 * 0 NIL
+また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 3D
-+ 3D <rel type="=" target="彼" sid="wiki00027327-02" id="8"/>
-彼 かれ 彼 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><rel type="=" target="彼" sid="wiki00027327-02" id="8"/>
+彼 かれ 彼 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <用言:形><時制:非過去><rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的な てきな 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 12D
-+ 16D <rel type="ガ" target="彼" sid="wiki00027327-04" id="1"/><rel type="ニツイテ" target="事実" sid="wiki00027327-03" id="1"/><rel type="ニツイテ" mode="AND" target="説" sid="wiki00027327-03" id="23"/><rel type="修飾" target="科学的な" sid="wiki00027327-04" id="2"/>
-発見 はっけん 発見 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <体言><非用言格解析:動><rel type="ガ" target="彼" sid="wiki00027327-04" id="1"/><rel type="ニツイテ" target="事実" sid="wiki00027327-03" id="1"/><rel type="ニツイテ" mode="AND" target="説" sid="wiki00027327-03" id="23"/><rel type="修飾" target="科学的な" sid="wiki00027327-04" id="2"/>
+発見 はっけん 発見 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="発見" sid="wiki00027327-04" id="3"/>
-修正 しゅうせい 修正 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="発見" sid="wiki00027327-04" id="3"/>
+修正 しゅうせい 修正 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/><rel type="ヲ" target="修正" sid="wiki00027327-04" id="4"/><rel type="ニ" target="不特定:人"/>
-施さ ほどこさ 施す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ 11D <用言:動><節-主辞><節-区切><rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/><rel type="ヲ" target="修正" sid="wiki00027327-04" id="4"/><rel type="ニ" target="不特定:人"/>
+施さ ほどこさ 施す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 ながら ながら ながら 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 7D <rel type="=" target="生物" sid="wiki00027327-02" id="1"/>
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ガ" target="生物" sid="wiki00027327-04" id="6"/><rel type="ノ" target="生物" sid="wiki00027327-04" id="6"/>
-多様 たよう 多様だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 7D <体言><rel type="=" target="生物" sid="wiki00027327-02" id="1"/>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><非用言格解析:形><rel type="ガ" target="生物" sid="wiki00027327-04" id="6"/><rel type="ノ" target="生物" sid="wiki00027327-04" id="6"/>
+多様 たよう 多様だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="ガ" target="説明" sid="wiki00027327-04" id="10"/>
-一貫 いっかん 一貫 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ガ" target="説明" sid="wiki00027327-04" id="10"/><用言:動><時制:非過去>
+一貫 いっかん 一貫 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 9D
-+ 10D <rel type="ガ" target="説明" sid="wiki00027327-04" id="10"/>
-理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="ガ" target="説明" sid="wiki00027327-04" id="10"/>
+理論 りろん 理論 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="理論的" sid="wiki00027327-04" id="9"/><rel type="修飾" mode="AND" target="一貫した" sid="wiki00027327-04" id="8"/><rel type="ヲ" target="多様性" sid="wiki00027327-04" id="7"/>
-説明 せつめい 説明 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="修飾" target="理論的" sid="wiki00027327-04" id="9"/><rel type="修飾" mode="AND" target="一貫した" sid="wiki00027327-04" id="8"/><rel type="ヲ" target="多様性" sid="wiki00027327-04" id="7"/>
+説明 せつめい 説明 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12P
-+ 16P <rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/><rel type="ヲ" target="説明" sid="wiki00027327-04" id="10"/><rel type="ニ" target="多様性" sid="wiki00027327-04" id="7"/>
-与え あたえ 与える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL
++ 16P <用言:動><節-主辞><節-区切><rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/><rel type="ヲ" target="説明" sid="wiki00027327-04" id="10"/><rel type="ニ" target="多様性" sid="wiki00027327-04" id="7"/>
+与え あたえ 与える 動詞 2 * 0 母音動詞 1 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D
-現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="=" target="生物" sid="wiki00027327-04" id="6"/>
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ニカンシテ" target="生物" sid="wiki00027327-04" id="13"/><rel type="時間" target="現代" sid="wiki00027327-04" id="12"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 14D <体言>
+現代 げんだい 現代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><rel type="=" target="生物" sid="wiki00027327-04" id="6"/>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言><rel type="ニカンシテ" target="生物" sid="wiki00027327-04" id="13"/><rel type="時間" target="現代" sid="wiki00027327-04" id="12"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ノ" target="学" sid="wiki00027327-04" id="14"/><rel type="=構" target="発見" sid="wiki00027327-04" id="3"/>
-基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言><rel type="ノ" target="学" sid="wiki00027327-04" id="14"/><rel type="=構" target="発見" sid="wiki00027327-04" id="3"/>
+基盤 きばん 基盤 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ヲ" target="基盤" sid="wiki00027327-04" id="15"/><rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/>
-なして なして なす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="基盤" sid="wiki00027327-04" id="15"/><rel type="ガ" target="発見" sid="wiki00027327-04" id="3"/>
+なして なして なす 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

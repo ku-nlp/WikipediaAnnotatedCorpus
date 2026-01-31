@@ -1,94 +1,94 @@
 # S-ID:wiki00023945-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/08/30 MEMO:
 * 5D
-+ 9D
-レモン れもん レモン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+レモン れもん レモン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-ミカン みかん ミカン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="ミカン" sid="wiki00023945-00-01" id="1"/>
-科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D
-ミカン みかん ミカン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ" target="科" sid="wiki00023945-00-01" id="2"/><rel type="ノ" mode="AND" target="ミカン" sid="wiki00023945-00-01" id="3"/>
-属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+ミカン みかん ミカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="ミカン" sid="wiki00023945-00-01" id="1"/><体言>
+科 か 科 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+ミカン みかん ミカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="ノ" target="科" sid="wiki00023945-00-01" id="2"/><rel type="ノ" mode="AND" target="ミカン" sid="wiki00023945-00-01" id="3"/>
+属 ぞく 属 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 6D
-常緑 じょうりょく 常緑 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="修飾" target="属" sid="wiki00023945-00-01" id="4"/><rel type="修飾" mode="AND" target="常緑" sid="wiki00023945-00-01" id="5"/><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/>
-低木 ていぼく 低木 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+常緑 じょうりょく 常緑 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <体言><rel type="修飾" target="属" sid="wiki00023945-00-01" id="4"/><rel type="修飾" mode="AND" target="常緑" sid="wiki00023945-00-01" id="5"/><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/>
+低木 ていぼく 低木 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 または または または 接続詞 10 * 0 * 0 * 0 NIL
 * 4D
 + 8D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 9D <rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ノ" target="低木" sid="wiki00023945-00-01" id="6"/>
-果実 かじつ 果実 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ノ" target="低木" sid="wiki00023945-00-01" id="6"/>
+果実 かじつ 果実 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ノ" target="果実" sid="wiki00023945-00-01" id="8"/><rel type="ノ" mode="AND" target="低木" sid="wiki00023945-00-01" id="6"/><memo text="CO"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><memo text="CO"/><rel type="ノ" target="果実" sid="wiki00023945-00-01" id="8"/><rel type="ノ" mode="AND" target="低木" sid="wiki00023945-00-01" id="6"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023945-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/30 MEMO:
 * 1P
-+ 1P <rel type="=" target="レモン" sid="wiki00023945-00-01" id="0"/>
-檸檬 れもん 檸檬 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1P <rel type="=" target="レモン" sid="wiki00023945-00-01" id="0"/><体言>
+檸檬 れもん 檸檬 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="レモン" sid="wiki00023945-00-01" id="0"/><memo text="学名欠落"/>
-学名 がくめい 学名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="レモン" sid="wiki00023945-00-01" id="0"/><体言><memo text="学名欠落"/>
+学名 がくめい 学名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 EOS
 # S-ID:wiki00023945-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:26.00000 MOD:2025/05/21 MEMO:
 * 1D
-+ 1D
-柑橘 かんきつ 柑橘 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="柑橘" sid="wiki00023945-01" id="0"/><rel type="=≒" target="レモン" sid="wiki00023945-00-01" id="0"/>
-類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+柑橘 かんきつ 柑橘 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="柑橘" sid="wiki00023945-01" id="0"/><体言><rel type="=≒" target="レモン" sid="wiki00023945-00-01" id="0"/>
+類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 13P <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ノ" target="類" sid="wiki00023945-01" id="1"/><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="=構" mode="AND" target="類" sid="wiki00023945-01" id="1"/>
++ 13P <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ノ" target="類" sid="wiki00023945-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="=構" mode="AND" target="類" sid="wiki00023945-01" id="1"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
 + 7D <rel type="ノ" target="類" sid="wiki00023945-01" id="1"/>
-中でも なかでも 中でも 副詞 8 * 0 * 0 * 0 NIL
+中でも なかでも 中でも 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 7D
-主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 7D <用言:形><時制:非過去>
+主に おもに 主だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 * 5P
-+ 6P <rel type="ノ" target="類" sid="wiki00023945-01" id="12"/>
-酸味 さんみ 酸味 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <体言><rel type="ノ" target="類" sid="wiki00023945-01" id="12"/>
+酸味 さんみ 酸味 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 7D <rel type="ノ" target="類" sid="wiki00023945-01" id="12"/>
-香り かおり 香り 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><rel type="ノ" target="類" sid="wiki00023945-01" id="12"/>
+香り かおり 香り 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="酸味" sid="wiki00023945-01" id="5"/><rel type="ヲ" mode="AND" target="香り" sid="wiki00023945-01" id="6"/><rel type="外の関係" target="類" sid="wiki00023945-01" id="12"/>
-楽しむ たのしむ 楽しむ 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
++ 12D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="酸味" sid="wiki00023945-01" id="5"/><rel type="ヲ" mode="AND" target="香り" sid="wiki00023945-01" id="6"/><rel type="外の関係" target="類" sid="wiki00023945-01" id="12"/>
+楽しむ たのしむ 楽しむ 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 12D
-いわゆる いわゆる いわゆる 連体詞 11 * 0 * 0 * 0 NIL
+いわゆる いわゆる いわゆる 連体詞 11 * 0 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 10P <rel type="=" target="香り" sid="wiki00023945-01" id="6"/>
-香 こう 香 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="=" target="酸味" sid="wiki00023945-01" id="5"/><memo text="「香酸」で一語のほうがいい？"/>
-酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="香" sid="wiki00023945-01" id="9"/><rel type="修飾" mode="AND" target="酸" sid="wiki00023945-01" id="10"/>
-柑橘 かんきつ 柑橘 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ノ" target="柑橘" sid="wiki00023945-01" id="11"/><rel type="トイウ" target="楽しむ" sid="wiki00023945-01" id="7"/><rel type="=≒" target="類" sid="wiki00023945-01" id="1"/>
-類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <体言><rel type="=" target="香り" sid="wiki00023945-01" id="6"/>
+香 こう 香 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><rel type="=" target="酸味" sid="wiki00023945-01" id="5"/><memo text="「香酸」で一語のほうがいい？"/>
+酸 さん 酸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="修飾" target="香" sid="wiki00023945-01" id="9"/><rel type="修飾" mode="AND" target="酸" sid="wiki00023945-01" id="10"/>
+柑橘 かんきつ 柑橘 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="柑橘" sid="wiki00023945-01" id="11"/><体言><rel type="トイウ" target="楽しむ" sid="wiki00023945-01" id="7"/><rel type="=≒" target="類" sid="wiki00023945-01" id="1"/>
+類 るい 類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ニ" target="類" sid="wiki00023945-01" id="12"/>
-属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ガ" target="レモン" sid="wiki00023945-00-01" id="0"/><rel type="ニ" target="類" sid="wiki00023945-01" id="12"/><用言:動><時制:非過去><節-主辞><節-区切>
+属する ぞくする 属する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

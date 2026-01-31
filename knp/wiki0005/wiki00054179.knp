@@ -1,70 +1,70 @@
 # S-ID:wiki00054179-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2023/11/15 MEMO:
 * 4D
-+ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/><NE:LOCATION:ネバダ州>
-ネバダ ねばだ ネバダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:ネバダ州><rel type="ノ？" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/>
+ネバダ ねばだ ネバダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 2D <体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/><体言>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="州" sid="wiki00054179-00" id="4"/><rel type="ニ" target="西部" sid="wiki00054179-00" id="2"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="州" sid="wiki00054179-00" id="4"/><rel type="ニ" target="西部" sid="wiki00054179-00" id="2"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><rel type="=構" target="ネバダ州" sid="wiki00054179-00" id="0"/>
-州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ネバダ州" sid="wiki00054179-00" id="0"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/11/15 MEMO:
 * 1D
-+ 1D
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="ノ" target="地域" sid="wiki00054179-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地域" sid="wiki00054179-01" id="0"/>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><非用言格解析:動><rel type="ノ" target="地域" sid="wiki00054179-01" id="0"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="地域" sid="wiki00054179-01" id="0"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 9D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 4D
-ロッキー ろっきー ロッキー 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/><NE:LOCATION:ロッキー山脈>
-山脈 さんみゃく 山脈 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 8P <rel type="ノ" target="山脈" sid="wiki00054179-01" id="4"/>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+ロッキー ろっきー ロッキー 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:ロッキー山脈><rel type="ノ？" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/>
+山脈 さんみゃく 山脈 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 8P <rel type="ノ" target="山脈" sid="wiki00054179-01" id="4"/><体言>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="=" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 8D <rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/><rel type="ノ？" target="南西" sid="wiki00054179-01" id="7"/>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8D <rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/><体言>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ノ" target="アメリカ合衆国" sid="wiki00054179-01" id="6"/><rel type="ノ？" target="南西" sid="wiki00054179-01" id="7"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><rel type="ニ" target="部" sid="wiki00054179-01" id="8"/><rel type="ニ" mode="AND" target="西部" sid="wiki00054179-01" id="5"/><rel type="トシテ" target="区分" sid="wiki00054179-01" id="1"/>
-含め ふくめ 含める 動詞 2 * 0 母音動詞 1 未然形 3 NIL
++ -1D <rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニ" target="部" sid="wiki00054179-01" id="8"/><rel type="ニ" mode="AND" target="西部" sid="wiki00054179-01" id="5"/><rel type="トシテ" target="区分" sid="wiki00054179-01" id="1"/>
+含め ふくめ 含める 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
 られる られる られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:57.00000 MOD:2024/03/21 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="ネバダ州" sid="wiki00054179-00" id="0"/>
-面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ネバダ州" sid="wiki00054179-00" id="0"/><体言>
+面積 めんせき 面積 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="ガ" target="面積" sid="wiki00054179-02-01" id="0"/><rel type="=構" target="面積" sid="wiki00054179-02-01" id="0"/>
-110,561 じゅういちまんごひゃくろくじゅういち 110,561 名詞 6 数詞 7 * 0 * 0 NIL
++ 6P <体言><用言:判><節-主辞><節-区切><時制:非過去><rel type="ガ" target="面積" sid="wiki00054179-02-01" id="0"/><rel type="=構" target="面積" sid="wiki00054179-02-01" id="0"/>
+110,561 じゅういちまんごひゃくろくじゅういち 110,561 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 平方マイル へいほうまいる 平方マイル 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
@@ -72,122 +72,122 @@ EOS
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
 + 3D
-全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 4D <rel type="修飾" target="全" sid="wiki00054179-02-01" id="2"/><rel type="=" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/><NE:LOCATION:米>
-米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 5D <rel type="ノ" target="米" sid="wiki00054179-02-01" id="3"/>
-50 ごじゅっ/ごじっ 50 名詞 6 数詞 7 * 0 * 0 NIL
+全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言><NE:LOCATION:米><rel type="修飾" target="全" sid="wiki00054179-02-01" id="2"/><rel type="=" target="アメリカ合衆国" sid="wiki00054179-00" id="1"/>
+米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <体言><rel type="ノ" target="米" sid="wiki00054179-02-01" id="3"/>
+50 ごじゅっ/ごじっ 50 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="50州" sid="wiki00054179-02-01" id="4"/>
-中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 6D <rel type="ノ" target="50州" sid="wiki00054179-02-01" id="6"/><体言>
+中 なか 中 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="デ" target="中" sid="wiki00054179-02-01" id="5"/><rel type="ノ≒" target="面積" sid="wiki00054179-02-01" id="0"/><rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><rel type="ガ" mode="？" target="110,561平方マイル" sid="wiki00054179-02-01" id="1"/>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="デ" target="中" sid="wiki00054179-02-01" id="5"/><rel type="ノ≒" target="面積" sid="wiki00054179-02-01" id="0"/><rel type="ガ" target="ネバダ州" sid="wiki00054179-00" id="0"/><rel type="ガ" mode="？" target="110,561平方マイル" sid="wiki00054179-02-01" id="1"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL
+7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-02-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/15 MEMO:
 * -1D
-+ -1D <rel type="=" target="110,561平方マイル" sid="wiki00054179-02-01" id="1"/>
-286,350 にじゅうはちまんろくせんさんびゃくごじゅっ 286,350 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <体言><rel type="=" target="110,561平方マイル" sid="wiki00054179-02-01" id="1"/>
+286,350 にじゅうはちまんろくせんさんびゃくごじゅっ 286,350 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 km2 へいほうきろめーとる km2 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2024/03/21 MEMO:
 * 2D
-+ 3D <rel type="ノ" target="ネバダ州" sid="wiki00054179-00" id="0"/>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="ネバダ州" sid="wiki00054179-00" id="0"/><体言>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:DATE:2010年>
-2010 にせんじゅう 2010 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 2D <体言><NE:DATE:2010年>
+2010 にせんじゅう 2010 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
-+ 3D <rel type="ノ" target="2010年" sid="wiki00054179-03" id="1"/>
-時点 じてん 時点 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3D <rel type="ノ" target="2010年" sid="wiki00054179-03" id="1"/><体言>
+時点 じてん 時点 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 6P <rel type="ガ" target="人口" sid="wiki00054179-03" id="0"/><rel type="時間" target="時点" sid="wiki00054179-03" id="2"/><rel type="=構" target="人口" sid="wiki00054179-03" id="0"/>
++ 6P <rel type="ガ" target="人口" sid="wiki00054179-03" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="時間" target="時点" sid="wiki00054179-03" id="2"/><rel type="=構" target="人口" sid="wiki00054179-03" id="0"/>
 約 やく 約 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-270万 にひゃくななじゅうまん 270万 名詞 6 数詞 7 * 0 * 0 NIL
+270万 にひゃくななじゅうまん 270万 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
 + 5D <rel type="=" target="全" sid="wiki00054179-02-01" id="2"/>
-全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 6D <rel type="=" target="米" sid="wiki00054179-02-01" id="3"/><NE:LOCATION:米>
-米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="デ" target="米" sid="wiki00054179-03" id="5"/><rel type="ノ≒" target="人口" sid="wiki00054179-03" id="0"/><rel type="ガ" target="約270万人" sid="wiki00054179-03" id="3"/><rel type="ガ" mode="？" target="ネバダ州" sid="wiki00054179-00" id="0"/>
+全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><NE:LOCATION:米><rel type="=" target="米" sid="wiki00054179-02-01" id="3"/>
+米 べい 米 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="デ" target="米" sid="wiki00054179-03" id="5"/><rel type="ノ≒" target="人口" sid="wiki00054179-03" id="0"/><rel type="ガ" target="約270万人" sid="wiki00054179-03" id="3"/><rel type="ガ" mode="？" target="ネバダ州" sid="wiki00054179-00" id="0"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-35 さんじゅうご 35 名詞 6 数詞 7 * 0 * 0 NIL
+35 さんじゅうご 35 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 位 い 位 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2023/11/15 MEMO:
 * 1D
-+ 1D <rel type="=" target="人口" sid="wiki00054179-03" id="0"/>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="人口" sid="wiki00054179-03" id="0"/><体言>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ノ" target="人口" sid="wiki00054179-04" id="0"/><NE:PERCENT:3分の2>
-3分の2 さんぶんのに 3分の2 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:single>
++ 5D <rel type="ノ" target="人口" sid="wiki00054179-04" id="0"/><体言><NE:PERCENT:3分の2>
+3分の2 さんぶんのに 3分の2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:single>
 以上 いじょう 以上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="ネバダ州" sid="wiki00054179-00" id="0"/><NE:LOCATION:ラスベガス>
-ラスベガス らすべがす ラスベガス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ノ" target="都市" sid="wiki00054179-04" id="3"/><rel type="ノ？" target="ラスベガス" sid="wiki00054179-04" id="2"/>
-圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><NE:LOCATION:ラスベガス><rel type="ノ？" target="ネバダ州" sid="wiki00054179-00" id="0"/>
+ラスベガス らすべがす ラスベガス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <体言>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="都市" sid="wiki00054179-04" id="3"/><体言><rel type="ノ？" target="ラスベガス" sid="wiki00054179-04" id="2"/>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="3分の2以上" sid="wiki00054179-04" id="1"/><rel type="ニ" target="圏" sid="wiki00054179-04" id="4"/>
-住んで すんで 住む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
++ -1D <rel type="ガ" target="3分の2以上" sid="wiki00054179-04" id="1"/><rel type="ニ" target="圏" sid="wiki00054179-04" id="4"/><用言:動><時制:非過去><節-主辞><節-区切>
+住んで すんで 住む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054179-05 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2024/03/21 MEMO:
 * 1D
 + 2D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 6D
-+ 2D <rel type="=" target="都市" sid="wiki00054179-04" id="3"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="圏" sid="wiki00054179-04" id="4"/>
-圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><rel type="=" target="都市" sid="wiki00054179-04" id="3"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="圏" sid="wiki00054179-04" id="4"/><体言>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="=" target="ネバダ州" sid="wiki00054179-00" id="0"/><NE:LOCATION:ネバダ州>
-ネバダ ねばだ ネバダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <体言><NE:LOCATION:ネバダ州><rel type="=" target="ネバダ州" sid="wiki00054179-00" id="0"/>
+ネバダ ねばだ ネバダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=≒" target="人口" sid="wiki00054179-04" id="0"/>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="=≒" target="人口" sid="wiki00054179-04" id="0"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="人口" sid="wiki00054179-05" id="4"/><rel type="ガ２" target="都市" sid="wiki00054179-05" id="6"/>
-多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL
++ 6D <rel type="ガ" target="人口" sid="wiki00054179-05" id="4"/><rel type="ガ２" target="都市" sid="wiki00054179-05" id="6"/><用言:形><時制:非過去>
+多い おおい 多い 形容詞 3 * 0 イ形容詞アウオ段 18 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 8D <rel type="修飾" target="多い" sid="wiki00054179-05" id="5"/><rel type="ノ？" target="ネバダ州" sid="wiki00054179-05" id="3"/>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ" target="都市" sid="wiki00054179-05" id="6"/>
-上位 じょうい 上位 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="修飾" target="上位" sid="wiki00054179-05" id="7"/><rel type="ノ" target="都市" sid="wiki00054179-05" id="6"/>
++ 8D <体言><rel type="修飾" target="多い" sid="wiki00054179-05" id="5"/><rel type="ノ？" target="ネバダ州" sid="wiki00054179-05" id="3"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="都市" sid="wiki00054179-05" id="6"/><体言>
+上位 じょうい 上位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="修飾" target="上位" sid="wiki00054179-05" id="7"/><rel type="ノ" target="都市" sid="wiki00054179-05" id="6"/>
 3 みっ 3 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="3つ" sid="wiki00054179-05" id="8"/><rel type="ニ" target="圏" sid="wiki00054179-05" id="2"/>
-入って はいって 入る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ -1D <rel type="ガ" target="3つ" sid="wiki00054179-05" id="8"/><rel type="ニ" target="圏" sid="wiki00054179-05" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
+入って はいって 入る 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

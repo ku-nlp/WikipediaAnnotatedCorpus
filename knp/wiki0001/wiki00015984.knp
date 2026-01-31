@@ -1,206 +1,206 @@
 # S-ID:wiki00015984-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:95.00000 MOD:2025/11/12 MEMO:
 * 9D
-+ 1D <NE:OPTIONAL:大覚寺><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 14D <rel type="ノ" target="大覚寺" sid="wiki00015984-00-01" id="0"/><memo text="大覚寺統でNE？"/>
-統 とう 統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:OPTIONAL:大覚寺><NE-OPTIONAL:LOCATION,ARTIFACT:0>
+大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 14D <体言><rel type="ノ" target="大覚寺" sid="wiki00015984-00-01" id="0"/><memo text="大覚寺統でNE？"/>
+統 とう 統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
-+ 4D
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D <NE:DATE:鎌倉時代後期>
-後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 3D <体言>
+鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 4D <体言>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 7D <体言><NE:DATE:鎌倉時代後期>
+後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D
-南北朝 なんぼくちょう 南北朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
-+ 7D <NE:DATE:南北朝時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 6D <体言>
+南北朝 なんぼくちょう 南北朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 7D <体言><NE:DATE:南北朝時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="不特定:状況"/><rel type="カラ" target="後期" sid="wiki00015984-00-01" id="4"/><rel type="ニ" target="時代" sid="wiki00015984-00-01" id="6"/>
-かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL
++ 9D <用言:動><節-主辞><節-区切><rel type="ガ" target="不特定:状況"/><rel type="カラ" target="後期" sid="wiki00015984-00-01" id="4"/><rel type="ニ" target="時代" sid="wiki00015984-00-01" id="6"/>
+かけて かけて かける 動詞 2 * 0 母音動詞 1 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 9D
-皇位 こうい 皇位 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+皇位 こうい 皇位 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ガ" target="系統" sid="wiki00015984-00-01" id="11"/><rel type="ニ" target="皇位" sid="wiki00015984-00-01" id="8"/><rel type="トシテ" target="後文"/><rel type="時間" target="後期" sid="wiki00015984-00-01" id="4"/><rel type="時間" mode="OR" target="時代" sid="wiki00015984-00-01" id="6"/><memo text="原文「（南北朝時代には南朝として）皇位に即いた皇室の系統で、」"/>
-即いた ついた 即く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL
++ 11D <用言:動><時制:過去><節-主辞><rel type="ガ" target="系統" sid="wiki00015984-00-01" id="11"/><rel type="ニ" target="皇位" sid="wiki00015984-00-01" id="8"/><rel type="トシテ" target="後文"/><memo text="原文「（南北朝時代には南朝として）皇位に即いた皇室の系統で、」"/><rel type="時間" target="後期" sid="wiki00015984-00-01" id="4"/><rel type="時間" mode="OR" target="時代" sid="wiki00015984-00-01" id="6"/>
+即いた ついた 即く 動詞 2 * 0 子音動詞カ行 2 タ形 10 NIL <基本句-主辞>
 * 7D
-+ 11D
-皇室 こうしつ 皇室 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+皇室 こうしつ 皇室 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9P
-+ 14P <rel type="ノ" target="皇室" sid="wiki00015984-00-01" id="10"/><rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><rel type="=構" target="統" sid="wiki00015984-00-01" id="1"/>
-系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14P <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="皇室" sid="wiki00015984-00-01" id="10"/><rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><rel type="=構" target="統" sid="wiki00015984-00-01" id="1"/>
+系統 けいとう 系統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 13D <NE:OPTIONAL:持明院><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-持明院 じみょういん 持明院 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ 14D <rel type="ノ" target="持明院" sid="wiki00015984-00-01" id="12"/>
-統 とう 統 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言><NE:OPTIONAL:持明院><NE-OPTIONAL:LOCATION,ARTIFACT:0>
+持明院 じみょういん 持明院 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 14D <体言><rel type="ノ" target="持明院" sid="wiki00015984-00-01" id="12"/>
+統 とう 統 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><rel type="ト" target="統" sid="wiki00015984-00-01" id="13"/>
-対立 たいりつ 対立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <用言:動><時制:過去><節-主辞><節-区切><rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><rel type="ト" target="統" sid="wiki00015984-00-01" id="13"/>
+対立 たいりつ 対立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いた いた いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015984-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/08/14 MEMO:
 * -1D
-+ 1D <rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/><NE:OPTIONAL:だいかくじ><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-だいかくじ だいかくじ だいかくじ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
-+ -1D <rel type="=" target="統" sid="wiki00015984-00-01" id="1"/>
-とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/><NE:OPTIONAL:だいかくじ><NE-OPTIONAL:LOCATION,ARTIFACT:0>
+だいかくじ だいかくじ だいかくじ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <体言><rel type="=" target="統" sid="wiki00015984-00-01" id="1"/>
+とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00015984-00-03 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2025/11/12 MEMO:
 * 2D
-+ 1D <rel type="=" target="南北朝" sid="wiki00015984-00-01" id="5"/>
-南北朝 なんぼくちょう 南北朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
-+ 3D <rel type="=" target="時代" sid="wiki00015984-00-01" id="6"/><NE:DATE:南北朝時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 1D <体言><rel type="=" target="南北朝" sid="wiki00015984-00-01" id="5"/>
+南北朝 なんぼくちょう 南北朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 3D <体言><NE:DATE:南北朝時代><rel type="=" target="時代" sid="wiki00015984-00-01" id="6"/>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=≒" target="南北朝" sid="wiki00015984-00-03" id="0"/><rel type="=構" mode="AND" target="統" sid="wiki00015984-00-01" id="1"/><rel type="=" mode="AND" target="後文"/><NE:OPTIONAL:南朝><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-南朝 なんちょう 南朝 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <体言><NE:OPTIONAL:南朝><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><rel type="=≒" target="南北朝" sid="wiki00015984-00-03" id="0"/><rel type="=構" mode="AND" target="統" sid="wiki00015984-00-01" id="1"/><rel type="=" mode="AND" target="後文"/>
+南朝 なんちょう 南朝 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><rel type="=" target="後文"/><rel type="ト" target="南朝" sid="wiki00015984-00-03" id="2"/><memo text="原文「（南北朝時代には南朝として）皇位に即いた皇室の系統で、」"/>
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ -1D <用言:動><節-主辞><節-区切><rel type="ガ" target="統" sid="wiki00015984-00-01" id="1"/><memo text="原文「（南北朝時代には南朝として）皇位に即いた皇室の系統で、」"/><rel type="=" target="後文"/><rel type="ト" target="南朝" sid="wiki00015984-00-03" id="2"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00015984-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:173.00000 MOD:2025/11/12 MEMO:
 * 1D
-+ 1D <rel type="トイウ" target="統" sid="wiki00015984-00-01" id="1"/>
-名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="トイウ" target="統" sid="wiki00015984-00-01" id="1"/>
+名 な 名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 23D
-+ 31D <rel type="ノ" target="名" sid="wiki00015984-01-01" id="0"/>
-由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 31D <体言><非用言格解析:動><rel type="ノ" target="名" sid="wiki00015984-01-01" id="0"/>
+由来 ゆらい 由来 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D
++ 4D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-88 はちじゅうはち 88 名詞 6 数詞 7 * 0 * 0 NIL
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 4D
-後嵯峨 ごさが 後嵯峨 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 5D <rel type="修飾" target="第88代" sid="wiki00015984-01-01" id="2"/><NE:OPTIONAL:後嵯峨天皇><NE-OPTIONAL:PERSON,NONE:3>
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+88 はちじゅうはち 88 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言>
+後嵯峨 ごさが 後嵯峨 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 5D <体言><NE:OPTIONAL:後嵯峨天皇><NE-OPTIONAL:PERSON,NONE:3><rel type="修飾" target="第88代" sid="wiki00015984-01-01" id="2"/>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 10P <rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="5"/><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="16"/>
-皇子 みこ 皇子 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="5"/><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="16"/>
+皇子 みこ 皇子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 * 5D
-+ 8D
++ 8D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-89 はちじゅうきゅう 89 名詞 6 数詞 7 * 0 * 0 NIL
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 8D
-後深草 ごふかくさ 後深草 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 9D <rel type="修飾" target="第89代" sid="wiki00015984-01-01" id="6"/><NE:OPTIONAL:後深草天皇><NE-OPTIONAL:PERSON,NONE:3>
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+89 はちじゅうきゅう 89 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言>
+後深草 ごふかくさ 後深草 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 9D <体言><NE:OPTIONAL:後深草天皇><NE-OPTIONAL:PERSON,NONE:3><rel type="修飾" target="第89代" sid="wiki00015984-01-01" id="6"/>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 10D <rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="10"/>
-実弟 じってい 実弟 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="10"/>
+実弟 じってい 実弟 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 13D <rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="16"/><rel type="ニ" target="実弟" sid="wiki00015984-01-01" id="9"/>
-あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 13D <用言:動><時制:非過去><節-主辞><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="16"/><rel type="ニ" target="実弟" sid="wiki00015984-01-01" id="11"/>
+あたる あたる あたる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 13D
++ 13D <体言>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-90 きゅうじゅう 90 名詞 6 数詞 7 * 0 * 0 NIL
-代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ 13D
-亀山 かめやま 亀山 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 14D <rel type="=構" target="皇子" sid="wiki00015984-01-01" id="5"/><rel type="=構" mode="AND" target="実弟" sid="wiki00015984-01-01" id="9"/><rel type="修飾" target="第90代" sid="wiki00015984-01-01" id="12"/><NE:OPTIONAL:亀山天皇><NE-OPTIONAL:PERSON,NONE:3>
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+90 きゅうじゅう 90 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+代 だい 代 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <体言>
+亀山 かめやま 亀山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 14D <体言><rel type="=構" target="皇子" sid="wiki00015984-01-01" id="6"/><rel type="=構" mode="AND" target="実弟" sid="wiki00015984-01-01" id="11"/><NE:OPTIONAL:亀山天皇><NE-OPTIONAL:PERSON,NONE:3><rel type="修飾" target="第90代" sid="wiki00015984-01-01" id="12"/>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 16D <rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="16"/>
-子 こ 子 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <体言><rel type="ノ" target="天皇" sid="wiki00015984-01-01" id="16"/>
+子 こ 子 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 15D
-+ 16D
-後宇多 ごうだ 後宇多 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 22D <rel type="修飾" target="子" sid="wiki00015984-01-01" id="14"/><rel type="=構" target="子" sid="wiki00015984-01-01" id="14"/><NE:OPTIONAL:後宇多天皇><NE-OPTIONAL:PERSON,NONE:3>
-天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 16D <体言>
+後宇多 ごうだ 後宇多 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 22D <体言><NE:OPTIONAL:後宇多天皇><NE-OPTIONAL:PERSON,NONE:3><rel type="修飾" target="子" sid="wiki00015984-01-01" id="17"/><rel type="=構" target="子" sid="wiki00015984-01-01" id="17"/>
+天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 18D <NE:LOCATION:京都>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 18D <体言><NE:LOCATION:京都>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 19D <rel type="ノ" target="京都" sid="wiki00015984-01-01" id="17"/>
-外れ はずれ 外れ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <体言><rel type="ノ" target="京都" sid="wiki00015984-01-01" id="20"/>
+外れ はずれ 外れ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 13D
-+ 20D <rel type="修飾" target="外れ" sid="wiki00015984-01-01" id="18"/><rel type="ノ？" target="京都" sid="wiki00015984-01-01" id="17"/><NE:LOCATION:嵯峨野>
-嵯峨野 さがの 嵯峨野 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 20D <体言><NE:LOCATION:嵯峨野><rel type="修飾" target="外れ" sid="wiki00015984-01-01" id="21"/><rel type="ノ？" target="京都" sid="wiki00015984-01-01" id="20"/>
+嵯峨野 さがの 嵯峨野 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 14D
-+ 21D <rel type="ノ？" target="嵯峨野" sid="wiki00015984-01-01" id="19"/><rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/><NE:OPTIONAL:大覚寺><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 21D <体言><rel type="ノ？" target="嵯峨野" sid="wiki00015984-01-01" id="22"/><NE:OPTIONAL:大覚寺><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0><rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/>
+大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 15D
-+ 22D <rel type="ガ" target="大覚寺" sid="wiki00015984-01-01" id="23"/>
-再興 さいこう 再興 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 22D <体言><非用言格解析:動><rel type="ガ" target="大覚寺" sid="wiki00015984-01-01" id="23"/>
+再興 さいこう 再興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16D
-+ 23D <rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ニ" target="再興" sid="wiki00015984-01-01" id="21"/><rel type="外の関係" target="こと" sid="wiki00015984-01-01" id="30"/>
-尽力 じんりょく 尽力 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 23D <用言:動><時制:過去><節-主辞><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ニ" target="再興" sid="wiki00015984-01-01" id="24"/><rel type="外の関係" target="こと" sid="wiki00015984-01-01" id="26"/>
+尽力 じんりょく 尽力 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 22P
-+ 30P <rel type="トイウ" target="尽力した" sid="wiki00015984-01-01" id="22"/><rel type="=構" target="由来" sid="wiki00015984-01-01" id="1"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 30P <体言><rel type="トイウ" target="尽力した" sid="wiki00015984-01-01" id="25"/><rel type="=構" target="由来" sid="wiki00015984-01-01" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 及び および 及び 接続詞 10 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 21D
-+ 25D <rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="外の関係" target="後" sid="wiki00015984-01-01" id="25"/>
-出家 しゅっけ 出家 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 29D <rel type="ノ" target="出家" sid="wiki00015984-01-01" id="24"/>
-後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 25D <体言><非用言格解析:動><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="外の関係" target="後" sid="wiki00015984-01-01" id="25"/>
+出家 しゅっけ 出家 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 29D <体言><rel type="ノ" target="出家" sid="wiki00015984-01-01" id="27"/>
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 19D
-+ 27D <rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/><NE:OPTIONAL:大覚寺><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 27D <体言><NE:OPTIONAL:大覚寺><NE-OPTIONAL:LOCATION,ARTIFACT:0><rel type="=" target="大覚寺" sid="wiki00015984-00-01" id="0"/>
+大覚寺 だいかくじ 大覚寺 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 29D <rel type="時間" target="後" sid="wiki00015984-01-01" id="28"/><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ニ" target="大覚寺" sid="wiki00015984-01-01" id="29"/>
-住んで すんで 住む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL
++ 29D <用言:動><節-主辞><節-区切><rel type="時間" target="後" sid="wiki00015984-01-01" id="28"/><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ニ" target="大覚寺" sid="wiki00015984-01-01" id="29"/>
+住んで すんで 住む 動詞 2 * 0 子音動詞マ行 9 タ系連用テ形 14 NIL <基本句-主辞>
 * 21D
-+ 29D
-院政 いんせい 院政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 29D <体言>
+院政 いんせい 院政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 22D
-+ 30D <rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ヲ" target="院政" sid="wiki00015984-01-01" id="28"/><rel type="外の関係" target="こと" sid="wiki00015984-01-01" id="30"/><rel type="時間" target="後" sid="wiki00015984-01-01" id="28"/><rel type="デ" target="大覚寺" sid="wiki00015984-01-01" id="29"/>
-行った おこなった 行う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
++ 30D <用言:動><時制:過去><節-主辞><rel type="ガ" target="天皇" sid="wiki00015984-01-01" id="19"/><rel type="ヲ" target="院政" sid="wiki00015984-01-01" id="31"/><rel type="外の関係" target="こと" sid="wiki00015984-01-01" id="33"/><rel type="時間" target="後" sid="wiki00015984-01-01" id="28"/><rel type="デ" target="大覚寺" sid="wiki00015984-01-01" id="29"/>
+行った おこなった 行う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 23D
-+ 31D <rel type="トイウ" target="行った" sid="wiki00015984-01-01" id="29"/><rel type="=構" target="由来" sid="wiki00015984-01-01" id="1"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 31D <体言><rel type="トイウ" target="行った" sid="wiki00015984-01-01" id="32"/><rel type="=構" target="由来" sid="wiki00015984-01-01" id="1"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="由来" sid="wiki00015984-01-01" id="1"/><rel type="ニ" target="こと" sid="wiki00015984-01-01" id="30"/><rel type="ニ" mode="AND" target="こと" sid="wiki00015984-01-01" id="30"/>
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="由来" sid="wiki00015984-01-01" id="1"/><rel type="ニ" target="こと" sid="wiki00015984-01-01" id="26"/><rel type="ニ" mode="AND" target="こと" sid="wiki00015984-01-01" id="33"/>
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015984-01-02 括弧始:（ 括弧終:） 括弧位置:63 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/12 MEMO:
 * -1D
-+ 1D <rel type="=" target="京都" sid="wiki00015984-01-01" id="17"/>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 1D <体言><rel type="=" target="京都" sid="wiki00015984-01-01" id="20"/>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ノ？" target="京都市" sid="wiki00015984-01-02" id="0"/><rel type="=≒" target="嵯峨野" sid="wiki00015984-01-01" id="19"/><NE:LOCATION:京都市右京区>
-右京 うきょう 右京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <NE:LOCATION:京都市右京区><体言><rel type="ノ？" target="京都市" sid="wiki00015984-01-02" id="0"/><rel type="=≒" target="嵯峨野" sid="wiki00015984-01-01" id="22"/>
+右京 うきょう 右京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

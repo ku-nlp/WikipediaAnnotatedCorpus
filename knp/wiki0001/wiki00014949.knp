@@ -1,86 +1,86 @@
 # S-ID:wiki00014949-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2026/01/16 MEMO:
 * 8D
-+ 9D
-1000 せん 1000 名詞 6 数詞 7 * 0 * 0 NIL
++ 9D <体言>
+1000 せん 1000 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2D
-自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P <rel type="修飾" target="自然" sid="wiki00014949-00-01" id="1"/>
-数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 2D <体言>
+自然 しぜん 自然 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <体言><rel type="修飾" target="自然" sid="wiki00014949-00-01" id="1"/>
+数 すう 数 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 または または または 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-整数 せいすう 整数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+整数 せいすう 整数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ニ" target="数" sid="wiki00014949-00-01" id="2"/><rel type="ニ" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 9D <用言:動><rel type="ニ" target="数" sid="wiki00014949-00-01" id="2"/><rel type="ニ" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="=" target="数" sid="wiki00014949-00-01" id="2"/><rel type="=" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
-999 きゅうひゃくきゅうじゅうきゅう 999 名詞 6 数詞 7 * 0 * 0 NIL
++ 6D <体言><rel type="=" target="数" sid="wiki00014949-00-01" id="2"/><rel type="=" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
+999 きゅうひゃくきゅうじゅうきゅう 999 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 8P <rel type="ノ" target="999" sid="wiki00014949-00-01" id="5"/><rel type="ガ" target="数" sid="wiki00014949-00-01" id="9"/>
-次 つぎ 次 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <rel type="ノ" target="999" sid="wiki00014949-00-01" id="5"/><rel type="ガ" target="数" sid="wiki00014949-00-01" id="9"/><体言><用言:判><時制:非過去>
+次 つぎ 次 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * 7D
-+ 8D <rel type="=" target="数" sid="wiki00014949-00-01" id="2"/><rel type="=" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
-1001 せんいち 1001 名詞 6 数詞 7 * 0 * 0 NIL
++ 8D <体言><rel type="=" target="数" sid="wiki00014949-00-01" id="2"/><rel type="=" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/>
+1001 せんいち 1001 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ノ" target="1001" sid="wiki00014949-00-01" id="7"/>
-前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 9D <rel type="ノ" target="1001" sid="wiki00014949-00-01" id="7"/><体言>
+前 まえ 前 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="ニオイテ" target="数" sid="wiki00014949-00-01" id="2"/><rel type="ニオイテ" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/><rel type="=構" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="修飾" target="前" sid="wiki00014949-00-01" id="8"/><rel type="修飾" mode="AND" target="次" sid="wiki00014949-00-01" id="6"/>
-数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="1000" sid="wiki00014949-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ニオイテ" target="数" sid="wiki00014949-00-01" id="2"/><rel type="ニオイテ" mode="AND" target="整数" sid="wiki00014949-00-01" id="3"/><rel type="=構" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="修飾" target="前" sid="wiki00014949-00-01" id="8"/><rel type="修飾" mode="AND" target="次" sid="wiki00014949-00-01" id="6"/>
+数 かず 数 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014949-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/24 MEMO:
 * 1P
-+ 1P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-千 せん 千 名詞 6 数詞 7 * 0 * 0 NIL
++ 1P <体言><rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
+千 せん 千 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-阡 せん 阡 名詞 6 数詞 7 * 0 * 0 NIL
++ 2P <体言><rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
+阡 せん 阡 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-仟 せん 仟 名詞 6 数詞 7 * 0 * 0 NIL
++ 3P <体言><rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
+仟 せん 仟 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-一〇〇〇 せん 一〇〇〇 名詞 6 数詞 7 * 0 * 0 NIL
++ 4P <体言><rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
+一〇〇〇 せん 一〇〇〇 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-せん せん せん 名詞 6 数詞 7 * 0 * 0 NIL
++ 5P <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/><体言>
+せん せん せん 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/>
-ち ち ち 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="=" target="1000" sid="wiki00014949-00-01" id="0"/><体言>
+ち ち ち 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00014949-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2026/01/16 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="ト" target="1k" sid="wiki00014949-01" id="2"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="ト" target="1k" sid="wiki00014949-01" id="2"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 3D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 3D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 3D
-+ 3D <rel type="=構" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="=構" mode="AND" target="略称" sid="wiki00014949-01" id="0"/>
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL
-k k k 特殊 1 記号 5 * 0 * 0 NIL
++ 3D <体言><rel type="=構" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="=構" mode="AND" target="略称" sid="wiki00014949-01" id="0"/>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+k k k 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="1k" sid="wiki00014949-01" id="2"/><rel type="トシテ" target="略称" sid="wiki00014949-01" id="0"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="1000" sid="wiki00014949-00-01" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="1k" sid="wiki00014949-01" id="2"/><rel type="トシテ" target="略称" sid="wiki00014949-01" id="0"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,51 +1,51 @@
 # S-ID:wiki00040244-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/02/13 MEMO:
 * 5D
-+ 6D
-離心率 りしんりつ 離心率 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+離心率 りしんりつ 離心率 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-円錐 えんすい 円錐 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="修飾" target="円錐" sid="wiki00040244-00-01" id="1"/>
-曲線 きょくせん 曲線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+円錐 えんすい 円錐 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="修飾" target="円錐" sid="wiki00040244-00-01" id="1"/>
+曲線 きょくせん 曲線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ" target="曲線" sid="wiki00040244-00-01" id="2"/>
-特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <rel type="ノ" target="曲線" sid="wiki00040244-00-01" id="2"/><体言>
+特徴 とくちょう 特徴 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="数値" sid="wiki00040244-00-01" id="5"/><rel type="ヲ" target="特徴" sid="wiki00040244-00-01" id="3"/>
-示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
++ 5D <rel type="ガ" target="数値" sid="wiki00040244-00-01" id="5"/><rel type="ヲ" target="特徴" sid="wiki00040244-00-01" id="3"/><用言:動><時制:非過去><節-主辞>
+示す しめす 示す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
 * 5D
-+ 6D <rel type="=≒" target="離心率" sid="wiki00040244-00-01" id="0"/>
-数値 すうち 数値 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><rel type="=≒" target="離心率" sid="wiki00040244-00-01" id="0"/>
+数値 すうち 数値 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="ノ" target="数値" sid="wiki00040244-00-01" id="5"/><rel type="=構" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="=構" mode="AND" target="数値" sid="wiki00040244-00-01" id="5"/>
++ -1D <rel type="ガ" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="ノ" target="数値" sid="wiki00040244-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="=構" mode="AND" target="数値" sid="wiki00040244-00-01" id="5"/>
 ひと ひと ひと 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00040244-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
 * 1P
-+ 2P <rel type="=" target="離心率" sid="wiki00040244-00-01" id="0"/>
-りしんりつ りしんりつ りしんりつ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2P <体言><rel type="=" target="離心率" sid="wiki00040244-00-01" id="0"/>
+りしんりつ りしんりつ りしんりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="ノ" target="離心率" sid="wiki00040244-00-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
-： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="=" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="デ" target="英" sid="wiki00040244-00-02" id="1"/>
-eccentricity eccentricity eccentricity 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="離心率" sid="wiki00040244-00-01" id="0"/>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
+： ： ： 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="離心率" sid="wiki00040244-00-01" id="0"/><rel type="デ" target="英" sid="wiki00040244-00-02" id="1"/><体言>
+eccentricity eccentricity eccentricity 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00040244-00-03 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/02/13 MEMO:
 * -1D
-+ 1D
-二 に 二 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <体言>
+二 に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 次 じ 次 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="二次" sid="wiki00040244-00-03" id="0"/><rel type="=" target="曲線" sid="wiki00040244-00-01" id="2"/>
-曲線 きょくせん 曲線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="修飾" target="二次" sid="wiki00040244-00-03" id="0"/><rel type="=" target="曲線" sid="wiki00040244-00-01" id="2"/>
+曲線 きょくせん 曲線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

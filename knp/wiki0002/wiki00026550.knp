@@ -1,210 +1,210 @@
 # S-ID:wiki00026550-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2025/06/06 MEMO:
 * 2D
-+ 3D <NE:PERSON:ペトロ>
-ペトロ ぺとろ ペトロ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 3D <体言><NE:PERSON:ペトロ>
+ペトロ ぺとろ ペトロ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="ペトロ" sid="wiki00026550-00" id="0"/>
++ 2D <rel type="ノ" target="ペトロ" sid="wiki00026550-00" id="0"/><体言>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-生年 せいねん 生年 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="生年" sid="wiki00026550-00" id="1"/>
-不明 ふめい 不明だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
+生年 せいねん 生年 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ガ" target="生年" sid="wiki00026550-00" id="1"/><体言><非用言格解析:形>
+不明 ふめい 不明だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 3D
-+ 12D <rel type="カラ" target="不明" sid="wiki00026550-00" id="2"/><NE:DATE:67年>
-67 ろくじゅうしち/ろくじゅうなな 67 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
-年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
++ 12D <体言><NE:DATE:67年><rel type="カラ" target="不明" sid="wiki00026550-00" id="2"/>
+67 ろくじゅうしち/ろくじゅうなな 67 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head><NE:DATE:head>
+年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle><NE:DATE:tail>
 ? ? ? 特殊 1 記号 5 * 0 * 0 NIL <NE:DATE:tail>
 ） ） ） 特殊 1 記号 5 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 5D
-新約 しんやく 新約 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 6D <NE:ARTIFACT:新約聖書>
-聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 5D <体言>
+新約 しんやく 新約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 6D <体言><NE:ARTIFACT:新約聖書>
+聖書 せいしょ 聖書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="人物" sid="wiki00026550-00" id="7"/><rel type="ニ" target="聖書" sid="wiki00026550-00" id="5"/>
-登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="人物" sid="wiki00026550-00" id="9"/><rel type="ニ" target="聖書" sid="wiki00026550-00" id="7"/><用言:動><時制:非過去>
+登場 とうじょう 登場 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 12P <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="修飾" target="登場する" sid="wiki00026550-00" id="6"/>
-人物 じんぶつ 人物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12P <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="修飾" target="登場する" sid="wiki00026550-00" id="6"/>
+人物 じんぶつ 人物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 9D
-イエス いえす イエス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 9D <体言>
+イエス いえす イエス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 10D <NE:PERSON:イエス・キリスト>
-キリスト きりすと キリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:PERSON:tail>
++ 10D <体言><NE:PERSON:イエス・キリスト>
+キリスト きりすと キリスト 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="使徒" sid="wiki00026550-00" id="11"/><rel type="ニ" target="キリスト" sid="wiki00026550-00" id="9"/>
-従った したがった 従う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL
++ 11D <rel type="ガ" target="使徒" sid="wiki00026550-00" id="13"/><rel type="ニ" target="キリスト" sid="wiki00026550-00" id="11"/><用言:動><時制:過去>
+従った したがった 従う 動詞 2 * 0 子音動詞ワ行 12 タ形 10 NIL <基本句-主辞>
 * 7D
-+ 12D <rel type="=≒" target="ペトロ" sid="wiki00026550-00" id="0"/>
-使徒 しと 使徒 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><rel type="=≒" target="ペトロ" sid="wiki00026550-00" id="0"/>
+使徒 しと 使徒 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ノ" target="使徒" sid="wiki00026550-00" id="11"/><rel type="=構" target="使徒" sid="wiki00026550-00" id="11"/><rel type="=構" mode="AND" target="ペトロ" sid="wiki00026550-00" id="0"/><memo text="CO"/>
-一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ノ" target="使徒" sid="wiki00026550-00" id="13"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="使徒" sid="wiki00026550-00" id="11"/><rel type="=構" mode="AND" target="ペトロ" sid="wiki00026550-00" id="0"/>
+一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 人 り 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026550-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/06 MEMO:
 * 1D
-+ 2D
-初代 しょだい 初代 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D
-ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 3D <rel type="修飾" target="初代" sid="wiki00026550-01" id="0"/><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><NE:OPTIONAL:初代ローマ教皇><NE-OPTIONAL:PERSON,NONE:3>
-教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言>
+初代 しょだい 初代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言>
+ローマ ろーま ローマ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 3D <体言><NE:OPTIONAL:初代ローマ教皇><NE-OPTIONAL:PERSON,NONE:3><rel type="修飾" target="初代" sid="wiki00026550-01" id="0"/><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/>
+教皇 きょうこう 教皇 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="教皇" sid="wiki00026550-01" id="2"/>
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
++ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="教皇" sid="wiki00026550-01" id="2"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026550-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/06 MEMO:
 * 1P
-+ 1D
-シモン しもん シモン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+シモン しもん シモン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2P <rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><NE:PERSON:シモン・ペトロ>
-ペトロ ぺとろ ペトロ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 2P <体言><NE:PERSON:シモン・ペトロ><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/>
+ペトロ ぺとろ ペトロ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><NE:PERSON:ペテロ>
-ペテロ ぺてろ ペテロ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 3P <体言><NE:PERSON:ペテロ><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/>
+ペテロ ぺてろ ペテロ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><NE:PERSON:ケファ>
-ケファ けふぁ ケファ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <NE:PERSON:ケファ><体言><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/>
+ケファ けふぁ ケファ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="ペトロ" sid="wiki00026550-02" id="1"/><rel type="ト" mode="AND" target="ペテロ" sid="wiki00026550-02" id="2"/><rel type="ト" mode="AND" target="ケファ" sid="wiki00026550-02" id="3"/>
-いわ いわ いう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ -1D <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="ペトロ" sid="wiki00026550-02" id="1"/><rel type="ト" mode="AND" target="ペテロ" sid="wiki00026550-02" id="2"/><rel type="ト" mode="AND" target="ケファ" sid="wiki00026550-02" id="3"/>
+いわ いわ いう 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026550-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2025/06/06 MEMO:
 * 1D
-+ 1D
-聖人 せいじん 聖人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+聖人 せいじん 聖人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="トイウ" target="聖人" sid="wiki00026550-03-01" id="0"/>
-概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><rel type="トイウ" target="聖人" sid="wiki00026550-03-01" id="0"/>
+概念 がいねん 概念 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="派" sid="wiki00026550-03-01" id="6"/><rel type="ヲ" target="概念" sid="wiki00026550-03-01" id="1"/>
-もつ もつ もつ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
++ 6D <rel type="ガ" target="派" sid="wiki00026550-03-01" id="6"/><rel type="ヲ" target="概念" sid="wiki00026550-03-01" id="1"/><用言:動><時制:非過去><節-主辞>
+もつ もつ もつ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 * 4D
++ 6D <体言>
+キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 + 6D
-キリスト教 きりすときょう キリスト教 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D
-諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-+ 6D
-教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="教" sid="wiki00026550-03-01" id="5"/><rel type="ノ" mode="AND" target="キリスト教" sid="wiki00026550-03-01" id="3"/>
-派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL
+諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言>
+教 きょう 教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ" target="教" sid="wiki00026550-03-01" id="5"/><rel type="ノ" mode="AND" target="キリスト教" sid="wiki00026550-03-01" id="3"/>
+派 は 派 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 9D <用言:動>
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 6D
-+ 9D <rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="=" mode="AND" target="聖人" sid="wiki00026550-03-01" id="0"/>
-聖人 せいじん 聖人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><rel type="=構" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="=" mode="AND" target="聖人" sid="wiki00026550-03-01" id="0"/>
+聖人 せいじん 聖人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 13P <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><rel type="ニオイテ" target="派" sid="wiki00026550-03-01" id="6"/><rel type="ト" target="聖人" sid="wiki00026550-03-01" id="8"/>
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
++ 13P <rel type="ガ" target="ペトロ" sid="wiki00026550-00" id="0"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ニオイテ" target="派" sid="wiki00026550-03-01" id="6"/><rel type="ト" target="聖人" sid="wiki00026550-03-01" id="8"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
 + 11D
-その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+その その その 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 9D
-+ 13D <rel type="ノ" target="聖人" sid="wiki00026550-03-01" id="8"/><rel type="ノ" mode="AND" target="ペトロ" sid="wiki00026550-00" id="0"/>
-記念日 きねんび 記念日 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言><rel type="ノ" target="聖人" sid="wiki00026550-03-01" id="8"/><rel type="ノ" mode="AND" target="ペトロ" sid="wiki00026550-00" id="0"/>
+記念日 きねんび 記念日 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 13D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 13D <体言>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="ガ" target="記念日" sid="wiki00026550-03-01" id="11"/><rel type="=構" target="記念日" sid="wiki00026550-03-01" id="11"/><NE:OPTIONAL:6月29日><NE-OPTIONAL:DATE,NONE:0>
-29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ガ" target="記念日" sid="wiki00026550-03-01" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="記念日" sid="wiki00026550-03-01" id="11"/><NE:OPTIONAL:6月29日><NE-OPTIONAL:DATE,NONE:0>
+29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026550-03-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/12/09 MEMO:
 * -1D
-+ 1D
-正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4P <rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4P <体言><rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
++ 4D <体言>
+東方 とうほう 東方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 + 4D
-東方 とうほう 東方 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D
-諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6P <rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:東方諸教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+諸 しょ 諸 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6P <体言><rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:東方諸教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 6D
-カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7P <rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 6D <体言>
+カトリック かとりっく カトリック 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7P <体言><rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:カトリック教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9P <rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><memo text="「聖なる公同の教会」（holy catholic Church）に由来（wiki）"/><NE:OPTIONAL:聖公会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-聖公会 せいこうかい 聖公会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9P <体言><memo text="「聖なる公同の教会」（holy catholic Church）に由来（wiki）"/><rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:聖公会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+聖公会 せいこうかい 聖公会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D <memo text="マルティン・ルターのドイツ語読みに由来（wiki）"/>
-ルーテル るーてる ルーテル 名詞 6 人名 5 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:ルーテル教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 9D <体言><memo text="マルティン・ルターのドイツ語読みに由来（wiki）"/>
+ルーテル るーてる ルーテル 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <体言><rel type="=≒" target="派" sid="wiki00026550-03-01" id="6"/><NE:OPTIONAL:ルーテル教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00026550-03-03 括弧始:（ 括弧終:） 括弧位置:61 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/06 MEMO:
 * -1D
-+ 1D <rel type="ノ" target="聖人" sid="wiki00026550-03-01" id="8"/>
-聖名 せいめい 聖名 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="記念日" sid="wiki00026550-03-01" id="11"/><rel type="修飾" target="聖名" sid="wiki00026550-03-03" id="0"/>
-祝日 しゅくじつ 祝日 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="聖人" sid="wiki00026550-03-01" id="8"/>
+聖名 せいめい 聖名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="記念日" sid="wiki00026550-03-01" id="11"/><体言><rel type="修飾" target="聖名" sid="wiki00026550-03-03" id="0"/>
+祝日 しゅくじつ 祝日 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00026550-03-04 括弧始:（ 括弧終:） 括弧位置:73 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:38.00000 MOD:2025/06/06 MEMO:
 * 1D
-+ 1D
-ユリウス ゆりうす ユリウス 名詞 6 人名 5 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D <NE:ARTIFACT:ユリウス暦>
-暦 れき 暦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+ユリウス ゆりうす ユリウス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <体言><NE:ARTIFACT:ユリウス暦>
+暦 れき 暦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="教会" sid="wiki00026550-03-04" id="4"/><rel type="ヲ" target="暦" sid="wiki00026550-03-04" id="1"/>
-使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="ガ" target="教会" sid="wiki00026550-03-04" id="4"/><rel type="ヲ" target="暦" sid="wiki00026550-03-04" id="1"/><用言:動><時制:非過去><節-主辞>
+使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 4D <rel type="=" target="正" sid="wiki00026550-03-02" id="0"/>
-正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <rel type="=" target="教会" sid="wiki00026550-03-02" id="1"/><rel type="修飾" target="使用する" sid="wiki00026550-03-04" id="2"/><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 4D <体言><rel type="=" target="正" sid="wiki00026550-03-02" id="0"/>
+正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7D <体言><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0><rel type="=" target="教会" sid="wiki00026550-03-02" id="1"/><rel type="修飾" target="使用する" sid="wiki00026550-03-04" id="2"/>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 6D
-7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <体言>
+7 しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D <rel type="=構" target="29日" sid="wiki00026550-03-01" id="13"/><NE:OPTIONAL:7月12日><NE-OPTIONAL:DATE,NONE:0>
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 7D <体言><NE:OPTIONAL:7月12日><NE-OPTIONAL:DATE,NONE:0><rel type="=構" target="29日" sid="wiki00026550-03-01" id="13"/>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="12日" sid="wiki00026550-03-04" id="6"/><rel type="デ" target="教会" sid="wiki00026550-03-04" id="4"/><rel type="ガ" target="29日" sid="wiki00026550-03-01" id="13"/><memo text="PO:する"/>
-相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ニ" target="12日" sid="wiki00026550-03-04" id="6"/><memo text="PO:する"/><rel type="デ" target="教会" sid="wiki00026550-03-04" id="4"/><時制:非過去><節-主辞><節-区切><用言:動><rel type="ガ" target="29日" sid="wiki00026550-03-01" id="13"/>
+相当 そうとう 相当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

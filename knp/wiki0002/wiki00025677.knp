@@ -1,124 +1,124 @@
 # S-ID:wiki00025677-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2025/06/03 MEMO:
 * 10D
-+ 1D <NE:PERSON:マルクス>
-マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 16D <rel type="修飾" target="マルクス" sid="wiki00025677-00-01" id="0"/>
-主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:PERSON:マルクス>
+マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ 16D <体言><rel type="修飾" target="マルクス" sid="wiki00025677-00-01" id="0"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D
-カール かーる カール 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 3D <体言>
+カール かーる カール 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 5P <rel type="=" target="マルクス" sid="wiki00025677-00-01" id="0"/><NE:PERSON:カール・マルクス>
-マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 5P <体言><NE:PERSON:カール・マルクス><rel type="=" target="マルクス" sid="wiki00025677-00-01" id="0"/>
+マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
-フリードリヒ ふりーどりひ フリードリヒ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 5D <体言>
+フリードリヒ ふりーどりひ フリードリヒ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 6D <NE:PERSON:フリードリヒ・エンゲルス>
-エンゲルス えんげるす エンゲルス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 6D <体言><NE:PERSON:フリードリヒ・エンゲルス>
+エンゲルス えんげるす エンゲルス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
++ 7D <用言:動>
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
 * 5D
-+ 8D <rel type="ガ" target="思想" sid="wiki00025677-00-01" id="8"/><rel type="ニヨッテ" target="マルクス" sid="wiki00025677-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="エンゲルス" sid="wiki00025677-00-01" id="5"/>
-展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="ガ" target="思想" sid="wiki00025677-00-01" id="8"/><用言:動><時制:過去><rel type="ニヨッテ" target="マルクス" sid="wiki00025677-00-01" id="3"/><rel type="ニヨッテ" mode="AND" target="エンゲルス" sid="wiki00025677-00-01" id="5"/>
+展開 てんかい 展開 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 7D
-+ 10D
-思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D <rel type="=構" target="思想" sid="wiki00025677-00-01" id="8"/><rel type="ノ" target="体系" sid="wiki00025677-00-01" id="15"/>
-ベース べーす ベース 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="=構" target="思想" sid="wiki00025677-00-01" id="8"/><rel type="ノ" target="体系" sid="wiki00025677-00-01" id="15"/>
+ベース べーす ベース 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ヲ" target="思想" sid="wiki00025677-00-01" id="8"/><rel type="ト" target="ベース" sid="wiki00025677-00-01" id="9"/><rel type="ガ" target="体系" sid="wiki00025677-00-01" id="15"/>
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 11D <用言:動><rel type="ヲ" target="思想" sid="wiki00025677-00-01" id="8"/><rel type="ト" target="ベース" sid="wiki00025677-00-01" id="9"/><rel type="ガ" target="体系" sid="wiki00025677-00-01" id="15"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * 9D
-+ 15D <rel type="ニ" target="不特定:人"/><rel type="トシテ" target="ベース" sid="wiki00025677-00-01" id="9"/><rel type="ガ" target="体系" sid="wiki00025677-00-01" id="15"/>
-確立 かくりつ 確立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 15D <rel type="ニ" target="不特定:人"/><用言:動><時制:過去><rel type="トシテ" target="ベース" sid="wiki00025677-00-01" id="9"/><rel type="ガ" target="体系" sid="wiki00025677-00-01" id="15"/>
+確立 かくりつ 確立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 10D
-+ 13D
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ノ" target="社会" sid="wiki00025677-00-01" id="12"/>
-主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ニヨッテ" target="主義" sid="wiki00025677-00-01" id="13"/>
-思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="ノ" target="思想" sid="wiki00025677-00-01" id="14"/><rel type="=≒" target="主義" sid="wiki00025677-00-01" id="1"/>
-体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><rel type="ノ" target="社会" sid="wiki00025677-00-01" id="12"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言><rel type="ニヨッテ" target="主義" sid="wiki00025677-00-01" id="13"/>
+思想 しそう 思想 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <rel type="ノ" target="思想" sid="wiki00025677-00-01" id="14"/><体言><rel type="=≒" target="主義" sid="wiki00025677-00-01" id="1"/>
+体系 たいけい 体系 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="ノ" target="体系" sid="wiki00025677-00-01" id="15"/><rel type="=構" target="体系" sid="wiki00025677-00-01" id="15"/><rel type="=構" mode="AND" target="主義" sid="wiki00025677-00-01" id="1"/>
++ -1D <rel type="ガ" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="ノ" target="体系" sid="wiki00025677-00-01" id="15"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="体系" sid="wiki00025677-00-01" id="15"/><rel type="=構" mode="AND" target="主義" sid="wiki00025677-00-01" id="1"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025677-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ 1D <rel type="=" target="マルクス" sid="wiki00025677-00-01" id="0"/><NE:PERSON:マルクス>
-マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ -1D <rel type="=" target="主義" sid="wiki00025677-00-01" id="1"/>
-しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="=" target="マルクス" sid="wiki00025677-00-01" id="0"/><体言><NE:PERSON:マルクス>
+マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ -1D <rel type="=" target="主義" sid="wiki00025677-00-01" id="1"/><体言>
+しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00025677-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:33.00000 MOD:2025/06/03 MEMO:
 * 3D
-+ 4D <rel type="=" target="マルクス" sid="wiki00025677-00-01" id="3"/><NE:PERSON:マルクス>
-マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ 4D <rel type="=" target="マルクス" sid="wiki00025677-00-01" id="3"/><体言><NE:PERSON:マルクス>
+マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
 自身 じしん 自身 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="マルクス自身" sid="wiki00025677-01-01" id="0"/>
-自身 じしん 自身 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="マルクス自身" sid="wiki00025677-01-01" id="0"/><体言>
+自身 じしん 自身 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="マルクス" sid="wiki00025677-00-02" id="0"/><NE:PERSON:マルクス>
++ 3D <rel type="=" target="マルクス" sid="wiki00025677-00-02" id="0"/><体言><NE:PERSON:マルクス>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 4D <rel type="ノ？" target="自身" sid="wiki00025677-01-01" id="1"/><rel type="=" target="主義" sid="wiki00025677-00-01" id="1"/>
-主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
+マルクス まるくす マルクス 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ 4D <体言><rel type="ノ？" target="自身" sid="wiki00025677-01-01" id="1"/><rel type="=" target="主義" sid="wiki00025677-00-01" id="1"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ガ" target="マルクス自身" sid="wiki00025677-01-01" id="0"/><rel type="ヲ" target="主義" sid="wiki00025677-01-01" id="3"/><rel type="ト" target="主義" sid="wiki00025677-01-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00025677-01-01" id="5"/>
-言い いい 言う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL
++ 5D <rel type="ガ" target="マルクス自身" sid="wiki00025677-01-01" id="0"/><rel type="ヲ" target="主義" sid="wiki00025677-01-01" id="3"/><用言:動><時制:過去><節-主辞><rel type="ト" target="主義" sid="wiki00025677-01-01" id="8"/><rel type="外の関係" target="ため" sid="wiki00025677-01-01" id="5"/>
+言い いい 言う 動詞 2 * 0 子音動詞ワ行 12 基本連用形 8 NIL <基本句-主辞>
 換えた かえた 換える 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 6D
-+ 9D <rel type="ノ" target="言い換えた" sid="wiki00025677-01-01" id="4"/>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 9D <rel type="ノ" target="言い換えた" sid="wiki00025677-01-01" id="4"/><体言><節-区切>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="主義" sid="wiki00025677-01-01" id="8"/>
-科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><非用言格解析:形><rel type="ガ" target="主義" sid="wiki00025677-01-01" id="8"/>
+科学 かがく 科学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 的 てき 的だ 接尾辞 14 形容詞性名詞接尾辞 6 ナ形容詞 21 語幹 1 NIL
-+ 8D <rel type="=" target="社会" sid="wiki00025677-00-01" id="12"/>
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="修飾" target="科学的" sid="wiki00025677-01-01" id="6"/><rel type="=構" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="=≒" mode="AND" target="主義" sid="wiki00025677-00-01" id="13"/><rel type="=構" mode="AND" target="主義" sid="wiki00025677-01-01" id="3"/>
-主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="=" target="社会" sid="wiki00025677-00-01" id="12"/>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="修飾" target="科学的" sid="wiki00025677-01-01" id="6"/><rel type="=構" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="=≒" mode="AND" target="主義" sid="wiki00025677-00-01" id="13"/><rel type="=構" mode="AND" target="主義" sid="wiki00025677-01-01" id="3"/>
+主義 しゅぎ 主義 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="主義" sid="wiki00025677-01-01" id="8"/>
-言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ -1D <rel type="ガ" target="主義" sid="wiki00025677-00-01" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="主義" sid="wiki00025677-01-01" id="8"/>
+言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025677-01-02 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/03 MEMO:
 * -1D
-+ 2D <rel type="=" target="科学的" sid="wiki00025677-01-01" id="6"/>
-かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL
-てき てき てき 接尾辞 14 形容詞性名詞接尾辞 6 * 0 * 0 NIL
-+ 2D <rel type="=" target="社会" sid="wiki00025677-01-01" id="7"/>
-しゃかい しゃかい しゃかい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="主義" sid="wiki00025677-01-01" id="8"/>
-しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <rel type="=" target="科学的" sid="wiki00025677-01-01" id="6"/><体言><非用言格解析:形>
+かがく かがく かがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+てき てき てき 接尾辞 14 形容詞性名詞接尾辞 6 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="社会" sid="wiki00025677-01-01" id="7"/><体言>
+しゃかい しゃかい しゃかい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="主義" sid="wiki00025677-01-01" id="8"/><体言>
+しゅぎ しゅぎ しゅぎ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

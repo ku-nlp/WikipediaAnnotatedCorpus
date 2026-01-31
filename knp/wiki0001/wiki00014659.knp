@@ -1,148 +1,148 @@
 # S-ID:wiki00014659-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2026/01/14 MEMO:
 * 10D
-+ 5D
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="修飾" target="生物" sid="wiki00014659-00-01" id="2"/>
-工学 こうがく 工学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 22D <NE:ORGANIZATION:アメリカ国立生物工学情報センター>
-センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+生物 せいぶつ 生物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言><rel type="修飾" target="生物" sid="wiki00014659-00-01" id="2"/>
+工学 こうがく 工学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 22D <体言><NE:ORGANIZATION:アメリカ国立生物工学情報センター>
+センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 10D <rel type="=" target="アメリカ" sid="wiki00014659-00-01" id="0"/><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="=" target="アメリカ" sid="wiki00014659-00-01" id="0"/><体言><NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 10D <rel type="=" target="国立" sid="wiki00014659-00-01" id="1"/>
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D
-衛生 えいせい 衛生 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="衛生" sid="wiki00014659-00-01" id="8"/><rel type="デ" target="所" sid="wiki00014659-00-01" id="10"/>
-研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/><NE:ORGANIZATION:国立衛生研究所>
-所 じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 10D <体言><rel type="=" target="国立" sid="wiki00014659-00-01" id="1"/>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <体言>
+衛生 えいせい 衛生 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 10D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="衛生" sid="wiki00014659-00-01" id="8"/><rel type="デ" target="所" sid="wiki00014659-00-01" id="10"/>
+研究 けんきゅう 研究 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><NE:ORGANIZATION:国立衛生研究所><rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/>
+所 じょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 15D <rel type="ノ" target="所" sid="wiki00014659-00-01" id="10"/>
-下 した 下 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="ノ" target="所" sid="wiki00014659-00-01" id="10"/><体言>
+下 した 下 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 15D <rel type="=" target="国立" sid="wiki00014659-00-01" id="7"/>
-国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 15D
-医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 15D
-図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 16D <rel type="修飾" target="下" sid="wiki00014659-00-01" id="11"/><rel type="=構" target="下" sid="wiki00014659-00-01" id="11"/><rel type="ノ" target="所" sid="wiki00014659-00-01" id="10"/><NE:ORGANIZATION:国立医学図書館>
-館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 15D <体言><rel type="=" target="国立" sid="wiki00014659-00-01" id="7"/>
+国立 こくりつ 国立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 15D <体言>
+医学 いがく 医学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 15D <体言>
+図書 としょ 図書 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 16D <体言><NE:ORGANIZATION:国立医学図書館><rel type="修飾" target="下" sid="wiki00014659-00-01" id="11"/><rel type="=構" target="下" sid="wiki00014659-00-01" id="11"/><rel type="ノ" target="所" sid="wiki00014659-00-01" id="10"/>
+館 かん 館 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 17D <rel type="ノ" target="館" sid="wiki00014659-00-01" id="15"/><rel type="=構" target="センター" sid="wiki00014659-00-01" id="5"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-部門 ぶもん 部門 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言><rel type="ノ" target="館" sid="wiki00014659-00-01" id="15"/><rel type="=構" target="センター" sid="wiki00014659-00-01" id="5"/>
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+部門 ぶもん 部門 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 21D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 21D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 8D
-+ 19D
-1988 せんきゅうひゃくはちじゅうはち 1988 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 19D <体言>
+1988 せんきゅうひゃくはちじゅうはち 1988 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 20D
-11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 20D <体言>
+11 じゅういち 11 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 * 9D
-+ 21D <NE:DATE:1988年11月4日>
-4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 21D <体言><NE:DATE:1988年11月4日>
+4 よっ 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 か 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 22D <rel type="ガ" target="機関" sid="wiki00014659-00-01" id="22"/><rel type="ニ" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/><rel type="時間" target="4日" sid="wiki00014659-00-01" id="20"/><rel type="トシテ" target="一部門" sid="wiki00014659-00-01" id="16"/>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 22D <rel type="ガ" target="機関" sid="wiki00014659-00-01" id="23"/><用言:動><時制:過去><節-主辞><rel type="ニ" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/><rel type="時間" target="4日" sid="wiki00014659-00-01" id="20"/><rel type="トシテ" target="一部門" sid="wiki00014659-00-01" id="16"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="センター" sid="wiki00014659-00-01" id="5"/><rel type="=構" target="センター" sid="wiki00014659-00-01" id="5"/><rel type="修飾" target="設立された" sid="wiki00014659-00-01" id="21"/><memo text="CO"/>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="センター" sid="wiki00014659-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="センター" sid="wiki00014659-00-01" id="5"/><memo text="CO"/><rel type="修飾" target="設立された" sid="wiki00014659-00-01" id="21"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014659-00-02 括弧始:（ 括弧終:） 括弧位置:16 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/14 MEMO:
 * 1P
-+ 5D <rel type="=" target="アメリカ" sid="wiki00014659-00-01" id="0"/>
-あめりか あめりか あめりか 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 5D <rel type="=" target="国立" sid="wiki00014659-00-01" id="1"/>
-こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <体言><rel type="=" target="アメリカ" sid="wiki00014659-00-01" id="0"/>
+あめりか あめりか あめりか 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <体言><rel type="=" target="国立" sid="wiki00014659-00-01" id="1"/>
+こくりつ こくりつ こくりつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="生物" sid="wiki00014659-00-01" id="2"/>
-せいぶつ せいぶつ せいぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="工学" sid="wiki00014659-00-01" id="3"/>
-こうがく こうがく こうがく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <rel type="=" target="情報" sid="wiki00014659-00-01" id="4"/>
-じょうほう じょうほう じょうほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6P <rel type="=" target="センター" sid="wiki00014659-00-01" id="5"/><NE:ORGANIZATION:あめりかこくりつ　せいぶつこうがくじょうほうセンター>
-センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言><rel type="=" target="生物" sid="wiki00014659-00-01" id="2"/>
+せいぶつ せいぶつ せいぶつ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言><rel type="=" target="工学" sid="wiki00014659-00-01" id="3"/>
+こうがく こうがく こうがく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言><rel type="=" target="情報" sid="wiki00014659-00-01" id="4"/>
+じょうほう じょうほう じょうほう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 6P <rel type="=" target="センター" sid="wiki00014659-00-01" id="5"/><体言><NE:ORGANIZATION:あめりかこくりつ　せいぶつこうがくじょうほうセンター>
+センター せんたー センター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="センター" sid="wiki00014659-00-01" id="5"/><NE:ORGANIZATION:NCBI>
-NCBI NCBI NCBI 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="センター" sid="wiki00014659-00-01" id="5"/><NE:ORGANIZATION:NCBI><体言>
+NCBI NCBI NCBI 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00014659-00-03 括弧始:（ 括弧終:） 括弧位置:67 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/09/19 MEMO:
 * -1D
-+ -1D <rel type="=" target="所" sid="wiki00014659-00-01" id="10"/><NE:ORGANIZATION:NIH>
-NIH NIH NIH 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="所" sid="wiki00014659-00-01" id="10"/><NE:ORGANIZATION:NIH><体言>
+NIH NIH NIH 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00014659-00-04 括弧始:（ 括弧終:） 括弧位置:84 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/14 MEMO:
 * 1D
-+ 1D <rel type="=" target="国立" sid="wiki00014659-00-01" id="12"/>
-National National National 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言><rel type="=" target="国立" sid="wiki00014659-00-01" id="12"/>
+National National National 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="館" sid="wiki00014659-00-01" id="15"/>
-Library Library Library 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <体言><rel type="=" target="館" sid="wiki00014659-00-01" id="15"/>
+Library Library Library 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <体言>
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 4P <rel type="=" target="医学" sid="wiki00014659-00-01" id="13"/><rel type="=" mode="AND" target="館" sid="wiki00014659-00-01" id="15"/><NE:ORGANIZATION:National　Library　of　Medicine>
-Medicine Medicine Medicine 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 4P <体言><rel type="=" target="医学" sid="wiki00014659-00-01" id="13"/><rel type="=" mode="AND" target="館" sid="wiki00014659-00-01" id="15"/><NE:ORGANIZATION:National　Library　of　Medicine>
+Medicine Medicine Medicine 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail><基本句-主辞>
 ; ; ; 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="館" sid="wiki00014659-00-01" id="15"/><NE:ORGANIZATION:NLM>
-NLM NLM NLM 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><rel type="=" target="館" sid="wiki00014659-00-01" id="15"/><NE:ORGANIZATION:NLM>
+NLM NLM NLM 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00014659-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2026/01/14 MEMO:
 * 2D
-+ 6D <rel type="ノ" target="センター" sid="wiki00014659-00-02" id="5"/>
-本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="センター" sid="wiki00014659-00-02" id="6"/><体言>
+本部 ほんぶ 本部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D
-ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 3D
-D D D 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 3D <体言>
+ワシントン わしんとん ワシントン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <体言>
+D D D 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/><memo text="コロンビアの略なので、品詞を地名にする？"/><NE:LOCATION:ワシントンD.C.>
-C C C 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <NE:LOCATION:ワシントンD.C.><体言><rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/><memo text="コロンビアの略なので、品詞を地名にする？"/>
+C C C 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 . . . 特殊 1 句点 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 6D <rel type="ノ" target="C." sid="wiki00014659-01" id="3"/>
-近郊 きんこう 近郊 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="C." sid="wiki00014659-01" id="3"/><体言>
+近郊 きんこう 近郊 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/>
-メリーランド めりーらんど メリーランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <体言><rel type="ノ？" target="アメリカ合衆国" sid="wiki00014659-00-01" id="6"/>
+メリーランド めりーらんど メリーランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="本部" sid="wiki00014659-01" id="0"/><rel type="ニ" target="ベセスダ" sid="wiki00014659-01" id="6"/><rel type="修飾" target="近郊" sid="wiki00014659-01" id="4"/><rel type="=" target="本部" sid="wiki00014659-01" id="0"/><rel type="=構" mode="AND" target="近郊" sid="wiki00014659-01" id="4"/><rel type="ノ？" target="メリーランド州" sid="wiki00014659-01" id="5"/><memo text="CO,PO:ある、など"/><NE:LOCATION:メリーランド州ベセスダ>
-ベセスダ べせすだ ベセスダ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="本部" sid="wiki00014659-01" id="0"/><NE:LOCATION:メリーランド州ベセスダ><体言><時制:非過去><節-主辞><節-区切><用言:動><rel type="ニ" target="ベセスダ" sid="wiki00014659-01" id="6"/><rel type="修飾" target="近郊" sid="wiki00014659-01" id="4"/><rel type="=" target="本部" sid="wiki00014659-01" id="0"/><rel type="=構" mode="AND" target="近郊" sid="wiki00014659-01" id="4"/><memo text="CO,PO:ある、など"/><rel type="ノ？" target="メリーランド州" sid="wiki00014659-01" id="5"/>
+ベセスダ べせすだ ベセスダ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,59 +1,59 @@
 # S-ID:wiki00031097-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/21 MEMO:
 * 4D
-+ 1D
-ベニート べにーと ベニート 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 1D <体言>
+ベニート べにーと ベニート 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 2D
-アミルカレ あみるかれ アミルカレ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 2D <体言>
+アミルカレ あみるかれ アミルカレ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 3D
-アンドレーア あんどれーあ アンドレーア 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 3D <体言>
+アンドレーア あんどれーあ アンドレーア 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 8D <NE:PERSON:ベニート・アミルカレ・アンドレーア・ムッソリーニ>
-ムッソリーニ むっそりーに ムッソリーニ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
++ 8D <体言><NE:PERSON:ベニート・アミルカレ・アンドレーア・ムッソリーニ>
+ムッソリーニ むっそりーに ムッソリーニ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D <NE:LOCATION:イタリア>
-イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <体言><NE:LOCATION:イタリア>
+イタリア いたりあ イタリア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 6D
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8P <rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="ノ？" target="イタリア" sid="wiki00031097-00-01" id="4"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00031097-00-01" id="5"/>
-家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 6D <体言>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <体言><rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="ノ？" target="イタリア" sid="wiki00031097-00-01" id="4"/><rel type="ノ？" mode="AND" target="政治" sid="wiki00031097-00-01" id="5"/>
+家 か 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 8P <rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="修飾" target="イタリア" sid="wiki00031097-00-01" id="4"/>
-教師 きょうし 教師 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <体言><rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="修飾" target="イタリア" sid="wiki00031097-00-01" id="4"/>
+教師 きょうし 教師 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><rel type="ノ？" target="イタリア" sid="wiki00031097-00-01" id="4"/><memo text="CO"/>
-軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ムッソリーニ" sid="wiki00031097-00-01" id="3"/><memo text="CO"/><rel type="ノ？" target="イタリア" sid="wiki00031097-00-01" id="4"/>
+軍人 ぐんじん 軍人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031097-00-02 括弧始:（ 括弧終:） 括弧位置:24 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/21 MEMO:
 * 1P
-+ 1D
-1883 せんはっぴゃくはちじゅうさん 1883 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 1D <体言>
+1883 せんはっぴゃくはちじゅうさん 1883 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 2D
-7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 2D <体言>
+7 なな/しち 7 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 5P <NE:DATE:1883年7月29日>
-29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 5P <体言><NE:DATE:1883年7月29日>
+29 にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-- から - 特殊 1 記号 5 * 0 * 0 NIL
+- から - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 4D
-1945 せんきゅうひゃくよんじゅうご 1945 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 4D <体言>
+1945 せんきゅうひゃくよんじゅうご 1945 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 5D
-4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 5D <体言>
+4 し 4 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="カラ" target="29日" sid="wiki00031097-00-02" id="2"/><NE:DATE:1945年4月28日>
-28 にじゅうはち 28 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ -1D <体言><NE:DATE:1945年4月28日><rel type="カラ" target="29日" sid="wiki00031097-00-02" id="2"/>
+28 にじゅうはち 28 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

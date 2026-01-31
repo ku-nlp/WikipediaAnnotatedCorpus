@@ -1,85 +1,85 @@
 # S-ID:wiki00059259-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2024/05/22 MEMO:
 * 7D
-+ 1D
-北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 20D <NE:ORGANIZATION:北海道放送株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <体言>
+北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言><非用言格解析:動>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言>
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 20D <体言><NE:ORGANIZATION:北海道放送株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 8D <rel type="=" target="北海道" sid="wiki00059259-00-01" id="0"/><NE:LOCATION:北海道>
-北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 8D <rel type="=" target="北海道" sid="wiki00059259-00-01" id="0"/><体言><NE:LOCATION:北海道>
+北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ" target="放送" sid="wiki00059259-00-01" id="5"/>
-対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ？" target="対象" sid="wiki00059259-00-01" id="6"/><rel type="=構" target="北海道" sid="wiki00059259-00-01" id="4"/>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="放送" sid="wiki00059259-00-01" id="5"/><体言>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="ノ？" target="対象" sid="wiki00059259-00-01" id="6"/><rel type="=構" target="北海道" sid="wiki00059259-00-01" id="4"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6P
-+ 14P <rel type="ガ" target="者" sid="wiki00059259-00-01" id="20"/><rel type="ヲ" target="北海道" sid="wiki00059259-00-01" id="4"/><rel type="ト" target="地域" sid="wiki00059259-00-01" id="7"/>
-し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
++ 14P <rel type="ガ" target="者" sid="wiki00059259-00-01" id="20"/><rel type="ヲ" target="北海道" sid="wiki00059259-00-01" id="4"/><用言:動><節-主辞><節-区切><時制:非過去><rel type="ト" target="地域" sid="wiki00059259-00-01" id="7"/>
+し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 10D
-中波 ちゅうは 中波 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ニヨッテ" target="中波" sid="wiki00059259-00-01" id="9"/><rel type="ヲ" target="不特定:物"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="5"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <体言>
+中波 ちゅうは 中波 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニヨッテ" target="中波" sid="wiki00059259-00-01" id="9"/><rel type="ヲ" target="不特定:物"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="5"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 12D
-テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ニヨッテ" target="テレビジョン" sid="wiki00059259-00-01" id="11"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="5"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 14D <rel type="ノ？" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="ノ？" mode="AND" target="放送" sid="wiki00059259-00-01" id="12"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言>
+テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ヲ" target="不特定:物"/><rel type="ニヨッテ" target="テレビジョン" sid="wiki00059259-00-01" id="11"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="5"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><rel type="ノ？" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="ノ？" mode="AND" target="放送" sid="wiki00059259-00-01" id="12"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 20D <rel type="ガ" target="者" sid="wiki00059259-00-01" id="20"/><rel type="ヲ" target="事業" sid="wiki00059259-00-01" id="13"/><rel type="トシテ" target="地域" sid="wiki00059259-00-01" id="7"/>
-兼営 けんえい 兼営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 20D <rel type="ガ" target="者" sid="wiki00059259-00-01" id="20"/><用言:動><時制:非過去><節-主辞><rel type="ヲ" target="事業" sid="wiki00059259-00-01" id="13"/><rel type="トシテ" target="地域" sid="wiki00059259-00-01" id="7"/>
+兼営 けんえい 兼営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * -1D
-+ 20D
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 18D
-地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 18D
-基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 19D <rel type="修飾" target="地上" sid="wiki00059259-00-01" id="16"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00059259-00-01" id="17"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="=≒" mode="AND" target="放送" sid="wiki00059259-00-01" id="12"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 20D <rel type="ノ？" target="放送" sid="wiki00059259-00-01" id="18"/>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="修飾" target="特定" sid="wiki00059259-00-01" id="15"/><rel type="=構" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ノ？" target="事業" sid="wiki00059259-00-01" id="19"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 20D <体言><非用言格解析:動>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 18D <体言>
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <体言>
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 19D <体言><非用言格解析:動><rel type="修飾" target="地上" sid="wiki00059259-00-01" id="16"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00059259-00-01" id="17"/><rel type="=≒" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="=≒" mode="AND" target="放送" sid="wiki00059259-00-01" id="12"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 20D <体言><rel type="ノ？" target="放送" sid="wiki00059259-00-01" id="18"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00059259-00-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="特定" sid="wiki00059259-00-01" id="15"/><rel type="=構" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ノ？" target="事業" sid="wiki00059259-00-01" id="19"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059259-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/22 MEMO:
 * 1P
-+ 1D <rel type="=" target="北海道" sid="wiki00059259-00-01" id="0"/>
-ほっかいどう ほっかいどう ほっかいどう 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3P <rel type="=" target="放送" sid="wiki00059259-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00059259-00-01" id="3"/><NE:ORGANIZATION:ほっかいどうほうそう>
-ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="北海道" sid="wiki00059259-00-01" id="0"/><体言>
+ほっかいどう ほっかいどう ほっかいどう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3P <体言><非用言格解析:動><NE:ORGANIZATION:ほっかいどうほうそう><rel type="=" target="放送" sid="wiki00059259-00-01" id="1"/><rel type="=" mode="AND" target="会社" sid="wiki00059259-00-01" id="3"/>
+ほうそう ほうそう ほうそう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="ガ" target="不特定:人"/><rel type="ノ" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ヲ" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ト" target="HBC" sid="wiki00059259-00-02" id="3"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ノ" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ヲ" target="会社" sid="wiki00059259-00-01" id="3"/><rel type="ト" target="HBC" sid="wiki00059259-00-02" id="3"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00059259-00-02" id="2"/><rel type="=構" target="略称" sid="wiki00059259-00-02" id="2"/><NE:ORGANIZATION:HBC>
-HBC HBC HBC 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><rel type="ガ" target="略称" sid="wiki00059259-00-02" id="2"/><rel type="=構" target="略称" sid="wiki00059259-00-02" id="2"/><NE:ORGANIZATION:HBC>
+HBC HBC HBC 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00059259-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/22 MEMO:
 * -1D
-+ 1D <rel type="=≒" target="中波" sid="wiki00059259-00-01" id="9"/>
-AM AM AM 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="ニヨッテ" target="AM" sid="wiki00059259-00-03" id="0"/>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><rel type="=≒" target="中波" sid="wiki00059259-00-01" id="9"/>
+AM AM AM 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <体言><非用言格解析:動><rel type="=" target="放送" sid="wiki00059259-00-01" id="10"/><rel type="ニヨッテ" target="AM" sid="wiki00059259-00-03" id="0"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 EOS

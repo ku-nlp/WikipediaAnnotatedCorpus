@@ -1,66 +1,66 @@
 # S-ID:wiki00046275-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/03/26 MEMO:
 * 3D
-+ 4D <rel type="ノ？" target="北海道" sid="wiki00046275-00-01" id="1"/><NE:LOCATION:帯広市>
-帯広 おびひろ 帯広 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <体言><NE:LOCATION:帯広市><rel type="ノ？" target="北海道" sid="wiki00046275-00-01" id="1"/>
+帯広 おびひろ 帯広 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:北海道>
-北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 3D <rel type="ノ" target="北海道" sid="wiki00046275-00-01" id="1"/>
-中東部 ちゅうとうぶ 中東部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:北海道>
+北海道 ほっかいどう 北海道 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <体言><rel type="ノ" target="北海道" sid="wiki00046275-00-01" id="1"/>
+中東部 ちゅうとうぶ 中東部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="市" sid="wiki00046275-00-01" id="4"/><rel type="ニ" target="中東部" sid="wiki00046275-00-01" id="2"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 4D <rel type="ガ" target="市" sid="wiki00046275-00-01" id="5"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="中東部" sid="wiki00046275-00-01" id="2"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><memo text="CO"/>
-市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><memo text="CO"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00046275-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/11/14 MEMO:
 * -1D
-+ -1D <rel type="=" target="帯広市" sid="wiki00046275-00-01" id="0"/><NE:LOCATION:おびひろし>
-おびひろ おびひろ おびひろ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="=" target="帯広市" sid="wiki00046275-00-01" id="0"/><NE:LOCATION:おびひろし><体言>
+おびひろ おびひろ おびひろ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
+し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00046275-00-03 括弧始:（ 括弧終:） 括弧位置:18 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/26 MEMO:
 * -1D
-+ 1D <rel type="ノ？" target="北海道" sid="wiki00046275-00-01" id="1"/><NE:LOCATION:道東>
-道東 どうとう 道東 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="=" target="中東部" sid="wiki00046275-00-01" id="2"/><rel type="ノ？" target="道東" sid="wiki00046275-00-03" id="0"/><rel type="ノ？" mode="AND" target="北海道" sid="wiki00046275-00-01" id="1"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:道東><rel type="ノ？" target="北海道" sid="wiki00046275-00-01" id="1"/>
+道東 どうとう 道東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <体言><rel type="=" target="中東部" sid="wiki00046275-00-01" id="2"/><rel type="ノ？" target="道東" sid="wiki00046275-00-03" id="0"/><rel type="ノ？" mode="AND" target="北海道" sid="wiki00046275-00-01" id="1"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00046275-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/26 MEMO:
 * 1D
-+ 3D
-十勝 とかち 十勝 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 3D
-総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="ガ" target="局" sid="wiki00046275-01" id="3"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:人"/>
-振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7D <rel type="ノ？" target="振興" sid="wiki00046275-01" id="2"/><rel type="修飾" target="総合" sid="wiki00046275-01" id="1"/><NE:ORGANIZATION:十勝総合振興局>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言>
+十勝 とかち 十勝 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D <体言>
+総合 そうごう 総合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 3D <体言><非用言格解析:動><rel type="ガ" target="局" sid="wiki00046275-01" id="3"/><rel type="ヲ" target="不特定:状況"/><rel type="ヲ" mode="AND" target="不特定:人"/>
+振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7D <体言><NE:ORGANIZATION:十勝総合振興局><rel type="ノ？" target="振興" sid="wiki00046275-01" id="2"/><rel type="修飾" target="総合" sid="wiki00046275-01" id="1"/>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="=" target="振興" sid="wiki00046275-01" id="2"/>
-振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="=" target="局" sid="wiki00046275-01" id="4"/>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="局" sid="wiki00046275-01" id="5"/>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><rel type="修飾" target="所在" sid="wiki00046275-01" id="6"/><rel type="ノ？" target="局" sid="wiki00046275-01" id="5"/><memo text="CO"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="=" target="振興" sid="wiki00046275-01" id="2"/>
+振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="=" target="局" sid="wiki00046275-01" id="4"/><体言>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ？" target="局" sid="wiki00046275-01" id="5"/>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><memo text="CO"/><rel type="修飾" target="所在" sid="wiki00046275-01" id="6"/><rel type="ノ？" target="局" sid="wiki00046275-01" id="5"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00046275-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/26 MEMO:
 * -1D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
-計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 2D <rel type="ニカンシテ" target="計量" sid="wiki00046275-02" id="0"/>
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="特定" sid="wiki00046275-02" id="1"/><rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><memo text="CO"/>
++ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+計量 けいりょう 計量 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="ニカンシテ" target="計量" sid="wiki00046275-02" id="0"/>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="修飾" target="特定" sid="wiki00046275-02" id="1"/><rel type="ガ" target="帯広市" sid="wiki00046275-00-01" id="0"/><体言><用言:判><節-主辞><節-区切><rel type="=構" target="帯広市" sid="wiki00046275-00-01" id="0"/><memo text="CO"/>
 市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

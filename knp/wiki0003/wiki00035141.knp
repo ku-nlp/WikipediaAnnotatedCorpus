@@ -1,93 +1,93 @@
 # S-ID:wiki00035141-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/05/07 MEMO:
 * 2D
-+ 2D
-便所 べんじょ 便所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+便所 べんじょ 便所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="外の関係" target="場所" sid="wiki00035141-00-01" id="2"/>
-排泄 はいせつ 排泄 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><用言:動><時制:非過去><rel type="外の関係" target="場所" sid="wiki00035141-00-01" id="2"/>
+排泄 はいせつ 排泄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="ノ" target="排泄する" sid="wiki00035141-00-01" id="1"/><memo text="CO"/>
-場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="便所" sid="wiki00035141-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/><memo text="CO"/><rel type="ノ" target="排泄する" sid="wiki00035141-00-01" id="1"/>
+場所 ばしょ 場所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00035141-00-02 括弧始:（ 括弧終:） 括弧位置:2 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/08/21 MEMO:
 * -1D
-+ -1D <rel type="=" target="便所" sid="wiki00035141-00-01" id="0"/>
-べんじょ べんじょ べんじょ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="便所" sid="wiki00035141-00-01" id="0"/><体言>
+べんじょ べんじょ べんじょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00035141-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:48.00000 MOD:2025/05/07 MEMO:
 * 1D
-+ 1D
-トイレット といれっと トイレット 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+トイレット といれっと トイレット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="トイレット" sid="wiki00035141-01" id="0"/><rel type="ト" target="トイレ" sid="wiki00035141-01" id="2"/>
-短縮 たんしゅく 短縮 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="トイレット" sid="wiki00035141-01" id="0"/><用言:動><節-主辞><節-区切><rel type="ト" target="トイレ" sid="wiki00035141-01" id="2"/>
+短縮 たんしゅく 短縮 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 6P
-+ 6P <rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/>
++ 6P <体言><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-トイレ といれ トイレ 名詞 6 普通名詞 1 * 0 * 0 NIL
+トイレ といれ トイレ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ノ" target="便所" sid="wiki00035141-00-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><rel type="ノ" target="便所" sid="wiki00035141-00-01" id="0"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 5D <rel type="=構" target="英語" sid="wiki00035141-01" id="3"/><rel type="修飾" target="英語" sid="wiki00035141-01" id="3"/>
-lavatory lavatory lavatory 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="=構" target="英語" sid="wiki00035141-01" id="3"/><rel type="修飾" target="英語" sid="wiki00035141-01" id="3"/>
+lavatory lavatory lavatory 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 6D
-+ 6D <rel type="ガ" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="ト" target="lavatory" sid="wiki00035141-01" id="4"/>
-同様の どうようの 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
++ 6D <用言:形><時制:非過去><rel type="ガ" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="ト" target="lavatory" sid="wiki00035141-01" id="4"/>
+同様の どうようの 同様だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
 * 10P
-+ 12P <rel type="修飾" target="同様の" sid="wiki00035141-01" id="5"/><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/>
++ 12P <体言><非用言格解析:動><rel type="修飾" target="同様の" sid="wiki00035141-01" id="5"/><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
 お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-手洗い てあらい 手洗い 名詞 6 サ変名詞 2 * 0 * 0 NIL
+手洗い てあらい 手洗い 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 8D
++ 8D <体言>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-water water water 名詞 6 普通名詞 1 * 0 * 0 NIL
+water water water 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 10P <rel type="修飾" target="water" sid="wiki00035141-01" id="7"/>
-closet closet closet 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <体言><rel type="修飾" target="water" sid="wiki00035141-01" id="7"/>
+closet closet closet 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 9D
-+ 10D <rel type="=" target="water" sid="wiki00035141-01" id="7"/>
-ウォーター うぉーたー ウォーター 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="=" target="water" sid="wiki00035141-01" id="7"/>
+ウォーター うぉーたー ウォーター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D <rel type="=" target="closet" sid="wiki00035141-01" id="8"/><rel type="修飾" target="ウォーター" sid="wiki00035141-01" id="9"/>
-クローゼット くろーぜっと クローゼット 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言><rel type="=" target="closet" sid="wiki00035141-01" id="8"/><rel type="修飾" target="ウォーター" sid="wiki00035141-01" id="9"/>
+クローゼット くろーぜっと クローゼット 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="クローゼット" sid="wiki00035141-01" id="10"/><rel type="ヲ" mode="AND" target="closet" sid="wiki00035141-01" id="8"/><rel type="ト" target="WC" sid="wiki00035141-01" id="12"/>
-略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL
++ 12D <rel type="ガ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ヲ" target="クローゼット" sid="wiki00035141-01" id="10"/><rel type="ヲ" mode="AND" target="closet" sid="wiki00035141-01" id="8"/><rel type="ト" target="WC" sid="wiki00035141-01" id="12"/>
+略して りゃくして 略す 動詞 2 * 0 子音動詞サ行 5 タ系連用テ形 14 NIL <基本句-主辞>
 * 12D
-+ 15D <rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="=" mode="AND" target="closet" sid="wiki00035141-01" id="8"/><rel type="=" mode="AND" target="クローゼット" sid="wiki00035141-01" id="10"/>
++ 15D <体言><rel type="=構" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="=" mode="AND" target="closet" sid="wiki00035141-01" id="8"/><rel type="=" mode="AND" target="クローゼット" sid="wiki00035141-01" id="10"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-WC WC WC 名詞 6 普通名詞 1 * 0 * 0 NIL
+WC WC WC 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12D
-+ 15D <rel type="ガ" target="方" sid="wiki00035141-01" id="15"/>
-様々な さまざまな 様々だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
++ 15D <rel type="ガ" target="方" sid="wiki00035141-01" id="14"/><用言:形><時制:非過去>
+様々な さまざまな 様々だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL <基本句-主辞>
 * 13D
-+ 15D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="ト" target="トイレ" sid="wiki00035141-01" id="2"/><rel type="ト" mode="AND" target="lavatory" sid="wiki00035141-01" id="4"/><rel type="ト" mode="AND" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="ト" mode="AND" target="WC" sid="wiki00035141-01" id="12"/>
-呼び よび 呼び 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 16D <rel type="修飾" target="様々な" sid="wiki00035141-01" id="13"/><rel type="ノ" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="ノ" mode="AND" target="呼び" sid="wiki00035141-01" id="14"/><rel type="=≒" target="トイレ" sid="wiki00035141-01" id="2"/><rel type="=≒" mode="AND" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="=≒" mode="AND" target="WC" sid="wiki00035141-01" id="12"/>
-方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL
++ 15D <体言><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="ト" target="トイレ" sid="wiki00035141-01" id="2"/><rel type="ト" mode="AND" target="lavatory" sid="wiki00035141-01" id="4"/><rel type="ト" mode="AND" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="ト" mode="AND" target="WC" sid="wiki00035141-01" id="11"/>
+呼び よび 呼び 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 16D <体言><rel type="修飾" target="様々な" sid="wiki00035141-01" id="12"/><rel type="ノ" target="便所" sid="wiki00035141-00-01" id="0"/><rel type="ノ" mode="AND" target="呼び" sid="wiki00035141-01" id="13"/><rel type="=≒" target="トイレ" sid="wiki00035141-01" id="2"/><rel type="=≒" mode="AND" target="お手洗い" sid="wiki00035141-01" id="6"/><rel type="=≒" mode="AND" target="WC" sid="wiki00035141-01" id="11"/>
+方 かた 方 接尾辞 14 名詞性述語接尾辞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="方" sid="wiki00035141-01" id="15"/><rel type="ニ" target="便所" sid="wiki00035141-00-01" id="0"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="方" sid="wiki00035141-01" id="14"/><rel type="ニ" target="便所" sid="wiki00035141-00-01" id="0"/><用言:動><時制:非過去><節-主辞><節-区切>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

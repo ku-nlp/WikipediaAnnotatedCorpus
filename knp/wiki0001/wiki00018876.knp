@@ -1,155 +1,155 @@
 # S-ID:wiki00018876-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2026/01/08 MEMO:
 * 10D
-+ 1D
-山陰 さんいん 山陰 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 23D <NE:LOCATION:山陰本線>
-本線 ほんせん 本線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言>
+山陰 さんいん 山陰 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 23D <体言><NE:LOCATION:山陰本線>
+本線 ほんせん 本線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="ノ？" target="京都府" sid="wiki00018876-00-01" id="2"/>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <体言><rel type="ノ？" target="京都府" sid="wiki00018876-00-01" id="2"/>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="ノ？" target="京都市" sid="wiki00018876-00-01" id="3"/><NE:LOCATION:京都府京都市下京区>
-下京 しもぎょう 下京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <体言><NE:LOCATION:京都府京都市下京区><rel type="ノ？" target="京都市" sid="wiki00018876-00-01" id="3"/>
+下京 しもぎょう 下京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 6D
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 17D <rel type="ノ？" target="下京区" sid="wiki00018876-00-01" id="4"/><rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="ノ" mode="AND" target="京都" sid="wiki00018876-00-01" id="5"/><NE:LOCATION:京都駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 6D <体言>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 17D <体言><NE:LOCATION:京都駅><rel type="ノ？" target="下京区" sid="wiki00018876-00-01" id="4"/><rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="ノ" mode="AND" target="京都" sid="wiki00018876-00-01" id="5"/>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <NE:LOCATION:中国>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 11D <rel type="ノ" target="中国" sid="wiki00018876-00-01" id="7"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><NE:LOCATION:中国>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 11D <体言><rel type="ノ" target="中国" sid="wiki00018876-00-01" id="7"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <NE:LOCATION:日本海>
-海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 12D <rel type="ノ" target="海" sid="wiki00018876-00-01" id="10"/><rel type="修飾" target="地方" sid="wiki00018876-00-01" id="8"/><rel type="=≒" target="山陰" sid="wiki00018876-00-01" id="0"/>
-沿岸 えんがん 沿岸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <体言><NE:LOCATION:日本海>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 12D <rel type="ノ" target="海" sid="wiki00018876-00-01" id="10"/><体言><rel type="修飾" target="地方" sid="wiki00018876-00-01" id="8"/><rel type="=≒" target="山陰" sid="wiki00018876-00-01" id="0"/>
+沿岸 えんがん 沿岸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 17P <rel type="ガ" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ヲ" target="沿岸" sid="wiki00018876-00-01" id="11"/><rel type="カラ" target="駅" sid="wiki00018876-00-01" id="6"/>
-経由 けいゆ 経由 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 17P <rel type="ガ" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ヲ" target="沿岸" sid="wiki00018876-00-01" id="11"/><用言:動><節-主辞><節-区切><rel type="カラ" target="駅" sid="wiki00018876-00-01" id="6"/>
+経由 けいゆ 経由 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7D
-+ 14D
-山口 やまぐち 山口 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 14D <体言>
+山口 やまぐち 山口 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 16D <rel type="ノ？" target="山口県" sid="wiki00018876-00-01" id="13"/><NE:LOCATION:山口県下関市>
-下関 しものせき 下関 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 16D <体言><NE:LOCATION:山口県下関市><rel type="ノ？" target="山口県" sid="wiki00018876-00-01" id="13"/>
+下関 しものせき 下関 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 16D
-幡生 はたぶ 幡生 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 17D <rel type="ノ？" target="下関市" sid="wiki00018876-00-01" id="14"/><rel type="ノ" target="幡生" sid="wiki00018876-00-01" id="15"/><rel type="ノ" mode="AND" target="本線" sid="wiki00018876-00-01" id="1"/><NE:LOCATION:幡生駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 16D <体言>
+幡生 はたぶ 幡生 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 17D <体言><NE:LOCATION:幡生駅><rel type="ノ？" target="下関市" sid="wiki00018876-00-01" id="14"/><rel type="ノ" target="幡生" sid="wiki00018876-00-01" id="15"/><rel type="ノ" mode="AND" target="本線" sid="wiki00018876-00-01" id="1"/>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 23D <rel type="ガ" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ニ" target="駅" sid="wiki00018876-00-01" id="16"/><rel type="カラ" target="駅" sid="wiki00018876-00-01" id="6"/>
-至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 23D <rel type="ガ" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ニ" target="駅" sid="wiki00018876-00-01" id="16"/><用言:動><時制:非過去><節-主辞><rel type="カラ" target="駅" sid="wiki00018876-00-01" id="6"/>
+至る いたる 至る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 10D
-+ 19D
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 21D
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 21D
-旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 23D <NE:ORGANIZATION:西日本旅客鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 19D <体言>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 21D <体言>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 21D <体言>
+旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 23D <体言><NE:ORGANIZATION:西日本旅客鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 23D
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="=構" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="修飾" target="鉄道" sid="wiki00018876-00-01" id="22"/>
-路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 23D <体言>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="本線" sid="wiki00018876-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="修飾" target="鉄道" sid="wiki00018876-00-01" id="22"/>
+路線 ろせん 路線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00018876-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/05 MEMO:
 * -1D
-+ 1D <rel type="=" target="山陰" sid="wiki00018876-00-01" id="0"/>
-さんいん さんいん さんいん 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="本線" sid="wiki00018876-00-01" id="1"/><NE:LOCATION:さんいんほんせん>
-ほんせん ほんせん ほんせん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 1D <体言><rel type="=" target="山陰" sid="wiki00018876-00-01" id="0"/>
+さんいん さんいん さんいん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <体言><rel type="=" target="本線" sid="wiki00018876-00-01" id="1"/><NE:LOCATION:さんいんほんせん>
+ほんせん ほんせん ほんせん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00018876-00-03 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/05 MEMO:
 * -1D
-+ 1D <rel type="=" target="山陰" sid="wiki00018876-00-01" id="0"/><NE:LOCATION:山陰>
-山陰 さんいん 山陰 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ -1D <rel type="=" target="沿岸" sid="wiki00018876-00-01" id="11"/>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><NE:LOCATION:山陰><rel type="=" target="山陰" sid="wiki00018876-00-01" id="0"/>
+山陰 さんいん 山陰 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <体言><rel type="=" target="沿岸" sid="wiki00018876-00-01" id="11"/>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00018876-00-04 括弧始:（ 括弧終:） 括弧位置:72 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/08 MEMO:
 * -1D
-+ 2D
-JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="西" sid="wiki00018876-00-01" id="18"/>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="鉄道" sid="wiki00018876-00-01" id="21"/><rel type="=≒" mode="AND" target="日本" sid="wiki00018876-00-01" id="19"/><NE:ORGANIZATION:JR西日本>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 2D <体言>
+JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 2D <体言><rel type="=" target="西" sid="wiki00018876-00-01" id="18"/>
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ -1D <NE:ORGANIZATION:JR西日本><体言><rel type="=" target="鉄道" sid="wiki00018876-00-01" id="21"/><rel type="=≒" mode="AND" target="日本" sid="wiki00018876-00-01" id="19"/>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00018876-00-05 括弧始:（ 括弧終:） 括弧位置:84 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/08 MEMO:
 * -1D
-+ -1D <rel type="=" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ノ？" target="鉄道" sid="wiki00018876-00-01" id="21"/>
-幹線 かんせん 幹線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="=" target="路線" sid="wiki00018876-00-01" id="23"/><rel type="ノ？" target="鉄道" sid="wiki00018876-00-01" id="21"/>
+幹線 かんせん 幹線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00018876-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2026/01/08 MEMO:
 * 1D
 + 1D
-この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL
+この この この 指示詞 7 連体詞形態指示詞 2 * 0 * 0 NIL <基本句-主辞>
 * 7D
-+ 12D <rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/>
-ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 12D <rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><体言>
+ほか ほか ほか 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ？" target="長門市" sid="wiki00018876-01" id="7"/>
-仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><NE:LOCATION:仙崎支線>
-支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 3D <体言><rel type="ノ？" target="長門市" sid="wiki00018876-01" id="7"/>
+仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:仙崎支線><rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/>
+支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=" target="仙崎" sid="wiki00018876-01" id="2"/>
-仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="=" target="支線" sid="wiki00018876-01" id="3"/><NE:LOCATION:仙崎線>
-線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <rel type="=" target="仙崎" sid="wiki00018876-01" id="2"/><体言>
+仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言><NE:LOCATION:仙崎線><rel type="=" target="支線" sid="wiki00018876-01" id="3"/>
+線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ニ" target="不特定:人"/><rel type="ト" target="支線" sid="wiki00018876-01" id="3"/><rel type="ト" mode="AND" target="線" sid="wiki00018876-01" id="5"/><rel type="ガ" target="支線" sid="wiki00018876-01" id="11"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ 11D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="支線" sid="wiki00018876-01" id="3"/><rel type="ト" mode="AND" target="線" sid="wiki00018876-01" id="5"/><rel type="ガ" target="支線" sid="wiki00018876-01" id="11"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 6D
-+ 8D <rel type="ノ？" target="山口県" sid="wiki00018876-00-01" id="13"/>
-長門 ながと 長門 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 8D <体言><rel type="ノ？" target="山口県" sid="wiki00018876-00-01" id="13"/>
+長門 ながと 長門 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 10P <rel type="ノ" target="長門市" sid="wiki00018876-01" id="7"/><rel type="ノ" mode="AND" target="線" sid="wiki00018876-01" id="5"/><NE:LOCATION:長門市駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10P <体言><NE:LOCATION:長門市駅><rel type="ノ" target="長門市" sid="wiki00018876-01" id="6"/><rel type="ノ" mode="AND" target="線" sid="wiki00018876-01" id="5"/>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 10D <rel type="=" target="仙崎" sid="wiki00018876-01" id="4"/>
-仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 11D <rel type="ノ？" target="長門市" sid="wiki00018876-01" id="7"/><rel type="ノ" target="仙崎" sid="wiki00018876-01" id="9"/><rel type="ノ" mode="AND" target="線" sid="wiki00018876-01" id="5"/><NE:LOCATION:仙崎駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 10D <rel type="=" target="仙崎" sid="wiki00018876-01" id="4"/><体言>
+仙崎 せんざき 仙崎 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <体言><NE:LOCATION:仙崎駅><rel type="ノ？" target="長門市" sid="wiki00018876-01" id="7"/><rel type="ノ" target="仙崎" sid="wiki00018876-01" id="9"/><rel type="ノ" mode="AND" target="線" sid="wiki00018876-01" id="5"/>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="=構" target="線" sid="wiki00018876-01" id="5"/><rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="修飾" target="駅" sid="wiki00018876-01" id="8"/><rel type="修飾" mode="AND" target="駅" sid="wiki00018876-01" id="10"/>
-支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><rel type="=構" target="線" sid="wiki00018876-01" id="5"/><rel type="ノ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="修飾" target="駅" sid="wiki00018876-01" id="8"/><rel type="修飾" mode="AND" target="駅" sid="wiki00018876-01" id="10"/>
+支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="本線" sid="wiki00018876-00-01" id="1"/><rel type="ヲ" target="支線" sid="wiki00018876-01" id="11"/>
-持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL
++ -1D <rel type="ガ" target="本線" sid="wiki00018876-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ヲ" target="支線" sid="wiki00018876-01" id="11"/>
+持つ もつ 持つ 動詞 2 * 0 子音動詞タ行 6 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

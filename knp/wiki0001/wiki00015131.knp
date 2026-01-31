@@ -1,154 +1,154 @@
 # S-ID:wiki00015131-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2026/01/16 MEMO:
 * 14D
-+ 2D
-バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D
-三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 17D <NE:OPTIONAL:バルト三国><NE-OPTIONAL:LOCATION,NONE:0>
-国 ごく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言>
+バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言>
+三 さん 三 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 17D <体言><NE:OPTIONAL:バルト三国><NE-OPTIONAL:LOCATION,NONE:0>
+国 ごく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="バルト" sid="wiki00015131-00-01" id="0"/>
-バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 5D <NE:LOCATION:バルト海>
-海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 4D <体言><rel type="=" target="バルト" sid="wiki00015131-00-01" id="0"/>
+バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <体言><NE:LOCATION:バルト海>
+海 かい 海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 7P <rel type="ノ" target="海" sid="wiki00015131-00-01" id="4"/>
-東岸 とうがん 東岸 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <rel type="ノ" target="海" sid="wiki00015131-00-01" id="4"/><体言>
+東岸 とうがん 東岸 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <NE:LOCATION:フィンランド>
-フィンランド ふぃんらんど フィンランド 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7D <体言><NE:LOCATION:フィンランド>
+フィンランド ふぃんらんど フィンランド 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ノ" target="フィンランド" sid="wiki00015131-00-01" id="6"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="フィンランド" sid="wiki00015131-00-01" id="6"/><体言>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ノ" target="東岸" sid="wiki00015131-00-01" id="5"/>
-南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><rel type="ノ" target="東岸" sid="wiki00015131-00-01" id="5"/>
+南北 なんぼく 南北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 11D <rel type="ガ" target="国" sid="wiki00015131-00-01" id="11"/><rel type="ニ" target="南北" sid="wiki00015131-00-01" id="8"/><rel type="ニ" mode="AND" target="東岸" sid="wiki00015131-00-01" id="5"/><rel type="ニ" mode="AND" target="南" sid="wiki00015131-00-01" id="7"/>
-並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
++ 11D <rel type="ガ" target="国" sid="wiki00015131-00-01" id="11"/><用言:動><時制:非過去><節-主辞><rel type="ニ" target="南北" sid="wiki00015131-00-01" id="8"/><rel type="ニ" mode="AND" target="東岸" sid="wiki00015131-00-01" id="5"/><rel type="ニ" mode="AND" target="南" sid="wiki00015131-00-01" id="7"/>
+並ぶ ならぶ 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
 * 8D
-+ 11D <rel type="ノ" target="国" sid="wiki00015131-00-01" id="11"/><rel type="=" target="三" sid="wiki00015131-00-01" id="1"/>
++ 11D <rel type="ノ" target="国" sid="wiki00015131-00-01" id="11"/><体言><rel type="=" target="三" sid="wiki00015131-00-01" id="1"/>
 3 みっ 3 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="修飾" target="3つ" sid="wiki00015131-00-01" id="10"/><rel type="=" target="国" sid="wiki00015131-00-01" id="2"/><rel type="=構" mode="AND" target="3つ" sid="wiki00015131-00-01" id="10"/>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><rel type="修飾" target="3つ" sid="wiki00015131-00-01" id="10"/><rel type="=" target="国" sid="wiki00015131-00-01" id="2"/><rel type="=構" mode="AND" target="3つ" sid="wiki00015131-00-01" id="10"/>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14P
-+ 17P <rel type="ガ" target="国" sid="wiki00015131-00-01" id="2"/><rel type="ヲ" target="国" sid="wiki00015131-00-01" id="11"/>
-指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL
++ 17P <rel type="ガ" target="国" sid="wiki00015131-00-01" id="2"/><rel type="ヲ" target="国" sid="wiki00015131-00-01" id="11"/><用言:動><節-主辞><節-区切>
+指し さし 指す 動詞 2 * 0 子音動詞サ行 5 基本連用形 8 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="ノ" target="南北" sid="wiki00015131-00-01" id="8"/>
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言><rel type="ノ" target="南北" sid="wiki00015131-00-01" id="8"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 17D <rel type="カラ" target="北" sid="wiki00015131-00-01" id="13"/>
-順に じゅんに 順だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL
++ 17D <用言:形><時制:非過去><rel type="カラ" target="北" sid="wiki00015131-00-01" id="13"/>
+順に じゅんに 順だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連用形 7 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13P
-+ 16P <rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/><NE:LOCATION:エストニア>
-エストニア えすとにあ エストニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 16P <体言><NE:LOCATION:エストニア><rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/>
+エストニア えすとにあ エストニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 14P
-+ 17P <rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/><NE:LOCATION:ラトビア>
-ラトビア らとびあ ラトビア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 17P <体言><NE:LOCATION:ラトビア><rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/>
+ラトビア らとびあ ラトビア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="国" sid="wiki00015131-00-01" id="2"/><rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/><NE:LOCATION:リトアニア>
-リトアニア りとあにあ リトアニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ -1D <rel type="ガ" target="国" sid="wiki00015131-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:リトアニア><rel type="=構≒" target="国" sid="wiki00015131-00-01" id="2"/>
+リトアニア りとあにあ リトアニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015131-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/16 MEMO:
 * -1D
-+ 2D <rel type="=" target="バルト" sid="wiki00015131-00-01" id="0"/>
-バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="=" target="三" sid="wiki00015131-00-01" id="1"/>
-さん さん さん 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="国" sid="wiki00015131-00-01" id="2"/><NE:OPTIONAL:バルトさんごく><NE-OPTIONAL:LOCATION,NONE:0>
-ごく ごく ごく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="=" target="バルト" sid="wiki00015131-00-01" id="0"/><体言>
+バルト ばると バルト 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <rel type="=" target="三" sid="wiki00015131-00-01" id="1"/><体言>
+さん さん さん 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ -1D <rel type="=" target="国" sid="wiki00015131-00-01" id="2"/><NE:OPTIONAL:バルトさんごく><NE-OPTIONAL:LOCATION,NONE:0><体言>
+ごく ごく ごく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00015131-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:18.00000 MOD:2026/01/16 MEMO:
 * 1D
-+ 1D <rel type="=" target="国" sid="wiki00015131-00-01" id="11"/>
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
++ 1D <rel type="=" target="国" sid="wiki00015131-00-01" id="11"/><体言>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
 か国 かこく か国 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 * 7D
 + 19D
-ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL
+ともに ともに ともに 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3D
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 4D
-大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D
-条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 7P <NE:ORGANIZATION:北大西洋条約機構>
-機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 4D <体言>
+大西洋 たいせいよう 大西洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 5D <体言>
+条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 7P <体言><NE:ORGANIZATION:北大西洋条約機構>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 7D
-欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 11P <rel type="ガ" target="欧州" sid="wiki00015131-01-01" id="6"/><NE:ORGANIZATION:欧州連合>
-連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 7D <体言>
+欧州 おうしゅう 欧州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 11P <体言><非用言格解析:動><NE:ORGANIZATION:欧州連合><rel type="ガ" target="欧州" sid="wiki00015131-01-01" id="6"/>
+連合 れんごう 連合 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 9D
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="経済" sid="wiki00015131-01-01" id="8"/>
-協力 きょうりょく 協力 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 11D <rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="経済" sid="wiki00015131-01-01" id="8"/>
-開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 13D <NE:ORGANIZATION:経済協力開発機構>
-機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 9D <体言>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 10D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="経済" sid="wiki00015131-01-01" id="8"/>
+協力 きょうりょく 協力 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 11D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="経済" sid="wiki00015131-01-01" id="8"/>
+開発 かいはつ 開発 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
++ 13D <体言><NE:ORGANIZATION:経済協力開発機構>
+機構 きこう 機構 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7P
-+ 13D <rel type="ガ" target="国" sid="wiki00015131-01-01" id="13"/><rel type="ニ" target="機構" sid="wiki00015131-01-01" id="5"/><rel type="ニ" mode="AND" target="連合" sid="wiki00015131-01-01" id="7"/><rel type="ニ" mode="AND" target="機構" sid="wiki00015131-01-01" id="11"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 19P <rel type="ガ" target="3か国" sid="wiki00015131-01-01" id="0"/><rel type="ノ？" target="加盟" sid="wiki00015131-01-01" id="12"/><rel type="=構" target="3か国" sid="wiki00015131-01-01" id="0"/><memo text="CO"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <rel type="ガ" target="国" sid="wiki00015131-01-01" id="13"/><体言><非用言格解析:動><rel type="ニ" target="機構" sid="wiki00015131-01-01" id="5"/><rel type="ニ" mode="AND" target="連合" sid="wiki00015131-01-01" id="7"/><rel type="ニ" mode="AND" target="機構" sid="wiki00015131-01-01" id="11"/>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 19P <rel type="ガ" target="3か国" sid="wiki00015131-01-01" id="0"/><rel type="ノ？" target="加盟" sid="wiki00015131-01-01" id="12"/><rel type="=構" target="3か国" sid="wiki00015131-01-01" id="0"/><memo text="CO"/><体言><用言:判><時制:非過去><節-主辞><節-区切>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 15D <rel type="ノ" target="3か国" sid="wiki00015131-01-01" id="0"/>
-通貨 つうか 通貨 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <体言><rel type="ノ" target="3か国" sid="wiki00015131-01-01" id="0"/>
+通貨 つうか 通貨 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 7P
-+ 19P <rel type="ガ" target="通貨" sid="wiki00015131-01-01" id="14"/><rel type="=構" target="通貨" sid="wiki00015131-01-01" id="14"/>
-ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19P <rel type="ガ" target="通貨" sid="wiki00015131-01-01" id="14"/><rel type="=構" target="通貨" sid="wiki00015131-01-01" id="14"/><体言><用言:判><節-主辞><節-区切>
+ユーロ ゆーろ ユーロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 13 NIL
 * -1D
-+ 17D
-シェンゲン しぇんげん シェンゲン 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 18D <rel type="ガ" target="不特定:人"/><rel type="デ" target="シェンゲン" sid="wiki00015131-01-01" id="16"/><NE:ARTIFACT:シェンゲン協定>
-協定 きょうてい 協定 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:tail>
-+ 19D <rel type="ガ" target="国" sid="wiki00015131-01-01" id="19"/><rel type="ニ" target="協定" sid="wiki00015131-01-01" id="17"/>
-加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="3か国" sid="wiki00015131-01-01" id="0"/><rel type="=構" target="3か国" sid="wiki00015131-01-01" id="0"/><rel type="ノ？" target="加盟" sid="wiki00015131-01-01" id="18"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 17D <体言>
+シェンゲン しぇんげん シェンゲン 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 18D <体言><非用言格解析:動><NE:ARTIFACT:シェンゲン協定><rel type="ガ" target="不特定:人"/><rel type="デ" target="シェンゲン" sid="wiki00015131-01-01" id="16"/>
+協定 きょうてい 協定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
++ 19D <rel type="ガ" target="国" sid="wiki00015131-01-01" id="19"/><体言><非用言格解析:動><rel type="ニ" target="協定" sid="wiki00015131-01-01" id="17"/>
+加盟 かめい 加盟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="3か国" sid="wiki00015131-01-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="3か国" sid="wiki00015131-01-01" id="0"/><rel type="ノ？" target="加盟" sid="wiki00015131-01-01" id="18"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015131-01-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/03 MEMO:
 * -1D
-+ -1D <rel type="=" target="機構" sid="wiki00015131-01-01" id="5"/><NE:ORGANIZATION:NATO>
-NATO なとー NATO 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><NE:ORGANIZATION:NATO><rel type="=" target="機構" sid="wiki00015131-01-01" id="5"/>
+NATO なとー NATO 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00015131-01-03 括弧始:（ 括弧終:） 括弧位置:26 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/03 MEMO:
 * -1D
-+ -1D <rel type="=" target="連合" sid="wiki00015131-01-01" id="7"/><NE:ORGANIZATION:EU>
-EU EU EU 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <rel type="=" target="連合" sid="wiki00015131-01-01" id="7"/><体言><NE:ORGANIZATION:EU>
+EU EU EU 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00015131-01-04 括弧始:（ 括弧終:） 括弧位置:41 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/16 MEMO:
 * -1D
-+ -1D <rel type="=" target="機構" sid="wiki00015131-01-01" id="11"/><NE:ORGANIZATION:OECD>
-OECD OECD OECD 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><NE:ORGANIZATION:OECD><rel type="=" target="機構" sid="wiki00015131-01-01" id="11"/>
+OECD OECD OECD 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS

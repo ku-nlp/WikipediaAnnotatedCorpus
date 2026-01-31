@@ -1,108 +1,108 @@
 # S-ID:wiki00024759-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/05/27 MEMO:
 * 5D
-+ 2D <memo text="イスタンブールの旧名"/>
-コンスタンティノープル こんすたんてぃのーぷる コンスタンティノープル 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D
-総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 10D <NE:OPTIONAL:コンスタンティノープル総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <体言><memo text="イスタンブールの旧名"/>
+コンスタンティノープル こんすたんてぃのーぷる コンスタンティノープル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言>
+総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 10D <体言><NE:OPTIONAL:コンスタンティノープル総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D
-正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 7D <NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 4D <体言>
+正 せい 正 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 7D <体言><NE:OPTIONAL:正教会><NE-OPTIONAL:ORGANIZATION,NONE:0>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D
-筆頭 ひっとう 筆頭 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+筆頭 ひっとう 筆頭 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 7D <rel type="修飾" target="筆頭" sid="wiki00024759-00-01" id="5"/>
-格 かく 格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><rel type="修飾" target="筆頭" sid="wiki00024759-00-01" id="5"/>
+格 かく 格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ヲ" target="格" sid="wiki00024759-00-01" id="6"/><rel type="ガ" target="教会" sid="wiki00024759-00-01" id="10"/><rel type="ガ" mode="AND" target="庁" sid="wiki00024759-00-01" id="9"/><rel type="デ" target="教会" sid="wiki00024759-00-01" id="4"/>
-有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 10D <rel type="ヲ" target="格" sid="wiki00024759-00-01" id="6"/><用言:動><時制:非過去><節-主辞><rel type="ガ" target="教会" sid="wiki00024759-00-01" id="10"/><rel type="ガ" mode="AND" target="庁" sid="wiki00024759-00-01" id="9"/><rel type="デ" target="教会" sid="wiki00024759-00-01" id="4"/>
+有する ゆうする 有する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 9D
-総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10P <rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><rel type="ノ？" target="総主教" sid="wiki00024759-00-01" id="8"/>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <体言><rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><rel type="ノ？" target="総主教" sid="wiki00024759-00-01" id="8"/>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="庁" sid="wiki00024759-00-01" id="2"/><rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/>
-教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="庁" sid="wiki00024759-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/>
+教会 きょうかい 教会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024759-00-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/27 MEMO:
 * -1D
-+ 2D <rel type="=" target="コンスタンティノープル" sid="wiki00024759-00-01" id="0"/>
-コンスタンティノープル こんすたんてぃのーぷる コンスタンティノープル 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
-そうしゅきょう そうしゅきょう そうしゅきょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:コンスタンティノープルそうしゅきょうちょう><NE-OPTIONAL:ORGANIZATION,NONE:0>
-ちょう ちょう ちょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D <rel type="=" target="コンスタンティノープル" sid="wiki00024759-00-01" id="0"/><体言>
+コンスタンティノープル こんすたんてぃのーぷる コンスタンティノープル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言><rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
+そうしゅきょう そうしゅきょう そうしゅきょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ -1D <体言><rel type="=" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:コンスタンティノープルそうしゅきょうちょう><NE-OPTIONAL:ORGANIZATION,NONE:0>
+ちょう ちょう ちょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 , , , 特殊 1 読点 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024759-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/27 MEMO:
 * 1P
-+ 2D <rel type="=" target="コンスタンティノープル" sid="wiki00024759-00-01" id="0"/>
++ 2D <体言><rel type="=" target="コンスタンティノープル" sid="wiki00024759-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-コンスタンチノープル こんすたんちのーぷる コンスタンチノープル 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 2D <rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
-総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6P <rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:コンスタンチノープル総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
+コンスタンチノープル こんすたんちのーぷる コンスタンチノープル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 2D <体言><rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
+総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6P <体言><rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:コンスタンチノープル総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 もしくは もしくは もしくは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
 + 4D
-「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
+「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL <基本句-主辞>
 全 ぜん 全 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 6D
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D <rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
-総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 7D <rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:全地総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 6D <体言>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言><rel type="=" target="総主教" sid="wiki00024759-00-01" id="1"/>
+総主教 そうしゅきょう 総主教 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 7D <体言><rel type="=構" target="庁" sid="wiki00024759-00-01" id="2"/><NE:OPTIONAL:全地総主教庁><NE-OPTIONAL:ORGANIZATION,NONE:0>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki00024759-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="庁" sid="wiki00024759-01" id="2"/><rel type="ト" mode="AND" target="庁" sid="wiki00024759-01" id="6"/>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="庁" sid="wiki00024759-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="庁" sid="wiki00024759-01" id="2"/><rel type="ト" mode="AND" target="庁" sid="wiki00024759-01" id="6"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024759-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/09/24 MEMO:
 * 1D
-+ 3D <rel type="ノ" target="総主教" sid="wiki00024759-00-01" id="1"/>
-敬称 けいしょう 敬称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><rel type="ノ" target="総主教" sid="wiki00024759-00-01" id="1"/>
+敬称 けいしょう 敬称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-His His His 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+His His His 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 3D
-All All All 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+All All All 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 - - - 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="敬称" sid="wiki00024759-02-01" id="0"/><rel type="=構" target="敬称" sid="wiki00024759-02-01" id="0"/><memo text="CO"/>
-Holiness Holiness Holiness 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="敬称" sid="wiki00024759-02-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="敬称" sid="wiki00024759-02-01" id="0"/>
+Holiness Holiness Holiness 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00024759-02-02 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/27 MEMO:
 * 1D
-+ 1D <rel type="=構" target="Holiness" sid="wiki00024759-02-01" id="3"/>
-HAH HAH HAH 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=構" target="Holiness" sid="wiki00024759-02-01" id="4"/>
+HAH HAH HAH 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><rel type="ト" target="HAH" sid="wiki00024759-02-02" id="0"/><rel type="ガ" target="Holiness" sid="wiki00024759-02-01" id="3"/>
-略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="HAH" sid="wiki00024759-02-02" id="0"/><rel type="ガ" target="Holiness" sid="wiki00024759-02-01" id="3"/>
+略さ りゃくさ 略す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 EOS

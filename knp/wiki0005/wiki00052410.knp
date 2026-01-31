@@ -1,87 +1,87 @@
 # S-ID:wiki00052410-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:87.00000 MOD:2024/02/27 MEMO:
 * 8D
-+ 1D
-マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="マクロ" sid="wiki00052410-00-01" id="0"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 14D <rel type="ニツイテ" target="経済" sid="wiki00052410-00-01" id="1"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言>
+マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="修飾" target="マクロ" sid="wiki00052410-00-01" id="0"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <体言><rel type="ニツイテ" target="経済" sid="wiki00052410-00-01" id="1"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=≒" target="経済" sid="wiki00052410-00-01" id="1"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ニツイテ" target="経済" sid="wiki00052410-00-01" id="3"/><rel type="=≒" target="学" sid="wiki00052410-00-01" id="2"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <体言><rel type="=≒" target="経済" sid="wiki00052410-00-01" id="1"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><rel type="ニツイテ" target="経済" sid="wiki00052410-00-01" id="3"/><rel type="=≒" target="学" sid="wiki00052410-00-01" id="2"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8P
-+ 14P <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ノ" target="学" sid="wiki00052410-00-01" id="4"/><rel type="=構" target="学" sid="wiki00052410-00-01" id="4"/><rel type="=構" mode="AND" target="学" sid="wiki00052410-00-01" id="2"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14P <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ノ" target="学" sid="wiki00052410-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="学" sid="wiki00052410-00-01" id="4"/><rel type="=構" mode="AND" target="学" sid="wiki00052410-00-01" id="2"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 8D
-個別 こべつ 個別 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言>
+個別 こべつ 個別 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8D <rel type="=" target="経済" sid="wiki00052410-00-01" id="3"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="個別" sid="wiki00052410-00-01" id="6"/><rel type="ニカンシテ" target="経済" sid="wiki00052410-00-01" id="7"/>
-活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 8D <rel type="=" target="経済" sid="wiki00052410-00-01" id="3"/><体言>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="修飾" target="個別" sid="wiki00052410-00-01" id="6"/><rel type="ニカンシテ" target="経済" sid="wiki00052410-00-01" id="7"/>
+活動 かつどう 活動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="活動" sid="wiki00052410-00-01" id="8"/><rel type="外の関係" target="経済全体" sid="wiki00052410-00-01" id="12"/>
-集計 しゅうけい 集計 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 12D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="活動" sid="wiki00052410-00-01" id="8"/><用言:動><節-主辞><時制:非過去><rel type="外の関係" target="経済全体" sid="wiki00052410-00-01" id="12"/>
+集計 しゅうけい 集計 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 7D
-+ 11D
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="一" sid="wiki00052410-00-01" id="10"/>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 13D <rel type="ノ？" target="国" sid="wiki00052410-00-01" id="11"/><rel type="修飾" target="集計した" sid="wiki00052410-00-01" id="9"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="修飾" target="一" sid="wiki00052410-00-01" id="10"/>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <体言><rel type="ノ？" target="国" sid="wiki00052410-00-01" id="11"/><rel type="修飾" target="集計した" sid="wiki00052410-00-01" id="9"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="経済全体" sid="wiki00052410-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00052410-00-01" id="14"/>
-着目 ちゃくもく 着目 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="経済全体" sid="wiki00052410-00-01" id="12"/><rel type="外の関係" target="もの" sid="wiki00052410-00-01" id="14"/><用言:動><時制:非過去><節-主辞>
+着目 ちゃくもく 着目 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="トイウ" target="着目する" sid="wiki00052410-00-01" id="13"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><用言:判><体言><時制:非過去><節-区切><rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="トイウ" target="着目する" sid="wiki00052410-00-01" id="13"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00052410-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/09/26 MEMO:
 * -1D
-+ 1D <rel type="=" target="マクロ" sid="wiki00052410-00-01" id="0"/>
-マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="経済" sid="wiki00052410-00-01" id="1"/>
-けいざい けいざい けいざい 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="=" target="学" sid="wiki00052410-00-01" id="2"/>
-がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <rel type="=" target="マクロ" sid="wiki00052410-00-01" id="0"/><体言>
+マクロ まくろ マクロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="=" target="経済" sid="wiki00052410-00-01" id="1"/>
+けいざい けいざい けいざい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="学" sid="wiki00052410-00-01" id="2"/><体言>
+がく がく がく 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00052410-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/02/27 MEMO:
 * 1P
-+ 1D <rel type="=≒" target="マクロ" sid="wiki00052410-00-01" id="0"/>
-巨視 きょし 巨視 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="巨視" sid="wiki00052410-01" id="0"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5P <rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ニツイテ" target="経済" sid="wiki00052410-01" id="1"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 1D <体言><rel type="=≒" target="マクロ" sid="wiki00052410-00-01" id="0"/>
+巨視 きょし 巨視 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="修飾" target="巨視" sid="wiki00052410-01" id="0"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <体言><rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ニツイテ" target="経済" sid="wiki00052410-01" id="1"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 あるいは あるいは あるいは 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="巨視" sid="wiki00052410-01" id="0"/>
-巨視的 きょしてき 巨視的だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 5D <rel type="修飾" target="巨視的" sid="wiki00052410-01" id="3"/>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ニツイテ" target="経済" sid="wiki00052410-01" id="4"/><rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="=" mode="AND" target="学" sid="wiki00052410-01" id="2"/>
-学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <体言><非用言格解析:形><rel type="=" target="巨視" sid="wiki00052410-01" id="0"/>
+巨視的 きょしてき 巨視的だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 5D <体言><rel type="修飾" target="巨視的" sid="wiki00052410-01" id="3"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="ニツイテ" target="経済" sid="wiki00052410-01" id="4"/><rel type="=構" target="学" sid="wiki00052410-00-01" id="2"/><rel type="=" mode="AND" target="学" sid="wiki00052410-01" id="2"/>
+学 がく 学 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="学" sid="wiki00052410-01" id="2"/><rel type="ト" mode="AND" target="学" sid="wiki00052410-01" id="5"/>
-訳さ やくさ 訳す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ガ" target="学" sid="wiki00052410-00-01" id="2"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="学" sid="wiki00052410-01" id="2"/><rel type="ト" mode="AND" target="学" sid="wiki00052410-01" id="5"/>
+訳さ やくさ 訳す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

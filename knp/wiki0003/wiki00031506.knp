@@ -1,130 +1,130 @@
 # S-ID:wiki00031506-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/04/22 MEMO:
 * 4D
-+ 1D
-土佐 とさ 土佐 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 9D <rel type="ノ" target="土佐" sid="wiki00031506-00-01" id="0"/><NE:OPTIONAL:土佐藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言>
+土佐 とさ 土佐 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 9D <rel type="ノ" target="土佐" sid="wiki00031506-00-01" id="0"/><体言><NE:OPTIONAL:土佐藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 3D
-廃藩置県 はいはんちけん 廃藩置県 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:DATE:head>
-+ 7D <rel type="ノ" target="廃藩置県" sid="wiki00031506-00-01" id="2"/><NE:DATE:廃藩置県以前>
-以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 3D <体言>
+廃藩置県 はいはんちけん 廃藩置県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 7D <rel type="ノ" target="廃藩置県" sid="wiki00031506-00-01" id="2"/><体言><NE:DATE:廃藩置県以前>
+以前 いぜん 以前 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D
-土佐 とさの 土佐 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 6D <rel type="ノ" target="土佐" sid="wiki00031506-00-01" id="4"/><rel type="=" target="土佐" sid="wiki00031506-00-01" id="0"/><NE:LOCATION:土佐国>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 7D <rel type="ノ" target="国" sid="wiki00031506-00-01" id="5"/>
-一円 いちえん 一円 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言>
+土佐 とさの 土佐 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 6D <体言><rel type="ノ" target="土佐" sid="wiki00031506-00-01" id="4"/><NE:LOCATION:土佐国><rel type="=" target="土佐" sid="wiki00031506-00-01" id="0"/>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 7D <rel type="ノ" target="国" sid="wiki00031506-00-01" id="5"/><体言>
+一円 いちえん 一円 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="藩" sid="wiki00031506-00-01" id="9"/><rel type="ヲ" target="一円" sid="wiki00031506-00-01" id="6"/><rel type="マデ" target="廃藩置県" sid="wiki00031506-00-01" id="2"/>
-領有 りょうゆう 領有 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="藩" sid="wiki00031506-00-01" id="9"/><rel type="ヲ" target="一円" sid="wiki00031506-00-01" id="6"/><用言:動><時制:過去><節-主辞><rel type="マデ" target="廃藩置県" sid="wiki00031506-00-01" id="2"/>
+領有 りょうゆう 領有 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D
-+ 9D
-外様 とざま 外様 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="=構" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="修飾" target="外様" sid="wiki00031506-00-01" id="8"/><rel type="修飾" mode="AND" target="領有した" sid="wiki00031506-00-01" id="7"/><memo text="CO"/>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+外様 とざま 外様 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="藩" sid="wiki00031506-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="藩" sid="wiki00031506-00-01" id="1"/><memo text="CO"/><rel type="修飾" target="外様" sid="wiki00031506-00-01" id="8"/><rel type="修飾" mode="AND" target="領有した" sid="wiki00031506-00-01" id="7"/>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031506-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ 1D <rel type="=" target="土佐" sid="wiki00031506-00-01" id="0"/>
-とさ とさ とさ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00031506-00-01" id="1"/><NE:OPTIONAL:とさはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <体言><rel type="=" target="土佐" sid="wiki00031506-00-01" id="0"/>
+とさ とさ とさ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <体言><rel type="=" target="藩" sid="wiki00031506-00-01" id="1"/><NE:OPTIONAL:とさはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00031506-00-03 括弧始:（ 括弧終:） 括弧位置:21 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * 1D
-+ 1D
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 1D <体言>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="国" sid="wiki00031506-00-01" id="5"/><rel type="時間" target="現在" sid="wiki00031506-00-03" id="0"/><NE:LOCATION:高知県>
-高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <NE:LOCATION:高知県><rel type="=" target="国" sid="wiki00031506-00-01" id="5"/><rel type="時間" target="現在" sid="wiki00031506-00-03" id="0"/><体言>
+高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00031506-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/22 MEMO:
 * 1D
-+ 1D
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ 3D <NE:DATE:明治初年>
-初年 しょねん 初年 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
++ 1D <体言>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 3D <体言><NE:DATE:明治初年>
+初年 しょねん 初年 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="名称" sid="wiki00031506-01-01" id="3"/>
-正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
-+ 5D <rel type="時間" target="初年" sid="wiki00031506-01-01" id="1"/><rel type="ノ" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00031506-01-01" id="2"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><非用言格解析:形><rel type="ガ" target="名称" sid="wiki00031506-01-01" id="3"/>
+正式 せいしき 正式だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 5D <体言><rel type="時間" target="初年" sid="wiki00031506-01-01" id="1"/><rel type="ノ" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="修飾" target="正式" sid="wiki00031506-01-01" id="2"/>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="=" target="高知" sid="wiki00031506-00-03" id="1"/>
-高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="ガ" target="名称" sid="wiki00031506-01-01" id="3"/><rel type="=構" target="名称" sid="wiki00031506-01-01" id="3"/><rel type="=" mode="AND" target="藩" sid="wiki00031506-00-01" id="1"/><memo text="CO"/><NE:OPTIONAL:高知藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 5D <体言><rel type="=" target="高知" sid="wiki00031506-00-03" id="1"/>
+高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="ガ" target="名称" sid="wiki00031506-01-01" id="3"/><用言:判><体言><時制:非過去><節-主辞><節-区切><memo text="CO"/><rel type="=構" target="名称" sid="wiki00031506-01-01" id="3"/><rel type="=" mode="AND" target="藩" sid="wiki00031506-00-01" id="1"/><NE:OPTIONAL:高知藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031506-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ 1D <rel type="=" target="高知" sid="wiki00031506-01-01" id="4"/>
-こうち こうち こうち 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00031506-01-01" id="5"/><NE:OPTIONAL:こうちはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 1D <rel type="=" target="高知" sid="wiki00031506-01-01" id="4"/><体言>
+こうち こうち こうち 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ -1D <rel type="=" target="藩" sid="wiki00031506-01-01" id="5"/><体言><NE:OPTIONAL:こうちはん><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00031506-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/04/22 MEMO:
 * 2D
-+ 1D <rel type="=" target="藩" sid="wiki00031506-00-01" id="1"/>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ノ" target="藩" sid="wiki00031506-02-01" id="0"/>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="藩" sid="wiki00031506-00-01" id="1"/>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="藩" sid="wiki00031506-02-01" id="0"/><体言>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="高知" sid="wiki00031506-00-03" id="1"/>
-高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D <NE:OPTIONAL:高知城><NE-OPTIONAL:LOCATION,ARTIFACT:0>
-城 じょう 城 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 3D <体言><rel type="=" target="高知" sid="wiki00031506-00-03" id="1"/>
+高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4D <体言><NE:OPTIONAL:高知城><NE-OPTIONAL:LOCATION,ARTIFACT:0>
+城 じょう 城 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="庁" sid="wiki00031506-02-01" id="1"/><rel type="ニ" target="城" sid="wiki00031506-02-01" id="3"/>
-あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
++ -1D <rel type="ガ" target="庁" sid="wiki00031506-02-01" id="1"/><rel type="ニ" target="城" sid="wiki00031506-02-01" id="3"/><用言:動><時制:過去><節-主辞><節-区切>
+あった あった ある 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031506-02-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ -1D <rel type="=≒" target="城" sid="wiki00031506-02-01" id="3"/><rel type="ノ？" target="高知県" sid="wiki00031506-00-03" id="1"/><NE:LOCATION:高知市>
-高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <NE:LOCATION:高知市><rel type="=≒" target="城" sid="wiki00031506-02-01" id="3"/><体言><rel type="ノ？" target="高知県" sid="wiki00031506-00-03" id="1"/>
+高知 こうち 高知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00031506-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/22 MEMO:
 * -1D
-+ 1D
-大広間 おおびろま 大広間 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ガ" target="大名" sid="wiki00031506-03" id="3"/><rel type="ニ" target="大広間" sid="wiki00031506-03" id="0"/>
-詰 づめ 詰 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D
-国持 くにもち 国持 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="修飾" target="詰" sid="wiki00031506-03" id="1"/><rel type="修飾" mode="AND" target="国持" sid="wiki00031506-03" id="2"/><rel type="=構" target="藩" sid="wiki00031506-00-01" id="1"/><memo text="CO"/>
-大名 だいみょう 大名 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+大広間 おおびろま 大広間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="ガ" target="大名" sid="wiki00031506-03" id="3"/><rel type="ニ" target="大広間" sid="wiki00031506-03" id="0"/>
+詰 づめ 詰 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言>
+国持 くにもち 国持 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ガ" target="藩" sid="wiki00031506-00-01" id="1"/><rel type="修飾" target="詰" sid="wiki00031506-03" id="1"/><rel type="修飾" mode="AND" target="国持" sid="wiki00031506-03" id="2"/><memo text="CO"/><rel type="=構" target="藩" sid="wiki00031506-00-01" id="1"/>
+大名 だいみょう 大名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00031506-04 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/22 MEMO:
 * 2D
-+ 3D
-一貫 いっかん 一貫 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <用言:動>
+一貫 いっかん 一貫 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 * 2D
-+ 2D <NE:PERSON:山内>
-山内 やまうち 山内 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
-+ 3D <rel type="ノ" target="山内" sid="wiki00031506-04" id="1"/>
-家 け 家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言><NE:PERSON:山内>
+山内 やまうち 山内 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
++ 3D <体言><rel type="ノ" target="山内" sid="wiki00031506-04" id="1"/>
+家 け 家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="家" sid="wiki00031506-04" id="2"/><rel type="ヲ" target="藩" sid="wiki00031506-00-01" id="1"/>
-支配 しはい 支配 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="家" sid="wiki00031506-04" id="2"/><用言:動><時制:過去><節-主辞><節-区切><rel type="ヲ" target="藩" sid="wiki00031506-00-01" id="1"/>
+支配 しはい 支配 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

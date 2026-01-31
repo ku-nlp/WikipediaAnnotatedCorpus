@@ -1,45 +1,45 @@
 # S-ID:wiki00030414-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/04/16 MEMO:
 * 2D
-+ 5D <NE:ARTIFACT:コカ・コーラ>
-コカ・コーラ こかこーら コカ・コーラ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 5D <体言><NE:ARTIFACT:コカ・コーラ>
+コカ・コーラ こかこーら コカ・コーラ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <体言>
+ザ ざ ザ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
-コカ・コーラ こかこーら コカ・コーラ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <体言><rel type="=" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
+コカ・コーラ こかこーら コカ・コーラ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <NE:ORGANIZATION:ザ　コカ・コーラ　カンパニー>
-カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 5D <体言><NE:ORGANIZATION:ザ　コカ・コーラ　カンパニー>
+カンパニー かんぱにー カンパニー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5P <rel type="ガ" target="カンパニー" sid="wiki00030414-00" id="3"/><rel type="ヲ" target="コーラ" sid="wiki00030414-00" id="6"/>
-製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="カンパニー" sid="wiki00030414-00" id="3"/><rel type="ヲ" target="コーラ" sid="wiki00030414-00" id="6"/>
-販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5P <rel type="ガ" target="カンパニー" sid="wiki00030414-00" id="4"/><rel type="ヲ" target="コーラ" sid="wiki00030414-00" id="7"/><用言:動>
+製造 せいぞう 製造 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="カンパニー" sid="wiki00030414-00" id="4"/><rel type="ヲ" target="コーラ" sid="wiki00030414-00" id="7"/><用言:動><時制:非過去><節-主辞>
+販売 はんばい 販売 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 7D <rel type="=" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
-コーラ こーら コーラ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言><rel type="=" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
+コーラ こーら コーラ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="コカ・コーラ" sid="wiki00030414-00" id="0"/><rel type="ノ" target="コーラ" sid="wiki00030414-00" id="6"/><rel type="=構" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
-名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="コカ・コーラ" sid="wiki00030414-00" id="0"/><rel type="ノ" target="コーラ" sid="wiki00030414-00" id="7"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
+名称 めいしょう 名称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00030414-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/16 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
-愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="コカ・コーラ" sid="wiki00030414-00" id="0"/>
+愛称 あいしょう 愛称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="愛称" sid="wiki00030414-01" id="0"/><rel type="=構" target="愛称" sid="wiki00030414-01" id="0"/><rel type="=" mode="AND" target="コカ・コーラ" sid="wiki00030414-00" id="0"/><memo text="CO"/><NE:ARTIFACT:コーク>
-コーク こーく コーク 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ -1D <rel type="ガ" target="愛称" sid="wiki00030414-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ARTIFACT:コーク><rel type="=構" target="愛称" sid="wiki00030414-01" id="0"/><rel type="=" mode="AND" target="コカ・コーラ" sid="wiki00030414-00" id="0"/><memo text="CO"/>
+コーク こーく コーク 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

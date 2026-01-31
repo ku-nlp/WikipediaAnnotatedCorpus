@@ -1,218 +1,218 @@
 # S-ID:wiki00011538-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:58.00000 MOD:2025/11/13 MEMO:
 * 1D
-+ 1D <NE:LOCATION:日本>
-日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 1D <体言><NE:LOCATION:日本>
+日本 にほん/にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
++ 3D <用言:動><時制:非過去>
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
 * 12D
-+ 3D <rel type="ガ" target="不特定:人"/>
-健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ 20D <rel type="ニオイテ" target="日本" sid="wiki00011538-00-01" id="0"/><rel type="ニカンシテ" target="健康" sid="wiki00011538-00-01" id="2"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><非用言格解析:形><rel type="ガ" target="不特定:人"/>
+健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ 20D <体言><rel type="ニオイテ" target="日本" sid="wiki00011538-00-01" id="0"/><rel type="ニカンシテ" target="健康" sid="wiki00011538-00-01" id="2"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ヲ" target="者" sid="wiki00011538-00-01" id="5"/><rel type="ガ" target="不特定:人"/>
-雇用 こよう 雇用 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="雇用" sid="wiki00011538-00-01" id="4"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 5D <rel type="ヲ" target="者" sid="wiki00011538-00-01" id="5"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/>
+雇用 こよう 雇用 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ？" target="雇用" sid="wiki00011538-00-01" id="4"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 7P <rel type="ノ？" target="者" sid="wiki00011538-00-01" id="5"/>
-福利 ふくり 福利 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ノ？" target="者" sid="wiki00011538-00-01" id="5"/>
-厚生 こうせい 厚生 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7P <体言><rel type="ノ？" target="者" sid="wiki00011538-00-01" id="5"/>
+福利 ふくり 福利 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="ノ？" target="者" sid="wiki00011538-00-01" id="5"/>
+厚生 こうせい 厚生 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <rel type="ヲ" target="厚生" sid="wiki00011538-00-01" id="7"/><rel type="ノ" target="保険" sid="wiki00011538-00-01" id="14"/><rel type="=構" target="厚生" sid="wiki00011538-00-01" id="7"/>
-目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ヲ" target="厚生" sid="wiki00011538-00-01" id="7"/><用言:動><体言><rel type="ノ" target="保険" sid="wiki00011538-00-01" id="14"/><rel type="=構" target="厚生" sid="wiki00011538-00-01" id="7"/>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 10D
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="修飾" target="社会" sid="wiki00011538-00-01" id="9"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="トイウ" target="保険" sid="wiki00011538-00-01" id="10"/>
-方式 ほうしき 方式 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><rel type="修飾" target="社会" sid="wiki00011538-00-01" id="9"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="トイウ" target="保険" sid="wiki00011538-00-01" id="10"/>
+方式 ほうしき 方式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="ガ" target="保険" sid="wiki00011538-00-01" id="14"/><rel type="デ" target="方式" sid="wiki00011538-00-01" id="11"/><rel type="デ" mode="？" target="なし"/><rel type="ニ" target="目的" sid="wiki00011538-00-01" id="8"/><rel type="ニ" mode="？" target="なし"/><rel type="ニ" mode="AND" target="不特定:人"/>
-運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D <rel type="ガ" target="保険" sid="wiki00011538-00-01" id="14"/><用言:動><時制:非過去><節-主辞><rel type="デ" target="方式" sid="wiki00011538-00-01" id="11"/><rel type="デ" mode="？" target="なし"/><rel type="ニ" target="目的" sid="wiki00011538-00-01" id="8"/><rel type="ニ" mode="？" target="なし"/><rel type="ニ" mode="AND" target="不特定:人"/>
+運営 うんえい 運営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 9D
-+ 14D
-医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ニカンシテ" target="医療" sid="wiki00011538-00-01" id="13"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D <体言>
+医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 15D <体言><rel type="ニカンシテ" target="医療" sid="wiki00011538-00-01" id="13"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 20D <rel type="ノ" target="保険" sid="wiki00011538-00-01" id="14"/>
-うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL
++ 20D <rel type="ノ" target="保険" sid="wiki00011538-00-01" id="14"/><体言>
+うち うち うち 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="=" target="健康" sid="wiki00011538-00-01" id="2"/>
-健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ARTIFACT:head>
-+ 18D <rel type="=" target="保険" sid="wiki00011538-00-01" id="3"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 19D <rel type="ニカンシテ" target="保険" sid="wiki00011538-00-01" id="17"/><NE:ARTIFACT:健康保険法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 17D <体言><非用言格解析:形><rel type="=" target="健康" sid="wiki00011538-00-01" id="2"/>
+健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 18D <rel type="=" target="保険" sid="wiki00011538-00-01" id="3"/><体言>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 19D <体言><節-主辞><NE:ARTIFACT:健康保険法><rel type="ニカンシテ" target="保険" sid="wiki00011538-00-01" id="17"/>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 20D <rel type="ガ" target="もの" sid="wiki00011538-00-01" id="20"/><rel type="ニ" target="法" sid="wiki00011538-00-01" id="18"/>
-基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 20D <rel type="ガ" target="もの" sid="wiki00011538-00-01" id="20"/><用言:動><時制:非過去><rel type="ニ" target="法" sid="wiki00011538-00-01" id="18"/>
+基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="ニモトヅイテ" target="法" sid="wiki00011538-00-01" id="18"/><rel type="修飾" target="うち" sid="wiki00011538-00-01" id="15"/><rel type="=構" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="=≒" mode="AND" target="保険" sid="wiki00011538-00-01" id="14"/><memo text="CO"/>
-もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL
++ -1D <rel type="ガ" target="保険" sid="wiki00011538-00-01" id="3"/><用言:判><体言><時制:非過去><節-区切><rel type="ニモトヅイテ" target="法" sid="wiki00011538-00-01" id="18"/><memo text="CO"/><rel type="修飾" target="うち" sid="wiki00011538-00-01" id="15"/><rel type="=構" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="=≒" mode="AND" target="保険" sid="wiki00011538-00-01" id="14"/>
+もの もの もの 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011538-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/17 MEMO:
 * -1D
-+ 1D <rel type="=" target="健康" sid="wiki00011538-00-01" id="2"/>
-けんこう けんこう けんこうだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ -1D <rel type="=" target="保険" sid="wiki00011538-00-01" id="3"/>
-ほけん ほけん ほけん 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><非用言格解析:形><rel type="=" target="健康" sid="wiki00011538-00-01" id="2"/>
+けんこう けんこう けんこうだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ -1D <体言><rel type="=" target="保険" sid="wiki00011538-00-01" id="3"/>
+ほけん ほけん ほけん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00011538-00-03 括弧始:（ 括弧終:） 括弧位置:50 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/17 MEMO:
 * 1P
-+ 1D
-被用者 ひようしゃ 被用者 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3P <rel type="修飾" target="被用者" sid="wiki00011538-00-03" id="0"/><rel type="=≒" target="保険" sid="wiki00011538-00-01" id="14"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+被用者 ひようしゃ 被用者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P <体言><rel type="修飾" target="被用者" sid="wiki00011538-00-03" id="0"/><rel type="=≒" target="保険" sid="wiki00011538-00-01" id="14"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-職域 しょくいき 職域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="修飾" target="職域" sid="wiki00011538-00-03" id="2"/><rel type="=≒" target="保険" sid="wiki00011538-00-01" id="14"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言>
+職域 しょくいき 職域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="修飾" target="職域" sid="wiki00011538-00-03" id="2"/><rel type="=≒" target="保険" sid="wiki00011538-00-01" id="14"/><体言>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00011538-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:89.00000 MOD:2025/11/13 MEMO:
 * 1D
-+ 1D <rel type="=" target="医療" sid="wiki00011538-00-01" id="13"/>
-医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="保険" sid="wiki00011538-00-01" id="14"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ニカンシテ" target="保険" sid="wiki00011538-01-01" id="1"/>
-事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="医療" sid="wiki00011538-00-01" id="13"/>
+医療 いりょう 医療 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><rel type="=" target="保険" sid="wiki00011538-00-01" id="14"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="ニカンシテ" target="保険" sid="wiki00011538-01-01" id="1"/>
+事務 じむ 事務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 上 じょう 上 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="修飾" target="事務上" sid="wiki00011538-01-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="ト" target="社保" sid="wiki00011538-01-01" id="4"/><rel type="ノ" target="保険" sid="wiki00011538-00-01" id="3"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="修飾" target="事務上" sid="wiki00011538-01-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="ト" target="社保" sid="wiki00011538-01-01" id="4"/><rel type="ノ" target="保険" sid="wiki00011538-00-01" id="3"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=構" target="略称" sid="wiki00011538-01-01" id="3"/><rel type="=" mode="AND" target="保険" sid="wiki00011538-00-01" id="3"/>
-社保 しゃほ 社保 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="=構" target="略称" sid="wiki00011538-01-01" id="3"/><rel type="=" mode="AND" target="保険" sid="wiki00011538-00-01" id="3"/>
+社保 しゃほ 社保 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 10P <rel type="ガ" target="略称" sid="wiki00011538-01-01" id="3"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="社保" sid="wiki00011538-01-01" id="4"/>
-言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
++ 10P <rel type="ガ" target="略称" sid="wiki00011538-01-01" id="3"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切><rel type="ト" target="社保" sid="wiki00011538-01-01" id="4"/>
+言わ いわ 言う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 7D
-国保 こくほ 国保 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <体言>
+国保 こくほ 国保 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="ガ" target="保険" sid="wiki00011538-01-01" id="9"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="国保" sid="wiki00011538-01-01" id="6"/>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
++ 9D <rel type="ガ" target="保険" sid="wiki00011538-01-01" id="9"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><rel type="ト" target="国保" sid="wiki00011538-01-01" id="6"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 7D
-+ 9D
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 10D <rel type="修飾" target="地域" sid="wiki00011538-01-01" id="8"/><rel type="=構" target="国保" sid="wiki00011538-01-01" id="6"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <体言><rel type="修飾" target="地域" sid="wiki00011538-01-01" id="8"/><rel type="=構" target="国保" sid="wiki00011538-01-01" id="6"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="不特定:人"/><rel type="ガ" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="ト" target="保険" sid="wiki00011538-01-01" id="9"/>
-区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="保険" sid="wiki00011538-00-01" id="3"/><rel type="ト" target="保険" sid="wiki00011538-01-01" id="9"/>
+区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00011538-01-02 括弧始:（ 括弧終:） 括弧位置:13 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/17 MEMO:
 * -1D
-+ -1D <rel type="=" target="社保" sid="wiki00011538-01-01" id="4"/>
-しゃほ しゃほ しゃほ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="社保" sid="wiki00011538-01-01" id="4"/><体言>
+しゃほ しゃほ しゃほ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00011538-01-03 括弧始:（ 括弧終:） 括弧位置:25 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/17 MEMO:
 * -1D
-+ -1D <rel type="=" target="国保" sid="wiki00011538-01-01" id="6"/>
-こくほ こくほ こくほ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="国保" sid="wiki00011538-01-01" id="6"/><体言>
+こくほ こくほ こくほ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00011538-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/11/13 MEMO:
 * 9D
 + 22D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D
-公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ノ？" target="公務" sid="wiki00011538-02" id="1"/>
-員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="ノ？" target="公務" sid="wiki00011538-02" id="1"/>
+員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D
-共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="修飾" target="共済" sid="wiki00011538-02" id="3"/>
-組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 6D <rel type="ガ" target="者" sid="wiki00011538-02" id="6"/><rel type="ニ" target="組合" sid="wiki00011538-02" id="4"/>
-加入 かにゅう 加入 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 8D <rel type="=≒" target="員" sid="wiki00011538-02" id="2"/>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
++ 4D <体言>
+共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <体言><rel type="修飾" target="共済" sid="wiki00011538-02" id="3"/>
+組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="者" sid="wiki00011538-02" id="6"/><rel type="ニ" target="組合" sid="wiki00011538-02" id="4"/><体言><非用言格解析:動>
+加入 かにゅう 加入 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <体言><rel type="=≒" target="員" sid="wiki00011538-02" id="2"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="=" target="被用者" sid="wiki00011538-00-03" id="0"/>
-被用者 ひようしゃ 被用者 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="ノ？" target="者" sid="wiki00011538-02" id="6"/><rel type="修飾" target="被用者" sid="wiki00011538-02" id="7"/><rel type="=≒" target="保険" sid="wiki00011538-00-03" id="1"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="=" target="被用者" sid="wiki00011538-00-03" id="0"/>
+被用者 ひようしゃ 被用者 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <体言><rel type="ノ？" target="者" sid="wiki00011538-02" id="6"/><rel type="修飾" target="被用者" sid="wiki00011538-02" id="7"/><rel type="=≒" target="保険" sid="wiki00011538-00-03" id="1"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 22D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 22D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 11D <rel type="=" target="健康" sid="wiki00011538-00-01" id="16"/>
-健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ARTIFACT:head>
-+ 12D <rel type="=" target="保険" sid="wiki00011538-00-01" id="17"/>
-保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 18P <rel type="=" target="法" sid="wiki00011538-00-01" id="18"/><NE:ARTIFACT:健康保険法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 11D <体言><非用言格解析:形><rel type="=" target="健康" sid="wiki00011538-00-01" id="16"/>
+健康 けんこう 健康だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 12D <体言><rel type="=" target="保険" sid="wiki00011538-00-01" id="17"/>
+保険 ほけん 保険 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 18P <rel type="=" target="法" sid="wiki00011538-00-01" id="18"/><用言:判><体言><時制:非過去><否定表現><NE:ARTIFACT:健康保険法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 なく なく ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本連用形 7 NIL
 * 7D
-+ 15D
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 15D <rel type="=" target="公務" sid="wiki00011538-02" id="1"/>
-公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 17D <rel type="=" target="員" sid="wiki00011538-02" id="2"/><rel type="修飾" target="国家" sid="wiki00011538-02" id="13"/>
-員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 17D
-共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 18D <rel type="修飾" target="共済" sid="wiki00011538-02" id="16"/><rel type="ノ？" target="員" sid="wiki00011538-02" id="15"/>
-組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 19D <rel type="ニカンシテ" target="組合" sid="wiki00011538-02" id="17"/><NE:ARTIFACT:国家公務員共済組合法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 15D <体言>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 15D <rel type="=" target="公務" sid="wiki00011538-02" id="1"/><体言>
+公務 こうむ 公務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 17D <rel type="=" target="員" sid="wiki00011538-02" id="2"/><体言><rel type="修飾" target="国家" sid="wiki00011538-02" id="13"/>
+員 いん 員 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 17D <体言>
+共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 18D <体言><rel type="修飾" target="共済" sid="wiki00011538-02" id="16"/><rel type="ノ？" target="員" sid="wiki00011538-02" id="15"/>
+組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 19D <体言><NE:ARTIFACT:国家公務員共済組合法><rel type="ニカンシテ" target="組合" sid="wiki00011538-02" id="17"/>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 21D
-基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL
++ 21D <用言:動><時制:非過去>
+基づく もとづく 基づく 動詞 2 * 0 子音動詞カ行 2 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 21D <rel type="=" target="共済" sid="wiki00011538-02" id="16"/>
-共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 22D <rel type="=" target="組合" sid="wiki00011538-02" id="17"/><rel type="ニモトヅイテ" target="法など" sid="wiki00011538-02" id="18"/><rel type="修飾" target="共済" sid="wiki00011538-02" id="20"/>
-組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 21D <体言><rel type="=" target="共済" sid="wiki00011538-02" id="16"/>
+共済 きょうさい 共済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="=" target="組合" sid="wiki00011538-02" id="17"/><体言><rel type="ニモトヅイテ" target="法など" sid="wiki00011538-02" id="18"/><rel type="修飾" target="共済" sid="wiki00011538-02" id="20"/>
+組合 くみあい 組合 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="保険" sid="wiki00011538-02" id="8"/><rel type="ニツイテ" target="保険" sid="wiki00011538-02" id="8"/><rel type="デ" target="組合" sid="wiki00011538-02" id="21"/>
-カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="保険" sid="wiki00011538-02" id="8"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニツイテ" target="保険" sid="wiki00011538-02" id="8"/><rel type="デ" target="組合" sid="wiki00011538-02" id="21"/>
+カバー かばー カバー 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

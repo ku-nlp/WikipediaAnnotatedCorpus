@@ -1,99 +1,99 @@
 # S-ID:wiki00037360-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/13 MEMO:
 * 2D
-+ 4D <NE:OPTIONAL:ファミリーマート><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
-ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4D <体言><NE:OPTIONAL:ファミリーマート><NE-OPTIONAL:ORGANIZATION,ARTIFACT,NONE:0>
+ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
-+ 4D <rel type="ガ" target="ストア" sid="wiki00037360-00-01" id="4"/><rel type="デ" target="日本" sid="wiki00037360-00-01" id="1"/>
-発祥 はっしょう 発祥 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 2D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <rel type="ガ" target="ストア" sid="wiki00037360-00-01" id="5"/><体言><非用言格解析:動><rel type="デ" target="日本" sid="wiki00037360-00-01" id="2"/>
+発祥 はっしょう 発祥 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 4D <rel type="ガ" target="ストア" sid="wiki00037360-00-01" id="4"/>
-コンビニエンス こんびにえんす コンビニエンスだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
-+ -1D <rel type="修飾" target="コンビニエンス" sid="wiki00037360-00-01" id="3"/><rel type="ガ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><rel type="=構" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
-ストア すとあ ストア 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><非用言格解析:形><rel type="ガ" target="ストア" sid="wiki00037360-00-01" id="5"/>
+コンビニエンス こんびにえんす コンビニエンスだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
++ -1D <用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="コンビニエンス" sid="wiki00037360-00-01" id="4"/><rel type="ガ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><rel type="=構" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
+ストア すとあ ストア 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00037360-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/13 MEMO:
 * -1D
-+ -1D <rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><NE:OPTIONAL:FamilyMart><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-FamilyMart FamilyMart FamilyMart 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <体言><NE:OPTIONAL:FamilyMart><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0><rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
+FamilyMart FamilyMart FamilyMart 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00037360-00-03 括弧始:（ 括弧終:） 括弧位置:38 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/13 MEMO:
 * -1D
-+ -1D <rel type="=" target="ストア" sid="wiki00037360-00-01" id="4"/>
-CVS CVS CVS 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="=" target="ストア" sid="wiki00037360-00-01" id="5"/><体言>
+CVS CVS CVS 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00037360-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/13 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="ノ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="通称" sid="wiki00037360-01" id="0"/><rel type="修飾" target="通称" sid="wiki00037360-01" id="0"/><rel type="=構" target="通称" sid="wiki00037360-01" id="0"/><rel type="=" mode="AND" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><memo text="CO"/><NE:OPTIONAL:ファミマ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
++ -1D <rel type="ガ" target="通称" sid="wiki00037360-01" id="0"/><NE:OPTIONAL:ファミマ><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0><rel type="修飾" target="通称" sid="wiki00037360-01" id="0"/><rel type="=構" target="通称" sid="wiki00037360-01" id="0"/><rel type="=" mode="AND" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><memo text="CO"/><体言><時制:非過去><節-主辞><節-区切><用言:判>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-ファミマ ふぁみま ファミマ 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
+ファミマ ふぁみま ファミマ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00037360-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:108.00000 MOD:2025/05/13 MEMO:
 * 6D
-+ 7D
-ここ ここ ここ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
++ 7D <体言>
+ここ ここ ここ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D
-店舗 てんぽ 店舗 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ？" target="店舗" sid="wiki00037360-02-01" id="1"/>
-ブランド ぶらんど ブランド 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D <体言>
+店舗 てんぽ 店舗 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="ノ？" target="店舗" sid="wiki00037360-02-01" id="1"/>
+ブランド ぶらんど ブランド 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 4D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><rel type="=構" mode="AND" target="ブランド" sid="wiki00037360-02-01" id="2"/><NE:ARTIFACT:ファミリーマート>
-ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:single>
++ 5D <体言><NE:ARTIFACT:ファミリーマート><rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><rel type="=構" mode="AND" target="ブランド" sid="wiki00037360-02-01" id="2"/>
+ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="記述" sid="wiki00037360-02-01" id="6"/><rel type="ニ" target="ファミリーマート" sid="wiki00037360-02-01" id="4"/>
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 6D <用言:動><時制:非過去><rel type="ガ" target="記述" sid="wiki00037360-02-01" id="6"/><rel type="ニ" target="ファミリーマート" sid="wiki00037360-02-01" id="4"/>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 6D
-+ 7D <rel type="ガ" target="著者"/><rel type="デ" target="ここ" sid="wiki00037360-02-01" id="0"/><rel type="ニカンシテ" target="ファミリーマート" sid="wiki00037360-02-01" id="4"/>
-記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="著者"/><体言><非用言格解析:動><rel type="デ" target="ここ" sid="wiki00037360-02-01" id="0"/><rel type="ニカンシテ" target="ファミリーマート" sid="wiki00037360-02-01" id="4"/>
+記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10P
-+ 11P <rel type="ガ" target="著者"/><rel type="ニ" target="記述" sid="wiki00037360-02-01" id="6"/><rel type="デ" target="ここ" sid="wiki00037360-02-01" id="0"/>
-特化 とっか 特化 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11P <rel type="ガ" target="著者"/><rel type="ニ" target="記述" sid="wiki00037360-02-01" id="7"/><用言:動><節-主辞><節-区切><rel type="デ" target="ここ" sid="wiki00037360-02-01" id="0"/>
+特化 とっか 特化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="トイウ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
-法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言><rel type="トイウ" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/>
+法人 ほうじん 法人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 そのもの そのもの そのもの 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 11D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 11D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 11D <rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><memo text="NE 法人の話だとORGANIZATIONだが、「のページ」と考えるとARTIFACT"/><NE:OPTIONAL:ファミリーマート><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 11D <体言><rel type="=" target="ファミリーマート" sid="wiki00037360-00-01" id="0"/><memo text="NE 法人の話だとORGANIZATIONだが、「のページ」と考えるとARTIFACT"/><NE:OPTIONAL:ファミリーマート><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+ファミリーマート ふぁみりーまーと ファミリーマート 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="著者"/><rel type="ニツイテ" target="法人" sid="wiki00037360-02-01" id="8"/><rel type="デ" target="ファミリーマート" sid="wiki00037360-02-01" id="10"/>
-記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="著者"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ニツイテ" target="法人" sid="wiki00037360-02-01" id="9"/><rel type="デ" target="ファミリーマート" sid="wiki00037360-02-01" id="10"/>
+記述 きじゅつ 記述 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00037360-02-02 括弧始:（ 括弧終:） 括弧位置:53 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/13 MEMO:
 * -1D
-+ -1D <rel type="=" target="ファミリーマート" sid="wiki00037360-02-01" id="10"/><rel type="=≒" mode="AND" target="法人" sid="wiki00037360-02-01" id="8"/>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="=" target="ファミリーマート" sid="wiki00037360-02-01" id="10"/><rel type="=≒" mode="AND" target="法人" sid="wiki00037360-02-01" id="8"/>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS

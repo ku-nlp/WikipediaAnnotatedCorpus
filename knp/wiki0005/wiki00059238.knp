@@ -1,80 +1,80 @@
 # S-ID:wiki00059238-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/05/22 MEMO:
 * 2D
-+ 1D
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 1D <体言>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 12D <NE:ORGANIZATION:ニューヨーク・ヤンキース>
-ヤンキース やんきーす ヤンキース 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 12D <体言><NE:ORGANIZATION:ニューヨーク・ヤンキース>
+ヤンキース やんきーす ヤンキース 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D
-メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
-+ 4D <rel type="ノ？" target="メジャー" sid="wiki00059238-00-01" id="2"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D
-アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D <rel type="ノ" target="ベースボール" sid="wiki00059238-00-01" id="4"/><rel type="ノ？" target="アメリカン" sid="wiki00059238-00-01" id="5"/>
-リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 8D
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 9D <rel type="ノ" target="リーグ" sid="wiki00059238-00-01" id="6"/><rel type="ノ？" target="東" sid="wiki00059238-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールアメリカンリーグ東地区><NE-OPTIONAL:ORGANIZATION,NONE:0>
-地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 12D <rel type="ガ" target="チーム" sid="wiki00059238-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00059238-00-01" id="8"/>
-所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <体言>
+メジャー めじゃー メジャー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 4D <体言><rel type="ノ？" target="メジャー" sid="wiki00059238-00-01" id="2"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+ベースボール べーすぼーる ベースボール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <体言>
+アメリカン あめりかん アメリカン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <体言><rel type="ノ" target="ベースボール" sid="wiki00059238-00-01" id="4"/><rel type="ノ？" target="アメリカン" sid="wiki00059238-00-01" id="5"/>
+リーグ りーぐ リーグ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 8D <体言>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 9D <rel type="ノ" target="リーグ" sid="wiki00059238-00-01" id="6"/><体言><rel type="ノ？" target="東" sid="wiki00059238-00-01" id="7"/><NE:OPTIONAL:メジャーリーグベースボールアメリカンリーグ東地区><NE-OPTIONAL:ORGANIZATION,NONE:0>
+地区 ちく 地区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 12D <rel type="ガ" target="チーム" sid="wiki00059238-00-01" id="12"/><rel type="ニ" target="地区" sid="wiki00059238-00-01" id="8"/><体言><非用言格解析:動>
+所属 しょぞく 所属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 11D
-プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="プロ" sid="wiki00059238-00-01" id="10"/>
-野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="=構" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="ノ？" target="野球" sid="wiki00059238-00-01" id="11"/><rel type="修飾" target="所属" sid="wiki00059238-00-01" id="9"/><memo text="CO"/>
-チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+プロ ぷろ プロ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="修飾" target="プロ" sid="wiki00059238-00-01" id="10"/>
+野球 やきゅう 野球 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><memo text="CO"/><rel type="ノ？" target="野球" sid="wiki00059238-00-01" id="11"/><rel type="修飾" target="所属" sid="wiki00059238-00-01" id="9"/>
+チーム ちーむ チーム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00059238-00-02 括弧始:（ 括弧終:） 括弧位置:12 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/05/22 MEMO:
 * -1D
-+ 1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="ノ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="ト" target="NYY" sid="wiki00059238-00-02" id="1"/>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="ノ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="ト" target="NYY" sid="wiki00059238-00-02" id="1"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 ： ： ： 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="略称" sid="wiki00059238-00-02" id="0"/><rel type="=構" target="略称" sid="wiki00059238-00-02" id="0"/><rel type="=" mode="AND" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><NE:ORGANIZATION:NYY>
-NYY NYY NYY 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ -1D <体言><rel type="ガ" target="略称" sid="wiki00059238-00-02" id="0"/><NE:ORGANIZATION:NYY><rel type="=構" target="略称" sid="wiki00059238-00-02" id="0"/><rel type="=" mode="AND" target="ヤンキース" sid="wiki00059238-00-01" id="1"/>
+NYY NYY NYY 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00059238-00-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/01/31 MEMO:
 * 1D
 + 1D
-以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL
+以下 いか 以下 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="=" target="ベースボール" sid="wiki00059238-00-01" id="4"/><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION:0>
-MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="ベースボール" sid="wiki00059238-00-01" id="4"/><体言><NE:OPTIONAL:MLB><NE-OPTIONAL:ORGANIZATION:0>
+MLB MLB MLB 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
 EOS
 # S-ID:wiki00059238-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2024/05/22 MEMO:
 * 3D
-+ 1D <rel type="ノ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/>
-本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 7D <rel type="ノ？" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="修飾" target="本拠" sid="wiki00059238-01" id="0"/>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><体言>
+本拠 ほんきょ 本拠 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <体言><rel type="ノ？" target="ヤンキース" sid="wiki00059238-00-01" id="1"/><rel type="修飾" target="本拠" sid="wiki00059238-01" id="0"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=≒" target="ニューヨーク" sid="wiki00059238-00-01" id="0"/>
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 3D <体言><rel type="=≒" target="ニューヨーク" sid="wiki00059238-00-01" id="0"/>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="=" target="ニューヨーク" sid="wiki00059238-00-01" id="0"/><rel type="ノ？" target="ニューヨーク州" sid="wiki00059238-01" id="2"/>
-ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 4D <rel type="=" target="ニューヨーク" sid="wiki00059238-00-01" id="0"/><体言><rel type="ノ？" target="ニューヨーク州" sid="wiki00059238-01" id="2"/>
+ニューヨーク にゅーよーく ニューヨーク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="ニューヨーク" sid="wiki00059238-01" id="3"/><NE:LOCATION:ニューヨーク州ニューヨーク・ブロンクス>
-ブロンクス ぶろんくす ブロンクス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
++ 5D <体言><NE:LOCATION:ニューヨーク州ニューヨーク・ブロンクス><rel type="ノ？" target="ニューヨーク" sid="wiki00059238-01" id="3"/>
+ブロンクス ぶろんくす ブロンクス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="ガ" target="スタジアム" sid="wiki00059238-01" id="7"/><rel type="ニ" target="ブロンクス" sid="wiki00059238-01" id="4"/>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 7D <rel type="ガ" target="スタジアム" sid="wiki00059238-01" id="7"/><rel type="ニ" target="ブロンクス" sid="wiki00059238-01" id="4"/><用言:動><時制:非過去><節-主辞>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * -1D
-+ 7D <memo text="品詞"/>
-ヤンキー やんきー ヤンキー 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <体言><memo text="品詞"/>
+ヤンキー やんきー ヤンキー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="地" sid="wiki00059238-01" id="1"/><rel type="=構" target="地" sid="wiki00059238-01" id="1"/><memo text="CO"/><NE:LOCATION:ヤンキー・スタジアム>
-スタジアム すたじあむ スタジアム 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ -1D <rel type="ガ" target="地" sid="wiki00059238-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="地" sid="wiki00059238-01" id="1"/><memo text="CO"/><NE:LOCATION:ヤンキー・スタジアム>
+スタジアム すたじあむ スタジアム 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

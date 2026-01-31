@@ -1,184 +1,184 @@
 # S-ID:wiki00025556-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/06/02 MEMO:
 * 7D
-+ 1D
-民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ニカンシテ" target="民事" sid="wiki00025556-00-01" id="0"/>
-訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 10D <rel type="ノ" target="訴訟" sid="wiki00025556-00-01" id="1"/><NE:ARTIFACT:民事訴訟法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <体言>
+民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 2D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動><rel type="ニカンシテ" target="民事" sid="wiki00025556-00-01" id="0"/>
+訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 10D <rel type="ノ" target="訴訟" sid="wiki00025556-00-01" id="1"/><体言><NE:ARTIFACT:民事訴訟法>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="民事" sid="wiki00025556-00-01" id="0"/>
-民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="=" target="訴訟" sid="wiki00025556-00-01" id="1"/><rel type="修飾" target="民事" sid="wiki00025556-00-01" id="3"/>
-訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <体言><rel type="=" target="民事" sid="wiki00025556-00-01" id="0"/>
+民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="=" target="訴訟" sid="wiki00025556-00-01" id="1"/><体言><非用言格解析:動><rel type="修飾" target="民事" sid="wiki00025556-00-01" id="3"/>
+訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="手続" sid="wiki00025556-00-01" id="6"/><rel type="ニ" target="訴訟" sid="wiki00025556-00-01" id="4"/>
-関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ 6D <rel type="ガ" target="手続" sid="wiki00025556-00-01" id="6"/><rel type="ニ" target="訴訟" sid="wiki00025556-00-01" id="4"/><用言:動><時制:非過去>
+関する かんする 関する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 * 4D
-+ 7D
-手続 てつづき 手続 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <体言><非用言格解析:動>
+手続 てつづき 手続 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 8D
-ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
++ 8D <用言:動>
+ついて ついて つく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
 * 7D
-+ 10D <rel type="ニツイテ" target="手続" sid="wiki00025556-00-01" id="6"/><rel type="ヲ" target="法律" sid="wiki00025556-00-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
-定めた さだめた 定める 動詞 2 * 0 母音動詞 1 タ形 10 NIL
++ 10D <用言:動><時制:非過去><rel type="ニツイテ" target="手続" sid="wiki00025556-00-01" id="6"/><rel type="ヲ" target="法律" sid="wiki00025556-00-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
+定めた さだめた 定める 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
 * 7D
-+ 10D <NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <体言><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00025556-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00025556-00-01" id="9"/><rel type="=構" target="法" sid="wiki00025556-00-01" id="2"/><rel type="修飾" target="定めた" sid="wiki00025556-00-01" id="8"/><memo text="CO"/>
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="法" sid="wiki00025556-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="ノ？" target="日本" sid="wiki00025556-00-01" id="9"/><rel type="=構" target="法" sid="wiki00025556-00-01" id="2"/><memo text="CO"/><rel type="修飾" target="定めた" sid="wiki00025556-00-01" id="8"/>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025556-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:-2.00000 MOD:2025/06/02 MEMO:
 * 1P
-+ 1D <rel type="=" target="民事" sid="wiki00025556-00-01" id="0"/>
-みんじ みんじ みんじ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
-+ 2D <rel type="=" target="訴訟" sid="wiki00025556-00-01" id="1"/>
-そしょう そしょう そしょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8P <rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><NE:ARTIFACT:みんじそしょうほう>
-ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 1D <rel type="=" target="民事" sid="wiki00025556-00-01" id="0"/><体言>
+みんじ みんじ みんじ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="訴訟" sid="wiki00025556-00-01" id="1"/><体言><非用言格解析:動>
+そしょう そしょう そしょう 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 8P <体言><rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><NE:ARTIFACT:みんじそしょうほう>
+ほう ほう ほう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D
-平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 5D
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 4D <体言>
+平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 5D <体言>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 6D
-6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 6D <体言>
+6 ろく 6 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D
-26 にじゅうろく 26 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 8D <体言>
+26 にじゅうろく 26 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 8D <rel type="=" target="法律" sid="wiki00025556-00-01" id="10"/>
-法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 13P <rel type="ノ" target="法律" sid="wiki00025556-00-02" id="7"/><rel type="時間" target="26日" sid="wiki00025556-00-02" id="6"/><rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><rel type="=構" mode="AND" target="法律" sid="wiki00025556-00-02" id="7"/><NE:ARTIFACT:平成8年6月26日法律第109号>
++ 8D <体言><rel type="=" target="法律" sid="wiki00025556-00-01" id="10"/>
+法律 ほうりつ 法律 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 13P <体言><NE:ARTIFACT:平成8年6月26日法律第109号><rel type="ノ" target="法律" sid="wiki00025556-00-02" id="7"/><rel type="時間" target="26日" sid="wiki00025556-00-02" id="6"/><rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><rel type="=構" mode="AND" target="法律" sid="wiki00025556-00-02" id="7"/>
 第 だい 第 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
-109 ひゃくきゅう 109 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:middle>
+109 ひゃくきゅう 109 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
 号 ごう 号 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:ARTIFACT:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 13D <rel type="ノ" target="法" sid="wiki00025556-00-01" id="2"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0><rel type="ノ" target="法" sid="wiki00025556-00-01" id="2"/>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 11D
-Code Code Code 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 11D <体言>
+Code Code Code 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 13D
++ 13D <体言>
 of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 13D
++ 13D <体言>
 Civil Civil Civil 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ -1D <rel type="デ" target="英語" sid="wiki00025556-00-02" id="9"/><rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><rel type="=構" mode="AND" target="英語" sid="wiki00025556-00-02" id="9"/><NE:ARTIFACT:Code　of　Civil　Procedure>
++ -1D <体言><NE:ARTIFACT:Code　of　Civil　Procedure><rel type="デ" target="英語" sid="wiki00025556-00-02" id="9"/><rel type="=" target="法" sid="wiki00025556-00-01" id="2"/><rel type="=構" mode="AND" target="英語" sid="wiki00025556-00-02" id="9"/>
 Procedure Procedure Procedure 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 EOS
 # S-ID:wiki00025556-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/06/02 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="官庁" sid="wiki00025556-01" id="1"/><rel type="ヲ" target="法" sid="wiki00025556-00-01" id="2"/>
-所管 しょかん 所管 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="修飾" target="所管" sid="wiki00025556-01" id="0"/><rel type="ノ" target="法" sid="wiki00025556-00-01" id="2"/>
-官庁 かんちょう 官庁 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ガ" target="官庁" sid="wiki00025556-01" id="1"/><rel type="ヲ" target="法" sid="wiki00025556-00-01" id="2"/><体言><非用言格解析:動>
+所管 しょかん 所管 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="修飾" target="所管" sid="wiki00025556-01" id="0"/><rel type="ノ" target="法" sid="wiki00025556-00-01" id="2"/>
+官庁 かんちょう 官庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 3D
-法務 ほうむ 法務 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
-+ -1D <rel type="ガ" target="官庁" sid="wiki00025556-01" id="1"/><rel type="=構" target="官庁" sid="wiki00025556-01" id="1"/><rel type="ノ" target="法務" sid="wiki00025556-01" id="2"/><rel type="ノ≒" mode="AND" target="日本" sid="wiki00025556-00-01" id="9"/><NE:ORGANIZATION:法務省>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 3D <体言>
+法務 ほうむ 法務 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ -1D <rel type="ガ" target="官庁" sid="wiki00025556-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:法務省><rel type="=構" target="官庁" sid="wiki00025556-01" id="1"/><rel type="ノ" target="法務" sid="wiki00025556-01" id="2"/><rel type="ノ≒" mode="AND" target="日本" sid="wiki00025556-00-01" id="9"/>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025556-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/06/02 MEMO:
 * 1D
-+ 3D
-旧来 きゅうらい 旧来 名詞 6 時相名詞 10 * 0 * 0 NIL
++ 3D <体言>
+旧来 きゅうらい 旧来 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D
-民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
-+ 3D
-訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
-+ 4D <rel type="修飾" target="旧来" sid="wiki00025556-02" id="0"/><rel type="=≒" target="法" sid="wiki00025556-00-01" id="2"/><NE:ARTIFACT:民事訴訟法>
-法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
++ 2D <体言>
+民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
++ 3D <体言><非用言格解析:動>
+訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 4D <体言><NE:ARTIFACT:民事訴訟法><rel type="修飾" target="旧来" sid="wiki00025556-02" id="0"/><rel type="=≒" target="法" sid="wiki00025556-00-01" id="2"/>
+法 ほう 法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D
-対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 11D <用言:動>
+対して たいして 対する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4P
-+ 6P <rel type="ガ" target="制度" sid="wiki00025556-02" id="9"/>
-適正 てきせい 適正だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 6P <rel type="ガ" target="制度" sid="wiki00025556-02" id="9"/><体言><非用言格解析:形>
+適正 てきせい 適正だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
 かつ かつ かつ 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="制度" sid="wiki00025556-02" id="9"/>
-迅速な じんそくな 迅速だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
++ 9D <rel type="ガ" target="制度" sid="wiki00025556-02" id="9"/><用言:形><時制:非過去>
+迅速な じんそくな 迅速だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
 * 6D
-+ 8D <rel type="=" target="民事" sid="wiki00025556-00-01" id="3"/>
-民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 9D <rel type="=" target="訴訟" sid="wiki00025556-00-01" id="4"/>
-訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="訴訟" sid="wiki00025556-02" id="8"/><rel type="修飾" target="適正" sid="wiki00025556-02" id="5"/><rel type="修飾" mode="AND" target="迅速な" sid="wiki00025556-02" id="6"/>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <体言><rel type="=" target="民事" sid="wiki00025556-00-01" id="3"/>
+民事 みんじ 民事 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="訴訟" sid="wiki00025556-00-01" id="4"/><体言><非用言格解析:動>
+訴訟 そしょう 訴訟 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="訴訟" sid="wiki00025556-02" id="8"/><体言><rel type="修飾" target="適正" sid="wiki00025556-02" id="5"/><rel type="修飾" mode="AND" target="迅速な" sid="wiki00025556-02" id="6"/>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 11D <rel type="ヲ" target="制度" sid="wiki00025556-02" id="9"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
-構築 こうちく 構築 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ヲ" target="制度" sid="wiki00025556-02" id="9"/><体言><非用言格解析:動><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
+構築 こうちく 構築 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 12D <rel type="ヲ" target="構築" sid="wiki00025556-02" id="10"/><rel type="外の関係" target="こと" sid="wiki00025556-02" id="12"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/><rel type="ニタイシテ" target="法" sid="wiki00025556-02" id="3"/>
-図る はかる 図る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ 12D <rel type="ヲ" target="構築" sid="wiki00025556-02" id="10"/><用言:動><時制:非過去><節-主辞><rel type="外の関係" target="こと" sid="wiki00025556-02" id="12"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/><rel type="ニタイシテ" target="法" sid="wiki00025556-02" id="3"/>
+図る はかる 図る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 * 9D
-+ 13D <rel type="トイウ" target="図る" sid="wiki00025556-02" id="11"/>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
++ 13D <体言><rel type="トイウ" target="図る" sid="wiki00025556-02" id="11"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 16D <rel type="ヲ" target="こと" sid="wiki00025556-02" id="12"/><rel type="=構" target="こと" sid="wiki00025556-02" id="12"/><rel type="ノ" target="法律" sid="wiki00025556-00-01" id="10"/>
-目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ヲ" target="こと" sid="wiki00025556-02" id="12"/><用言:動><体言><rel type="=構" target="こと" sid="wiki00025556-02" id="12"/><rel type="ノ" target="法律" sid="wiki00025556-00-01" id="10"/>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 15D <rel type="ノ" target="法" sid="wiki00025556-02" id="3"/><rel type="=構" target="法" sid="wiki00025556-00-01" id="2"/>
-新法 しんぽう 新法 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <体言><rel type="ノ" target="法" sid="wiki00025556-02" id="3"/><rel type="=構" target="法" sid="wiki00025556-00-01" id="2"/>
+新法 しんぽう 新法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 16D
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 16D <用言:動>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 * -1D
-+ -1D <rel type="ガ" target="法" sid="wiki00025556-00-01" id="2"/><rel type="トシテ" target="新法" sid="wiki00025556-02" id="14"/><rel type="ニ" target="不特定:人"/><rel type="ニ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
-制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="法" sid="wiki00025556-00-01" id="2"/><用言:動><時制:過去><節-主辞><節-区切><rel type="トシテ" target="新法" sid="wiki00025556-02" id="14"/><rel type="ニ" target="不特定:人"/><rel type="ニ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
+制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025556-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/02 MEMO:
 * 1D
-+ 1D
-1998 せんきゅうひゃくきゅうじゅうはち 1998 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
++ 1D <体言>
+1998 せんきゅうひゃくきゅうじゅうはち 1998 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 2D
-1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 2D <体言>
+1 いち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 3D <NE:DATE:1998年1月1日>
-1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 3D <体言><NE:DATE:1998年1月1日>
+1 ついたち 1 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 日 　 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="時間" target="1日" sid="wiki00025556-03-01" id="2"/><rel type="ヲ" target="法" sid="wiki00025556-00-01" id="2"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/><memo text="PO:する"/>
-施行 しこう 施行 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <用言:動><体言><節-主辞><節-区切><rel type="時間" target="1日" sid="wiki00025556-03-01" id="2"/><rel type="ヲ" target="法" sid="wiki00025556-00-01" id="2"/><memo text="PO:する"/><rel type="ガ" target="不特定:人"/><rel type="ガ≒" mode="？" target="日本" sid="wiki00025556-00-01" id="9"/>
+施行 しこう 施行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025556-03-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/02 MEMO:
 * -1D
-+ 1D
-平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
-+ -1D <rel type="=" target="1998年" sid="wiki00025556-03-01" id="0"/><NE:DATE:平成10年>
-10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
++ 1D <体言>
+平成 へいせい 平成 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ -1D <NE:DATE:平成10年><rel type="=" target="1998年" sid="wiki00025556-03-01" id="0"/><体言>
+10 じゅう 10 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

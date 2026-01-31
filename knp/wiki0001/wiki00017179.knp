@@ -1,104 +1,104 @@
 # S-ID:wiki00017179-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2025/11/19 MEMO:
 * 6D
-+ 1D
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 2D <rel type="修飾" target="一" sid="wiki00017179-00-01" id="0"/>
-酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="酸化" sid="wiki00017179-00-01" id="1"/>
-炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><非用言格解析:動><rel type="修飾" target="一" sid="wiki00017179-00-01" id="0"/>
+酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <体言><rel type="修飾" target="酸化" sid="wiki00017179-00-01" id="1"/>
+炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="=≒" target="炭素" sid="wiki00017179-00-01" id="2"/>
-炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><rel type="=≒" target="炭素" sid="wiki00017179-00-01" id="2"/>
+炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="3"/><rel type="外の関係" target="物" sid="wiki00017179-00-01" id="5"/>
-酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 6D <rel type="=≒" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ノ？" target="酸化" sid="wiki00017179-00-01" id="4"/>
-物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="3"/><rel type="外の関係" target="物" sid="wiki00017179-00-01" id="5"/>
+酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <体言><rel type="=≒" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ノ？" target="酸化" sid="wiki00017179-00-01" id="4"/>
+物 ぶつ 物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6P
-+ 12P <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ノ" target="物" sid="wiki00017179-00-01" id="5"/><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="=構" mode="AND" target="物" sid="wiki00017179-00-01" id="5"/>
-一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12P <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ノ" target="物" sid="wiki00017179-00-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="=構" mode="AND" target="物" sid="wiki00017179-00-01" id="5"/>
+一種 いっしゅ 一種 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 であり であり だ 判定詞 4 * 0 判定詞 25 デアル列基本連用形 20 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 8P
-常温 じょうおん 常温 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8P <体言>
+常温 じょうおん 常温 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D
-常圧 じょうあつ 常圧 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11D <体言>
+常圧 じょうあつ 常圧 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10P <rel type="デ" target="常温" sid="wiki00017179-00-01" id="7"/><rel type="デ" mode="AND" target="常圧" sid="wiki00017179-00-01" id="8"/>
-無色 むしょく 無色 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10P <体言><rel type="デ" target="常温" sid="wiki00017179-00-01" id="7"/><rel type="デ" mode="AND" target="常圧" sid="wiki00017179-00-01" id="8"/>
+無色 むしょく 無色 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11P <rel type="デ" target="常温" sid="wiki00017179-00-01" id="7"/><rel type="デ" mode="AND" target="常圧" sid="wiki00017179-00-01" id="8"/>
-無臭 むしゅう 無臭 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11P <体言><rel type="デ" target="常温" sid="wiki00017179-00-01" id="7"/><rel type="デ" mode="AND" target="常圧" sid="wiki00017179-00-01" id="8"/>
+無臭 むしゅう 無臭 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <rel type="デ" target="常圧" sid="wiki00017179-00-01" id="8"/><rel type="デ" mode="AND" target="常温" sid="wiki00017179-00-01" id="7"/>
-可燃 かねん 可燃 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <体言><rel type="デ" target="常圧" sid="wiki00017179-00-01" id="8"/><rel type="デ" mode="AND" target="常温" sid="wiki00017179-00-01" id="7"/>
+可燃 かねん 可燃 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 性 せい 性 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="修飾" target="無色" sid="wiki00017179-00-01" id="9"/><rel type="修飾" mode="AND" target="無臭" sid="wiki00017179-00-01" id="10"/><rel type="修飾" mode="AND" target="可燃性" sid="wiki00017179-00-01" id="11"/><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/>
-気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="修飾" target="無色" sid="wiki00017179-00-01" id="9"/><rel type="修飾" mode="AND" target="無臭" sid="wiki00017179-00-01" id="10"/><rel type="修飾" mode="AND" target="可燃性" sid="wiki00017179-00-01" id="11"/><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/>
+気体 きたい 気体 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017179-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/19 MEMO:
 * 1P
-+ 1D <rel type="=" target="一" sid="wiki00017179-00-01" id="0"/>
-いっ いっ いっ 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 2D <rel type="=" target="酸化" sid="wiki00017179-00-01" id="1"/>
-さんか さんか さんか 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 4P <rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/>
-たんそ たんそ たんそ 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="一" sid="wiki00017179-00-01" id="0"/>
+いっ いっ いっ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="酸化" sid="wiki00017179-00-01" id="1"/><体言><非用言格解析:動>
+さんか さんか さんか 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4P <体言><rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/>
+たんそ たんそ たんそ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D
-carbon carbon carbon 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言>
+carbon carbon carbon 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/>
-monoxide monoxide monoxide 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <体言><rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/>
+monoxide monoxide monoxide 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 EOS
 # S-ID:wiki00017179-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/19 MEMO:
 * 1D
-+ 1D <rel type="=" target="一" sid="wiki00017179-00-01" id="0"/>
-一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL
-+ 2D <rel type="=" target="酸化" sid="wiki00017179-00-01" id="1"/>
-酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL
-+ 3D <rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/>
-炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 4D <rel type="ニヨッテ" target="炭素" sid="wiki00017179-01" id="2"/><rel type="ガ" target="不特定:人"/>
-中毒 ちゅうどく 中毒 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 1D <体言><rel type="=" target="一" sid="wiki00017179-00-01" id="0"/>
+一 いち 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 2D <体言><非用言格解析:動><rel type="=" target="酸化" sid="wiki00017179-00-01" id="1"/>
+酸化 さんか 酸化 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="炭素" sid="wiki00017179-00-01" id="2"/><体言>
+炭素 たんそ 炭素 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <体言><非用言格解析:動><rel type="ニヨッテ" target="炭素" sid="wiki00017179-01" id="2"/><rel type="ガ" target="不特定:人"/>
+中毒 ちゅうどく 中毒 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ノ" target="中毒" sid="wiki00017179-01" id="3"/><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ガ" target="炭素" sid="wiki00017179-01" id="2"/>
-原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <体言><非用言格解析:動><rel type="ノ" target="中毒" sid="wiki00017179-01" id="3"/><rel type="=構" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ガ" target="炭素" sid="wiki00017179-01" id="2"/>
+原因 げんいん 原因 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="ト" target="原因" sid="wiki00017179-01" id="4"/>
-なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
++ -1D <rel type="ガ" target="炭素" sid="wiki00017179-00-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="原因" sid="wiki00017179-01" id="4"/>
+なる なる なる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017179-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/19 MEMO:
 * 2D
-+ 1D
-化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 3D <rel type="ノ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="修飾" target="化学" sid="wiki00017179-02" id="0"/>
-式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <体言>
+化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <体言><rel type="ノ" target="炭素" sid="wiki00017179-00-01" id="2"/><rel type="修飾" target="化学" sid="wiki00017179-02" id="0"/>
+式 しき 式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=構" target="式" sid="wiki00017179-02" id="1"/><rel type="=" mode="AND" target="炭素" sid="wiki00017179-00-01" id="2"/>
-CO CO CO 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <体言><rel type="=構" target="式" sid="wiki00017179-02" id="1"/><rel type="=" mode="AND" target="炭素" sid="wiki00017179-00-01" id="2"/>
+CO CO CO 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="式" sid="wiki00017179-02" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="CO" sid="wiki00017179-02" id="2"/>
-表さ ひょうさ/あらわさ 表す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL
++ -1D <rel type="ガ" target="式" sid="wiki00017179-02" id="1"/><rel type="ニ" target="不特定:人"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ト" target="CO" sid="wiki00017179-02" id="2"/>
+表さ ひょうさ/あらわさ 表す 動詞 2 * 0 子音動詞サ行 5 未然形 3 NIL <基本句-主辞>
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

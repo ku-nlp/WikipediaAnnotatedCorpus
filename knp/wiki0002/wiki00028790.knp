@@ -1,123 +1,123 @@
 # S-ID:wiki00028790-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/07/15 MEMO:
 * 2P
-+ 2D
-グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4P <NE:LOCATION:グアテマラ共和国>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言>
+グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 4P <体言><NE:LOCATION:グアテマラ共和国>
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="国" sid="wiki00028790-00-01" id="2"/>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4D <体言><rel type="ノ" target="国" sid="wiki00028790-00-01" id="2"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 * 5D
-+ 11D <rel type="=" target="グアテマラ" sid="wiki00028790-00-01" id="0"/><rel type="=" mode="AND" target="国" sid="wiki00028790-00-01" id="2"/><rel type="=構" mode="AND" target="通称" sid="wiki00028790-00-01" id="3"/><rel type="修飾" target="通称" sid="wiki00028790-00-01" id="3"/><NE:LOCATION:グアテマラ>
-グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 11D <体言><NE:LOCATION:グアテマラ><rel type="=" target="グアテマラ" sid="wiki00028790-00-01" id="0"/><rel type="=" mode="AND" target="国" sid="wiki00028790-00-01" id="2"/><rel type="=構" mode="AND" target="通称" sid="wiki00028790-00-01" id="3"/><rel type="修飾" target="通称" sid="wiki00028790-00-01" id="3"/>
+グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 6D
-中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ 7D <NE:LOCATION:中央アメリカ>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 8D <rel type="ノ" target="アメリカ" sid="wiki00028790-00-01" id="6"/>
-北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <体言>
+中央 ちゅうおう 中央 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 7D <体言><NE:LOCATION:中央アメリカ>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 8D <rel type="ノ" target="アメリカ" sid="wiki00028790-00-01" id="6"/><体言>
+北部 ほくぶ 北部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D <rel type="ガ" target="国家" sid="wiki00028790-00-01" id="11"/><rel type="ニ" target="北部" sid="wiki00028790-00-01" id="7"/>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 11D <rel type="ガ" target="国家" sid="wiki00028790-00-01" id="11"/><rel type="ニ" target="北部" sid="wiki00028790-00-01" id="7"/><用言:動><時制:非過去><節-主辞>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 10D <rel type="=" target="共和" sid="wiki00028790-00-01" id="1"/>
-共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="共和" sid="wiki00028790-00-01" id="9"/>
-制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ -1D <rel type="ガ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><rel type="=構" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><rel type="修飾" target="制" sid="wiki00028790-00-01" id="10"/><memo text="CO"/>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <体言><rel type="=" target="共和" sid="wiki00028790-00-01" id="1"/>
+共和 きょうわ 共和 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <体言><rel type="ノ？" target="共和" sid="wiki00028790-00-01" id="9"/>
+制 せい 制 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><用言:判><体言><時制:非過去><節-主辞><節-区切><rel type="=構" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><memo text="CO"/><rel type="修飾" target="制" sid="wiki00028790-00-01" id="10"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028790-00-02 括弧始:（ 括弧終:） 括弧位置:8 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/01 MEMO:
 * -1D
-+ 2D <rel type="=" target="グアテマラ" sid="wiki00028790-00-01" id="0"/>
-グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 2D <rel type="=" target="共和" sid="wiki00028790-00-01" id="1"/>
-きょうわ きょうわ きょうわ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ -1D <rel type="=" target="国" sid="wiki00028790-00-01" id="2"/><NE:LOCATION:グアテマラきょうわこく>
-こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 2D <体言><rel type="=" target="グアテマラ" sid="wiki00028790-00-01" id="0"/>
+グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <体言><rel type="=" target="共和" sid="wiki00028790-00-01" id="1"/>
+きょうわ きょうわ きょうわ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ -1D <体言><NE:LOCATION:グアテマラきょうわこく><rel type="=" target="国" sid="wiki00028790-00-01" id="2"/>
+こく こく こく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
 EOS
 # S-ID:wiki00028790-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:28.00000 MOD:2025/07/15 MEMO:
 * 1I
-+ 1I <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1I <体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+北 きた 北 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3P
-+ 3P <rel type="ニ" target="北" sid="wiki00028790-01" id="0"/><rel type="ト" target="メキシコ" sid="wiki00028790-01" id="1"/><NE:LOCATION:メキシコ>
-メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3P <体言><NE:LOCATION:メキシコ><rel type="ニ" target="北" sid="wiki00028790-01" id="0"/><rel type="ト" target="メキシコ" sid="wiki00028790-01" id="1"/>
+メキシコ めきしこ メキシコ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3I
-+ 3I <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3I <体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5P
-+ 5P <rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/><rel type="ニ" target="北東" sid="wiki00028790-01" id="2"/><rel type="ト" target="ベリーズ" sid="wiki00028790-01" id="3"/><NE:LOCATION:ベリーズ>
-ベリーズ べりーず ベリーズ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5P <体言><NE:LOCATION:ベリーズ><rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/><rel type="ニ" target="北東" sid="wiki00028790-01" id="2"/><rel type="ト" target="ベリーズ" sid="wiki00028790-01" id="3"/>
+ベリーズ べりーず ベリーズ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5I
-+ 5I <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5I <体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+東 ひがし 東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 7P <rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/><rel type="ニ" target="東" sid="wiki00028790-01" id="4"/><rel type="ト" target="ホンジュラス" sid="wiki00028790-01" id="5"/><NE:LOCATION:ホンジュラス>
-ホンジュラス ほんじゅらす ホンジュラス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 7P <体言><NE:LOCATION:ホンジュラス><rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/><rel type="ニ" target="東" sid="wiki00028790-01" id="4"/><rel type="ト" target="ホンジュラス" sid="wiki00028790-01" id="5"/>
+ホンジュラス ほんじゅらす ホンジュラス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7I
-+ 7I <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7I <体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+南東 なんとう 南東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D <rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/><NE:LOCATION:エルサルバドル>
-エルサルバドル えるさるばどる エルサルバドル 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 9D <体言><NE:LOCATION:エルサルバドル><rel type="ノ？" target="アメリカ" sid="wiki00028790-00-01" id="6"/>
+エルサルバドル えるさるばどる エルサルバドル 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 9D
-国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <体言>
+国境 こっきょう 国境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 14D <rel type="ガ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00028790-01" id="8"/><rel type="ニ" target="南東" sid="wiki00028790-01" id="6"/><rel type="ト" target="エルサルバドル" sid="wiki00028790-01" id="7"/>
-接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
++ 14D <rel type="ガ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><rel type="ヲ" target="国境" sid="wiki00028790-01" id="8"/><用言:動><節-主辞><節-区切><rel type="ニ" target="南東" sid="wiki00028790-01" id="6"/><rel type="ト" target="エルサルバドル" sid="wiki00028790-01" id="7"/>
+接して せっして 接する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
 おり おり おる 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11I
-+ 11I <rel type="=" target="北東" sid="wiki00028790-01" id="2"/><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 11I <rel type="=" target="北東" sid="wiki00028790-01" id="2"/><体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 13P
-+ 13P <rel type="ガ" target="北東" sid="wiki00028790-01" id="10"/><rel type="ニ" target="カリブ海" sid="wiki00028790-01" id="11"/><NE:LOCATION:カリブ海>
-カリブ海 かりぶかい カリブ海 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 13P <体言><NE:LOCATION:カリブ海><rel type="ガ" target="北東" sid="wiki00028790-01" id="10"/><rel type="ニ" target="カリブ海" sid="wiki00028790-01" id="11"/>
+カリブ海 かりぶかい カリブ海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13I
-+ 13I <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 13I <体言><rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 14D
-+ 14D <NE:LOCATION:太平洋>
-太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 14D <体言><NE:LOCATION:太平洋>
+太平洋 たいへいよう 太平洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ニ" target="太平洋" sid="wiki00028790-01" id="13"/><rel type="ガ" target="南" sid="wiki00028790-01" id="12"/><rel type="ガ２" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
++ -1D <rel type="ニ" target="太平洋" sid="wiki00028790-01" id="13"/><用言:動><時制:非過去><節-主辞><節-区切><rel type="ガ" target="南" sid="wiki00028790-01" id="12"/><rel type="ガ２" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+面する めんする 面する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028790-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/07/15 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
-首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 1D <rel type="ノ" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><体言>
+首都 しゅと 首都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="首都" sid="wiki00028790-02" id="0"/><rel type="=構" target="首都" sid="wiki00028790-02" id="0"/><rel type="ノ？" target="グアテマラ" sid="wiki00028790-00-01" id="4"/><memo text="CO"/><NE:LOCATION:グアテマラ市>
-グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="ガ" target="首都" sid="wiki00028790-02" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:グアテマラ市><rel type="=構" target="首都" sid="wiki00028790-02" id="0"/><memo text="CO"/><rel type="ノ？" target="グアテマラ" sid="wiki00028790-00-01" id="4"/>
+グアテマラ ぐあてまら グアテマラ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

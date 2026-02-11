@@ -1,4 +1,4 @@
-# S-ID:wiki00013902-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/01/08 MEMO:
+# S-ID:wiki00013902-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/02/02 MEMO:
 * 1D
 + 2D
 アンペア あんぺあ アンペア 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -51,7 +51,7 @@ i i i 特殊 1 記号 5 * 0 * 0 NIL
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 + 13D <rel type="=≒" target="単位" sid="wiki00013902-00" id="10"/>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 14D <rel type="ノ" target="単位" sid="wiki00013902-00" id="14"/><rel type="修飾" target="国際" sid="wiki00013902-00" id="11"/><NE:OPTIONAL:国際単位系><NE-OPTIONAL:ARTIFACT,NONE:0>
++ 14D <rel type="修飾" target="国際" sid="wiki00013902-00" id="11"/><rel type="ノ" target="単位" sid="wiki00013902-00" id="12"/><NE:OPTIONAL:国際単位系><NE-OPTIONAL:ARTIFACT,NONE:0>
 系 けい 系 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 * 11D
 + 17D <rel type="=" target="系" sid="wiki00013902-00" id="13"/><NE:OPTIONAL:SI><NE-OPTIONAL:ARTIFACT,NONE:0>
@@ -60,7 +60,7 @@ SI SI SI 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 17D <rel type="ノ" target="単位" sid="wiki00013902-00" id="19"/>
++ 17D <rel type="ノ" target="単位" sid="wiki00013902-00" id="17"/>
 7 なな 7 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
@@ -71,7 +71,7 @@ SI SI SI 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 単位 たんい 単位 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="単位" sid="wiki00013902-00" id="19"/><rel type="ガ" target="アンペア" sid="wiki00013902-00" id="0"/><rel type="=構" target="アンペア" sid="wiki00013902-00" id="0"/><rel type="=構" mode="AND" target="単位" sid="wiki00013902-00" id="17"/>
++ -1D <rel type="ガ" target="アンペア" sid="wiki00013902-00" id="0"/><rel type="=構" target="アンペア" sid="wiki00013902-00" id="0"/><rel type="=構" mode="AND" target="単位" sid="wiki00013902-00" id="17"/><rel type="ノ" target="単位" sid="wiki00013902-00" id="17"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL

@@ -27,7 +27,7 @@ EOS
 + -1D <rel type="=" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/><NE:OPTIONAL:ワイファイ><NE-OPTIONAL:ARTIFACT,NONE:0>
 ワイファイ わいふぁい ワイファイ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS
-# S-ID:wiki00018993-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2026/01/19 MEMO:
+# S-ID:wiki00018993-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2026/02/02 MEMO:
 * 1D
 + 1D <rel type="=" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/>
 Wi-Fi わいふぁい Wi-Fi 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -44,7 +44,7 @@ Alliance Alliance Alliance 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:
 国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
 + 5D
 標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 8D <rel type="ガ" target="規格" sid="wiki00018993-01-01" id="10"/><rel type="修飾" target="国際" sid="wiki00018993-01-01" id="3"/><rel type="修飾" mode="AND" target="標準" sid="wiki00018993-01-01" id="4"/>
++ 8D <rel type="修飾" target="国際" sid="wiki00018993-01-01" id="3"/><rel type="修飾" mode="AND" target="標準" sid="wiki00018993-01-01" id="4"/><rel type="ガ" target="規格" sid="wiki00018993-01-01" id="8"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 4D
@@ -53,11 +53,11 @@ IEEE あいとりぷるいー IEEE 名詞 6 組織名 6 * 0 * 0 NIL <NE:ARTIFACT
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ARTIFACT:middle>
 + 8D <NE:ARTIFACT:IEEE　802.11>
 802.11 はちまるにーてんいちいち 802.11 名詞 6 数詞 7 * 0 * 0 NIL <NE:ARTIFACT:tail>
-+ 9D <rel type="ノ" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/><rel type="トイウ" target="802.11" sid="wiki00018993-01-01" id="7"/>
++ 9D <rel type="ノ" target="Wi-Fi" sid="wiki00018993-00-01" id="0"/><rel type="トイウ" target="802.11" sid="wiki00018993-01-01" id="7"/><rel type="=構" target="規格" sid="wiki00018993-01-01" id="5"/>
 規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="=" target="規格" sid="wiki00018993-01-01" id="6"/><rel type="ガ" target="不特定:人"/><rel type="ニ" target="デバイス" sid="wiki00018993-01-01" id="10"/><memo text="かかり先？"/>
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="デバイス" sid="wiki00018993-01-01" id="10"/><memo text="かかり先？"/>
 使用 しよう 使用 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 6D

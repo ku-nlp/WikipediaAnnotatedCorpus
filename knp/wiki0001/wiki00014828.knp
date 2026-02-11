@@ -94,7 +94,7 @@ EOS
 + -1D <rel type="修飾" target="自動車" sid="wiki00014828-00-04" id="1"/><rel type="修飾" mode="AND" target="高速" sid="wiki00014828-00-04" id="0"/><rel type="=" target="道路" sid="wiki00014828-00-01" id="16"/>
 国道 こくどう 国道 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
-# S-ID:wiki00014828-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/15 MEMO:
+# S-ID:wiki00014828-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/02/02 MEMO:
 * 2D
 + 3D <rel type="ノ" target="道路" sid="wiki00014828-00-01" id="2"/>
 通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
@@ -125,7 +125,7 @@ EOS
 + 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="道路" sid="wiki00014828-00-01" id="2"/><rel type="ト" target="道路" sid="wiki00014828-01-01" id="7"/><rel type="外の関係" target="場合" sid="wiki00014828-01-01" id="10"/>
 区別 くべつ 区別 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
-* -1D
+* 7D
 + 14D <rel type="ノ" target="区別する" sid="wiki00014828-01-01" id="9"/>
 場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
@@ -138,7 +138,7 @@ EOS
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
 + 14D
 現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="時間" target="場合" sid="wiki00014828-01-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="道路" sid="wiki00014828-00-01" id="2"/><rel type="ト" target="東名" sid="wiki00014828-01-01" id="11"/><rel type="ト" mode="AND" target="東名など" sid="wiki00014828-01-01" id="13"/><rel type="修飾" target="現" sid="wiki00014828-01-01" id="13"/><rel type="=" target="道路" sid="wiki00014828-00-01" id="2"/><memo text="PO:言う、など"/><NE:LOCATION:現東名>
++ -1D <rel type="時間" target="場合" sid="wiki00014828-01-01" id="10"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="道路" sid="wiki00014828-00-01" id="2"/><rel type="修飾" target="現" sid="wiki00014828-01-01" id="13"/><rel type="=" target="道路" sid="wiki00014828-00-01" id="2"/><rel type="ト" target="東名" sid="wiki00014828-01-01" id="12"/><rel type="ト" mode="AND" target="東名など" sid="wiki00014828-01-01" id="14"/><memo text="PO:言う、など"/><NE:LOCATION:現東名>
 東名 とうめい 東名 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
@@ -162,7 +162,7 @@ EOS
 + -1D <rel type="=" target="東名" sid="wiki00014828-01-01" id="3"/><NE:LOCATION:とうめい>
 とうめい とうめい とうめい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS
-# S-ID:wiki00014828-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2026/01/15 MEMO:
+# S-ID:wiki00014828-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2026/02/02 MEMO:
 * 1D
 + 1D
 中 なか 中 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
@@ -187,7 +187,7 @@ EOS
 * -1D
 + 8D <rel type="=" target="現" sid="wiki00014828-01-01" id="13"/>
 現 げん 現 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
-+ -1D <rel type="=" target="東名" sid="wiki00014828-01-01" id="13"/><rel type="=構" mode="AND" target="呼称" sid="wiki00014828-02-01" id="5"/><rel type="ガ" target="呼称" sid="wiki00014828-02-01" id="5"/><memo text="CO"/><NE:LOCATION:現東名>
++ -1D <rel type="ガ" target="呼称" sid="wiki00014828-02-01" id="5"/><rel type="=構" target="呼称" sid="wiki00014828-02-01" id="5"/><rel type="=" mode="AND" target="東名" sid="wiki00014828-01-01" id="14"/><memo text="CO"/><NE:LOCATION:現東名>
 東名 とうめい 東名 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

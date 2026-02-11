@@ -1,4 +1,4 @@
-# S-ID:wiki00054081-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:129.00000 MOD:2024/03/19 MEMO:
+# S-ID:wiki00054081-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:129.00000 MOD:2026/02/03 MEMO:
 * 15D
 + 1D
 六 ろく 六 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
@@ -33,9 +33,9 @@
 + 11D <rel type="ガ" target="広場" sid="wiki00054081-00-01" id="11"/><rel type="ニ" target="北京市" sid="wiki00054081-00-01" id="8"/>
 ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 7D
-+ 11D <rel type="=" target="天安門" sid="wiki00054081-00-01" id="1"/>
++ 11D <rel type="=" target="天安門" sid="wiki00054081-00-01" id="2"/>
 天安門 てんあんもん 天安門 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
-+ 14D <NE:LOCATION:天安門広場>
++ 14D <rel type="ノ？" target="北京市" sid="wiki00054081-00-01" id="8"/><NE:LOCATION:天安門広場>
 広場 ひろば 広場 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
@@ -86,7 +86,7 @@
 + 25D <rel type="ニヨッテ" target="行使し" sid="wiki00054081-00-01" id="20"/><rel type="外の関係" target="事件" sid="wiki00054081-00-01" id="25"/><rel type="ガ" target="軍隊" sid="wiki00054081-00-01" id="18"/><rel type="ガ" mode="AND" target="隊" sid="wiki00054081-00-01" id="16"/><rel type="ヲ" target="者" sid="wiki00054081-00-01" id="23"/>
 出した だした 出す 動詞 2 * 0 子音動詞サ行 5 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="事件" sid="wiki00054081-00-01" id="2"/><rel type="=構" target="事件" sid="wiki00054081-00-01" id="3"/><rel type="トイウ" target="行使し" sid="wiki00054081-00-01" id="20"/><rel type="トイウ" mode="AND" target="出した" sid="wiki00054081-00-01" id="24"/>
++ -1D <rel type="=構" target="事件" sid="wiki00054081-00-01" id="3"/><rel type="トイウ" target="行使し" sid="wiki00054081-00-01" id="20"/><rel type="トイウ" mode="AND" target="出した" sid="wiki00054081-00-01" id="24"/><rel type="ガ" target="事件" sid="wiki00054081-00-01" id="3"/>
 事件 じけん 事件 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

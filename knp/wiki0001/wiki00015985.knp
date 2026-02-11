@@ -1,4 +1,4 @@
-# S-ID:wiki00015985-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2025/11/12 MEMO:
+# S-ID:wiki00015985-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:68.00000 MOD:2026/02/02 MEMO:
 * 14D
 + 1D <memo text="藤原基頼が邸内に創設した持仏堂を持明院と名づける。基頼の子孫（持明院家）を外戚とする後堀河天皇とその皇女室町院を経て伏見上皇が持明院殿を継承し、その子孫の皇統も仙洞御所として居住し続けた。『武家年代記』は伏見天皇のことを「持明院」と記し、『鎌倉年代記』は後伏見天皇のことを「持明院」と記している。 (Wikipedia)"/><NE:OPTIONAL:持明院><NE-OPTIONAL:PERSON,LOCATION,ARTIFACT:0>
 持明院 じみょういん 持明院 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:single>
@@ -12,7 +12,7 @@
 鎌倉 かまくら 鎌倉 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
 + 4D
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:middle>
-+ 6D <rel type="ノ" target="時代" sid="wiki00015985-00-01" id="2"/><NE:DATE:鎌倉時代後期>
++ 6D <rel type="ノ" target="時代" sid="wiki00015985-00-01" id="3"/><NE:DATE:鎌倉時代後期>
 後期 こうき 後期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
@@ -55,7 +55,7 @@
 天皇 てんのう 天皇 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 19D <rel type="ノ" target="天皇" sid="wiki00015985-00-01" id="16"/><rel type="ガ" target="天皇" sid="wiki00015985-00-01" id="19"/>
++ 19D <rel type="ガ" target="天皇" sid="wiki00015985-00-01" id="19"/><rel type="ノ" target="天皇" sid="wiki00015985-00-01" id="15"/>
 皇子 おうじ/みこ 皇子 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 12D

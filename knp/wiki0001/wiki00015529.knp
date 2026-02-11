@@ -1,4 +1,4 @@
-# S-ID:wiki00015529-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2025/11/07 MEMO:
+# S-ID:wiki00015529-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2026/02/02 MEMO:
 * 11D
 + 16D <NE:LOCATION:中山道>
 中山道 なかせんどう 中山道 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
@@ -11,7 +11,7 @@
 時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="街道" sid="wiki00015529-00-01" id="6"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="時代" sid="wiki00015529-00-01" id="2"/>
++ 5D <rel type="ニ" target="不特定:人"/><rel type="時間" target="時代" sid="wiki00015529-00-01" id="2"/><rel type="ガ" target="街道" sid="wiki00015529-00-01" id="5"/>
 整備 せいび 整備 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
@@ -22,7 +22,7 @@
 街道 かいどう 街道 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 11D
-+ 16P <rel type="ノ" target="街道" sid="wiki00015529-00-01" id="6"/><rel type="ガ" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="=構" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="=構" mode="AND" target="街道" sid="wiki00015529-00-01" id="5"/>
++ 16P <rel type="ガ" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="=構" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="=構" mode="AND" target="街道" sid="wiki00015529-00-01" id="5"/><rel type="ノ" target="街道" sid="wiki00015529-00-01" id="5"/>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
 つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
@@ -50,11 +50,11 @@
 * 10D
 + 14D
 内陸 ないりく 内陸 名詞 6 普通名詞 1 * 0 * 0 NIL
-+ 15D <rel type="ガ" target="街道" sid="wiki00015529-00-01" id="17"/><rel type="ヲ" target="内陸" sid="wiki00015529-00-01" id="13"/>
++ 15D <rel type="ヲ" target="内陸" sid="wiki00015529-00-01" id="13"/><rel type="ガ" target="街道" sid="wiki00015529-00-01" id="16"/>
 経由 けいゆ 経由 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D <rel type="ガ" target="街道" sid="wiki00015529-00-01" id="17"/><rel type="ヲ" target="大橋" sid="wiki00015529-00-01" id="12"/><rel type="ト" target="日本橋" sid="wiki00015529-00-01" id="8"/><rel type="デ" target="経由" sid="wiki00015529-00-01" id="14"/><rel type="デ" mode="？" target="なし"/>
++ 16D <rel type="ヲ" target="大橋" sid="wiki00015529-00-01" id="12"/><rel type="ト" target="日本橋" sid="wiki00015529-00-01" id="8"/><rel type="デ" target="経由" sid="wiki00015529-00-01" id="14"/><rel type="デ" mode="？" target="なし"/><rel type="ガ" target="街道" sid="wiki00015529-00-01" id="16"/>
 結ぶ むすぶ 結ぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 * -1D
 + -1D <rel type="ガ" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="=構" target="中山道" sid="wiki00015529-00-01" id="0"/><rel type="修飾" target="結ぶ" sid="wiki00015529-00-01" id="15"/>

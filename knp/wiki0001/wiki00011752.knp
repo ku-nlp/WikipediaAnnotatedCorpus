@@ -1,4 +1,4 @@
-# S-ID:wiki00011752-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2025/11/14 MEMO:
+# S-ID:wiki00011752-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:90.00000 MOD:2026/02/03 MEMO:
 * 7D
 + 1D
 ディーゼル でぃーぜる ディーゼル 名詞 6 人名 5 * 0 * 0 NIL
@@ -34,13 +34,13 @@
 + 11D <rel type="ノ？" target="ドイツ" sid="wiki00011752-00-01" id="7"/><rel type="ノ？" mode="AND" target="技術" sid="wiki00011752-00-01" id="8"/>
 者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 + 11D
-ルドルフ るどるふ ルドルフ 名詞 6 人名 5 * 0 * 0 NIL
-・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <rel type="修飾" target="者" sid="wiki00011752-00-01" id="9"/><rel type="=構" target="者" sid="wiki00011752-00-01" id="9"/>
-ディーゼル でぃーぜる ディーゼル 名詞 6 人名 5 * 0 * 0 NIL
+ルドルフ るどるふ ルドルフ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
+・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
++ 12D <rel type="修飾" target="者" sid="wiki00011752-00-01" id="9"/><rel type="=構" target="者" sid="wiki00011752-00-01" id="9"/><NE:PERSON:ルドルフ・ディーゼル>
+ディーゼル でぃーぜる ディーゼル 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 15D <rel type="ガ" target="ディーゼル" sid="wiki00011752-00-01" id="12"/><rel type="ヲ" target="エンジン" sid="wiki00011752-00-01" id="16"/>
++ 15D <rel type="ガ" target="ディーゼル" sid="wiki00011752-00-01" id="11"/><rel type="ヲ" target="エンジン" sid="wiki00011752-00-01" id="15"/>
 発明 はつめい 発明 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * -1D

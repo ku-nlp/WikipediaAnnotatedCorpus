@@ -1,21 +1,21 @@
 # S-ID:wiki00039888-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/19 MEMO:
 * 2D
-+ 1D <体言>
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <体言>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><NE:ORGANIZATION:株式会社ワニブックス>
-ワニブックス わにぶっくす ワニブックス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D <NE:ORGANIZATION:株式会社ワニブックス>
+ワニブックス わにぶっくす ワニブックス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 5D <体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
-出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="ワニブックス" sid="wiki00039888-00" id="2"/><rel type="=構" target="ワニブックス" sid="wiki00039888-00" id="2"/><rel type="ノ？" target="出版" sid="wiki00039888-00" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00039888-00" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+出版 しゅっぱん 出版 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="ワニブックス" sid="wiki00039888-00" id="2"/><rel type="=構" target="ワニブックス" sid="wiki00039888-00" id="2"/><rel type="ノ？" target="出版" sid="wiki00039888-00" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00039888-00" id="3"/><memo text="CO"/>
+社 しゃ 社 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

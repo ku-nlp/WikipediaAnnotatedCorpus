@@ -1,132 +1,132 @@
 # S-ID:wiki00021132-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/04/23 MEMO:
 * 2D
-+ 1D <体言>
-薩摩 さつま 薩摩 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 4D <rel type="ノ" target="薩摩" sid="wiki00021132-00-01" id="0"/><体言><NE:OPTIONAL:薩摩藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+薩摩 さつま 薩摩 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 4D <rel type="ノ" target="薩摩" sid="wiki00021132-00-01" id="0"/><NE:OPTIONAL:薩摩藩><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言>
-江戸 えど 江戸 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 4D <体言><NE:DATE:江戸時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
++ 3D
+江戸 えど 江戸 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
++ 4D <NE:DATE:江戸時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00021132-00-01" id="1"/><rel type="時間" target="時代" sid="wiki00021132-00-01" id="3"/><rel type="=構" target="藩" sid="wiki00021132-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="藩" sid="wiki00021132-00-01" id="1"/><rel type="時間" target="時代" sid="wiki00021132-00-01" id="3"/><rel type="=構" target="藩" sid="wiki00021132-00-01" id="1"/><memo text="CO"/>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00021132-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/06/07 MEMO:
 * -1D
-+ 1D <rel type="=" target="薩摩" sid="wiki00021132-00-01" id="0"/><体言>
-さつま さつま さつま 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00021132-00-01" id="4"/><体言><NE:OPTIONAL:さつまはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="薩摩" sid="wiki00021132-00-01" id="0"/>
+さつま さつま さつま 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="藩" sid="wiki00021132-00-01" id="4"/><NE:OPTIONAL:さつまはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00021132-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:80.00000 MOD:2025/04/23 MEMO:
 * 1D
-+ 1D <rel type="=" target="藩" sid="wiki00021132-00-01" id="1"/><体言>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ノ？" target="藩" sid="wiki00021132-01-01" id="0"/><rel type="ノ" target="藩" sid="wiki00021132-00-01" id="1"/><体言>
-庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="藩" sid="wiki00021132-00-01" id="1"/>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ？" target="藩" sid="wiki00021132-01-01" id="0"/><rel type="ノ" target="藩" sid="wiki00021132-00-01" id="1"/>
+庁 ちょう 庁 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3P
-+ 3D <体言>
-鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 6P <rel type="ガ" target="庁" sid="wiki00021132-01-01" id="1"/><rel type="=構" target="庁" sid="wiki00021132-01-01" id="1"/><NE:LOCATION:鹿児島城><体言><用言:判><節-主辞><節-区切>
-城 じょう 城 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 3D
+鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6P <rel type="ガ" target="庁" sid="wiki00021132-01-01" id="1"/><rel type="=構" target="庁" sid="wiki00021132-01-01" id="1"/><NE:LOCATION:鹿児島城>
+城 じょう 城 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ノ" target="藩" sid="wiki00021132-00-01" id="1"/><体言>
-藩主 はんしゅ 藩主 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="藩" sid="wiki00021132-00-01" id="1"/>
+藩主 はんしゅ 藩主 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 6D <体言><NE:PERSON:島津>
-島津 しまず 島津 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:single>
-+ -1D <rel type="ガ" target="藩主" sid="wiki00021132-01-01" id="4"/><rel type="ノ" target="島津" sid="wiki00021132-01-01" id="5"/><rel type="=構" target="藩主" sid="wiki00021132-01-01" id="4"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-家 け 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <NE:PERSON:島津>
+島津 しまず 島津 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:single>
++ -1D <rel type="ガ" target="藩主" sid="wiki00021132-01-01" id="4"/><rel type="ノ" target="島津" sid="wiki00021132-01-01" id="5"/><rel type="=構" target="藩主" sid="wiki00021132-01-01" id="4"/><memo text="CO"/>
+家 け 家 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00021132-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/06/07 MEMO:
 * -1D
-+ -1D <rel type="=≒" target="城" sid="wiki00021132-01-01" id="3"/><NE:LOCATION:鹿児島市><体言>
-鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=≒" target="城" sid="wiki00021132-01-01" id="3"/><NE:LOCATION:鹿児島市>
+鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00021132-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2025/04/23 MEMO:
 * 1D
-+ 1P <rel type="=" target="薩摩" sid="wiki00021132-00-01" id="0"/><体言><NE:LOCATION:薩摩>
-薩摩 さつま 薩摩 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 1P <rel type="=" target="薩摩" sid="wiki00021132-00-01" id="0"/><NE:LOCATION:薩摩>
+薩摩 さつま 薩摩 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <体言><NE:LOCATION:大隅>
-大隅 おおすみ 大隅 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <NE:LOCATION:大隅>
+大隅 おおすみ 大隅 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 6P <rel type="=≒" target="薩摩" sid="wiki00021132-02-01" id="0"/><rel type="=≒" mode="AND" target="大隅" sid="wiki00021132-02-01" id="1"/><memo text="SE"/><体言>
-2 に 2 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 6P <rel type="=≒" target="薩摩" sid="wiki00021132-02-01" id="0"/><rel type="=≒" mode="AND" target="大隅" sid="wiki00021132-02-01" id="1"/><memo text="SE"/>
+2 に 2 名詞 6 数詞 7 * 0 * 0 NIL
 か国 かこく か国 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <体言>
-日向 ひゅうがの 日向 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 5D <体言>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 6D <NE:LOCATION:日向国諸県郡><体言>
-諸県 もろかた 諸県 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 4D
+日向 ひゅうがの 日向 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 5D
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 6D <NE:LOCATION:日向国諸県郡>
+諸県 もろかた 諸県 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 郡 ぐん 郡 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 7D <rel type="ノ" target="諸県郡" sid="wiki00021132-02-01" id="5"/><体言>
-大部分 だいぶぶん 大部分 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="諸県郡" sid="wiki00021132-02-01" id="5"/>
+大部分 だいぶぶん 大部分 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 10P <rel type="ガ" target="藩" sid="wiki00021132-00-01" id="1"/><rel type="ヲ" target="大部分" sid="wiki00021132-02-01" id="6"/><rel type="ヲ" mode="AND" target="2か国" sid="wiki00021132-02-01" id="2"/><用言:動><節-主辞><節-区切><時制:過去>
-領有 りょうゆう 領有 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ガ" target="藩" sid="wiki00021132-00-01" id="1"/><rel type="ヲ" target="大部分" sid="wiki00021132-02-01" id="6"/><rel type="ヲ" mode="AND" target="2か国" sid="wiki00021132-02-01" id="2"/>
+領有 りょうゆう 領有 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D <体言>
-琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 10D <体言><NE:LOCATION:琉球王国>
-王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 9D
+琉球 りゅうきゅう 琉球 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 10D <NE:LOCATION:琉球王国>
+王国 おうこく 王国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="王国" sid="wiki00021132-02-01" id="9"/><rel type="ニ" target="藩" sid="wiki00021132-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
-服属 ふくぞく 服属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="王国" sid="wiki00021132-02-01" id="9"/><rel type="ニ" target="藩" sid="wiki00021132-00-01" id="1"/>
+服属 ふくぞく 服属 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00021132-02-02 括弧始:（ 括弧終:） 括弧位置:22 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/04/23 MEMO:
 * 1D
-+ 1D <体言>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 1D
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 2D <rel type="=≒" target="薩摩" sid="wiki00021132-02-01" id="0"/><rel type="=≒" mode="AND" target="大隅" sid="wiki00021132-02-01" id="1"/><体言><NE:LOCATION:鹿児島県>
-鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="=≒" target="薩摩" sid="wiki00021132-02-01" id="0"/><rel type="=≒" mode="AND" target="大隅" sid="wiki00021132-02-01" id="1"/><NE:LOCATION:鹿児島県>
+鹿児島 かごしま 鹿児島 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 5P <rel type="ノ" target="鹿児島県" sid="wiki00021132-02-02" id="1"/><rel type="時間" target="現在" sid="wiki00021132-02-02" id="0"/><体言>
-全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="ノ" target="鹿児島県" sid="wiki00021132-02-02" id="1"/><rel type="時間" target="現在" sid="wiki00021132-02-02" id="0"/>
+全域 ぜんいき 全域 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="国" sid="wiki00021132-02-01" id="4"/><体言><NE:LOCATION:宮崎県>
-宮崎 みやざき 宮崎 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <rel type="=" target="国" sid="wiki00021132-02-01" id="4"/><NE:LOCATION:宮崎県>
+宮崎 みやざき 宮崎 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ノ" target="宮崎県" sid="wiki00021132-02-02" id="3"/><体言>
-南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ノ" target="宮崎県" sid="wiki00021132-02-02" id="3"/><rel type="ノ？" target="南西" sid="wiki00021132-02-02" id="4"/><rel type="時間" target="現在" sid="wiki00021132-02-02" id="0"/><rel type="=≒" target="諸県郡" sid="wiki00021132-02-01" id="5"/><rel type="=≒" mode="AND" target="大部分" sid="wiki00021132-02-01" id="6"/><体言>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ノ" target="宮崎県" sid="wiki00021132-02-02" id="3"/>
+南西 なんせい 南西 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ノ" target="宮崎県" sid="wiki00021132-02-02" id="3"/><rel type="ノ？" target="南西" sid="wiki00021132-02-02" id="4"/><rel type="時間" target="現在" sid="wiki00021132-02-02" id="0"/><rel type="=≒" target="諸県郡" sid="wiki00021132-02-01" id="5"/><rel type="=≒" mode="AND" target="大部分" sid="wiki00021132-02-01" id="6"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00021132-02-03 括弧始:（ 括弧終:） 括弧位置:50 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/04/23 MEMO:
 * 1D
-+ 1D <rel type="=" target="現在" sid="wiki00021132-02-02" id="0"/><体言>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="現在" sid="wiki00021132-02-02" id="0"/>
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="王国" sid="wiki00021132-02-01" id="9"/><rel type="時間" target="現在" sid="wiki00021132-02-03" id="0"/><NE:LOCATION:沖縄県><体言>
-沖縄 おきなわ 沖縄 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ -1D <rel type="=" target="王国" sid="wiki00021132-02-01" id="9"/><rel type="時間" target="現在" sid="wiki00021132-02-03" id="0"/><NE:LOCATION:沖縄県>
+沖縄 おきなわ 沖縄 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS

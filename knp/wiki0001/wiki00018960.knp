@@ -1,46 +1,46 @@
 # S-ID:wiki00018960-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2026/01/08 MEMO:
 * 4D
-+ 2D <体言><非用言格解析:形>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
-裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <rel type="修飾" target="最高" sid="wiki00018960-00-01" id="0"/><rel type="ノ？" target="裁判" sid="wiki00018960-00-01" id="1"/><体言><NE:ORGANIZATION:最高裁判所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ 10D <rel type="ノ" target="所" sid="wiki00018960-00-01" id="2"/><体言>
-長官 ちょうかん 長官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="ガ" target="不特定:人"/>
+裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="修飾" target="最高" sid="wiki00018960-00-01" id="0"/><rel type="ノ？" target="裁判" sid="wiki00018960-00-01" id="1"/><NE:ORGANIZATION:最高裁判所>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ 10D <rel type="ノ" target="所" sid="wiki00018960-00-01" id="2"/>
+長官 ちょうかん 長官 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 7D <体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 7D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="=" target="最高" sid="wiki00018960-00-01" id="0"/><体言><非用言格解析:形>
-最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 7D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/><体言><非用言格解析:動>
-裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 8D <rel type="=" target="所" sid="wiki00018960-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00018960-00-01" id="4"/><体言><NE:ORGANIZATION:最高裁判所>
-所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 7D <rel type="=" target="最高" sid="wiki00018960-00-01" id="0"/>
+最高 さいこう 最高だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:ORGANIZATION:head>
++ 7D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/>
+裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 8D <rel type="=" target="所" sid="wiki00018960-00-01" id="2"/><rel type="ノ？" target="日本" sid="wiki00018960-00-01" id="4"/><NE:ORGANIZATION:最高裁判所>
+所 しょ 所 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ノ" target="所" sid="wiki00018960-00-01" id="7"/><memo text="素性"/><体言>
-長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="所" sid="wiki00018960-00-01" id="7"/><memo text="素性"/>
+長 ちょう 長 名詞 6 普通名詞 1 * 0 * 0 NIL
 たる たる たる 助動詞 5 * 0 文語たり 10 連体形 2 NIL
 * -1D
-+ 10D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/><体言><非用言格解析:動>
-裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="長官" sid="wiki00018960-00-01" id="3"/><rel type="ノ？" target="裁判" sid="wiki00018960-00-01" id="9"/><rel type="=構" target="長" sid="wiki00018960-00-01" id="8"/><rel type="=構" mode="AND" target="長官" sid="wiki00018960-00-01" id="3"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/>
+裁判 さいばん 裁判 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="長官" sid="wiki00018960-00-01" id="3"/><rel type="ノ？" target="裁判" sid="wiki00018960-00-01" id="9"/><rel type="=構" target="長" sid="wiki00018960-00-01" id="8"/><rel type="=構" mode="AND" target="長官" sid="wiki00018960-00-01" id="3"/><memo text="CO"/>
+官 かん 官 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00018960-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/08 MEMO:
 * -1D
-+ 2D <rel type="=" target="最高" sid="wiki00018960-00-01" id="0"/><体言><非用言格解析:形>
-さいこう さいこう さいこうだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/><体言><非用言格解析:動>
-さいばん さいばん さいばん 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <rel type="=" target="所" sid="wiki00018960-00-01" id="2"/><体言><NE:ORGANIZATION:さいこうさいばんしょ>
-しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
-+ -1D <rel type="=" target="長官" sid="wiki00018960-00-01" id="3"/><体言>
-ちょうかん ちょうかん ちょうかん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="最高" sid="wiki00018960-00-01" id="0"/>
+さいこう さいこう さいこうだ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="裁判" sid="wiki00018960-00-01" id="1"/>
+さいばん さいばん さいばん 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D <rel type="=" target="所" sid="wiki00018960-00-01" id="2"/><NE:ORGANIZATION:さいこうさいばんしょ>
+しょ しょ しょ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
++ -1D <rel type="=" target="長官" sid="wiki00018960-00-01" id="3"/>
+ちょうかん ちょうかん ちょうかん 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

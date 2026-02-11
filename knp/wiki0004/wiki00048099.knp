@@ -1,77 +1,77 @@
 # S-ID:wiki00048099-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2024/04/12 MEMO:
 * 4D
-+ 1D <memo text="アメリカ化学会の下部組織"/><体言><NE:ORGANIZATION:CAS>
-CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="CAS" sid="wiki00048099-00-01" id="0"/><体言><非用言格解析:動>
-登録 とうろく 登録 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="修飾" target="登録" sid="wiki00048099-00-01" id="1"/><rel type="修飾" mode="AND" target="CAS" sid="wiki00048099-00-01" id="0"/><体言>
-番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <memo text="アメリカ化学会の下部組織"/><NE:ORGANIZATION:CAS>
+CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ニ" target="CAS" sid="wiki00048099-00-01" id="0"/>
+登録 とうろく 登録 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="修飾" target="登録" sid="wiki00048099-00-01" id="1"/><rel type="修飾" mode="AND" target="CAS" sid="wiki00048099-00-01" id="0"/>
+番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言>
-化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="修飾" target="化学" sid="wiki00048099-00-01" id="3"/><体言>
-物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D
+化学 かがく 化学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="修飾" target="化学" sid="wiki00048099-00-01" id="3"/>
+物質 ぶっしつ 物質 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物質" sid="wiki00048099-00-01" id="4"/><rel type="外の関係" target="ため" sid="wiki00048099-00-01" id="6"/><用言:動><時制:非過去><節-主辞>
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="物質" sid="wiki00048099-00-01" id="4"/><rel type="外の関係" target="ため" sid="wiki00048099-00-01" id="6"/>
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 4D
-+ 7D <rel type="ノ" target="特定する" sid="wiki00048099-00-01" id="5"/><体言>
-ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="特定する" sid="wiki00048099-00-01" id="5"/>
+ため ため ため 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="修飾" target="ため" sid="wiki00048099-00-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="修飾" target="ため" sid="wiki00048099-00-01" id="6"/>
+番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048099-00-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/19 MEMO:
 * 1P
-+ 1D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><体言><NE:ORGANIZATION:キャス>
-キャス きゃす キャス 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ 2D <rel type="=" target="登録" sid="wiki00048099-00-01" id="1"/><体言><非用言格解析:動>
-とうろく とうろく とうろく 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5P <rel type="=" target="番号" sid="wiki00048099-00-01" id="2"/><体言>
-ばんごう ばんごう ばんごう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><NE:ORGANIZATION:キャス>
+キャス きゃす キャス 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 2D <rel type="=" target="登録" sid="wiki00048099-00-01" id="1"/>
+とうろく とうろく とうろく 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5P <rel type="=" target="番号" sid="wiki00048099-00-01" id="2"/>
+ばんごう ばんごう ばんごう 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><memo text="RU"/><体言><NE:ORGANIZATION:CAS>
-CAS CAS CAS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 4D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><memo text="RU"/><NE:ORGANIZATION:CAS>
+CAS CAS CAS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D <rel type="=" target="登録" sid="wiki00048099-00-01" id="1"/><体言>
-registry registry registry 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=" target="登録" sid="wiki00048099-00-01" id="1"/>
+registry registry registry 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ -1D <rel type="=" target="番号" sid="wiki00048099-00-01" id="2"/><体言>
-number number number 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="番号" sid="wiki00048099-00-01" id="2"/>
+number number number 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00048099-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2026/01/19 MEMO:
 * 1P
-+ 1D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><体言><NE:ORGANIZATION:CAS>
-CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ 3P <rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="修飾" target="CAS" sid="wiki00048099-01" id="0"/><体言>
-番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="CAS" sid="wiki00048099-00-01" id="0"/><NE:ORGANIZATION:CAS>
+CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 3P <rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="修飾" target="CAS" sid="wiki00048099-01" id="0"/>
+番号 ばんごう 番号 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2P
-+ 3D <rel type="=" target="CAS" sid="wiki00048099-01" id="0"/><体言><NE:ORGANIZATION:CAS>
-CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
-+ 5P <rel type="修飾" target="CAS" sid="wiki00048099-01" id="2"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><体言>
-ナンバー なんばー ナンバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="CAS" sid="wiki00048099-01" id="0"/><NE:ORGANIZATION:CAS>
+CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
++ 5P <rel type="修飾" target="CAS" sid="wiki00048099-01" id="2"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/>
+ナンバー なんばー ナンバー 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="CAS" sid="wiki00048099-01" id="2"/><体言><NE:ORGANIZATION:CAS>
-CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 5D <rel type="=" target="CAS" sid="wiki00048099-01" id="2"/><NE:ORGANIZATION:CAS>
+CAS きゃす CAS 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 6D <rel type="修飾" target="CAS" sid="wiki00048099-01" id="4"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="=" mode="AND" target="number" sid="wiki00048099-00-02" id="5"/><体言>
++ 6D <rel type="修飾" target="CAS" sid="wiki00048099-01" id="4"/><rel type="=構" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="=" mode="AND" target="number" sid="wiki00048099-00-02" id="5"/>
 RN RN RN 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="番号" sid="wiki00048099-01" id="1"/><rel type="ト" mode="AND" target="ナンバー" sid="wiki00048099-01" id="3"/><rel type="ト" mode="AND" target="RN" sid="wiki00048099-01" id="5"/><用言:動><時制:非過去><節-主辞><節-区切>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="番号" sid="wiki00048099-00-01" id="2"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="番号" sid="wiki00048099-01" id="1"/><rel type="ト" mode="AND" target="ナンバー" sid="wiki00048099-01" id="3"/><rel type="ト" mode="AND" target="RN" sid="wiki00048099-01" id="5"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

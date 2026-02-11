@@ -1,56 +1,56 @@
 # S-ID:wiki00042814-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/06 MEMO:
 * 11D
-+ 13D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
-スパイ すぱい スパイ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="不特定:人"/>
+スパイ すぱい スパイ 名詞 6 サ変名詞 2 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3P
-+ 3P <体言>
-政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3P
+政府 せいふ 政府 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/><体言>
-他 た/ほか 他 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/>
+他 た/ほか 他 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="修飾" target="他" sid="wiki00042814-00" id="2"/><体言>
-組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="修飾" target="他" sid="wiki00042814-00" id="2"/>
+組織 そしき 組織 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ガ" target="人" sid="wiki00042814-00" id="12"/><rel type="ニ" target="組織" sid="wiki00042814-00" id="3"/><rel type="ニ" mode="AND" target="政府" sid="wiki00042814-00" id="1"/><用言:動><節-主辞><節-区切><時制:非過去>
-雇わ やとわ 雇う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL <基本句-主辞>
++ 11D <rel type="ガ" target="人" sid="wiki00042814-00" id="12"/><rel type="ニ" target="組織" sid="wiki00042814-00" id="3"/><rel type="ニ" mode="AND" target="政府" sid="wiki00042814-00" id="1"/>
+雇わ やとわ 雇う 動詞 2 * 0 子音動詞ワ行 12 未然形 3 NIL
 れて れて れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 9D
-+ 6D <rel type="ガ" target="得る" sid="wiki00042814-00" id="11"/><体言><非用言格解析:形>
-秘密 ひみつ 秘密だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 11D <rel type="修飾" target="秘密" sid="wiki00042814-00" id="5"/><体言>
-裏 り 裏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="得る" sid="wiki00042814-00" id="11"/>
+秘密 ひみつ 秘密だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 11D <rel type="修飾" target="秘密" sid="wiki00042814-00" id="5"/>
+裏 り 裏 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 9P <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ノ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/><体言>
-敵 てき 敵 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9P <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ノ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/>
+敵 てき 敵 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 9D <rel type="ガ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ガ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/><rel type="ト" target="相手" sid="wiki00042814-00" id="9"/><体言><非用言格解析:動>
-競争 きょうそう 競争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ノ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/><rel type="修飾" target="競争" sid="wiki00042814-00" id="8"/><体言>
-相手 あいて 相手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ガ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/><rel type="ト" target="相手" sid="wiki00042814-00" id="9"/>
+競争 きょうそう 競争 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="ノ" target="政府" sid="wiki00042814-00" id="1"/><rel type="ノ" mode="AND" target="組織" sid="wiki00042814-00" id="3"/><rel type="修飾" target="競争" sid="wiki00042814-00" id="8"/>
+相手 あいて 相手 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 9D
-+ 11D <rel type="ノ" target="敵" sid="wiki00042814-00" id="7"/><rel type="ノ" mode="AND" target="相手" sid="wiki00042814-00" id="9"/><体言>
-情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ" target="敵" sid="wiki00042814-00" id="7"/><rel type="ノ" mode="AND" target="相手" sid="wiki00042814-00" id="9"/>
+情報 じょうほう 情報 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 12D <rel type="ガ" target="人" sid="wiki00042814-00" id="12"/><rel type="ヲ" target="情報" sid="wiki00042814-00" id="10"/><rel type="修飾" target="裏" sid="wiki00042814-00" id="6"/><用言:動><時制:非過去><節-主辞>
-得る える 得る 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="人" sid="wiki00042814-00" id="12"/><rel type="ヲ" target="情報" sid="wiki00042814-00" id="10"/><rel type="修飾" target="裏" sid="wiki00042814-00" id="6"/>
+得る える 得る 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 11D
-+ 13D <rel type="=構" target="スパイ" sid="wiki00042814-00" id="0"/><rel type="トイウ" target="得る" sid="wiki00042814-00" id="11"/><体言>
-人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="=構" target="スパイ" sid="wiki00042814-00" id="0"/><rel type="トイウ" target="得る" sid="wiki00042814-00" id="11"/>
+人 ひと 人 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="スパイ" sid="wiki00042814-00" id="0"/><rel type="ノ" target="人" sid="wiki00042814-00" id="12"/><rel type="=構" target="スパイ" sid="wiki00042814-00" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="スパイ" sid="wiki00042814-00" id="0"/><rel type="ノ" target="人" sid="wiki00042814-00" id="12"/><rel type="=構" target="スパイ" sid="wiki00042814-00" id="0"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

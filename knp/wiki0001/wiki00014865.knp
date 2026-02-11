@@ -1,271 +1,271 @@
 # S-ID:wiki00014865-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2025/10/21 MEMO:
 * 10D
-+ 1D <体言>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <体言>
-満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 23D <体言><NE:LOCATION:南満州鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D
+満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 23D <NE:LOCATION:南満州鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4P <体言><NE:LOCATION:日>
-日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <体言><NE:LOCATION:露>
-露 ろ 露 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 6D <rel type="ガ" target="日" sid="wiki00014865-00-01" id="3"/><rel type="ト" target="露" sid="wiki00014865-00-01" id="4"/><memo text="ガト交替可"/><体言><非用言格解析:動>
-戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ガ" target="戦争" sid="wiki00014865-00-01" id="5"/><体言><非用言格解析:動>
-終結 しゅうけつ 終結 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="終結" sid="wiki00014865-00-01" id="6"/><体言>
-後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 4P <NE:LOCATION:日>
+日 にち 日 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <NE:LOCATION:露>
+露 ろ 露 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 6D <rel type="ガ" target="日" sid="wiki00014865-00-01" id="3"/><rel type="ト" target="露" sid="wiki00014865-00-01" id="4"/><memo text="ガト交替可"/>
+戦争 せんそう 戦争 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ガ" target="戦争" sid="wiki00014865-00-01" id="5"/>
+終結 しゅうけつ 終結 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ノ" target="終結" sid="wiki00014865-00-01" id="6"/>
+後 ご 後 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 9D <体言><NE:DATE:1905年>
-1905 せんきゅうひゃくご 1905 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 9D <NE:DATE:1905年>
+1905 せんきゅうひゃくご 1905 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 11D <rel type="時間" target="後" sid="wiki00014865-00-01" id="7"/><rel type="時間" mode="AND" target="1905年" sid="wiki00014865-00-01" id="8"/><rel type="ガ" target="条約" sid="wiki00014865-00-01" id="11"/><用言:動><時制:過去><節-主辞>
-締結 ていけつ 締結 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="時間" target="後" sid="wiki00014865-00-01" id="7"/><rel type="時間" mode="AND" target="1905年" sid="wiki00014865-00-01" id="8"/><rel type="ガ" target="条約" sid="wiki00014865-00-01" id="11"/>
+締結 ていけつ 締結 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 5D
-+ 11D <体言>
-ポーツマス ぽーつます ポーツマス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 12D <体言><NE:ARTIFACT:ポーツマス条約>
-条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
++ 11D
+ポーツマス ぽーつます ポーツマス 名詞 6 地名 4 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 12D <NE:ARTIFACT:ポーツマス条約>
+条約 じょうやく 条約 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 17D <用言:動>
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
++ 17D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 14D <rel type="=" target="露" sid="wiki00014865-00-01" id="4"/><体言>
-ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 17D <rel type="=" target="露" sid="wiki00014865-00-01" id="4"/><体言><NE:LOCATION:ロシア帝国>
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 14D <rel type="=" target="露" sid="wiki00014865-00-01" id="4"/>
+ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 17D <rel type="=" target="露" sid="wiki00014865-00-01" id="4"/><NE:LOCATION:ロシア帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 16D <rel type="=" target="日" sid="wiki00014865-00-01" id="3"/><体言>
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 17D <rel type="=" target="日" sid="wiki00014865-00-01" id="3"/><体言><NE:LOCATION:大日本帝国>
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 16D <rel type="=" target="日" sid="wiki00014865-00-01" id="3"/>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 17D <rel type="=" target="日" sid="wiki00014865-00-01" id="3"/><NE:LOCATION:大日本帝国>
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 22D <rel type="ニヨッテ" target="条約" sid="wiki00014865-00-01" id="11"/><rel type="ガ" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="ニ" target="帝国" sid="wiki00014865-00-01" id="16"/><rel type="カラ" target="帝国" sid="wiki00014865-00-01" id="14"/><用言:動><時制:過去><節-主辞>
-譲渡 じょうと 譲渡 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="ニヨッテ" target="条約" sid="wiki00014865-00-01" id="11"/><rel type="ガ" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="ニ" target="帝国" sid="wiki00014865-00-01" id="16"/><rel type="カラ" target="帝国" sid="wiki00014865-00-01" id="14"/>
+譲渡 じょうと 譲渡 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 10D
-+ 19D <体言>
-東清 とうしん 東清 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 22D <体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 21D <体言>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 22D <体言>
-満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 23D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="19"/><rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><体言><NE:LOCATION:東清鉄道南満州支線>
-支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 19D
+東清 とうしん 東清 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 22D
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 21D
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 22D
+満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 23D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="19"/><rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><NE:LOCATION:東清鉄道南満州支線>
+支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ガ" target="鉄道" sid="wiki00014865-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ノ" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ガ" target="鉄道" sid="wiki00014865-00-01" id="2"/><memo text="CO"/>
+こと こと こと 名詞 6 形式名詞 8 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:60.00000 MOD:2026/01/15 MEMO:
 * 3P
-+ 1D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/><体言>
-みなみ みなみ みなみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/><体言>
-まんしゅう まんしゅう まんしゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 7P <rel type="=" target="鉄道" sid="wiki00014865-00-01" id="2"/><体言><NE:LOCATION:みなみまんしゅうてつどう>
-てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/>
+みなみ みなみ みなみ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/>
+まんしゅう まんしゅう まんしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ 7P <rel type="=" target="鉄道" sid="wiki00014865-00-01" id="2"/><NE:LOCATION:みなみまんしゅうてつどう>
+てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ガ" target="表記" sid="wiki00014865-00-02" id="4"/><用言:形><時制:非過去>
-正式な せいしきな 正式だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="表記" sid="wiki00014865-00-02" id="4"/>
+正式な せいしきな 正式だ 形容詞 3 * 0 ナノ形容詞 22 ダ列基本連体形 3 NIL
 * 3D
-+ 7D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="修飾" target="正式な" sid="wiki00014865-00-02" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ト" target="鉄道" sid="wiki00014865-00-02" id="7"/><体言><非用言格解析:動>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="修飾" target="正式な" sid="wiki00014865-00-02" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ト" target="鉄道" sid="wiki00014865-00-02" id="7"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/><体言>
++ 6D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 7D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/><体言>
-満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ -1D <rel type="ガ" target="表記" sid="wiki00014865-00-02" id="4"/><rel type="=構" target="表記" sid="wiki00014865-00-02" id="4"/><rel type="=" mode="AND" target="鉄道" sid="wiki00014865-00-01" id="2"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:南満洲鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/>
+満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
++ -1D <rel type="ガ" target="表記" sid="wiki00014865-00-02" id="4"/><rel type="=構" target="表記" sid="wiki00014865-00-02" id="4"/><rel type="=" mode="AND" target="鉄道" sid="wiki00014865-00-01" id="2"/><memo text="CO"/><NE:LOCATION:南満洲鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-00-03 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/21 MEMO:
 * -1D
-+ 1D <体言>
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <rel type="=" target="1905年" sid="wiki00014865-00-01" id="8"/><NE:DATE:明治38年><体言>
-38 さんじゅうはち 38 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 1D
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1905年" sid="wiki00014865-00-01" id="8"/><NE:DATE:明治38年>
+38 さんじゅうはち 38 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00014865-00-04 括弧始:（ 括弧終:） 括弧位置:100 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/15 MEMO:
 * -1D
-+ 1P <rel type="ノ？" target="満州" sid="wiki00014865-00-01" id="1"/><rel type="ノ？" mode="？" target="なし"/><体言><NE:LOCATION:長春>
-長春 ちょうしゅん 長春 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 1P <rel type="ノ？" target="満州" sid="wiki00014865-00-01" id="1"/><rel type="ノ？" mode="？" target="なし"/><NE:LOCATION:長春>
+長春 ちょうしゅん 長春 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 2D <rel type="ノ？" target="帝国" sid="wiki00014865-00-01" id="16"/><rel type="ノ？" mode="？" target="なし"/><体言><NE:LOCATION:旅順>
-旅順 りょじゅん 旅順 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 3D <rel type="ト" target="長春" sid="wiki00014865-00-04" id="0"/><rel type="ノ" target="旅順" sid="wiki00014865-00-04" id="1"/><memo text="トノ交替可"/><体言>
++ 2D <rel type="ノ？" target="帝国" sid="wiki00014865-00-01" id="16"/><rel type="ノ？" mode="？" target="なし"/><NE:LOCATION:旅順>
+旅順 りょじゅん 旅順 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 3D <rel type="ト" target="長春" sid="wiki00014865-00-04" id="0"/><rel type="ノ" target="旅順" sid="wiki00014865-00-04" id="1"/><memo text="トノ交替可"/>
 間 かん 間 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
-+ -1D <rel type="=" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="修飾" target="間" sid="wiki00014865-00-04" id="2"/><体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="支線" sid="wiki00014865-00-01" id="22"/><rel type="修飾" target="間" sid="wiki00014865-00-04" id="2"/>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2026/01/15 MEMO:
 * 11D
 + 18D
-また また また 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
+また また また 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="支線" sid="wiki00014865-00-01" id="22"/><体言>
-支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="支線" sid="wiki00014865-00-01" id="22"/>
+支線 しせん 支線 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ガ" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" mode="？" target="鉄道" sid="wiki00014865-01-01" id="3"/><rel type="ヲ" target="支線" sid="wiki00014865-01-01" id="1"/><用言:動><時制:非過去><節-主辞>
-含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" mode="？" target="鉄道" sid="wiki00014865-01-01" id="3"/><rel type="ヲ" target="支線" sid="wiki00014865-01-01" id="1"/>
+含む ふくむ 含む 動詞 2 * 0 子音動詞マ行 9 基本形 2 NIL
 * 4P
-+ 4D <rel type="=≒" target="鉄道" sid="wiki00014865-00-01" id="2"/><体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6P <rel type="ヲフクメテ" target="支線" sid="wiki00014865-01-01" id="1"/><rel type="ノ？" target="鉄道" sid="wiki00014865-01-01" id="3"/><体言>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=≒" target="鉄道" sid="wiki00014865-00-01" id="2"/>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6P <rel type="ヲフクメテ" target="支線" sid="wiki00014865-01-01" id="1"/><rel type="ノ？" target="鉄道" sid="wiki00014865-01-01" id="3"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
 および および および 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ニ" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" target="事業" sid="wiki00014865-01-01" id="6"/><体言><非用言格解析:動>
-付属 ふぞく 付属 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="修飾" target="付属" sid="wiki00014865-01-01" id="5"/><体言>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ニ" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" target="事業" sid="wiki00014865-01-01" id="6"/>
+付属 ふぞく 付属 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="修飾" target="付属" sid="wiki00014865-01-01" id="5"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ヲ" target="事業" sid="wiki00014865-01-01" id="6"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/><用言:動><時制:非過去><節-主辞>
-経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ヲ" target="事業" sid="wiki00014865-01-01" id="6"/><rel type="ヲ" mode="AND" target="事業" sid="wiki00014865-01-01" id="4"/><rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/>
+経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 8D
-+ 10D <rel type="トイウ" target="経営する" sid="wiki00014865-01-01" id="7"/><rel type="ノ" target="会社" sid="wiki00014865-01-01" id="12"/><体言>
-目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="トイウ" target="経営する" sid="wiki00014865-01-01" id="7"/><rel type="ノ" target="会社" sid="wiki00014865-01-01" id="12"/>
+目的 もくてき 目的 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 10D <体言><NE:DATE:1906年>
-1906 せんきゅうひゃくろく 1906 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 10D <NE:DATE:1906年>
+1906 せんきゅうひゃくろく 1906 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 12D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/><rel type="時間" target="1906年" sid="wiki00014865-01-01" id="9"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="目的" sid="wiki00014865-01-01" id="8"/><用言:動><時制:過去><節-主辞>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/><rel type="時間" target="1906年" sid="wiki00014865-01-01" id="9"/><rel type="ニ" target="不特定:人"/><rel type="デ" target="目的" sid="wiki00014865-01-01" id="8"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 10D
-+ 12D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/><体言><非用言格解析:形>
-特殊 とくしゅ 特殊だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 17D <rel type="修飾" target="特殊" sid="wiki00014865-01-01" id="11"/><体言>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="12"/>
+特殊 とくしゅ 特殊だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 17D <rel type="修飾" target="特殊" sid="wiki00014865-01-01" id="11"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 14D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/><体言>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 15D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/><体言>
-満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 17D <rel type="=" target="鉄道" sid="wiki00014865-00-01" id="2"/><体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 17D <体言>
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 18D <rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="=構" mode="AND" target="会社" sid="wiki00014865-01-01" id="12"/><rel type="修飾" target="会社" sid="wiki00014865-01-01" id="12"/><体言><NE:ORGANIZATION:南満洲鉄道株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 14D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 15D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/>
+満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 17D <rel type="=" target="鉄道" sid="wiki00014865-00-01" id="2"/>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 17D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 18D <rel type="=構" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="=構" mode="AND" target="会社" sid="wiki00014865-01-01" id="12"/><rel type="修飾" target="会社" sid="wiki00014865-01-01" id="12"/><NE:ORGANIZATION:南満洲鉄道株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ヲ" target="会社" sid="wiki00014865-01-01" id="17"/><用言:動><時制:非過去><節-主辞><節-区切>
-指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ヲ" target="会社" sid="wiki00014865-01-01" id="17"/>
+指す さす 指す 動詞 2 * 0 子音動詞サ行 5 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-01-02 括弧始:（ 括弧終:） 括弧位置:33 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/21 MEMO:
 * -1D
-+ 1D <rel type="=" target="明治" sid="wiki00014865-00-03" id="0"/><体言>
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <rel type="=" target="1906年" sid="wiki00014865-01-01" id="9"/><NE:DATE:明治39年><体言>
-39 さんじゅうきゅう/さんじゅうく 39 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 1D <rel type="=" target="明治" sid="wiki00014865-00-03" id="0"/>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1906年" sid="wiki00014865-01-01" id="9"/><NE:DATE:明治39年>
+39 さんじゅうきゅう/さんじゅうく 39 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00014865-01-03 括弧始:（ 括弧終:） 括弧位置:60 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2026/01/15 MEMO:
 * -1D
-+ 1D <rel type="=" target="南" sid="wiki00014865-01-01" id="13"/><体言>
-みなみ みなみ みなみ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 2D <rel type="=" target="満洲" sid="wiki00014865-01-01" id="14"/><体言>
-まんしゅう まんしゅう まんしゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="鉄道" sid="wiki00014865-01-01" id="15"/><rel type="=" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><体言><NE:ORGANIZATION:みなみまんしゅうてつどう>
-てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="南" sid="wiki00014865-01-01" id="13"/>
+みなみ みなみ みなみ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 2D <rel type="=" target="満洲" sid="wiki00014865-01-01" id="14"/>
+まんしゅう まんしゅう まんしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="鉄道" sid="wiki00014865-01-01" id="15"/><rel type="=" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><NE:ORGANIZATION:みなみまんしゅうてつどう>
+てつどう てつどう てつどう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00014865-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2026/01/15 MEMO:
 * 1D
-+ 1D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/><体言>
-南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 2D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/><体言><NE:LOCATION:南満州>
-満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D <rel type="=" target="南" sid="wiki00014865-00-01" id="0"/>
+南 みなみ 南 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 2D <rel type="=" target="満州" sid="wiki00014865-00-01" id="1"/><NE:LOCATION:南満州>
+満州 まんしゅう 満州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <用言:動>
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
++ 6D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 3D
-+ 4D <体言>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ニヨッテ" target="鉄道" sid="wiki00014865-02" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:人"/><体言><非用言格解析:動>
-運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ？" target="運輸" sid="wiki00014865-02" id="4"/><体言>
-業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ニヨッテ" target="鉄道" sid="wiki00014865-02" id="3"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><rel type="ヲ" mode="AND" target="不特定:人"/>
+運輸 うんゆ 運輸 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="運輸" sid="wiki00014865-02" id="4"/>
+業 ぎょう 業 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8P
-+ 13P <rel type="ニオイテ" target="満州" sid="wiki00014865-02" id="1"/><rel type="ガ" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ヲ" target="業" sid="wiki00014865-02" id="5"/><用言:動><節-主辞><節-区切>
-営み いとなみ 営む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL <基本句-主辞>
++ 13P <rel type="ニオイテ" target="満州" sid="wiki00014865-02" id="1"/><rel type="ガ" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ヲ" target="業" sid="wiki00014865-02" id="5"/>
+営み いとなみ 営む 動詞 2 * 0 子音動詞マ行 9 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="=" target="帝国" sid="wiki00014865-00-01" id="16"/><体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 9D <rel type="=" target="帝国" sid="wiki00014865-00-01" id="16"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 9D <rel type="=≒" target="満州" sid="wiki00014865-02" id="1"/><体言><NE:LOCATION:満洲>
-満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 10D <rel type="ガ" target="日本" sid="wiki00014865-02" id="7"/><rel type="ヲ" target="満洲" sid="wiki00014865-02" id="8"/><体言><非用言格解析:動>
-経略 けいりゃく 経略 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=≒" target="満州" sid="wiki00014865-02" id="1"/><NE:LOCATION:満洲>
+満洲 まんしゅう 満洲 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 10D <rel type="ガ" target="日本" sid="wiki00014865-02" id="7"/><rel type="ヲ" target="満洲" sid="wiki00014865-02" id="8"/>
+経略 けいりゃく 経略 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 12D <用言:動><時制:非過去>
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
++ 12D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 8D
-+ 12D <rel type="ガ" target="拠点" sid="wiki00014865-02" id="12"/><体言><非用言格解析:形>
-重要 じゅうよう 重要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
-+ 13D <rel type="ニオイテ" target="経略" sid="wiki00014865-02" id="9"/><rel type="修飾" target="重要" sid="wiki00014865-02" id="11"/><rel type="=構" target="会社" sid="wiki00014865-01-01" id="17"/><体言>
-拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="ガ" target="拠点" sid="wiki00014865-02" id="12"/>
+重要 じゅうよう 重要だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 13D <rel type="ニオイテ" target="経略" sid="wiki00014865-02" id="9"/><rel type="修飾" target="重要" sid="wiki00014865-02" id="11"/><rel type="=構" target="会社" sid="wiki00014865-01-01" id="17"/>
+拠点 きょてん 拠点 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ト" target="拠点" sid="wiki00014865-02" id="12"/><用言:動><時制:過去><節-主辞><節-区切>
-なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ト" target="拠点" sid="wiki00014865-02" id="12"/>
+なった なった なる 動詞 2 * 0 子音動詞ラ行 10 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2026/01/15 MEMO:
 * 1D
-+ 1D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ノ" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ヲ" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ト" target="満鉄" sid="wiki00014865-03-01" id="1"/><体言><非用言格解析:動>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="ノ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ノ" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="ヲ" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><rel type="ト" target="満鉄" sid="wiki00014865-03-01" id="1"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00014865-03-01" id="0"/><rel type="=構" target="略称" sid="wiki00014865-03-01" id="0"/><rel type="=" mode="AND" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:満鉄><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-満鉄 まんてつ 満鉄 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00014865-03-01" id="0"/><rel type="=構" target="略称" sid="wiki00014865-03-01" id="0"/><rel type="=" mode="AND" target="鉄道" sid="wiki00014865-00-01" id="2"/><rel type="=" mode="AND" target="会社" sid="wiki00014865-01-01" id="17"/><memo text="CO"/><NE:OPTIONAL:満鉄><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+満鉄 まんてつ 満鉄 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00014865-03-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/10/21 MEMO:
 * 1P
-+ 1P <rel type="=" target="満鉄" sid="wiki00014865-03-01" id="1"/><体言><NE:OPTIONAL:まんてつ><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
-まんてつ まんてつ まんてつ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 1P <rel type="=" target="満鉄" sid="wiki00014865-03-01" id="1"/><NE:OPTIONAL:まんてつ><NE-OPTIONAL:ORGANIZATION,LOCATION:0>
+まんてつ まんてつ まんてつ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="満鉄" sid="wiki00014865-03-01" id="1"/><体言><NE:OPTIONAL:滿鐵><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-滿鐵 まんてつ 滿鐵 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ -1D <rel type="=" target="満鉄" sid="wiki00014865-03-01" id="1"/><NE:OPTIONAL:滿鐵><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+滿鐵 まんてつ 滿鐵 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:single>
 EOS

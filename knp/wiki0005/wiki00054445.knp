@@ -1,43 +1,43 @@
 # S-ID:wiki00054445-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/25 MEMO:
 * 2D
-+ 4D <rel type="ノ？" target="浙江省" sid="wiki00054445-00-01" id="2"/><体言><NE:LOCATION:杭州市>
-杭州 こうしゅう 杭州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="ノ？" target="浙江省" sid="wiki00054445-00-01" id="2"/><NE:LOCATION:杭州市>
+杭州 こうしゅう 杭州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 2D <体言>
-中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4D <rel type="ノ？" target="中華人民共和国" sid="wiki00054445-00-01" id="1"/><体言><NE:LOCATION:中華人民共和国浙江省>
-浙江 せっこう 浙江 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 2D
+中華人民共和国 ちゅうかじんみんきょうわこく 中華人民共和国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="ノ？" target="中華人民共和国" sid="wiki00054445-00-01" id="1"/><NE:LOCATION:中華人民共和国浙江省>
+浙江 せっこう 浙江 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 省 しょう 省 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 4D <rel type="=" target="浙江省" sid="wiki00054445-00-01" id="2"/><体言>
-省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="杭州市" sid="wiki00054445-00-01" id="0"/><rel type="ノ" target="省" sid="wiki00054445-00-01" id="3"/><rel type="ノ" mode="AND" target="浙江省" sid="wiki00054445-00-01" id="2"/><rel type="=構" target="杭州市" sid="wiki00054445-00-01" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="浙江省" sid="wiki00054445-00-01" id="2"/>
+省 しょう 省 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="杭州市" sid="wiki00054445-00-01" id="0"/><rel type="ノ" target="省" sid="wiki00054445-00-01" id="3"/><rel type="ノ" mode="AND" target="浙江省" sid="wiki00054445-00-01" id="2"/><rel type="=構" target="杭州市" sid="wiki00054445-00-01" id="0"/><memo text="CO"/>
+都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00054445-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/25 MEMO:
 * 2P
-+ 5P <rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><用言:動><NE:LOCATION:こうしゅうし>
-こうしゅう こうしゅう こうしゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5P <rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><NE:LOCATION:こうしゅうし>
+こうしゅう こうしゅう こうしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 し し し 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="中華人民共和国" sid="wiki00054445-00-01" id="1"/><体言><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
-中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 3D <rel type="ノ？" target="中国" sid="wiki00054445-00-02" id="1"/><体言>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="=" target="中華人民共和国" sid="wiki00054445-00-01" id="1"/><NE:OPTIONAL:中国><NE-OPTIONAL:LOCATION,NONE:0>
+中国 ちゅうごく 中国 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 3D <rel type="ノ？" target="中国" sid="wiki00054445-00-02" id="1"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ 5D <rel type="デ" target="語" sid="wiki00054445-00-02" id="2"/><rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><memo text="Hángzhōu Shì"/><体言><NE:LOCATION:杭州市>
-杭州 こうしゅう 杭州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 5D <rel type="デ" target="語" sid="wiki00054445-00-02" id="2"/><rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><memo text="Hángzhōu Shì"/><NE:LOCATION:杭州市>
+杭州 こうしゅう 杭州 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 5D <体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英語 えいご 英語 名詞 6 普通名詞 1 * 0 * 0 NIL
 : : : 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="デ" target="英語" sid="wiki00054445-00-02" id="4"/><rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:Hangzhou>
-Hangzhou Hangzhou Hangzhou 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <rel type="デ" target="英語" sid="wiki00054445-00-02" id="4"/><rel type="=" target="杭州市" sid="wiki00054445-00-01" id="0"/><NE:LOCATION:Hangzhou>
+Hangzhou Hangzhou Hangzhou 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 EOS

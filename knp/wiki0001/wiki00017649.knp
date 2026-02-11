@@ -1,82 +1,82 @@
 # S-ID:wiki00017649-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/11/24 MEMO:
 * 3D
-+ 1D <体言>
-宮沢 みやざわ 宮沢 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 1D
+宮沢 みやざわ 宮沢 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 5D <体言><NE:PERSON:宮沢　賢治>
-賢治 けんじ 賢治 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
++ 5D <NE:PERSON:宮沢　賢治>
+賢治 けんじ 賢治 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3P
-+ 5P <rel type="ノ？" target="日本" sid="wiki00017649-00-01" id="2"/><rel type="=構" target="賢治" sid="wiki00017649-00-01" id="1"/><体言>
-詩人 しじん 詩人 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="ノ？" target="日本" sid="wiki00017649-00-01" id="2"/><rel type="=構" target="賢治" sid="wiki00017649-00-01" id="1"/>
+詩人 しじん 詩人 名詞 6 普通名詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 5D <体言>
-童話 どうわ 童話 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="賢治" sid="wiki00017649-00-01" id="1"/><rel type="ノ？" target="童話" sid="wiki00017649-00-01" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00017649-00-01" id="2"/><rel type="=構" target="賢治" sid="wiki00017649-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-作家 さっか 作家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D
+童話 どうわ 童話 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="賢治" sid="wiki00017649-00-01" id="1"/><rel type="ノ？" target="童話" sid="wiki00017649-00-01" id="4"/><rel type="ノ？" mode="AND" target="日本" sid="wiki00017649-00-01" id="2"/><rel type="=構" target="賢治" sid="wiki00017649-00-01" id="1"/><memo text="CO"/>
+作家 さっか 作家 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00017649-00-02 括弧始:（ 括弧終:） 括弧位置:5 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:8.00000 MOD:2025/11/24 MEMO:
 * 2P
-+ 1D <rel type="=" target="宮沢" sid="wiki00017649-00-01" id="0"/><体言>
-みやざわ みやざわ みやざわ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 1D <rel type="=" target="宮沢" sid="wiki00017649-00-01" id="0"/>
+みやざわ みやざわ みやざわ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 4P <rel type="=" target="賢治" sid="wiki00017649-00-01" id="1"/><NE:PERSON:みやざわ　けんじ><体言>
-けんじ けんじ けんじ 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
++ 4P <rel type="=" target="賢治" sid="wiki00017649-00-01" id="1"/><NE:PERSON:みやざわ　けんじ>
+けんじ けんじ けんじ 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="ノ" target="賢治" sid="wiki00017649-00-01" id="1"/><体言>
-正字 せいじ 正字 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ノ" target="賢治" sid="wiki00017649-00-01" id="1"/>
+正字 せいじ 正字 名詞 6 普通名詞 1 * 0 * 0 NIL
 : : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * 4P
-+ 4D <rel type="=" target="宮沢" sid="wiki00017649-00-01" id="0"/><体言>
-宮澤 みやざわ 宮澤 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 4D <rel type="=" target="宮沢" sid="wiki00017649-00-01" id="0"/>
+宮澤 みやざわ 宮澤 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:PERSON:middle>
-+ 14P <rel type="=" target="賢治" sid="wiki00017649-00-01" id="1"/><rel type="=構" mode="AND" target="正字" sid="wiki00017649-00-02" id="2"/><体言><NE:PERSON:宮澤　賢治>
-賢治 けんじ 賢治 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
++ 14P <rel type="=" target="賢治" sid="wiki00017649-00-01" id="1"/><rel type="=構" mode="AND" target="正字" sid="wiki00017649-00-02" id="2"/><NE:PERSON:宮澤　賢治>
+賢治 けんじ 賢治 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 7D <体言>
-1896 せんはっぴゃくきゅうじゅうろく 1896 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 7D
+1896 せんはっぴゃくきゅうじゅうろく 1896 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 7D <体言>
++ 7D
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
-明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 8D <rel type="=" target="1896年" sid="wiki00017649-00-02" id="5"/><体言>
-29 にじゅうきゅう/にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
+明治 めいじ 明治 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 8D <rel type="=" target="1896年" sid="wiki00017649-00-02" id="5"/>
+29 にじゅうきゅう/にじゅうく 29 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 9D <rel type="ノ" target="1896年" sid="wiki00017649-00-02" id="5"/><体言>
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 9D <rel type="ノ" target="1896年" sid="wiki00017649-00-02" id="5"/>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 14P <体言><NE:DATE:1896年（明治29年）8月27日>
-27 にじゅうしち 27 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 14P <NE:DATE:1896年（明治29年）8月27日>
+27 にじゅうしち 27 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 - から - 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ 11D <体言>
-1933 せんきゅうひゃくさんじゅうさん 1933 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 11D
+1933 せんきゅうひゃくさんじゅうさん 1933 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 12D <体言>
++ 12D
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL <NE:DATE:middle>
-昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
-+ 13D <rel type="=" target="1933年" sid="wiki00017649-00-02" id="10"/><体言>
-8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
+昭和 しょうわ 昭和 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:middle>
++ 13D <rel type="=" target="1933年" sid="wiki00017649-00-02" id="10"/>
+8 はち 8 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL <NE:DATE:middle>
-+ 14D <rel type="ノ" target="1933年" sid="wiki00017649-00-02" id="10"/><体言>
-9 く 9 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 14D <rel type="ノ" target="1933年" sid="wiki00017649-00-02" id="10"/>
+9 く 9 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <rel type="カラ" target="27日" sid="wiki00017649-00-02" id="9"/><NE:DATE:1933年（昭和8年）9月21日><体言>
-21 にじゅういち 21 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ -1D <rel type="カラ" target="27日" sid="wiki00017649-00-02" id="9"/><NE:DATE:1933年（昭和8年）9月21日>
+21 にじゅういち 21 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS

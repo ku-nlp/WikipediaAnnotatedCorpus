@@ -1,235 +1,235 @@
 # S-ID:wiki00030487-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:98.00000 MOD:2025/04/16 MEMO:
 * 12D
-+ 1D <体言>
-比叡 ひえい 比叡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 20D <体言><NE:LOCATION:比叡山>
-山 ざん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D
+比叡 ひえい 比叡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 20D <NE:LOCATION:比叡山>
+山 ざん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言>
-都 みやこ 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4D <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:LOCATION:都富士>
-富士 ふじ 富士 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 3D
+都 みやこ 都 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><NE:LOCATION:都富士>
+富士 ふじ 富士 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <用言:動><時制:非過去>
-いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL <基本句-主辞>
++ 6D
+いう いう いう 動詞 2 * 0 子音動詞ワ行 12 基本形 2 NIL
 * 4D
-+ 6D <rel type="ガ" target="呼び名" sid="wiki00030487-00-01" id="6"/><用言:形><時制:非過去>
-有名な ゆうめいな 有名だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="呼び名" sid="wiki00030487-00-01" id="6"/>
+有名な ゆうめいな 有名だ 形容詞 3 * 0 ナ形容詞 21 ダ列基本連体形 3 NIL
 * 7P
-+ 10P <rel type="トイウ" target="富士" sid="wiki00030487-00-01" id="3"/><rel type="ノ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="修飾" target="有名な" sid="wiki00030487-00-01" id="5"/><rel type="=構" target="富士" sid="wiki00030487-00-01" id="3"/><体言>
-呼び名 よびな 呼び名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="トイウ" target="富士" sid="wiki00030487-00-01" id="3"/><rel type="ノ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="修飾" target="有名な" sid="wiki00030487-00-01" id="5"/><rel type="=構" target="富士" sid="wiki00030487-00-01" id="3"/>
+呼び名 よびな 呼び名 名詞 6 普通名詞 1 * 0 * 0 NIL
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6P
-+ 8P <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:LOCATION:叡山>
-叡山 えいざん 叡山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8P <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><NE:LOCATION:叡山>
+叡山 えいざん 叡山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 10P <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:OPTIONAL:北嶺><NE-OPTIONAL:LOCATION,NONE:0>
-北嶺 ほくれい 北嶺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
++ 10P <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><NE:OPTIONAL:北嶺><NE-OPTIONAL:LOCATION,NONE:0>
+北嶺 ほくれい 北嶺 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 8D
-+ 10D <memo text="天台宗の名称は、実質的開祖の智顗が天台山に住んでいたということに由来する"/><体言>
-天台 てんだい 天台 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 11D <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><memo text="天台宗の総本山だからこう呼ばれる、ということのようなので、天台は固有名詞にしておく"/><体言><NE:LOCATION:天台山>
-山 さん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 10D <memo text="天台宗の名称は、実質的開祖の智顗が天台山に住んでいたということに由来する"/>
+天台 てんだい 天台 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:LOCATION:head>
++ 11D <rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><memo text="天台宗の総本山だからこう呼ばれる、ということのようなので、天台は固有名詞にしておく"/><NE:LOCATION:天台山>
+山 さん 山 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * 12P
-+ 20P <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ト" target="山" sid="wiki00030487-00-01" id="10"/><rel type="ト" mode="AND" target="北嶺" sid="wiki00030487-00-01" id="8"/><rel type="ト" mode="AND" target="叡山" sid="wiki00030487-00-01" id="7"/><rel type="ト" mode="AND" target="富士" sid="wiki00030487-00-01" id="3"/><rel type="ニ" target="不特定:人"/><用言:動><節-主辞><節-区切>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
++ 20P <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ト" target="山" sid="wiki00030487-00-01" id="10"/><rel type="ト" mode="AND" target="北嶺" sid="wiki00030487-00-01" id="8"/><rel type="ト" mode="AND" target="叡山" sid="wiki00030487-00-01" id="7"/><rel type="ト" mode="AND" target="富士" sid="wiki00030487-00-01" id="3"/><rel type="ニ" target="不特定:人"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 10P
-+ 13D <体言>
-滋賀 しが 滋賀 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 13D
+滋賀 しが 滋賀 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 14D <rel type="ノ？" target="滋賀県" sid="wiki00030487-00-01" id="12"/><体言><NE:LOCATION:滋賀県大津市>
-大津 おおつ 大津 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 14D <rel type="ノ？" target="滋賀県" sid="wiki00030487-00-01" id="12"/><NE:LOCATION:滋賀県大津市>
+大津 おおつ 大津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 18P <rel type="ノ" target="大津市" sid="wiki00030487-00-01" id="13"/><体言>
-西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18P <rel type="ノ" target="大津市" sid="wiki00030487-00-01" id="13"/>
+西部 せいぶ 西部 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 11D
-+ 16D <体言>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 16D
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 府 ふ 府 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 18D <rel type="ノ？" target="京都府" sid="wiki00030487-00-01" id="15"/><体言><NE:LOCATION:京都府京都市>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 18D <rel type="ノ？" target="京都府" sid="wiki00030487-00-01" id="15"/><NE:LOCATION:京都府京都市>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ 18D <rel type="ノ" target="京都市" sid="wiki00030487-00-01" id="16"/><体言>
-北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 19D <rel type="ノ" target="京都市" sid="wiki00030487-00-01" id="16"/><rel type="ノ？" target="北東" sid="wiki00030487-00-01" id="17"/><体言>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="ノ" target="京都市" sid="wiki00030487-00-01" id="16"/>
+北東 ほくとう 北東 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D <rel type="ノ" target="京都市" sid="wiki00030487-00-01" id="16"/><rel type="ノ？" target="北東" sid="wiki00030487-00-01" id="17"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 12D
-+ 20D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="20"/><rel type="ニ" target="部" sid="wiki00030487-00-01" id="18"/><rel type="ニ" mode="AND" target="西部" sid="wiki00030487-00-01" id="14"/><用言:動><時制:非過去><節-主辞>
-またがる またがる またがる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ 20D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="20"/><rel type="ニ" target="部" sid="wiki00030487-00-01" id="18"/><rel type="ニ" mode="AND" target="西部" sid="wiki00030487-00-01" id="14"/>
+またがる またがる またがる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * -1D
-+ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><memo text="CO"/>
+山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00030487-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/01/19 MEMO:
 * -1D
-+ 1D <rel type="=" target="比叡" sid="wiki00030487-00-01" id="0"/><体言>
-ひえい ひえい ひえい 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <rel type="=" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:LOCATION:ひえいざん>
-ざん ざん ざん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D <rel type="=" target="比叡" sid="wiki00030487-00-01" id="0"/>
+ひえい ひえい ひえい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="山" sid="wiki00030487-00-01" id="1"/><NE:LOCATION:ひえいざん>
+ざん ざん ざん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00030487-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:70.00000 MOD:2025/04/16 MEMO:
 * 1P
-+ 2P <rel type="ノ？" target="滋賀県" sid="wiki00030487-00-01" id="12"/><rel type="=" target="大津市" sid="wiki00030487-00-01" id="13"/><体言><NE:LOCATION:大津市>
-大津 おおつ 大津 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2P <rel type="ノ？" target="滋賀県" sid="wiki00030487-00-01" id="12"/><rel type="=" target="大津市" sid="wiki00030487-00-01" id="13"/><NE:LOCATION:大津市>
+大津 おおつ 大津 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ？" target="京都府" sid="wiki00030487-00-01" id="15"/><体言>
-京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 2D <rel type="ノ？" target="京都府" sid="wiki00030487-00-01" id="15"/>
+京都 きょうと 京都 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="京都市" sid="wiki00030487-01" id="1"/><体言><NE:LOCATION:京都市左京区>
-左京 さきょう 左京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="京都市" sid="wiki00030487-01" id="1"/><NE:LOCATION:京都市左京区>
+左京 さきょう 左京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
 + 4D
-両 りょう 両 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="=≒" target="滋賀県" sid="wiki00030487-00-01" id="12"/><rel type="=≒" mode="AND" target="京都府" sid="wiki00030487-00-01" id="15"/><rel type="修飾" target="両" sid="wiki00030487-01" id="3"/><memo text="SE"/><体言>
-府県 ふけん 府県 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ" target="府県" sid="wiki00030487-01" id="4"/><rel type="ノ？" target="大津市" sid="wiki00030487-01" id="0"/><rel type="ノ？" mode="AND" target="左京区" sid="wiki00030487-01" id="2"/><体言>
-境 ざかい 境 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+両 りょう 両 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 5D <rel type="=≒" target="滋賀県" sid="wiki00030487-00-01" id="12"/><rel type="=≒" mode="AND" target="京都府" sid="wiki00030487-00-01" id="15"/><rel type="修飾" target="両" sid="wiki00030487-01" id="3"/><memo text="SE"/>
+府県 ふけん 府県 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ" target="府県" sid="wiki00030487-01" id="4"/><rel type="ノ？" target="大津市" sid="wiki00030487-01" id="0"/><rel type="ノ？" mode="AND" target="左京区" sid="wiki00030487-01" id="2"/>
+境 ざかい 境 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="ガ" target="比叡" sid="wiki00030487-01" id="8"/><rel type="ニ" target="境" sid="wiki00030487-01" id="5"/><用言:動><時制:非過去><節-主辞>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="比叡" sid="wiki00030487-01" id="8"/><rel type="ニ" target="境" sid="wiki00030487-01" id="5"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
 + 8D
-大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 9D <rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:LOCATION:大比叡>
-比叡 ひえい 比叡 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
+大 だい 大 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><NE:LOCATION:大比叡>
+比叡 ひえい 比叡 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 * 10P
-+ 16P <体言>
++ 16P
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-848.3 はっぴゃくよんじゅうはってんさん/はっぴゃくよんじゅうはちてんさん 848.3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-m めーとる m 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
+848.3 はっぴゃくよんじゅうはってんさん/はっぴゃくよんじゅうはちてんさん 848.3 名詞 6 数詞 7 * 0 * 0 NIL
+m めーとる m 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7P
-+ 11D <rel type="ノ？" target="京都市" sid="wiki00030487-01" id="1"/><rel type="=" target="左京区" sid="wiki00030487-01" id="2"/><体言><NE:LOCATION:左京区>
-左京 さきょう 左京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 11D <rel type="ノ？" target="京都市" sid="wiki00030487-01" id="1"/><rel type="=" target="左京区" sid="wiki00030487-01" id="2"/><NE:LOCATION:左京区>
+左京 さきょう 左京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 13D <rel type="ガ" target="岳" sid="wiki00030487-01" id="13"/><rel type="ニ" target="左京区" sid="wiki00030487-01" id="10"/><用言:動><時制:非過去><節-主辞>
-位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ガ" target="岳" sid="wiki00030487-01" id="13"/><rel type="ニ" target="左京区" sid="wiki00030487-01" id="10"/>
+位置 いち 位置 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 13D <体言>
-四明 しめいが 四明 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 16D <rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:LOCATION:四明岳>
-岳 たけ 岳 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 13D
+四明 しめいが 四明 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 16D <rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><NE:LOCATION:四明岳>
+岳 たけ 岳 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 * 10D
-+ 15D <rel type="=" target="四明" sid="wiki00030487-01" id="12"/><体言>
++ 15D <rel type="=" target="四明" sid="wiki00030487-01" id="12"/>
 （ （ （ 特殊 1 括弧始 3 * 0 * 0 NIL
-しめい しめい しめい 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
+しめい しめい しめい 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 16P <rel type="=" target="岳" sid="wiki00030487-01" id="13"/><用言:動><節-主辞><節-区切><NE:LOCATION:しめいがたけ>
-たけ たけ たけ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 16P <rel type="=" target="岳" sid="wiki00030487-01" id="13"/><NE:LOCATION:しめいがたけ>
+たけ たけ たけ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 11D
-+ 17D <体言>
-838 はっぴゃくさんじゅうはち 838 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-m めーとる m 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
++ 17D
+838 はっぴゃくさんじゅうはち 838 名詞 6 数詞 7 * 0 * 0 NIL
+m めーとる m 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 ） ） ） 特殊 1 括弧終 4 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 12D
-+ 18D <rel type="=≒" target="岳" sid="wiki00030487-01" id="13"/><rel type="=≒" mode="AND" target="比叡" sid="wiki00030487-01" id="8"/><memo text="SE"/><体言>
-二 ふた/に 二 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-峰 みね/ほう 峰 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 18D <rel type="=≒" target="岳" sid="wiki00030487-01" id="13"/><rel type="=≒" mode="AND" target="比叡" sid="wiki00030487-01" id="8"/><memo text="SE"/>
+二 ふた/に 二 名詞 6 数詞 7 * 0 * 0 NIL
+峰 みね/ほう 峰 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 19D <rel type="ガ" target="双耳峰" sid="wiki00030487-01" id="19"/><rel type="カラ" target="二峰" sid="wiki00030487-01" id="17"/><用言:動><時制:非過去><節-主辞>
-成る なる 成る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ 19D <rel type="ガ" target="双耳峰" sid="wiki00030487-01" id="19"/><rel type="カラ" target="二峰" sid="wiki00030487-01" id="17"/>
+成る なる 成る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 14D
-+ 20D <rel type="トイウ" target="成る" sid="wiki00030487-01" id="18"/><rel type="=" target="山" sid="wiki00030487-00-01" id="1"/><体言>
-双耳峰 そうじほう 双耳峰 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D <rel type="トイウ" target="成る" sid="wiki00030487-01" id="18"/><rel type="=" target="山" sid="wiki00030487-00-01" id="1"/>
+双耳峰 そうじほう 双耳峰 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ノ" target="双耳峰" sid="wiki00030487-01" id="19"/><rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ノ" target="双耳峰" sid="wiki00030487-01" id="19"/><rel type="=構" target="山" sid="wiki00030487-00-01" id="1"/>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00030487-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/04/16 MEMO:
 * 1D
-+ 1D <体言><NE:LOCATION:高野山>
-高野山 こうやさん 高野山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 1D <NE:LOCATION:高野山>
+高野山 こうやさん 高野山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ト" target="高野山" sid="wiki00030487-02" id="0"/><用言:動><節-主辞><節-区切>
-並び ならび 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ト" target="高野山" sid="wiki00030487-02" id="0"/>
+並び ならび 並ぶ 動詞 2 * 0 子音動詞バ行 8 基本連用形 8 NIL
 * 5D
-+ 6D <用言:形><時制:非過去>
-古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
-より より より 助詞 9 格助詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D
+古く ふるく 古い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
+より より より 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="対象" sid="wiki00030487-02" id="4"/><体言><非用言格解析:動>
-信仰 しんこう 信仰 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="信仰" sid="wiki00030487-02" id="3"/><体言>
-対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="対象" sid="wiki00030487-02" id="4"/>
+信仰 しんこう 信仰 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 5D <rel type="ノ" target="信仰" sid="wiki00030487-02" id="3"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 6D <rel type="修飾" target="対象" sid="wiki00030487-02" id="4"/><rel type="=構" target="対象" sid="wiki00030487-02" id="4"/><rel type="=構" mode="AND" target="山" sid="wiki00030487-00-01" id="1"/><rel type="=≒" mode="AND" target="高野山" sid="wiki00030487-02" id="0"/><体言>
-山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="修飾" target="対象" sid="wiki00030487-02" id="4"/><rel type="=構" target="対象" sid="wiki00030487-02" id="4"/><rel type="=構" mode="AND" target="山" sid="wiki00030487-00-01" id="1"/><rel type="=≒" mode="AND" target="高野山" sid="wiki00030487-02" id="0"/>
+山 やま 山 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 12P <rel type="ヨリ" target="古く" sid="wiki00030487-02" id="2"/><rel type="ト" target="山" sid="wiki00030487-02" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ニナランデ" target="高野山" sid="wiki00030487-02" id="0"/><用言:動><節-主辞><節-区切>
-さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL <基本句-主辞>
++ 12P <rel type="ヨリ" target="古く" sid="wiki00030487-02" id="2"/><rel type="ト" target="山" sid="wiki00030487-02" id="5"/><rel type="ニ" target="不特定:人"/><rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ニナランデ" target="高野山" sid="wiki00030487-02" id="0"/>
+さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 7P
-+ 8D <体言>
-延暦 えんりゃく 延暦 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 10P <体言><NE:OPTIONAL:延暦寺><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-寺 じ 寺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 8D
+延暦 えんりゃく 延暦 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 10P <NE:OPTIONAL:延暦寺><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+寺 じ 寺 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 や や や 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 8D
-+ 10D <rel type="=" target="比叡" sid="wiki00030487-00-01" id="0"/><memo text="かつて「日吉」は「ひえ」と呼んだ。「日枝の山」は比叡山のこと"/><体言>
-日吉 ひよし 日吉 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 11D <体言><NE:OPTIONAL:日吉大社><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-大社 たいしゃ 大社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 10D <rel type="=" target="比叡" sid="wiki00030487-00-01" id="0"/><memo text="かつて「日吉」は「ひえ」と呼んだ。「日枝の山」は比叡山のこと"/>
+日吉 ひよし 日吉 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 11D <NE:OPTIONAL:日吉大社><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+大社 たいしゃ 大社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9P
-+ 12P <rel type="ガ" target="大社" sid="wiki00030487-02" id="10"/><rel type="ガ" mode="AND" target="寺" sid="wiki00030487-02" id="8"/><rel type="ニ" target="山" sid="wiki00030487-00-01" id="1"/><用言:動><節-主辞><節-区切>
-あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
++ 12P <rel type="ガ" target="大社" sid="wiki00030487-02" id="10"/><rel type="ガ" mode="AND" target="寺" sid="wiki00030487-02" id="8"/><rel type="ニ" target="山" sid="wiki00030487-00-01" id="1"/>
+あり あり ある 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * -1D
-+ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><用言:動><時制:過去><節-主辞><節-区切>
-繁栄 はんえい 繁栄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/>
+繁栄 はんえい 繁栄 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00030487-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/04/16 MEMO:
 * 1D
-+ 1D <体言>
-東山 ひがしやま 東山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <rel type="ノ？" target="東山" sid="wiki00030487-03" id="0"/><rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><体言><NE:OPTIONAL:東山三十六峰><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
-三十六 さんじゅうろっ 三十六 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-峰 ぽう 峰 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+東山 ひがしやま 東山 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="ノ？" target="東山" sid="wiki00030487-03" id="0"/><rel type="=≒" target="山" sid="wiki00030487-00-01" id="1"/><NE:OPTIONAL:東山三十六峰><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+三十六 さんじゅうろっ 三十六 名詞 6 数詞 7 * 0 * 0 NIL <NE:OPTIONAL:middle>
+峰 ぽう 峰 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ニ" target="三十六峰" sid="wiki00030487-03" id="1"/><rel type="外の関係" target="場合" sid="wiki00030487-03" id="3"/><用言:動><時制:非過去><節-主辞>
-含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL <基本句-主辞>
++ 3D <rel type="ガ" target="山" sid="wiki00030487-00-01" id="1"/><rel type="ニ" target="三十六峰" sid="wiki00030487-03" id="1"/><rel type="外の関係" target="場合" sid="wiki00030487-03" id="3"/>
+含ま ふくま 含む 動詞 2 * 0 子音動詞マ行 9 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 * 3D
-+ 4D <rel type="トイウ" target="含まれる" sid="wiki00030487-03" id="2"/><体言><節-区切>
-場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="トイウ" target="含まれる" sid="wiki00030487-03" id="2"/>
+場合 ばあい 場合 名詞 6 副詞的名詞 9 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="場合" sid="wiki00030487-03" id="3"/><用言:動><時制:非過去><節-主辞><節-区切>
-有る ある 有る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="場合" sid="wiki00030487-03" id="3"/>
+有る ある 有る 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

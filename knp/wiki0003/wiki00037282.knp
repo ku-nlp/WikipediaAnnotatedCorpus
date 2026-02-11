@@ -1,60 +1,60 @@
 # S-ID:wiki00037282-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/13 MEMO:
 * 2D
-+ 1D <memo text="米国材料試験協会 (American Society for Testing and Materials)"/><体言>
-ASTM ASTM ASTM 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 10D <体言><非用言格解析:形><NE:ORGANIZATION:ASTMインターナショナル>
-インターナショナル いんたーなしょなる インターナショナルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <memo text="米国材料試験協会 (American Society for Testing and Materials)"/>
+ASTM ASTM ASTM 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 10D <NE:ORGANIZATION:ASTMインターナショナル>
+インターナショナル いんたーなしょなる インターナショナルだ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:ORGANIZATION:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言>
-世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 4P <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="デ" target="世界" sid="wiki00037282-00" id="2"/><体言><非用言格解析:形>
-最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
++ 3D
+世界 せかい 世界 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 4P <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="デ" target="世界" sid="wiki00037282-00" id="2"/>
+最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 5P <体言>
-民間 みんかん 民間 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5P
+民間 みんかん 民間 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10D <体言><否定表現>
++ 10D
 非 ひ 非 接頭辞 13 ナ形容詞接頭辞 4 * 0 * 0 NIL
-営利 えいり 営利 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+営利 えいり 営利 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <体言>
-国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9P <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="修飾" target="国際" sid="wiki00037282-00" id="6"/><rel type="ヲ" target="不特定:物"/><体言>
-標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D
+国際 こくさい 国際 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9P <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="修飾" target="国際" sid="wiki00037282-00" id="6"/><rel type="ヲ" target="不特定:物"/>
+標準 ひょうじゅん 標準 名詞 6 普通名詞 1 * 0 * 0 NIL
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9D <体言>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="ヲ" target="規格" sid="wiki00037282-00" id="8"/><体言><非用言格解析:動>
-設定 せってい 設定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="=構" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="修飾" target="非営利" sid="wiki00037282-00" id="5"/><rel type="修飾" mode="AND" target="民間" sid="wiki00037282-00" id="4"/><rel type="修飾" mode="AND" target="最大" sid="wiki00037282-00" id="3"/><rel type="ノ？" target="設定" sid="wiki00037282-00" id="9"/><rel type="ノ？" mode="AND" target="標準化" sid="wiki00037282-00" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="機関" sid="wiki00037282-00" id="10"/><rel type="ヲ" target="規格" sid="wiki00037282-00" id="8"/>
+設定 せってい 設定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="=構" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="修飾" target="非営利" sid="wiki00037282-00" id="5"/><rel type="修飾" mode="AND" target="民間" sid="wiki00037282-00" id="4"/><rel type="修飾" mode="AND" target="最大" sid="wiki00037282-00" id="3"/><rel type="ノ？" target="設定" sid="wiki00037282-00" id="9"/><rel type="ノ？" mode="AND" target="標準化" sid="wiki00037282-00" id="7"/><memo text="CO"/>
+機関 きかん 機関 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00037282-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/13 MEMO:
 * 1D
-+ 1D <体言>
-工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ニカンシテ" target="工業" sid="wiki00037282-01" id="0"/><rel type="=≒" target="規格" sid="wiki00037282-00" id="8"/><体言>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D
+工業 こうぎょう 工業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ニカンシテ" target="工業" sid="wiki00037282-01" id="0"/><rel type="=≒" target="規格" sid="wiki00037282-00" id="8"/>
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="ASTM" sid="wiki00037282-00" id="0"/><体言>
-ASTM ASTM ASTM 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 5D <rel type="=構" target="規格" sid="wiki00037282-01" id="1"/><rel type="修飾" target="規格" sid="wiki00037282-01" id="1"/><体言><NE:OPTIONAL:ASTM規格><NE-OPTIONAL:ARTIFACT,NONE:0>
-規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 3D <rel type="=" target="ASTM" sid="wiki00037282-00" id="0"/>
+ASTM ASTM ASTM 名詞 6 組織名 6 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 5D <rel type="=構" target="規格" sid="wiki00037282-01" id="1"/><rel type="修飾" target="規格" sid="wiki00037282-01" id="1"/><NE:OPTIONAL:ASTM規格><NE-OPTIONAL:ARTIFACT,NONE:0>
+規格 きかく 規格 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 5P <rel type="ヲ" target="規格" sid="wiki00037282-01" id="3"/><rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="=≒" target="設定" sid="wiki00037282-00" id="9"/><用言:動>
-設定 せってい 設定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5P <rel type="ヲ" target="規格" sid="wiki00037282-01" id="3"/><rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/><rel type="=≒" target="設定" sid="wiki00037282-00" id="9"/>
+設定 せってい 設定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ -1D <rel type="ヲ" target="規格" sid="wiki00037282-01" id="3"/><rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
-発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ヲ" target="規格" sid="wiki00037282-01" id="3"/><rel type="ガ" target="インターナショナル" sid="wiki00037282-00" id="1"/>
+発行 はっこう 発行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 いる いる いる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,43 +1,43 @@
 # S-ID:wiki00036305-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/05/09 MEMO:
 * 6D
-+ 1D <体言><NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:1>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 9D <rel type="ノ？" target="日本" sid="wiki00036305-00-01" id="0"/><体言>
-刀 とう 刀 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <NE:OPTIONAL:日本><NE-OPTIONAL:LOCATION,NONE:1>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 9D <rel type="ノ？" target="日本" sid="wiki00036305-00-01" id="0"/>
+刀 とう 刀 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="=" target="日本" sid="wiki00036305-00-01" id="0"/><体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 5D <rel type="ガ" target="製法" sid="wiki00036305-00-01" id="5"/><rel type="ニ" target="日本" sid="wiki00036305-00-01" id="2"/><用言:形><時制:非過去>
-固有の こゆうの 固有だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL <基本句-主辞>
++ 3D <rel type="=" target="日本" sid="wiki00036305-00-01" id="0"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 5D <rel type="ガ" target="製法" sid="wiki00036305-00-01" id="5"/><rel type="ニ" target="日本" sid="wiki00036305-00-01" id="2"/>
+固有の こゆうの 固有だ 形容詞 3 * 0 ナノ形容詞 22 ダ列特殊連体形 4 NIL
 * 3D
-+ 5D <体言>
-鍛冶 かじ 鍛冶 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ？" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="修飾" target="固有の" sid="wiki00036305-00-01" id="3"/><rel type="修飾" mode="AND" target="鍛冶" sid="wiki00036305-00-01" id="4"/><体言>
-製法 せいほう 製法 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D
+鍛冶 かじ 鍛冶 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="修飾" target="固有の" sid="wiki00036305-00-01" id="3"/><rel type="修飾" mode="AND" target="鍛冶" sid="wiki00036305-00-01" id="4"/>
+製法 せいほう 製法 名詞 6 普通名詞 1 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 7D <用言:動>
-よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL <基本句-主辞>
++ 7D
+よって よって よる 動詞 2 * 0 子音動詞ラ行 10 タ系連用テ形 14 NIL
 * 5D
-+ 8D <rel type="ガ" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="ニ" target="不特定:人"/><rel type="ニヨッテ" target="製法" sid="wiki00036305-00-01" id="5"/><用言:動><時制:過去>
-作ら つくら 作る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="ニ" target="不特定:人"/><rel type="ニヨッテ" target="製法" sid="wiki00036305-00-01" id="5"/>
+作ら つくら 作る 動詞 2 * 0 子音動詞ラ行 10 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 9D <rel type="=" target="刀" sid="wiki00036305-00-01" id="1"/><体言>
-刀類 かたなるい 刀類 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="刀" sid="wiki00036305-00-01" id="1"/>
+刀類 かたなるい 刀類 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="刀" sid="wiki00036305-00-01" id="1"/><rel type="ノ" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="=構" target="刀" sid="wiki00036305-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="刀" sid="wiki00036305-00-01" id="1"/><rel type="ノ" target="刀類" sid="wiki00036305-00-01" id="8"/><rel type="=構" target="刀" sid="wiki00036305-00-01" id="1"/>
+総称 そうしょう 総称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00036305-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/09 MEMO:
 * -1D
-+ 1D <rel type="=" target="日本" sid="wiki00036305-00-01" id="0"/><NE:OPTIONAL:にほん><NE-OPTIONAL:LOCATION,NONE:1><体言>
-にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ -1D <rel type="=" target="刀" sid="wiki00036305-00-01" id="1"/><体言>
-とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="=" target="日本" sid="wiki00036305-00-01" id="0"/><NE:OPTIONAL:にほん><NE-OPTIONAL:LOCATION,NONE:1>
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ -1D <rel type="=" target="刀" sid="wiki00036305-00-01" id="1"/>
+とう とう とう 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS

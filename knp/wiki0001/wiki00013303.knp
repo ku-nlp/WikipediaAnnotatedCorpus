@@ -1,86 +1,86 @@
 # S-ID:wiki00013303-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/11/28 MEMO:
 * 6D
-+ 1D <体言>
-紀州 きしゅう 紀州 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 11D <体言><NE:OPTIONAL:紀州藩><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+紀州 きしゅう 紀州 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 11D <NE:OPTIONAL:紀州藩><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 3D <体言>
-江戸 えど 江戸 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 10D <体言><NE:DATE:江戸時代>
-時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
++ 3D
+江戸 えど 江戸 名詞 6 地名 4 * 0 * 0 NIL <NE:DATE:head>
++ 10D <NE:DATE:江戸時代>
+時代 じだい 時代 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 5D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/><体言>
-紀伊 きいの 紀伊 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 6D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/><体言><NE:LOCATION:紀伊国>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
-+ 9P <rel type="ノ" target="国" sid="wiki00013303-00-01" id="5"/><rel type="トイウ" target="国" sid="wiki00013303-00-01" id="5"/><体言>
-一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/>
+紀伊 きいの 紀伊 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 6D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/><NE:LOCATION:紀伊国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
++ 9P <rel type="ノ" target="国" sid="wiki00013303-00-01" id="5"/><rel type="トイウ" target="国" sid="wiki00013303-00-01" id="5"/>
+一 いっ 一 名詞 6 数詞 7 * 0 * 0 NIL
+国 こく 国 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 8D <体言>
-伊勢 いせの 伊勢 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 9D <体言><NE:LOCATION:伊勢国>
-国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 8D
+伊勢 いせの 伊勢 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 9D <NE:LOCATION:伊勢国>
+国 くに 国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 10D <rel type="ノ" target="国" sid="wiki00013303-00-01" id="8"/><体言>
-南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="国" sid="wiki00013303-00-01" id="8"/>
+南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 11D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="11"/><rel type="ヲ" target="南部" sid="wiki00013303-00-01" id="9"/><rel type="ヲ" mode="AND" target="一国" sid="wiki00013303-00-01" id="6"/><rel type="時間" target="時代" sid="wiki00013303-00-01" id="3"/><用言:動><時制:過去><節-主辞>
-治めた おさめた 治める 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
++ 11D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="11"/><rel type="ヲ" target="南部" sid="wiki00013303-00-01" id="9"/><rel type="ヲ" mode="AND" target="一国" sid="wiki00013303-00-01" id="6"/><rel type="時間" target="時代" sid="wiki00013303-00-01" id="3"/>
+治めた おさめた 治める 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="=構" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="修飾" target="治めた" sid="wiki00013303-00-01" id="10"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="=構" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="修飾" target="治めた" sid="wiki00013303-00-01" id="10"/><memo text="CO"/>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013303-00-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/28 MEMO:
 * -1D
-+ 1D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/><体言>
-きしゅう きしゅう きしゅう 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00013303-00-01" id="1"/><体言><NE:OPTIONAL:きしゅうはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="紀州" sid="wiki00013303-00-01" id="0"/>
+きしゅう きしゅう きしゅう 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="藩" sid="wiki00013303-00-01" id="1"/><NE:OPTIONAL:きしゅうはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00013303-00-03 括弧始:（ 括弧終:） 括弧位置:30 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/28 MEMO:
 * 2D
-+ 3D <体言>
-現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞>
++ 3D
+現在 げんざい 現在 名詞 6 時相名詞 10 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2P
-+ 3P <rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="一国" sid="wiki00013303-00-01" id="6"/><体言><NE:LOCATION:和歌山県>
-和歌山 わかやま 和歌山 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3P <rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="一国" sid="wiki00013303-00-01" id="6"/><NE:LOCATION:和歌山県>
+和歌山 わかやま 和歌山 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ 3D <rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="国" sid="wiki00013303-00-01" id="8"/><体言><NE:LOCATION:三重県>
-三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="国" sid="wiki00013303-00-01" id="8"/><NE:LOCATION:三重県>
+三重 みえ 三重 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
-+ -1D <rel type="ノ" target="三重県" sid="wiki00013303-00-03" id="2"/><rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="南部" sid="wiki00013303-00-01" id="9"/><体言>
-南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ノ" target="三重県" sid="wiki00013303-00-03" id="2"/><rel type="時間" target="現在" sid="wiki00013303-00-03" id="0"/><rel type="=≒" target="南部" sid="wiki00013303-00-01" id="9"/>
+南部 なんぶ 南部 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013303-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/11/28 MEMO:
 * 1D
-+ 1D <rel type="=" target="紀伊" sid="wiki00013303-00-01" id="4"/><体言>
-紀伊 きい 紀伊 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <rel type="=構" target="藩" sid="wiki00013303-00-01" id="1"/><体言><NE:OPTIONAL:紀伊藩><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
-藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="紀伊" sid="wiki00013303-00-01" id="4"/>
+紀伊 きい 紀伊 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="=構" target="藩" sid="wiki00013303-00-01" id="1"/><NE:OPTIONAL:紀伊藩><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+藩 はん 藩 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="藩" sid="wiki00013303-01-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
-呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="藩" sid="wiki00013303-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="藩" sid="wiki00013303-01-01" id="1"/>
+呼ば よば 呼ぶ 動詞 2 * 0 子音動詞バ行 8 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00013303-01-02 括弧始:（ 括弧終:） 括弧位置:3 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/28 MEMO:
 * -1D
-+ 1D <rel type="=" target="紀伊" sid="wiki00013303-01-01" id="0"/><体言>
-きい きい きい 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="藩" sid="wiki00013303-01-01" id="1"/><NE:OPTIONAL:きいはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0><体言>
-はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="紀伊" sid="wiki00013303-01-01" id="0"/>
+きい きい きい 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="藩" sid="wiki00013303-01-01" id="1"/><NE:OPTIONAL:きいはん><NE-OPTIONAL:ORGANIZATION,LOCATION,NONE:0>
+はん はん はん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

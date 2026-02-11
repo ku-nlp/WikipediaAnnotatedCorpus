@@ -1,174 +1,174 @@
 # S-ID:wiki00042180-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2024/04/19 MEMO:
 * 5D
-+ 1D <体言>
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 3D <体言>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3D <体言>
-サン さん サン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 16D <体言><NE:ORGANIZATION:株式会社サンテレビジョン>
-テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3D
+サン さん サン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 16D <NE:ORGANIZATION:株式会社サンテレビジョン>
+テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 8D <体言><NE:LOCATION:兵庫県>
-兵庫 ひょうご 兵庫 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 8D <NE:LOCATION:兵庫県>
+兵庫 ひょうご 兵庫 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ノ" target="放送" sid="wiki00042180-00" id="5"/><体言>
-対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="=構" target="兵庫県" sid="wiki00042180-00" id="4"/><rel type="ノ？" target="対象" sid="wiki00042180-00" id="6"/><体言>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ノ" target="放送" sid="wiki00042180-00" id="5"/>
+対象 たいしょう 対象 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="=構" target="兵庫県" sid="wiki00042180-00" id="4"/><rel type="ノ？" target="対象" sid="wiki00042180-00" id="6"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 10D <rel type="ヲ" target="兵庫県" sid="wiki00042180-00" id="4"/><rel type="ガ" target="放送" sid="wiki00042180-00" id="10"/><rel type="ト" target="地域" sid="wiki00042180-00" id="7"/><用言:動><節-主辞><時制:非過去>
-した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL <基本句-主辞>
++ 10D <rel type="ヲ" target="兵庫県" sid="wiki00042180-00" id="4"/><rel type="ガ" target="放送" sid="wiki00042180-00" id="10"/><rel type="ト" target="地域" sid="wiki00042180-00" id="7"/>
+した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 5D
-+ 10D <体言>
-テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 16D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="テレビジョン" sid="wiki00042180-00" id="9"/><rel type="=≒" target="放送" sid="wiki00042180-00" id="5"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 10D
+テレビジョン てれびじょん テレビジョン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 16D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="テレビジョン" sid="wiki00042180-00" id="9"/><rel type="=≒" target="放送" sid="wiki00042180-00" id="5"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 16D <体言>
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言>
-地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 14D <体言>
-基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 15D <rel type="修飾" target="地上" sid="wiki00042180-00" id="12"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00042180-00" id="13"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="放送" sid="wiki00042180-00" id="10"/><rel type="ヲ" target="不特定:物"/><体言><非用言格解析:動>
-放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 16D <rel type="ノ？" target="放送" sid="wiki00042180-00" id="14"/><体言>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="ノ？" target="事業" sid="wiki00042180-00" id="15"/><rel type="修飾" target="放送" sid="wiki00042180-00" id="10"/><rel type="修飾" mode="AND" target="特定" sid="wiki00042180-00" id="11"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 16D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 14D
+地上 ちじょう 地上 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 14D
+基幹 きかん 基幹 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 15D <rel type="修飾" target="地上" sid="wiki00042180-00" id="12"/><rel type="修飾" mode="AND" target="基幹" sid="wiki00042180-00" id="13"/><rel type="ガ" target="不特定:人"/><rel type="=≒" target="放送" sid="wiki00042180-00" id="10"/><rel type="ヲ" target="不特定:物"/>
+放送 ほうそう 放送 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 16D <rel type="ノ？" target="放送" sid="wiki00042180-00" id="14"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="ノ？" target="事業" sid="wiki00042180-00" id="15"/><rel type="修飾" target="放送" sid="wiki00042180-00" id="10"/><rel type="修飾" mode="AND" target="特定" sid="wiki00042180-00" id="11"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042180-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:20.00000 MOD:2024/03/04 MEMO:
 * 1D
-+ 3D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><体言>
-通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/>
+通称 つうしょう 通称 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 6P
-+ 3P <rel type="=" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00042180-01-01" id="0"/><NE:ORGANIZATION:サンテレビ><体言>
-サンテレビ さんてれび サンテレビ 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 3P <rel type="=" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00042180-01-01" id="0"/><NE:ORGANIZATION:サンテレビ>
+サンテレビ さんてれび サンテレビ 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 3D <体言>
-SUN さん SUN 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 3D
+SUN さん SUN 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 - - - 特殊 1 記号 5 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 8P <rel type="=" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00042180-01-01" id="0"/><rel type="ガ" target="通称" sid="wiki00042180-01-01" id="0"/><memo text="CO"/><体言><NE:ORGANIZATION:SUN-TV>
-TV てれび TV 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 8P <rel type="=" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="=構" mode="AND" target="通称" sid="wiki00042180-01-01" id="0"/><rel type="ガ" target="通称" sid="wiki00042180-01-01" id="0"/><memo text="CO"/><NE:ORGANIZATION:SUN-TV>
+TV てれび TV 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="ト" target="SUN" sid="wiki00042180-01-01" id="8"/><rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><体言><非用言格解析:動>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="ト" target="SUN" sid="wiki00042180-01-01" id="8"/><rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="=" target="サンテレビ" sid="wiki00042180-01-01" id="1"/><体言>
-それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="=" target="サンテレビ" sid="wiki00042180-01-01" id="1"/>
+それ それ それ 指示詞 7 名詞形態指示詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
 + 7D
-さらに さらに さらに 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
+さらに さらに さらに 副詞 8 * 0 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ヲ" target="それ" sid="wiki00042180-01-01" id="5"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="SUN" sid="wiki00042180-01-01" id="8"/><用言:動><時制:過去><節-主辞>
-短く みじかく 短い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL <基本句-主辞>
++ 8D <rel type="ヲ" target="それ" sid="wiki00042180-01-01" id="5"/><rel type="ガ" target="不特定:人"/><rel type="ト" target="SUN" sid="wiki00042180-01-01" id="8"/>
+短く みじかく 短い 形容詞 3 * 0 イ形容詞アウオ段 18 基本連用形 7 NIL
 した した する 接尾辞 14 動詞性接尾辞 7 サ変動詞 16 タ形 10 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00042180-01-01" id="4"/><rel type="=" target="略称" sid="wiki00042180-01-01" id="4"/><rel type="=" mode="AND" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="短くした" sid="wiki00042180-01-01" id="7"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:SUN>
-SUN さん SUN 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00042180-01-01" id="4"/><rel type="=" target="略称" sid="wiki00042180-01-01" id="4"/><rel type="=" mode="AND" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="短くした" sid="wiki00042180-01-01" id="7"/><memo text="CO"/><NE:ORGANIZATION:SUN>
+SUN さん SUN 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042180-01-02 括弧始:（ 括弧終:） 括弧位置:32 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/04 MEMO:
 * -1D
-+ -1D <rel type="=" target="SUN" sid="wiki00042180-01-01" id="8"/><NE:ORGANIZATION:サン><体言>
-サン さん サン 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ -1D <rel type="=" target="SUN" sid="wiki00042180-01-01" id="8"/><NE:ORGANIZATION:サン>
+サン さん サン 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS
 # S-ID:wiki00042180-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:100.00000 MOD:2024/04/19 MEMO:
 * 1D
-+ 1D <rel type="ガ" target="不特定:人"/><体言><非用言格解析:動>
-コール こーる コール 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="コール" sid="wiki00042180-02-01" id="0"/><体言>
-サイン さいん サイン 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 1D <rel type="ガ" target="不特定:人"/>
+コール こーる コール 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 3D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="コール" sid="wiki00042180-02-01" id="0"/>
+サイン さいん サイン 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 5P
-+ 3D <体言>
-JOUH JOUH JOUH 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 3D
+JOUH JOUH JOUH 特殊 1 記号 5 * 0 * 0 NIL
 - - - 特殊 1 記号 5 * 0 * 0 NIL
-+ 9P <rel type="=構" target="サイン" sid="wiki00042180-02-01" id="1"/><rel type="ガ" target="サイン" sid="wiki00042180-02-01" id="1"/><memo text="CO"/><体言><用言:判><節-主辞><節-区切>
-DTV DTV DTV 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 9P <rel type="=構" target="サイン" sid="wiki00042180-02-01" id="1"/><rel type="ガ" target="サイン" sid="wiki00042180-02-01" id="1"/><memo text="CO"/>
+DTV DTV DTV 特殊 1 記号 5 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 5D
-+ 5D <体言>
-リモコン りもこん リモコン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="修飾" target="リモコン" sid="wiki00042180-02-01" id="4"/><体言>
-キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ノ" target="キー" sid="wiki00042180-02-01" id="5"/><rel type="ノ" mode="AND" target="テレビジョン" sid="wiki00042180-00" id="3"/><体言>
-ID ID ID 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D
+リモコン りもこん リモコン 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="修飾" target="リモコン" sid="wiki00042180-02-01" id="4"/>
+キー きー キー 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ノ" target="キー" sid="wiki00042180-02-01" id="5"/><rel type="ノ" mode="AND" target="テレビジョン" sid="wiki00042180-00" id="3"/>
+ID ID ID 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4D
-+ 8D <rel type="トイウ" target="テレビジョン" sid="wiki00042180-00" id="3"/><体言>
-局名 きょくめい 局名 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="トイウ" target="テレビジョン" sid="wiki00042180-00" id="3"/>
+局名 きょくめい 局名 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 9D <rel type="ガ" target="3" sid="wiki00042180-02-01" id="9"/><rel type="ト" target="局名" sid="wiki00042180-02-01" id="7"/><用言:形><時制:非過去>
-同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="3" sid="wiki00042180-02-01" id="9"/><rel type="ト" target="局名" sid="wiki00042180-02-01" id="7"/>
+同じ おなじ 同じだ 形容詞 3 * 0 ナ形容詞特殊 23 ダ列特殊連体形 4 NIL
 * -1D
-+ -1D <rel type="ガ" target="ID" sid="wiki00042180-02-01" id="6"/><rel type="=構" target="ID" sid="wiki00042180-02-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="ID" sid="wiki00042180-02-01" id="6"/><rel type="=構" target="ID" sid="wiki00042180-02-01" id="6"/><memo text="CO"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
+3 さん 3 名詞 6 数詞 7 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042180-02-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/04 MEMO:
 * 1D
-+ 1D <rel type="ノ？" target="兵庫県" sid="wiki00042180-00" id="4"/><体言><NE:LOCATION:神戸>
-神戸 こうべ 神戸 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 1D <rel type="ノ？" target="兵庫県" sid="wiki00042180-00" id="4"/><NE:LOCATION:神戸>
+神戸 こうべ 神戸 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="=" target="DTV" sid="wiki00042180-02-01" id="3"/><体言>
-26 26 26 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-ch ちゃんねる ch 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="=" target="DTV" sid="wiki00042180-02-01" id="3"/>
+26 26 26 名詞 6 数詞 7 * 0 * 0 NIL
+ch ちゃんねる ch 名詞 6 普通名詞 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042180-03-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/04 MEMO:
 * 3D
-+ 1D <体言>
-ステーション すてーしょん ステーション 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="ステーション" sid="wiki00042180-03-01" id="0"/><体言>
-キャッチフレーズ きゃっちふれーず キャッチフレーズ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D
+ステーション すてーしょん ステーション 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ノ" target="テレビジョン" sid="wiki00042180-00" id="3"/><rel type="修飾" target="ステーション" sid="wiki00042180-03-01" id="0"/>
+キャッチフレーズ きゃっちふれーず キャッチフレーズ 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 3D
 + 4D
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-いつも いつも いつも 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
+いつも いつも いつも 副詞 8 * 0 * 0 * 0 NIL
 * 3D
-+ 4D <体言>
-あなた あなた あなた 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D
+あなた あなた あなた 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 5D <rel type="ノ" target="あなた" sid="wiki00042180-03-01" id="3"/><体言>
++ 5D <rel type="ノ" target="あなた" sid="wiki00042180-03-01" id="3"/>
 お お お 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
-隣 となり 隣 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="キャッチフレーズ" sid="wiki00042180-03-01" id="1"/><rel type="=構" target="キャッチフレーズ" sid="wiki00042180-03-01" id="1"/><memo text="かけことば　お隣さん"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-サン さん サン 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞>
+隣 となり 隣 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="キャッチフレーズ" sid="wiki00042180-03-01" id="1"/><rel type="=構" target="キャッチフレーズ" sid="wiki00042180-03-01" id="1"/><memo text="かけことば　お隣さん"/>
+サン さん サン 名詞 6 組織名 6 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00042180-03-02 括弧始:（ 括弧終:） 括弧位置:28 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2023/10/05 MEMO:
 * -1D
-+ 1D <体言>
-2021 にせんにじゅういち 2021 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 1D
+2021 にせんにじゅういち 2021 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ 2D <体言>
-5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 2D
+5 ご 5 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 月 がつ 月 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:middle>
-+ -1D <体言><NE:DATE:2021年5月31日>
-31 さんじゅういち 31 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ -1D <NE:DATE:2021年5月31日>
+31 さんじゅういち 31 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 日 にち 日 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-- から - 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
+- から - 特殊 1 記号 5 * 0 * 0 NIL
 EOS

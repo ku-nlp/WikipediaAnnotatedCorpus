@@ -1,96 +1,96 @@
 # S-ID:wiki00034156-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:69.00000 MOD:2025/05/02 MEMO:
 * 3D
-+ 1D <体言>
-都営 とえい 都営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 5D <rel type="修飾" target="都営" sid="wiki00034156-00-01" id="0"/><体言><NE:OPTIONAL:都営バス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+都営 とえい 都営 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 5D <rel type="修飾" target="都営" sid="wiki00034156-00-01" id="0"/><NE:OPTIONAL:都営バス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:LOCATION:東京都>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <NE:LOCATION:東京都>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="ガ" target="東京都" sid="wiki00034156-00-01" id="2"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="5"/><rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/><用言:動><時制:非過去><節-主辞>
-経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="ガ" target="東京都" sid="wiki00034156-00-01" id="2"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="5"/><rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/>
+経営 けいえい 経営 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 5D <体言>
-公営 こうえい 公営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="修飾" target="公営" sid="wiki00034156-00-01" id="4"/><rel type="=構" target="バス" sid="wiki00034156-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D
+公営 こうえい 公営 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="修飾" target="公営" sid="wiki00034156-00-01" id="4"/><rel type="=構" target="バス" sid="wiki00034156-00-01" id="1"/><memo text="CO"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00034156-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/07/27 MEMO:
 * -1D
-+ 1D <rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/><体言>
-とえい とえい とえい 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="バス" sid="wiki00034156-00-01" id="1"/><体言><NE:OPTIONAL:とえいバス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/>
+とえい とえい とえい 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="バス" sid="wiki00034156-00-01" id="1"/><NE:OPTIONAL:とえいバス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00034156-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/02 MEMO:
 * 1D
-+ 2D <rel type="ノ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="ト" target="バス" sid="wiki00034156-01-01" id="2"/><体言><非用言格解析:動>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="1"/><rel type="ト" target="バス" sid="wiki00034156-01-01" id="2"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="東京都" sid="wiki00034156-00-01" id="2"/><体言>
-都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="ガ" target="略称" sid="wiki00034156-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00034156-01-01" id="0"/><rel type="=" mode="AND" target="バス" sid="wiki00034156-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:都バス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="東京都" sid="wiki00034156-00-01" id="2"/>
+都 と 都 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="ガ" target="略称" sid="wiki00034156-01-01" id="0"/><rel type="=構" target="略称" sid="wiki00034156-01-01" id="0"/><rel type="=" mode="AND" target="バス" sid="wiki00034156-00-01" id="1"/><memo text="CO"/><NE:OPTIONAL:都バス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00034156-01-02 括弧始:（ 括弧終:） 括弧位置:7 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/07/27 MEMO:
 * -1D
-+ 1D <rel type="=" target="都" sid="wiki00034156-01-01" id="1"/><体言>
-と と と 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="バス" sid="wiki00034156-01-01" id="2"/><体言><NE:OPTIONAL:とバス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="都" sid="wiki00034156-01-01" id="1"/>
+と と と 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="バス" sid="wiki00034156-01-01" id="2"/><NE:OPTIONAL:とバス><NE-OPTIONAL:ORGANIZATION,ARTIFACT:0>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00034156-02-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:40.00000 MOD:2025/05/02 MEMO:
 * 1D
-+ 2D <体言>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 2D <体言>
-公営 こうえい 公営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="局" sid="wiki00034156-02-01" id="5"/><rel type="修飾" target="地方" sid="wiki00034156-02-01" id="0"/><rel type="修飾" mode="AND" target="公営" sid="wiki00034156-02-01" id="1"/><用言:判><体言><時制:非過去>
-企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 2D
+公営 こうえい 公営 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="局" sid="wiki00034156-02-01" id="5"/><rel type="修飾" target="地方" sid="wiki00034156-02-01" id="0"/><rel type="修飾" mode="AND" target="公営" sid="wiki00034156-02-01" id="1"/>
+企業 きぎょう 企業 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 4D
-+ 5D <rel type="=" target="東京都" sid="wiki00034156-00-01" id="2"/><体言>
-東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 5D <rel type="=" target="東京都" sid="wiki00034156-00-01" id="2"/>
+東京 とうきょう 東京 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 都 と 都 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <体言><非用言格解析:動>
-交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 9D <rel type="=構" target="企業" sid="wiki00034156-02-01" id="2"/><rel type="ノ" target="東京都" sid="wiki00034156-02-01" id="3"/><rel type="ノ？" target="交通" sid="wiki00034156-02-01" id="4"/><体言><NE:ORGANIZATION:東京都交通局>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 5D
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 9D <rel type="=構" target="企業" sid="wiki00034156-02-01" id="2"/><rel type="ノ" target="東京都" sid="wiki00034156-02-01" id="3"/><rel type="ノ？" target="交通" sid="wiki00034156-02-01" id="4"/><NE:ORGANIZATION:東京都交通局>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 7D <rel type="=" target="バス" sid="wiki00034156-00-01" id="1"/><体言>
-バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="=" target="バス" sid="wiki00034156-00-01" id="1"/>
+バス ばす バス 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ガ" target="部" sid="wiki00034156-02-01" id="9"/><rel type="ヲ" target="バス" sid="wiki00034156-02-01" id="6"/><用言:動><時制:非過去><節-主辞>
-担当 たんとう 担当 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="部" sid="wiki00034156-02-01" id="9"/><rel type="ヲ" target="バス" sid="wiki00034156-02-01" id="6"/>
+担当 たんとう 担当 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 5D
-+ 9D <rel type="=≒" target="バス" sid="wiki00034156-02-01" id="6"/><体言>
-自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ？" target="自動車" sid="wiki00034156-02-01" id="8"/><rel type="ノ" target="局" sid="wiki00034156-02-01" id="5"/><体言>
-部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=≒" target="バス" sid="wiki00034156-02-01" id="6"/>
+自動車 じどうしゃ 自動車 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ？" target="自動車" sid="wiki00034156-02-01" id="8"/><rel type="ノ" target="局" sid="wiki00034156-02-01" id="5"/>
+部 ぶ 部 名詞 6 普通名詞 1 * 0 * 0 NIL
 が が が 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="部" sid="wiki00034156-02-01" id="9"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="1"/><用言:動><時制:非過去><節-主辞><節-区切>
-運行 うんこう 運行 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="部" sid="wiki00034156-02-01" id="9"/><rel type="ヲ" target="バス" sid="wiki00034156-00-01" id="1"/>
+運行 うんこう 運行 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00034156-02-02 括弧始:（ 括弧終:） 括弧位置:15 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/02 MEMO:
 * -1D
-+ 1D <rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/><体言>
-都営 とえい 都営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <rel type="=" target="局" sid="wiki00034156-02-01" id="5"/><体言><NE:ORGANIZATION:都営交通>
-交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="都営" sid="wiki00034156-00-01" id="0"/>
+都営 とえい 都営 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="局" sid="wiki00034156-02-01" id="5"/><NE:ORGANIZATION:都営交通>
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS

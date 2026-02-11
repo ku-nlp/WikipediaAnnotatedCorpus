@@ -1,125 +1,125 @@
 # S-ID:wiki00043465-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:59.00000 MOD:2024/03/11 MEMO:
 * 4D
-+ 2D <体言>
-極東 きょくとう 極東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <体言>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 10D <rel type="ノ" target="連邦" sid="wiki00043465-00-01" id="1"/><rel type="修飾" target="極東" sid="wiki00043465-00-01" id="0"/><memo text="NE LOCATIIONでいいと思うが、基準では「地方」を含めないので、こうしておく"/><体言><NE:OPTIONAL:極東連邦管区><NE-OPTIONAL:LOCATION,NONE:0>
-管区 かんく 管区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D
+極東 きょくとう 極東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 10D <rel type="ノ" target="連邦" sid="wiki00043465-00-01" id="1"/><rel type="修飾" target="極東" sid="wiki00043465-00-01" id="0"/><memo text="NE LOCATIIONでいいと思うが、基準では「地方」を含めないので、こうしておく"/><NE:OPTIONAL:極東連邦管区><NE-OPTIONAL:LOCATION,NONE:0>
+管区 かんく 管区 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言>
-ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 7D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/><体言><NE:LOCATION:ロシア連邦>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 4D
+ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 7D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/><NE:LOCATION:ロシア連邦>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 6D <体言>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ガ" target="連邦" sid="wiki00043465-00-01" id="4"/><rel type="ヲ" target="地域" sid="wiki00043465-00-01" id="5"/><体言><非用言格解析:動>
-管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="9"/><rel type="修飾" target="管轄" sid="wiki00043465-00-01" id="6"/><rel type="ノ？" target="地域" sid="wiki00043465-00-01" id="5"/><rel type="ノ？" mode="AND" target="連邦" sid="wiki00043465-00-01" id="4"/><用言:判><体言><時制:非過去>
-区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 7D <rel type="ガ" target="連邦" sid="wiki00043465-00-01" id="4"/><rel type="ヲ" target="地域" sid="wiki00043465-00-01" id="5"/>
+管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 9D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="9"/><rel type="修飾" target="管轄" sid="wiki00043465-00-01" id="6"/><rel type="ノ？" target="地域" sid="wiki00043465-00-01" id="5"/><rel type="ノ？" mode="AND" target="連邦" sid="wiki00043465-00-01" id="4"/>
+区分 くぶん 区分 名詞 6 サ変名詞 2 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 4D
-+ 9D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/><体言>
-連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="=構" target="区分" sid="wiki00043465-00-01" id="7"/><rel type="=≒" mode="AND" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ" target="連邦" sid="wiki00043465-00-01" id="8"/><体言>
-管区 かんく 管区 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/>
+連邦 れんぽう 連邦 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="=構" target="区分" sid="wiki00043465-00-01" id="7"/><rel type="=≒" mode="AND" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ" target="連邦" sid="wiki00043465-00-01" id="8"/>
+管区 かんく 管区 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ" target="管区" sid="wiki00043465-00-01" id="9"/><rel type="=構" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="=構" mode="AND" target="管区" sid="wiki00043465-00-01" id="9"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ" target="管区" sid="wiki00043465-00-01" id="9"/><rel type="=構" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="=構" mode="AND" target="管区" sid="wiki00043465-00-01" id="9"/><memo text="CO"/>
 一 ひと 一 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00043465-00-02 括弧始:（ 括弧終:） 括弧位置:6 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/03/11 MEMO:
 * 1P
-+ 2D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/><体言>
-きょくとう きょくとう きょくとう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/><体言>
-れんぽう れんぽう れんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 6P <rel type="=" target="管区" sid="wiki00043465-00-01" id="2"/><体言><NE:OPTIONAL:きょくとうれんぽうかんく><NE-OPTIONAL:LOCATION,NONE:0>
-かんく かんく かんく 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/>
+きょくとう きょくとう きょくとう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/>
+れんぽう れんぽう れんぽう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 6P <rel type="=" target="管区" sid="wiki00043465-00-01" id="2"/><NE:OPTIONAL:きょくとうれんぽうかんく><NE-OPTIONAL:LOCATION,NONE:0>
+かんく かんく かんく 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 4D <体言>
-; ; ; 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 4D
+; ; ; 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 5D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/><体言>
-Dal'nevostochnyj Dal'nevostochnyj Dal'nevostochnyj 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 5D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/>
+Dal'nevostochnyj Dal'nevostochnyj Dal'nevostochnyj 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 6D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/><体言>
-federal'nyj federal'nyj federal'nyj 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
++ 6D <rel type="=" target="連邦" sid="wiki00043465-00-01" id="1"/>
+federal'nyj federal'nyj federal'nyj 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ -1D <rel type="=" target="管区" sid="wiki00043465-00-01" id="2"/><体言><NE:OPTIONAL:Dal'nevostochnyj　federal'nyj　okrug><NE-OPTIONAL:LOCATION,NONE:0>
-okrug okrug okrug 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ -1D <rel type="=" target="管区" sid="wiki00043465-00-01" id="2"/><NE:OPTIONAL:Dal'nevostochnyj　federal'nyj　okrug><NE-OPTIONAL:LOCATION,NONE:0>
+okrug okrug okrug 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00043465-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2024/03/11 MEMO:
 * 1D
-+ 2D <rel type="=" target="ロシア" sid="wiki00043465-00-01" id="3"/><rel type="=" mode="AND" target="連邦" sid="wiki00043465-00-01" id="4"/><体言><NE:LOCATION:ロシア>
-ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 2D <rel type="=" target="ロシア" sid="wiki00043465-00-01" id="3"/><rel type="=" mode="AND" target="連邦" sid="wiki00043465-00-01" id="4"/><NE:LOCATION:ロシア>
+ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/><rel type="ノ" target="ロシア" sid="wiki00043465-01" id="0"/><体言>
-極東 きょくとう 極東 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 3D <rel type="ノ？" target="ロシア" sid="wiki00043465-01" id="0"/><rel type="ノ？" mode="AND" target="極東" sid="wiki00043465-01" id="1"/><体言><NE:OPTIONAL:極東区域><NE-OPTIONAL:LOCATION,NONE:0>
-区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="極東" sid="wiki00043465-00-01" id="0"/><rel type="ノ" target="ロシア" sid="wiki00043465-01" id="0"/>
+極東 きょくとう 極東 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 3D <rel type="ノ？" target="ロシア" sid="wiki00043465-01" id="0"/><rel type="ノ？" mode="AND" target="極東" sid="wiki00043465-01" id="1"/><NE:OPTIONAL:極東区域><NE-OPTIONAL:LOCATION,NONE:0>
+区域 くいき 区域 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ヲ" target="区域" sid="wiki00043465-01" id="2"/><rel type="=" target="管轄" sid="wiki00043465-00-01" id="6"/><用言:動><時制:非過去><節-主辞><節-区切>
-管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ヲ" target="区域" sid="wiki00043465-01" id="2"/><rel type="=" target="管轄" sid="wiki00043465-00-01" id="6"/>
+管轄 かんかつ 管轄 名詞 6 サ変名詞 2 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00043465-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/11 MEMO:
 * 2D
-+ 1D <体言>
-行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ？" target="行政" sid="wiki00043465-02" id="0"/><体言>
-府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="ノ" target="府" sid="wiki00043465-02" id="1"/><体言>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 6D <rel type="ノ？" target="所在" sid="wiki00043465-02" id="2"/><rel type="ノ" target="府" sid="wiki00043465-02" id="1"/><体言>
-地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D
+行政 ぎょうせい 行政 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="ノ？" target="行政" sid="wiki00043465-02" id="0"/>
+府 ふ 府 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 3D <rel type="ノ" target="府" sid="wiki00043465-02" id="1"/>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 6D <rel type="ノ？" target="所在" sid="wiki00043465-02" id="2"/><rel type="ノ" target="府" sid="wiki00043465-02" id="1"/>
+地 ち 地 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2D
-+ 5D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/><体言>
-沿海 えんかい 沿海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 6D <rel type="ノ？" target="沿海" sid="wiki00043465-02" id="4"/><rel type="ノ？" mode="AND" target="管区" sid="wiki00043465-00-01" id="2"/><体言><NE:OPTIONAL:沿海地方><NE-OPTIONAL:LOCATION,NONE:0>
-地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 5D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/>
+沿海 えんかい 沿海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 6D <rel type="ノ？" target="沿海" sid="wiki00043465-02" id="4"/><rel type="ノ？" mode="AND" target="管区" sid="wiki00043465-00-01" id="2"/><NE:OPTIONAL:沿海地方><NE-OPTIONAL:LOCATION,NONE:0>
+地方 ちほう 地方 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="地" sid="wiki00043465-02" id="3"/><rel type="=構" target="地" sid="wiki00043465-02" id="3"/><rel type="ノ？" target="地方" sid="wiki00043465-02" id="5"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:LOCATION:ウラジオストク>
-ウラジオストク うらじおすとく ウラジオストク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ -1D <rel type="ガ" target="地" sid="wiki00043465-02" id="3"/><rel type="=構" target="地" sid="wiki00043465-02" id="3"/><rel type="ノ？" target="地方" sid="wiki00043465-02" id="5"/><memo text="CO"/><NE:LOCATION:ウラジオストク>
+ウラジオストク うらじおすとく ウラジオストク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00043465-03 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/11 MEMO:
 * 1D
-+ 1D <体言><NE:DATE:2016年>
-2016 にせんじゅうろく 2016 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 1D <NE:DATE:2016年>
+2016 にせんじゅうろく 2016 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 2D
-+ 2D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="時間" target="2016年" sid="wiki00043465-03" id="0"/><体言>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ノ" target="管区" sid="wiki00043465-00-01" id="2"/><rel type="時間" target="2016年" sid="wiki00043465-03" id="0"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 4P
-+ 4P <rel type="ガ" target="人口" sid="wiki00043465-03" id="1"/><rel type="=構" target="人口" sid="wiki00043465-03" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-619万4969 ろっぴゃくじゅうきゅうまんよんせんきゅうひゃくろくじゅうきゅう/ろっぴゃくじゅうきゅうまんよんせんきゅうひゃくろくじゅうく 619万4969 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 4P <rel type="ガ" target="人口" sid="wiki00043465-03" id="1"/><rel type="=構" target="人口" sid="wiki00043465-03" id="1"/>
+619万4969 ろっぴゃくじゅうきゅうまんよんせんきゅうひゃくろくじゅうきゅう/ろっぴゃくじゅうきゅうまんよんせんきゅうひゃくろくじゅうく 619万4969 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 4D <rel type="=" target="ロシア" sid="wiki00043465-01" id="0"/><体言><NE:LOCATION:ロシア>
-ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 4D <rel type="=" target="ロシア" sid="wiki00043465-01" id="0"/><NE:LOCATION:ロシア>
+ロシア ろしあ ロシア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 全体 ぜんたい 全体 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ノ" target="ロシア全体" sid="wiki00043465-03" id="3"/><rel type="ガ" target="619万4969人" sid="wiki00043465-03" id="2"/><rel type="=構" target="619万4969人" sid="wiki00043465-03" id="2"/><memo text="NO: ノ格: 人口"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-4.23 よんてんにーさん 4.23 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
-% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ノ" target="ロシア全体" sid="wiki00043465-03" id="3"/><rel type="ガ" target="619万4969人" sid="wiki00043465-03" id="2"/><rel type="=構" target="619万4969人" sid="wiki00043465-03" id="2"/><memo text="NO: ノ格: 人口"/>
+4.23 よんてんにーさん 4.23 名詞 6 数詞 7 * 0 * 0 NIL
+% ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

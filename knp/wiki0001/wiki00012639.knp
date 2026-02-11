@@ -1,100 +1,100 @@
 # S-ID:wiki00012639-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:67.00000 MOD:2025/11/25 MEMO:
 * 4D
-+ 1D <体言>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 20D <体言><NE:LOCATION:名古屋駅>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 20D <NE:LOCATION:名古屋駅>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <rel type="ノ？" target="日本" sid="wiki00012639-00-01" id="10"/><体言>
-愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 3D <rel type="ノ？" target="日本" sid="wiki00012639-00-01" id="10"/>
+愛知 あいち 愛知 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 県 けん 県 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 4D <rel type="ノ？" target="愛知県" sid="wiki00012639-00-01" id="2"/><体言>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 4D <rel type="ノ？" target="愛知県" sid="wiki00012639-00-01" id="2"/>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 5D <rel type="ノ？" target="名古屋市" sid="wiki00012639-00-01" id="3"/><体言>
-中村 なかむら 中村 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
++ 5D <rel type="ノ？" target="名古屋市" sid="wiki00012639-00-01" id="3"/>
+中村 なかむら 中村 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:middle>
 区 く 区 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:middle>
-+ 6D <rel type="ノ？" target="中村区" sid="wiki00012639-00-01" id="4"/><体言><NE:LOCATION:愛知県名古屋市中村区名駅>
-名駅 めいえき 名駅 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 6D <rel type="ノ？" target="中村区" sid="wiki00012639-00-01" id="4"/><NE:LOCATION:愛知県名古屋市中村区名駅>
+名駅 めいえき 名駅 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 20D <rel type="ガ" target="駅" sid="wiki00012639-00-01" id="20"/><rel type="ニ" target="名駅" sid="wiki00012639-00-01" id="5"/><用言:動><時制:非過去><節-主辞>
-ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ 20D <rel type="ガ" target="駅" sid="wiki00012639-00-01" id="20"/><rel type="ニ" target="名駅" sid="wiki00012639-00-01" id="5"/>
+ある ある ある 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 9D <rel type="ノ？" target="日本" sid="wiki00012639-00-01" id="10"/><体言>
-東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 9D <体言>
-旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 12P <体言><NE:ORGANIZATION:東海旅客鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 9D <rel type="ノ？" target="日本" sid="wiki00012639-00-01" id="10"/>
+東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 9D
+旅客 りょかく 旅客 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 12P <NE:ORGANIZATION:東海旅客鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 12D <体言>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 12D <体言>
-貨物 かもつ 貨物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 16P <体言><NE:ORGANIZATION:日本貨物鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 12D
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 12D
+貨物 かもつ 貨物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 16P <NE:ORGANIZATION:日本貨物鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 16D <rel type="=" target="名古屋" sid="wiki00012639-00-01" id="0"/><体言>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 16D <体言>
-臨海 りんかい 臨海 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 16D <rel type="ガ" target="不特定:物"/><体言><非用言格解析:形>
-高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞><NE:LOCATION:middle>
-+ 19P <体言><NE:LOCATION:名古屋臨海高速鉄道>
-鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 16D <rel type="=" target="名古屋" sid="wiki00012639-00-01" id="0"/>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 16D
+臨海 りんかい 臨海 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:middle>
++ 16D <rel type="ガ" target="不特定:物"/>
+高速 こうそく 高速だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <NE:LOCATION:middle>
++ 19P <NE:LOCATION:名古屋臨海高速鉄道>
+鉄道 てつどう 鉄道 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 19D <rel type="=" target="名古屋市" sid="wiki00012639-00-01" id="3"/><体言>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 19D <rel type="=" target="名古屋市" sid="wiki00012639-00-01" id="3"/>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
 市 し 市 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 19D <体言><非用言格解析:動>
-交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 20D <体言><NE:ORGANIZATION:名古屋市交通局>
-局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 19D
+交通 こうつう 交通 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 20D <NE:ORGANIZATION:名古屋市交通局>
+局 きょく 局 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="駅" sid="wiki00012639-00-01" id="1"/><rel type="ノ？" target="局" sid="wiki00012639-00-01" id="19"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="16"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="12"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="9"/><rel type="=構" target="駅" sid="wiki00012639-00-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="駅" sid="wiki00012639-00-01" id="1"/><rel type="ノ？" target="局" sid="wiki00012639-00-01" id="19"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="16"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="12"/><rel type="ノ？" mode="AND" target="鉄道" sid="wiki00012639-00-01" id="9"/><rel type="=構" target="駅" sid="wiki00012639-00-01" id="1"/>
+駅 えき 駅 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00012639-00-02 括弧始:（ 括弧終:） 括弧位置:4 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ 1D <rel type="=" target="名古屋" sid="wiki00012639-00-01" id="0"/><体言>
-なごや なごや なごや 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ -1D <rel type="=" target="駅" sid="wiki00012639-00-01" id="1"/><体言><NE:LOCATION:なごやえき>
-えき えき えき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D <rel type="=" target="名古屋" sid="wiki00012639-00-01" id="0"/>
+なごや なごや なごや 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ -1D <rel type="=" target="駅" sid="wiki00012639-00-01" id="1"/><NE:LOCATION:なごやえき>
+えき えき えき 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 EOS
 # S-ID:wiki00012639-00-03 括弧始:（ 括弧終:） 括弧位置:35 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ 1D <体言>
-JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <rel type="=" target="鉄道" sid="wiki00012639-00-01" id="9"/><rel type="=≒" mode="AND" target="東海" sid="wiki00012639-00-01" id="7"/><NE:ORGANIZATION:JR東海><体言>
-東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D
+JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="鉄道" sid="wiki00012639-00-01" id="9"/><rel type="=≒" mode="AND" target="東海" sid="wiki00012639-00-01" id="7"/><NE:ORGANIZATION:JR東海>
+東海 とうかい 東海 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00012639-00-04 括弧始:（ 括弧終:） 括弧位置:48 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ 1D <rel type="=" target="JR" sid="wiki00012639-00-03" id="0"/><体言>
-JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ -1D <rel type="=" target="鉄道" sid="wiki00012639-00-01" id="12"/><rel type="=≒" mode="AND" target="貨物" sid="wiki00012639-00-01" id="11"/><NE:ORGANIZATION:JR貨物><体言>
-貨物 かもつ 貨物 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="JR" sid="wiki00012639-00-03" id="0"/>
+JR JR JR 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ -1D <rel type="=" target="鉄道" sid="wiki00012639-00-01" id="12"/><rel type="=≒" mode="AND" target="貨物" sid="wiki00012639-00-01" id="11"/><NE:ORGANIZATION:JR貨物>
+貨物 かもつ 貨物 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00012639-00-05 括弧始:（ 括弧終:） 括弧位置:64 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ 1D <体言>
-あおなみ あおなみ あおなみ 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="ノ？" target="鉄道" sid="wiki00012639-00-01" id="16"/><NE:OPTIONAL:あおなみ線><体言><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT,NONE:0>
-線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+あおなみ あおなみ あおなみ 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="ノ？" target="鉄道" sid="wiki00012639-00-01" id="16"/><NE:OPTIONAL:あおなみ線><NE-OPTIONAL:ORGANIZATION,LOCATION,ARTIFACT,NONE:0>
+線 せん 線 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00012639-00-06 括弧始:（ 括弧終:） 括弧位置:79 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/25 MEMO:
 * -1D
-+ 1D <rel type="=" target="名古屋市" sid="wiki00012639-00-01" id="17"/><体言>
-名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 2D <体言>
-市営 しえい 市営 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ -1D <rel type="ノ？" target="局" sid="wiki00012639-00-01" id="19"/><rel type="修飾" target="市営" sid="wiki00012639-00-06" id="1"/><NE:OPTIONAL:名古屋市営地下鉄><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0><体言>
-地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="名古屋市" sid="wiki00012639-00-01" id="17"/>
+名古屋 なごや 名古屋 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 2D
+市営 しえい 市営 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ノ？" target="局" sid="wiki00012639-00-01" id="19"/><rel type="修飾" target="市営" sid="wiki00012639-00-06" id="1"/><NE:OPTIONAL:名古屋市営地下鉄><NE-OPTIONAL:LOCATION,ARTIFACT,NONE:0>
+地下鉄 ちかてつ 地下鉄 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS

@@ -1,229 +1,229 @@
 # S-ID:wiki00015516-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:217.00000 MOD:2025/11/17 MEMO:
 * 31D
-+ 1D <memo text="日本の異称　かつては朝鮮を指していたことも"/><体言>
-大東 だいとう 大東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
-+ 2D <体言>
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 51D <体言><NE:ORGANIZATION:大東文化大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <memo text="日本の異称　かつては朝鮮を指していたことも"/>
+大東 だいとう 大東 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:tail>
++ 2D
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 51D <NE:ORGANIZATION:大東文化大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <体言>
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ 5D <体言><NE:DATE:大正期>
-期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <基本句-主辞><NE:DATE:tail>
++ 4D
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ 5D <NE:DATE:大正期>
+期 き 期 名詞 6 時相名詞 10 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 11D <用言:動><時制:非過去>
-おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL <基本句-主辞>
++ 11D
+おける おける おける 動詞 2 * 0 母音動詞 1 基本形 2 NIL
 * 5D
-+ 11D <体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 11D <NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 5D
-+ 8P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/><体言>
-政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/>
+政治 せいじ 政治 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 9P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/><体言>
-経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 9P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/>
+経済 けいざい 経済 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 10P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/><体言>
-社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10P <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/>
+社会 しゃかい 社会 名詞 6 普通名詞 1 * 0 * 0 NIL
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL
-+ 11D <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/><体言>
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="ノ？" target="日本" sid="wiki00015516-00-01" id="6"/>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 6D
-+ 12D <rel type="時間" target="期" sid="wiki00015516-00-01" id="4"/><rel type="ガ" target="政治" sid="wiki00015516-00-01" id="7"/><rel type="ガ" mode="AND" target="経済" sid="wiki00015516-00-01" id="8"/><rel type="ガ" mode="AND" target="社会" sid="wiki00015516-00-01" id="9"/><rel type="ガ" mode="AND" target="文化" sid="wiki00015516-00-01" id="10"/><rel type="ガ２" target="日本" sid="wiki00015516-00-01" id="6"/><体言>
-近代 きんだい 近代 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 12D <rel type="時間" target="期" sid="wiki00015516-00-01" id="4"/><rel type="ガ" target="政治" sid="wiki00015516-00-01" id="7"/><rel type="ガ" mode="AND" target="経済" sid="wiki00015516-00-01" id="8"/><rel type="ガ" mode="AND" target="社会" sid="wiki00015516-00-01" id="9"/><rel type="ガ" mode="AND" target="文化" sid="wiki00015516-00-01" id="10"/><rel type="ガ２" target="日本" sid="wiki00015516-00-01" id="6"/>
+近代 きんだい 近代 名詞 6 普通名詞 1 * 0 * 0 NIL
 化 か 化 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 13D <rel type="ノ" target="近代化" sid="wiki00015516-00-01" id="11"/><体言>
-過程 かてい 過程 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 13D <rel type="ノ" target="近代化" sid="wiki00015516-00-01" id="11"/>
+過程 かてい 過程 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 9D
-+ 16D <rel type="ガ" target="傾向" sid="wiki00015516-00-01" id="16"/><rel type="デ" target="過程" sid="wiki00015516-00-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="日本" sid="wiki00015516-00-01" id="6"/><用言:動><時制:過去><節-主辞>
-見 み 見る 動詞 2 * 0 母音動詞 1 未然形 3 NIL <基本句-主辞>
++ 16D <rel type="ガ" target="傾向" sid="wiki00015516-00-01" id="16"/><rel type="デ" target="過程" sid="wiki00015516-00-01" id="12"/><rel type="ニ" target="不特定:人"/><rel type="ニ" mode="？" target="日本" sid="wiki00015516-00-01" id="6"/>
+見 み 見る 動詞 2 * 0 母音動詞 1 未然形 3 NIL
 られた られた られる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 9D
-+ 15D <体言><NE:LOCATION:西洋>
-西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 16D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="日本" sid="wiki00015516-00-01" id="6"/><rel type="ヲ" target="西洋" sid="wiki00015516-00-01" id="14"/><体言><非用言格解析:動>
-偏重 へんちょう 偏重 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15D <NE:LOCATION:西洋>
+西洋 せいよう 西洋 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:single>
++ 16D <rel type="ガ" target="不特定:人"/><rel type="ガ" mode="？" target="日本" sid="wiki00015516-00-01" id="6"/><rel type="ヲ" target="西洋" sid="wiki00015516-00-01" id="14"/>
+偏重 へんちょう 偏重 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 17D <rel type="トイウ" target="偏重" sid="wiki00015516-00-01" id="15"/><体言>
-傾向 けいこう 傾向 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 17D <rel type="トイウ" target="偏重" sid="wiki00015516-00-01" id="15"/>
+傾向 けいこう 傾向 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 16P
-+ 24P <rel type="ヲ" target="傾向" sid="wiki00015516-00-01" id="16"/><rel type="ガ" target="運動" sid="wiki00015516-00-01" id="30"/><用言:動><節-主辞><節-区切>
-是正 ぜせい 是正 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 24P <rel type="ヲ" target="傾向" sid="wiki00015516-00-01" id="16"/><rel type="ガ" target="運動" sid="wiki00015516-00-01" id="30"/>
+是正 ぜせい 是正 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 13D
-+ 20D <体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
-漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D <NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
+漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 13D
-+ 20D <rel type="=構" target="漢学" sid="wiki00015516-00-01" id="18"/><rel type="ノ" target="文化" sid="wiki00015516-00-01" id="22"/><体言>
-中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D <rel type="=構" target="漢学" sid="wiki00015516-00-01" id="18"/><rel type="ノ" target="文化" sid="wiki00015516-00-01" id="22"/>
+中心 ちゅうしん 中心 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 14D
-+ 22D <rel type="ガ" target="文化" sid="wiki00015516-00-01" id="22"/><rel type="ヲ" target="漢学" sid="wiki00015516-00-01" id="18"/><rel type="ト" target="中心" sid="wiki00015516-00-01" id="19"/><用言:動><時制:非過去><節-主辞>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
++ 22D <rel type="ガ" target="文化" sid="wiki00015516-00-01" id="22"/><rel type="ヲ" target="漢学" sid="wiki00015516-00-01" id="18"/><rel type="ト" target="中心" sid="wiki00015516-00-01" id="19"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 15D
-+ 22D <rel type="=≒" target="日本" sid="wiki00015516-00-01" id="6"/><rel type="=≒" mode="AND" target="西洋" sid="wiki00015516-00-01" id="14"/><体言><NE:LOCATION:東洋>
-東洋 とうよう 東洋 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
-+ 23D <rel type="修飾" target="する" sid="wiki00015516-00-01" id="20"/><rel type="ノ？" target="東洋" sid="wiki00015516-00-01" id="21"/><rel type="=≒" target="文化" sid="wiki00015516-00-01" id="10"/><体言>
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="=≒" target="日本" sid="wiki00015516-00-01" id="6"/><rel type="=≒" mode="AND" target="西洋" sid="wiki00015516-00-01" id="14"/><NE:LOCATION:東洋>
+東洋 とうよう 東洋 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
++ 23D <rel type="修飾" target="する" sid="wiki00015516-00-01" id="20"/><rel type="ノ？" target="東洋" sid="wiki00015516-00-01" id="21"/><rel type="=≒" target="文化" sid="wiki00015516-00-01" id="10"/>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 16D
-+ 24D <rel type="ガ" target="文化" sid="wiki00015516-00-01" id="22"/><体言><非用言格解析:動>
-振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 24D <rel type="ガ" target="文化" sid="wiki00015516-00-01" id="22"/>
+振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 30D <rel type="ヲ" target="振興" sid="wiki00015516-00-01" id="23"/><rel type="ガ" target="運動" sid="wiki00015516-00-01" id="30"/><用言:動><時制:非過去><節-主辞>
-図ろう はかろう 図る 動詞 2 * 0 子音動詞ラ行 10 意志形 4 NIL <基本句-主辞>
++ 30D <rel type="ヲ" target="振興" sid="wiki00015516-00-01" id="23"/><rel type="ガ" target="運動" sid="wiki00015516-00-01" id="30"/>
+図ろう はかろう 図る 動詞 2 * 0 子音動詞ラ行 10 意志形 4 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 18D
-+ 26D <体言>
-木下 きのした 木下 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
-+ 27D <体言><NE:PERSON:木下成太郎>
-成太郎 しげたろう 成太郎 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
++ 26D
+木下 きのした 木下 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
++ 27D <NE:PERSON:木下成太郎>
+成太郎 しげたろう 成太郎 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 19D
-+ 30D <用言:動><時制:非過去>
-よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ 30D
+よる よる よる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 * 21D
-+ 29D <rel type="=" target="漢学" sid="wiki00015516-00-01" id="18"/><体言><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
++ 29D <rel type="=" target="漢学" sid="wiki00015516-00-01" id="18"/><NE:OPTIONAL:漢><NE-OPTIONAL:LOCATION,NONE:0>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 30D <rel type="=≒" target="振興" sid="wiki00015516-00-01" id="23"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="漢学" sid="wiki00015516-00-01" id="28"/><体言><非用言格解析:動>
-振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 32D <rel type="ガ" target="成太郎" sid="wiki00015516-00-01" id="26"/><rel type="ガ" mode="AND" target="不特定:人"/><rel type="ニムケテ" target="振興" sid="wiki00015516-00-01" id="29"/><rel type="ニヨッテ" target="成太郎" sid="wiki00015516-00-01" id="26"/><体言><非用言格解析:動>
-運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
+漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 30D <rel type="=≒" target="振興" sid="wiki00015516-00-01" id="23"/><rel type="ガ" target="不特定:人"/><rel type="ヲ" target="漢学" sid="wiki00015516-00-01" id="28"/>
+振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 32D <rel type="ガ" target="成太郎" sid="wiki00015516-00-01" id="26"/><rel type="ガ" mode="AND" target="不特定:人"/><rel type="ニムケテ" target="振興" sid="wiki00015516-00-01" id="29"/><rel type="ニヨッテ" target="成太郎" sid="wiki00015516-00-01" id="26"/>
+運動 うんどう 運動 名詞 6 サ変名詞 2 * 0 * 0 NIL
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 21D
-+ 32D <rel type="=構" target="運動" sid="wiki00015516-00-01" id="30"/><rel type="ノ" target="設立" sid="wiki00015516-00-01" id="47"/><体言>
-発端 ほったん 発端 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 32D <rel type="=構" target="運動" sid="wiki00015516-00-01" id="30"/><rel type="ノ" target="設立" sid="wiki00015516-00-01" id="47"/>
+発端 ほったん 発端 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 29D
-+ 47D <rel type="ト" target="発端" sid="wiki00015516-00-01" id="31"/><rel type="ガ" target="設立" sid="wiki00015516-00-01" id="47"/><rel type="ヲ" target="運動" sid="wiki00015516-00-01" id="30"/><用言:動>
-して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL <基本句-主辞>
++ 47D <rel type="ト" target="発端" sid="wiki00015516-00-01" id="31"/><rel type="ガ" target="設立" sid="wiki00015516-00-01" id="47"/><rel type="ヲ" target="運動" sid="wiki00015516-00-01" id="30"/>
+して して する 動詞 2 * 0 サ変動詞 16 タ系連用テ形 14 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 23D
-+ 38D <体言><NE:DATE:1923年>
-1923 せんきゅうひゃくにじゅうさん 1923 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 38D <NE:DATE:1923年>
+1923 せんきゅうひゃくにじゅうさん 1923 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 24D
-+ 35D <体言>
-帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 36D <体言>
-議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 38D <rel type="ノ" target="議会" sid="wiki00015516-00-01" id="35"/><体言><NE:ORGANIZATION:帝国議会衆議院>
-衆議院 しゅうぎいん 衆議院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 35D
+帝国 ていこく 帝国 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 36D
+議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 38D <rel type="ノ" target="議会" sid="wiki00015516-00-01" id="35"/><NE:ORGANIZATION:帝国議会衆議院>
+衆議院 しゅうぎいん 衆議院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 + 38D
-本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 39D <rel type="時間" target="1923年" sid="wiki00015516-00-01" id="33"/><rel type="ノ？" target="衆議院" sid="wiki00015516-00-01" id="36"/><rel type="修飾" target="本" sid="wiki00015516-00-01" id="37"/><体言><非用言格解析:動>
-会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
+本 ほん 本 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 39D <rel type="時間" target="1923年" sid="wiki00015516-00-01" id="33"/><rel type="ノ？" target="衆議院" sid="wiki00015516-00-01" id="36"/><rel type="修飾" target="本" sid="wiki00015516-00-01" id="37"/>
+会議 かいぎ 会議 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 25D
-+ 40D <用言:動>
-おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL <基本句-主辞>
++ 40D
+おいて おいて おく 動詞 2 * 0 子音動詞カ行 2 タ系連用テ形 14 NIL
 * 28D
-+ 45D <rel type="ニオイテ" target="会議" sid="wiki00015516-00-01" id="38"/><rel type="ガ" target="案" sid="wiki00015516-00-01" id="45"/><用言:動><時制:過去>
-可決 かけつ 可決 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 45D <rel type="ニオイテ" target="会議" sid="wiki00015516-00-01" id="38"/><rel type="ガ" target="案" sid="wiki00015516-00-01" id="45"/>
+可決 かけつ 可決 名詞 6 サ変名詞 2 * 0 * 0 NIL
 した した する 動詞 2 * 0 サ変動詞 16 タ形 10 NIL
 * 27D
-+ 42D <rel type="=" target="漢学" sid="wiki00015516-00-01" id="28"/><体言>
++ 42D <rel type="=" target="漢学" sid="wiki00015516-00-01" id="28"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:head>
-+ 43D <rel type="=" target="振興" sid="wiki00015516-00-01" id="29"/><体言><非用言格解析:動>
-振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
+漢学 かんがく 漢学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:head>
++ 43D <rel type="=" target="振興" sid="wiki00015516-00-01" id="29"/>
+振興 しんこう 振興 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
 ニ に ニ 助詞 9 格助詞 1 * 0 * 0 NIL <NE:ARTIFACT:middle>
 * 28D
-+ 44D <用言:動>
-関スル かんする 関スル 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞><NE:ARTIFACT:middle>
++ 44D
+関スル かんする 関スル 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <NE:ARTIFACT:middle>
 * 27D
-+ 45D <rel type="ニカンシテ" target="振興" sid="wiki00015516-00-01" id="42"/><rel type="ガ" target="衆議院" sid="wiki00015516-00-01" id="36"/><rel type="ニ" target="不特定:人"/><体言><非用言格解析:動>
-建議 けんぎ 建議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:middle>
-+ 46D <rel type="ノ" target="建議" sid="wiki00015516-00-01" id="44"/><体言><NE:ARTIFACT:漢学振興ニ関スル建議案>
-案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ARTIFACT:tail>
++ 45D <rel type="ニカンシテ" target="振興" sid="wiki00015516-00-01" id="42"/><rel type="ガ" target="衆議院" sid="wiki00015516-00-01" id="36"/><rel type="ニ" target="不特定:人"/>
+建議 けんぎ 建議 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ARTIFACT:middle>
++ 46D <rel type="ノ" target="建議" sid="wiki00015516-00-01" id="44"/><NE:ARTIFACT:漢学振興ニ関スル建議案>
+案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ARTIFACT:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 28D
-+ 47D <体言>
-基づき もとづき 基づき 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 50D <rel type="ガ" target="学院" sid="wiki00015516-00-01" id="50"/><rel type="ニモトヅイテ" target="案" sid="wiki00015516-00-01" id="45"/><rel type="トシテ" target="発端" sid="wiki00015516-00-01" id="31"/><用言:動><時制:過去><節-主辞>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 47D
+基づき もとづき 基づき 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 50D <rel type="ガ" target="学院" sid="wiki00015516-00-01" id="50"/><rel type="ニモトヅイテ" target="案" sid="wiki00015516-00-01" id="45"/><rel type="トシテ" target="発端" sid="wiki00015516-00-01" id="31"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 29D
-+ 49D <rel type="=" target="大東" sid="wiki00015516-00-01" id="0"/><体言>
-大東 だいとう 大東 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 50D <rel type="=" target="文化" sid="wiki00015516-00-01" id="1"/><体言>
-文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 51D <rel type="=≒" target="大学" sid="wiki00015516-00-01" id="2"/><memo text="イコール？"/><体言><NE:ORGANIZATION:大東文化学院>
-学院 がくいん 学院 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 49D <rel type="=" target="大東" sid="wiki00015516-00-01" id="0"/>
+大東 だいとう 大東 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 50D <rel type="=" target="文化" sid="wiki00015516-00-01" id="1"/>
+文化 ぶんか 文化 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 51D <rel type="=≒" target="大学" sid="wiki00015516-00-01" id="2"/><memo text="イコール？"/><NE:ORGANIZATION:大東文化学院>
+学院 がくいん 学院 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大学" sid="wiki00015516-00-01" id="2"/><rel type="ニ" target="学院" sid="wiki00015516-00-01" id="50"/><用言:動><時制:非過去><節-主辞><節-区切>
-はじまる はじまる はじまる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="大学" sid="wiki00015516-00-01" id="2"/><rel type="ニ" target="学院" sid="wiki00015516-00-01" id="50"/>
+はじまる はじまる はじまる 動詞 2 * 0 子音動詞ラ行 10 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00015516-00-02 括弧始:（ 括弧終:） 括弧位置:103 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/11/06 MEMO:
 * -1D
-+ 1D <体言>
-大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
-+ -1D <rel type="=" target="1923年" sid="wiki00015516-00-01" id="33"/><NE:DATE:大正12年><体言>
-12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:middle>
++ 1D
+大正 たいしょう 大正 名詞 6 固有名詞 3 * 0 * 0 NIL <NE:DATE:head>
++ -1D <rel type="=" target="1923年" sid="wiki00015516-00-01" id="33"/><NE:DATE:大正12年>
+12 じゅうに 12 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:middle>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 EOS
 # S-ID:wiki00015516-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:78.00000 MOD:2025/11/06 MEMO:
 * 7D
 + 10D
-なお なお なお 副詞 8 * 0 * 0 * 0 NIL <基本句-主辞>
+なお なお なお 副詞 8 * 0 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 4D <rel type="=" target="議会" sid="wiki00015516-00-01" id="35"/><体言>
-議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="=" target="議会" sid="wiki00015516-00-01" id="35"/>
+議会 ぎかい 議会 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 3D <rel type="=" target="建議" sid="wiki00015516-00-01" id="44"/><体言><非用言格解析:動>
-建議 けんぎ 建議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 4D <rel type="=" target="案" sid="wiki00015516-00-01" id="45"/><体言>
-案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 5D <rel type="ガ" target="議会" sid="wiki00015516-01" id="1"/><rel type="ヲ" target="案" sid="wiki00015516-01" id="3"/><rel type="=" target="可決した" sid="wiki00015516-00-01" id="40"/><体言><非用言格解析:動>
-決議 けつぎ 決議 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="=" target="建議" sid="wiki00015516-00-01" id="44"/>
+建議 けんぎ 建議 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 4D <rel type="=" target="案" sid="wiki00015516-00-01" id="45"/>
+案 あん 案 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 5D <rel type="ガ" target="議会" sid="wiki00015516-01" id="1"/><rel type="ヲ" target="案" sid="wiki00015516-01" id="3"/><rel type="=" target="可決した" sid="wiki00015516-00-01" id="40"/>
+決議 けつぎ 決議 名詞 6 サ変名詞 2 * 0 * 0 NIL
 で で で 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="学院" sid="wiki00015516-00-01" id="50"/><rel type="=" target="設立された" sid="wiki00015516-00-01" id="47"/><rel type="外の関係" target="経緯" sid="wiki00015516-01" id="6"/><rel type="ニヨッテ" target="決議" sid="wiki00015516-01" id="4"/><用言:動><時制:過去><節-主辞>
-創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="学院" sid="wiki00015516-00-01" id="50"/><rel type="=" target="設立された" sid="wiki00015516-00-01" id="47"/><rel type="外の関係" target="経緯" sid="wiki00015516-01" id="6"/><rel type="ニヨッテ" target="決議" sid="wiki00015516-01" id="4"/>
+創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 7D
-+ 10D <rel type="トイウ" target="創設された" sid="wiki00015516-01" id="5"/><体言>
-経緯 けいい 経緯 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="トイウ" target="創設された" sid="wiki00015516-01" id="5"/>
+経緯 けいい 経緯 名詞 6 普通名詞 1 * 0 * 0 NIL
 から から から 助詞 9 格助詞 1 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 9D <体言>
-特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D
+特定 とくてい 特定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 7D
-+ 9D <rel type="ガ" target="者" sid="wiki00015516-01" id="9"/><rel type="ヲ" target="大学" sid="wiki00015516-00-01" id="2"/><rel type="=" target="創設" sid="wiki00015516-01" id="5"/><体言><非用言格解析:動>
-創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="修飾" target="特定" sid="wiki00015516-01" id="7"/><rel type="ノ？" target="創設" sid="wiki00015516-01" id="8"/><体言>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 9D <rel type="ガ" target="者" sid="wiki00015516-01" id="9"/><rel type="ヲ" target="大学" sid="wiki00015516-00-01" id="2"/><rel type="=" target="創設" sid="wiki00015516-01" id="5"/>
+創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 10D <rel type="修飾" target="特定" sid="wiki00015516-01" id="7"/><rel type="ノ？" target="創設" sid="wiki00015516-01" id="8"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="カラ" target="経緯" sid="wiki00015516-01" id="6"/><rel type="ガ" target="者" sid="wiki00015516-01" id="9"/><rel type="ニ" target="大学" sid="wiki00015516-00-01" id="2"/><用言:動><時制:非過去><否定表現><節-主辞><節-区切>
-存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="カラ" target="経緯" sid="wiki00015516-01" id="6"/><rel type="ガ" target="者" sid="wiki00015516-01" id="9"/><rel type="ニ" target="大学" sid="wiki00015516-00-01" id="2"/>
+存在 そんざい 存在 名詞 6 サ変名詞 2 * 0 * 0 NIL
 し し する 動詞 2 * 0 サ変動詞 16 基本連用形 8 NIL
 ない ない ない 接尾辞 14 形容詞性述語接尾辞 5 イ形容詞アウオ段 18 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

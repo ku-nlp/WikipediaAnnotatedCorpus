@@ -1,99 +1,99 @@
 # S-ID:wiki00028430-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/06/24 MEMO:
 * 3D
-+ 1D <体言>
-ソルトレイク そるとれいく ソルトレイク 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
-+ 4D <rel type="ノ？" target="ユタ州" sid="wiki00028430-00" id="3"/><体言><NE:LOCATION:ソルトレイクシティ>
-シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:tail>
++ 1D
+ソルトレイク そるとれいく ソルトレイク 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
++ 4D <rel type="ノ？" target="ユタ州" sid="wiki00028430-00" id="3"/><NE:LOCATION:ソルトレイクシティ>
+シティ してぃ シティ 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:LOCATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00028430-00" id="2"/><体言><NE:LOCATION:ユタ州>
-ユタ ゆた ユタ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00028430-00" id="2"/><NE:LOCATION:ユタ州>
+ユタ ゆた ユタ 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="シティ" sid="wiki00028430-00" id="1"/><rel type="ノ" target="ユタ州" sid="wiki00028430-00" id="3"/><rel type="=構" target="シティ" sid="wiki00028430-00" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="シティ" sid="wiki00028430-00" id="1"/><rel type="ノ" target="ユタ州" sid="wiki00028430-00" id="3"/><rel type="=構" target="シティ" sid="wiki00028430-00" id="1"/><memo text="CO"/>
+州都 しゅうと 州都 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028430-01-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:130.00000 MOD:2025/06/24 MEMO:
 * 1D
 + 1D
-同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL <基本句-主辞>
-+ 3D <rel type="=" target="ユタ州" sid="wiki00028430-00" id="3"/><体言>
-州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
+同 どう 同 接頭辞 13 名詞接頭辞 1 * 0 * 0 NIL
++ 3D <rel type="=" target="ユタ州" sid="wiki00028430-00" id="3"/>
+州 しゅう 州 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4P
-+ 3D <rel type="ガ" target="都市" sid="wiki00028430-01-01" id="3"/><体言><非用言格解析:形>
-最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL <基本句-主辞>
-+ 6P <rel type="ガ" target="シティ" sid="wiki00028430-00" id="1"/><rel type="修飾" target="最大" sid="wiki00028430-01-01" id="2"/><rel type="=構" target="シティ" sid="wiki00028430-00" id="1"/><rel type="ノ？" target="州" sid="wiki00028430-01-01" id="1"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <rel type="ガ" target="都市" sid="wiki00028430-01-01" id="3"/>
+最大 さいだい 最大だ 形容詞 3 * 0 ナノ形容詞 22 語幹 1 NIL
++ 6P <rel type="ガ" target="シティ" sid="wiki00028430-00" id="1"/><rel type="修飾" target="最大" sid="wiki00028430-01-01" id="2"/><rel type="=構" target="シティ" sid="wiki00028430-00" id="1"/><rel type="ノ？" target="州" sid="wiki00028430-01-01" id="1"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 5D <rel type="=" target="シティ" sid="wiki00028430-00" id="1"/><体言>
-市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 5D <rel type="=" target="シティ" sid="wiki00028430-00" id="1"/>
+市 し 市 名詞 6 普通名詞 1 * 0 * 0 NIL
 内 ない 内 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ノ" target="市" sid="wiki00028430-01-01" id="4"/><体言>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="市" sid="wiki00028430-01-01" id="4"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10P
-+ 14P <rel type="ガ" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="=構" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="ノ" target="人口" sid="wiki00028430-01-01" id="5"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-190,884 じゅうきゅうまんはっぴゃくはちじゅうよ 190,884 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 14P <rel type="ガ" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="=構" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="ノ" target="人口" sid="wiki00028430-01-01" id="5"/>
+190,884 じゅうきゅうまんはっぴゃくはちじゅうよ 190,884 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 が が が 助詞 9 接続助詞 3 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ノ" target="市" sid="wiki00028430-01-01" id="4"/><体言>
-周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="修飾" target="周辺" sid="wiki00028430-01-01" id="7"/><体言>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ノ" target="市" sid="wiki00028430-01-01" id="4"/>
+周辺 しゅうへん 周辺 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="修飾" target="周辺" sid="wiki00028430-01-01" id="7"/>
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 7D
-+ 11D <用言:動><時制:過去><節-主辞>
-含めた ふくめた 含める 動詞 2 * 0 母音動詞 1 タ形 10 NIL <基本句-主辞>
++ 11D
+含めた ふくめた 含める 動詞 2 * 0 母音動詞 1 タ形 10 NIL
 * 8D
-+ 11D <rel type="=≒" target="シティ" sid="wiki00028430-00" id="1"/><体言>
-都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ヲフクメテ" target="地域" sid="wiki00028430-01-01" id="8"/><rel type="ノ？" target="都市" sid="wiki00028430-01-01" id="10"/><体言>
-圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 11D <rel type="=≒" target="シティ" sid="wiki00028430-00" id="1"/>
+都市 とし 都市 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ヲフクメテ" target="地域" sid="wiki00028430-01-01" id="8"/><rel type="ノ？" target="都市" sid="wiki00028430-01-01" id="10"/>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="ノ" target="圏" sid="wiki00028430-01-01" id="11"/><rel type="=≒" target="人口" sid="wiki00028430-01-01" id="5"/><体言>
-人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="圏" sid="wiki00028430-01-01" id="11"/><rel type="=≒" target="人口" sid="wiki00028430-01-01" id="5"/>
+人口 じんこう 人口 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 10D
-+ 14D <rel type="ノ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="=構" target="人口" sid="wiki00028430-01-01" id="12"/><体言>
-1,153,340 ひゃくじゅうごまんさんぜんさんびゃくよんじゅう 1,153,340 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞>
++ 14D <rel type="ノ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="=構" target="人口" sid="wiki00028430-01-01" id="12"/>
+1,153,340 ひゃくじゅうごまんさんぜんさんびゃくよんじゅう 1,153,340 名詞 6 数詞 7 * 0 * 0 NIL
 人 にん 人 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="ニ" target="1,153,340人" sid="wiki00028430-01-01" id="13"/><用言:動><時制:非過去><節-主辞><節-区切>
-およぶ およぶ およぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="ニ" target="1,153,340人" sid="wiki00028430-01-01" id="13"/>
+およぶ およぶ およぶ 動詞 2 * 0 子音動詞バ行 8 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028430-01-02 括弧始:（ 括弧終:） 括弧位置:23 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/03/25 MEMO:
 * 1D
-+ 1D <体言><NE:DATE:2014年>
-2014 にせんじゅうよ 2014 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 1D <NE:DATE:2014年>
+2014 にせんじゅうよ 2014 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="時間" target="2014年" sid="wiki00028430-01-02" id="0"/><rel type="ト" target="190,884人" sid="wiki00028430-01-01" id="6"/><体言><非用言格解析:動>
-推計 すいけい 推計 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="人口" sid="wiki00028430-01-01" id="5"/><rel type="時間" target="2014年" sid="wiki00028430-01-02" id="0"/><rel type="ト" target="190,884人" sid="wiki00028430-01-01" id="6"/>
+推計 すいけい 推計 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS
 # S-ID:wiki00028430-01-03 括弧始:（ 括弧終:） 括弧位置:62 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/06/24 MEMO:
 * 1D
-+ 1D <rel type="=" target="2014年" sid="wiki00028430-01-02" id="0"/><体言><NE:DATE:2014年>
-2014 にせんじゅうよ 2014 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 1D <rel type="=" target="2014年" sid="wiki00028430-01-02" id="0"/><NE:DATE:2014年>
+2014 にせんじゅうよ 2014 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 * -1D
-+ -1D <rel type="ガ" target="不特定:人"/><rel type="=" target="推計" sid="wiki00028430-01-02" id="1"/><rel type="ヲ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="ト" target="1,153,340人" sid="wiki00028430-01-01" id="13"/><rel type="時間" target="2014年" sid="wiki00028430-01-03" id="0"/><体言><非用言格解析:動>
-推計 すいけい 推計 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="不特定:人"/><rel type="=" target="推計" sid="wiki00028430-01-02" id="1"/><rel type="ヲ" target="人口" sid="wiki00028430-01-01" id="12"/><rel type="ト" target="1,153,340人" sid="wiki00028430-01-01" id="13"/><rel type="時間" target="2014年" sid="wiki00028430-01-03" id="0"/>
+推計 すいけい 推計 名詞 6 サ変名詞 2 * 0 * 0 NIL
 EOS

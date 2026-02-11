@@ -1,99 +1,99 @@
 # S-ID:wiki00025288-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:107.00000 MOD:2025/05/29 MEMO:
 * 10D
-+ 1D <体言>
-西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 3D <memo text="2文目のよみが「にしにほん」となっているが、正しくは「にしにっぽん」現wikiでは「にっぽん」に訂正されている"/><体言>
-日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3P <体言>
-電信 でんしん 電信 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言><非用言格解析:動>
-電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 5D <体言>
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 28D <体言><NE:ORGANIZATION:西日本電信電話株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D
+西 にし 西 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <memo text="2文目のよみが「にしにほん」となっているが、正しくは「にしにっぽん」現wikiでは「にっぽん」に訂正されている"/>
+日本 にっぽん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3P
+電信 でんしん 電信 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D
+電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 5D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 28D <NE:ORGANIZATION:西日本電信電話株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 7D <体言>
-持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 12D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="12"/><rel type="修飾" target="持株" sid="wiki00025288-00-01" id="6"/><rel type="ノ" target="会社" sid="wiki00025288-00-01" id="5"/><用言:判><体言><時制:非過去>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D
+持株 もちかぶ 持株 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 12D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="12"/><rel type="修飾" target="持株" sid="wiki00025288-00-01" id="6"/><rel type="ノ" target="会社" sid="wiki00025288-00-01" id="5"/>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 * 3D
-+ 10D <rel type="=≒" target="日本" sid="wiki00025288-00-01" id="1"/><体言>
-日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 10P <体言>
-電信 でんしん 電信 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 12D <体言><非用言格解析:動>
-電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 12D <体言>
-株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 14D <rel type="=構" target="会社" sid="wiki00025288-00-01" id="7"/><体言><NE:ORGANIZATION:日本電信電話株式会社>
-会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 10D <rel type="=≒" target="日本" sid="wiki00025288-00-01" id="1"/>
+日本 にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 10P
+電信 でんしん 電信 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 12D
+電話 でんわ 電話 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 12D
+株式 かぶしき 株式 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 14D <rel type="=構" target="会社" sid="wiki00025288-00-01" id="7"/><NE:ORGANIZATION:日本電信電話株式会社>
+会社 がいしゃ 会社 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 14D <体言><NE:PERCENT:100%>
-100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:PERCENT:head>
++ 14D <NE:PERCENT:100%>
+100 ひゃく 100 名詞 6 数詞 7 * 0 * 0 NIL <NE:PERCENT:head>
 % ぱーせんと % 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:PERCENT:tail>
-+ 15D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="12"/><rel type="ニ" target="会社" sid="wiki00025288-00-01" id="5"/><体言><非用言格解析:動>
-出資 しゅっし 出資 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 15D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="12"/><rel type="ニ" target="会社" sid="wiki00025288-00-01" id="5"/>
+出資 しゅっし 出資 名詞 6 サ変名詞 2 * 0 * 0 NIL
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 16D <用言:動>
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
++ 16D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 10D
-+ 28D <rel type="ニヨッテ" target="出資" sid="wiki00025288-00-01" id="14"/><rel type="ガ" target="者" sid="wiki00025288-00-01" id="28"/><用言:動><時制:過去>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 28D <rel type="ニヨッテ" target="出資" sid="wiki00025288-00-01" id="14"/><rel type="ガ" target="者" sid="wiki00025288-00-01" id="28"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 8D
-+ 20D <体言>
-地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 19D <体言>
-電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 20D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="電気" sid="wiki00025288-00-01" id="18"/><体言><非用言格解析:動>
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 22D <rel type="ノ？" target="地域" sid="wiki00025288-00-01" id="17"/><rel type="ノ？" mode="AND" target="通信" sid="wiki00025288-00-01" id="19"/><体言>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 20D
+地域 ちいき 地域 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 19D
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 20D <rel type="ガ" target="不特定:人"/><rel type="修飾" target="電気" sid="wiki00025288-00-01" id="18"/>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 22D <rel type="ノ？" target="地域" sid="wiki00025288-00-01" id="17"/><rel type="ノ？" mode="AND" target="通信" sid="wiki00025288-00-01" id="19"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
 を を を 助詞 9 格助詞 1 * 0 * 0 NIL
 * 8D
-+ 22D <rel type="=構" target="事業" sid="wiki00025288-00-01" id="20"/><rel type="ノ？" target="会社" sid="wiki00025288-00-01" id="5"/><体言>
-業 ぎょう/なり 業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 22D <rel type="=構" target="事業" sid="wiki00025288-00-01" id="20"/><rel type="ノ？" target="会社" sid="wiki00025288-00-01" id="5"/>
+業 ぎょう/なり 業 名詞 6 普通名詞 1 * 0 * 0 NIL
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 * 10D
-+ 28D <rel type="ト" target="業" sid="wiki00025288-00-01" id="21"/><rel type="ガ" target="者" sid="wiki00025288-00-01" id="28"/><rel type="ヲ" target="事業" sid="wiki00025288-00-01" id="20"/><用言:動><時制:非過去><節-主辞>
-する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL <基本句-主辞>
++ 28D <rel type="ト" target="業" sid="wiki00025288-00-01" id="21"/><rel type="ガ" target="者" sid="wiki00025288-00-01" id="28"/><rel type="ヲ" target="事業" sid="wiki00025288-00-01" id="20"/>
+する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * 10D
-+ 28D <rel type="=" target="日本" sid="wiki00025288-00-01" id="8"/><体言><NE:LOCATION:日本>
-日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 28D <rel type="=" target="日本" sid="wiki00025288-00-01" id="8"/><NE:LOCATION:日本>
+日本 にっぽん/にほん 日本 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 28D <体言>
-大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 26D <rel type="=" target="電気" sid="wiki00025288-00-01" id="18"/><体言>
-電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 27D <rel type="=" target="通信" sid="wiki00025288-00-01" id="19"/><体言><非用言格解析:動>
-通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 28D <rel type="ノ？" target="通信" sid="wiki00025288-00-01" id="26"/><rel type="=≒" target="事業" sid="wiki00025288-00-01" id="20"/><体言>
-事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="修飾" target="大手" sid="wiki00025288-00-01" id="24"/><rel type="ノ？" target="日本" sid="wiki00025288-00-01" id="23"/><rel type="ノ？" mode="AND" target="事業" sid="wiki00025288-00-01" id="27"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL <基本句-主辞>
++ 28D
+大手 おおて 大手 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 26D <rel type="=" target="電気" sid="wiki00025288-00-01" id="18"/>
+電気 でんき 電気 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 27D <rel type="=" target="通信" sid="wiki00025288-00-01" id="19"/>
+通信 つうしん 通信 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 28D <rel type="ノ？" target="通信" sid="wiki00025288-00-01" id="26"/><rel type="=≒" target="事業" sid="wiki00025288-00-01" id="20"/>
+事業 じぎょう 事業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="=構" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="修飾" target="大手" sid="wiki00025288-00-01" id="24"/><rel type="ノ？" target="日本" sid="wiki00025288-00-01" id="23"/><rel type="ノ？" mode="AND" target="事業" sid="wiki00025288-00-01" id="27"/><memo text="CO"/>
+者 しゃ 者 接尾辞 14 名詞性名詞接尾辞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00025288-00-02 括弧始:（ 括弧終:） 括弧位置:11 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/29 MEMO:
 * -1D
-+ 1D <rel type="=" target="西" sid="wiki00025288-00-01" id="0"/><体言>
-にし にし にし 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 3D <rel type="=" target="日本" sid="wiki00025288-00-01" id="1"/><memo text="正しくは「にしにっぽん」現wikiでは「にっぽん」に訂正されている"/><体言>
-にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 3P <rel type="=" target="電信" sid="wiki00025288-00-01" id="2"/><体言>
-でんしん でんしん でんしん 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="=" mode="AND" target="電話" sid="wiki00025288-00-01" id="3"/><体言><非用言格解析:動><NE:ORGANIZATION:にしにほんでんしんでんわ>
-でんわ でんわ でんわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="西" sid="wiki00025288-00-01" id="0"/>
+にし にし にし 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 3D <rel type="=" target="日本" sid="wiki00025288-00-01" id="1"/><memo text="正しくは「にしにっぽん」現wikiでは「にっぽん」に訂正されている"/>
+にほん にほん にほん 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 3P <rel type="=" target="電信" sid="wiki00025288-00-01" id="2"/>
+でんしん でんしん でんしん 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ -1D <rel type="=" target="会社" sid="wiki00025288-00-01" id="5"/><rel type="=" mode="AND" target="電話" sid="wiki00025288-00-01" id="3"/><NE:ORGANIZATION:にしにほんでんしんでんわ>
+でんわ でんわ でんわ 名詞 6 サ変名詞 2 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00025288-00-03 括弧始:（ 括弧終:） 括弧位置:44 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/29 MEMO:
 * -1D
-+ -1D <rel type="=" target="会社" sid="wiki00025288-00-01" id="12"/><体言><NE:ORGANIZATION:NTT>
-NTT NTT NTT 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ -1D <rel type="=" target="会社" sid="wiki00025288-00-01" id="12"/><NE:ORGANIZATION:NTT>
+NTT NTT NTT 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 EOS

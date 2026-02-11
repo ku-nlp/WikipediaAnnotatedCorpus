@@ -1,80 +1,80 @@
 # S-ID:wiki00026215-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:79.00000 MOD:2025/06/05 MEMO:
 * 6D
-+ 1D <体言>
-レジオンドヌール れじおんどぬーる レジオンドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 8D <体言><NE:OPTIONAL:レジオンドヌール勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
-勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D
+レジオンドヌール れじおんどぬーる レジオンドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ 8D <NE:OPTIONAL:レジオンドヌール勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
+勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言>
-ナポレオン なぽれおん ナポレオン 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:head>
++ 3D
+ナポレオン なぽれおん ナポレオン 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:PERSON:middle>
-+ 4D <体言><NE:PERSON:ナポレオン・ボナパルト>
-ボナパルト ぼなぱると ボナパルト 名詞 6 人名 5 * 0 * 0 NIL <基本句-主辞><NE:PERSON:tail>
++ 4D <NE:PERSON:ナポレオン・ボナパルト>
+ボナパルト ぼなぱると ボナパルト 名詞 6 人名 5 * 0 * 0 NIL <NE:PERSON:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4D
-+ 6D <用言:動>
-より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL <基本句-主辞>
++ 6D
+より より よる 動詞 2 * 0 子音動詞ラ行 10 基本連用形 8 NIL
 * 4D
-+ 6D <体言><NE:DATE:1802年>
-1802 せんはっぴゃくに 1802 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 6D <NE:DATE:1802年>
+1802 せんはっぴゃくに 1802 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 6D
-+ 8D <rel type="ガ" target="栄典" sid="wiki00026215-00-01" id="8"/><rel type="ニヨッテ" target="ボナパルト" sid="wiki00026215-00-01" id="3"/><rel type="時間" target="1802年" sid="wiki00026215-00-01" id="5"/><用言:動><時制:過去><節-主辞>
-制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 8D <rel type="ガ" target="栄典" sid="wiki00026215-00-01" id="8"/><rel type="ニヨッテ" target="ボナパルト" sid="wiki00026215-00-01" id="3"/><rel type="時間" target="1802年" sid="wiki00026215-00-01" id="5"/>
+制定 せいてい 制定 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れた れた れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 タ形 10 NIL
 * 6D
-+ 8D <体言><NE:LOCATION:フランス>
-フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 8D <NE:LOCATION:フランス>
+フランス ふらんす フランス 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="=構" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ノ？" target="フランス" sid="wiki00026215-00-01" id="7"/><rel type="修飾" target="制定された" sid="wiki00026215-00-01" id="6"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-栄典 えいてん 栄典 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="=構" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ノ？" target="フランス" sid="wiki00026215-00-01" id="7"/><rel type="修飾" target="制定された" sid="wiki00026215-00-01" id="6"/><memo text="CO"/>
+栄典 えいてん 栄典 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026215-00-02 括弧始:（ 括弧終:） 括弧位置:10 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2024/11/20 MEMO:
 * -1D
-+ 1D <rel type="=" target="レジオンドヌール" sid="wiki00026215-00-01" id="0"/><体言>
-レジオンドヌール れじおんどぬーる レジオンドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ -1D <rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><体言><NE:OPTIONAL:レジオンドヌールくんしょう><NE-OPTIONAL:ARTIFACT,NONE:0>
-くんしょう くんしょう くんしょう 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 1D <rel type="=" target="レジオンドヌール" sid="wiki00026215-00-01" id="0"/>
+レジオンドヌール れじおんどぬーる レジオンドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
++ -1D <rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><NE:OPTIONAL:レジオンドヌールくんしょう><NE-OPTIONAL:ARTIFACT,NONE:0>
+くんしょう くんしょう くんしょう 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 EOS
 # S-ID:wiki00026215-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/06/05 MEMO:
 * 1D
-+ 1D <体言>
-レジオン れじおん レジオン 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:head>
++ 1D
+レジオン れじおん レジオン 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:head>
 ・ ・ ・ 特殊 1 記号 5 * 0 * 0 NIL <NE:OPTIONAL:middle>
-+ 2D <rel type="=" target="レジオンドヌール" sid="wiki00026215-00-02" id="0"/><体言>
-ドヌール どぬーる ドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 3D <rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><体言><NE:OPTIONAL:レジオン・ドヌール勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
-勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
++ 2D <rel type="=" target="レジオンドヌール" sid="wiki00026215-00-02" id="0"/>
+ドヌール どぬーる ドヌール 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 3D <rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><NE:OPTIONAL:レジオン・ドヌール勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
+勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="勲章" sid="wiki00026215-01" id="2"/><用言:動><時制:非過去><節-主辞><節-区切>
-表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ -1D <rel type="ガ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ニ" target="不特定:人"/><rel type="ト" target="勲章" sid="wiki00026215-01" id="2"/>
+表記 ひょうき 表記 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れる れる れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本形 2 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00026215-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/06/05 MEMO:
 * 1D
-+ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ト" target="勲章" sid="wiki00026215-02" id="4"/><rel type="ノ" target="勲章" sid="wiki00026215-00-01" id="1"/><体言><非用言格解析:動>
-和訳 わやく 和訳 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 4D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="ト" target="勲章" sid="wiki00026215-02" id="4"/><rel type="ノ" target="勲章" sid="wiki00026215-00-01" id="1"/>
+和訳 わやく 和訳 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * -1D
-+ 2D <rel type="=" target="ドヌール" sid="wiki00026215-01" id="1"/><体言><非用言格解析:形>
++ 2D <rel type="=" target="ドヌール" sid="wiki00026215-01" id="1"/>
 「 「 「 特殊 1 括弧始 3 * 0 * 0 NIL
-名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞><NE:OPTIONAL:head>
-+ 4D <rel type="=" target="レジオン" sid="wiki00026215-01" id="0"/><体言>
-軍団 ぐんだん 軍団 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ 4D <rel type="=≒" target="フランス" sid="wiki00026215-00-01" id="7"/><体言>
-国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:middle>
-+ -1D <rel type="ガ" target="和訳" sid="wiki00026215-02" id="0"/><rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="=構" mode="AND" target="和訳" sid="wiki00026215-02" id="0"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:OPTIONAL:名誉軍団国家勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
-勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:tail>
+名誉 めいよ 名誉だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <NE:OPTIONAL:head>
++ 4D <rel type="=" target="レジオン" sid="wiki00026215-01" id="0"/>
+軍団 ぐんだん 軍団 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ 4D <rel type="=≒" target="フランス" sid="wiki00026215-00-01" id="7"/>
+国家 こっか 国家 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:middle>
++ -1D <rel type="ガ" target="和訳" sid="wiki00026215-02" id="0"/><rel type="=" target="勲章" sid="wiki00026215-00-01" id="1"/><rel type="=構" mode="AND" target="和訳" sid="wiki00026215-02" id="0"/><memo text="CO"/><NE:OPTIONAL:名誉軍団国家勲章><NE-OPTIONAL:ARTIFACT,NONE:0>
+勲章 くんしょう 勲章 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:OPTIONAL:tail>
 」 」 」 特殊 1 括弧終 4 * 0 * 0 NIL
 など など など 助詞 9 副助詞 2 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL

@@ -1,90 +1,90 @@
 # S-ID:wiki00033840-00-01 括弧削除 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:30.00000 MOD:2025/05/01 MEMO:
 * 5D
-+ 1D <体言>
-ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 7D <体言><NE:ORGANIZATION:ペンシルベニア大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D
+ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 7D <NE:ORGANIZATION:ペンシルベニア大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 と と と 助詞 9 格助詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:LOCATION:アメリカ合衆国>
-アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 3D <NE:LOCATION:アメリカ合衆国>
+アメリカ合衆国 あめりかがっしゅうこく アメリカ合衆国 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00033840-00-01" id="2"/><rel type="=" target="ペンシルベニア" sid="wiki00033840-00-01" id="0"/><体言><NE:LOCATION:ペンシルベニア州>
-ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:head>
++ 4D <rel type="ノ？" target="アメリカ合衆国" sid="wiki00033840-00-01" id="2"/><rel type="=" target="ペンシルベニア" sid="wiki00033840-00-01" id="0"/><NE:LOCATION:ペンシルベニア州>
+ペンシルベニア ぺんしるべにあ ペンシルベニア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:head>
 州 しゅう 州 接尾辞 14 名詞性特殊接尾辞 4 * 0 * 0 NIL <NE:LOCATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 4D
-+ 5D <rel type="ノ？" target="ペンシルベニア州" sid="wiki00033840-00-01" id="3"/><体言><NE:LOCATION:フィラデルフィア>
-フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:LOCATION:single>
++ 5D <rel type="ノ？" target="ペンシルベニア州" sid="wiki00033840-00-01" id="3"/><NE:LOCATION:フィラデルフィア>
+フィラデルフィア ふぃらでるふぃあ フィラデルフィア 名詞 6 地名 4 * 0 * 0 NIL <NE:LOCATION:single>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 5D
-+ 7D <rel type="ガ" target="大学" sid="wiki00033840-00-01" id="7"/><rel type="ニ" target="フィラデルフィア" sid="wiki00033840-00-01" id="4"/><用言:動><時制:非過去><節-主辞>
-所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ガ" target="大学" sid="wiki00033840-00-01" id="7"/><rel type="ニ" target="フィラデルフィア" sid="wiki00033840-00-01" id="4"/>
+所在 しょざい 所在 名詞 6 普通名詞 1 * 0 * 0 NIL
 する する する 動詞 2 * 0 サ変動詞 16 基本形 2 NIL
 * -1D
-+ 7D <体言>
-私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ガ" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="修飾" target="私立" sid="wiki00033840-00-01" id="6"/><rel type="=構" target="大学" sid="wiki00033840-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D
+私立 しりつ 私立 名詞 6 普通名詞 1 * 0 * 0 NIL
++ -1D <rel type="ガ" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="修飾" target="私立" sid="wiki00033840-00-01" id="6"/><rel type="=構" target="大学" sid="wiki00033840-00-01" id="1"/><memo text="CO"/>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS
 # S-ID:wiki00033840-00-02 括弧始:（ 括弧終:） 括弧位置:9 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:0.00000 MOD:2025/05/01 MEMO:
 * 1P
-+ 1D <rel type="=" target="ペンシルベニア" sid="wiki00033840-00-01" id="0"/><体言>
-ペンシルバニア ぺんしるばにあ ペンシルバニア 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 6P <rel type="=" target="大学" sid="wiki00033840-00-01" id="1"/><体言><NE:ORGANIZATION:ペンシルバニア大学>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 1D <rel type="=" target="ペンシルベニア" sid="wiki00033840-00-01" id="0"/>
+ペンシルバニア ぺんしるばにあ ペンシルバニア 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 6P <rel type="=" target="大学" sid="wiki00033840-00-01" id="1"/><NE:ORGANIZATION:ペンシルバニア大学>
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ 6D <rel type="ノ" target="大学" sid="wiki00033840-00-01" id="1"/><体言><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
-英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-: : : 特殊 1 記号 5 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ノ" target="大学" sid="wiki00033840-00-01" id="1"/><NE:OPTIONAL:英><NE-OPTIONAL:LOCATION,NONE:0>
+英 えい 英 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
+: : : 特殊 1 記号 5 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 6D <体言>
-The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
++ 6D
+The The The 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:head>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 5D <体言>
-University University University 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
++ 5D
+University University University 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ 6D <体言>
-of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle><基本句-主辞>
++ 6D
+of of of 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL <NE:ORGANIZATION:middle>
-+ -1D <rel type="=" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="デ" target="英" sid="wiki00033840-00-02" id="2"/><体言><NE:ORGANIZATION:The　University　of　Pennsylvania>
-Pennsylvania Pennsylvania Pennsylvania 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail><基本句-主辞>
++ -1D <rel type="=" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="デ" target="英" sid="wiki00033840-00-02" id="2"/><NE:ORGANIZATION:The　University　of　Pennsylvania>
+Pennsylvania Pennsylvania Pennsylvania 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 EOS
 # S-ID:wiki00033840-01 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:10.00000 MOD:2025/05/01 MEMO:
 * 1D
-+ 1D <体言><NE:DATE:1740年>
-1740 せんななひゃくやくよんじゅう 1740 名詞 6 数詞 7 * 0 * 0 NIL <基本句-主辞><NE:DATE:head>
++ 1D <NE:DATE:1740年>
+1740 せんななひゃくやくよんじゅう 1740 名詞 6 数詞 7 * 0 * 0 NIL <NE:DATE:head>
 年 ねん 年 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <NE:DATE:tail>
 に に に 助詞 9 格助詞 1 * 0 * 0 NIL
 * 4P
-+ 7P <rel type="ガ" target="大学" sid="wiki00033840-00-02" id="1"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1740年" sid="wiki00033840-01" id="0"/><用言:動><節-主辞><節-区切>
-設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 7P <rel type="ガ" target="大学" sid="wiki00033840-00-02" id="1"/><rel type="ニ" target="不特定:人"/><rel type="時間" target="1740年" sid="wiki00033840-01" id="0"/>
+設立 せつりつ 設立 名詞 6 サ変名詞 2 * 0 * 0 NIL
 さ さ する 動詞 2 * 0 サ変動詞 16 未然形 3 NIL
 れ れ れる 接尾辞 14 動詞性接尾辞 7 母音動詞 1 基本連用形 8 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 3D
-+ 4D <rel type="=≒" target="アメリカ合衆国" sid="wiki00033840-00-01" id="2"/><memo text="カナダの大学も含まれるので"/><体言>
-アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:head>
-+ 4D <体言>
-大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:middle>
-+ 6D <体言><NE:ORGANIZATION:アメリカ大学協会>
-協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:tail>
++ 4D <rel type="=≒" target="アメリカ合衆国" sid="wiki00033840-00-01" id="2"/><memo text="カナダの大学も含まれるので"/>
+アメリカ あめりか アメリカ 名詞 6 地名 4 * 0 * 0 NIL <NE:ORGANIZATION:head>
++ 4D
+大学 だいがく 大学 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:middle>
++ 6D <NE:ORGANIZATION:アメリカ大学協会>
+協会 きょうかい 協会 名詞 6 普通名詞 1 * 0 * 0 NIL <NE:ORGANIZATION:tail>
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * 4D
-+ 6D <rel type="ガ" target="メンバー" sid="wiki00033840-01" id="6"/><rel type="ヲ" target="協会" sid="wiki00033840-01" id="4"/><体言><非用言格解析:動>
-創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ 7D <rel type="ノ" target="協会" sid="wiki00033840-01" id="4"/><rel type="修飾" target="創設" sid="wiki00033840-01" id="5"/><rel type="=≒" target="大学" sid="wiki00033840-00-01" id="1"/><体言>
-メンバー めんばー メンバー 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 6D <rel type="ガ" target="メンバー" sid="wiki00033840-01" id="6"/><rel type="ヲ" target="協会" sid="wiki00033840-01" id="4"/>
+創設 そうせつ 創設 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ 7D <rel type="ノ" target="協会" sid="wiki00033840-01" id="4"/><rel type="修飾" target="創設" sid="wiki00033840-01" id="5"/><rel type="=≒" target="大学" sid="wiki00033840-00-01" id="1"/>
+メンバー めんばー メンバー 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="大学" sid="wiki00033840-00-02" id="1"/><rel type="ノ" target="メンバー" sid="wiki00033840-01" id="6"/><rel type="=構" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="=構" mode="AND" target="メンバー" sid="wiki00033840-01" id="6"/><用言:判><体言><時制:非過去><節-主辞><節-区切>
++ -1D <rel type="ガ" target="大学" sid="wiki00033840-00-02" id="1"/><rel type="ノ" target="メンバー" sid="wiki00033840-01" id="6"/><rel type="=構" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="=構" mode="AND" target="メンバー" sid="wiki00033840-01" id="6"/>
 1 ひと 1 名詞 6 数詞 7 * 0 * 0 NIL
-つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL <基本句-主辞>
+つ つ つ 接尾辞 14 名詞性名詞助数辞 3 * 0 * 0 NIL
 で で だ 判定詞 4 * 0 判定詞 25 ダ列タ系連用テ形 12 NIL
 も も も 助詞 9 副助詞 2 * 0 * 0 NIL
 ある ある ある 接尾辞 14 動詞性接尾辞 7 子音動詞ラ行 10 基本形 2 NIL
@@ -92,15 +92,15 @@ EOS
 EOS
 # S-ID:wiki00033840-02 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2025/05/01 MEMO:
 * 2D
-+ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="ト" target="Penn" sid="wiki00033840-02" id="1"/><rel type="ト" mode="AND" target="UPenn" sid="wiki00033840-02" id="2"/><rel type="ノ" target="大学" sid="wiki00033840-00-01" id="1"/><体言><非用言格解析:動>
-略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
++ 2D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="大学" sid="wiki00033840-00-01" id="1"/><rel type="ト" target="Penn" sid="wiki00033840-02" id="1"/><rel type="ト" mode="AND" target="UPenn" sid="wiki00033840-02" id="2"/><rel type="ノ" target="大学" sid="wiki00033840-00-01" id="1"/>
+略称 りゃくしょう 略称 名詞 6 サ変名詞 2 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 * 2P
-+ 2P <rel type="=構" target="略称" sid="wiki00033840-02" id="0"/><rel type="=" mode="AND" target="大学" sid="wiki00033840-00-01" id="1"/><体言><NE:ORGANIZATION:Penn>
-Penn Penn Penn 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ 2P <rel type="=構" target="略称" sid="wiki00033840-02" id="0"/><rel type="=" mode="AND" target="大学" sid="wiki00033840-00-01" id="1"/><NE:ORGANIZATION:Penn>
+Penn Penn Penn 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * -1D
-+ -1D <rel type="ガ" target="略称" sid="wiki00033840-02" id="0"/><rel type="=構" target="略称" sid="wiki00033840-02" id="0"/><rel type="=" mode="AND" target="大学" sid="wiki00033840-00-01" id="1"/><memo text="CO"/><用言:判><体言><時制:非過去><節-主辞><節-区切><NE:ORGANIZATION:UPenn>
-UPenn UPenn UPenn 名詞 6 組織名 6 * 0 * 0 NIL <基本句-主辞><NE:ORGANIZATION:single>
++ -1D <rel type="ガ" target="略称" sid="wiki00033840-02" id="0"/><rel type="=構" target="略称" sid="wiki00033840-02" id="0"/><rel type="=" mode="AND" target="大学" sid="wiki00033840-00-01" id="1"/><memo text="CO"/><NE:ORGANIZATION:UPenn>
+UPenn UPenn UPenn 名詞 6 組織名 6 * 0 * 0 NIL <NE:ORGANIZATION:single>
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

@@ -1,34 +1,34 @@
 # S-ID:wiki00053123-00 KNP:5.0-6a1f607d DATE:2022/04/27 SCORE:50.00000 MOD:2024/03/05 MEMO:
 * 2D
-+ 1D <体言>
-マイスター まいすたー マイスター 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 1D
+マイスター まいすたー マイスター 名詞 6 普通名詞 1 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
 　 　 　 特殊 1 空白 6 * 0 * 0 NIL
-+ 10D <rel type="ノ" target="マイスター" sid="wiki00053123-00" id="0"/><体言>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 10D <rel type="ノ" target="マイスター" sid="wiki00053123-00" id="0"/>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 は は は 助詞 9 副助詞 2 * 0 * 0 NIL
 、 、 、 特殊 1 読点 2 * 0 * 0 NIL
 * 2D
-+ 3D <体言><NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,MONEY,NONE:0>
-ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <基本句-主辞><NE:OPTIONAL:single>
-+ 4D <rel type="ノ？" target="ドイツ" sid="wiki00053123-00" id="2"/><体言>
-語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ノ" target="語" sid="wiki00053123-00" id="3"/><体言>
-圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 3D <NE:OPTIONAL:ドイツ><NE-OPTIONAL:LOCATION,MONEY,NONE:0>
+ドイツ どいつ ドイツ 名詞 6 地名 4 * 0 * 0 NIL <NE:OPTIONAL:single>
++ 4D <rel type="ノ？" target="ドイツ" sid="wiki00053123-00" id="2"/>
+語 ご 語 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ノ" target="語" sid="wiki00053123-00" id="3"/>
+圏 けん 圏 名詞 6 普通名詞 1 * 0 * 0 NIL
 の の の 助詞 9 接続助詞 3 * 0 * 0 NIL
 * -1D
-+ 7D <rel type="ガ" target="能力" sid="wiki00053123-00" id="7"/><memo text="高等のかかり先　能力？資格？"/><体言><非用言格解析:形>
-高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL <基本句-主辞>
-+ 7D <体言>
-職業 しょくぎょう 職業 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 8D <rel type="ニカンシテ" target="職業" sid="wiki00053123-00" id="6"/><rel type="修飾" target="高等" sid="wiki00053123-00" id="5"/><体言>
-能力 のうりょく 能力 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 9D <rel type="ニカンシテ" target="能力" sid="wiki00053123-00" id="7"/><体言>
-資格 しかく 資格 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
-+ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資格" sid="wiki00053123-00" id="8"/><rel type="外の関係" target="制度" sid="wiki00053123-00" id="10"/><体言><非用言格解析:動>
-認定 にんてい 認定 名詞 6 サ変名詞 2 * 0 * 0 NIL <基本句-主辞>
-+ -1D <rel type="ノ" target="認定" sid="wiki00053123-00" id="9"/><rel type="ガ" target="制度" sid="wiki00053123-00" id="1"/><rel type="ノ？" target="圏" sid="wiki00053123-00" id="4"/><rel type="=構" target="制度" sid="wiki00053123-00" id="1"/><体言><節-主辞><節-区切><時制:非過去><用言:判>
-制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL <基本句-主辞>
++ 7D <rel type="ガ" target="能力" sid="wiki00053123-00" id="7"/><memo text="高等のかかり先　能力？資格？"/>
+高等 こうとう 高等だ 形容詞 3 * 0 ナ形容詞 21 語幹 1 NIL
++ 7D
+職業 しょくぎょう 職業 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 8D <rel type="ニカンシテ" target="職業" sid="wiki00053123-00" id="6"/><rel type="修飾" target="高等" sid="wiki00053123-00" id="5"/>
+能力 のうりょく 能力 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 9D <rel type="ニカンシテ" target="能力" sid="wiki00053123-00" id="7"/>
+資格 しかく 資格 名詞 6 普通名詞 1 * 0 * 0 NIL
++ 10D <rel type="ガ" target="不特定:人"/><rel type="ヲ" target="資格" sid="wiki00053123-00" id="8"/><rel type="外の関係" target="制度" sid="wiki00053123-00" id="10"/>
+認定 にんてい 認定 名詞 6 サ変名詞 2 * 0 * 0 NIL
++ -1D <rel type="ノ" target="認定" sid="wiki00053123-00" id="9"/><rel type="ガ" target="制度" sid="wiki00053123-00" id="1"/><rel type="ノ？" target="圏" sid="wiki00053123-00" id="4"/><rel type="=構" target="制度" sid="wiki00053123-00" id="1"/>
+制度 せいど 制度 名詞 6 普通名詞 1 * 0 * 0 NIL
 である である だ 判定詞 4 * 0 判定詞 25 デアル列基本形 15 NIL
 。 。 。 特殊 1 句点 1 * 0 * 0 NIL
 EOS

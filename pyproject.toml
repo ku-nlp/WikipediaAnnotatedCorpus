@@ -1,6 +1,6 @@
 [project]
 name = "WikipediaAnnotatedCorpus"
-version = "1.4.0"
+version = "1.5.1"
 description = ""
 authors = [
   {name = "Nobuhiro Ueda", email = "ueda-n127@hotmail.co.jp"},
@@ -9,7 +9,7 @@ maintainers = [
   {name = "Nobuhiro Ueda", email = "ueda-n127@hotmail.co.jp"},
 ]
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.12"
 dependencies = [
     "rhoknp>=1.5.1",
     "tabulate>=0.9.0"
@@ -25,13 +25,13 @@ dev = [
 package = false
 
 [tool.mypy]
-python_version = "3.10"
+python_version = "3.12"
 
 [tool.ruff]
 line-length = 120
 indent-width = 4
 src = ["scripts"]
-target-version = "py310"
+target-version = "py312"
 
 [tool.ruff.lint]
 select = ["ALL"]
